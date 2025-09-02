@@ -1,0 +1,2071 @@
+# Attribut a
+
+## Vereinigtes Register internationaler Märchenindices
+
+Das Register umfasst die Indices, die bisher in der Praxis zur Katalogisierung von Märchen eingesetzt wurden.
+
+Die Indizierung erfolgt zunächst nach dem Typenkatalog der internationalen Märchen (**ATU = The Types of International Folktales: A Classification and Bibliography. Based on the System of Antti Aarne and Stith Thompson. By Hans-Jörg Uther. FF Communication Nr. 284. Helsinki 2004**).
+
+Bei der Erfassung der Texte gemäß diesem Katalog wird nur die Typnummer verwendet; das Zeichen **a** vor der Typnummer kennzeichnet das entsprechende Attribut. Beispiel: `a301 = ATU 301 – Die drei geraubten Prinzessinnen`.
+
+Falls eine passende Nummer im ATU-Katalog fehlt, werden andere Kataloge herangezogen:
+
+- **aMIT**: Motivkatalog von Stith Thompson (*Motif-Index of Folk-Literature*).
+- **aE**: Liste von Epos-Werken der Weltliteratur, mit Nummer des Werkes.
+- **anh**: Register humoristischer Geschichten von Mulla Nasreddin. Falls der Text auch eine ATU- oder MIT-Nummer hat, wird diese bevorzugt verwendet.
+
+Neben den Bezeichnungen finden sich im Register auch Kommentare, die hier *kursiv* markiert sind.
+
+## Liste der Indices
+
+- N Nullwert (0) — *Nullwert. Noch nicht annotierte Eigenschaft.*
+- aEu Epos: unklar welches
+- aE1 Epos: Der Recke im Tigerfell — *Nationalepos Georgiens, 12. Jahrhundert*
+- aE2 Epos: Rostam(Schāhnāme) — *Herkunft und Jugend: Rostam ist der Sohn des Helden Zāl und der Fürstin Rudabeh. Schon bei seiner Geburt zeigt sich seine übermenschliche Kraft. Er wächst in Sistan auf und wird früh zu einem unbesiegbaren Kämpfer. 
+Die „Sieben Abenteuer“: Um den König Kai Kavus aus den Händen von Dämonen zu befreien, muss Rostam sieben Prüfungen bestehen. Er besiegt wilde Tiere, überwindet Zauber und kämpft gegen den mächtigen weißen Dämon (Div-e Sefid), den er schließlich tötet. Damit wird er zum Retter Persiens. 
+Weitere Heldentaten: Rostam kämpft in vielen Schlachten gegen Turan, den Erzfeind Persiens. Er verteidigt wiederholt das Reich und ist für seine Tapferkeit, aber auch für seine Klugheit bekannt. Er trägt oft seine Rüstung und reitet auf dem treuen Ross Rakhsh, das er selbst großgezogen hat.
+Tragische Schicksale: Rostam zeugt unwissentlich einen Sohn. Ohne von seiner Abstammung zu wissen, wächst Sohrab zu einem mächtigen Krieger heran und wird Heerführer der feindlichen Turanier. Als er gegen Persien zieht, trifft er im Kampf auf Rostam. Vater und Sohn erkennen einander nicht. Es kommt zu einem gewaltigen Zweikampf, in dem Rostam Sohrab tödlich verwundet. Erst danach erfährt Sohrab die Wahrheit über seine Herkunft. Verzweifelt bittet Rostam um Heilung für seinen Sohn, doch es ist zu spät – Sohrab stirbt, und Rostam bleibt voller Schuld und Trauer zurück.In der bekanntesten Episode tötet Rostam unwissentlich seinen eigenen Sohn Sohrab, den er bei Tahmineh gezeugt hatte.
+Später erschlägt er auch seinen Halbbruder Schaghad, der ihn durch Verrat in eine tödliche Falle lockt. Dabei wird Rostam selbst schwer verwundet und stirbt.*
+- aE3 Epos: Shah Ismayil (Dastan) — *Der Schah, der seinen Sohn Ismayil auf wundersame Weise zur Welt bringen ließ, hielt ihn verborgen an einem besonderen Ort. Während der Jagd traf Schah Ismail ein Mädchen namens Gulzar und verliebte sich in sie. Nach langen Abenteuern brachte er Gulzar zum Anwesen seines Vaters. Der Schah, der Gulzar beherrschen wollte, blendete seinen Sohn Ismail. Doch Ismail erholte sich, rächte sich an seinem Vater, kam an die Macht und traf seine geliebte Gulzar wieder. (Wikipedia)*
+- fEn Endformel
+- fAn Anfangsformel
+- fIn Innenformel
+- aU ATU Typ: unklar welcher — *Der betroffene Inhalt lässt sich nicht nach bekannten Typen definieren.*
+- a1 Fischdiebstahl
+- a2 Schwanzfischer
+- a3 Vorgetäuschte Verletzung
+- a4 Kranke trägt den Gesunden
+- a5 Biß in die Wurzel
+- a6 Überreden zum Sprechen
+- a7 Drei Namen sagen
+- a8 Schönheitskur
+- a9 Der unreelle Partner
+- a9A Tausch von Pseudotätigkeiten
+- a15 Der Fuchs als Pate
+- a20A Tiere fressen einander
+- a21 Die eigenen Eingeweide fressen
+- a30 Rettung aus dem Brunnen
+- a31 Rettung aus dem Brunnen
+- a32 Rettung aus dem Brunnen
+- a33 Rettung aus dem Brunnen
+- a34 Spiegelbild im Wasser
+- a34A Hund verliert das Fleisch
+- a35B* The Fox Gest Bait from Trap by Luring Wolf into it
+- a36 Fuchs vergewaltigt die Bärin
+- a37 Fuchs als Kindermagd
+- a38 Einklemmen unholder Wesen
+- a41 Wolf im Keller
+- a43 Hausbau der Tiere
+- a44 Eid aufs Eisen
+- a47A Fuchs (Bär am Pferdeschwanz
+- a47B Das Pferd tritt den Wolf
+- a47D Hund imitiert den Wolf
+- a47E Esels Urkunde
+- a50 Der kranke Löwe
+- a51 Löwenanteil
+- a52 Eselherzfabel
+- a55 Tiere bauen einen Weg
+- a56A Fuchs und Vogeljunge
+- a56B The Fox as Schoolarmaster
+- a57 Rabe und Käse
+- a59 Fuchs und saure Trauben
+- a60 Fuchs und Kranich
+- a61 Fuchs und Hahn
+- a61A Fuchs als Beichtvater
+- a61B Katze Hahn und Füchsin
+- a62 Friedensfabel
+- a63 Fuchs und Flöhe
+- a64 Schwanzlose Tiere
+- a65 Freier der Frau Füchsin
+- a66A Hallo Haus!
+- a68A Kopf in der Kanne
+- a70 Hasen und Frösche
+- a71 Frost und Hase
+- a72 Kranke trägt den Gesunden
+- a73 Wache blenden
+- a75 Hilfe des Schwachen
+- a75* Wolf und Amme
+- a76 Wolf und Kranich
+- a77 Die eitlen Tiere
+- a78 Tiere aneinander gebunden
+- a80 Igel im Dachsbau
+- a85 Maus Vogel und Bratwurst
+- a91 Affenherz als Heilmittel
+- a93 Worte des Herrn sind ernstzunehmen
+- a100 Der alte Hund
+- a102 Hund als Schuhmacher
+- a103 Krieg der Tiere
+- a103 Krieg der Tiere
+- a105 Listensack des Fuchses
+- a106 Unterhaltung der Tiere
+- a110 Katze mit der Schelle
+- a111A Wolf und Lamm
+- a112 Feldmaus und Stadtmaus
+- a118 Pferd erschreckt den Löwen
+- a120 Sonnenaufgang zuerst sehen
+- a121 Wolfsturm
+- a122D Wolf verliert seine Beute
+- a122M* Der Steinbock läuft in den Magen des Wolfs hinein
+- a123 Der Wolf und die jungen Ziegen
+- a123B Wolf im Schafspelz
+- a124 Wolf im Schornstein
+- a125 Kinder begehren das Fleisch des Unholds
+- a126 Schaf verjagt den Wolf
+- a130 Tiere auf Wanderschaft
+- a133* The Goat Carries the Snake over Stream
+- a150 Die drei Lehren des Vogels
+- a153 Starkmachen
+- a154 Fuchs und Glieder
+- a155 Die undankbare Schlange kehrt in die Gefangenschaft zurueck
+- a156 Androklus und der Löwe
+- a156C* Rettung aus dem Brunnen
+- a157 Tiere lernen Furcht vor den Menschen
+- a158 Tiere auf dem Schlitten
+- a159 Lösegeld der Tiere
+- a159B Feindschaft zwischen Tieren und Mensch
+- a160 Dankbare Tiere, undakbarer Mann
+- a161 Augenwinken
+- a162 Herr sieht mehr als der Knecht
+- a165 Der Wolf wird rückfällig
+- a168 Musikant in der Wolfsgrube
+- a170 Der vorteilhafte Tausch
+- a173 Lebenszeiten des Menschen
+- a175 Teerpuppe
+- a177 Dieb und Tiger
+- a179 Was der Bär dem sich Totstellenden ins Ohr flüstert
+- a200 Privileg der Hunde
+- a200B Warum Hunde einander beriechen
+- a201 Der freie Wolf (Hund)
+- a202 Böcke auf der Brücke
+- a204 Tiere auf Seereise
+- a207 Aufstand der Arbeitstiere
+- a207A Aufstand der Arbeitstiere
+- a207B Aufstand der Arbeitstiere
+- a207C Glocke der Gerechtigkeit
+- a211 Die Last des Esels
+- a212 Die boshafte Ziege
+- a214 Esel will den Herrn liebkosen
+- a214* Esel und Pferd
+- a214B Esel in der Löwenhaut
+- a217 Katze und Kerze
+- a220 Parlament der Vögel
+- a222 Krieg der flugfähigen Tiere gegen die Vierbeiner
+- a222B* Sperling und Maus
+- a225 Fliegen lernen
+- a227 Fuchs und Gänse
+- a231 Kranich und Fische
+- a233A B Vögel und Netz
+- a234 Blindschleiche und Nachtigall
+- a235 Tiere borgen voneinander
+- a236 Nestbau der Vögel
+- a237 Elster (Papagei und Sau)
+- a238 Taube und Frosch streiten
+- a240 Eiertausch der Vögel
+- a242 Frosch und Krähe
+- a243A Ehebruch verraten
+- a244C* Rabe und seine Jungen
+- a248 Hund und Sperling
+- a250 Wettschwimmen der Fische
+- a250A Flunder
+- a275 Wettlauf der Tiere
+- a276 Krebs und seine Jungen
+- a277 Frösche bitten um einen König
+- a277A Der aufgeblasene Frosch
+- a278A Der starrköpfige Frosch
+- a280A Grille und Ameise
+- a282A* Fliege und Floh tauschen
+- a282C* Laus und Floh
+- a285 Kind und Schlange
+- a285D Feindschaft zwischen Tieren und Mensch — *(1) Ein armer Mann findet in seinem Haus (Feld) eine — Schlange; er stellt ihr eine Schale Milch hin; die Schlange trinkt sie aus und hinterläßt eine Goldmünze. Der Mann bringt der Schlange weiterhin täglich Milch und wird reich. (2) Der Sohn des Mannes sucht die Schlange zu töten und sich so statt des einen täglichen Goldstücks den vermuteten Schatz auf einmal zu verschaffen. Sein Schlag mit einer Axt (Knüppel) tötet aber die Schlange nicht. (3) Die Schlange beißt den Jungen, und er stirbt. (4) Der um die Wiederherstellung seines Wohlstands bemühte Vater bittet die Schlange um Versöhnung, sie lehnt jedoch ab, da er stets an den Tod seines Sohnes und sie an den Anschlag auf ihr Leben denken würde (EM).*
+- a288B* Eile mit Weile
+- a291 Seilziehen der Tiere
+- a293 Magen und Glieder
+- a295 Strohhalm Kohle und Bohne
+- a296 Irdene und eherne Töpfe
+- a298 Streit zwischen Sonne und Wind
+- a298A Frost und Sohn
+- a298A* Gruß an den Wind
+- a298C* Baum und Rohr
+- a300 Der Drachentöter — *Ein junger Mann gelangt in eine Stadt, in deren Brunnen ein Drache haust. Der Drache gibt jeweils nur für den Preis einer jungen Frau Wasser her. Der Held tötet den Drachen und befreit die Königstochter, die dem Drachen geopfert werden sollte. Die Heldentat des jungen Mannes wird erkannt. Er wird belohnt.*
+- a300A The Fight on the Bridge
+- a301 Die drei geraubten Prinzessinnen — *Der Held unternimmt eine Fahrt in die Unterwelt, besiegt dort ein Ungeheuer und befreit eine junge Frau aus der Gefangenschaft des Ungeheuers. Er wird von seinen Gefährten verraten und zurückgelassen, gelangt dennoch auf die Erde zurück und am Hochzeitstag der Prinzessin werden die Übel-täter bestraft.*
+- a302 Herz des Unholds im Ei — *Als ein homogener Erzählkomplex tritt dieser Typ meist in Gestalt einer Episode und seltener als selbständiges Märchen auf. Der allgemeine Kern für beide Einheiten (Episode und Märchentext) ist das versteckte Herz (die Seele, das Leben) eines übernatürlichen Wesens und der Versuch des Helden, es zu vernichten.*
+- a302B Life Dependet on a Sword — *Eine Frau, von deren Schönheit Kunde zu einem Herrscher dringt, wird gegen ihren Willen entführt und zum Herrscher gegeben. Ein durch Verlust seines Lebensamuletts entmachteter und von seinen Freunden wieder zum Leben gebrachter Held gewinnt die Frau zurück.*
+- a302C* The Magic Horse
+- a303 Die zwei Brüder — *Der Kern des Typs ist die äußere Ähnlichkeit zwischen zwei Brüdern. Dieser Kern entwickelt sich in folgender Motivreihe: Trennung der Brüder – ihr verschiedener Familienstand (verheiratet, unverheiratet) – Hilferuf des in Not geratenen verheirateten Bruders – Reaktion auf die Herausforderung – in der Nacht vertauschter Ehemann – Symbolum castitatis – Rettung – Eifersucht – Unschuldsbeweise.*
+- a303A Brüder suchen Schwestern
+- a304 Der gelernte Jäger
+- a305 Drachenblut als Heilmittel
+- a306 Die zertanzten Schuhe
+- a307 Prinzessin im Sarg
+- a310 Jungfrau im Turm
+- a311 Maedchenmoerder
+- a312 Maedchenmoerder
+- a312D Erbsensohn
+- a313 Magische Flucht — *Unter Todesandrohung flieht Liebespaar oder Jüngling vor unheiligen Wesen und rettet sich durch Verwandlung oder durch hinter sich geworfene Gegenstände.*
+- a314 Goldener — *Ein goldhaariger junger Mann mit einem Zauberpferd tritt bei einem Königshof als Tagelöhner in den Dienst. Die jüngste Prinzessin sieht zufällig seine verborgene Schönheit und heiratet den Jüngling. Der unscheinbare Jüngling wird nach Heldentaten anerkannt. Als Heldentat kann der Held allein gegen das feindliche Heer kämpfen, oder Heilmitel beschaffen. Durch die letzte Heldentat ähnelt der Typ der Geschichte 551 Das Wasser des Lebens. Unterschied liegt daran, dass in 314 die Schwippschweger gegen das Mittel sich brandmarken lassen.*
+- a314A Hirt und die drei Riesen
+- a315 Die treulose Schwester
+- a315A Die menschenfressende Schwester — *Der Bruder entfernt sich von seiner menschenfressenden Schwester. Als er zurückkehrt, versucht die Schwester, ihn zu fressen. Er rettet sich, indem er auf einen Baum klettert. Herbeigerufene Hunde fressen die Schwester, der Bruder nimmt ein Tröpfchen Blut von der Schwester, das ihn reich macht.*
+- a316 Nixe im Teich
+- a317 Der himmelhohe Baum
+- a318 Das aegyptische Brüdermaerchen
+- a321 Augen der Blinden zurueckgebracht
+- a325 Zauberer und Schueler
+- a326 Fuerchten lernen
+- a327 Die Kinder und der Unhold
+- a327A Haensel und Gretel
+- a327B Daeumling und Menschenfresser
+- a327C Junge im Sack der Hexe
+- a327F Hexe und Fischerjunge
+- a328 Corvetto
+- a329 Versteckwette
+- a330 Schmied und Teufel
+- a331 Geist im Glas
+- a332 Gevatter Tod — *(1) Ein kinderreicher Armer begegnet auf der Suche nach einem Paten für seinen neugeborenen Sohn nacheinander Gott, Teufel (Heiligem) und  Tod ; er erwählt den Tod, weil nur dieser sich allen Mensehen gegenüber gerecht verhalte. (2) Als Taufgeschenk erhält der Vater (Sohn) die Gabe, die Überlebenschancen eines Kranken zu bestimmen, indem sich ihm der Tod am Kopf- oder Fußende des Bettes zeigt; dies bringt ihm ärztlichen Ruhm und Reichtum ein. (3.1) In einem bes. gewinnversprechenden Fall hält sich der Arzt nicht an die Abmachung: Er kehrt das Bett um und erreicht so die Heilung des Todgeweihten; (3.2) in der ihm selbst angekündigten Sterbestunde versucht er dem Tod zu entgehen, indem er das ihm gewährte letzte Vaterunser nicht zu Ende betet (AaTh 1199: Gebet ohne Ende). (4.1) Der Tod zeigt ihm in einer Lichterhöhle sein beinahe abgebranntes Lebenslicht und löscht es kurzerhand aus; (4.2) er bringt ihn mit List dazu, das Amen auszusprechen (EM).*
+- a333 Rotkaeppchen
+- a334 Haushalt der Hexe
+- a335 Boten des Todes
+- a360 Handel mit dem Teufel
+- a361 Bärenhäuter
+- a363 Vampir
+- a365 Lenore
+- a366 Mann vom Galgen
+- a400 Mann auf der Suche nach der verlorenen Frau
+- a400* Schwanjungfrau
+- a401 Prinzessin als Hirschkuh
+- a402 Maus als Braut
+- a403 Die schwarze und die weisse Braut — *Der Kern des Typs basiert auf der Vertauschung einer weißen (schönen) und schwarzen (hässlichen) Braut und der Entlarvung der Übeltäter.*
+- a404 Die geblendete Braut — *Die mit Rosenlachen und Perlenweinen begabte junge Frau wird auf dem Weg zum Bräutigam geblendet und ins Wasser gestoßen. Sie wird gefunden und gerettet. Mit ihren Wundergaben kauft sie die Augen zurück. Der König findet die richtige Braut, die Betrügerin wird bestraft.*
+- a405 Jorinde und Joringel
+- a407 Blumenmaedchen
+- a408 Die drei Orangen
+- a409 Wolfsmädchen
+- a410 Schlafende Schönheit
+- a425 Amor und Psyche
+- a425A Das Ungeheuer (Tier) als Bräutigam
+- a425B Der Sohn der Hexe
+- a426 Mädchen und Bär
+- a428 Prinz als Wolf
+- a431 Haus im Walde
+- a432 Prinz als Vogel
+- a433B Koenig Lindwurm
+- a434 Der gestohlene Spiegel
+- a434* Taucher
+- a440 Froschkoenig
+- a441 Hans mein Igel
+- a449 Sidi Numan — *Ein erjagtes Tier erwacht wieder zum Leben und sagt dem überraschten Jäger, dass er noch Unglaublicheres von einem anderen Jäger hören könne. Die Geschichte lautet, dass eine treulose Frau ihren Mann, der ihr und ihrem Liebhaber heimlich folgt, in verschiedene Tiere verwandelt. Endlich findet der Mann eine Zauberrute, wird Mensch und verwandelt die Frau und ihren Liebhaber in Esel.*
+- a450 Brüderchen und Schwesterchen
+- a451 Maedchen sucht seine Brüder
+- a460A Reise zu Gott
+- a461 Drei Haare vom Bart des Teufels
+- a465 Mann wird wegen seiner schoenen Frau verfolgt — *Der Held heiratet eine Frau mit übernatürlicher Fähigkeit. Ein König beneidet ihn um seine schöne Frau, und um sie in seinen Besitz zu bringen, denkt er sich schwere Aufgaben aus. Der Held löst diese Aufgaben mit Hilfe seiner Frau. Meistens führt die letzte Aufgabe zur Vernichtung des Königs.*
+- a467Kau Die drei Zauberinnenschwestern — *Ein mit Räubern befreundeter Jüngling bekommt von einem wunderbaren Wesen einen golderzeugenden Becher. Ein Kaufmann gibt vor, dass der Becher ihm gehöre. Der Jüngling lässt seinen Freund als Pfand beim König zurück und macht sich auf die Suche nach einem anderen Becher. Unterwegs bekommt er noch andere Zauberdinge von wunderbaren Wesen. Endlich trifft er in einem geheimnisvollen Haus drei Schwestern, die Zauberinnen sind und die einander von den Heldentaten des Jünglings erzählen. Der Jüngling heiratet die jüngste Schwester, bringt das gesuchte Objekt zum König, befreit seine Freunde und bestraft den Lügner.*
+- a461 Der himmelshohe Baum
+- a468
+- a470 Freunde in Leben und Tod
+- a470A Don Juan
+- a470B Land der Unsterblichkeit
+- a471 Brücke zur anderen Welt
+- a471A Mönch und Vöglein
+- a475 Höllenheizer
+- a480 Das gute und das schlechte Maedchen
+- a500 Name des Unholds
+- a501 Die drei Spinnfrauen — *Eine Mutter schlägt ihre schöne Tochter, da diese sich weigert zu spinnen. Einem vorbeikommenden Königssohn (König, Königin, vornehmen Herrn) gegenüber behauptet sie (seltener Vater, Tochter selbst) das Gegenteil: sie könne ihre Tochter nicht vom Spinnen abbringen. Daraufhin will er die Tochter heiraten. Als Probe muß sie vor der Hochzeit innerhalb von drei Tagen eine große Menge Flachs zu Garn spinnen. Drei häßliche alte Frauen, von denen jede eine starke Entstellung aufweist (überdimensional lange Nase, breiter Daumen, hängende Lippen, dicker Hintern etc.)2, helfen ihr (in jeder Nacht eine andere3) gegen das Versprechen, sie als angebliche Verwandte zur Hochzeit einzuladen. Bei der Hochzeit wird dem Bräutigam erklärt, die monströse Häßlichkeit der Helferinnen komme vom Spinnen; er untersagt daraufhin seiner Braut diese Arbeit für immer.*
+- a502 Der wilde Mann
+- a503 Gaben des kleinen Volkes
+- a505 Dankbarer Toter
+- a507 Die Braut des Ungeheuers
+- a510A Cinderella — *Die (Stief-)Tochter C. wird von ihrer Mutter oder den Schwestern schlecht behandelt. Ein hilfreiches Tier (meist Kuh) versorgt sie mit Nahrung und Geschenken. Als die Geschwister das Geheimnis lösen, läßt ihre Mutter das Tier schlachten. Beim Waschen der Innereien entdeckt C. wertvolle Gegenstände, oder aber sie begräbt ihren toten Helfer bzw. Teile von ihm. Auf dem Grab findet sie feine Kleider. Als der Prinz ein Fest veranstaltet, versucht die Stiefmutter, die mit niederen Verrichtungen betraute C. an der Teilnahme zu hindern, indem sie ihr für den Zeitraum unlösbare —» Aufgaben stellt, so etwa das Auslesen einer großen Menge von Linsen oder Getreide. Hilfreiche Tiere ermöglichen dennoch den Besuch des Festes, wo C. (durch die unvergleichlichen Kleider vom Grab) dem Prinzen auffällt, der sich in sie verliebt. Sie besucht das Fest (meist dreimal) und geht jeweils unbemerkt, verliert aber zum Schluß einen ihrer Schuhe oder hinterläßt die in den Innereien gefundenen Gegenstände. Der Prinz versucht, durch die Objekte unter der Bevölkerung ihre Besitzerin zu identifizieren. Sprechende Tiere verraten ihm den Aufenthalt der von der Familie versteckten C. Das Märchen endet mit Heirat und zuweilen der Bestrafung von Stiefmutter und -schwestern.*
+- a511 Einäuglein, Zweiäuglein, Dreiäuglein — *Eine Waise muß eine Kuh (Ziege/Schaf) hüten. Die  Stiefmutter gibt ihr entweder nichts zu essen und/oder verlangt, daß sie beim Hüten große Mengen an Flachs oder Wolle verspinnt. Dem weinenden Mädchen erscheint ein übernatürliches Wesen (Fee, kleines Männchen oder, vornehmlich in rom. Ländern, die Jungfrau Maria), lehrt es einen Zauberspruch oder rät, an Horn oder Huf des Tieres zu schlagen. Manchmal spendet das Tier daraus Nahrung oder läßt einen gedeckten Tisch erscheinen. In den Versionen mit dem Spinn-Motiv rät die Kuh (oft in gereimter Form), Flachs an eines ihrer Ohren zu halten und aus dem anderen das fertige Produkt zu ziehen. Da das Mädchen das Spinnen schafft und nichts ißt, wird die Stiefmutter argwöhnisch und schickt ihre eigenen Kinder zum Spionieren mit oder folgt der Waise heimlich. Häufig haben die Stiefgeschwister unnatürlich viele Augen, welche die Heldin durch Zauberspruch schließt, um unbeobachtet essen oder spinnen zu können. Durch falsches Aufsagen des Zauberspruches beschwört sie ein überzähliges Auge nicht, und die Herkunft der Zaubergaben wird entdeckt. Die Stiefmutter verlangt die Tötung des helfenden Tiers, und dieses rät vor seinem Tod, bestimmte Teile (Hörner, Hufe, Eingeweide) zu vergraben oder seine Eingeweide zu waschen. Beim Waschen fällt ein Gegenstand (Körner, Apfel) heraus, aus dem wie aus den vergrabenen Körperteilen ein Wunderbaum wächst. Sind die Helden ein Geschwisterpaar, endet das Märchen damit, daß der Baum ihnen für immer Nahrung gibt. Sonst wird ein reicher Mann durch den Wunderbaum angelockt, die Heldin besteht - im Gegensatz zu ihren Stiefschwestern - die Heiratsprobe, die Früchte zu pflücken, und heiratet den reichen Mann. Oft folgt der Baum ihr nach. Stiefmutter und -schwestern werden bestraft.*
+- a513A Sechse kommen durch die Welt
+- a513B Schiff zu Wasser und zu Lande
+- a513C Sohn des Jägers
+- a514 Geschlechtswechsel
+- a514** Frau in Männerkleidung
+- a516 Der treue Johannes — *Der Typ wird durch folgende Episoden konstituiert: Werben um die Frau – Belauschen der Schicksalskünder – Vermeidung der Gefahr – Versteinerung – Belebung durch Tötung der Kinder.*
+- a516C Amicus und Amelius
+- a517 Prophezeiung kuenftiger Hoheit — *Ein Junge wird von seinem Vater zu einem Lehrer geschickt, um die Sprache der Vögel zu erlernen. Die Vögel prophezeien ihm, dass der Vater ihm einst Wasser zum Händewaschen reichen und die Mutter das Handtuch bringen werde – also dass ihn die Eltern einst bedienen würden. Als der Junge diese Prophezeiung auf Drängen des Vaters preisgibt, wird dieser zornig und setzt ihn am Meer aus. Der Junge wird gerettet und erfährt von einem König, der demjenigen, der ihn von drei lästigen Raben befreit, das halbe Reich und seine Tochter verspricht. Dank seiner Vogelsprachkenntnisse gelingt ihm dies, und er erhält Lohn und Braut. Später trifft er seine verarmten Eltern wieder, die ihn nicht erkennen und ihm aus Dankbarkeit die Füße waschen. Damit erfüllt sich die Prophezeiung, und es kommt zur  Versöhnung.*
+- a518 Streit um Zaubergegenstände
+- a519 Heldenjungfrau
+- a530 Prinzessin auf dem Glasberg — *Erwerb von Zauberpferden während einer Wache; Gewinnen der Freierprobe in Form eines Rittes; Erkennen des unscheinbaren Helden.*
+- a531 Sohn des Jägers/Ferdinand der treue... — *1. Der Held, sein Pate, das Pferd und der glänzende Gegenstand: Ein Junge wird bei armen Eltern geboren. Niemand will Pate sein, bis ein Unbekannter (König, Gott, Maria oder Fee) sich anbietet. Alternativ ist der Held der uneheliche Sohn eines Königs. Der Pate kehrt zurück, um das Kind zu holen, oder gibt ihm einen Brief mit. Der Held reitet auf einem Pferd, das ihm sein Vater oder Pate gab. Das Pferd spricht und warnt ihn, doch der Held nimmt einen glänzenden Gegenstand (z. B. eine goldene Feder) auf. 2. Der untreue Begleiter (Rollentausch): Der Held wird von einem Gefährten begleitet, der ihn zwingt, die Rollen zu tauschen, und er muss Stillschweigen schwören. Am Königshof arbeitet der Held als Diener und sorgt für die Pferde, während sein glänzender Gegenstand Licht bringt. 3. Die dankbaren Tiere: Der Held hilft auf seinem Weg verschiedenen Tieren, die ihm später bei den Aufgaben des Königs beistehen. 4. Die Aufgaben: Neidische Berater oder Brüder überreden den König, dem Helden schwierige Aufgaben aufzutragen, wie z. B. das Finden eines Vogels, der zu einer goldenen Feder gehört, oder das Bringen einer goldhaarigen Prinzessin. Der Held löst diese Aufgaben dank seines Reittiers und der dankbaren Tiere. Er besiegt andere Pferde, erhält Schiffe beladen mit Nahrungsmitteln und entführt die Prinzessin. 5. Der Ausgang: Die Prinzessin verlangt, dass der Held gefährliche Prüfungen besteht, wie in kochender Milch zu baden. Der Held wird gerettet, indem sein Pferd oder ein anderes Wesen eingreift. Der König stirbt, als er dasselbe versucht. Der Betrüger wird entlarvt, das Pferd verwandelt sich in einen Menschen, und der Held heiratet die Prinzessin oder das Mädchen, das ihm als Pferd geholfen hat.*
+- a532 Das hilfreiche Pferd
+- a533 Der sprechende Pferdekopf
+- a537 Der Flug auf dem dankbaren Adler
+- a540 Hund im Meer
+- a545B Der gestiefelte Kater — *Ein armer Jüngling gibt seine letzte Mahlzeit einem hungrigen Fuchs. Das dankbare Tier gibt den Jüngling für einen Prinz aus und bewirkt, dass der König ihm seine Tochter zur Frau gibt. Der Fuchs beschafft für den Jüngling und seine Frau einen Palast aus dem Besitz von Ungeheuerbrüdern, die er tötet. Der Fuchs stellt die Dankbarkeit des Jünglings auf die Probe. Der behandelt ihn zunächst schlecht, schämt sich dann aber und lässt dem Fuchs die verdiente Ehre zukommen.*
+- a550 Vogel Pferd und Königstochter — *(1) Ein goldener Vogel stiehlt die Äpfel des Königs. Die Söhne sollen ihn fangen. Nur der Jüngste bleibt wach und sichert eine Feder. Alternativ braucht ein kranker König den Gesang des Vogels zur Heilung. (2) Die drei Brüder machen sich auf die Suche. Die Älteren missachten die Warnung eines Fuchses (Wolf) und scheitern. Der Jüngste hilft dem Tier, das ihn zum Vogel führt. Trotz Warnung nimmt er auch den Käfig mit, wird ertappt und muss als Ausgleich ein Zauberpferd beschaffen. Erneut missachtet er den Rat, wird gefasst und soll nun eine Prinzessin holen. Der Fuchs übernimmt die Aufgabe und hilft bei der Flucht mit Prinzessin, Pferd und Vogel. Der Held rettet später seine Brüder, obwohl der Helfer davor warnt. Diese verraten ihn und nehmen die Beute. Der Fuchs rettet und belebt ihn. Am Ende wird der Prinz als wahrer Held erkannt, heiratet die Prinzessin, die Brüder werden bestraft, der verzauberte Helfer erlöst.*
+- a551 Wasser des Lebens — *Es besteht einen Gefaht der Typ mit dem 314 gewechselt zu werden, siehe a314 Der Goldenere. Für den Typ ATU 551 ist wichtig dass der BZ Kontakts aufnimmt und die Wahrheit ans Tageslicht bringt.*
+- a552 Tierschwäger
+- a553 Rabe als Helfer
+- a554 Dankbare Tiere
+- a555 Fischer und seine Frau
+- a556F* The Shepherd in the Service of a Witch
+- a559 Mistkäfer
+- a560 Zauberring — *Ein Jüngling wird mit einem Wunschstein belohnt. Der Stein wird gestohlen, aber die dankbaren Tiere schaffen ihn wieder herbei.*
+- a561 Aladdin
+- a562 Geist im blauen Licht
+- a563 Tischleindeckdich
+- a564 Provianttasche
+- a565 Wundermühle
+- a566 Fortunatus
+- a567 Das wunderbare Vogelherz
+- a569 Ranzen Hütlein und Hörnlein
+- a570 Hasenhirt
+- a571 Klebezauber
+- a571C Die beißende Puppe
+- a575 Flügel des Königssohnes
+- a577 Aufgaben des Königs
+- a580 Beliebt bei den Frauen
+- a590 Die treulose Mutter — *Der Sohn besiegt Ungeheuerbrüder und bringt seine Mutter in deren Haus. Die Mutter umsorgt ein verwundetes Ungeheuer und nimmt es zum Geliebten. Beide zusammen versuchen, den Helden umzubringen. Schließ-lich wird der Held machtlos. Er wird gerettet. Der Held rächt sich an den Verrätern.*
+- a591 Der stehlende Topf
+- a592 Tanz in der Dornhecke
+- a593 Fiddevav
+- a610 Die heilenden Früchte
+- a611 Geschenke der Zwerge
+- a612 Die drei Schlangenblätter
+- a613 Die beiden Wanderer
+- a621 Lausfell erraten
+- a650A Starker Hans — *Ein riesenhaft starker und unersättlicher Bursche dient an einem Königshof. Alle Versuche des Königs, den Helden aus dem Weg zu räumen, scheitern. Am Schluß übernimmt der Held den gesamten Besitz des Herrn.*
+- a652 Prinz dessen Wünsche in Erfüllung gingen
+- a652A Myrte
+- a653 Die vier kunstreichen Brüder
+- a653A Das seltene Ding auf der Wlt
+- a653B Die Freier erwecken die Jungfrau wieder zum Leben
+- a654 Die behenden Brüder — *Drei Freunde, Brüder oder Männer, die den Wunschvorstellungen einer Prinzessin nach bes. Fähigkeiten entsprechen, freien um sie. Sie erwerben oder besitzen wunderbare Dinge: einen Spiegel, ein Fernrohr oder eine Brille, vermittels derer man alles auf der Welt zu sehen vermag, einen Flugmantel oder -teppich und eine Lebensfrucht (Apfel, Zitrone etc.) oder -salbe, die heilen bzw. vom Tode erwecken können. Bei ihrer Zusammenkunft erkennen sie, daß die Begehrte tot ist, fliegen auf dem Teppich zu ihr und machen sie mit dem Wundermittel wieder leben- dig. Es folgt der auch der ersten Redaktion eigene Streit, wer sie zur Frau bekommen soll.*
+- a655 Die scharfsinnigen Brüder
+- a660 Die drei Doktoren
+- a665 Mann der wie ein Vogel flog und wie ein Fischschwamm
+- a666* Hero und Leander
+- a667 Pflegesohn des Waldgeistes
+- a670 Tiersprachenkundiger Mensch — *Der Held rettet eine Schlange vor dem Feuer und erhält daraufhin die Fähigkeit, die Sprache der Tiere zu verstehen. Dadurch wird er reich (Vögel oder Baum weisen auf einen vergrabenen Schatz hin). Nach seiner Heirat hört der Mann ein Gespräch von Esel und Ochse (Stute und Füllen, Sperling und Jungen etc.; AaTh/ATU 207 A: cf. J Aufstand der Arbeitstiere). Die Worte des Hahns ermutigen*
+- a675 Der faule Junge
+- a681 Relativität der Zeit
+- a682 Augustinus und das Knäblein
+- a700 Däumling
+- a701 Riesenspielzeug
+- a704 Prinzessin auf der Erbse
+- a705 Vom Fisch geboren
+- a706 Mädchen ohne Hände — *Der Kern über die unschuldig verfolgte und verleumdete Frau wird in verschiedenen Erzählkomplexen dargestellt. Einer von ihnen ist die Ver-leumdung wegen Kindsmordes und die Vertreibung, nachdem ihr die Hände abgehackt worden sind.*
+- a707 Die drei goldenen Söhne — *Nur die jüngere von drei Schwestern hält ihr Versprechen gegenüber dem König und gebiert goldhaarige Kinder. Die neugeborenen Kinder werden von ihren neidischen Schwestern gegen Hundejunge vertauscht und auf dem Wasser ausgesetzt. Der von den Schwestern fehlinformierte König bestraft seine Frau. Die Kinder werden gerettet. Die neidischen Schwestern kommen zu der goldhaarigen Tochter und verleiten sie dazu, den Bruder um verschiedene wunderbare Dinge zu bitten. Der Bruder bewältigt alles und heiratet die allwissende Zauberin. Die Wahrheit kommt zum Vorschein, die Schadensstifter werden bestraft.*
+- a708 Wunderkind
+- a709 Schneewittchen
+- a710 Marienkind
+- a711 Die schöne und die häßliche Schwester
+- a712 Crescentia
+- a713 Brigitte
+- a715 Halbhähnchen
+- a720 Totenvogel
+- a725 Prophezeiung künftiger Hoheit — *Ein Junge träumt von seinem künftigen Aufstieg, weigert sich aber, den Traum seinem Vater (oder Dienstherrn) zu erzählen, und wird deshalb ausgesetzt (geschlagen, verkauft oder zieht fort). Ein Herrscher nimmt ihn auf, doch auch ihm verrät der Junge den Traum nicht und wird eingekerkert und dem Hungertod überlassen. Die Königstochter versorgt ihn heimlich. Als ein fremder Herrscher Krieg androht, falls zwei Rätsel und eine Aufgabe nicht gelöst werden, erfährt die Prinzessin die Lösungen vom Jungen und gibt vor, sie selbst habe sie geträumt. Sie behauptet auch, geträumt zu haben, dass der Gefangene noch lebe und die Aufgabe lösen könne. Der Held wird befreit, löst die Aufgabe, verhindert den Krieg, heiratet die Prinzessin und erhält schließlich beide Reiche (und beide Prinzessinnen).*
+- a726 Die drei Alten
+- a729 Die goldene Axt des Meermannes
+- a735 Glück und Unglück
+- a736A Ring des Polykrates
+- a750A Die drei Wünsche
+- a750B Gastfreundschaft wird belohnt
+- a750D God and the Three Brothers
+- a751A Bäuerin als Specht
+- a751E* Mann im Mond
+- a751F* Mäuseturm von Bingen
+- a752A Christus und Petrus im Nachtquartier
+- a752B Der vergessene Wind
+- a753 Christus und der Schmied
+- a754 Glückliche Armut
+- a755 Sünde und Gnade
+- a756A Der selbstgerechte Eremit
+- a756B Räuber Madej
+- a756C Die zwei Erzsünder
+- a756C* Zeuge aus der Hölle
+- a756G* Glaube versetzt Berge
+- a757 Jovinian
+- a758 Die ungleichen Kinder Evas
+- a759 Engel und Eremit
+- a759A Der sündige Priester
+- a759B Kleider am Sonnenstrahl aufhängen
+- a759C Mehl der Witwe
+- a759D Der bestrafte Engel
+- a759E Müller von Sanssouci
+- a760 Das unruhige Grab
+- a760A Klapperhannes
+- a761 Reicher Mann als des Teufels Roß
+- a763 Schatzfinder morden einander
+- a766 Siebenschläfer
+- a767 Kruzifix gefüttert
+- a768 Christophorus
+- a769 Tränenkrüglein
+- a770 Nonne die in die Welt ging
+- a772 Kreuzholzlegende
+- a774A Köpfe vertauscht
+- a774A Petrusschwänke
+- a774C Hufeisenlegende
+- a774P Kürbis und Eichel
+- a775 Midas
+- a777 Ewiger Jude
+- a777* Fliegender Holländer
+- a778 Geloben der großen Kerze
+- a778* Kerzen für den Heiligen und den Teufel
+- a779E* Tänzersage
+- a779F* Geistermesse
+- a779G* Žhrenfrevel
+- a779H* Sterntaler
+- a780 Der singende Knochen
+- a785 Lammherz
+- a785A Einbeiniges Geflügel
+- a788 Wiedergeburt des verbrannten Heiligen
+- a791 Christus und Petrus im Nachtquartier
+- a800 Schneider im Himmel
+- a801 Meister Pfriem
+- a802 Bauer im Himmel
+- a803 Salomo fesselt den Teufel
+- a804 Petrus Mutter
+- a804B Kirche in der Hölle
+- a805 Joseph und Maria drohen den Himmel zu verlassen
+- a808 Teufel und Engel kämpfen um die Seele
+- a810 Fallstricke des Bösen
+- a810A Buße des Teufels
+- a811 Der dem Teufel Versprochene wird Priester
+- a812 Rätsel des Teufels
+- a815 Schatz in der Totenhaut
+- a820 Teufel als Tagelöhner
+- a821A Teufel als Advokat
+- a821B Prozeß um die gekochten Eier
+- a822 Christus als Ehestifter
+- a822* Der mythische Gläubiger
+- a824 Teufel zeigt dem Mann die Untreue seiner Frau
+- a826 Sündenregister auf der Kuhhaut
+- a827 Heiligkeit geht über Wasser
+- a830 Gottes Segen
+- a831 Pfarrer als Teufel
+- a834 Schatz des armen Bruders
+- a836 Hochmut bestraft
+- a837 Brot des Bettlers
+- a838 Sohn am Galgen
+- a839 Die drei Sünden des Eremiten
+- a840 Strafen im Jenseits
+- a841 Die beiden Bettler
+- a844 Hemd des Glücklichen
+- a844* Rache des Kastrierten
+- a845 Der Alte und der Tod
+- a846 Gott und Teufel auf Wanderschaft
+- a851 Rätselprinzessin
+- a852 Redekampf mit der Prinzessin
+- a854 Der goldene Bock
+- a856 The Girl Elopes with the Wrong Man / The Man with Four Wives
+- a859 Prahlerei des Freiers
+- a861 Rendezvous verschlafen
+- a862 Wer bittet wird bekommen
+- a870 Prinzessin in der Erdhöhle
+- a870A Gänsemagd (Nachbarstochter als Freierin
+- a873 König entdeckt seinen unbekannten Sohn
+- a874 Der stolze König
+- a874* Ariadne-Faden
+- a875 Die kluge Bauertochter
+- a875* Weiber von Weinsberg
+- a875A Rätselhafte Antwort eines Mädchens verrät einen Diebstahl
+- a875E The Unjust Decision: The Oil Press Given Birth to a Foal
+- a877 Die geschundene Alte
+- a879 Basilikummädchen
+- a879A Fischer als Ehemann der Prinzessin
+- a881 Vielgeprüfte Treue
+- a881A Frau in Männerkleidung — *Nach voneinander abweichenden Einl.en, die sich mit der Herkunft und dem beruflichen Werdegang des Helden (meist Kaufmann) beschäftigen,\ verliebt dieser sich in ein Mädchen höchster Abkunft. In einer Anzahl von Var.n verstößt der Vater seine Tochter wegen ihrer nicht standesgemäßen Wahl: Sie wird in eine Kiste gesperrt, auf dem Markt feilgeboten, jedoch von ihrem Liebhaber gekauft46, oder sie war ihm vorherbestimmt, hat sich selbst in einer Truhe auf dem Meer aussetzen lassen und wird von ihm gefunden47. Die F. wird von ihrem Liebhaber getrennt, oder sie heiraten, und er muß sie wegen einer Reise (in Obhut seiner Mutter) zurücklassen. Ein anderer (auch Familienmitglied) macht sich seine Abwesenheit zunutze, will die F. verführen, stößt aber auf Widerstand. Zum Schwankhaften tendieren Texte, in denen es sich um mehrere Bewerber handelt, die zu einem Scheinrendezvous eingeladen werden, sich voreinander in Truhen verstecken müssen und samt diesen dann auf dem Markt feilgeboten werden48 (cf. auch AaTh 1730:  Liebhaber bloßgestellt). Die verschmähten Liebhaber verleumden die Frau bei ihrem Gatten mit dem Vorwurf, sie führe ein loses Leben. Da sie in einigen Fällen mit Schätzen49, die sie mitgebracht hat, oder Geld, das sie auf wunderbare Weise regelmäßig unter ihrem Kopfkissen findet50, deren Herkunft und Existenz dem Mann unbekannt sind, einen Palast bauen läßt, entsteht der Eindruck, sie sei käuflich gewesen. Ihr empörter Gatte kehrt heim und tötet sie — vermeintlich; manchmal entzieht sie sich rechtzeitig der drohenden Gefahr, indem sie sich in einer Kiste auf dem Meer aussetzen läßt51. Ein Arzt (anderer Mann) pflegt sie gesund, oder sie wird von anderen Leuten gefunden, die sie gerne heiraten würden. Durch List oder Flucht entzieht die F. sich dem Ansinnen, begegnet aber immer wieder Männern, die sich in sie verlieben und sie legal oder illegal besitzen möchten. Allen entkommt sie durch verschiedene Taktiken. Im Verlauf dieser Abenteuerkette verkleidet sie sich als Mann (die Verkleidung kann im Einzelfall unterbleiben52) und wird zum Kaiser (Khan, Sultan, Wesir, Kadi) gewählt. Dies geschieht entweder z. B. durch eine Grille53 (Vogel), die sich auf ihren Kopf setzt54, oder eine sich selbst entzündende Kerze als Zeichen der Auserwähltheit55. Sie läßt ein Gemälde (Photo, Standbild, schriftl. Botschaft) von sich an einem auffälligen Ort (Stadttor, Quelle) ausstellen, eine Nachricht ausrufen56 oder ihre Lebensgeschichte in einem Gewölbe aufschreiben57. Dieses Zeichen läßt sie bewachen: Wer Gefühlsregungen bei seinem Anblick zeigt, soll verhaftet werden. Alle ,Männer ihres Lebens', auch der Gatte, finden sich ein, erzählen vor dem Bild oder später bei einer Anhörung vor dem ,Kaiser' die Geschichte ihrer Begegnung mit der F., wodurch die gesamte Märchenhandlung in einem abschließenden Erzählakt noch einmal brennpunktartig — im zeitlichen Nebeneinander - zusammengefaßt wird. Die F. i.M. verurteilt, begnadigt oder belohnt alle gemäß der Rolle, die sie gespielt haben, gibt sich zu erkennen und feiert die Wiedervereinigung (Hochzeit) mit ihrem Mann. entschiedenen*
+- a882 Die Wette auf die Treue der Ehefrau
+- a883A Das unschuldig verleumdete Mädchen — *(1) Der Vater des M.s (oft Kaufmann) ist mit seinem Sohn in Handelsgeschäften unterwegs (die Eltern befinden sich zusammen mit ihrem Sohn auf einer Wallfahrt, z. T. um nach Jahren die Dankesschuld für die Erfüllung ihres Kinderwunsches abzutragen). Die Tochter wird in der Obhut eines Verwandten (oft Onkel), Freundes oder eines öffentlichen Funktionsträgers (oft Geistlicher; z. T. Verwandter/ Freund und Funktionsträger in Personalunion) zurückgelassen. Dieser versucht, sie zu verführen. Sie weist ihn zurück, wobei sie ihm oft eine ordentliche Abreibung verpaßt (so wird vor allem in dem türk. Öktotyp von der ,schönen Helva-Verkäuferin' der Gebetsrufer, Geistliche oder Richter, nachdem er sein Opfer - häufig mit Hilfe einer kupplerischen Alten - ins Badehaus gelockt hat, von dem M. dermaßen eingeseift, daß ihm Hören und Sehen vergeht, und darauf meist verprügelt und z. T. erheblich verletzt). Aus Rache verleumdet er sie (meist brieflich) bei ihrem Vater wegen angeblich liederlichen Lebenswandels. Der Vater befiehlt seinem Sohn, die Schwester zu töten. Aus Mitleid (weil er sich von ihrer Unschuld überzeugt hat, selten aufgrund übernatürlicher Intervention) führt dieser den Auftrag nicht aus; den meist geforderten Tötungsnachweis erbringt er durch Leber (Blut, Herz) eines Tiers (Tierherz als Ersatz). Das in der Einsamkeit zurückgelassene M. wird von einem (meist jagenden) König gefunden. Sie heiraten und bekommen Kinder. (2) Der König zieht in den Krieg (die Königin will zusammen mit ihren Kindern ihre Eltern besuchen). Er vertraut seine Frau einem Diener (Offizier, Soldat, Würdenträger) oder Familienmitglied (Bruder, Onkel) an. Es folgt ein zweiter Verführungsversuch, vielfach verbunden mit der Tötung der Kinder. Die Königin flieht als Soldat (Offizier, Hirte) verkleidet und verdingt sich (manchmal bei ihrem Vater), oft in einem Wirtshaus (Kaffeehaus) oder als Hirt. Trotz der Behauptung des Verleumders, die Königin sei tot (entführt worden, weggelaufen, habe ihre Kinder umgebracht), begibt sich der König häufig in dessen Begleitung auf die Suche nach seiner Frau (z. T. sucht auch der Vater seine Tochter). Zum Schluß treffen alle Beteiligten zusammen (bei einem Fest, im Wirtshaus, im Hause des Vaters). Die verkleidete Frau erzählt ihr Schicksal. Die Familie ist glücklich wiedervereinigt, die Übeltäter werden bestraft. (EM 8.1402-1407)*
+- a883B Der bestrafte Verführer
+- a885 Die scherzhafte Trauung
+- a885A Scheintote Prinzessin
+- a886 Die geschwätzige Braut
+- a887 Griseldis
+- a888 Die treue Frau
+- a888A* The Basket Maker
+- a889 Der treue Diener
+- a890 Fleischpfand
+- a890** Bett des Schuldners
+- a891 Mann der seine Frau verließ
+- a891A Kristallpalast
+- a893 Freundesprobe
+- a894 Geduldstein
+- a898 Sonnentochter
+- a899 Alkestis
+- a899A Pyramus und Thisbe
+- a900 König Drosselbart
+- a900C* Die halbe Birne
+- a901 Zähmung der Widerspenstigen
+- a901B* Wie das Essen, so die Arbeit
+- a902* Die faule Frau wird kuriert
+- a910 Kluge Raatschläge
+- a910A
+- a910A
+- a910C Barbier des Königs
+- a910B Die Beachtung der Ratschläge des Meisters
+- a910D Schatz hinter dem Nagel
+- a910E Schatz im Weinberg — *Auf dem Sterbebett erzählt der Vaten ihnen Söhnen, dass in seinem Weinberg ein Schatz vergraben sei, gibt allerdings nicht die genaue Stelle an. Nach sei nem Tod graben die Söhne den gesamten Weinberg um, finden jedoch nichts; dafür fallt die nächste Ernte besonders reichlich aus. Die Söhne erkennen, daß der versprochene Schatz in dem durch harte Arbeit erwirtschafteten Ertrag des Weinbergs besteht.*
+- a910F Einigkeit macht stark
+- a910G Verstand für einen Pfennig
+- a910K Gang zum Eisenhammer (Kalkofen)
+- a910L Fliegen sollen nicht vertrieben werden
+- a910M Gebet für den Tyrannen
+- a915 Cum grano salis
+- a920 Sohn des Königs und Sohn des Schmieds
+- a920B Vogelwahl der Königssöhne
+- a920C Schuß auf den toten König
+- a920E Die drei Ringe
+- a921 König und kluger Knabe
+- a921A Teilung des Brotes oder Geldes
+- a921A* Der aufrichtige Dieb
+- a921B Der beste Freund der schlimmste Feind
+- a921B* Die seltsamen Berufe der drei Söhne
+- a921D Im Bett sterben
+- a921F* Plucking Geese
+- a922 Kaiser und Abt
+- a922A Achikar
+- a922B König auf der Münze
+- a923 Lieb wie das Salz
+- a924 Zeichendisput
+- a925 Neuigkeiten für den König
+- a925* Schönstes im Garten
+- a926 Salomonische Urteile
+- a926A Salomonische Urteile
+- a926C Salomonische Urteile
+- a926D Salomonische Urteile
+- a926E Salomonische Urteile
+- a927 Halslöserätsel
+- a927A Der letzte Wunsch
+- a927A* Alten-Sattel
+- a927B Todesart wählen
+- a927D Baum zum Hängen gesucht
+- a928 Bäume für die nächste Generation
+- a930 Uriasbrief — *Ein Mann höheren Standes hört die Weissagung über die Zukunft eines neugeborenen Knaben: Er soll einst sein Erbe antreten. Der Mann versucht Schicksalserzählungen das Kind zu töten, aber es überlebt den Mordanschlag. Als er dem Schicksalskind wieder begegnet, versucht er es mit einem — Brief in den Tod zu schicken, was durch Vertauschung oder Abänderung des Briefes abermals miß- lingt. Der Jüngling heiratet die Tochter des Reichen (vielfach kontaminiert mit AaTh 910 K: Gang zum Eisenhammer [Kalkofen]).*
+- a930A Die vorbestimmte Frau — *Die vorbestimmte Frau wird einem Mann hohen Standes ein neugeborenes Mädchen niederen Ranges als Ehepartnerin bestimmt. Sein Versuch, das Mädchen umzubringen, ist vergeblich, und ein Erkennungszeichen führt den Mann bei der Hochzeit zu der Einsicht, daß die Voraussage sich erfüllt hat.*
+- a931 oedipus
+- a931A Elternmörder
+- a933 Gregorius
+- a934 Todesprophezeiungen
+- a934H Todeszeit wissen
+- a935 Heimkehr des verlorenen Sohnes
+- a936* Hasan von Basra
+- a938 Placidas
+- a939A Mordeltern
+- a940 Das hochmütige Mädchen
+- a944 Jahreskönig
+- a945 Glück und Verstand
+- a945A* Der arme Seilmacher
+- a950 Rhampsinit
+- a951A König und Räuber
+- a952 König und Soldat
+- a953 Räuber und Söhne
+- a954 Ali Baba und die vierzig Räuber
+- a955 Räuberbräutigam
+- a956B Das tapfere Mädchen und die Räuber
+- a956D Räuber unter dem Bett
+- a958 Hilferuf des Schäfers
+- a960 Sonne bringt es an den Tag
+- a960A Kraniche des Ibykus
+- a960C Bratenwunder
+- a961 Geld im Stock
+- a967 Spinngewebe vor der Höhle
+- a973 Mann als Sturmopfer
+- a974 Heimkehr des Gatten
+- a976 Die vornehmste Handlung
+- a980 Der undankbare Sohn
+- a981 Altentötung
+- a981A* Leben am seidenen Faden
+- a982 Die vorgetäuschte Erbschaft
+- a983 Das gleiche Essen
+- a985 Bruder eher als Gatten oder Sohn gerettet
+- a985** Maß für Maß
+- a986 Der faule Ehemann
+- a987 Augenverblendung
+- a990 Die tote Frau kehrt zurück
+- a992 Herzmäre
+- a992A Buße der Ehebrecherin
+- a1000 Zornwette — *Ein listiger Knecht schließt mit einem Bauern (Teufel, Oger, Pfarrer) einen Vertrag (Wette), gemäß dem derjenige, der zuerst wütend wird, eine drastische physische Bestrafung erhalten soll. Indem der Knecht die Aufträge wörtlich nimmt (die Arbeiten mutwillig falsch ausführt), fügt er seinem Herrn so eklatante Schädigungen zu, daß dieser schließlich die Beherrschung verliert. Der Herr versucht zu entkommen, entgeht jedoch der vereinbarten Strafe nicht.*
+- a1001 Holz hacken
+- a1004 Schwänze in der Erde
+- a1006 Augenwerfen
+- a1009 Tür bewacht
+- a1010 Hausreparatur
+- a1029 Frau als unbekanntes Tier
+- a1030 Ernteteilung
+- a1036 Teilung der Schweine
+- a1037 Teufel schert die Sau
+- a1045 Das große Seil
+- a1048 Holzkauf
+- a1050 Baum biegen fällen tragen
+- a1053 Tausend mit einem Schuß
+- a1082 Pferd wird getragen
+- a1082A Soldat und Tod
+- a1083 Duell mit langer und kurzer Stange
+- a1088 Trinkwette
+- a1115 Mordversuch mit dem Beil
+- a1116 Verbrennen
+- a1119 Teufel tötet Frau und Kinder
+- a1130 Grabhügel
+- a1131 Schlund des Unholds verbrannt
+- a1135 Polyphem
+- a1161 Bärenführer
+- a1162 Teufel und eiserner Mann
+- a1163 Schmied lernt vom Teufel Sand zu verwenden
+- a1164 Belfagor — *Ein geplagter Ehemann wirft sein zänkisches, widerspenstiges Weib in einen Brunnen oder eine tiefe Grube. Als er sie später aus Mitleid, Reue oder der unversorgten Kinder wegen wieder herausholen will, zieht er statt ihrer einen dort hausenden Teufel oder Dämon heraus, dem die Frau gleichermaßen zur Qual geworden ist (AaTh 1164). Zum Dank für die Rettung schließt der Teufel mit dem Mann einen Vertrag: Er fährt in eine Prinzessin und läßt sich nur von seinem Partner austreiben, so daß dieser bald weithin als Exorzist oder Wunderheiler gilt, reich belohnt wird oder auch die Hand der Prinzessin erhält (cf. auch AaTh 1862B: The Sham Physician and the Devil in Partnership). Als der Teufel in einem anderen Fall nicht weichen will, droht der Mann mit der Rückkehr der bösen Frau, worauf der Dämon sogleich die Flucht ergreift (AaTh 1164 D)*
+- a1165 Troll und Taufe
+- a1168 Soldat und Teufel
+- a1170 Böses Weib als schlechte Ware
+- a1174 Seil aus Sand
+- a1182 Der gestrichene Scheffel
+- a1184 Letztes Laub
+- a1185 Eichelsaat
+- a1186 Advokat und Teufel
+- a1187 Meleager
+- a1188 Komm morgen!
+- a1191 Brückenopfer
+- a1199 Gebet ohne Ende — *In einer modernen Aufzeichnung aus Israel sendet Gott den Todesengel aus, einen Menschen zu holen, weil er sein Vertrauen in Gott verloren habe. Der Mensch erreicht einen Aufschub, indem er darum bittet, ein letztes Mal das G. ,Schma, Israel' (Höre, Israel) beten zu dürfen, es aber nicht beendet. Nach einiger Zeit besucht der Todesengel erneut diesen Menschen, nimmt bei ihm Quartier und stellt sich sterbend. Der Gastgeber muß nunmehr das besagte G. über dem Sterbenden sprechen und ist nach dessen Vollendung dem Todesengel verfallen. In einem syr. Märchen erfährt ein Jüngling, daß der Todesengel ihn in seiner Hochzeitsnacht holen will (AaTh 934-934E: Todesprophezeiungen). Er heiratet erst nach Ablauf von 400 Jahren und überlistet dann den Todesengel ein zweites Mal durch ein unvollendetes Vaterunser. Nach weiteren 20 Jahren beendet er beim Essen versehentlich das G. und wird vom Tod ereilt (EM).*
+- a1199A Qual des Brotes (Flachses
+- a1200 Salzsaat
+- a1202 Die gefährliche Sichel
+- a121 Wolfsturm
+- a1210 Kuh auf dem Dach
+- a1215 Asinus vulgi
+- a1218 Eierbrüter
+- a1225 Mann ohne Kopf
+- a1225A Kuhfladen auf dem Pfahl
+- a1227 Eichhörnchenfang
+- a1231 Sieben Schwaben
+- a123B Wolf im Schafspelz
+- a1240 Ast absägen
+- a1241 Baum tränken
+- a1242 Holzladung
+- a1242A Entlastung des Esels
+- a1244 Balkenstrecken
+- a1245 Sonnenlicht im Sack
+- a1248 Kreuzweis statt längsseits
+- a1250 Brunnenkette
+- a1255 Erdloch für Aushub graben
+- a1260 Mahl der Einfältigen
+- a1262 Fernwirkung des Feuers
+- a1264 Kluge Else
+- a1268* Bürgermeisterwahl
+- a1270 Kerzentrocknen auf dem Ofen
+- a1275 Die verkehrte Richtung
+- a1278 Die merkwürdige M.
+- a1281 Katze als unbekanntes Tier
+- a1281A Das menschenfressende Kalb
+- a1284 Irrige Identität
+- a1285 Hemd anziehen
+- a1286 Sprung in die Hose
+- a1287 Sich nicht zählen können
+- a1288 Beinverschränkung
+- a1289 Schlafen in der Mitte
+- a1290 Schwimmen im Flachsfeld
+- a1290B* Schlaf auf der Feder
+- a1293 Dauerpisser
+- a1294 Kopf in der Kanne
+- a1295 Der siebente Kuchen
+- a1296A Wetter kaufen
+- a1296B Tauben im Brief
+- a1310 Der ertränkte Krebs
+- a1311 Verwechslung der Tiere
+- a1313 Mann glaubt sich tot — *Handelt von einem Mann, der vermeintlich vergiftetes Essen aus einem Gefäß zu sich nimmt, um Selbstmord zu begehen.*
+- a1313A Die Todesankündigung ernst nehmen — *Mann glaubt sich tot angeführt werden: Das zentrale Motiv (Mot. J 2311.1) assoziiert die Prophezeiung mit unterschiedlichen Körperemissionen (Rülpsen, Wiehern, Furzen) des Reittieres (Esel,Pferd).*
+- a1319 Eselsei ausbrüten
+- a1324A* Kruzifix bestraft
+- a1326 Kirche verschieben
+- a1331 Neidischer und Habsüchtiger
+- a1332 Narrensuche
+- a1333 Der lügenhafte Hirt
+- a1334 Der lokale Mond
+- a1337C Die lange Nacht
+- a1339A-G Speisen unbekannt
+- a1341B Gott ist auferstanden
+- a1342 Heiß und kalt aus einem Mund
+- a1343 Hängen spielen
+- a1347 Lebendes Kruzifix gewünscht
+- a1348 Der einfallsreiche Junge
+- a1349N* Blutegelkur
+- a1350 Die rasch getröstete Witwe
+- a1351 Schweigewette
+- a1351A* Zunge gesucht
+- a1352 Teufel als Frauenwächter
+- a1352A Sïukasaptati
+- a1353 Böses Weib schlimmer als der Teufel
+- a1354 Tod der Alten
+- a1354A* Der Trost des Witwers
+- a1355A Herr über uns
+- a1355B Ehebruch belauscht
+- a1358* Ehebruch belauscht
+- a1358A Ehebruch belauscht
+- a1358C Ehebruch belauscht
+- a1360C Der alte H.
+- a1361 Flut vorgetäuscht
+- a1362 Schneekind
+- a1362A* Dreimonatskind
+- a1363 Die Erzählung von der Wiege
+- a1364 Blutsbruders Frau
+- a1365A-C Die widerspenstige Ehefrau
+- a1365D Gottlob der Korb ist fertig!
+- a1369 Baum der Frauen
+- a1372 Ohrfeige als Heilmittel
+- a1373 Die gewogene Katze
+- a1373A Die schwache Esserin
+- a1375 Pantoffelhelden
+- a1377 Puteus
+- a1379*** Einäugiger heiratet
+- a1380 Blindfüttern
+- a1381 Die geschwätzige Frau
+- a1381E Der alte Mann in der Schule
+- a1382 Der törichte Kuhhandel
+- a1383 Teeren und federn
+- a1385 Pfand der dummen Frau
+- a1391 Les bijoux indiscrets
+- a1405 Die faule Spinnerin
+- a1406 Wette der Frauen wer den Mann am besten narrt
+- a1408 Hausarbeit getauscht
+- a1408C Gänse an der Leine
+- a1409 Der gehorsame Ehemann
+- a1410 Beichte der Ehefrau
+- a1415 Hans im Glück
+- a1416 Die neue Eva
+- a1417 Die abgeschnittene Nase
+- a1418 Isoldes Gottesurteil
+- a1419A Mann im Hühnerhaus
+- a1419B Bock im Schrank
+- a1419C Der einäugige Ehemann
+- a1419E Inclusa
+- a1420A-D F Pfand des Liebhabers
+- a1420G Anser venalis
+- a1423 Der verzauberte Birnbaum
+- a1424 Nasenmacher
+- a1426 Frau im Schrein
+- a1430 Luftschlösser
+- a1431 Gähnen steckt an
+- a1437 Süße Worte
+- a1440 Das unterschobene Tier
+- a1446 Laßt sie Kuchen essen!
+- a1447 Trinken nach dem Handel
+- a1449* Brotlöffel
+- a1450 Kluge Else
+- a1479* Die Alte auf dem Dach
+- a1488 Alte(r im Fegefeuer
+- a1501 Aristoteles und Phyllis
+- a1510 Witwe von Ephesus
+- a1511* Rat der Glocken
+- a1515 Die weinende Hündin
+- a1525 Meisterdieb
+- a1525A Diebstahlsproben
+- a1525D Ablenkungsmanöver
+- a1525E Diebswette
+- a1525G Die vergkleidete Diebe
+- a1525H4 Junge im Bienenkorb
+- a1525M Schaf in der Wiege
+- a1525R Räuberbrüder
+- a1526 Bettler als Pfand
+- a1527 Räuber betrogen
+- a1528 Den Hut bewachen
+- a1529 Dieb als Esel
+- a1530 Den Felsen halten
+- a1531 Bauer wird König für einen Tag
+- a1532 Stimme aus dem Grab
+- a1533 Die sinnreiche Teilung des Huhns
+- a1534 Kluge ungerechte Urteil
+- a1534A* Der Barbier als Stellvertreter
+- a1534D* Der angebliche Stumme wird freigesprochen
+- a1534E* Gute Entscheidung: Jeder hat Recht
+- a1534Z* Andere absurde Urteile
+- a1535 Der Arme und der reiche Mann
+- a1536A Die Alte in der Kiste
+- a1536B Die drei Buckligen — *Typ (a) Drei bucklige Musikanten werden von der Frau eines B.n gebeten, für sie zu musizieren. Der Ehemann kehrt unerwartet heim. Die B.n werden in einer Kiste (im Ofen, Keller) versteckt, wo sie umkommen (sich gegenseitig töten).  Typ (b) Drei Mönche (Pfarrer, Priester, Ritter, Studenten) machen einer schönen Frau Liebesanträge. Sie geht auf Anraten ihres Mannes zum Schein darauf ein und bestellt sie zu sich. Der erste Liebhaber wird nach einer Stunde durch die Ankunft des zweiten, dieser durch die des dritten gestört und versteckt sich in einer Kiste (im Ofen, Keller); der dritte Liebhaber muß sich wegen der Ankunft des Mannes verstecken. In ihrem Versteck werden die drei durch den Mann erschlagen (verbrüht, ertränkt, erstickt, verbrannt).  Zu (a) und (b): Ein Betrunkener (dummer Knecht, Bauer, Lastträger, Leichenträger, Bettler, Soldat, der Teufel) wird angeheuert, eine Leiche in den Fluß zu werfen (zu verscharren) ; als er zurückkehrt, liegt schon die zweite Leiche als Wiedergänger' an der gleichen Stelle, nach ihrer Beseitigung später dann die dritte. Nach dem Fortschaffen auch dieser Leiche trifft er auf dem Rückweg den buckligen Ehemann (einen Mönch, Pfarrer, Ritter), tötet diesen als vermeintlichen Wiedergänger und wirft ihn in den Fluß (vergräbt ihn); v. Mot. Κ 2322.*
+- a1537 Die mehrmals getötete Leiche
+- a1538 Rache des Betrogenen
+- a1539 List und Leichtgläubigkeit
+- a1540 Student aus dem Paradies (Paris)
+- a1541 Für den langen Winter
+- a1542 Peik
+- a1543 Keinen Pfennig weniger
+- a1543* Der gekaufte Penis
+- a1543E* Baumzeuge
+- a1544 Der schlaue Gast im Nachtquartier
+- a1544A* General Gänsewitz
+- a1545 Junge mit vielen Namen
+- a1545A Schlafenlernen
+- a1545B Junge weiß nichts von Frauen
+- a1546 Besitz eines Goldklumpens vorgetäuscht
+- a1548 Kieselsteinsuppe
+- a1551 Wettbetrug
+- a1553 Ochse für fünf Pfennig
+- a1557 Ohrfeige geht zurück
+- a1558 Kleider machen Leute
+- a1560 Wie das Essen so die Arbeit
+- a1562 Denk dreimal bevor du sprichst
+- a1562A Scheune brennt!
+- a1562B Pflichtenzettel
+- a1563 Beide?
+- a1563* Die schreckliche Drohung
+- a1565 Kratzverbot
+- a1567C Den großen Fisch befragen
+- a1567G Gutes Essen ändert den Gesang
+- a1568* Die umgedrehte Schüssel
+- a1572* Privileg des Herrn
+- a1572A* Der naschhafte Heiliger
+- a1574 Schneider mit der Lappenfahne
+- a1577 Die getäuschten Blinden
+- a1577* Die getäuschten Blinden
+- a1579 Wolf Ziege und Kohlkopf
+- a1585 Pathelin
+- a1586 Fliege auf des Richters Nase
+- a1589 Hund des Richters
+- a159 Lösegeld der Tiere
+- a1590 Eid auf eigenem Grund und Boden
+- a1591 Die drei Gläubiger
+- a1592 Mäuse fressen Eisen
+- a1592B Topf hat ein Kind
+- a159B ATU Feindschaft zwischen Tieren und Mensch
+- a1600 Der begrabene Schafskopf
+- a1610 Teilung von Geschenken und Schlägen
+- a1613 Kartenspiel
+- a1615 Teilung des Geldes
+- a1617 Kredit erschwindelt
+- a1617* Schatz des Blinden
+- a1620 Kaisers neue Kleider
+- a1624B* Speckdieb
+- a1626 Traumbrot
+- a1628 Der gelehrte Bauernsohn
+- a1628* Der gelehrte Bauernsohn
+- a1631 Pferd geht nicht über Bäume
+- a1633 Joint Owerschip of the Cow
+- a1640 Tapferes Schneiderlein
+- a1641 Doktor Allwissend
+- a1641A-B Scharlatan
+- a1641C Bauernlatein
+- a1642 Der gute Handel
+- a1643 Geld im Kruzifix
+- a1645 Traum vom Schatz auf der Brücke
+- a1645A Guntram
+- a1645B Der gesiegelte Schatz
+- a1650 Die drei glücklichen Brüder
+- a1653 Räuber unter dem Baum
+- a1654 Räuber in der Totenkammer
+- a1655 Der vorteilhafte Tausch
+- a1656 Juden aus dem Himmel gelockt
+- a1660 Stein für den Richter
+- a1661 Die dreifache Steuer
+- a1663 Teilung der Eier
+- a1675 Ochse als Bürgermeister
+- a1676 Was tot ist soll Tot bleiben
+- a1676B Tod durch Schrecken
+- a1682 Pferd fasten lehren
+- a1685 Der dumme Bräutigam
+- a1687 Das vergessene Wort
+- a1688 Der übertreibende Brautwerber
+- a1689 Das kleinere šbel
+- a1689A Raparius
+- a1689B Rezept gerettet
+- a1691 Der hungrige Pfarrer
+- a1694A Verkehrte Begrüßungen
+- a1695 Schuhe für Tiere
+- a1696 Was hätte ich sagen (tun sollen?
+- a1698 Schwerhörig Schwerhörigkeit
+- a1700 Kann nicht verstehen!
+- a1701 Echo
+- a1704 Anecdotes about Absurdli Stingy Person
+- a1706 Anecdotes about Drunkards
+- a1706D Säufer kuriert
+- a1725 Ehebruch belauscht
+- a1730 Liebhaber bloßgestellt — *Die bildhübsche, treue Ehefrau wird von drei Möchtegernliebhabern (bes. Geistliche) bedrängt. In Absprache mit ihrem Mann lädt sie die L. (meist) im Stundentakt zu einem intimen Tete-a-tete ein. Kurz vor Erfüllung ihrer Bett-Träume klopft dann jeweils der nächste, worauf der gerade präsente Anbeter in ein sehr unangenehmes Versteck flüchten muß. Wenn alle L. schließlich in diskriminierenden Lagen festgesetzt sind, werden sie getötet, anderweitig bestraft, lächerlich gemacht oder finanziell zur Ader gelassen.*
+- a1731 Schuhe angeboten
+- a1735 Die zehnfache Vergeltung
+- a1735A Der falsche Gesang
+- a1736 Die auferstandene Wiese
+- a1736A Der hölzerne Säbel
+- a1737 Pfarrer im Sack
+- a1738 Alle Priester in der Hölle
+- a1739 Priester soll Kalb gebären
+- a1740 Lichterkrebse
+- a1741 Priesters Gäste
+- a1750B Tiere lernen sprechen
+- a1775 Hunger in der Nacht
+- a1777A* Pfarrer und Küster beichten einander
+- a1785A Wurst in der Tasche des Pastors
+- a1785B Nadel in der Kanzel
+- a1790 Pfarrer und Küster stehlen eine Kuh
+- a1791 Küster trägt den Pfarrer
+- a1792 Der geizige Pfarrer und sein cSchwein
+- a1800 Nur eine Kleinigkeit tehlen
+- a1804 Scheinbuße
+- a1806 Mahlzeit im Himmel
+- a1807A Eigentümer weist Gestohlenes zurück
+- a1824 Predigtschwänke
+- a1825C Die angesägte Kanzel
+- a1826 Predigt braucht nicht gehalten zu werden
+- a1828* Weinen und Lachen bei der Predigt
+- a1829 Das lebendige Heiligenbild
+- a1830 Wettermacher
+- a1831 Pfarrer und Küster beim Messelesen
+- a1832M* Brille des Küsters
+- a1832N* Hammel Gottes
+- a1833E Gott ist tot
+- a1834 Pfarrer mit der feinen Stimme
+- a1835A* Schuß von der Kanzel
+- a1835D* Vaterunser beten ohne an anderes zu denken
+- a1837 Heiliger Geist in der Kirche
+- a1838 Priester auf der Sau
+- a1841 Tischgebet
+- a1842 Testament des Hundes
+- a1848 Sündensteine
+- a1848A Kalender des Pfarrers
+- a1855A Jüdin verspricht Messias zu gebären
+- a1860B Sterben wie Christus
+- a1861* Bürgermeisterwahl
+- a1861A Bestechung
+- a1862A Flohpulver
+- a1862B The Sham Physician and the Devil in Partnership — *Zum Dank für die Rettung schließt der Teufel mit dem Mann einen Vertrag: Er fährt in eine Prinzessin und läßt sich nur von seinem Partner austreiben, so daß dieser bald weithin als Exorzist oder Wunderheiler gilt, reich belohnt wird oder auch die Hand der Prinzessin erhält.*
+- a1862C Die einfältige Diagnose
+- a1875 Junge am Bären(Wolfsschwanz
+- a1882 Sich selbst ausgraben
+- a1889 Münchhausiaden
+- a1889F Gefrorene Worte
+- a1890 Der gelungene Schuß
+- a1891 Kaninchenfang
+- a1896 Der genagelte Wolf
+- a1910 Bär (Wolf) im Gespann
+- a1920 Lügenwette
+- a1920F Wer sagt 'das ist gelogen', muss eine Strafe zahlen
+- a1920H Buying Fire by Storytelling
+- a1920J Lügenbrücke Lügenfluß
+- a1930 Schlaraffenland
+- a1931 Neuigkeiten von zu Hause
+- a1940 Die sonderbaren Namen
+- a1948 Schweigsame Leute
+- a1950 Faulheitswettbewerb
+- a1950A Hilfe beim Nichtstun
+- a1960 Die ungewöhnliche Größe
+- a1960M Das große Insekt
+- a1965 Die schadhaften Gesellen
+- a2031 Stärkste Dinge
+- a2031C The Mightiest Being as Husbend for the Daughter
+- aTMH761 Riddle of the Sphinx
+- aTMJ1545_4 The exiled wife's dearest possession
+- aTMJ1392_1 Dem Dieb gefolgt, der alle seine Sachen gestohlen hat: Ich dachte, wir ziehen um
+- aTMJ1522_1 Nur mit Schuhen auf Baum klettern: Vielleicht gibt es dort oben einen Weg — *vgl. anh397*
+- aEB144 Geschichtenerzähler
+- aEB279 Gute Frauen - böse Frauen
+- aTMJ2672 Zwei Streitende stehlen seine Decke — *vgl. anh357*
+- aTMJ1863 Ochse geprügelt, weil er dem Kalb keine guten Sitten beigebracht hat — *vgl. anh566*
+- anh1 Упрямый ходжа
+- anh2 Афанди и дверь
+- anh3 Ходжа Насыр и его отец
+- anh4 Пророк Юнус
+- anh5 Как Насреддин учился в школе
+- anh6 В жарких странах
+- anh7 Счет времени
+- anh8 Мы ровесники
+- anh9 Неопределенное наклонение
+- anh10 Если от четырех отнять четыре
+- anh11 Ушко ключа
+- anh12 Детский ум
+- anh13 Ходжа утешает
+- anh14 Недолго ждать
+- anh15 Ходжа в мальчиках у шелковода
+- anh16 Горячие пельмени
+- anh17 Как принести обед
+- anh18 Нестойкое серебро
+- anh19 Ответ чревоугодника
+- anh20 Ходжа и ученый гусь
+- anh21 Тыквенная голова
+- anh22 Ничем помочь не могу
+- anh23 Как на убитом выросли рога
+- anh24 Насреддин дает советы жениху
+- anh25 Как Насреддин превратился в своего отца
+- anh26 Перед тем как поумнеть
+- anh27 Дочь дяди Насреддина
+- anh28 Еще не поздно
+- anh29 Женский возраст
+- anh30 Голубые бусы
+- anh31 Забыл сказать
+- anh32 Молла-сват
+- anh33 Ходжа  заранее принимает меры
+- anh34 Обиженный жених
+- anh35 Ходжа проголодался
+- anh36 Календарь
+- anh37 Пусть пятница подождет меня
+- anh38 Меня спроси
+- anh39 Женщина так уж создана
+- anh40 Привычка
+- anh41 Нерайская гурия
+- anh42 Врунья
+- anh43 Соседка виновата
+- anh44 Как соседки во сне хотели женить ходжу
+- anh45 Взял бы обеих в жены
+- anh46 Мечта Насреддина
+- anh47 Коварный вопрос жен
+- anh48 Все на свете
+- anh49 Вес кошки
+- anh50 Нерадивая жена
+- anh51 Превратился в женщину
+- anh52 Теленок
+- anh53 Гулящая жена
+- anh54 Хитрость жены
+- anh55 Огонь нужен зимой
+- anh56 Несправедливый приятель
+- anh57 Но муж у тебя один
+- anh58 Только мне не показывайся
+- anh59 Искупление грехов
+- anh60 Задушевная беседа
+- anh61 Кто попадет в рай
+- anh62 Некрасивая жена
+- anh63 Что же могла она потерять
+- anh64 Несчастный Афанди
+- anh65 Четверо в постели
+- anh66 Отчего плачут
+- anh67 Над чем смеялся Афанди
+- anh68 Жена виновата
+- anh69 Обиженный зайчонок
+- anh70 Кто упрямее
+- anh71 Мулла Насреддин и осел
+- anh72 Пожар
+- anh73 Как тяжелы хлопоты муравьями
+- anh74 О том как Насреддин не храпел
+- anh75 Настоящий мужчина
+- anh76 Ссора на крыше
+- anh77 В чапане -то был я
+- anh78 Соперничество жен
+- anh79 Потерянная иголка
+- anh80 Насреддин в погребе
+- anh81 Чудотворство
+- anh82 Возраст жены Насреддина
+- anh83 Женский спор
+- anh84 Отдых Насреддина
+- anh85 Корова приводит Моллу домой
+- anh86 Мужская честь
+- anh87 Что тяжелее
+- anh88 Видно и печка боится моей жены
+- anh89 Под землей
+- anh90 Как подумаю что это ты
+- anh91 Проклятое дерево
+- anh92 Сожаление Насреддина
+- anh93 Счастливец
+- anh94 Как Насреддин в гости приглашал
+- anh95 Причина дурного настроения
+- anh96 Астролог
+- anh97 Необходимое зло
+- anh98 Женитьба на вдове
+- anh99 Причина развода
+- anh100 Условие развода
+- anh101 Зачем мне спрашивать
+- anh102 Пожелание ходжи
+- anh103 Вдруг Азраил  ошибется
+- anh104 Пришел сказать что вы не нужны
+- anh105 Плач по жене
+- anh106 Два светопреставления
+- anh107 Любовь Насреддина
+- anh108 Жаль расставаться со сном
+- anh109 Я бы с ней все равно развелся
+- anh110 Горе Насреддина
+- anh111 Пробьются сквозь землю
+- anh112 Плохие шутки
+- anh113 Как ходжа  помогал жене рожать
+- anh114 Хитрая жена
+- anh115 Скороход
+- anh116 Шустрый мальчик
+- anh117 Полбеды
+- anh118 Ну а тебе-то что
+- anh119 Моя половина пусть плачет
+- anh120 Тезка
+- anh121 Яне то бы еще сделал
+- anh122 У меня нет никого
+- anh123 Отец сына Насреддина
+- anh124 Брат пойдет
+- anh125 Сын Моллы Насреддина
+- anh126 Осторожный сын
+- anh127 Каша-размазня
+- anh128 Послушный сын
+- anh129 Афанди учит сына
+- anh130 Мудрый совет
+- anh131 Сыи в колодце
+- anh132 Своим умом дошел
+- anh133 Пение
+- anh134 К кому же идти
+- anh135 Кто знает
+- anh136 О свадьбе сына
+- anh137 Если он возьмется за ум
+- anh138 Умная невеста
+- anh139 Если сын обжора
+- anh140 Как Насреддин ускорял события
+- anh141 Из-за дочерей
+- anh142 Ленивая дочь
+- anh143 Обмен женами
+- anh144 Дочь своей матери
+- anh145 Назидание Эпенди дочери
+- anh146 Молла выдает дочь замуж
+- anh147 Как Насреддин отомстил зятю за дочь
+- anh148 Молитва отца
+- anh149 Шутка всерьез
+- anh150 То-то будет горе
+- anh151 Умрет если на то будет воля Аллаха
+- anh152 Тихая беседа
+- anh153 Упрямая теща
+- anh154 Что может быть слаще
+- anh155 Все в порядке
+- anh156 Як своей бедности привык
+- anh157 Небольшая разница
+- anh158 Халва
+- anh159 Насильно заставляют есть халву
+- anh160 Если бы каждый день был праздник
+- anh161 Почему не ешь
+- anh162 Подготовка к зиме
+- anh163 Аппетит Насреддина
+- anh164 Куда несут человека
+- anh165 Раб
+- anh166 Умный осел
+- anh167 Брезговать не приходится
+- anh168 Арбуз
+- anh169 М помечтать-то нельзя
+- anh170 Ну и судьба
+- anh171 Когда не хватает муки
+- anh172 Пожирнее
+- anh173 Калым
+- anh174 Ни к чему такой размах
+- anh175 Высшая добродетель
+- anh176 Когда вы умрете
+- anh177 Жадность
+- anh178 Как спасать тонущего
+- anh179 Почему Насреддин плакал
+- anh180 Искренность Насреддина
+- anh181 Цена уважения
+- anh182 Почему Эпенди любил деньги
+- anh183 Скоро похудеет
+- anh184 Счастливая курица
+- anh185 Молла в гостях
+- anh186 Намаз  по усопшему
+- anh187 Отличная кухня
+- anh188 Он сделает то что сказал
+- anh189 Поймет ли имам
+- anh190 Эфенди в гостях
+- anh191 После плова
+- anh192 Чтение Корана
+- anh193 Я уже выспался
+- anh194 Просьба Афанди
+- anh195 Самый приятный звук
+- anh196 Беседа о классиках
+- anh197 Нет ли чего на дне
+- anh198 Мед и сердце
+- anh199 Жадный хозяин
+- anh200 Напраслина
+- anh201 Почему ходжа ел пятерней
+- anh202 Виноград
+- anh203 Надзиратель над поварами
+- anh204 А то расплескаюсь
+- anh205 Будьте милосердны к моей семье
+- anh206 Молпа боится опоздать
+- anh207 Ходжа ночью съедает пирог
+- anh208 Угощение без продолжения
+- anh209 Хоть раз умереть
+- anh210 Незваный гость
+- anh211 Знакомый Насреддина
+- anh212 Пай Моллы
+- anh213 Ловкость Насреддина
+- anh214 Скупость
+- anh215 А тебе-то что
+- anh216 Голова с одним глазом
+- anh217 Кушанье без помех
+- anh218 Я говорю коротко
+- anh219 Ходжа и обжора
+- anh220 Кулинарные советы
+- anh221 Неуместный гнев
+- anh222 В каждом городе — свой устав
+- anh223 Это дальний родственник того супа
+- anh224 Вчерашняя голова
+- anh225 Насреддин и муталимы
+- anh226 Жадный гость
+- anh227 Пожалей желудок
+- anh228 Пустая миска
+- anh229 Нечего и приглашать
+- anh230 Два выхода
+- anh231 Залог
+- anh232 Как Насреддин отвадил приятелей
+- anh233 Насреддин приглашает гостя
+- anh234 Приятели-обжоры
+- anh235 Молла защищает осла
+- anh236 Как ходжа заказывал себе печать
+- anh237 Бережливость Насреддина
+- anh238 Хорошо когда твое имущество перед глазами
+- anh239 Как Эпенди сажал деревья
+- anh240 Бережливость не помешает
+- anh241 Как Насреддин собаку выбирал
+- anh242 Вкус один
+- anh243 Подарок Насреддина
+- anh244 Кольцо Афанди и купец
+- anh245 Пойми
+- anh246 Верите глупому ослу
+- anh247 Жена велела
+- anh248 Молла советуется с ослом
+- anh249 Чтоб лучше почувствовали
+- anh250 Золотая монета
+- anh251 Неполученное письмо
+- anh252 Вам-то я верю
+- anh253 Спишь ли ты
+- anh254 Срок дам какой угодно
+- anh255 Щедрость Насреддина
+- anh256 Кому не следует давать в долг
+- anh257 Сорокалетний уксус
+- anh258 Возьмешь — не вернешь
+- anh259 В долгу меня не проси
+- anh260 Не ты один мне должен
+- anh261 Ленивый бай
+- anh262 Как же я могу расплатиться
+- anh263 Способ расплатиться с долгами
+- anh264 Завтра
+- anh265 Причина огорчения
+- anh266 Как облегчить бремя долгов
+- anh267 Не спеши
+- anh268 Ходжа  торгует
+- anh269 Я не для продажи его привел
+- anh270 Как хвалить осла
+- anh271 Так у нас дело пойдет
+- anh272 Волшебная кочерга
+- anh273 Индюшка Моллы
+- anh274 Изъян чапмы
+- anh275 Осел без хвоста
+- anh276 Котелок Насреддина
+- anh277 Порошок из черепков
+- anh278 Афанди торгует веерами
+- anh279 Поразительно
+- anh280 Вкусные манты
+- anh281 Ты будешь продавать или я
+- anh282 Продал за ту же цену
+- anh283 Верблюжий череп
+- anh284 Дом Насреддина
+- anh285 Совет покупателю
+- anh286 Редкий товар
+- anh287 Как Насреддин покупал ковер
+- anh288 С великим трудом
+- anh289 Почему Несарт купил только один чувяк
+- anh290 Горячие лепешки
+- anh291 Кто дал деньги тот и играет на дудке
+- anh292 Ахь и Ох
+- anh293 Что значит двадцать пять копеек
+- anh294 Такая уж судьба
+- anh295 Цена халвы
+- anh296 Цена барана
+- anh297 О придаче мы не договаривались
+- anh298 Бессовестный
+- anh299 Я не скупой
+- anh300 Ходжа и булочник
+- anh301 Возьмите мою покупку
+- anh302 Ходжа и банщики
+- anh303 Не довольно ли одного акча
+- anh304 За слова получил спова
+- anh305 Несарт и хозяин харчевни
+- anh306 Десять слепцов
+- anh307 Цена смерти
+- anh308 Саван
+- anh309 Сделка Насреддина
+- anh310 Сколько я вам должен
+- anh311 Как ходжа обманул зеленщика
+- anh312 Мулла  Насреддин и свекла
+- anh313 Продаю лестницу
+- anh314 Ходжа  в чужом саду
+- anh315 Упал с ишака
+- anh316 Любезное предпожение
+- anh317 Интересный человек
+- anh318 Морковь и редька
+- anh319 Ты ведь не дал мне времени
+- anh320 Гусь соседа
+- anh321 Чтобы воры не украли
+- anh322 Корысть Насреддина
+- anh323 Теперь не убегу
+- anh324 Убиенный козел
+- anh325 Лучше не спрашивай
+- anh326 Музыку ты услышишь завтра
+- anh327 В доме воры
+- anh328 Как Насреддин делил воровскую добычу
+- anh329 Земляк
+- anh330 Глупый вор
+- anh331 Перехитрил воров
+- anh332 Кто кого раздел
+- anh333 Может воры что-нибудь потеряют
+- anh334 Зря бегать
+- anh335 Напрасно стараешься
+- anh336 Мулла Насреддин и воры
+- anh337 Спрятался от стыда
+- anh338 Ворон еще грязнее нас
+- anh339 Рецепт
+- anh340 Ошибка Моллы
+- anh341 Тот да не тот
+- anh342 Превращения осла
+- anh343 Ловушка
+- anh344 Чтобы самого не украли
+- anh345 Хвост петуха
+- anh346 Догадливость жены Насреддина
+- anh347 А вор ни в чем не виноват
+- anh348 Оспа увели
+- anh349 Осел виноват
+- anh350 Ходжа ищет осла
+- anh351 Молитва Моллы
+- anh352 Что останется
+- anh353 Сладость находки
+- anh354 Плата носильщику
+- anh355 Молпа Насреддин и вор
+- anh356 Потерянный кошелек
+- anh357 Шум из-за чапана — *siehe aTMJ2672*
+- anh358 Афанди ждет вора
+- anh359 Афандии три вора
+- anh360 Мама ушла на той
+- anh361 Тебе-то что
+- anh362 Чем вы еще недовольны
+- anh363 Обманутый разбойник
+- anh364 Мупла Насреддин и черт
+- anh365 Как Насреддин с богатеями воевал
+- anh366 Как Афанди попал на свадьбу
+- anh367 Нужно было спешить
+- anh368 Гвоздь на стене
+- anh369 Четыре червонца
+- anh370 Как оджа купил лошадь
+- anh371 Льняное масло
+- anh372 Жадный легко обманывается
+- anh373 Удивительный заяц
+- anh374 Сорок одна овечка
+- anh375 Разговор с другом
+- anh376 Насмешка
+- anh377 Бездельник
+- anh378 Неплохая весть
+- anh379 Число пророков
+- anh380 Как найти свою лошадь
+- anh381 Каждому вернул его ноги
+- anh382 Доля Насреддина
+- anh383 Кусок льда
+- anh384 Мупла Насреддин и дети
+- anh385 Как Насреддину не удалось похорошеть
+- anh386 Если говорят правду
+- anh387 Если дети здесь таковы каковы же взрослые
+- anh388 Мулла Насреддин и бычок
+- anh389 Большой аппетит
+- anh390 Ходжа и цыган
+- anh391 Хитрый Петр и ходжа Насреддин
+- anh392 Награда за вежливость
+- anh393 Кому предъявлять иск
+- anh394 Кувшин золота
+- anh395 Эта мера — одна треть мана
+- anh396 Не упрекай
+- anh397 Перехитрил — *siehe aMZJ1521_1*
+- anh398 Черная кость
+- anh399 Три совета
+- anh400 Деньги растаяли
+- anh401 Рев осла
+- anh402 Странное гостеприимство
+- anh403 Добрые намерения
+- anh404 Черешня
+- anh405 Казан умер
+- anh406 Крепкий нюхательный табак
+- anh407 Кто выиграл
+- anh408 О том как Насреддин взялся выпить Черное море
+- anh409 Каменные сапоги
+- anh410 Красильня Моллы
+- anh411 Хитрый Петре и Насреддин-ходжа
+- anh412 Еда в складчину
+- anh413 Месть верблюду
+- anh414 Зловонный клад
+- anh415 Как Насреддин
+- anh416 Ходжа  и сосед
+- anh417 У неопытного цирюльника
+- anh418 Я думая там кого-то бреют
+- anh419 Надоедливый сосед
+- anh420 Шутники
+- anh421 Ничего не будет
+- anh422 В заботе о потомках
+- anh423 Муха в плове
+- anh424 Займись делом
+- anh425 Ответ ходжи
+- anh426 Спроси у него
+- anh427 Проигранная пшеница
+- anh428 Правильное мнение
+- anh429 Как преподавать
+- anh430 Ну а вонь откуда
+- anh431 Молла о воспитанин
+- anh432 Ходжа и лентяй
+- anh433 Каков учитель таковы и ученики
+- anh434 Воспитание осла
+- anh435 Чтобы устранить сомнение
+- anh436 И в молодости ничем не отличался
+- anh437 О юность
+- anh438 Ворота Самарканда
+- anh439 Проклятие Моллы
+- anh440 Долг платежом красен
+- anh441 Не до этого
+- anh442 Справедливость
+- anh443 Гордец Фарзалибек
+- anh444 Кто осел
+- anh445 Как ходжа отчитал кази  и купца
+- anh446 Ходжа и болтун
+- anh447 Кто в отца а кто м в мать
+- anh448 По мельнице и скотина
+- anh449 Волосы города
+- anh450 Афанди-арбакеш
+- anh451 Пусть сами уходят
+- anh452 Расчет
+- anh453 Стакан чаю
+- anh454 Поздравления
+- anh455 Берегись
+- anh456 Эпенди и нищий
+- anh457 Меня дома нет
+- anh458 Приказ Азраилу
+- anh459 Молла пишет письмо
+- anh460 Величина головы
+- anh461 Скорый ответ
+- anh462 А меня послали к вам
+- anh463 В грязи
+- anh464 Что сказал вол
+- anh465 Быстрый на ответ
+- anh466 Встретились отец с сыном
+- anh467 Ослиная голова
+- anh468 Как Аллах делил осла
+- anh469 Соскучиплся по брату
+- anh470 Причина радости
+- anh471 Самый храбрый
+- anh472 Без головы
+- anh473 Хвастливый военачальник
+- anh474 Пугливый ребенок
+- anh475 Каков казан такова и поварёшка
+- anh476 Ложь ко лжи
+- anh477 Пчелы величиной с овцу
+- anh478 Ходжа и перс
+- anh479 Искусный наездник
+- anh480 И сейчас не могу поднять
+- anh481 Три выстрела Эпенди
+- anh482 Тогда бы я был набитый дурак
+- anh483 Мулла Насреддин и сельчане
+- anh484 Попробуйте сделать как я
+- anh485 Цена этого мира
+- anh486 Почет шубе
+- anh487 Пусть день наступит пораньше
+- anh488 Как Насреддин рассмешил невестку
+- anh489 Как угодить людям
+- anh490 Лучший способ
+- anh491 Все невпопад
+- anh492 Дочь беременна
+- anh493 Как нужно есть урюк
+- anh494 Мулла Насреддин на дереве
+- anh495 А мулле Насреддину невдомек
+- anh496 Четыре монеты на троих
+- anh497 Счастливая охота
+- anh498 Как Насреддин овец считал
+- anh499 Я не буду больше пешком ходить
+- anh500 Афанди расширяет свое поле
+- anh501 Так далеко я не заглядываю
+- anh502 В тени облака
+- anh503 Я бы там не принялся
+- anh504 Уши
+- anh505 Жду пока вынырнет
+- anh506 Пожар в желудке
+- anh507 Чтоб ослу было легче
+- anh508 Как ходжа избавился от блох
+- anh509 Зато соседу хуже
+- anh510 Мечты Насреддина
+- anh511 Не сбей мне мерку
+- anh512 Тыква виновата
+- anh513 Останешься без мужа
+- anh514 Доказательство глупости
+- anh515 Солнце и тень
+- anh516 Кремень
+- anh517 Откуда мне знать где правая сторона
+- anh518 Поищу на улице
+- anh519 Черная курица
+- anh520 Луна сушит лучше
+- anh521 Голос Насреддина
+- anh522 Молла — противник зазнайства
+- anh523 Долг ослу
+- anh524 Терпеливое животное
+- anh525 Зеленые очки
+- anh526 Совет матросам
+- anh527 Солнце
+- anh528 Верный совет
+- anh529 Камни в хурджуне
+- anh530 Советы Насреддина
+- anh531 При дневном свете не знаешь дороги
+- anh532 О священная луна
+- anh533 В чем мать родила
+- anh534 Горячая и холодная баня
+- anh535 Афанди поспешил
+- anh536 Суп из утки
+- anh537 Говорил тебе
+- anh538 Вот теперь ты стал похож на птицу
+- anh539 Ворон
+- anh540 Я себя принял за рыбу
+- anh541 Ходжа намекает чтобы ему дали рыбы
+- anh542 Черепаха
+- anh543 Сколькф вытерпел бедный ремень
+- anh544 Хорошие луга
+- anh545 Молла нашел птенчика
+- anh546 Сколько сводниц
+- anh547 Нечего кичиться
+- anh548 Кукурузные пелешки
+- anh549 Молла пытается шутить
+- anh550 Бегство от смерти
+- anh551 Не знают языка
+- anh552 Ходжа у источника
+- anh553 Достижение цели
+- anh554 Все равно должен был слезть
+- anh555 Чалма вспоминает молодость
+- anh556 Лошадь у меня левша
+- anh557 Что стало с мулом1
+- anh558 Как ехать на осле
+- anh559 Уздечка оспа
+- anh560 Припежание Моллы
+- anh561 Назидание ишаку
+- anh562 Что тебе понравилось то я и взял
+- anh563 Новый осел
+- anh564 Упрямый мул
+- anh565 Научил на свою голову
+- anh566 Всему учат матери — *siehe aTMJ1863*
+- anh567 Еспи развяжется
+- anh568 Видишь как он свесил голову]
+- anh569 Град
+- anh570 Голова коровы в кувшине
+- anh571 Как бы верблюды не забрались на дерево
+- anh572 Зачем стирать
+- anh573 Беспокойный бай
+- anh574 Аба Моллы
+- anh575 Письмо Насреддина
+- anh576 Глупое ты животное
+- anh577 Возьми и себе
+- anh578 Если у тебя есть разум
+- anh579 Самому не понравилось
+- anh580 Ничего
+- anh581 Жареные семена
+- anh582 Необыкновенные воробьи
+- anh583 Молла и волки
+- anh584 Беглецы
+- anh585 Если волк вырвется
+- anh586 Была ли голова
+- anh587 Заколдованный круг
+- anh588 Успужливые лягушки
+- anh589 Цена абы
+- anh590 Кто кого купил
+- anh591 В сапожном ряду
+- anh592 Как вычислить расстояние
+- anh593 Посажу через три года
+- anh594 Ходжа мочится на крыше
+- anh595 Ходжа в уборной при мечети
+- anh596 Заминка Насреддина
+- anh597 Дача на эйлаге
+- anh598 А здесь — уборную
+- anh599 Недодепка в доме
+- anh600 Уходи
+- anh601 Ищу сон
+- anh602 Траур
+- anh603 Кто же спаситель
+- anh604 Эпенди и медведь
+- anh605 Выходите все
+- anh606 Голова барана
+- anh607 Наказ жены
+- anh608 Это я или он
+- anh609 Где моя голова
+- anh610 Ты — это я сам
+- anh611 Афанди и зеркало
+- anh612 Ум Насреддина
+- anh613 Вор в глиняном кувшине
+- anh614 Сила голоса
+- anh615 Единственный способ
+- anh616 Молла откапывает скот
+- anh617 Палец или рыба
+- anh618 Как ходжа поливал лук
+- anh619 Но где же вода
+- anh620 Афанди свалился с крыши
+- anh621 Адам
+- anh622 Хозяин рубахи
+- anh623 А если бы в рубашке был я
+- anh624 Слава богу что на осле не было меня
+- anh625 Милость Аллаха
+- anh626 Новые башмаки
+- anh627 Хорошо что у верблюда нет крыльев
+- anh628 Бог знал что делал
+- anh629 Мешок муки
+- anh630 Очки
+- anh631 Несарт и очки
+- anh632 Нечистое животное
+- anh633 Спать в сапогах
+- anh634 Толкователь снов
+- anh635 Сон Насреддина
+- anh636 Со мной именно это и случилось
+- anh637 Ходжа сочиняет стихи
+- anh638 Ну давай хоть девять таньга
+- anh639 Теперь не надуешь
+- anh640 Верни-ка мне денежки
+- anh641 Не было дома
+- anh642 Щедрость Насреддина
+- anh643 Борода иблиса
+- anh644 Черенки винограда
+- anh645 Смысл жизни
+- anh646 Мулла  Насреддин я хурджины
+- anh647 Нож Моплы
+- anh648 Звездочет
+- anh649 Какая разница
+- anh650 Пример мудреца
+- anh651 За двух мулл — одного дехканина
+- anh652 Обучение осла
+- anh653 Ложное предсказание
+- anh654 Ты читаешь лучше меня
+- anh655 Тогда бы я прочел по-другому
+- anh656 Дорогое письмо
+- anh657 Дело не в чалме
+- anh658 Насреддин-дипломат
+- anh659 Брат и сестра Адама
+- anh660 Имя волка
+- anh661 Познания Насреддина в арабском языке
+- anh662 Шкура казикалана
+- anh663 Персидская ученость ходжи
+- anh664 Молла играет на таре
+- anh665 Стихи Насреддина
+- anh666 И смех и слезы
+- anh667 Ходжа и ученик-абиссинец
+- anh668 Польза затрещины
+- anh669 Трезвый и пьяный
+- anh670 Разговор о погоде
+- anh671 Лето и зима
+- anh672 Убедительный довод
+- anh673 Я сегодня луной не торговал
+- anh674 Первый день
+- anh675 Месяц и луна
+- anh676 Расстояние от Тегерана до`Казвина
+- anh677 Ходжа держит слово
+- anh678 Змея перерастает в дракона
+- anh679 Ученость ходжи
+- anh680 Афанди-проповедник
+- anh681 Не знаю
+- anh682 Один ствет на сорок вопросов
+- anh683 Невежество по наследству
+- anh684 Ходжа философствует
+- anh685 Самое приятное и самое неприятное
+- anh686 Три вопроса
+- anh687 Где истина
+- anh688 Как велик мир
+- anh689 Чиспо звезд
+- anh690 Только не внутри
+- anh691 А как же без соломы
+- anh692 Долго ждать
+- anh693 Друзья познаются в беде
+- anh694 Умение хранить тайну
+- anh695 Уши и рот
+- anh696 Как стать умным
+- anh697 Казнь для сплетников
+- anh698 Очень просто
+- anh699 Попробуй закрой и второй
+- anh700 Как Насреддин за бога ответы давал
+- anh701 Кто умнее
+- anh702 Самые крепкие люди
+- anh703 Кого больше
+- anh704 Все возможно
+- anh705 Темно в глазах
+- anh706 Кебаб  из куропатки
+- anh707 Шкварка
+- anh708 Лучшее благо бога
+- anh709 Безумцы
+- anh710 Кому отдавать на хранение
+- anh711 Ясновидение Насреддина
+- anh712 Смотря кому
+- anh713 Все знает
+- anh714 О шее верблюда
+- anh715 Почему рыба не говорит
+- anh716 Рыбы не быки
+- anh717 Проглоти кошку
+- anh718 Средство от блох
+- anh719 Пила без зубьев
+- anh720 Что такое абрикосовое дерево
+- anh721 Творожное дерево
+- anh722 Маст  или голубиный помет
+- anh723 Куда девается луна
+- anh724 Как делают минареты
+- anh725 Ножны топора
+- anh726 Отчего вода в море соленая
+- anh727 Луна лучше
+- anh728 Земля бы перевернулась
+- anh729 Кто вам сказал
+- anh730 Догадливый приятель
+- anh731 Загадка м разгадка
+- anh732 Кто же приносит несчастье
+- anh733 Почему ты залез на самое небо
+- anh734 Ура К нам шлют и слониху
+- anh735 Ходжа смиряет гордость Тимурленга
+- anh736 Обычай этого города
+- anh737 Кухни и дворцы
+- anh738 Слепой
+- anh739 Кто выше
+- anh740 Кто сильнее
+- anh741 Величие Тимура
+- anh742 Хвастовство
+- anh743 Смерть минует Моллу
+- anh744 Советы Насреддина
+- anh745 Эфенди-художник
+- anh746 Жадность
+- anh747 Эпенди и Тимур в бане
+- anh748 Полезный камешек
+- anh749 Зпая собака
+- anh750 О тиранах
+- anh751 Всемирное ликование
+- anh752 Почетное место в аду
+- anh753 Почему рай больше ада
+- anh754 Комната Тимура
+- anh755 На одном пути
+- anh756 Людоед
+- anh757 Титул
+- anh758 Четвероногий падишах
+- anh759 Бог семнадцати тысяч девятисот девяноста девяти стран
+- anh760 Царь развалин
+- anh761 У Аллаха хватило ума
+- anh762 Запоздавшая холера
+- anh763 Так еще не поступал
+- anh764 Кто станет молиться
+- anh765 Еще страшнее
+- anh766 Предусмотрительность Моллы
+- anh767 Самый опасный нищий
+- anh768 Вопрос Тимура
+- anh769 Кто был отцом
+- anh770 Обманул созвездия
+- anh771 Осел-предсказатель
+- anh772 Предсказатель погоды
+- anh773 Волшебник
+- anh774 Афанди в роли святого
+- anh775 Чудо
+- anh776 Власть жены
+- anh777 Как Насреддин правителя провел
+- anh778 Как Насреддин превратился в осла
+- anh779 Золотая рыбка
+- anh780 Перстень без камня
+- anh781 Медлительный осел и лучший скакун
+- anh782 Заноза
+- anh783 Чтобы все были довольны
+- anh784 День когда Афанди потерял рассудок
+- anh785 Разбух под дождем
+- anh786 В ослиный хлев
+- anh787 Учет Эпенди
+- anh788 Подарок Насреддина
+- anh789 Первый инжир
+- anh790 Именем повелителя
+- anh791 Из лгуна судьи не получится
+- anh792 Владетель
+- anh793 Молла Несарт у шаха Тамерлана
+- anh794 Жертва Моллы
+- anh795 Афанди — стрелок из лука
+- anh796 Дары падишаха и бога
+- anh797 Все нужно
+- anh798 Справедливая награда
+- anh799 Афанди смеется
+- anh800 Боязнь щекотки
+- anh801 Афанди — заноза
+- anh802 Как Насреддин деньги выманил
+- anh803 Молла и придворные
+- anh804 Список дураков
+- anh805 Персики
+- anh806 Верблюд в бане
+- anh807 Вельможное одеяние
+- anh808 Груз двух ослов
+- anh809 Высокое назначение
+- anh810 Афанди и Тамерлан
+- anh811 Над чем смеялась лошадь Афанди
+- anh812 Каково нам]
+- anh813 Тень эмира
+- anh814 Умный падишах
+- anh815 Что относится к правителю города
+- anh816 О баклажанах
+- anh817 На охоте
+- anh818 Вся одежда
+- anh819 Храбрость Насреддина
+- anh820 Молодец
+- anh821 Случай на охоте
+- anh822 Молла собирается в поход
+- anh823 Главное оружие
+- anh824 Похвальба победителя
+- anh825 Пусть пришлют мудрого повелителя
+- anh826 Легкая рука
+- anh827 Можно ли заполнить рай и ад
+- anh828 Страсть к преувеличениям
+- anh829 Ничего страшного
+- anh830 Имам и пророк
+- anh831 Лучший из господ
+- anh832 Маленький и большой
+- anh833 Сон
+- anh834 Воины Тимура
+- anh835 Молла восстанавливает истину
+- anh836 Как же тут не солгать
+- anh837 Купец-дьявол
+- anh838 Плод того дерева
+- anh839 Снаружи или изнутри
+- anh840 Придворные вороны
+- anh841 Право на бороду
+- anh842 Объедки с дастархана
+- anh843 Бык и собака
+- anh844 Угопек
+- anh845 Слово «мир»
+- anh846 Кто рождается
+- anh847 Игра в чоуган
+- anh848 Воля победителя
+- anh849 Это не в моих силах
+- anh850 Насморк
+- anh851 Правильный ответ
+- anh852 Ходжа и женоненавистник
+- anh853 Толкование сна эмира
+- anh854 Не спеши
+- anh855 Источник жизни
+- anh856 Подарок Моплы
+- anh857 Небылица
+- anh858 Извинение хуже проступка
+- anh859 Тимур и Мулла Насреддин
+- anh860 Случай в зиндане
+- anh861 Упрек правителю
+- anh862 Кетмень  казикалана
+- anh863 Казнь египетская
+- anh864 По справедливости
+- anh865 Или осел или Тимур
+- anh866 Изгнание
+- anh867 Отшельничество
+- anh868 Знание закона
+- anh869 Как ходжа  был судьей
+- anh870 Вещий сон
+- anh871 Яи сам так думая
+- anh872 Уши не по размеру
+- anh873 Вашими молитвами
+- anh874 Не беда
+- anh875 Когда имама  назначат казием
+- anh876 Нет веры словам казия
+- anh877 Чудо
+- anh878 Пропавшая корова
+- anh879 Зуд в ладони
+- anh880 Показание дерева
+- anh881 Приговор эфенди по палке
+- anh882 Казий побежден
+- anh883 Проверим
+- anh884 Молла ищет клад
+- anh885 Приметы коня
+- anh886 Развод
+- anh887 Он под защитой бога
+- anh888 Наказание
+- anh889 Ничто за ничто
+- anh890 Эпенди тоже двуличный казя
+- anh891 Что ухо
+- anh892 Штраф за оскорбление
+- anh893 Насреддин и кадия
+- anh894 Как Насреддин помог бедняку
+- anh895 Плата за покрякивание
+- anh896 Звон денег
+- anh897 Ходжа разбирает тяжбу красавиц
+- anh898 Насреддин-кадий
+- anh899 Мешки
+- anh900 Мудрое решение Насреддина
+- anh901 Разделил по совести
+- anh902 Дураки
+- anh903 Вы все правы
+- anh904 Долг правителя
+- anh905 Дележ «по-божески»
+- anh906 Забота Моллы
+- anh907 Свидетель
+- anh908 Находчивость Афанди
+- anh909 Разговор с казием
+- anh910 Лучших свидетелей не найти
+- anh911 Я знаю этот горшок
+- anh912 Не мое дело
+- anh913 Лжесвидетель
+- anh914 Пусть пользуется своей лошадью
+- anh915 Джубба  кадия
+- anh916 В шкуре собаки
+- anh917 Вата затупила твой топор
+- anh918 Эпенди м торговец — *siehe ATU 1543 Keinen Pfening weniger*
+- anh919 Как молла доказал свою правоту
+- anh920 Суд Анастратина
+- anh921 Наказанный судья
+- anh922 Спины заболели
+- anh923 Скупая паства
+- anh924 Что едят на четвертом небе
+- anh925 Худшее наказание
+- anh926 Молитва о ветре
+- anh927 Скупые прихожане
+- anh928 Как ходжа  добился угощения
+- anh929 Как Насреддин хотел паломничество совершить
+- anh930 Советы дьявола
+- anh931 То-то же
+- anh932 Благодарность не к месту
+- anh933 Афанди стап муллой
+- anh934 Ходжа — правоверный мусульманин
+- anh935 Местонахождение ангелов
+- anh936 Божий глаз
+- anh937 О сотворении мира
+- anh938 Если бы сказал меньше
+- anh939 Три случая
+- anh940=a1826
+- anh940 Как Насреддин был дибиром
+- anh941 За две версты услышу
+- anh942 Если будет нато воля Аллаха
+- anh943 Ходжа у курдов
+- anh944 Как зовут жену черта
+- anh945 Мблис
+- anh946 Очная ставка
+- anh947 В голове пусто
+- anh948 Деньги взаймы
+- anh949 Иногда м жены
+- anh950 Свой дом знает
+- anh951 Вредная скотина
+- anh952 Мулла семь шкур спустит
+- anh953 Если попал в руки муллы
+- anh954 Осел — настоятель мечети
+- anh955 Достойный подражания
+- anh956 Мамаша дьявола
+- anh957 Самая большая пожь
+- anh958 Смертные грехи
+- anh959 Молла наказывает самого себя
+- anh960 Борода мусульманина
+- anh961 О бороде священнослужителя
+- anh962 Ходжа Насыр и мулла
+- anh963 Родственники
+- anh964 Вот жилье твоего дяди
+- anh965 Люди Аллаха
+- anh966 Дождь — божья благодать
+- anh967 Гнев покойника
+- anh968 Пример осла
+- anh969 Вот настоящий осел
+- anh970 Верну хозяину
+- anh971 Палки и плети
+- anh972 Афанди-пророк
+- anh973 На своем месте
+- anh974 Праведники не ведают гордыни
+- anh975 Внутреннее око
+- anh976 Заветы отца
+- anh977 Прочти молитву ичигам
+- anh978 Чья клятва сильнее
+- anh979 Прощение Аллаха
+- anh980 Чудесный бурдюк
+- anh981 Истинный суфий
+- anh982 Шашлык по поводу светопреставления
+- anh983 Предсказание Моллы
+- anh984 Торговец тканямн на том свете
+- anh985 Дочери и двери в рай
+- anh986 Нельзя роптать
+- anh987 Еспи Аллах так всемогущ
+- anh988 Несогласие Моллы
+- anh989 Беззубые гурии
+- anh990 Это прекрасно
+- anh991 На чем проехать в рай
+- anh992 На собственном осле
+- anh993 Где находится рай
+- anh994 Лучше пойти в ад
+- anh995 Несправедливость
+- anh996 Не осталось бы ни одного муллы
+- anh997 Почему не слышно слез
+- anh998 Доля глупцов
+- anh999 Путь в рай
+- anh1000 Тонкости богословия
+- anh1001 Славословие и коленопреклонение
+- anh1002 Возьми рубль обратно
+- anh1003 Занятия Насреддина
+- anh1004 Угодная молитва
+- anh1005 Добрый совет
+- anh1006 Лучшая молитва
+- anh1007 Когда благодарить
+- anh1008 Все от бога
+- anh1009 Нун бог
+- anh1010 Сам виноват
+- anh1011 Как иметь дело с Аллахом
+- anh1012 Если это тот Аллах
+- anh1013 Обет Моллы
+- anh1014 Настоящий торгаш
+- anh1015 Аллах всемогущий
+- anh1016 Прибавлю еще десять
+- anh1017 Ропот Моллы
+- anh1018 Мольба исполненная насборот
+- anh1019 Аллах-старьевщик
+- anh1020 Действенная молитва
+- anh1021 Как Насреддин лечился
+- anh1022 Чудны дела твои
+- anh1023 Будь моя воля
+- anh1024 Собака в мечети
+- anh1025 Кто первый
+- anh1026 Надо же и отдохнуть
+- anh1027 Пять братьев
+- anh1028 Башмаки Насреддина
+- anh1029 На бога надейся а сам не плошай
+- anh1030 Осел дороже калош
+- anh1031 Нужный камень в тягость не бывает
+- anh1032 Ангелы и воры
+- anh1033 Аллах недосмотрел
+- anh1034 Святые изречения
+- anh1035 Тогда вы все уснете
+- anh1036 Как Эпенди усыпил ребенка
+- anh1037 Это не для веселья
+- anh1038 Полдневный пост
+- anh1039 Злая луна
+- anh1040 Молла постится
+- anh1041 Надо грешить поменьше
+- anh1042 Следует ли соблюдать пост
+- anh1043 Наступление месяца рамазан
+- anh1044 Нашли друг друга
+- anh1045 Даровые хлеба
+- anh1046 Безысходное горе
+- anh1047 Ходжа и попь
+- anh1048 Ходжа изменяет требованиям шариата
+- anh1049 Певая нога без омовения
+- anh1050 Бери назад омовение
+- anh1051 Нет худа без добра
+- anh1052 Смертный грех
+- anh1053 По Корану
+- anh1054 Напраспина
+- anh1055 Осел в медресе
+- anh1056 Жертва Моллы
+- anh1057 Медицинские наставления ходжи
+- anh1058 Средство от лихорадки
+- anh1059 Срочное исцеление
+- anh1060 Стихи некстати
+- anh1061 Совет Афанди
+- anh1062 Уши правителя
+- anh1063 Скоро спадет
+- anh1064 Ешь переваренное
+- anh1065 Неизлечимая болезнь
+- anh1066 Средство от бессонницы
+- anh1067 Странная болезнь
+- anh1068 Молитва и мазь
+- anh1069 Как вылечить дочь
+- anh1070 Рано или поздно
+- anh1071 Эфенди  и больной имам
+- anh1072 Наследственность
+- anh1073 Как оджа Насреддин вылечил султанских оружейников
+- anh1074 Средство от зубной боли
+- anh1075 Кто ел попону
+- anh1076 Афанди-знахарь
+- anh1077 Когда исцелится
+- anh1078 Обязательно сообщите
+- anh1079 Соболезнование
+- anh1080 Неуместные увещевания
+- anh1081 Зубная боль
+- anh1082 Лекарь
+- anh1083 Разница
+- anh1084 Азраил и табибы
+- anh1085 Дорогое лечение
+- anh1086 Зуб Насреддина
+- anh1087 Темно в глазах
+- anh1088 Болезнь Моллы
+- anh1089 Верное средство
+- anh1090 Зелье из разводов
+- anh1091 Действенное лекарство
+- anh1092 Сова
+- anh1093 Совестно перед табибом
+- anh1094 Молла благодарит лекаря
+- anh1095 Болезнь Насреддина
+- anh1096 Исцеление больного
+- anh1097 Чего мне бояться
+- anh1098 Поношу пока жив
+- anh1099 Огорчения Афаиди
+- anh1100 Нездоровая местность
+- anh1101 Сейчас мне некогда
+- anh1102 Насреддин забрался в могилу
+- anh1103 Какие вести с того света
+- anh1104 На том свете
+- anh1105 По какой дороге идти
+- anh1106 Сам сообщил
+- anh1107 У меня тоже были важные дела
+- anh1108 О мнимой смерти оджи Насреддина
+- anh1109 Завещание Насреддина
+- anh1110 В день страшного суда
+- anh1111 Еще одно завещание
+- anh1112 Необычная щедрость
+- anh1113 Умер не родившись
+- anh1114 Ходжа продолжает любезничать
+- anh1115 Женское красноречие
+- anh1116 Поплачьте
+- anh1117 Перед смертью
+- anh1118 Насреддин и Азраил
+- anh1119 Посмертнсе чудо ходжи Насреддина
