@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">III: Тамбий</title>
+    <author>
+     <name xml:id="AB">
+      <persName>
+       <forename>Aleksei</forename>
+       <surname>Barsov</surname>
+      </persName>
+     </name>
+     <idno></idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">Дагестанския Сказки</title>
+      <author>
+       <persName ref="#AD">
+        <forename>Aleksei</forename>
+        <surname>Barsov</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+      <imprint>
+       <pubPlace>Tiflis</pubPlace>
+       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+       <date when="1881">1881</date>
+      </imprint>
+      <biblScope unit="volume">2</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"></index>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_kum_rus_44.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district>Buinaksk</district>
+     <settlement ref="https://www.geonames.org/484334/tarki.html">Tarki</settlement>
+    </placeName>
+    <date notAfter="1882">1882</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district></district>
+       <settlement ref="https://www.geonames.org/484334/tarki.html">Tarki</settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AB">
+      <forename>Nureddin</forename>
+      <surname>Schamchalov</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change></change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_kum_rus_44">
+  <body>
+   <head>III: Тамбий</head>
+   <p>Жилъ-былъ одинъ чедовекъ, Тамбий, съ матерью; у <pb n="129"/> нихъ былъ одинъ барашекъ. Тамбий отвезъ барашка въ лесъ и оставилъ его тамъ, разсчитывая, что онъ пожирееть. Черезъ месяцъ онъ пошелъ за барашкомъ; подходя къ лесу, Тамбий увиделъ волка, доедавщаго кости барашка. Тамбий подкрался и поймалъ волка. Волкъ сказалъ ему человечьимъ голосомъ: "Не убивай меня! Здесь поблизости пасется стадо, я разорву пастуха и пригоню стадо къ тебе. Тамбий согласился. Волкъ пошелъ, разорвалъ пастуха, а стадо пригналъ къ Тамбию. Тамбий отдалъ одного барана волку, а остальныхъ погналъ въ аулъ.
+</p>
+   <p>Когда онъ пришелъ въ аулъ, жители стали спрашивать его: "Откуда ты досталъ столько барановъ?" Онъ отвечалъ: "Я оставилъ въ лесу одну овечку, а чрезъ месяцъ у нея родилось столько берановъ." Жители просили его показать имъ это место; когда онъ указалъ его имъ, то каждый изъ жителей отвелъ туда по нескольку овецъ. Черезъ месяцъ все съ Тамбиемъ пошли за овцами; когда дошили до леса, Тамбий спрятался, а жители, увидя отъ своихъ овецъ только одне кости, очень разсердились и хотели убить Тамбия, но, не нашедши его, вернулись въ аулъ и убили мать Тамбия.
+</p>
+   <p>Когда насталъ вечеръ, Тамбий пришелъ домой, нарядилъ мертвую мать, взялъ ее на руки и пошелъ въ другой аулъ. Тамъ, подойда къ одной хижине, онъ поставилъ мать за воротамн, а самъ вошелъ въ хижину, где засталъ хозяевъ за обедомъ. Они пригласили его обедать. Онъ согласился и попросилъ позвать и его мать, которая была за воротами. Хозяева пошли и начали просить ее придти къ нимъ обедать, но она не отвечала имъ ни слова. Хозяева воротились и сказали Тамбию, что мать его не хочетъ идти. Тамбий сказалъ, что мать его стыдится и потому не хочетъ идти. Тамбий попросилъ, чтобы они привели ее за руку. Те пошли, взяли ее за руку и хотели вести, но она <pb n="130"/> упала. Тамбий, услышавъ, какъ Мать упала, началъ кричать: "Мою мать убили!" Хозяева начали упрашивать его, чтобы онъ не кричалъ, обещал ему и золота, и серебра; но Тамбий не переставалъ кричать; когда же обещали ему дать двухъ девушекъ, онъ замолчалъ. Взявъ обещанныхъ ему девушекъ, Тамбий пошелъ домой. Когда онъ вошелъ въ яулъ, жители окружили его и стали спрашивать, где онъ взялъ девушекъ. Онъ отвечалъ, что есть такой аулъ, где за одного мертвеца даютъ двухъ живыхъ, и что тамъ онъ променялъ мертвую мать на двухъ девушекъ. Тогда жители отрылы мертвецовъ и понесли ихъ въ тотъ аулъ. На дороге имъ встретился человекъ изъ того же аула и спросилъ ихъ, куда они идутъ. Те отвечали: "Идемъ въ вашъ аулъ менять мертвыхъ на живыхъ." Человекъ этотъ сказалъ имъ, что въ томъ ауле не даютъ живыхъ за мертвыхъ, и что все, разсказанное имъ Тамбиемъ, люжь. Они очень разсердились и тотчась же воротились въ свой аулъ. Пришедши туда, они поймали Тамбия и хотели убить его за обманъ; завязали его въ мешокъ, отнесли къ морю, а сами пошли въ лесъ наломать палокъ, чтобы поколотить Тамбия и тогда уже бросить въ море. Недалеко отъ Тамбия пастухъ пасъ овецъ; Тамбий закричалъ ему, чтобы онъ выпустилъ его изъ мешка; пастухъ, развязавши его, спросилъ, за что посадили его въ мешокъ. Тамбий отвечалъ: "За то, что я не хочу быть ханомъ." Пастухъ сказалъ: "Я желаю быть ханомъ, завяжи меня въ мешокъ." Тамбий согласился; наделъ одежду пастуха и погналъ стадо въ другую сторову. Черезъ несколько времени люди вернулись изъ лесу съ палками и начали бить по мешку. Пастухъ закричалъ: "Я желаю быть ханомъ!" Они, думая, что это Тамбий, сказали: "Если ты будешь ханомъ, то разоришь весь нашъ аулъ." После того они бросили его въ море. Когда они воротились въ аулъ, Тамбий вошелъ за ним со стадомъ. Его <pb n="131"/> спросили: "Какъ ты могъ воротиться, когда мы тебя утопили?" — "Когда вы меня топили, я бурчалъ подъ водой; въ это время я набиралъ барановъ," отвечалъ Тамбий. Тогда все, хотевшие его утопить, попросили, чтобы онъ ихъ бросилъ въ море. Тамбий согласился и велелъ каждому изъ нихъ принести по мешку къ морю; те принесли. Онъ ихъ всехъ завязалъ въ мешки и побросалъ въ море; оставилъ одну только девушку, да на ней и женился.
+</p>
+  </body>
+ </text>
+</TEI>

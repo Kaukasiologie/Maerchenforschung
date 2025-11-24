@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">ХЛЕБОСОЛ И ЖМОТ</title>
+    <author>
+     <name xml:id="AA">
+      <persName>
+       <forename>Arsen Kurbanovič</forename>
+       <surname>Abdulaev</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="IA">
+      <persName>
+       <forename>Isa Kurbanovič</forename>
+       <surname>Abdullaev</surname>
+      </persName>
+      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date when="2025">2025</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref/>
+    </bibl>
+    <bibl type="collection">
+     <title xml:lang="eng">Dido (Tsez) Folklore</title>
+     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+     <author role="author">
+      <name ref="#AA">
+       <persName>
+        <forename>Arsen Kurbanovič</forename>
+        <surname>Abdulaev</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#IA">
+       <persName>
+        <forename>Isa Kurbanovič</forename>
+        <surname>Abdullaev</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+     <distributor/>
+     <date when="2010">The year 2010</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a613 Die beiden Wanderer</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_66.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date/>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <address>
+       <district/>
+       <settlement/>
+      </address>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text xml:id="cc_ddo_rus_66">
+  <body>
+   <head>ХЛЕБОСОЛ И ЖМОТ</head>
+   <p>Что рассказать и что не рассказывать? Были, говорят, двое 1 друзей. Одного звали Хлебосол, а другого Жмот. Однажды они вместе отправились в путь. К вечеру они проголодались, сели на свежей траве возле холодного родника, чтобы немного поесть. Хлебосол открыл свою сумку с едой, положил перед Жмотом и предложил поесть то, что есть. Жмот съел то, что перед ним положили. Наелись, выпили холодной воды и пошли дальше. Стемнело, и они решили найти удобное место для ночлега. Там Хлебосол опять открыл свою сумку с едой, положил перед Жмотом. Облизывая губы, тот начал есть и съел все, что было в сумке Хлебосола.</p>
+   <p>Утром следующего дня они захотели позавтракать, ио Жмот опять не достал свою еду. Наступило обеденное время, и тогда Жмот повел себя так лее. Когда Хлебосол понял его натуру, он расстался с ним и пошел в другую сторону.</p>
+   <p>К вечеру он пришел к одной древней полуразрушенной мельнице и решил остаться там до утра. Когда он зажег там огонь, чтобы, греться, услышал на улице шуршание. Хлебосол потушил огонь и спрятался возле амбара, куда ссыпают зерно. На мельницу зашли медведь, волк и лиса. Медведь сказал: «Почему-то я не вижу тут никакой еды для нас, нам лучше пойти на верхнюю мельницу, может быть, там что-нибудь будет». «Мы отсюда никуда не пойдем, — возражала лиса, - на заброшенной мельнице наш разговор никто не будет слушать, поэтому мы здесь до утра друг другу расскажем свои секреты».</p>
+   <p>Все согласились с тем, что сказала лиса. Самый первый секрет начала рассказывать лиса: «Завтра на крышу этой мельницы должна прийти большая мышь с мешком., полным золота и денег. Она там. же себе постелит и будет спать под солнцем. А тот, кто ударит палкой и убьет мышь, пока она спит, получит все богатство, находящееся в мешке».</p>
+   <p>Потом начал рассказывать волк: «У дочери хана, живущего по соседству с нами, один глаз слепой. И хан обещал большой подарок тому, кто вылечит ее глаз. Ей же подходит только глаз собаки».</p>
+   <p>Затем, рассказал медведь: «В соседнем, селении скот на водопои водят в одно далекое ущелье. Мы с друзьями идем туда и ежедневно забиваем две-три головы скота. Если бы жители села узнали, что в центре села под камнем. находится родник, эту добычу мы бы не получили». Все эти секреты они рассказали и вышли на улицу. Вслед за ними вышел и Хлебосол.</p>
+   <p>Хлебосол нашел одну большую палку и ждал, когда появится мышь. Она появилась с большим мешком на спине, полным золота и денег, поднялась на крышу и легла спать под солнцем. Хлебосол вел себя тихо и ударом, палки убил мышь. Взял с собой мешок, полный золота и денег, и пошел кхану лечить его дочь. Когда добрался до владений того хана, он везде и всюду говорил: «Я любые болезни лечу». Хан приказал, визирям: «Срочно приведите ко мне Хлебосола». Он пришел, заменил девушке слепой глаз на собачий, и она начала видеть даже лучше, чем своим глазом. Хан сделал ему большой подарок, дал много золота, денег, коня и оружия.</p>
+   <p>Оттуда Хлебосол пошел к большому камню, под которым протекал родник.ЯСители того села сильно горевали, так как ежедневно волки и. медведи убивали их скот. Кроме того, им приходилось приноситъ воду издалека.</p>
+   <p>До рассвета Хлебосол копал яму под камнем, и оттуда фонтаном пошла холодная, вода. Жители села очень обрадовались, дали ему много золота, устроили большой праздник и проводили его в путь. Когда Хлебосол с полученным богатством возвращался обратно, он встретил Жмота. У того была рваная одежда и изношенная обувь.</p>
+   <p>Жмот был поражен состоянием Хлебосола и спросил у него: «Как это ты так. разбогател?» Хлебосол рассказал ему обо всем, что произошло.</p>
+   <p>Жмот тоже захотел найти такое же счастье на старой мельнице. Пошел туда, разжег внутри огонь и грелся у костра. Вдруг услышал на улице шуршание. Жмот выскочил, залез в мельничный амбар и спрятался внутри. Туда зашли медведь, лиса и волк. Медведь сказал: «Когда мы тут раньше друг другу секреты рассказывали, кто-то нас подслушал. Поэтому мы должны посмотреть и проверить, есть ли тут люди или нет».</p>
+   <p>Везде посмотрели и в амбаре нашли скрывшегося Жмота. Они вытащили его оттуда, избили до потери сознания и выбросили на улицу. Говорят, после, такого избиения Жмот до сих пор не выздоровел.</p>
+   <p>Вот такой случай произошел со Жмотом, который подло поступил с другом.</p>
+  </body>
+ </text>
+</TEI>

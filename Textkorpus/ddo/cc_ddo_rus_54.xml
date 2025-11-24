@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">ЛИСА И ВОРОНА</title>
+    <author>
+     <name xml:id="AA">
+      <persName>
+       <forename>Arsen Kurbanovič</forename>
+       <surname>Abdulaev</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="IA">
+      <persName>
+       <forename>Isa Kurbanovič</forename>
+       <surname>Abdullaev</surname>
+      </persName>
+      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date when="2025">2025</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref/>
+    </bibl>
+    <bibl type="collection">
+     <title xml:lang="eng">Dido (Tsez) Folklore</title>
+     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+     <author role="author">
+      <name ref="#AA">
+       <persName>
+        <forename>Arsen Kurbanovič</forename>
+        <surname>Abdulaev</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#IA">
+       <persName>
+        <forename>Isa Kurbanovič</forename>
+        <surname>Abdullaev</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+     <distributor/>
+     <date when="2010">The year 2010</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a222 Krieg der flugfähigen Tiere gegen die Vierbeiner</item>
+      <item>a537 Der Flug auf dem dankbaren Adler</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_54.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date/>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <address>
+       <district/>
+       <settlement/>
+      </address>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text xml:id="cc_ddo_rus_54">
+  <body>
+   <head>ЛИСА И ВОРОНА</head>
+   <p>Что рассказать, что не рассказывать? Были, говорят, не были не в воздухе, не на земле, а на одной горе лиса и ворона. Они жили вместе как братья. Даже одно зернышко они делили между собой. Однажды лиса пошла на охоту. Ворона лежала в своем гнезде на дереве. Оставив позади одну пашу гору и две чужие, реки и леса, пришла лиса к одному оврагу. Посмотрев туда, лиса увидела наполовину съеденную тушу ягненка. Взяла ее лиса и пошла к вороне. По пути лиса совсем не трогала мясо. Положив перед собой полтуши ягненка, лиса и ворона ели вместе.</p>
+   <p>На следующий день лиса отправила за едой ворону. Ворона полетела. Посмотрела с воздуха, ходила по земле, оставила позади горы и холмы. Ничего съестного не удалось найти, а на обратном пути с воздуха ворона увидела на одной горе кукурузное зерно. «Хотя бы это возьму для лисы», - сказала ворона. По пути домой опа натолкнулась на высокую гору. Когда ворона набирала высоту, она случайно проглотила зерно, которое хотела принести для лисы. Ворона сильно огорчилась: «Как теперь я покажусь перед лисой?»</p>
+   <p>Когда ворона прилетела, лиса спросила: «Что случилось, нашла ли что-нибудь нам на обед?» Огорченная ворона сказала: «Ей богу, летала, оставив позади несколько гор, но когда без добычи возвращалась обратно, в одном месте нашла кукурузное зерно и подумала, возьму хотя бы это. Вдруг натолкнулась на высокую гору, и, когда поднималась высоко, случайно его проглотила». Лиса сказала: «Если так, ты собери все, что на воздухе, а все наземное я соберу. В противном случае между нами будет война».</p>
+   <p>Расстроенная ворона пошла собирать воздушное войско. Лиса нашла одного хилого юношу с ружьем в руках. Ворона на дереве увидела орла. Юноша, которого нашла лиса, выстрелил в орла и попал в ближайшую ветку, а орел даже не вздрогнул. Второй раз выстрелил, пуля попала немного ближе к орлу, и тогда орел не вздрогнул. Когда третий раз выстрелил из ружья, пуля попала совсем рядом с орлом.. И тогда орел не шевельнулся. «Это что за чудо?» - с такими словами юноша подошел к орлу и забрал его домой. Ворона и лиса разошлись и перестали дружить.</p>
+   <p>Тот юноша в течение трех месяцев, не выпуская из дома, кормил того орла. Потом орел вылетел на улицу, посадил юношу себе на спину, перелетел через реки и горы и прилетел на море. Орел поднимался высоко-высоко и бросал юношу вниз, но спустившись раньше него, хватал его, когда он едва не падал в море, и поднимал. Вот так два раза орел поднимался высоко, чтобы броситъ юношу с высоты вниз. Орел поймал его в третий раз и спросил: «Страшно?» «Очень страшно», - сказал юноша. «Я тоже боялся, когда ты стрелял в меня», - сказал орел. Потом орел сказал, юноше: «Я тебе дам маленький комод, но ты его не открывай, пока не придешь к дому». «Будь здоров», - сказал юноша орлу, взял подарок и отправился домой. Когда шел домой, по пути у юноши кончилась вся еда. Подумал, может, там внутри найдется пища, открыл комод, только посмотрел внутрь, как вдруг появился большой дом. Еще более огорчился юноша: «Что это я сделал, почему не послушался орла?»</p>
+   <p>В это время к юноше подошел один старый человек с длинной бородой и спросил: «Почему ты такой печальный?» Юноша ответил: «Не могу убрать этот дом обратно в комод». Старый человек провел рукой по бороде и убрал дом обратно в комод. Юноша выразил ему благодарность и пошел домой. В тот же день, когда пришел домой, поздно ночью вышел во двор и открыл сундук перед домом, где и появился большой, дом.</p>
+   <p>На следующий день утром матъ вышла на улицу раньше сына и, увидев во дворе большой дом, удивилась. Пошла домой, разбудила сына и сказала: «На нашем дворе кто-то построил большой дом». Встал юноша и сказал, что это их дом. Матъ зашла в дом и нашла там сколько угодно еды и одежды, Вскоре сыграли свадьбу сына, и с тех пор мать, сын и невеста жили без забот.</p>
+  </body>
+ </text>
+</TEI>

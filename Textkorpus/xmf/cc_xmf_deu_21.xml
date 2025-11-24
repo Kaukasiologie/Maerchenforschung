@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">16. Drei kluge Worte</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_21.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+    <date notAfter="1880-12-31">notAfter 1880.12.31</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName type="gnd" corresp="https://d-nb.info/gnd/173176518">173176518>
+      <forename>Alexandre</forename>
+      <surname>Zagareli</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_21">
+  <body>
+   <head>Drei kluge Worte</head>
+   <p>Einst war und war und war und war einfach nichts. In einem Land, in einem Reich, in einer Gegend, in einem Dorf lebte ein Waisenkind, das war so arm, daß es zwischen Himmel und Erde überhaupt nichts besaß. So war es heute, morgen, übermorgen, in dieser Woche, in jener Woche, in diesem Monat, im nächsten Monat, so daß es verdrießlich und nachdenklich wurde, Es überlegte und überlegte und überlegte und nahm sich schließlich vor: "Ich will in die Welt hinausziehen, um mein Glück zu suchen."</p>
+   <p>Früh am Morgen stand der Waisen junge auf, empfahl sich Gott, wandte sich nach rechts und verließ seine Wohnstatt., Er lief und lief und lief, er durchquerte den Himmel, er durchquerte die Erde, den Wald, das Feld, zog durch Täler und Berge, er lief, soweit er konnte, und als er aufsah, erblickte er einen stattlichen Mann, der auf ihn zukam. Er lief schneller und traf direkt mit ihm zusammen: "Gelingen wünsche ich dir, guter Junge", sprach der Mann, "wohin gehst du?"</p>
+   <p>"Gott schenke dir Erfolg, Herr", erwiderte der Junge, "ich bin unterwegs, <pb n="116"/> um ein wenig zu verdienen."</p>
+   <p>"Tritt für drei Jahre in meinen Dienst, und ich will dich drei kluge Worte lehren, die dir in Zukunft zustatten kommen können", sagte der kluge Mann. Der Junge war einverstanden und folgte ihm.</p>
+   <p>Als der Junge ihm ein Jahr lang gedient hatte, lehrte ihn der kluge Mann: "Was du außerhalb des Hofes siehst, bring in den Hof hinein.“ Als das zweite Jahr vergangen war, sagte er dem Jungen: "Wenn dich nicht jemand sehr bittet, leihe niemandem etwas aus.” Auch das dritte Jahr verging, und am Ende, als der kluge Mann den Waisen jungen entließ, rief er ihn zu sich und lehrte ihn: "Vertraue einer Frau kein Geheimnis an."</p>
+   <p>Dann verabschiedete er ihn, segnete ihn und entließ ihn nach Hause.</p>
+   <p>Der Junge machte sich auf. Er lief und lief, er lief am Tage, er lief in der Nacht, er überquerte Meer und Land und kam nach Hause, baute sich eine Wohnstatt, zäunte den Hof ein und brachte, wie er es gelernt hatte, alles,was er außerhalb des Hofes sah, in seinen Hof hinein. Eines Morgens ging er über den Hof, und wie er so dahinging, erblickte er draußen eine rote Schlange. Er erinnerte sich an das Wort des klugen Mannes und warf auch diese Schlange in seinen Hof hinein. Als eine Woche vergangen war, sah er,daß die Schlange an der Stelle in seinem Hof, wo er sie hingeworfen hatte,viele Zaubersteine gelegt hatte. Natürlich freute er sich sehr, sammelte die Zaubersteine in einen Korb, hob auch die Schlange auf und legte sie im Haus in ein Nest. Die Schlange legte ihm jeden Tag einen Zauberstein. Der Bursche kam zu Wohlstand, er wurde reich, baute sich eine Karawanserei,nahm sich eine Frau und begann ein fürstliches Leben. Die Schlange legte die Zaubersteine, ohne einen Tag auszulassen, und der j Junge Mann gewann immer mehr Vermögen und freute sich.</p>
+   <p>Eines Tages fragte die Frau ihren Mann: "Sag mal, was hat dich denn so märchenhaft reich gemacht, war doch niemand auf der Welt so arm wie du?”</p>
+   <p>"Na, wer wird das schon gewesen sein, Gott natürlich“, sagte der junge Mann und gab ihr sein Geheimnis nicht preis, denn der kluge Mann hatte es ihm so geraten. Doch seine Frau ließ ihm keine Ruhe: Tag und Nacht fragte sie ihn: "Was hat dich nur so reich gemacht. Es geht einfach nicht,daß du es mir nicht sagst."</p>
+   <p>Nichts half, er fand einfach kein Mittel. Und als er schließlich die Geduld verlor, verriet er da nicht seiner Frau die Geschichte mit der Schlange?! Da kein Mittel half, führte er seine Frau dorthin und zeigte ihr die Schlange,die diese Zaubersteine legte. Kaum war das geschehen, gab die Schlange ihre Gewohnheit auf, und das Vermögen des jungen Mannes begann natürlich zu schrumpfen, es wurde immer weniger und nahm nicht mehr zu.</p>
+   <p>In dieser Lage kam ein Mann zu ihm und bat ihn um ein Messer. Der <pb n="117"/> junge Mann war natürlich so von Ärger und Gedanken geplagt, daß er gar nicht mehr an das dachte, was der kluge Mann ihn gelehrt hatte, und ihm das Messer lieh. Deinem Feind möge widerfahren, was jetzt geschah. Dieser elende Mensch, der sich das Messer lieh, war ein Dieb. Sobald er das Messer in seiner Hand hatte, drang er in ein Haus ein, um es auszurauben,stieß einem schlafenden Mann das Messer in den Bauch, brachte ihn um,ließ das Messer im Bauch stecken und raubte das Haus aus.</p>
+   <p>Dann entstand ein Geschrei, und es begann ein Suchen, und als man das Messer im Bauch des getöteten und beraubten Mannes fand, zeigte es sich,daß es diesem jungen Mann gehörte. Natürlich spürte man den jungen Mann auf, ergriff ihn, nahm ihm alles weg, und man verfuhr mit ihm, wie es einem Dieb zukam. So widerfuhr es jenem unglückseligen Burschen, der die Lehre des klugen Mannes vergaß.</p>
+  </body>
+ </text>
+</TEI>

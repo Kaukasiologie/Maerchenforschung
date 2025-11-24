@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">6. Die Helden Christagan und Beltagan</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_11.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
+      <forename>Iosif Alekseevich</forename>
+      <surname>Kipshidze</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_11">
+  <body>
+   <head>Die Helden Christagan und Beltagan</head>
+   <p>Es war einmal ein Herrscher, der hatte eine Tochter. Nichts Schöneres konnte zwischen Himmel und Erde geboren werden. Nachts überfiel den Herrscher irgendetwas und raubte ihm seine Tochter. Man verfolgte es lange, aber man konnte nichts finden. </p>
+   <p>Zu dieser Zeit lebte ein Mann im Walde, Er hatte Gott sein Wort gegeben, sich niemals unter die Leute zu begeben und immer im Wald zu bleiben. Er hatte ein Stück Land für sich genommen, denn ringsum als Nachbarn hatte er Riesen. Er gab ihnen keine Bäume zum Fällen. Er war ein so starker Mann, daß alle Riesen ihn fürchteten. </p>
+   <p>Einmal zog dieser Waldmensch los, um seine Ländereien in Augenschein zu nehmen und zu prüfen, ob die Riesen nichts verwüstet hätten, Auf der einen Seite war ein Flußufer, Diesem Fluß folgte er. Die Sonne wollte gerade aufgehen. Als er auf den Fluß sah, fand er ihn blutvermischt. Da wunderte er sich: "Dieses Wasser war doch weiß, wie kommt es, daß es jetzt rot ist, das muß ich herausfinden." Er lief das Ufer entlang flußauf, und die Nacht brach herein. Er gelangte bis zu einem Ort. Da sah er, daß sich irgendetwas im Fluß hin und her warf, Als er näher kam, erblickte er zwei Riesen, die miteinander rangen. Von ihrem Blut war der Fluß besudelt, Als  ‚er auf die andere Uferseite schaute, stand da etwas, das wie die Sonne glänzte. Der Waldmensch ging zu den Riesen hin, zog sein Schwert, schwang es, erschlug beide und ließ sie vom Wasser fortschwemmen. Da rief ihn vom anderen Ufer das, was wie die Sonne glänzte: "Bist du ein Christenmensch?”</p>
+   <p>"Fürchte dich nicht", sprach der Waldmensch, "ich bin ein Christ. Sage <pb n="28"/> mir, wer du bist!" </p>
+   <p>"Ich bin die Tochter eines Herrschers. Der Riese, den du getötet hast, hat mich entführt und hierhergebracht. An diesem Fluß ist er auf den anderen Riesen gestoßen, der mich ihm wegnehmen wollte. Da bist du zur rechten Zeit gekommen, als sie sich stritten, und hast sie erschlagen.” </p>
+   <p>Der Waldmensch sagte zu der Tochter des Herrschers: "Ich habe vor Gott gelobt, niemals den Wald zu verlassen. Ich will dich hinaus bis zu den Wiesen führen, und dann kannst du nach Hause gehen.” </p>
+   <p>Doch das Mädchen sagte: "Ich kann mich nicht von dir trennen." </p>
+   <p>Der Waldmensch führte sie zu seiner Wohnstatt. Dort lebten sie beide. Ein halbes Jahr verging, das Mädchen wurde schwanger. Es kam die Zeit heran, da das Kind zur Welt kommen mußte. Der Waldmensch sagte zu dem Mädchen: "Ich bin allein in diesem Wald, Wenn du niederkommst, brauchst du jemanden zur Hilfe. Ich kann nichts.“ </p>
+   <p>"Ich will bei dir sterben, ich kann nicht woanders hingehen", erwiderte das Mädchen. Doch der Waldmensch hörte nicht auf sie: "Du mußt nach Hause gehen. Ich will dich nachts aus dem Wald hinausführen und bringe dich in die Nähe deines Hauses." </p>
+   <p>Was hätte das Mädchen tun können? "Gut”, sagte sie. Der Waldmensch führte sie nachts hinaus und brachte sie in die Nähe ihres Hauses. Er zog einen Ring aus der Tasche, gab ihn dem Mädchen und sprach: "Du wirst einen Jungen zur Welt bringen. Gib ihm den Namen Christagan. Stecke ihm sofort diesen Ring an den Finger der rechten Hand, er soll ihn nie abziehen und immer am Finger tragen." </p>
+   <p>Der Waldmensch kehrte zu seiner Behausung zurück. Das Mädchen trat in ihr Haus. Als Mutter und Vater sie sahen, freuten sie sich: "Unser Kind ist wieder da.” </p>
+   <p>Am nächsten Tag veranstalteten sie ein großes Fest. Viele Leute hatten sie eingeladen. Mittags setzten die Wehen des Mädchens ein. Man legte sie zu Bett, und sie gebar einen Jungen. Die Mutter sagte: "Sein Name soll Christagan sein. Sein Vater hat es mir so aufgetragen."</p>
+   <p>Alle waren einverstanden. Man streifte ihm seinen Ring über den Finger der rechten Hand. Drei Monate vergingen. Das Kind wirkte sehr kräftig.</p>
+   <p>Der Herrscher freute sich: "Wer das auch ist, er ist kein Sohn eines schlechten Mannes.”</p>
+   <p>Wozu soll ich das lange fortsetzen, das Kind begann auf der Wiese mit den anderen Kindern zu spielen. Eines Tages sagte es zu seinem Großvater,dem Herrscher: "Laß mir Pfeil und Bogen anfertigen, beides aus Stahl, und zweihundert Pud schwer sollen sie sein."</p>
+   <p>"Sehr gut", sprach der Großvater.</p>
+   <p>Der Wunsch gefiel ihm nicht, aber er schickte einen Mann zum Schmied, <pb n="29"/> Er ließ Pfeil und Bogen schmieden, doch es war schwierig, sie herzubringen.</p>
+   <p>Der Herrscher schickte Büffel samt Kärren hin, und nach sehr langen Bemühungen brachte man sie her. Als sie in den Hof hereinfuhren, sah sie das Kind, lief hin, trat zu dem Karren, ergriff Pfeil und Bogen und nahm sie gleich an sich. Alle waren voller Staunen: "Das wird kein schlechter Mann werden!"</p>
+   <p>Christagan nahm den Bogen und schoß einen Pfeil in die Höhe. Die anderen sahen zu, aber er entschwand den Blicken, so kräftig hatte er geschossen. Nach langer Zeit bohrte sich der Pfeil in die Erde, Sechzig Mann liefen zu dem Pfeil hin, doch sie vermochten ihn nicht aus dem Boden zu ziehen. Da lief Christagan hinzu und riß seinen Pfeil mit einem Ruck aus der Erde. Alle sagten, als sie das sahen: "Das wird der Herr aller Helden werden."</p>
+   <p>Christagan begann auf die Jagd zu ziehen. Es gab keinen Abend, an dem er nicht verschiedenes Wild heimgebracht hätte. Jetzt wurde er wirklich gewaltig. Alle fürchteten ihn, denn noch niemand hatte einen jungen Mann seiner Stärke gesehen.</p>
+   <p>Einmal begab sich Christagan auf die Jagd, Er lief viel umher, konnte aber nichts erlegen. Am Abend kehrte er nach Hause zurück. Als er betrüb tauf dem Rückweg war, blickte er zu einer Wiese und sah, daß eine Frau auf der Schulter einen Krug voll Wasser trug. Christagan dachte: Ich will doch einmal sehen, ob ich es vermag, ihr den Krug auf der Schulter zuzerschlagen. Er schoß mit dem Pfeil, traf den Krug und zerbrach ihn. Das Wasser lief der Frau über den Leib. Da drehte sie sich um und sprach zudem Helden Christagan: "Ich könnte deine Mutter sein. Konntest du dir denn kein anderes Ziel aussuchen, als meinen Krug zu zersplittern? Ihr heutigen jungen Männer steckt euch Ringe an die Hand, das war den früheren Helden fremd."</p>
+   <p>Christagan gab keine Antwort. Sogleich zog er den Ring vom Finger und steckte ihn in seine Tasche. Er kehrte nach Hause zurück, In jener Nacht legte er sich vergrämt schlafen. Am nächsten Morgen erhob er sich, aß und rief seine Mutter: "Komm her!"</p>
+   <p>Die Mutter ging hin.</p>
+   <p>"Eines frage ich dich, und du sollst es mir nicht verheimlichen: Wer ist mein Vater, das sollst du mir sagen."</p>
+   <p>Die Mutter wurde traurig. Doch was hätte sie tun sollen? Sie sagte:"Dein Vater ist ein Waldmensch. Er lebt ständig im Wald. Er hat vor Gott das Gelübde abgelegt, sich nicht unter die Leute zu mischen."</p>
+   <p>"Wo ist er?" fragte Christagan.</p>
+   <p>Die Mutter antwortete: "In der und der Gegend." Sie zeigte es ihm mit dem Finger.<pb n="30"/></p>
+   <p>Christagan suchte sich sein Pferd, eines, auf dem seit seiner Geburt noch kein Mensch gesessen hatte. Man brachte es ihm in Ketten. Christagan trat hinzu, strich ihm liebkosend mit der Hand über das Fell und legte ihm plötzlich den Sattel auf. Er ergriff seinen Pfeil und Bogen und gab zu Hause bekannt: "Ich ziehe aus, um meinen Vater zu suchen."</p>
+   <p>Er setzte sich auf das Pferd, schwang die Peitsche und entschwand obenhin der Luft. In der Nähe jenes Waldes sprang er ab. Er schritt in den Wald hinein, suchte seinen Vater, konnte ihn aber nicht finden. Sein Vater warauf der Verfolgung von Riesen, die ihm Bäume entwurzelt hatten. Als der Waldmensch zurückkam, sah er, daß ein Pferd im Wald graste und ein junger Mann allein umherlief.</p>
+   <p>"He! Was für ein Mensch bist du?" rief der Waldmensch. "Wer bist du,daß du es gewagt hast, meinen Wald zu betreten?"</p>
+   <p>“Ich bin es, was willst du? Komm doch her, wenn du etwas auszurichten vermagst!" rief Christagan.</p>
+   <p>"Mich zum Kampf zu fordern, sollte kein anderer wagen als der Held Christagan.”</p>
+   <p>Aber Christagan verriet seinen Namen nicht. Er nahm seinen Pfeil undschoß auf den Waldmenschen. Der fing den Pfeil sofort auf. Er sah auf Christagans Hand, aber als er keinen Ring sah, dachte er: "Das kann nicht mein Sohn sein, sonst trüge er den Ring an der Hand." Er nahm Pfeil und Bogen, schoß und traf Christagan. Der wankte und stürzte hin. Der Waldmensch ging hin und blickte auf den Toten nieder. Er untersuchte dessen Hände, aber er trug keinen Ring. "Vielleicht hat er etwas in seiner Tasche”,dachte er. Er steckte ihm die Hand in die Tasche und holte die Geldbörse hervor. Als er hineinsah, zog er ein kleines Ding hervor, das in Papier gewickelt war. Er faltete das Papier auf und entdeckte seinen Ring. Da schrie er auf und schlug seinen Kopf gegen einen Baum, daß er umstürzte.</p>
+   <p>Er fiel über den zweiten Baum her, auch der fiel um, und er stürzte auf den dritten zu. So verwüstete er alles ringsum. Er ging zu Christagan, schlug sich mit der Hand an den Kopf und brüllte wieder. Wieder stieß er seinen Kopf gegen einen Baum, hüben und drüben zersplitterte er die Bäume. Der Waldmensch brüllte fortwährend, daß die Riesen die Furcht ergriff: "Das hat nichts Gutes zu bedeuten”, sprachen sie und flohen an andere Orte.</p>
+   <p>Der Waldmensch schrie immer stärker, daß Gott sein Gebrüll vernahm.</p>
+   <p>Er rief eine Taube herbei und befahl ihr: Fliege hin und sieh nach, was los ist und was dem Mann fehlt!"</p>
+   <p>Die Taube flog los und sah einen Toten auf der Wiese liegen. Ein Mann ging zu ihm hin, schlug sich die Hand an den Kopf, begann zu brüllen,schlug seinen Kopf gegen einen Baum, der Baum stürzte um, und so brachte er die Bäume auf allen Seiten zu Fall. In seiner Nähe gab es keine <pb n="31"/> Bäume mehr, gegen die er seinen Kopf schlagen konnte. Die Taube sah alles, was dieser Mann tat. Er bewachte den Toten so, daß er nicht einmal eine Fliege an ihn heranließ. Die Taube flog davon und berichtete das alles Gott. Gott gab ihr ein Tuch und sprach: "Nimm das in den Schnabel und fliege zu dem Toten, doch nimm dich vor dem Mann in acht. Wenn er losrennt, um seinen Kopf gegen einen Baum zu schlagen, wirf dem Toten dieses Tuch auf das Gesicht, und dann bring dich in Sicherheit.”</p>
+   <p>Die Taube nahm das Tuch, paßte die Zeit ab, flog über den Toten hinweg, warf ihm das Tuch über das Gesicht und flog selbst davon. Als der Waldmensch wehklagend zurückkam, sah er, daß der Tote auf seinen Beinen stand, Er lief hin, packte ihn, küßte ihn und sprach: "Wie heißt du?"</p>
+   <p>"Ich heiße Christagan", antwortete er.</p>
+   <p>Jetzt erfuhren sie einer des anderen Geschichte, daß sie Vater und Sohn waren. Christagan stand seinem Vater lange zur Seite, schließlich sagte der Waldmensch zu seinem Sohn: "Geh jetzt nach Hause und wisse, daß du einen Freund gewinnen mußt, den Helden Beltagan, den Sohn des Helden Rup."</p>
+   <p>Sie verabschiedeten sich voneinander. Christagan zog seines Weges und dachte: "Ich muß den Helden Beltagan finden." Er ließ sein Pferd dahinfliegen und landete an der Küste eines Meeres, Er folgte einem Weg, ritt und ritt in der Nacht und auch am nächsten Tag und stieß auf einen Kreuzweg. Als er den einen Weg entlang sah, war etwas von der Größe einer Krähe zu sehen, Er dachte: "Das scheint tatsächlich ein Mensch zu sein.” Erspornte sein Pferd an, und sie kamen sich näher. Luft schlug dem Heiden Christentum entgegen, so daß es ihm das Reiten erschwerte, Aber auch Christagans Luft traf den von dort Heranreitenden. Christagan erkannte,daß das der Held Beltagan sein mußte. Und Beltagan begriff: "Das muß wirklich Christagan sein, der von dort kommt.” Sie ritten nahe aufeinander zu, aber weder der eine noch der andere grüßte zuerst. Sie ritten aneinander vorüber. Da wandte sich Christagan um und rief: "Guten Tag, Bruder, Held Beltagan!"</p>
+   <p>Beltgan drehte sich um und sprach: "Gott zum Gruß, Bruder, Held Christagan!"</p>
+   <p>Sie reichten sich die Hand und küßten sich, setzten sich in den Schatten eines Baumes, ruhten sich aus und begannen sich zu unterhalten.</p>
+   <p>Beltagan sagte: "An einem Ort hausen Riesen. Ringsum haben sie eine Mauer angelegt, eiserne Tore sind am Eingang zum Hof eingefügt, Außen umgibt den Hof heißes Wasser, daß alles, was davon bespritzt wird, verbrennt. Diese Riesen haben eine Schwester, die leuchtet wie Sonne und Mond. Aber wozu das? Über das Wasser kann man nicht hinübergelangen.</p>
+   <p>Könnte man das Wasser überqueren, ist die Mauer nicht zu überwinden, <pb n="32"/> und durch die Hoftore kommt man nicht hinein, denn jedes Tor wiegt tausend Pud.”</p>
+   <p>"Los, Bruder, Held Beltagan, laß uns zu diesem Ort ziehen. Gott wird sehen, was uns widerfährt", sagte der Held Christagan.</p>
+   <p>Sie erhoben sich, sprangen auf ihre Pferde, spornten sie an und gelangten in die Nähe des Hauses der Riesen, das das heiße Wasser rings umschloß.</p>
+   <p>Dort sprach der Held Beltagan: "Dies, Bruder, ist das Wasser. Wie kann man es überqueren?"</p>
+   <p>"Bruder Beltagan", sagte Christagan, "setz dich auf dein Pferd. Wenn ich dir sage "he", dann schlage das Pferd mit der Peitsche, so stark, daß es nicht schärfer geht.”</p>
+   <p>Christagan packte Beltagans Pferd am Schwanzansatz und rief ihm zu:"He, Junge!"</p>
+   <p>Beltagan schlug das Pferd mit der Peitsche. In diesem Augenblick hob Christagan das Pferd am Schwanz in die Höhe und schleuderte es hinüber.</p>
+   <p>Beltagan sprang auf das jenseitige Ufer. Christagan bestieg sein Pferd,schlug mit der Peitsche zu und sprang auf die andere Seite hinüber. Inzwischen war es Nacht geworden. Sie gingen dorthin. Im Morgengrauen, als das Sonnenlicht durchbrach, standen beide Helden auf, und Beltagan fragte Christagan: "Was sollen wir jetzt tun?"</p>
+   <p>"Komm mit hierher, Bruder!" sagte Christagan,</p>
+   <p>Sie gingen zu dem Eisentor. Christagan faßte an und riß beide Flügel ab.</p>
+   <p>Doch zu dieser Zeit waren die Riesen noch nicht erwacht. Als sie bis in die Mitte des Hofes gekommen waren, spürten es die Riesen und kamen herausgestürzt, doch der Held Christagan stürmte vor, zog sein Schwert und drang zwischen die Riesen. Beide Helden hieben zu und schlugen ihnen die Köpfe ab, bis zum Abend töteten sie die Riesen. Als sie alle erschlagen hatten, betraten sie schließlich das Haus. Da erblickten sie ein Mädchen,wie ein Menschenauge es nicht schöner finden konnte, doch das Mädchen fürchtete sich.</p>
+   <p>"Fürchte dich nicht!" sprachen die Helden zu dem Mädchen.</p>
+   <p>Sie flößten ihr Hoffnung ein. Müde legten sie sich zu Bett und ruhten.</p>
+   <p>Anderntags standen die Helden am Morgen auf, aßen und liefen umher.</p>
+   <p>Aber dem Helden Beltagan schien alles vergällt, denn er hatte sich in das Mädchen verliebt, fürchtete sich aber vor Christagan: "Vielleicht liebt er sie und will sie zur Frau."</p>
+   <p>Mittags gingen beide Helden und das Mädchen ins Haus, Sie setzten sich zusammen. Christagan sprach: "Bruder, Held Beltagan, diese soll deine Frau und meine Schwägerin sein.”</p>
+   <p>Beltagan freute sich, aber das Mädchen war ein wenig gekränkt, weil der Held Christagan der bessere war. Zwei Monate lebten sie gemeinsam. Als <pb n="33"/> die beiden Monate um waren, sagte Christagan zu Beltagan: "Bruder, ich muß jetzt gehen. Ihr wißt, wie klug ihr euch zu verhalten habt.”</p>
+   <p>Sie führten das Pferd des Helden Christagan heraus. Beltagans Frau brachte in einer Umhängetasche irgendetwas heraus, drückte es ihm in die Hand und sagte: "Darin liegt dreierlei Kleidung: eine goldene, eine ganz aus Silber, die dritte ganz von Kupfer."</p>
+   <p>Christagan nahm die Tasche, band sie hinten auf das Pferd, zog ein Taschenmesser hervor, gab es Beltagan und sprach: "Bruder, ich werde mich in Not befinden, wenn sich die Schneide dieses Messers blutig färbt."</p>
+   <p>Sie nahmen Abschied voneinander, und Christagan ritt seines Weges. Erließ sein Pferd losschnellen und sprang an die Küste des Meeres. Als erweiterritt, sah er eine alte Frau, Er fragte sie: "Was für ein Reich ist das?"</p>
+   <p>"Dies ist das Reich des schwarzen Herrschers", sagte die Alte.</p>
+   <p>"Was liegt hinter diesem Meer?"</p>
+   <p>"Mein Sohn", sagte die Alte, "auf der anderen Seite ist der weiße Herrscher. Das Volk des dortigen Herrschers lebt in Freuden. Der Herrscher hat drei Töchter. Außer ihnen hat er nichts."</p>
+   <p>Als Christagan das vernahm, sagte er zu der alten Frau: "Leb wohl, Mutter!"</p>
+   <p>Er ritt ein kleines Stück weiter. Dann sprang er vom Pferd und holte aus der Tasche das kupferne Gewand hervor. Er warf seine eigene Kleidung fort und zog die kupferne an. Er sprang mit seinem Pferd in das Meer hinein und schwamm an den jenseitigen Strand. Er legte eine Tagesstrecke zurück, sprang vom Pferd und löste ihm den Sattel. Er nahm das goldene und das silberne Gewand aus der Tasche, steckte sie dem Pferd ins Oh rund sprach zu ihm: "Geh und grase. Wenn ich dich rufe, dann komm!”</p>
+   <p>Das Pferd lief auf die Weide. Christagan begann durch die Wiesen zulaufen und näherte sich dem Palast des Herrschers. Da trieb ein Schweinehirt seine Schweine heran, Christagan sagte zu ihm: "Gib mir deine Kleidung, und du sollst meine haben."</p>
+   <p>Der Schweinehirt wunderte sich eine Weile und sagte dann zu Christagan: "Meine Sachen sind zerrissen und deine aus Kupfer."</p>
+   <p>"Was kümmert dich das?" meinte Christagan.</p>
+   <p>Er zog dem Schweinehirten dessen Kleidung aus und gab ihm sein kupfernes Gewand. Der Schweinehirt zog es an und ging. Christagan zog die Sachen des Hirten an.</p>
+   <p>Der Schweinehirt zog seines Weges und sah sich um: "Daß er mir das kupferne Gewand nicht wieder wegnimmt!”</p>
+   <p>In dieser Angst erreichte der Schweinehirt dank Gottes Gnade sein Haus.</p>
+   <p>Wozu soll ich euch jetzt lange langweilen, auch Christagan gelangte zum Tor des Fürsten. Er fand es offen und trat ein. Als die Diener des <pb n="34"/> Herrschers ihn erblickten, riefen sie einander zu: "Ein Bettler kommt."</p>
+   <p>Einer sagte: "Den will ich als meinen Helfer, den stelle ich zum Säuberndes Pferdestalles an."</p>
+   <p>"Was redest du da?" sagte ein anderer, "den will ich zum Hof fegen."</p>
+   <p>Doch der Kutscher kam ihnen zuvor und nahm ihn als Pferdeknecht mit.</p>
+   <p>Christagan hatte lockiges Haar, und deshalb nannten die Diener ihn Kotschora. Kotschora blieb da und säuberte die Pferde. Er striegelte sie so,daß es nicht besser ging. Eines Tages fuhr der Herrscher in der Kutsche aus. Er bestaunte die Pferde und fragte den Kutscher: "Wer hat diese Pferde gepflegt?"</p>
+   <p>"Ein Bettler ist gekommen, wir nennen ihn Kotschora, den habe ich als Pferdeknecht", berichtete der Kutscher.</p>
+   <p>Abends kehrte der Herrscher in sein Haus zurück. Als er heimkam, sah er Kotschora. Er freute sich, stellte Kotschora in den Dienst des Kochs und sagte: "Lehre ihn Speisen zubereiten."</p>
+   <p>Der Koch hatte Kotschora einen Monat bei sich und ihm schon die Zubereitung aller Speisen beigebracht. Einmal war der Koch nicht da,Kotschora bereitete die Speisen allein zu. Zur Mittagszeit trug man die Speisen auf, der Herrscher setzte sich an die Tafel. Diese Speisen erwiesen sich eine besser als die andere. Der Herrscher ließ Kotschora zu sich kommen und sprach zu ihm: "Von heute an wirst du der Vorgesetzte meiner Gartenarbeiter sein. Du sollst ihnen einen Plan geben, wie sie den Garten gestalten sollen."</p>
+   <p>Kotschora dankte dem Herrscher. Am nächsten Tag stellte man ihn als Gärtner an. Er erwies sich als so tüchtig, daß es ein halbes Jahr später nichts Schöneres gab, als diesen Garten zu betreten. Fässer waren in dem Garten als Wassergefäße aufgestellt. Zu ihnen kamen die Arbeiter, und zwanzig Mann hoben ein Faß in die Höhe. Doch ein Faß war darunter, das selbst hundert Mann nicht heben konnten. Einmal ging Kotschora in der Abenddämmerung in den Garten. Er sah sich um, ergriff dieses große Faß und stellte es an einen anderen Platz. Da beobachtete die jüngste Tochter des Herrschers aus dem oberen Stockwerk, daß Kotschora das machte.</p>
+   <p>Bald darauf kamen die Töchter des Herrschers herab und traten in den Garten, um spazieren zu gehen. Während sie im Garten umherspazierten,war Kotschora unter einem Baum eingeschlafen. Das älteste Mädchen lief voraus, ihr folgte die mittlere und danach die jüngste. Das jüngste Mädchen blickte Kotschora an, der mit offener Brust schlief. Ais ihn das Mädchen betrachtete, merkte sie, daß er kein Sohn eines unrechten Mannes war, und welche Kraft er besaß, wußte sie ohnehin. Die Mädchen begaben sich wieder in das obere Stockwerk. Die jüngste war in Gedanken nur bei Kotschora.<pb n="35"/></p>
+   <p>Drei Tage vergingen. Der Herrscher versammelte seine Wesire und sprach: "Diese meine Mädchen will ich an einem Tag verheiraten.”</p>
+   <p>"Sehr gut, Herr", meinten die Wesire, "aber woher sollen die Schwiegersöhne kommen?"</p>
+   <p>"Aus allen Reichen müssen wir die Männer versammeln", sagte der Herrscher. "An dem Tag müssen wir ein Fest richten und alle Gäste an die Tafel setzen. Mitten im Feiern soll das älteste Mädchen an die Tafel treten.</p>
+   <p>Wir müssen ihr einen Apfel in die Hand geben. Das Mädchen soll um die Tafel herumgehen, wo die Gäste sitzen, und wen sie zum Bräutigam wählt,dem soll sie ihren Apfel geben, und genauso sollen es auch die mittlere und die jüngste machen.”</p>
+   <p>Die Wesire stimmten zu. Am nächsten Tag schickte man Einladungsschreiben in alle Reiche, und man setzte eine Zeit fest, Man richtete die Tafel, und die Gäste kamen. Es waren die Söhne von Herrschern aus verschiedenen Königreichen. Keine jungen Männer, die etwas taugten,blieben zu Hause, Man hieß alle Platz nehmen, Als man mitten im Feiern war, führte man das älteste Mädchen heraus. Hüben und drüben begleiteten sie zwei Männer. Man geleitete sie zum Anfang der Tafel, gab ihr einen Apfel in die Hand, und der Herrscher sagte: "Kind, wen du als Bräutigam willst, dem gib diesen Apfel in die Hand."</p>
+   <p>Man hieß sie gehen und führte sie um die Tische herum. Da begannen alle jungen Männer ihre Schnurrbärte zu zwirbeln, manche strichen sich mit der Hand über den Kopf, andere räusperten sich heftig, als ob sie sie ansähe, aber das Mädchen lief immer weiter. Die Zurückgelassenen kamen fast um vor Enttäuschung. Das Mädchen ging und ging, sie ging noch ein Stück und drückte einem Burschen den Apfel in die Hand. Alle Männer riefen zusammen "Hurra", Man hieß den Bräutigam aufstehen und führte beide,das Mädchen und ihn, in das obere Stockwerk hinauf. Dieser junge Mann war der Sohn eines fremden Herrschers.</p>
+   <p>Jetzt brachte man die mittlere Schwester her, auch ihr gab man hüben und drüben einen Mann zur Seite. Als sie an den Anfang der Tafel kam,gab ihr der Herrscher einen Apfel in die Hand und sprach: "Kind, geh um die Tafel herum, und wen du als Bräutigam willst, dem steck diesen Apfel zu.”</p>
+   <p>Das Mädchen setzte sich in Bewegung. Sofort begannen die jungen Männer ihre Schnurrbärte zu zwirbeln, manche husteten, andere zogen ihr Taschentuch hervor und schneuzten sich die Nase, denn diese Taschentücher waren alle kostbar. Das Mädchen ging umher, die zurückgebliebenen Burschen starben fast vor Enttäuschung, doch was hätten sie tun sollen?</p>
+   <p>Das Mädchen schritt immer weiter und kam zur Mitte der Tafel. Hier gefiel ihr ein junger Mann, sie hob die Hand und reichte ihm den Apfel. Alle <pb n="36"/> Männer riefen gemeinsam "Hurra". Auch dieser Bursche war der Sohn eines fremden Herrschers. Man geleitete beide, das Mädchen und den jungen Mann, in das obere Stockwerk des Schlosses.</p>
+   <p>Jetzt brachte man das dritte Mädchen, die jüngste, heraus. Sie traten an den Anfang der Tafel, und hüben und drüben begleiteten sie Männer.</p>
+   <p>Natürlich empfing sie der Herrscher an der Tafel.</p>
+   <p>"Hier, Kind, ist ein Apfel!" sprach der Herrscher. "Gib ihn demjenigen,den du als Bräutigam wünschst.”</p>
+   <p>Das Mädchen begann umherzugehen und die Tische zu umrunden, Die Burschen warfen Blicke umher: Mir wird sie ihn geben, nein, mir! Aber das Mädchen lief immer weiter, Vergebens rollten die jungen Männer mit ihren Augen, Das Mädchen hatte die Tafel umrundet, aber den Apfel hatte sie nie mandem gegeben. Der Herrscher fragte seine Tochter: “Was ist, hat dir kein Mann gefallen?"</p>
+   <p>"Es haben nicht alle an der Tafel gesessen", sagte das Mädchen.</p>
+   <p>"Setzt alle Männer an den Tisch", befahl der Herrscher.</p>
+   <p>Man setzte alle an die Tafel außer den Dienern des Herrschers.</p>
+   <p>“Geh jetzt!"” sagte der Herrscher zu dem Mädchen.</p>
+   <p>Das Mädchen setzte sich in Bewegung, lief um die Tische herum, die Burschen reckten sich, aber das Mädchen gab niemandem ihren Apfel. Sie lief und lief, doch keinem wollte sie den Apfel geben. Der Herrscher fragte:_ "Was ist denn, fehlt wieder ein Mann?"</p>
+   <p>"Es sitzen noch nicht alle Männer an der Tafel”, antwortete das Mädchen.</p>
+   <p>"Laßt keinen aus, der einen Schnurrbart trägt", befahl der Herrscher.</p>
+   <p>Man holte alle herbei und hieß sie Platz nehmen. Das Mädchen lief um die Tafel herum. Die Burschen spitzten die Ohren, aber das Mädchen entschied sich nicht für sie. Sie lief und lief und kam in Kotschoras Nähe.</p>
+   <p>Als sie die Hand hob, wunderten sich alle, aber sie gab ihm den Apfel in die Hand. Man rief weder "Hurra" noch sonst etwas. Alle blickten sich an:"Was hat dieses elende Mädchen getan? Ist sie nicht völlig von Sinnen?“</p>
+   <p>Man hieß Kotschora aufstehen, stellte ihm seine Frau zur Seite, und der Herrscher wies ihnen eine Pferdehütte zu: "Das bist du wert, du warst immer tot, und jetzt bist du für mich ganz gestorben!"</p>
+   <p>Kotschora und seine Frau gingen zu der Pferdehütte. Dort setzten sie sich nieder, Die übrig gebliebenen Speisen brachte ihnen ein Diener in einer Schüssel. Das Mädchen weinte, aber was sollte es tun? Kotschora schlug seine Beine unter und setzte sich an die Feuerstelle. Die beiden anderen Schwiegersöhne und ihre Frauen aber ließen es sich im Palast gut gehen.</p>
+   <p>Die Zeit verging. Der Herrscher wurde krank, und keinerlei ärztliche Kunst konnte ihm helfen. Die Wesire setzten sich hin und berieten, wie man die Krankheit des Herrschers am besten behandeln könne. Sie <pb n="37"/> erörterten viele verschiedene Dinge, doch einer sagte: "Auf dem und dem Berghaus ein Wildschwein. Wer kann dessen Herz und Leber herbringen, das wird dem Herrscher wirklich helfen."</p>
+   <p>"Wer kann das schon herbringen, natürlich die Schwiegersöhne”, meinten die anderen Wesire.</p>
+   <p>Man sagte es den Schwiegersöhnen, beide machten sich fertig und sitten los, um es zu beschaffen. Als Kotschora das vernahm, schickte er einen Mann zur Frau des Herrschers: "Ich will auch losziehen, sie möchte mir ein Pferd geben!"</p>
+   <p>Die Frau des Herrschers sagte: "Gebt ihm ein Pferd, das Mehlsäcke schleppt, vielleicht verschwindet er irgendwo."</p>
+   <p>Man brachte Kotschora ein Pferd aus Haut und Knochen und legte ihm einen zerschlissenen Sattel auf. Kotschora stieg auf und ritt davon. Die Burschen begannen zu pfeifen: "Kotschora jagt dahin, Kotschora galoppiert dahin."</p>
+   <p>Kotschoras Pferd trottete dahin wie die Lastmähre eines Juden. Kotschora ritt dorthin, wo er sein Pferd freigelassen hatte. Er rief es, und es kam herbei. Sein eigenes Pferd ließ er dort auf der Wiese, und den zerschlissenden Sattel versteckte er im Wald. Er zog den Sattel aus dem Ohr des Pferdes und die Kleidung. Er kleidete sich in das silberne Gewand.</p>
+   <p>Dann schlug er das Pferd mit der Peitsche, es fuhr empor und sprang auf jenen Berg, wo das Wildschwein hauste. Er sprang vom Pferd und ließ die Zügel los. Er selbst legte sich in den Schatten. Nach kurzer Zeit tauchten beide Schwäger auf, Sie sahen das Pferd im Schatten stehen und einen Mann im Schatten liegen. Als sie genau hinsahen, sagten sie: "Das muß wirklich der heilige Georg sein." Sie sprangen von den Pferden und begannen sich zu bekreuzigen. Sie traten zu ihm hin und knieten nieder. Kotschora fragte: "Was wollt ihr, was fehlt euch?"</p>
+   <p>"Wir kommen in der und der Angelegenheit", und die Schwäger erzählten ihm alles.</p>
+   <p>"Geht hin, wo sich das Schwein aufhält. Tötet es oder treibt es hierher”,sagte Kotschora. ;</p>
+   <p>Sie zogen los, aber sie konnten es weder töten noch hertreiben. Da stand Kotschora auf und ging hin, Er tötete das Schwein und sagte zu seinen Schwägern: "Schneidet es jetzt auf und nehmt Herz und Leber heraus.”</p>
+   <p>Sie traten hin, schnitten es auf, stiegen in den Bauch des Schweines hinein und holten mit Mühe Leber und Herz heraus.</p>
+   <p>"Komm her", sagte Kotschora zum ältesten Schwager, "zeige mir deinen Daumen!”</p>
+   <p>Kotschora faßte an und riß ihm den Fingernagel ab.</p>
+   <p>"Jetzt reitet nach Hause!" sagte Kotschora. <pb n="38"/></p>
+   <p>Die Schwiegersöhne des Herrschers dankten diesem gottgleichen Mann vielmals und ritten heimwärts. Sie legten die Hälfte des Weges zurück und ritten mit großer Ehrfurcht. Als sie in den Hof des Herrschers kamen,ließen sie die Pferde tänzeln und sprangen ab. Ihre Schwiegermutter und ihre Frauen empfingen sie.</p>
+   <p>"Wir haben es mitgebracht", sagten die Schwiegersöhne.</p>
+   <p>Alle freuten sich. Sie kochten es und gaben es dem Herrscher zu essen.</p>
+   <p>Er genas, und es entstand großer Jubel: "Unsere Schwiegersöhne sind Helden."</p>
+   <p>Als Kotschora auf dem Berg stand, sprang er auf sein Pferd, schlug es mit der Peitsche und sprang dort hinab, wo sein eigenes Pferd war. Er zog sein Gewand aus und verwahrte es wieder im Ohr des Pferdes. Zu seinem Pferd sagte er: "Geh und grase!" Er fing sein Pferd ein, legte ihm seinen zerschlissenen Sattel auf und ritt zum Haus des Herrschers. Als er durch das Tor kam, sahen ihn die Burschen und begannen zu pfeifen: "Kotschora kommt dahergejagt, bringt Herz und Leber mit.”</p>
+   <p>In diesem Augenblick schaute Kotschoras Frau aus der Hütte. Das Herz blieb ihr fast stehen, als sie sah, wie Kotschora auf seinem Pferd angetrottet kam. Als die Schwäger ihn sahen, brachen sie in Gelächter aus. Die Frau des Herrschers sagte: "Ist er noch immer nicht verschwunden?"</p>
+   <p>Kotschora sprang von seinem Pferd und ging in die Hütte. Er fragte seine Frau: "Hast du nicht etwas zu essen?"</p>
+   <p>"Dort im Kessel wird vielleicht etwas Eingebrocktes sein", meinte die Frau.</p>
+   <p>Kotschora ging zum Kessel und aß. Dann legte er sich ins Bett.</p>
+   <p>Ein Monat verging. Wieder wurde der Herrscher krank. Er verlor das Augenlicht. Man beriet von neuem. Schließlich sagten sie: "Auf dem und dem Berg lebt ein Hirsch. Wer dessen Milch herbringt, der kann ihm helfen.”</p>
+   <p>"Wer soll sie herbringen?" fragten die Wesire.</p>
+   <p>"Wer wohl, natürlich wieder die Schwiegersöhne”", sagte einer.</p>
+   <p>Man sagte es den Schwiegersöhnen, und die sagten: "Ja."</p>
+   <p>Sie trafen Vorbereitungen, setzten sich zu Pferde und ritten davon. Als Kotschora davon erfuhr, ließ er der Frau des Herrschers ausrichten: "Ich will auch ausreiten und will ein Pferd."</p>
+   <p>"Gebt. ihm wieder das Pferd und den Sattel", sagte die Frau des Herrschers,</p>
+   <p>Man brachte Kotschora das Pferd. Er saß auf und ritt los. Die Burschen pfiffen ihm hinterher. Kotschora trottete auf seinem Pferd dahin. Er kam dahin, wo er sein Pferd hatte. Dort sprang er ab, verbarg den Sattel im Wald, rief sein Pferd, und das Pferd kam herbei. Er zog ihm den Sattel und <pb n="39"/> das goldene Gewand aus dem Ohr, zog sich an und bestieg das Pferd. Erschlug es mit der Peitsche, und es flog hoch hinauf in die Luft, Es sprang auf jenen Berg, wo der Hirsch lebte. Er stellte sein Pferd in den Schatten und legte sich selbst am Fuß eines Baumes nieder, Nachdem eine Weile vergangen war, kamen seine Schwäger und sahen, daß dort ein Pferd stand und ein Mann lag.</p>
+   <p>"Siehst du das, Junge?" sprachen sie zueinander, "das muß tatsächlich Gott sein, um unsere Sache steht es gut."</p>
+   <p>Sie ritten näher und begannen sich zu bekreuzigen. Als sie näher kamen,knieten sie nieder. Kotschora fragte sie: "Was ist los, was wollt ihr?"</p>
+   <p>Sie erzählten ihm alles, was ihnen fehlte. Da stand Kotschora auf, ging hin, fing den Hirsch, molk ihn, goß die Milch in eine Flasche, gab sie den Schwägern und sagte zu dem Mann der mittleren Schwester: "Komm her!"</p>
+   <p>Er packte ihn am Ohr und riß ihm das rechte Ohr ab.</p>
+   <p>"Geht jetzt!"</p>
+   <p>Die Schwiegersöhne kehrten zurück. Sie brachten die Milch und schütteten sie dem Herrscher in die Augen. Der Herrscher wurde gesund.</p>
+   <p>Kotschora sprang auf sein Pferd, schlug es mit der Peitsche, und das Pferd sprang dorthin, wo sein Pferd war. Er sprang aus dem Sattel, ließ es auf die Weide und legte das goldene Gewand in sein Ohr. Dann fing er sein Pferd ein, legte seinen zerschlissenen Sattel auf, saß auf und ritt zum Haus des Herrschers. Als er zum Tor hereinkam, begannen sie zu pfeifen:"Kotschora kommt herangejagt." Und es erhob sich großer Lärm. Seine Frau schaute zur Hütte heraus und erblickte ihn. Das Herz blieb ihr faststehen, doch was hätte sie tun sollen? Kotschora sprang vom Pferd, ging in die Hütte, aß kalten Hirsebrei, der im Kessel war, und legte sich auf das Bett.</p>
+   <p>Es verging eine lange Zeit. Inzwischen ließ ein Herrscher diesem Herrscher übermitteln: "Laß uns zu der und der Zeit Krieg führen." Dieser Herrscher erklärte sich einverstanden,</p>
+   <p>Als die Zeit herankam, zog der Herrscher mit seinem Heer los. Sie gelangten an den vereinbarten Ort. Seine beiden Schwiegersöhne hatte er natürlich mitgenommen, Von der anderen Seite näherte sich der andere Herrscher mit seinem Heer. Sie stellten sich einander gegenüber.</p>
+   <p>Damals schickte Kotschora einen Mann zur Frau des Herrschers: "Ich möchte ein Pferd, ich will auch in den Krieg ziehen."</p>
+   <p>"Gebt es ihm, vielleicht wird er irgendwo verschwinden."</p>
+   <p>Kotschora sprang auf sein Pferd, und das Pferd begann loszutrotten. Die Burschen pfiffen ihn aus: "Ehe, der wird heute Männer vernichten!"</p>
+   <p>Kotschora verließ den Hof und ritt dorthin, wo er sein Pferd hatte. Erließ die Mähre auf die Wiese laufen, rief sein Pferd, und das Pferd trabte <pb n="40"/> heran. Er zog ihm den Sattel und das silberne Gewand aus dem Ohr. Erlegte dem Pferd den Sattel auf, kleidete sich an, sprang auf und schlug das Pferd mit der Peitsche. Da stieg es hoch in die Luft und sprang dort herab,wo sich die Herrscher gegenüberstanden. Alle erschraken: "Was geht davor?" Die Schwiegersöhne erkannten ihn wieder: "Das ist doch der, den wir auf dem Berg gesehen haben”, sagten sie zueinander.</p>
+   <p>Kotschora zog sein Schwert, drang gegen das Heer des anderen Herrschers vor und erschlug alle miteinander. Wer fliehen konnte, floh. Kotschora hieb mit der Peitsche zu und sprang wieder dorthin, wo er sein Pferd hatte.</p>
+   <p>Siegreich kehrte sein Herrscher samt den Schwiegersöhnen unter großem Jubel von dort zurück. Sie kamen nach Hause, und der Herrscher sprach:"Heute hat Gott mir beigestanden. Er hat mir einen Engel gesandt, der hat das gegnerische Heer vernichtet, und wir sind unversehrt zurückgekehrt.”</p>
+   <p>Einige Zeit verging. Zum zweiten mal erklärte jener Herrscher: "Wir müssen miteinander Krieg führen."</p>
+   <p>"Gut", ließ ihm dieser Herrscher übermitteln.</p>
+   <p>Zur vereinbarten Zeit zog der Herrscher mit seinen Truppen und seinen beiden Schwiegersöhnen los. Von der anderen Seite kam der andere Herrscher mit seinem Heer. Zu dieser Zeit schickte Kotschora einen Mann zur Frau des Herrschers: "Ich will auch in den Krieg ziehen, gib mir ein Pferd."</p>
+   <p>"Gebt es ihm, vielleicht stürzt er irgendwo in einen Abgrund”, sagte die Frau des Herrschers,</p>
+   <p>Kotschora sprang auf das Pferd und ritt los. Als er sich auf den Wegmachte, pfiffen ihm die Burschen hinterdrein: "Heute wird Kotschora die Truppen des dortigen Herrschers mit Stumpf und Stiel ausrotten.”</p>
+   <p>Kotschora ging hin, wo er sein Pferd hatte, sprang von seiner Mähre und rief sein Pferd. Als es kam, nahm er ihm das goldene Gewand und den Sattel aus dem Ohr. Er kleidete sich an, sprang auf das Pferd und schlug es mit der Peitsche. Das Roß stieg hoch in die Luft empor und flog dorthin,wo der Kampfplatz war. Kotschora sprang in der Mitte herab, zog sein Schwert und begann die Gegner zu töten. Der andere Herrscher dachte:"Gott scheint mir wahrlich zornig zu sein.” Kotschora drang gegen die Truppen vor und ließ keinen Mann am Leben. Alle erschlug er. Dann kehrte er auf die Seite seines Herrschers zurück. Er trat vor ihn hin und kniete ehrerbietig vor ihm nieder wie vor Gott. Als Kotschora das Schwert in die Scheide gesteckt hatte, hatte er sich einen Finger der linken Hand verletzt. Der Herrscher löste sein Halstuch und verband ihm damit den Finger. Kotschora sprang wieder auf sein Pferd, schlug es mit der Peitsche und ritt direkt zum Haus des Herrschers. Er stob in den Hof hinein und ließ sein Pferd tänzeln. Als die Frau des Herrschers, ihre Töchter und die <pb n="41"/> Diener ihn sahen, erschraken sie alle und verbargen sich. Kotschora spornte sein Pferd an und ließ es so tanzen, daß der Palast des Herrschers dröhnte.</p>
+   <p>Überall auf dem Boden zeigten sich die Hufspuren des Pferdes, in jeden Hufabdruck paßte ein ganzer Mann hinein. Schließlich ritt Kotschora rasch zu seiner Hütte. Er sprang vom Pferd, öffnete die Tür, führte sein Pferd hinein und stellte es in eine Ecke. Kotschoras Frau verging vor Angst, sie erkannte nicht, wer er war.</p>
+   <p>Kotschora sprach zu ihr: "Fürchte dich nicht, ich bin es, dein Kotschora!"</p>
+   <p>Da freute sich das Mädchen, lief zu ihm hin, schmiegte sich an seine Brust und weinte und lachte. Sie wußte nicht, was sie tun sollte, Kotschorastreckte sich auf dem Bett aus und legte den Kopf auf die Knie des Mädchens. Das Mädchen nahm den Tschonguri und begann zu spielen und zu dingen, so fröhlich war ihr ums Herz.</p>
+   <p>Die Frau des Herrschers sprach: "Mein Gott, wer mag das sein, der da wie Gott in die Hütte gegangen ist und dem meine verlorene Tochter auf dem Tschonguri spielt?" Sie schickte einen Mann zu ihrer Tochter: "Wer ist dieser Mann?"</p>
+   <p>Der Abgesandte öffnete die Tür. Als er hineinblickte, sah er den gottgleichen Mann und dessen Pferd.</p>
+   <p>"Was willst du?" fragte das Mädchen.</p>
+   <p>"Die Herrin läßt dich fragen: Wer ist dieser Mann?" antwortete er,</p>
+   <p>"Das ist nicht eure Sache", sagte das Mädchen.</p>
+   <p>Inzwischen nahten der Herrscher und seine Schwiegersöhne. Die Edlenritten mit ihren Rossen nach vorn und kamen zur Frau des Herrschers, um ihr die Freudenbotschaft zu überbringen. Als sie den Hof betraten, fielen sie in die Huftritte von Kotschoras Pferd, so daß die ganzen Truppen alle übereinander stürzten, denn der Boden war von den Hufen tief gespalten.</p>
+   <p>Der Herrscher rief: "Was ist hier los? Habt ihr etwa Schweine im Hof gehabt?”</p>
+   <p>Die Frau des Herrschers kam leise aus dem oberen Stockwerk herab,winkte ihm zu, legte sich die Hand auf den Mund und sagte: "Pst, pst, leise!</p>
+   <p>Gott ist in der Hütte!"</p>
+   <p>Alle erschraken. Der Herrscher sprang vom Pferd, Er stieg in das Schloß empor und fragte seine Frau, was vorgefallen wäre, Die Frau erzählte ihm alles, was sie gesehen hatten, Der Herrscher meinte: "Das muß doch tatsächlich jener Gott sein, der mir geholfen hat!"</p>
+   <p>Der Herrscher schickte einen Mann zu ihm und bat ihn zu sich. Doch Kotschora ließ ihm ausrichten: ”Soll er doch hierherkommen.”</p>
+   <p>Da begaben sich der Herrscher, seine Frau, seine Töchter und Schwiegersöhne alle gemeinsam hin. Sie traten in die Hütte, sahen das Wunder, und alle knieten vor Kotschora nieder. <pb n="42"/> Kotschora sprach: "Steht auf! Ich bin Kotschora und kein Gott!"</p>
+   <p>Sie erhoben sich. Kotschora fragte den ältesten Schwiegersohn: "Was hast du denn mit deinem Fingernagel gemacht?”</p>
+   <p>"Dann und dann habe ich ihn an einem Stein abgerissen", antwortete der.</p>
+   <p>Da lachte Kotschora, zog ihn aus seiner Tasche und sprach: "Da ist dein Fingernagel! Hast du ihn an einem Stein abgerissen oder habe ich ihn dir abgerissen?”</p>
+   <p>Der älteste Schwiegersohn verging fast vor Scham, aber was hätte er tun sollen? Gegen Kotschora konnte er sich nichts wagen.</p>
+   <p>Jetzt fragte Kotschora den anderen Schwiegersohn: "Was ist mit deinem Ohr?"</p>
+   <p>"Dann und dann habe ich es mir an einem Stein abgerissen", antwortete er.</p>
+   <p>Kotschora lachte auf und sprach: "Da ist dein Ohr! Hast du es dir an einem Stein abgerissen oder habe ich es dir abgerissen?"</p>
+   <p>Der junge Mann verging vor Scham, aber was hätte er tun sollen?"</p>
+   <p>Jetzt wandte sich Kotschora an den Herrscher und sprach: "Als du das letztemal in den Krieg gezogen bist, was für ein Mann hat dir damals beigestanden?"</p>
+   <p>"Er war ganz in Silber gekleidet", sagte der Herrscher.</p>
+   <p>"Als du zum zweitenmal in den Kampf gezogen bist, was für Kleidung trug jener Mann?"</p>
+   <p>"Herr, er hatte Euer Gewand an.”</p>
+   <p>"Was ist dem Mann passiert, als er das Schwert in die Scheide stieß?"</p>
+   <p>"Er hat sich dabei in den Finger geschnitten."</p>
+   <p>"Und was hast du getan?"</p>
+   <p>"Ich habe ihm den Finger mit meinem Halstuch verbunden."</p>
+   <p>"Ist es vielleicht dieses?" Kotschora zeigte ihm den verbundenen Finger.</p>
+   <p>Da freute sich der Herrscher, Er lief zu ihm hin, küßte ihn, und sie begriffen alles, Sogleich führte man Kotschora und seine Frau in das obere Stockwerk hinauf. Die anderen Schwiegersöhne machten sich samt ihren Frauen aus dem Staub, daß niemand sie sah. Der Herrscher und seine Frau waren voller Freude, daß sie würdig waren, einen solchen Schwiegersohn zu besitzen.</p>
+   <p>Lange Zeit verging, und Kotschora ritt jagen. Er brachte viel Wild nach Hause. Einmal ging seine Frau ans Meer, um sich zu baden. Sie hatte Haar wie aus Goldfäden. Ein Haar löste sich, fiel ins Meer, und das Wasser truges fort und spülte es im jenseitigen Reich an den Strand. Das sah der Sohnes dortigen Herrschers. Er hob es auf, betrachtete es und sprach: "Wenn die, der dieses Haar gehört, nicht meine Frau wird, dann möge mich Gott nicht mehr auf dieser Welt leben lassen." Er ging nach Hause und erzählte <pb n="43"/> alles seinem Vater, dem Herrscher. Der wurde sehr traurig, aber was hätte er machen sollen? Er versammelte alle Menschen in seinem Reich und fragte sie: "Diese Sache liegt mir am Herzen, wer kann mir helfen?"</p>
+   <p>"Ich kann dir helfen", sagte eine alte Frau.</p>
+   <p>Der Herrscher brachte sie in sein Haus und fragte: "Wie kannst du mir helfen?”</p>
+   <p>Die Alte antwortete: "Beschaffe mir einen Becher solches Getränk, daß man, wenn man davon trinkt, sofort einschläft. Und zweitens beschaffe mir ein Schiff, das in einem Augenblick hundert Meilen zurücklegen kann."</p>
+   <p>"Sehr gut”, meinte der Herrscher und stellte ihr alles bereit.</p>
+   <p>Die alte Frau fuhr los, ging in der Nähe von Kotschoras Haus an Land und band das Schiff am Strand fest, daß man es nicht sehen konnte. Sie lief zu dem Haus, trat in den Hof und lehnte ihren Stock in einen Winkel, als ob sie eine Bettlerin wäre. Kotschoras Frau erblickte sie und fragte: "Was willst du, Mütterchen, worum bittest du?"</p>
+   <p>"Ach, mein Kind, stelle mich als Dienerin ein", sagte die alte Frau.</p>
+   <p>”Sehr gut”, meinte Kotschoras Frau.</p>
+   <p>Damals lebten der Herrscher und seine Frau nicht mehr. Kotschora kam abends von der Jagd zurück. Er sah die alte Frau und freute sich: Wirkwaren allein, und jetzt haben wir Gesellschaft bekommen. Die alte Frau staunte über Kotschoras Kraft, weil er so mit Wild beladen daherkam. Am nächsten Tag ging Kotschora wieder fort. Die alte Frau setzte sich zu dem Mädchen und begann sich mit ihr zu unterhalten: "Mein Kind, wo befindet sich die Seele deines Mannes, worin liegt seine Kraft?”</p>
+   <p>"Ich weiß es nicht", sagte das Mädchen.</p>
+   <p>"Mein Kind, dein Mann ist nicht ein Herz und eine Seele mit dir."</p>
+   <p>Am Abend kam Kotschora nach Hause. Als sie sich hinlegten, sprach das Mädchen: "Du, Kotschora, liebst mich nicht."</p>
+   <p>"Warum?"</p>
+   <p>"Warum soll ich nicht wissen, wo du deine Seele und Kraft hast?" erwiderte das Mädchen.</p>
+   <p>"Wozu willst du das wissen?" meinte Kotschora und verriet ihr sein Geheimnis nicht. Aber seine Frau gab keine Ruhe, und schließlich sagte Kotschora es ihr. In jener Nacht schmiegte sich seine Frau an ihn, und sie schliefen ein. Am nächsten Morgen stand Kotschora auf und ging auf die Jagd.</p>
+   <p>Die Alte fragte das Mädchen: "Was ist es, Kind, was hat er dir gesagt?"</p>
+   <p>"Meine Kraft und meine Seele sind in einem Haar, hat er gesagt, das in der Mitte des Kopfes gewachsen ist. Dieses Haar ist das dickste. Wenn es ausfällt, muß er sofort sterben", verriet das Mädchen der alten Frau, was Kotschora gesagt hatte. <pb n="44"/></p>
+   <p>Die Alte freute sich. Am Abend kehrte Kotschora von der Jagd zurück,legte sich zu Bett und schlief ein. Die Alte trippelte zum Schrank, holte ihren Schlaftrunk heraus, goß einen Becher ein und sagte zu dem Mädchen:"Trink meinen Hausgemachten, Kind!"</p>
+   <p>Das Mädchen nahm den Becher und trank. Sie wurde schlafr1g Sie legte sich und schlief ein. Da schlich sich die Alte zu Kotschora, packte jenes Haar und riß es mit einem Ruck aus. Kotschora zuckte zusammen und hauchte wie eine Wachtel seine Seele aus. Die Alte entführte das Mädchen,während es schlief. Sie brachte sie zu ihrem Schiff und fuhr zu ihrem Reich,Das Haar von Kotschora nahm sie mit und warf es mitten in das Meer.</p>
+   <p>Die alte Frau brachte das Mädchen zu dem Herrscher. Der freute sich sehr, und man gab der Alten viele Geschenke. Der Herrscher sprach zudem Mädchen: "Ich will dich als meine Schwiegertochter. Ich will dich mitmeinen Sohn vermählen."</p>
+   <p>"Ich kann nicht heiraten, denn ich muß meinen Mann drei Jahre, drei Monate, drei Wochen, drei Tage, drei Stunden und drei Minuten lang betrauern. Dann ja, aber jetzt nicht", sagte das Mädchen.</p>
+   <p>“Gut”, sprach der Herrscher,</p>
+   <p>Man geleitete das Mädchen hinauf und brachte sie ganz oben im Palast unter. Sie schloß die Tür von innen zu. Das Fenster hatte sie tagsüber geöffnet. Sie blickte zum Meeresstrand und weinte immerzu. Sie wußte alles, was ihr zugestoßen war, aber was sollte sie tun?</p>
+   <p>Es vergingen drei Jahre und drei Monate. Die festgesetzte Zeit kam heran, aber Kotschora war gestorben, und die Schneide des Taschenmessers des Helden Beltagan hatte sich blutig gefärbt. Beltagan setzte sich zu Pferde, gab ihm die Sporen und brach auf, um den Helden Christagan zusuchen, Er wußte, daß er wirklich tot war. Schließlich kam er zu Christagans Haus, betrat das Schloß, fand ihn tot und brach in Tränen aus. Er erhob sich und fing Christagans Pferd ein. Der Held Beltagan konnte hellsehen.</p>
+   <p>Er begriff, wo Christagans Haar war. Er ritt zum Meer, sprang in das Wasser hinein, schwamm los und forschte im Meer. Fünfzehn Tage lang suchte er. Da sah er, daß an einer Stelle auf dem Meeresgrund im Sand die Spitze zu erkennen war. Er tauchte hinab, kam auf den Grund, ergriff das Haar, schwamm ans Ufer, sprang auf sein Pferd, spornte es an und ritt dorthin, wo der tote Christagan lag. Er setzte ihm das Haar wieder dort ein,wo es gewachsen war.</p>
+   <p>Christagan erwachte plötzlich und sprach: "Ach, diese Elende, wie lange ich geschlafen habe!"</p>
+   <p>Aber er wußte, was ihm fehlte. Beide Helden setzten sich zu Pferde,schlugen mit den Peitschen und sprangen dorthin, wo das Mädchen ausfem Fenster auf den Meeresstrand schaute. Am nächsten Tag mußte die <pb n="45"/> Frist des Mädchens enden. Das Mädchen blickte zum Meeresstrand, sah die beiden Helden und hörte auf zu weinen. Die Helden ritten heran und betraten den Hof des Herrschers. Als der sie sah, fragte er: "Wer sind die,die da herkommen?"</p>
+   <p>Der Held Christagan rief ihm zu: "Wir Helden sind es, ich und mein Bruder Beltagan."</p>
+   <p>Sie drangen in das Haus ein, brachen die Tür auf, führten das Mädchen in den Hof herab und riefen dem Herrscher zu: "Holt die Alte her, die dieses Mädchen hierhergebracht hat!”</p>
+   <p>Auf der Stelle brachte man sie herbei, Christagan band sie an den Schweif seines Pferdes. Sie setzten sich auf ihre Pferde. Der Held Christagan nahm seine Frau in den Arm, Beide Helden schlugen ihre Pferde mit der Peitsche, sie stiegen hoch hinauf in die Luft und sprangen in Christagans Hof wieder herab. Hier ruhten sie sich zwei Tage und zwei Nächte aus. Am dritten Tag reisten sie alle zusammen zum Haus des HeldenBeltagan. Als sie dort hinkamen, gab es großen Jubel. Beltagans Frau lief ihrer Schwägerin entgegen, sie umarmten sich, küßten sich und blieben eine ganze Woche dort.</p>
+   <p>Nach einer Woche sprach Christagan zu dem Helden Beltagan: "Jetzt,Bruder, laß uns zum Haus meiner Mutter und meines Großvaters ziehen!"</p>
+   <p>Sie setzten sich auf ihre Pferde, ritten los und kamen zum Haus von Christagans Großvater. Alle fand er lebend vor. Die Mutter, der Großvater,die Großmutter und alle Angehörigen kamen ihnen entgegen, küßten sie,umarmten sie, und Christagan sagte zu seinem Großvater: "Das ist mein Bruder, der Held Beltagan, das ist meine Schwägerin, und das ist meine Frau."</p>
+   <p>Es herrschte große Freude, man feierte, aß und trank. Sie hatten eine Tafel, an der nicht einmal Vogel käse fehlte.</p>
+   <p>Auch ich war bei diesem Fest. Und auch euer Herz kann bezeugen, wie sie gefeiert haben mögen.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="ddo">тӏагьирес емаду</title>
+    <author>
+     <name xml:id="NA">
+      <persName>
+       <surname>Ardoteli</surname>
+       <forename>Nodar</forename>
+      </persName>
+      <idno type="orcid" corresp="https://orcid.org/0000-0003-3790-6896">0000-0003-3790-6896</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="bookSection">
+     <title xml:lang="eng">The Dido Lnguage. Descriptive analysis with texts</title>
+     <author ref="https://orcid.org/0000-0003-3790-6896">
+      <persName>
+       <forename>Nodar</forename>
+       <surname>Ardoteli</surname>
+      </persName>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>
+      <name ref="https://ice.ge/ofen/">Arn. Chikobava Institute of Linguistic</name>
+      <geogName>Tbilisi</geogName>
+     </publisher>
+     <distributor>
+      <persName corresp="https://orcid.org/0000-0003-3790-6896">
+       <surname>Ardoteli</surname>
+       <forename>Nodar</forename>
+      </persName>
+     </distributor>
+     <date when="2007"/>
+     <availability>
+      <p>
+       <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="ddo">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_97.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country>Russische Föderation</country>
+     <region>Dagestan</region>
+     <district/>
+     <settlement>Hamaitlach</settlement>
+     <geo/>
+    </placeName>
+    <date>1987</date>
+   </creation>
+   <particDesc>
+    <person role="InformantIn">
+     <persName>Suleiman Suleimanov</persName>
+     <age>17</age>
+     <birth>
+      <date/>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+      </placeName>
+     </birth>
+    </person>
+    <person role="ForscherIn">
+     <persName>Nodar Ardoteli</persName>
+    </person>
+    <person role="translator">
+     <persName corresp="https://orcid.org/0000-0003-3790-6896">
+      <surname>Ardoteli</surname>
+      <forename>Nodar</forename>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_ddo_ddo_97">
+  <body>
+   <head>тӏагьирес емаду</head>
+   <p> сис зев̂н хан. несис зев̂н ичӏчӏа øигу вазир. <cb n="1"/> гьобой жеду къунесно хехби зев̂но̄ну. <cb n="2"/> гьобой жедо̄ къутӏи бо̄н дуниалкьо безу бокьанир бикӏа. <cb n="3"/> сидахъулъ гьуних бохъно жедури. <cb n="4"/> байн жеду сида шагьариа̄р. <cb n="5"/> гьобой ело ресун жедур берцинав̂ ах. <cb n="6"/> ело телъер бега ретин зев̂н жедур. <cb n="7"/> шетӏу бутих бичин ахихъ, бегин жеду телъер. <cb n="8"/> ело къ̒идан бичин, жедудер øайн ечру жекӏу. <cb n="9"/> гьобой жедухъ есирно несе̄: - лъиналъ межи ургъизе бохъ̒хъ̒о? <cb n="10"/> жедо̄ елӏин: - елус о̄ну сискин хехби. <cb n="11"/> жа те̄хърун, несе̄ жедухъор телӏно сис гьенеш. <cb n="12"/> жедухъорно елӏин: - идур ба̄йрун, болӏкьо бокӏо, барузар тел! <cb n="13"/> гьобой сидер ужи øо̄й, сидер кид йо̄й. <cb n="14"/> жокь - ци тӏагьир, кидбекь - ци зугьра-лӏин. <cb n="15"/>
+   </p>
+   <p> жа гьенеш бе̄хъирун, нехно идугъор. <cb n="16"/> иду болӏин бокӏно, барузар телӏно. <cb n="17"/> нелъкьоси заман бикӏин. <cb n="18"/> сидахъулъ ханно вазирно белъих бикӏин. <cb n="19"/> хизор жеду нехкьор ханес чапар øайн гьунер. <cb n="20"/> жедухъор елӏин несе̄: - хан, дебер кид йос, вазир, дебер ужи øос. <cb n="21"/> гъагъу øе̄зиру в̂азир гулун белӏо бокӏерно, нехно зев̂н. <cb n="22"/> мада̄р øа̄йру, гулун бичин, øокьанон-окьун, øехун. <cb n="23"/>
+   </p>
+   <p> хан къв̂аридно øохъно, идугъор нехно. <cb n="24"/> идур øайзакьортев̂, несир буйурухъ телӏно: - ди øайзакьор кид илой тӏагӀизе йодо-лӏин! <cb n="25"/> нелъкьой содер в̂азирзо барӯ ужи киких зев̂н. <cb n="26"/>
+   </p>
+   <p> сидахъулъ ханер несис мада̄ øукан ужи. <cb n="27"/> несе̄ есирно в̂азирзахъ: - жа ужи лъус-лӏин? <cb n="28"/> жедо̄ елӏин несихъор: - жа ужи øе̄хуруни в̂азирес йолъ-лӏин. <cb n="29"/> ханекь байн ургъел: „дин йехуренчӏей хецис йолъи, кид гьомонце йохъа". <cb n="30"/> гьов̂лой сида вазире̄ елӏин: - деби кид чӏаго йолъ-лӏин. <cb n="31"/> хане̄ елъ̒ин: - ентӏор йов̂о кид-лӏин! <cb n="32"/>
+   </p>
+   <p> хизо хане̄ жеду бегирно зенни тӏетӏра. <cb n="33"/> зенни тӏетӏерхо зев̂н, жедус бохъно сиде̄-сидхъо рокьи. <cb n="34"/> хане̄ жа кид къуйазор телъхо зев̂н. <cb n="35"/> хане̄ тӏагьир øегирно цихъхъогъор башихъов̂ кӏеда. <cb n="36"/> тӏагьир øикӏиноси зугьра но̄золӏа ханхо йегирно. <cb n="37"/> тӏагьир цихъхъой башихъов̂но рихъин, хинзор øутин. <cb n="38"/> тӏагьир øайзакьор хане̄ буйурухъ телӏно: „жа зугьра йехус-лӏин - елӏо". <cb n="39"/> нелъа зугьра̄ нелъас служанкахъор мечӏохъов̂ телӏно: - йеда мечӏохъов̂ тӏагьирхъор телӏ ми! <cb n="40"/> тӏагьир øа̄йру мехкьо телӏно нелъа̄ жа. <cb n="41"/>
+   </p>
+   <p> тӏагьирхъор есин: - жа йехо̄си о̄ну, ханхо йегирси. тӏагьир øикӏин ело ъалъа̄гъор. <cb n="42"/> елой ъалъоз чӏиме, кикхо йесун зугьра. <cb n="43"/> ело̄зай идур йикӏинчӏей, тӏагьирелъ хинзо нехно жа. <cb n="44"/> ело̄зай идуртев̂ нехно, гьоболо гӀумру бода бохъно жедури (||жеди). <cb n="45"/>
+   </p>
+  </body>
+ </text>
+</TEI>

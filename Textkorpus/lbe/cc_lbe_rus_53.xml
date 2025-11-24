@@ -1,0 +1,190 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">Человѣкъ и змѣя</title>
+    <author>
+     <name xml:id="AO">
+      <persName>
+       <forename>Abdulla</forename>
+       <surname>Omarov</surname>
+      </persName>
+     </name>
+     <idno></idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">КАЗЙКУМУМУХСКІЯ (ЛАКСКІЯ) НАРОДНЫЯ СКАЗАНІЯ</title>
+      <author>
+       <persName ref="#AО">
+        <forename>Abdulla</forename>
+        <surname>Omarov</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">ССКГ; Сборник сведений о кавказских горцах</title>
+      <imprint>
+       <pubPlace>Тифлись</pubPlace>
+       <publisher>Кавказский отдел Императорского Русского географического общества</publisher>
+       <date when="1868">1868</date>
+      </imprint>
+      <biblScope unit="volume">1</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"></index>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_lbe_rus_53.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district></district>
+     <settlement></settlement>
+    </placeName>
+    <date notAfter="1868">1868</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district></district>
+       <settlement></settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AO">
+      <forename>Abdulla</forename>
+      <surname>Omarov</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName key="#AO">
+      <forename>Abdulla</forename>
+      <surname>Omarov</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change></change>
+    <change></change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_lbe_rus_53">
+  <body>
+   <head>Человѣкъ и змѣя</head>
+   <p>Однажды шелъ по степи человѣкъ и увиделъ, что въ яме, где проѣзжие купцы развели огонь, лежитъ змея. Человѣкъ взялъ палку и выбросилъ змею изъ огня, но она упала на шею своему спасителю и начала душить его. "Я тебя спасъ отъ смерти, сделалъ тебе добро, за что же ты хочешь меня удушить?" сказалъ человѣкъ. — "За то, отвечала змея, что следуетъ платить зломъ за добро, и если ты мне не веришь, такъ пойдемъ спросимъ быка, который вонь тамъ пасется." Пошли они къ быку, а быкъ этотъ былъ изнуренъ долголѣтнею работою и теперь, какъ негодный, брошенъ на степи. "Чѣмъ следуетъ платить за добро человѣка?" спросили они быка. —"Вотъ я вамъ примерь, сказалъ быкъ: когда я былъ въ силахъ и въ теле, человѣкъ заставлялъ меня работать на себя; я пахалъ ему пашню, я вымолачивалъ ему на гумнѣ хлебъ: теперь-же, когда я заболелъ, исхудалъ и сделался неспособиымъ къ работе, человекъ бросилъ меня на степи безъ всякаго призора и живу я подъ страхомъ, что вотъ-вотъ растерзаютъ меня звѣри; слѣдовательно, судя по людскимъ поступкамъ, за добро следуетъ платить зломъ," закончилъ быкъ. — Слышишь? спросила змея. —Слышу, печально сказалъ человѣкъ. "Пойдемъ еще, спросимъ у лошади: она вонъ тамъ лежитъ." Пошли они къ лошади и нашли ее запаленною, худою, слѣпою, хромою и израненною. —Чемъ следуетъ платитъ за добро? спросили они. — "Вотъ я вамъ примеръ, сказала лошадь: когда я была жирною и сильною, я усердно работала на человека, возила его на своей спине, возила ему хлебъ и все, что ему нужно было; а вотъ, когда я сдѣлалась неспособною къ работѣ, хозяинъ бросилъ меня безъ всякаго присмотра на съѣдение зверямъ; следовательно, за добро люди платятъ зломъ," сказала лошадь - Слышишь? спросила змея. —Слышу, сказалъ человѣкъ. — "Таковы-то вы, люди, продолжала змея, —таковы-то вы къ быку и къ лошади, которыми дорожите и которыхъ и въ холодъ и въ жарь вы стараетесь и беречь и кормить, пока нѳ потеряете надежды на ихъ жизнь: вотъ слышалъ, какое рѣшение они произнесли тебе. Что-же должна сказать змѣя, которую, чуть вы ее увидели где-нибудь, тотчасъ бежите убивать? Но такъ и быть: я отпущу тебя, только подъ условиемъ: ты дашь мне клятву, что впредь не будешь убивать змѣи." Человѣкъ поклялся, и змѣя спрыгнула съ шеи его, —Теперь иди за мной! сказала змѣя. Человѣкъ <pb n="59"/> пошелъ. Подле одного камня змея остановилась и сказала: "стой здесь!" а сама полезла въ нору, подъ камень.
+</p>
+   <p>Человекъ стоялъ и боязливо размышлялъ: "чего добраго! она, быть можетъ, отправилась пригласить побольше змѣй, чтобы окончательно задушить меня," какъ вдругъ видитъ, что змѣя выползла изъ норы и держитъ во-рту золотую монету. Отдавъ ее человеку, змѣя сказала: "каждый день приходи сюда и каждый день зови меня: ты будешь получать всегда по золотой монете, но только помни: никому не говори про это, иначе для тебя все погибло." Человекъ поблагодарилъ и ушелъ домой.
+</p>
+   <p>Каждый день ходилъ беднякъ къ знакомому камню и каждый разъ получалъ отъ змѣи по одной золотой монете, и когда такимъ образомъ накопилось у него порядочное количество золотыхъ, онъ задумалъ ехать торговать, а на своемъ месте пожелалъ оставить сына, съ темъ, однако, чтобы онъ получалъ отъ змѣи золотыя. Для этого беднякъ привелъ своего сына къ змѣе и сказалъ ей: "это мой сынъ, я еду по торговымъ деламъ въ чужой городъ и вотъ привелъ его къ тебе, чтобы ты, во время моего отсутствия, отдавала ему золотыя." — Можетъ-ли онъ сохранить тайну и оценить добро? спросила змѣя. Человекъ поклялся, и строго запретплъ сыну кому бы то ни было открывать тайну.
+</p>
+   <p>Прошло несколько дней, и сынъ бедняка получалъ отъ змеи исправно по одному золотому каждый день. Но вотъ однажды сынъ призадумался: "здесь, должно быть, зарыть кладь, сообразилъ онъ: что мне ежедневно ходить сюда? Не лучше-ли убить змѣю и выкопать казну сразу?" Решивь такимъ образомъ, онъ, когда змѣя выползла изъ норы съ золотомъ во-рту, ударилъ ее, но ударъ пришелся по хвосту и отбилъ его; тогда змея обернулась на мальчика —и онъ палъ мертвымъ. Такимъ его нашли подле камня и никто зналъ и не догадывался, въ чемъ тутъ было дело. Черезъ несколько времени отецъ возвратился изъ путешествия: вышли къ нему на встречу родственники, но между ними не было сына. "Где-жъ сынъ?" снросилъ отецъ. — Онъ остался дома, сказали ему. Отецъ пришолъ домой и тутъ только узналъ, что сынъ его умеръ. Онъ поспешилъ къ своей знакомой змѣе и кликнулъ ее: змея выползла, но ужо безъ золота. Тутъ разсказала она, какъ было дело. — "Ну, что-жъ теперь? прошлаго не воротишь! сказалъ отецъ, я все-таки и буду приходить къ тебе и ты по прежнему выноси мне золото."— Нетъ, теперь все <pb n="60"/> кончено, сказала змея: ты мне больше не другъ, ибо змея не забываетъ отрезаннаго хвоста, а отецъ не забываетъ убитаго сына.
+</p>
+   <p>Опечаленный, человѣкъ возвратился домой и сказалъ самъ себе: "кто льстится на большее, тотъ теряетъ и малое."
+</p>
+  </body>
+ </text>
+</TEI>

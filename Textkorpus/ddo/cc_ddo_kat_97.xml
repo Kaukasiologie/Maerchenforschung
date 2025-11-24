@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="kat">ტაჰირის ზღაპარი</title>
+    <author>
+     <name xml:id="NA">
+      <persName>
+       <surname>Ardoteli</surname>
+       <forename>Nodar</forename>
+      </persName>
+      <idno type="orcid" corresp="https://orcid.org/0000-0003-3790-6896">0000-0003-3790-6896</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="bookSection">
+     <title xml:lang="eng">The Dido Lnguage. Descriptive analysis with texts</title>
+     <author ref="https://orcid.org/0000-0003-3790-6896">
+      <persName>
+       <forename>Nodar</forename>
+       <surname>Ardoteli</surname>
+      </persName>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>
+      <name ref="https://ice.ge/ofen/">Arn. Chikobava Institute of Linguistic</name>
+      <geogName>Tbilisi</geogName>
+     </publisher>
+     <distributor>
+      <persName corresp="https://orcid.org/0000-0003-3790-6896">
+       <surname>Ardoteli</surname>
+       <forename>Nodar</forename>
+      </persName>
+     </distributor>
+     <date when="2007"/>
+     <availability>
+      <p>
+       <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="kat">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_97.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country>Russische Föderation</country>
+     <region>Dagestan</region>
+     <district/>
+     <settlement>Hamaitlach</settlement>
+     <geo/>
+    </placeName>
+    <date>1987</date>
+   </creation>
+   <particDesc>
+    <person role="InformantIn">
+     <persName>Suleiman Suleimanov</persName>
+     <age>17</age>
+     <birth>
+      <date/>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+      </placeName>
+     </birth>
+    </person>
+    <person role="ForscherIn">
+     <persName>Nodar Ardoteli</persName>
+    </person>
+    <person role="translator">
+     <persName corresp="https://orcid.org/0000-0003-3790-6896">
+      <surname>Ardoteli</surname>
+      <forename>Nodar</forename>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_ddo_kat_97">
+  <body>
+   <head>ტაჰირის ზღაპარი</head>
+   <p> იყო ერთი მეფე. მას ჰყავდა ძალიან კარგი ვეზირი. <cb n="1"/> არცერთ მათგანს („მათ ორივეს") შვილები არ ჰყავდა. <cb n="2"/> მათ პირობა დადეს, წასულიყვნენ ქვეყნიერების სანახავად. <cb n="3"/> ერთხელაც ისინი გაუდგნენ გზას. <cb n="4"/> ისინი მიადგნენ ერთ ქალაქს. <cb n="5"/> სწორედ იქ მათ აღმოაჩინეს ტურფა ბაღი. <cb n="6"/> მათ უნდოდათ როგორმე შეეღწიათ ბაღში („შიგნით"). <cb n="7"/> დადიოდნენ რა ბაღთან, მათ იპოვეს შიგნით შესასვლელი. <cb n="8"/> იქ დასხდნენ რა, მათთან მოვიდა ხნიერი კაცი. <cb n="9"/> მაშინ მან ჰკითხა მათ: - რა გაგჭირვებიათო? <cb n="10"/> მათ მიუგეს: - ჩვენ არ გვყავს არცერთი ბავშვი. <cb n="11"/> მან გაიგო თუ არა, მათ მისცა ერთი ვაშლი. <cb n="12"/> მათვე უთხრა: - მიხვალთ რა შინ, შუაზე გაყავით და ცოლებს მიეცითო. <cb n="13"/> ერთს ვაჟი გეყოლებათ, მეორეს კი - გოგო. <cb n="14"/> ბიჭს ტაჰირი დაარქვით, გოგონას კი - ზუჰრაო. <cb n="15"/>
+   </p>
+   <p> იშოვეს რა ეს ვაშლი, დაბრუნდნენ შინ. <cb n="16"/> შინ შუაზე გაყვეს და ცოლებს მისცეს. <cb n="17"/> მას მერე გამოხდა ხანი. <cb n="18"/> ერთხელ მეფე და ვეზირი სანადიროდ წავიდნენ. <cb n="19"/> უკან დაბრუნებისას მეფის მალემსრბოლი შემოხვდათ გზაზე. <cb n="20"/> მან უთხრა მათ: - მეფევ, თქვენ გოგო გეყოლათ, ვეზირო, თქვენ კი - ვაჟი. <cb n="21"/> გახარებულმა ვეზირმა ცხენს მათრახი გადაჰკრა და სწრაფად მოდიოდა. <cb n="22"/> მიაღწია რა შინ, ცხენი გაჩერდა, ჩამოვარდა (ვაზირი) და სული განუტევა. <cb n="23"/>
+   </p>
+   <p> მეფე დანაღვლიანდა და შინ დაბრუნდა. <cb n="24"/> ჯერ სახლშიც არ იყო მოსული, ბრძანება გასცა: - ჩემს მოსვლამდე გოგონა მოსპეთო! <cb n="25"/> ამის შემდეგ ვაზირის ცოლი ძუძუს აწოვებდა ვაჟს. <cb n="26"/>
+   </p>
+   <p> ერთხელ მეფემ მის ბაღში დაინახა ვაჟი. <cb n="27"/> მან ჰკითხა ვეზირებს: - ის ვაჟი ვისიაო? <cb n="28"/> მათ მიუგეს: - ის ვაჟი გარდაცვლილი ვეზირისა არისო. <cb n="29"/> მეფე სინანულმა შეიპყრო: „მეც რომ არ მომეკლა და დამეტოვებინა, გოგონა ამხალა იქნებოდაო". <cb n="30"/> მაშინ ერთმა ვეზირმა გაუმხილა: - შენი გოგონა ცოცხალიაო". <cb n="31"/> მეფემ ბრძანა: - აქ მომგვარეთ გოგონაო? <cb n="32"/>
+   </p>
+   <p> ამის მერე მეფემ ისინი გაგზავნა სასწავლებლად. <cb n="33"/> ერთად სწავლობდნენ რა, მათ ერთმანეთი შეუყვარდათ. <cb n="34"/> მეფე იმ გოგოს სხვაზე ათხოვებდა („აძლევდა"). <cb n="35"/> მეფემ ტაჰირი ტყეში გაგზავნა ბეჭდის მოსაძებნად. <cb n="36"/> ტაჰირის წასვლის მერე ზუჰრა სხვა მეფეს გააყოლა. <cb n="37"/> ტაჰირმა ტყეში ბეჭედი იპოვა და უკან დაბრუნდა. <cb n="38"/> ტაჰირის მოსვლის ჟამს მეფემ ბრძანება გასცა - ეთქვათ: „ზუჰრა მოკვდაო". <cb n="39"/> ზუჰრამ თავის მოსამსახურეს ცხვირსახოცი მისცა: - ეს ცხვირსახოცი ტაჰირს გადაეციო! <cb n="40"/> ტაჰირის მოსვლის დროს მან (მოსამსახურემ) გადასცა ის. <cb n="41"/>
+   </p>
+   <p> ტაჰირს ამცნეს, რომ იგი მკვდარი არ არის, მეფეს მიათხოვესო. ტაჰირი წავიდა იმ სოფელში. <cb n="42"/> იქ სოფლის განაპირას, წყაროსთან იპოვა ზუჰრა. <cb n="43"/> იქიდან შინ აღარ დაბრუნდა რა, ტაჰირს გაჰყვა უკან. <cb n="44"/> ამის შემდეგ შინ დაბრუნდნენ და შეუდგნენ ისინი ბედნიერ ცხოვრებას. <cb n="45"/>
+   </p>
+  </body>
+ </text>
+</TEI>

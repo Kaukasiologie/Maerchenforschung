@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">19. Die drei Brüder</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_24.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement ref="https://www.geonames.org/613614/k-urzu.html">Kurzu</settlement>
+       <geo/>
+      </placeName>
+    <date when="1923">1923</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Zoko</forename>
+      <surname>Akhalaia</surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename>Makar</forename>
+      <surname>Khubua</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_24">
+  <body>
+   <head>Die drei Brüder</head>
+   <p>Es waren einmal drei Brüder. Zwei waren Feldarbeiter, der dritte war ein Jäger, der Wild erlegte. Alle drei waren verheiratet und hatten natürlich Kinder. Diese beiden Brüder arbeiteten auf dem Feld, der dritte Bruder ernährte seine Familie mit Wildbret. Eines Tages war dieser Mann auf die Jagd gezogen und in eine Gegend gelangt, wo er nie zuvor gewesen war. Er kam an einen großen Fluß. Da er diesseits kein Wild fand, dachte er: Ich will auf die andere Seite hinübergehen, vielleicht kann ich etwas finden.</p>
+   <p>Er stieg in den Fluß hinein und kam in dem Land auf der anderen Seite wieder heraus. Kaum stieg er da ans Ufer, verwandelte er sich in ein wunderschönes Mädchen, so schön, daß keines Menschen Auge je etwas Besseres gesehen hat. Was sollte der Mann tun? Erregt lief er umher, aber er war in ein Mädchen verwandelt, und nichts half.</p>
+   <p>In diesem Land auf der anderen Seite des Flusses war der Sohn des Herrschers auf die Jagd geritten. Im Wald fand der junge Mann das wunderschöne Mädchen, sie gefiel ihm, er nahm sie mit in sein Haus und heiratete sie. Sie bekam einen Sohn und einen zweiten Sohn, als die Zeit verging. Dieses Mädchen war sehr betrübt, sie war traurig darüber, daß sie hier Kinder gebar, dort in ihrem Haus aber Frau und Kinder zurückgelassen hatte. Einmal dachte sie: Ich will in mein Land gehen und meine Frau <pb n="124"/> und meine Kinder wenigstens von weitem sehen, damit ich weiß, wie es ihnen geht.</p>
+   <p>Sie ging am Tage heimlich davon, kam zu dem Fluß, ging hinüber und verwandelte sich in eine Stute. Da wurde sie sehr betrübt: "Ich bin ein schönes Mädchen gewesen, und jetzt habe ich mich in eine Stute verwandelt."</p>
+   <p>Sie ging über den Fluß wieder zurück, doch sie blieb eine Stute, Da liefsie hin und mischte sich unter die Pferde des Herrschers. Ein Hengst bestieg sie, und sie warf ein Stutenfohlen. Sie warf noch ein zweites Stutenfohlen und zog.</p>
+   <p>auch dieses auf. Die Zeit verging, und sie dachte: Ich will wieder hingehen und den Fluß überqueren.</p>
+   <p>Sie ging auf die andere Seite hinüber und verwandelte sich in eine kleine Hündin. Sie lief aufgeregt hin und her: Wie ist nur Gottes Zorn über mich gekommen, daß ich mich in einen Hund verwandelt habe! Aber nichts half.</p>
+   <p>Sie lief auf die andere Seite zurück und in das Haus des Herrschers. So schön war dieser Hund anzusehen, daß man sich nichts Besseres denken konnte. Die Hündin lebte im Haus des Herrschers und warf zwei Welpen,beides Rüden, und zog sie auf.</p>
+   <p>Wieder kam sie auf den Gedanken: Ich will noch einmal über den Fluß gehen und nach Hause laufen.</p>
+   <p>Sie lief dorthin und überquerte den Fluß. Und als sie auf der anderen Seite heraus stieg, war sie da nicht wieder in den Jäger verwandelt?! Ermachte sich auf und kam in sein Haus. Da herrschte großer Jubel, Die Zeit verging. In diesem Land lebte ein Herrscher, der hatte kein Kind außer einem Mädchen. Dieser Herrscher ließ in allen Reichen verkünden: "Ich will einen Kessel Milch aufstellen, und wer ihn durch sein Sprechen zum Kochen bringt, dem will ich meine Tochter zur Frau geben.”</p>
+   <p>Unzählige Leute gingen hin, aber keiner konnte Worte finden, die die Milch zum Kochen brachten. Dieser Jäger dachte: Ich will hingehen und der Milch all mein Leid erzählen. Kann es nicht sein, daß sie es versteht?</p>
+   <p>Der Mann brach auf und lief zum Haus des Herrschers. Als er sich umsah, erblickte er seine beiden Söhne, die auf den Stuten saßen, die erselbst geworfen hatte, und denen die beiden Hunde, die er selbst geworfen hatte, folgten. Die Burschen holten den Jäger unterwegs ein. Der ältere Sohn ritt vornweg, und der Jäger sagte zu ihm: "Wo ihr hinreitet, gehe ich auch hin. Nimm mich ein kleines Stück mit, es wird dir Segen bringen!"</p>
+   <p>"Wie kannst du dir das mir gegenüber herausnehmen", erwiderte der junge Mann, hob die Peitsche und peitschte den Mann tüchtig aus.</p>
+   <p>Der jüngere Bruder ritt hinterher, Inzwischen holte er sie ein, und erfuhr seinen Bruder an: "Wie konntest du den alten Mann schlagen?"</p>
+   <p>Als der jüngere Bruder erfuhr, worum es ging, setzte er den Mann auf <pb n="125"/> sein Pferd und ritt zum Haus des Herrschers. Auf dem Feld stand der Kessel voller Milch. Ringsherum hatten sich junge Männer aus allen Ländern versammelt und erzählten ihre Geschichten, doch die Milch kochte nicht, sie stand unbeweglich im Kessel, Da trat der alte Mann zu dem Herrscher und bat ihn: "Ist es mir erlaubt, der Milch all mein Leid zu erzählen, und sollte die Milch zu kochen beginnen, werdet Ihr mir dann Eure Tochter zur Frau geben?"</p>
+   <p>"Das habe ich so entschieden”, sagte der Herrscher, "wessen Worte die Milch zum Wallen bringen, dem muß ich meine Tochter zur Frau geben.</p>
+   <p>Wenn er will, kann er sie selbst heiraten oder einem anderen schenken, das geht mich nichts an.”</p>
+   <p>"Also gut", sprach der alte Mann. Er trat zu dem Milchkessel hin. Alle wunderten sich: "Wozu braucht der alte Mann das, und wie sollen seine Worte etwas ausrichten können!"</p>
+   <p>Der Mann begann sein Leid von Anfang an zu erzählen und berichtete alles. Als er endete, begann die Milch zu sieden.</p>
+   <p>So ein Wunder hatte noch niemand gesehen, und alle staunten, Die beiden jungen Männer, die dabei waren, wußten jetzt, worum es sich handelte.</p>
+   <p>Der Herrscher brachte seine Tochter herbei und gab sie dem Alten. Der wandte sich an seine Söhne und sprach: "Ihr habt euch davon überzeugt,daß ich euer Vater bin. Dieses Mädchen stünde dem älteren Sohn zu, aber da du mich geschlagen hast und undankbar zu mir gewesen bist, gebe ich sie dem jüngeren, weil er klug und dankbar ist.”</p>
+   <p>Er erhob sich und gab das Mädchen dem jüngeren Sohn zur Frau, Das war eine Freude für alle, natürlich für den Herrscher selbst und dann für die anderen.</p>
+   <p>Der Herrscher trat von seinem Amt zurück und überließ den Thron seinem Schwiegersohn, weil der ein würdiger junger Mann war. Der junge Mann nahm alle Angehörigen des alten Mannes zu sich und ließ sie in Wohlstand bei sich leben.</p>
+  </body>
+ </text>
+</TEI>

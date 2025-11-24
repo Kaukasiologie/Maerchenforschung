@@ -1,0 +1,182 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">Курочка и лисица</title>
+    <author>
+     <name xml:id="AO">
+      <persName>
+       <forename>Abdulla</forename>
+       <surname>Omarov</surname>
+      </persName>
+     </name>
+     <idno></idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">КАЗЙКУМУМУХСКІЯ (ЛАКСКІЯ) НАРОДНЫЯ СКАЗАНІЯ</title>
+      <author>
+       <persName ref="#AО">
+        <forename>Abdulla</forename>
+        <surname>Omarov</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">ССКГ; Сборник сведений о кавказских горцах</title>
+      <imprint>
+       <pubPlace>Тифлись</pubPlace>
+       <publisher>Кавказский отдел Императорского Русского географического общества</publisher>
+       <date when="1868">1868</date>
+      </imprint>
+      <biblScope unit="volume">1</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"></index>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_lbe_rus_62.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district></district>
+     <settlement></settlement>
+    </placeName>
+    <date notAfter="1868">1868</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district></district>
+       <settlement></settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AO">
+      <forename>Abdulla</forename>
+      <surname>Omarov</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName key="#AO">
+      <forename>Abdulla</forename>
+      <surname>Omarov</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change></change>
+    <change></change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_lbe_rus_62">
+  <body>
+   <head>Курочка и лисица</head>
+   <p>Однажды сорока свила себѣ гнѣздо на высокомъ деревѣ и вывела въ немъ дѣтенышей. Голодная лисица пронюхала объ этомъ, подбѣжала къ дереву и закричала: "эта пашня моя, и покосъ этотъ мой, и дерево мое. Кто такой на деревѣ?"  Я, отвѣчала сорока. "Бросишь-ли ты мнѣ свое дитя, или же мнѣ срубить дерево?" спросила лисица. — Нѣтъ, нѣтъ, не руби дерева, возьми лучше дитя, сказала сорока и бросила ей одного изъ своихъ дѣтенышей. Лисица съѣла его, и пошла своей дорогой. На другой день лиса опять явилась и сказала: "Эта пашня моя, и покосъ этотъ мой и дерево на покосѣ мое. Кто же это на деревѣ?" —Я, ответила ей сорока. —"Что, дитя бросишь, или же мнѣ рубить дерево?" — Нѣтъ, нѣтъ! возьми себѣ еще дитя, да только не руби дерева, отвечала сорока. Съѣвши второе дитя, лисица пошла дальше. Межъ тѣмъ пролетала мимо курочка и спросила сороку: "что ты, сосѣдка, такъ печальна?" Сорока разсказала ей про свое горе. "Ну, если лисица прийдетъ еще, такъ скажи, чтобы она дерево рубила, а дитяти не бросай!" сказала курочка. На третий день лисица опять явилась и повторила свой обычный вопросъ. "Руби дерево, а дитяти теперь не дамъ," сказала сорока. —"Кто это тебя на умъ навелъ?"спросила лисица. — А вотъ та курочка, отвѣтила сорока. Раздосадованная лисица подошла к сидѣвшей на камнѣ курочкѣ и сказала: "Ты такъ прекрасно <pb n="66"/> поешь, красавица, а умѣешь-ли ты пѣть, зажмуривъ глазки?" Курочка, прельстившись похвалою, закрыла глаза и начала пѣть, а лисица въ это время подкралась и поймала ее: "не учи другихъ уму, сама останешься въ дуракахъ," сказала лиса. -"Сестрица, неужели ты съѣшь меня, не поблагодаривъ аллаха за то, что я, такая прекрасная, попалась тебѣ въ зубы?" проговорила курочка. Лисица, забывшись отъ восторга, открыла ротъ и хотѣла было сказать: "благодарю тебя, аллахъ," —какъ вдругъ курочка вспорхнула, полетѣла и, сѣвши на камнѣ, запѣла: "Да будетъ проклятъ тотъ, кто зажмуритъ глаза, когда не спитъ!" Въ свою очередь отвѣчала лисица: "да будетъ проклятъ тотъ, кто поблагодаритъ аллаха, прежде чѣмъ не наѣстся!" 
+</p>
+  </body>
+ </text>
+</TEI>

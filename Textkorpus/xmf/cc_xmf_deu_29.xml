@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">24. Der schöne Fisch</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_29.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+ <creation> 
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
+      <forename>Iosif Alekseevich</forename>
+      <surname>Kipshidze</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_29">
+  <body>
+   <head>Der schöne Fisch</head>
+   <p>Es war einmal ein alter Mann. Er hatte einen Sohn, der war Fischer.</p>
+   <p>Einmal ging der Fischer, um Fische zu fangen. Er lief viel, aber es gelang ihm nicht, einen Fisch zu fangen. Schließlich fing er einen kleinen, aber <pb n="137"/> sehr schönen Fisch. Dem Fischer tat dieser Fisch leid, und er ließ ihn wieder ins Wasser. Als er nach Hause kam, fragte der Vater: "Hast du keinen Fisch gefangen?"</p>
+   <p>Der Sohn antwortete: "Einen Fisch habe ich gefangen, aber er war sehr schön. Da hat er mir leid getan, und ich habe ihn wieder freigelassen.”</p>
+   <p>Der Vater verprügelte den Sohn, warf ihn aus dem Haus und sagte:"Warum hast du Gottes Gnade verloren?"</p>
+   <p>Der Fischer ging fort. Unterwegs traf er einen Schuster, und sie liefen zusammen weiter. Ihnen begegnete ein Heilkundiger. Der Fischer, der Schuster und der Heilkundige schlossen Freundschaft und gaben sich das Wort, was sie eigenhändig erwarben, untereinander zu teilen.</p>
+   <p>Zu dieser Zeit war die Tochter eines Königs krank. Der König versuchte vieles, aber nichts konnte seiner Tochter helfen. Da verkündete er: "Wer meine Tochter heilt, dem will ich sie zur Frau geben."</p>
+   <p>Der Heilkundige ging hin, um die Tochter des Königs zu heilen. Als er zum König kam, schärfte er sein Schwert, trat an das Kopfende der Kranken, nahm das Schwert in die Hand und sprach: "Drache, ich befehle dir,von der Kranken abzulassen, sonst werde ich dir den Kopf abschlagen."</p>
+   <p>Der Drache kroch aus dem Bauch der Kranken heraus und lief davon.</p>
+   <p>Die Königstochter genas, und der König gab sie dem Heilkundigen zur Frau. Der Heilkundige nahm die Frau, und alle drei Gefährten versammelten sich. Sie teilten, was sie erworben hatten, Der Heilkundige gab seine Frau und alles, was ihm zukam, dem Fischer und sprach: "Der Fisch, der dir leid getan und den du freigelassen hast, bin ich gewesen."</p>
+   <p>Als er das gesagt hatte, wurde er unsichtbar.</p>
+  </body>
+ </text>
+</TEI>

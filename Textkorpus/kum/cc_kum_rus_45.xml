@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">IV. Чупуръ</title>
+    <author>
+     <name xml:id="AB">
+      <persName>
+       <forename>Aleksei</forename>
+       <surname>Barsov</surname>
+      </persName>
+     </name>
+     <idno></idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">Дагестанския Сказки</title>
+      <author>
+       <persName ref="#AD">
+        <forename>Aleksei</forename>
+        <surname>Barsov</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+      <imprint>
+       <pubPlace>Tiflis</pubPlace>
+       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+       <date when="1881">1881</date>
+      </imprint>
+      <biblScope unit="volume">2</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"></index>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_kum_rus_45.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district>Buinaksk</district>
+     <settlement ref="https://www.geonames.org/484334/tarki.html">Tarki</settlement>
+    </placeName>
+    <date notAfter="1882">1882</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district></district>
+       <settlement ref="https://www.geonames.org/484334/tarki.html">Tarki</settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AB">
+      <forename>Nureddin</forename>
+      <surname>Schamchalov</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change></change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_kum_rus_45">
+  <body>
+   <head>IV. Чупуръ</head>
+   <p>Въ одинъ прекрасный осенний день молодой человекъ, по имени Чупуръ, отправился къ своему дяде въ другой аулъ. Когда онъ подъезжалъ къ сакле дяди, то увиделъ его на крыше съ кальяномъ (трубкой) въ руке. Поздоровавшись, они разговаривали несколько времени. Такъ какъ лошадь и оружие составляютъ гордость татаръ, то дядя велелъ Чупуру пойти на конюшню посмотреть, хороши ли его лошади. Чупуръ пошелъ; прийдя въ конюшню, онъ увидалъ въ ясляхъ передъ лошадью много яицъ; Чупуръ взялъ яйца, положилъ ихъ въ папахъ (шапку баранью), наделъ на голову и вернулся къ дяде.-"Очень хороша ваша лошадь," сказалъ Чупуръ. Дадя его пошелъ въ гости, а Чупура старуха позвала обедать. Сняла старуха котель съ печа, отставила его въ сторону, а сама пошла по воду. Чупуръ увиделъ кувшинъ съ медомъ и захотелъ попробовать пальцемъ; медъ прилипъ къ пальцу; въ это время вошла старуха, и Чупуръ спряталь кувшинъ сзади себя. Старуха подала Чупуру объдать; онъ началъ есть левой рукоей, потому что правая была занята; старуха и упрашиваетъ его, зачемъ онъ естъ левой рукой. А Чупуръ отвечаетъ, что правая рука его ранена. Старуха начала упрашивать, чтобы онъ показалъ раненую руку; только Чупуръ протянулъ руку, старуха увидала кувшинъ, да хвать его по бышке и <pb n="132"/> сказала: "Ахъ ты, баранчукъ!" Яйца, бывшия у него въ папахе, разбились и потекли по лицу и по шее. Чупуръ пустился бежать со всехъ ногъ; Бежалъ, бежеалъ, и прибежалъ къ одному саманнику; полезъ онъ на верхъ и легъ. Черезъ несколько времени приходятъ туда двое: женихъ и невеста. Невеста спрашиваеть жениха, когда онъ влюбился въ нее. Женихъ отвечаетъ: "Когда ты шла по воду." Потомъ женихъ спрашиваетъ невесту, когда она влюбилась въ него. Невеста отвечала: "Когда ты ездилъ на лошади," и вынувъ вилу, заткнутую въ самане, хотела показать, какъ онъ ездилъ на лошади; но въ это время саманъ обвалился и Чупуръ упалъ. Невеста убежала, женихъ за нею; кинжалъ ето зацепился въ дверяхъ и оторвался. Чупуръ взялъ кинжалъ, пошелъ въ последнюю избу, да тамъ продалъ его и велелъ напечь пироговъ. И я елъ пироги, везъ и вамъ, да на дороге нищий взялъ.
+</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">10. (Жила-была очень красивая девушка...)</title>
+    <author>
+     <name xml:id="AD">
+      <persName>
+       <forename>Adolf</forename>
+       <surname>Dirr</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">Краткий граматический очеркь Андийского языка ц текстаму, цборникомз андийских слобь</title>
+      <author>
+       <persName ref="#AD">
+        <forename>Adolf</forename>
+        <surname>Dirr</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+      <imprint>
+       <pubPlace>Tiflis</pubPlace>
+       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+       <date when="1906">1906</date>
+      </imprint>
+      <biblScope unit="volume">36</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ani_rus_17.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+      <item>Warnung vor Gewalt und Missbrauch</item>
+      <item>Warnung vor diskriminierenden Darstellungen von Familienkonstellationen</item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+    </placeName>
+    <date notAfter="1906">1906</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename> </forename>
+      <surname> </surname>
+     </persName>
+     <age/>
+     <birth>
+      <date/>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district/>
+       <settlement/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AD">
+      <forename>Adolf</forename>
+      <surname>Dirr</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName key="#AD">
+      <forename>Adolf</forename>
+      <surname>Dirr</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_ani_rus_17">
+      <body>
+         <head>10.</head>
+         <p>Жила-была очень красивая девушка. Родители пристали к ней, чтобы она вышла замуж, и так надоедли ей, что она убежала в лес. В это время пастух пришел к ее родителям: "Я ее возьму", сказал он, "оставьте ее мне". - "Мы ее не оставим", ответили родители, "но двадцать баранов отдадим тому, кто ее возьмет". - "Ну, дайте!" сказал пастух. Отдали 20 баранов и отдали их пастуху, который взял баранов и ушел. Двух из них он зарезал, мясо сварил, а из шкуры сделал мешки; в один мешок положил баранье мясо, в другой (бурдюк) наполнил холодной водой. Затем он пошел отыскивать девушку.</p>
+         <p>Когда они наконец встретились, то оба бросились бежать друг от друга. Но девушка кричала ему: "Что ты за человек, что бежишь от меня?" - "Я не хочу жены", сказал пастух, "я поклялся убегать в лес". - "Если это так", сказала девушка, "то постой здесь, пока я не приду!" Он остановился и подождал ее. Когда она подошла, то сказала: "Нет ли у тебя чего-нибудь поесть?" - "Я сам ничего не ел целую неделю", сказал пастух, "но, посмотрим, бросим жребий: может быть, <pb n="111"/>что-нибудь найдется". Он бросил жребий. "Нет, это не считается!", сказала девушка, "еще раз брось!" Взял он жребий и бросил. "Там спрятан мешок, наполненный мясом, говорит оракул", сказал пастух, "побеги и посмотри, нет ли? если найдешь, принеси!" Девушка побежала, нашла мешок и принесла его. И так далее. Когда они насытились, девушка сказала: "Брось еще раз жребий, может быть, есть и холодная вода". Пастух тав и сделал. "Там есть бурдюк с водой, говорит этот оракул", сказал пастух, "побеги, посмотри; если найдешь, принеси!" Девушка пошла искать, нашла бурдюк и принесла его. "Этот оракул говорит, что вода кончится, если мы будем пить", сказал пастух, "так, пока я пью, ты затени мне задний проход; горлышко оракула я сам буду держать". Так и сделали. Когда пришла очередь девушки пить, она сказала: "Я твою дырку заткнула, а у меня две дырки есть, чем заткнуть их?" - "Переднюю я заткну этим оракулом", сказал пастух, "а заднюю большим пальцем". Когда она пила, то сказала: "Вынь палец из задней дырки и заткни ее оракулом". Впоследствии девушка вышла замуж за пастуха.</p>
+      </body>
+   </text>
+</TEI>

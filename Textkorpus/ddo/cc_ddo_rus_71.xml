@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">Отец, сын и Оку</title>
+    <author>
+     <name xml:id="AA">
+      <persName>
+       <forename>Arsen Kurbanovič</forename>
+       <surname>Abdulaev</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="IA">
+      <persName>
+       <forename>Isa Kurbanovič</forename>
+       <surname>Abdullaev</surname>
+      </persName>
+      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date when="2025">2025</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref/>
+    </bibl>
+    <bibl type="collection">
+     <title xml:lang="eng">Dido (Tsez) Folklore</title>
+     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+     <author role="author">
+      <name ref="#AA">
+       <persName>
+        <forename>Arsen Kurbanovič</forename>
+        <surname>Abdulaev</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#IA">
+       <persName>
+        <forename>Isa Kurbanovič</forename>
+        <surname>Abdullaev</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+     <distributor/>
+     <date when="2010">The year 2010</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a325 Zauberer und Schueler</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_71.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date/>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <address>
+       <district/>
+       <settlement/>
+      </address>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text xml:id="zyx_cc_ddo_rus_71">
+  <body>
+   <head>Отец, сын и Оку</head>
+   <p> В одном селе жили отец и сын. Когда сыну исполнилось девять лет, отец решил отправить его изучать арабскую науку. Они отправились в путь и пришли на одно большое поле. Там в центре поля вдруг появился человек по имени Оку. «Ассалам алайкум», - приветствовал он отца и сына, подошел к ним и спросил: «Куда вы решили направиться?» Отец сказал: «Ей богу, этого сына везу изучать арабскую науку». Оку сказал: «Отправь со мной своего сына и через год приходи на то же место за ним». Отец отправил сына с Оку.</p>
+   <p>В этот момент разверзлось поле, и Оку с мальчиком, не успев моргнуть глазом, очутились в нижнем свете. А отец мальчика вернулся домой. Когда попали в нижний свет, мальчик увидел там, у Оку, красивую дочь. А Оку обучал его арабской науке. Когда отца не было дома, дочь Оку подошла к нему и сказала: «Смотри, сколько бы ты ни учился, ты должен говорить, что ничего не знаешь». «Почему?» - удивился мальчик. «Почему, сам увидишь», - девушка повела мальчика в другую комнату и показала ее. Он увидел, что комната полна маленьких костей. Девушка сказала: «Отец убивает всех, кто постигает науку, вот это и есть кости тех, кто был убит по этой причине». тех пор мальчик упорно повторял: «Я ничего не знаю». Оку ругал его: «Что же ты за мальчик, который ничего не знает». В следующем году, когда Оку отправился с мальчиком из нижнего мира на то же поле, они встретили отца мальчика, который ждал их. «Этот твой дурной сын не научился науке, забери своего сына», - сказал Оку, исчез с глаз и пошел в другой мир.  </p>
+   <p> «Что же я могу еще сделать?» - отец забрал сына и пошел домой. Прошли немного по дороге, и сын сказал отцу: «Ты иди вперед, а я пойду за тобой». Как только отец отдалился, он превратился в барана и начал перед ним резвиться. Тогда отец пытался его поймать. Сколько бы отец ни бегал за ним, не смог поймать того барана. Через некоторое время, когда появился сын, он начал его ругать: «Где ты был? Такой большой баран здесь резвился, мне одному никак не удалось его поймать, если бы ты был, мы вдвоем вместе поймали бы его». Сын сказал: «Отец, то, что нам не суждено, трудно поймать». </p>
+   <p> Во второй раз сын превратился в барана с золотыми рогами. Отец его тоже не смог поймать. Когда сын подошел, отец опять его отругал. Сын опустил голову и сказал: «Отец, то, что тебе не суждено, трудно достать». </p>
+   <p> На третий раз сын превратился в коня с золотым седлом. Конь также бегал перед отцом туда-сюда. Он сильно устал и дал ему поймать себя. Теперь отец долго ждал, не идет ли сын. В конце концов, потерял надежду, что он придет, сел на коня и поехал домой. Привязал в хлеву коня и ждал сына, не идет ли он. Затем конь превратился в юношу и пошел к отцу. Отец очень радостный рассказывает ему: «Я поймал коня с золотым седлом, он сейчас в хлеву». Сын сказал: «Тогда пойдем, посмотрим на него». «Сейчас время позднее, завтра я тебе его покажу», - сказал отец.  </p>
+   <p> Утром отец взял сына в хлев: «Пойдем, посмотрим на коня». Когда пришли в хлев, коня там не нашли. Вот тогда сын рассказал отцу: «Тот баран был я, конь тоже был я, вот такие у меня есть способности. Завтра я превращусь в коня-иноходца, которого никак нельзя будет удержать. Ты возьми его на рынок и продай за пять тысяч рублей, а уздечку не продавай даже за пятьсот рублей, в ней мой дух, если ты ее продашь, я умру». </p>
+   <p> В тот день Оку понял, что юноша получил от него знания. Когда отец юноши с конем пошел на базар, Оку подошел и спросил его: «Не продаешь ли этого коня, сколько он стоит?» Отец сказал: «Цена коня без уздечки пять тысяч рублей». «Удивительно, - сказал Оку, - я еще не видел коня, которого продавали бы без уздечки, уздечку тоже нужно продать». «В таком случае, - сказал отец, - уздечка стоит пятьсот рублей». Таким образом, Оку уговорил отца продать уздечку вместе с конем за пять тысяч пятьсот рублей, хотя сын просил отца не продавать уздечку. </p>
+   <p> Оку сел на того коня, поскакал на нижний свет и приехал домой, со двора же крикнул дочери: «Скорее вынеси кинжал на улицу, хочу зарезать коня». Дочь догадалась, что это тот мальчик, который обучался у ее отца, превратился в коня. Разломала кинжал на две части, выбросила в огонь и крикнула отцу: «Я не могу найти кинжал». Отец крикнул: «Я сам найду кинжал, ты иди сюда, чтобы держать коня». Как только он зашел внутрь, девушка отпустила коня, затем крикнула отцу: «Конь убежал!» Оку выскочил на улицу и увидел, как конь превратился в голубя и улетел. Тога Оку превратился в ястреба и полетел за ним. Когда тот голубь прилетел в свое родное село, он сел на одну девушку, которая сидела на окне. Оку превратился в молодого человека и поднялся наверх. Он сказал девушке: «Этот голубь принадлежит мне, верни мне его». Девушка сказала: «Как он может быть твой, видишь, он сел на меня». Затем голубь превратился в ячменные зернышки, а Оку обратился в курицу. Курица усердно склевала все зернышки ячменя и когда убедилась, что ни одного зерна не осталось, выскочила через окно на улицу и улетела. Одно единственное зернышко, которое прилипло к платью девушки, обернулось в юношу. Юноша и девушка долго смотрели друг на друга и влюбились. Вместе с ней юноша пошел в отцовское село.  </p>
+   <p> Он нашел ослепшего отца. Когда он спросил отца, что с ним случилось, отец рассказал: «У меня был сын удивительных способностей. Однажды он превратился в коня, и я продал его на базаре. Сын попросил меня, чтобы я не продавал вместе с ним уздечку. Но туда пришел один человек и так настаивал, что я продал заодно и уздечку. И с тех пор мой сын потерялся, не известно куда. Оплакивая его, я потерял зрение и постарел». Так жаловался отец. «Возьми, вот этим носовым платком проведи по глазу», - сын подал отцу платок. Тотчас у отца восстановилось зрение, и узнал в юноше своего сына. Отец женил сына на той девушке, которая была с ним, устроили большую свадьбу и кормили, поили людей в течение недели. До сих пор, говорят, они живут вместе с отцом без особых забот.  </p>
+   <p> Куруч, бусина, пусть день становится ясным и восходит солнце.</p>
+  </body>
+ </text>
+</TEI>

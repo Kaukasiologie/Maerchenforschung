@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">21. Harum, Hurum und Gischeri</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_26.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement ref="https://www.geonames.org/616022/abasha.html">Abasha</settlement>
+       <geo/>
+      </placeName>
+    <date when="1973">1973</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Agrapina</forename>
+      <surname>Gotchaleishvili</surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date when="1873">1973</date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename>Alina</forename>
+      <surname>Tchaganava</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_26">
+  <body>
+   <head>Harum, Hurum und Gischeri</head>
+   <p>Es waren einmal eine Frau und ein Mann. Sie hatten zwei Kinder, ein Mädchen und einen Jungen. Der Junge war größer, das Mädchen kleiner und lag noch in der Wiege. Eines Tages lief der Junge irgendwohin nach draußen. Als er wieder hereinkam, sah er, daß das Kind die Wiege verlassen hatte. Es war auf den Dachboden hinaufgestiegen und zerknackte Knochen mit den Zähnen. Dabei sprach es: "Mutters Knochen, Vaters Knochen, Großmutters Knochen, Großvaters Knochen.” Alle hatte es aufgefressen.</p>
+   <p>Da erschrak der Junge, rannte davon und kam nicht wieder. Das Mädchen sah, wie der Junge davonlief, sprang vom Boden herunter, sprang aufein großes Schwein, das dort angebunden war, und verfolgte den Bruder.</p>
+   <p>Doch der Bruder rannte weg, eilte davon, und sie konnte ihn nicht mehr einholen und rief ihm hinterher: "Wenn die Zeit kommt, werde ich dich fressen, einerlei, ob heute oder morgen!"</p>
+   <p>Der Junge lief und lief und fand drei Nüsse. Er wollte sie aufessen, doch die Nüsse sagten zu ihm: "Iß uns nicht, wir werden dir von Nutzen sein.”Der Junge aß sie nicht. Er lief und lief und gelangte zum Haus eines Mannes. "Braucht ihr keinen Tagelöhner?" fragte er. <pb n="129"/></p>
+   <p>Der Junge diente dem Mann in großer Treue. Hier zog er drei Welpen auf. Den einen nannte er Harum, den zweiten Hurum und den dritten Gischeri. Geraume Zeit verging, und der Junge bekam Heimweh. Er bat seinen Herrn, ihn zu entlassen.</p>
+   <p>"Gut”, sagte der Herr des Hauses, "geh nur". Er belud ihm drei Tragesäcke mit allen möglichen guten Dingen, hängte sie. einem Pferd um und ließ ihn ziehen.</p>
+   <p>Der Bursche brach auf und kam nach Hause. Seine Schwester saß noch auf dem Dachboden und rief von dort herab: "Mutters Knochen, Vaters Knochen, Großmutters Knochen, Großvaters Knochen.” Der Junge erschrak, doch was sollte er jetzt tun, jetzt war es zu spät, die Schwester hatte ihn erblickt. Sie stieg vom Boden herab, küßte ihn und freute sich. Sie lief zu den Nachbarn, lieh sich Mehl und bereitete dem Bruder Essen. Kurz darauf ging sie hinaus, kam bald wieder herein und fragte den Bruder:"Bruder, bist du auf einem dreibeinigen Pferd geritten?” Sie hatte dem Pferd ein Bein abgefressen.</p>
+   <p>"Ja", sagte der Bruder.</p>
+   <p>Wieder ging sie hinaus und sprach: "Bruder, bist du auf einem zweibeinigen Pferd gekommen?” Sie hatte ihm noch ein Bein abgefressen.</p>
+   <p>"Ja”, sagte der Bruder.</p>
+   <p>Wieder ging sie hinaus, fraß dem Pferd das dritte Bein ab und fragte:"Bruder, bist du auf einem einbeinigen Pferd gekommen?"</p>
+   <p>"Ja, mein Schwesterchen."</p>
+   <p>Sie fraß ihm noch das vierte ab und sprach: "Bruder, bist du auf einem Pferd ohne Beine gekommen?"</p>
+   <p>"Ja", sagte der Bruder.</p>
+   <p>Wieder sprang sie hinaus und fraß das Pferd ganz auf. Dann kam sie ins Haus und fragte den Bruder: "Bruder, bist du zu Fuß gekommen?"</p>
+   <p>"Ja”, sagte der Bruder.</p>
+   <p>Sie unterhielten sich noch ein wenig, und die Schwester sagte zu ihm:“Bruder, ich muß dich fressen.”</p>
+   <p>"Gut, friß mich, aber du hast viele Knochen zermalmt, deine Zähne sind stumpf geworden. Wenn du mich jetzt fressen würdest, müßtest du dich sehr quälen. Deshalb geh erst an das Flußufer, schärfe deine Zähne und friß mich dann."</p>
+   <p>Die Schwester freute sich und lief an das Flußufer. Sie wetzte und wetzte ihre Zähne, schärfte ihre Zähne und kam wieder nach Hause, aber sie konnte den Bruder nirgends finden. Der Bruder war schon eine Weile davongerannt. Da war die Schwester außer sich. Sie sprang auf ihren Eber,ritt los und verfolgte den Bruder.</p>
+   <p>Der Bruder blickte sich um. Seine Schwester war so groß wie ein Krähenkopf <pb n="130"/>  zu sehen. Hatte der Junge nicht beim ersten Mal die Nüsse gefunden?</p>
+   <p>Diese Nüsse waren zu Nußbäumen gewachsen und standen am Wegrand, Ein Nußbaum bog sich herab und hob den Jungen in den Wipfel.</p>
+   <p>Die Schwester kam heran, Der Eber nagte an dem Nußbaum, nagte und nagte ihn durch. Jetzt hob der zweite Nußbaum den Burschen in seinen Wipfel. Der Eber nagte auch ihn durch. Der dritte Nußbaum nahm den Jungen in seinen Wipfel empor. Der Eber nagte auch ihn durch. Als der Eber den dritten Nußbaum zur Hälfte durchgenagt hatte, brach ihm ein Hauer ab. Jetzt nagte er langsamer. Plötzlich erinnerte sich der Bursche an die Hunde, die er aufgezogen hatte, und er rief: "Harum, Hurum und Gischeri, ich bin in Not, helft mir!"</p>
+   <p>Blitzschnell kamen die Hunde herbeigestürmt und zerfetzten den Eber und das Mädchen vollkommen. Jetzt war der Bursche wieder herunterzuholen. Ringsum stand ein Teich aus Blut. Die Hunde mußten ihn so herabholen, daß er sich nicht mit Blut beschmierte, sonst wäre er gestorben.</p>
+   <p>Die drei Hunde stellten sich aufeinander, sie luden sich den Jungen aufund brachten ihn auf den Boden herab. Beim Herunterholen wurde aber sein kleiner Finger ein wenig mit Blut bespritzt, und der Junge starb.</p>
+   <p>Der Junge starb, und die Hunde heulten so laut, daß Himmel und Erde einstürzten. Das fiel Gott im Himmel zur Last, und er schickte einen Habicht aus: "Bring mir Nachricht, was da vorgeht!"</p>
+   <p>Der Habicht kam angeflogen und sprach zu den Hunden: "Zeigt mir den Toten, ich will ihn wieder lebendig machen.”</p>
+   <p>Die Hunde zeigten ihm den Toten, der Habicht hackte ihm ein Auge aus und flog davon. Er belog Gott und sagte: "Irgendwo haben sich Hunde bei einem Festschmaus vollgefressen, und deshalb heulen sie.”</p>
+   <p>Die Hunde heulten jetzt noch schlimmer. Jetzt sandte Gott eine Krähe aus. Die Krähe kam zu den Hunden und sprach: "Zeigt mir den Toten, ich will ihn wieder lebendig machen."</p>
+   <p>Sie zeigten ihn ihr. Die Krähe fraß ihm auch das andere Auge aus und flog davon. Auch die Krähe belog Gott: "Irgendwo haben sich Hunde sattgefressen, und deshalb heulen sie."</p>
+   <p>Nun waren die Hunde völlig außer Rand und Band. Da schickte Gotteine Taube aus. Die Taube sah, was geschehen war, und brachte die Kunde zu Gott: "Ein Junge hat drei Hunde aufgezogen. Dieser Junge ist gestorben, Der Habicht und die Krähe, die du ausgesandt hattest, haben ihm die Augen ausgefressen, und darum heulen die Hunde.” _</p>
+   <p>"Flieg hin", sprach Gott zu ihr, "nimm diese beiden Apfel, lege sie hübenund drüben auf seine Augen, streiche mit diesem Tuch über sein Gesicht,und er wird zu neuem Leben erwachen."</p>
+   <p>Die Taube kam herangeflogen. Sie nahm die beiden Apfel und das Tuch <pb n="131"/> und flog zu dem Jungen. Sie machte es so, wie Gott es ihr aufgetragen hatte, Da kam der Junge wieder zu sich und wurde wieder lebendig. Die Hunde freuten sich. Die Taube flog davon und brachte Gott die Nachricht:"Ich habe ihn wieder lebendig gemacht.”</p>
+   <p>Gott verfluchte die Krähe und den Habicht: "Im Winter sollt ihr kein Wasser trinken können, es soll euch als Blut erscheinen." Tatsächlich trinken sie kein Wasser.,</p>
+   <p>Die Taube segnete er: "Du sollst dem Menschen nützlich sein.” Daß die Taube rote Füße hat, liegt daran, daß sie in dem dortigen Blut gestanden hat.</p>
+   <p>Der Junge und die Hunde liefen nach Hause.</p>
+   <p>Gestern abend bin ich dort gewesen, heute abend bin ich hier.</p>
+  </body>
+ </text>
+</TEI>

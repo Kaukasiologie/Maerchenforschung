@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">1. Kashandii Kerkuu</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a304 Der gelernte Jäger</item>
+      <item>a552 Tierschwäger</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_6.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item>Warnung vor Gewalt und Missbrauch</item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+     <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date notAfter="1880-12-31">notAfter 1880.12.31</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <date/>
+      <placeName>
+       <country/>
+       <region/>
+       <district/>
+       <settlement/>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName type="gnd" corresp="https://d-nb.info/gnd/173176518">173176518>
+      <forename>Alexandre</forename>
+      <surname>Zagareli</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_6">
+  <body>
+   <head>Kashandii Kerkuu</head>
+   <p>Es war einmal ein Herrscher. Dieser Herrscher hatte drei Söhne und drei Töchter. Als sein Todestag herankam, rief er alle herbei und sagte zu den Söhnen: "Eines trage ich euch auf, und es liegt bei euch, es zu erfüllen. Wenn ich sterbe, wacht je einen Sonntag an meinem Grab. Und diese Mädchen gebt dem zur Frau, wer immer auch kommt und sagt: Gebt mir eure Schwester." Er verabschiedete sich von allen und starb. Sobald er gestorben war, bestattete man ihn, und der älteste Bruder zog an jenem Abend auf Wache. Aber als kurze Zeit vergangen war, brachte etwas das Land in Aufruhr, und als es herankam, schleuderte sein Licht den Burschen zum Hof hinaus. Und als er von dort hineinsah, da ging der, der das Land zum Tosen brachte, zu dem Toten, hob ihn heraus und beweinte ihn bis zum Morgen. Am Morgen begrub er ihn wieder und ging. Diese Begebenheit verriet der Bursche zu Hause nicht, weil er sich schämte.</p>
+   <p>Einmal geschah es, daß die beiden älteren Brüder auf die Jagd zogen, und an dem Tag, als nur der jüngste Bruder zu Hause war, rief ihn ein Mann. Als er hinaus sah, war es ein Freier. Da nahm er die älteste Schwester und gab sie ihm. Als eine Zeit vergangen war, rief wieder jemand. Als er hinaus sah, war es wieder ein Freier. Ein wenig bedrückte es ihn, daß seine Brüder nicht da waren, aber da es der Auftrag des Vaters war, gab er ihm auch die zweite. Und nach kurzer Zeit rief wieder ein anderer, und er gab ihm die dritte. </p>
+   <p>Die Zeit verging. Als abends die Brüder kamen, fanden sie ihre Schwestern nicht mehr. Als sie den Burschen fragten, erzählte er ihnen alles. Darüber waren die Brüder sehr verärgert und stellten ihn als Schafhirten an. An jenem Abend zog der mittlere Bruder auf Wache. Aber ihm erging es genauso. Auch er verriet nichts, als er nach Hause kam.</p>
+   <p>Der jüngste Bruder bat sie: "Laßt auch mich gehen, wenn ihr an Gott glaubt. Auch ich will meinen Vater bewachen." Aber sie fuhren ihn nur an: "Mach, daß du fortkommst. Nicht nur du, selbst wir haben Mühe." Aber dann sagten sie doch: "Lassen wir ihn gehen."</p>
+   <p>Der Bursche zog los. Er ging zu dem Grab und zündete ihm eine Kerze an. Als er da verweilte, begann ein großes Tosen. Aber er fürchtete sich nicht. Es kam näher, und die Erde bebte, Der junge Mann konnte nichts <pb n="5"/>sehen. Er schwang sein Schwert und hieb es mittendurch. Dessen Blut löschte die Kerze aus. Als er zur Seite sah, erblickte er in der Ferne einen Feuerschein. Er eilte darauf zu. Unterwegs sprach er zu einem Hahn: "Sei nicht wach bis zu meiner Rückkehr und krähe nicht, sonst bringe ich dich um." Er ging näher, und als er hinsah, erblickte er ein Wasser, so groß wie das Meer. Er schwamm hindurch, und als er herauskam, sah er, daß Riesen dieses Feuer angezündet hatten. Sie hatten sich um das Feuer herumgesetzt. Als der junge Mann das sah, gab ihm das sehr zu denken, doch er machte einen Satz, sprang in die Mitte hinein, ergriff ein glühendes Scheit und lief davon. Den Riesen stäubte Asche ins Gesicht, und sie konnten den Burschen nicht finden. Der lief fort, und als er wieder in dem Wasser schwamm, erlosch ihm das glühende Scheit, Da wurde er traurig, aber was sollte er tun?! Er kehrte wieder um, und als er zum Feuer hin sprang, fingen ihn die Riesen und fragten: "Was willst du?"</p>
+   <p>Er erzählte ihnen seine Not, aber die Riesen sprachen: "In diesem Turm sitzen drei wunderschöne Mädchen. Wenn du sie nicht zu uns bringst, lassen wir dich nicht frei.” </p>
+   <p>Der junge Mann fragte: "Hat er eine Treppe?"</p>
+   <p>"Ja."</p>
+   <p>"Dann kommt mit." Er nahm alle Riesen mit und sagte zu ihnen: "Ich werde hinaufsteigen, und dann sollt ihr einzeln nachkommen.“</p>
+   <p>“Gut." </p>
+   <p>Der Bursche stieg hinauf, und ein Riese folgte ihm. Und kaum war er oben angelangt, schwang der junge Mann sein Schwert, tötete den Riesen und legte ihn da hin. Als der zweite hinaufstieg, machte er es mit ihm genauso. So tötete er alle der Reihe nach und legte sie oben hin. Dann ging er zu den Mädchen hinein, verneigte sich vor ihnen und gab jeder einen Ring. Die jüngste bestimmte er für sich selbst, die beiden anderen für seine Brüder. Dann ging er hinaus, stieß sein Schwert in einen Stein und ließ es darin stecken. Er nahm das Feuer und ging davon. Er schwamm durch das Wasser und rief dem Hahn zu: "Jetzt kannst du krähen." Er begab sich zu dem Grab, blieb bis zum Morgengrauen dort, und als es tagte, ging er nach Hause.</p>
+   <p>Die schönen Mädchen berichteten dem Herrscher diese Begebenheit, und das ganze Volk versammelte sich. Der Herrscher sprach: "Wem gelingt es, das Schwert aus dem Stein zu ziehen?" Aber niemand vermochte das. Da verkündete er: "Wer dieses Schwert herauszieht, dem gebe ich meine Tochter zur Frau.”</p>
+   <p>Sobald das die Brüder erfuhren, wollten sie hingehen. Und als sie sich bereit machten, bat auch der jüngste Bruder: "Nehmt mich auch mit!" Und nach langem Schwanken nahmen sie ihn mit. Als sie hin kamen, war dort <pb n="6"/>großes Treiben: Eine Unmasse von Männern machte sich an dem Schwert zu schaffen, doch niemand konnte es herausziehen. Nachdem alle es vergeblich versucht hatten, trat der jüngste Bruder hinzu, zog sein Schwert heraus, steckte es in die Scheide und sagte zu dem Herrscher: "Alle drei Schwestern stehen uns zu, denn ich habe zwei Brüder." Und er rief seine Brüder, und man gab ihnen die Schwestern zur Frau. Es wurde ein großes Fest veranstaltet.</p>
+   <p>Der Herrscher schenkte der Frau des jüngsten Bruders einen Teppich, der einen Menschen in den Himmel emportragen konnte. Darauf setzte sich das Mädchen und flog so mit dem Gefolge mit. Die Brautführer und die Braut brachen auf. Als sie unterwegs waren, fiel etwas über das Mädchen her und verschwand mit ihr irgendwohin. Da gab es einen großen Tumult, aber was sollte man tun? Da sprach der jüngste zu seinen Brüdern: "Lebt wohl, ich muß mit ihr verschwinden." Und der junge Mann zog los, Er lief und lief und lief, er lief solange, wie er konnte, und fand auf einer Wiese eine Quelle. Hier ruhte er sich aus. Da kam ein Junge mit einem Krug, den fragte er: "Wessen Dorf ist das?"</p>
+   <p>Der Junge antwortete: "Hier wohnen drei Brüder Riesen. Alle drei haben Töchter eines Herrschers zur Frau."</p>
+   <p>Als der junge Mann das vernahm, freute er sich. Er ging hin. Es war das Haus seiner Schwestern. Als er hinkam, liefen ihm die Schwestern entgegen. Wie freuten sie sich, ihn zu sehen! Als es Abend wurde, kamen alle drei Riesen. Die Frauen empfingen sie und sagten: "Unser Bruder ist gekommen!"</p>
+   <p>Die Riesen meinten: "Wenn es die älteren Brüder sind, dann werden wir ein Stück Bratenfleisch haben. Ist es aber der jüngste Bruder, dann wissen wir schon, wie wir ihm Ehre erweisen können.</p>
+   <p>Die Riesen gingen ins Haus, und sie küßten sich und freuten sich, einander zu sehen. Als sie nachts um das Feuer saßen, seufzten die Riesen auf. Der junge Mann fragte: "Warum seufzt ihr?"</p>
+   <p>"Ach, daran ist Kashandii Kerkuu schuld. Er hat ein Mädchen mit goldenem Haar durch die Luft herangetragen. Wir haben ihn verfolgt, haben ihm aber nichts anhaben können. Nur einen Zopf von ihrem Haar haben wir abgerissen.“ Und sie zeigten ihn dem Burschen.  </p>
+   <p>Als der das Haar sah, wurde er bleich und begann zu klagen. </p>
+   <p>"Was ist denn?” fragten die Riesen.</p>
+   <p>Der junge Mann erzählte ihnen alles ganz genau. Als der Morgen graute, wollte der Bursche aufbrechen. Das betrübte die Riesen sehr, doch was sollten sie tun? Sie schenkten ihm ein Roß und einen kleinen Hund, Er zog los und gelangte zu Kashandii Kerkuus Haus, aber Kashandii war nicht zu Hause. Er sprang von seinem Roß und ging zu dem Mädchen hinein. Kaum <pb n="7"/>hatten sie sich gesehen, brachen beide vor Freude zusammen. Aber das Mädchen sprach zu ihm: "Warum stürzt du dich ins Verderben, gegen Kashandii Kerkuu kannst du nichts ausrichten." Doch der Bursche hörte nicht auf sie, setzte sie hinter sich auf das Pferd, und als er zum Tor kam, stieß es einen so schrillen Schrei aus, daß die Sterne vom Himmel fielen. Es rief: "Kashandii Kerkuu, wo bist du? Man hat dir deine Frau entführt.”</p>
+   <p>Kashandii Kerkuu hörte das und nahm die Verfolgung auf. Als er näherkam, wieherte Kashandiis Roß so stark, daß es das Pferd des jungen Mannes zum Stehen brachte.  </p>
+   <p>Das Mädchen sprach: "Bursche, habe ich es dir nicht gesagt? Was soll ich jetzt tun? Wenn du wenigstens am Leben bliebest!”</p>
+   <p>Da jagte Kashandii Kerkuu heran, hieb den jungen Mann in Stücke und brachte das Mädchen wieder zurück. Der kleine Hund lief hin, sammelte die zerstückelten Teile des Burschen, die da umherlagen, ein, warf sie alle in einen Tragbeutel, band ihn an den Sattel, sprang selbst auf das Pferd und nahm ihn mit zu den Riesen. </p>
+   <p>Als die Riesen das sahen, weinten sie lange, aber der jüngste Bruder Riese hauchte ihm Leben ein und brachte ihn wieder auf die Beine., Der junge Mann erhob sich und wollte wieder aufbrechen. Da sagte der jüngste Bruder Riese zu ihm: "Nimm mein’ drmbem1ges Roß mit, vielleicht kann es dir helfen, sonst ist die Lage hoffnungslos.”</p>
+   <p>Der Bursche schwang sich auf das Roß und ritt wieder zu dem Mädchen. Er setzte sie hinter sich, und als er durch das Tor ritt, schrie das Tor diesmal noch schriller auf. Das vernahm Kashandii Kerkuu und nahm die Verfolgung auf. Als er herankam, wieherte Kashandiis Roß auf, und das Roß des jungen Mannes lief langsamer.</p>
+   <p>Der junge Mann sprach: "Was machst du?"</p>
+   <p>"Was soll ich tun? Wenn mir nicht ein Bein fehlte, würde ich es übertreffen."</p>
+   <p>Aber als Kashandii näherkam, wieherte das dreibeinige Roß so stark, daß es Kashandii Kerkuus Pferd zum Stehen brachte. Der junge Mann ritt zu ihm hin, schwang sein Schwert, hieb Kashandii Kerkuu in der Mitte durch, setzte das Mädchen auf dessen Pferd, und fröhlich ritten sie davon. Der Bursche ritt bei den Riesen vorbei, verabschiedete sich von allen und kehrte nach Hause zurück.</p>
+  </body>
+ </text>
+</TEI>

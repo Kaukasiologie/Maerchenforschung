@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">13. Das Mädchen mit dem goldenen Haar</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_18.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+    <date when="1933">1933</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Tekile (Tekle)</forename>
+      <surname>Vekua-Kvarazkhelia</surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date when="1868">1868</date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename>Makar</forename>
+      <surname>Khubua</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_18">
+  <body>
+   <head>Das Mädchen mit dem goldenen Haar</head>
+   <p>Es lebten einst eine alte Frau und ein alter Mann. Sie waren alt geworden, besaßen aber kein Kind. Schließlich bekamen sie ein Mädchen, Nachts ließen sie es im Bett in gezupfter Watte schlafen, tagsüber ließen sie es nicht arbeiten. Nachts lag sie im Bett, am Tage saß sie im Bett. Mutter und Vater arbeiteten. Der Vater war auf dem Feld, hackte und jätete. Die alte Frau bereitete das Mittagessen zu und trug es ihm in einem Korb hin. Eine Mühlenweit hatte sie aus dem Haus zu gehen. Dazwischen war ein Fluß zu durchqueren. Die Frau bekam Durst. Auf dem Weg waren Rinder spuren,in denen Wasser stand. Sie bückte sich und trank. Als sie es getrunken hatte, verwandelte sie sich in eine schwarze Kuh. Doch sie hatte den Verstand eines Menschen, hakte den Korb auf die Hörner und nahm ihn mit.</p>
+   <p>Sie lief zu dem Zaun und muhte.,</p>
+   <p>"Ksch, ksch, zertritt mir den Zaun nicht, lauf fort!" rief ihr der Alte zu.</p>
+   <p>Da nahm die Kuh den Korb und hängte ihn auf einen Zaunpfahl. Hatte sie denn nicht den Verstand eines Menschen?! Jetzt bekam der Alte Hunger, die Sonne hatte den höchsten Stand schon überschritten, und er machte sich auf: "Ich will zu dem Zaun gehen. Die Kuh, die da gebrüllt hat, wird doch nicht etwa eingedrungen sein."</p>
+   <p>Als er hinkam, erblickte er den Korb: "Die arme Frau hat den Korb hergebracht und ist selbst wieder fortgegangen", dachte er.</p>
+   <p>Er aß zu Mittag, eigentlich war schon die Zeit des Abendbrots herangekommen. Er nahm den Korb, hängte ihn sich auf die Hacke und ging nach Hause. Die Kuh, die vorhin am Zaun gebrüllt hatte, sah er jetzt an seinem Hoftor liegen. "Ksch, ksch”, rief er und trieb sie mit einer Rute fort.</p>
+   <p>Als er das Tor öffnete, lief die Kuh vor ihm in den Hof hinein. So vorihm hergehend, lief sie bis ans Haus und muhte dreimal. Dreimal wandte sich die Kuh dem Balkon zu und sah hinauf. Der Alte öffnete die Tür und fragte das Mädchen: "Wo ist deine Mutter?”</p>
+   <p>"Seit sie dir das Essen gebracht hat, ist sie nicht wiedergekommen"”, sagte das Mädchen. Jetzt begriff der Mann wohl, daß diese Kuh etwas anderes war! Das Mädchen war schon herangewachsen, hatte aber nie gearbeitet. So führte er die Kuh auf die Weide und ließ sie die besten Gräser fressen.</p>
+   <p>Die Frauen sagten zu dem Mann: "So kannst du das nicht machen. Deine Tochter muß diese Kuh auf die Weide führen. Du hast zu Hause keinen Menschen, nimm dir eine Frau." Der Mann widersetzte sich, doch sie <pb n="98"/> hörten nicht auf ihn und brachten ihm eine Frau, die schon eine Tochter hatte. Fand sie aber hier nicht schon ein Mädchen vor?! Da trat die Frau zu dem Mädchen, dessen Mutter in die Kuh verwandelt worden war, und redete abscheulich auf sie ein. Sie gab ihr Wolle und zum Essen zwei Brötchen, das eine sollte sie essen, das andere ihr wiederbringen. Die Wolle sollte sie hecheln, spinnen und auch sonst alles tun.</p>
+   <p>Das Mädchen wußte nicht, wie es das machen sollte. Als sie so weinte und betrübt war, kam ihr die Mutter zu Hilfe, machte ihr alles begreiflich und steckte sich die Wolle ins Maul, kaute sie und warf sie als Gewebe wieder heraus. Dann ließ sie das Mädchen den Stoff waschen, und diese lief mit dem trockenen Gewebe nach Hause. Als sie des Weges ging und dabei mit der Spindel Wolle spann, löste sich an einem Brunnen der Spinnwirtel und fiel hinein. Sie blickte hinab, und da sah sie eine alte Frau sitzen. Sie redete sie achtungsvoll an: "Mutter, reiche mir doch bitte den Spinnwirtel herauf."</p>
+   <p>"Ich bin alt, Kind. Komm her und hol ihn dir", sprach die Alte.</p>
+   <p>Das Mädchen stieg zu der Alten hinab, um den Wirtel heraufzuholen.</p>
+   <p>"Schau doch einmal in mein Haar hinein", sagte die alte Frau zu dem Mädchen. Sie blickte hinein und sprach: "Ach, meine Liebe, was für einen sauberen Kopf du hast." Dabei hatte die alte Frau den Kopf voller Läuse,doch sie sagte es trotzdem so. "Gut, mein Kind, dort an der Seite steht ein Spitzkrug mit Käse. Sieh ihn dir einmal an."</p>
+   <p>Das Mädchen ging hin, und als sie hineinsah, fand sie ihn voller Maden."</p>
+   <p>Ach, meine Liebe”, sagte sie, "was für schönen Käse du da aufbewahrst!</p>
+   <p>Hätte ich heißen Hirsebrei, würde ich ihn genüßlich essen." Dann stieg das Mädchen wieder hinauf.</p>
+   <p>"Geh nach Hause, Kind", sprach die Alte zu ihr, "wenn du unterwegs auf Flüsse stößt, so geh an allen vorbei. Kommst du aber an einen goldenen Fluß, so tauche deinen Kopf hinein, dann wirst du es schon sehen.”</p>
+   <p>Das Mädchen ging und hielt sich von allen Flüssen fern. Als sie den Kopf in das goldene Wasser tauchte, bekam sie goldenes Haar.</p>
+   <p>Als sie weiter lief, dachte sie: Wie kann ich denn nur dieses lange Haar verstecken? Sie zog ihr Unterkleid aus, umwickelte es damit und kam sonach Hause. Ein einzelnes Haar lugte hervor, und die Stiefmutter sah das.</p>
+   <p>"Ui, wer hat dir denn das gegeben!" Sie fiel über sie her und riß ihr die Hülle vom Kopf, daß das Haar herabwallte.</p>
+   <p>"Wozu brauchst du das?" rief sie, holte eine Schere und schnitt es ihr an der Wurzel ab.</p>
+   <p>"Meine Sünde komme über die, die mir dieses Haar gegeben hat. Wozu habe ich das gewollt?" meinte das Mädchen.</p>
+   <p>Als die Stiefmutter ihr das Haar abgeschnitten hatte, wuchs ihr noch viel <pb n="99"/> schöneres.</p>
+   <p>Die Stiefmutter sprach zu ihr: "Nimm meine Tochter mit und laß sie das gleiche tun, was du gemacht hast, sonst lasse ich dich nicht mehr lebend her.”</p>
+   <p>"Sie ist ein wenig hochmütig und benimmt sich vielleicht nicht so, wie es nötig ist", wandte das Mädchen ein.</p>
+   <p>"Geh und nimm sie mit!" befahl die Stiefmutter. Da brachen beide auf.</p>
+   <p>Die Tochter der Stiefmutter hatte auch eine Spindel bei sich. Sie warf den Wirtel absichtlich in den Brunnen hinab, sah hinein und sagte zu der alten Frau: "Du Alte, die du da so jämmerlich hockst, reiche mir den Spinnwirtel herauf!"</p>
+   <p>"Komm herunter, Kind, ich kann nicht aufstehen, hole ihn dir selber."</p>
+   <p>Die Tochter der Stiefmutter stieg hinab.</p>
+   <p>"Komm, Kind, schau doch einmal in mein Haar hinein”, sagte die Alte zu ihr.</p>
+   <p>"Äks, das ist widerlich, du hast ja den ganzen Kopf voller Läuse!"</p>
+   <p>"Gut, mein Kind, gut! Sieh doch in den Spitzkrug dort hinein", sagte die Alte. Als das Mädchen hinging, spuckte sie hinein: "Wer hat dir den Käse gegeben? Er ist voller Maden, es wimmelt nur so."</p>
+   <p>"Gut, mein Kind, gut", sprach die Alte, "Verhalte dich so, wie ich es dir jetzt sage. Geh nach Hause, und wenn du unterwegs auf Flüsse stößt, so geh an allen vorbei. Wenn du aber zum Eselsfluß kommst, so tauche den Kopf hinein."</p>
+   <p>Da lief das Mädchen heimwärts und machte es so. Wuchs ihr nicht Eselshaar auf dem Kopf!</p>
+   <p>Sie liefen und kamen nach Hause. Als die Stiefmutter sie ansah, erkannte sie, daß der Tochter der Kuh ihr goldenes Haar wieder gewachsen war, ihre eigene Tochter aber Eselshaar, dessen man sich schämen mußte, auf dem Kopf trug. Da schlug sie auf das Mädchen mit dem goldenen Haar ein und prügelte sie, so kräftig sie konnte.</p>
+   <p>"Du meine Güte, welche Schuld habe ich denn, daß sie es ihr nicht richtig gesagt hat. Was habe ich damit zu tun?" sprach das Mädchen.</p>
+   <p>Die Frau stellte sich krank. Der Mann erkundigte sich: "Was ist 10s, was fehlt dir?"</p>
+   <p>"Schlachte deine Kuh und gib mir ihr Herz und ihre Leber zu essen,sonst kann ich nicht gesund werden, meint die Wahrsagerin", sagte seine Frau.</p>
+   <p>Schließlich überwand er sich und schlachtete die Kuh. Doch bevor mansie schlachtete, trug die Kuh ihrer Tochter auf: "Nimm meinen Kopf, meine Füße und das Fell, laß deinen Vater ein Grab ausheben und lege das alles hinein. Besuche mich immer. Dir steht ein gutes Leben bevor, und nur du <pb n="100"/> weißt davon."</p>
+   <p>Als Ostern herankam, hatte das Mädchen alles für das Fest vorzubereiten. Die Stiefmutter wies sie an: "Lies die Röstkörner aus und bereite die Hirse vor. Stell alles ordentlich hin, sonst wird es dir schlecht ergehen.”</p>
+   <p>Weinend lief das Mädchen zu ihrer Mutter. Die Mutter riet ihr, wie sie es machen sollte: "Trage es zu deinen Tanten, sie werden die Röstkörner von den Hirsekörnern auslesen, den Backteig bereiten und die Soße anrühren. Mach das alles fertig und komm dann zu mir. Wenn der Hirsebrei überdem Feuer hängt, schließe die Tür und komm zu mir. Ich werde dir alles geben und dich zur Messe gehen lassen."</p>
+   <p>Das Mädchen ging, und als es alles erledigt hatte, kam es wieder zu seiner Mutter. Sie kleidete sie in goldene Kleider, setzte sie auf ein Pferd und ließ sie zur Messe reiten. Dort war sie in dieser Osternacht, und auch der Sohn des Herrschers war gekommen, um sich eine Braut zu suchen.</p>
+   <p>Doch ein Mädchen, das ihm gemäß war, war auf Erden nicht zu finden.</p>
+   <p>Die Mutter hatte ihrer Tochter goldene Schuhe gegeben, ein Kleid angezogen, das ihr stand, und ihr gesagt, bevor sie sie zur Messe gelassen hatte: "Wenn du hineingehst, so bekreuzige dich und grüße. Wenn du wieder herauskommst, laß einen Schuh an der Ausgangstür liegen und komm wieder hierher zu mir."</p>
+   <p>Das Mädchen ritt hin und ließ, wie die Mutter es ihr gesagt hatte, einen Schuh dort zurück und kam wieder zur Mutter.</p>
+   <p>"Den einen Schuh hat der Sohn des Herrschers aufgehoben, Und jetzt sucht er das Mädchen, der dieser Schuh paßt", sagte die Mutter, "Er wird herkommen, und sie werden in das Haus treten. Dich wird man unter einen großen Korb stecken, und der Sohn des Herrschers wird sich auf diesen Korb setzen. Du mußt ihn von unten mit einer Nadel stechen, und wenn man den Korb umdreht, wird man dich nicht übersehen können. Wenn man dir den Schuh anprobiert, wird er genau deine Größe haben, und du wirst die Frau des Herrschers werden.” ;</p>
+   <p>Am Nachmittag ritt der Sohn des Herrschers umher, und viele Leute folgten ihm. Er wollte in Erfahrung bringen, welchem Mädchen dieser Schuh paßte. Die Stiefmutter stülpte tatsächlich einen Korb über sie und putzte ihre Tochter heraus, um sie dem Sohn des Herrschers vorzustellen.</p>
+   <p>Die Frau maß den goldenen Schuh an ihrer Tochter, aber er wollte ihr einfach nicht passen. Als sich der Sohn des Herrschers auf den Korb setzte,stach ihn das Mädchen von unten mit der Nadel. Der junge Mann zuckte empor. Als man nachsah, saß das Mädchen unter dem Korb. Man holte sie hervor, und als man ihr den Schuh anprobierte, war es genau ihre Größe.</p>
+   <p>"Diese ist mein Glück", sagte der junge Mann.</p>
+   <p>"Wie kann diese Tochter einer Kuh deine Frau werden?" <pb n="101"/> </p>
+   <p>"Ganz gleich, ob sie die Tochter einer Kuh ist oder sonst etwas, sie ist mein Glück”, und er nahm sie bei der Hand.</p>
+   <p>"Ich will Kleider holen und sie mitnehmen", sagte der junge Mann. Doch das Mädchen sprach: "Ich habe alles zum Anziehen!" Sie ging hin und zog alles an, was sie zur Messe getragen hatte. Alles war von Gold und keine gewöhnlichen Sachen, Der junge Mann nahm sie. mit. Sie saß auf ihrem eigenen Pferd und ritt mit ihm. So brachte der junge Mann das Mädchen nach Hause und hatte sie bei sich. Das Mädchen wurde schwanger, der junge Mann aber mußte zu den Soldaten gehen. Sie blieb schwanger daheim, und der junge Mann nahm den Kriegsdienst auf. Von ganzem Herzen legte er Mutter und Vater nahe, sich um das Mädchen zu kümmern. Dies alles hinterließ er seinem Wesir schriftlich. Als die Zeit herangekommen war, sandte der Herrscher seinen Wesir zu dem Sohn und gab ihm einen Brief mit. Der Wesir wurde im Haus des Mädchens von der Nacht überrascht.</p>
+   <p>"Laßt mich hier übernachten”, bat er.</p>
+   <p>"Gut”, und sie ließen ihn ein.</p>
+   <p>Als er sich hinlegte und schlief, suchte die Stiefmutter des Mädchens seine Tasche durch und fand den Brief. Sie las und zerriß ihn, schrieb einen anderen und legte ihn hinein. Die arglistige Frau schrieb, als hätten die Eltern des jungen Mannes geschrieben: "Sie ist die Tochter einer Kuh, und sie ist so und so, wie könnt ihr beide denn zusammenpassen!"</p>
+   <p>"Wessen Tochter sie auch sein mag, sie ist mein Glück. Versorgt sie gut,bis ich zurückkomme!" schrieb der Sohn zur Antwort.</p>
+   <p>Der Wesir trug das Schreiben zum Herrscher. Die Stiefmutter las die Anschrift bei dem Wesir. "Meine Tochter bringt ein Kind zur Welt, da muß ich dabei sein", sagte sie, Sie brach auf, um bei der Geburt anwesend zu sein. Man vertraute ihr das Mädchen an, als sie gebar. Sie brachte zwei Jungen zur Welt, die Stiefmutter aber warf beide Kinder in den Fluß und legte ihr zwei junge Hunde hin. Der Herrscher und seine Frau wußten nichts davon, Das Mädchen sah das, aber sie vermochte nicht zu sprechen,und was sollte sie tun?</p>
+   <p>Die Stiefmutter begab sich zum Herrscher und zu dessen Frau und sprach: "Ich gratuliere: Deine Schwiegertochter hat zwei blinde Hundejunge geboren.”</p>
+   <p>"Was es auch sein mag, sie ist das Glück meines Sohnes, und wir nehmenes wie Gold in Empfang", erklärte der König.</p>
+   <p>Man schrieb dem Sohn einen Brief. Unterwegs übernachtete der Wesir wieder im Haus der Stiefmutter des Mädchens, Sie zerriß das Schreiben an den Sohn des Herrschers und verfaßte einen anderen Brief so, als hätte ihn der Sohn geschrieben: "Schlagt ihr die Arme am Ellbogen ab und werft sie <pb n="102"/> hinaus. Laßt mir meine Frau nicht vor Augen treten!"</p>
+   <p>Lange klagten der Herrscher und seine Frau, doch was sollten sie tun? Sie erfüllten den Auftrag des Sohnes und ließen das Mädchen laufen.</p>
+   <p>Sie lief des Wegs und aß an einem Ort jede Nacht Melonen. Da umstellten Männer mit Gewehren den Ort und lauerten ihr auf, Als sie die Stelle umzingelt hatten, kam etwas in den Garten hereingestürzt. Sie riefen ihr zu:"Wer bist du, sprich, sonst bringen wir dich um!"</p>
+   <p>"Ich bin es", sagte das Mädchen.</p>
+   <p>Sie kamen herbei und fragten: "Wer bist du, was ist dir zugestoßen?"</p>
+   <p>"So und so steht es um mich, dies und jenes ist mir widerfahren.”</p>
+   <p>Man drängte sie, zu ihnen nach Hause zu kommen, doch sie ging nicht hin. Da ließ man sie dort und legte sie in die Blätter, Anderentags stand sie auf, und wie sie so lief, sah sie, daß ihr drei Frauen entgegenkamen.</p>
+   <p>"So steht es um mich", sagte sie zu ihnen, "könnt ihr mir nicht helfen?"</p>
+   <p>Die vordere erwiderte: "Frage die letzte, sie wird es dir sagen."</p>
+   <p>Die letzte sprach: "Spüle deine Arme in dem Fluß, der da fließt, und sie werden dir wieder wachsen.”</p>
+   <p>Sie tauchte die Arme hinein, und beide wurden wieder gesund.</p>
+   <p>Inzwischen gab die hinterhältige Stiefmutter dem Sohn des Herrschers ihre eigene Tochter. Und warf sie die Kinder nicht in den Fluß?! An einer Mühle blieben sie hängen, und der Müller zog sie heraus.</p>
+   <p>Es waren eine alte Frau und ein alter Mann und ohne Kinder, und sie zogen die Kinder auf, wie es ihnen geziemte. Ihr Badewasser verwandelte sich in Gold, und sie waren ganz mit Gold überzogen.</p>
+   <p>Schließlich mußte diese Frau zu dem Müller gehen. Sie erzählte ihm alles. Der Müller erklärte ihr, wie er die beiden Kinder aus dem Wasser gefischt und sie der alten Frau und dem alten Mann gegeben hatte. Da ging die Frau dorthin und fand die Kinder, die aussahen wie Gold.</p>
+   <p>"Ihr sollt mir Mutter und Vater und ich will euer Kind sein", sagte sie,“"meine Kinder sind bei euch." Und sie erzählte ihnen alles, was ihr widerfahren war.</p>
+   <p>Da nahmen die alte Frau und der alte Mann sie wie ein eigenes Kind auf. Alles war mit Gold überzogen, selbst die Brunnenkette war von Gold.</p>
+   <p>Wenn man die Kinder zwanzigmal am Tag badete, mußte immer Gold herabfallen, und weshalb sollte man das nicht tun?</p>
+   <p>Hatte der Mann dieses Mädchens nicht die Tochter der Stiefmutter seiner Frau geheiratet?! Aber er liebte sie nicht und machte sich auf, umseine verschollene Frau zu suchen. Nach langer Zeit kam er an einen Ort,zu einem Haus, wo alles aus Gold bestand. Im Hof spielten zwei Kinder mit einem goldenen Ball. i</p>
+   <p>"Bringt mir etwas Wasser zum Trinken", sagte er zu den Kindern. <pb n="103"/></p>
+   <p>Da liefen sie hin und ließen ihn aus einem goldenen Becher trinken. Ertrank und warf einen Ring in den Becher, auf dem sein Name geschrieben stand. Zu den Kindern sagte er: "Bringt das eurer Mutter!"</p>
+   <p>Als die Frau den Ring sah, fragte sie: "Wo ist dieser Mann hingegangen, Kinder?"</p>
+   <p>"Er ist hier." Sie lief hin, und als sie sich sahen, erkannten sie sich wieder. Hier weinte sie, dort weinte er, Sie faßte ihn an der Hand, führte ihn ins Haus und erklärte ihm alles. Da brach der junge Mann auf, ging wieder nach Hause, band die Stiefmutter seiner Frau und ihre Tochter an den Schweif eines Pferdes, ließ es zu einem Ort laufen, wo man Haselnußzweige schnitt, und riß sie dort in Stücke. Dann holte er seine Frau und die Kinder her. Gestern abend war ich dort, heute abend bin ich hier.</p>
+  </body>
+ </text>
+</TEI>

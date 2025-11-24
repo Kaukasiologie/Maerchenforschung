@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="ava">I. Баширги ясги</title>
+    <author>
+     <name xml:id="WB">
+      <persName>
+       <forename>Winfried</forename>
+       <surname>Boeder</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+    </author>
+    <author>
+     <name xml:id="EL">
+      <persName>
+       <forename>Ernst</forename>
+       <surname>Lewy</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
+    </author>
+    <author>
+     <name xml:id="JB">
+      <persName>
+       <forename>Johannes</forename>
+       <surname>Bechert</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
+       Johannes Bechert† and M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova and S. Šaxtamanov</title>
+     <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
+       Johannes Bechert† sowie von M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova und S. Šaxtamanov</title>
+     <author role="author">
+      <name ref="#WB">
+       <persName>
+        <forename>Winfried</forename>
+        <surname>Boeder</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#JB">
+       <persName>
+        <forename>Johannes</forename>
+        <surname>Bechert</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#EL">
+       <persName>
+        <forename>Ernst</forename>
+        <surname>Lewy</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
+     <distributor><ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
+     </distributor>
+     <date when="2007">The year 2007</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+    <bibl type="digitalSource">
+     <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="ava">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_204.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+      <item>Warnung vor sozialer Diskriminierung</item>
+      <item>Warnung vor ethnischen oder kulturellen Stereotypen</item>
+      <item>Warnung vor Schönheitsnormen und Körperidealen</item>
+      <item>Warnung vor diskriminierenden Darstellungen von Familienkonstellationen</item>
+      <item>Warnung vor der Idealisierung von Kriminalität</item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
+     <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
+     <district/>
+     <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
+     <geo/>
+    </placeName>
+    <date when="1918">1918</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Nazmuddin</forename>
+      <surname>Sajpudin</surname>
+     </persName>
+     <age>31</age>
+     <birth>
+      <date when="1887">1887</date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
+       <settlement>Gunib</settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName ref="#EL">
+      <forename>Ernst</forename>
+      <surname>Lewy</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName ref="#EL">
+      <forename>Ernst</forename>
+      <surname>Lewy</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_ava_ava_204">
+  <body>
+   <head>I.	Баширги ясги</head>
+   <p><cb n="1"/> Цо ханасул вукӀун вуго кӀиго вас. КӀудиясда цӀар букӀун буго Пумар, гьитӀинасда Башир. Башир абурав вас ханасе цӀакъ вокьулев вукӀун вуго. Хан унтун вуго. Ханас ахӀун вуго кӀиявго вас жиндаго аскӀове: “Ва дир лъимал, нагагь дун хванани, ^ьеб1 мехалъ, дир васигат буго нужеда: нуж нужедаго жанир рекъон хьваде, дир нахъе хутӀараб рикъзиги бащад бикье.” Хан хун вуго. <cb n="2"/> Эмен хун хадув, халат ккун гьечӀо Пумарица инсул васигат. Тьев1 Башир къварид гьавизе байбихьун<note place="bottom">972 &lt;рекӀун&gt;</note>  вуго, гьединго Башир киндай тӀаса вихьизавилев, абун ургъун вуго. Баширида лъан буго Пумарида ракӀалда бугеб жо. Баширица гьарун буго Пумарида: “Ва, дир кӀудияв вац Пумар, рекӀине чуги кье, базе ярагъги кье.” Пумарица кьун буго Баширие чуги ярагъги. Кьураб чодаги рекӀун, “я гӀажал, <pb n="104"/>я гӀумру”, - ян, Башир ун вуго. <cb n="3"/> Башир вукӀун вуго цӀакъ берцинав чи. Башир щун вуго цо пуланаб росулъе. Гьениб цӀехон буго Баширица жив аскӀов чӀезе чи. Цо бечедав чияс вачун вуго Башир жиндаго аскӀов азбар лъухьулев чилъун<note place="bottom">973 &lt;лухьизе&gt;</note>. Дов бечедав чиясул йикӀун йиго цо яс, кидаго дуниял бихьичӀей. Цо пуланаб къоялъ Башир тӀаса рукъове вахъун вуго. Баширида дой берцинай ясги йихьун йиго, Башир ясалдаги вихьун вуго. Гьеб бакӀалда кӀиязулго цоцахъ <cb n="4"/> рокьи ккун буго. Ясалда цӀцӀар букӀун буго Асият. Асиятица абун буго жиндирго хъулухъчӀужуялда: Гьав пуланав чи ахӀе дида аскӀове!” ХъулухъчӀужуялъ абун буго Асиятида: “Пайиб гьечӀиш дуда «гъов чи гьаниве ахӀе»-ян абизе?” Асиятил цӀакъ ццин бахъун буго хъулухъчӀужуялда. Хъван кагъат битӀун буго Баширихъе: “Дов<note place="bottom">974 &lt;гьау&gt;</note>  пуланав мун дие вихьизе цӀакъ вокьун вуго. ВачӀа дида <cb n="5"/> аскӀове.” Баширица хъван буго Асиятил кагътида данде жаваб: “Дур кагъат щвана дихъе. Дур кагътида рекъон дуда аскӀове вачӀине дида кӀоларо, дирго гӀодогӀанлъиялъухъ балагьун.” Асиятица хъван буго данде жаваб: “КигӀан гӀодогӀанав мун вугониги, мун гурев вокьиларо” - ян. Башир божун гьечӀо Асиятил кагътида. Баширил рукъ букӀун буго кавудал кӀалтӀа. Цо сордоялъ <cb n="6"/> Асият ун йиго Баширида аскӀое. НуцӀихъан жание лъугьарайго, Баширил габурги ккун, лъабцӀул убач гьабун буго Баширида. Цинги Асиятица цӀехон буго Баширида: “Киса мун? Кин ккарав гьаниве?” Баширица бицун буго кинабго жиндирго лъугьараб жо. Асиятие Башир жегиги цӀакъ вокьун вуго. Цинги абун буго Асиятица: “Дица босила нилъейго гӀумруялъе гӀезегӀанаб гӀарац. <cb n="7"/> Лъутила нилъ кӀиялго, кӀиязего рекӀине лъикӀал чуялги рачина.” Асиятица босун буго къваригӀанщинаб жоги, рекӀине лъикӀал чуялги рачун, лъутун руго гьениса. Гьез рекӀарал чуязда хадур гъолел чуял рукӀун гьечӀо. Лъабго къоялдаса щун руго гъол цо магӀарде. Гьеб магӀарда гьезда батун буго цо хъала. Гьеб хъала бихьарабго, Асиятица абун буго: “Цо пуланаб заманаялда дида <cb n="8"/> рагӀун букӀана, гьеб хъалаялда жанир хъартал ругилан. Гьеб хъала букӀине ккола гьаб хъала. РачӀа нилъ нахъ руссинин.” <pb n="105"/>Баширица абун буго Асиятида: Гьел хъартал абулел жал рихьичӀого дун нахъ вуссинаро.” Гьеб сагӀат хъартаз сверунги ккун, рачун руго хъалада жанире, хьагиниреги реххун, кванан руго хъартаз кӀиялго.</p>
+  </body>
+ </text>
+</TEI>

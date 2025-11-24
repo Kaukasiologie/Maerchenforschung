@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">10. Ale</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_15.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+       <district ref="https://www.geonames.org/614378/gulripshi-district.html">Gulripshi</district>
+       <settlement ref="https://www.geonames.org/614863/dranda.html">Dranda</settlement>
+       <geo/>
+      </placeName>
+    <date when="1933">1933</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Arte</forename>
+      <surname>Gagua</surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename>Makar</forename>
+      <surname>Khubua</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_15">
+  <body>
+   <head>Ale</head>
+   <p>Es war einmal ein Herrscher, der hatte drei Söhne. Schließlich bekam dieser Herrscher eine Tochter. Kaum war sie geboren, so wurde sie von irgendetwas entführt. Als der Herrscher im Sterben lag, ließ er alle drei Söhne zu sich kommen und sprach: "Ich sterbe jetzt. Teilt meinen Besitz in vier Teile. Den einen Teil verwendet für mich und bestattet mich. Die drei Teile teilt unter euch auf. Wenn ihr mich begrabt, soll jeder Sohn eine Nacht bei mir Wache halten."</p>
+   <p>Der Herrscher starb, und man bestattete ihn. Von diesen drei Brüdern waren zwei wohlgeraten, der jüngste aber elend. Dieser jüngste hieß Ale.</p>
+   <p>Ale sagte zu seinen Brüdern: "Geht, Brüder, und haltet Wache!"</p>
+   <p>Der älteste Bruder gab dem Elenden keine Antwort darauf. Der mittlere Bruder aber sagte: "Mach dich fort, du Elender, wer hat dich denn danach gefragt?"</p>
+   <p>Da ging Ale fort. Er ging zu ihrem Hirten und bat ihn: "Lade mir das Gewehr." Der Hirt lud ihm das Gewehr. Ale machte sich auf und verbarg sich beim Grab seines Vaters. Um Mitternacht kam irgendetwas: ein schwarzer Mann, schwarz gekleidet und auf einem schwarzen Roß.</p>
+   <p>*Q du Verdammter, lebend konnte ich dich nicht fressen, aber als Toten will ich dich wenigstens fressen", rief er.</p>
+   <p>Er stieß den Spaten in die Erde, um ihn auszugraben. Da schoß Ale auf ihn und tötete ihn. Er lief hin, zog ihm die Kleidung aus, warf den Toten neben das Roß, fing es ein und brachte es zu seinem Priester: "Da, Priester", sagte er zu ihm, "bewahre das für mich auf! Eins für dich, das zweite für Gott, das dritte für mich, sprich zu niemandem ein Wort davon, und später will ich dich nicht zum Priester, sondern zum Bischof machen."</p>
+   <p>"Gut, mein Sohn", sagte der Priester,</p>
+   <p>Ale hüllte sich in seinen roten Filzmantel, ging nach Hause und legte sich in sein Zimmer. Zur Abendzeit des nächsten Tages sagte er zu seinen <pb n="69"/> Brüdern: "Geht wenigstens heute hin, um Wache zu halten."</p>
+   <p>Der mittlere Bruder erwiderte: "Scher dich fort, du Elender, was geht das dich an?"</p>
+   <p>Als die Nacht hereinbrach, ging Ale wieder zu dem Hirten, holte sichdessen Gewehr, hob beim Grab seines Vaters eine Grube aus und richtete es sich gut darin ein. Um ein Uhr nahte irgendetwas und stellte die Welt auf den Kopf: ein rotes Roß, ein roter Mann in roter Kleidung, der rief:"Ho, ho, ho, lebend habe ich dich nicht fressen können, aber als Toten will ich dich wenigstens fressen." Als er vom Pferd sprang, schoß Ale auf ihn und tötete ihn. Er zog ihm die Kleider aus und warf den nackten Leichnam in die Dornbüsche. Das Pferd fing er ein und brachte es dem Priester: "Da, Priester, bewahre mir das auf. Eins für dich, das zweite für Gott, das dritte für mich. Kein Mensch soll davon erfahren! Bis zum fünfzehnten soll das niemand wissen, sonst reiße ich dir den Kopf ab."</p>
+   <p>"Aber ja doch, mein Sohn, bring mich nicht um, ich will dir alles erfüllen."</p>
+   <p>"Fünfzehn Tage lang sollst du dies nicht verraten, dann wirst du der Höchste aller Priester", sagte Ale, wandte sich um, ging in seinem roten Filzmantel nach Hause und legte sich in sein Zimmer. Am dritten Tag stand er auf und sagte am Abend zu den Brüdern: "Mein Vater hat angeordnet, wir sollten wenigstens heute Nacht wachen."</p>
+   <p>Der älteste Bruder würdigte ihn keines Wortes, der mittlere gab ihm zur Antwort: "Scher dich fort, sonst bringe ich dich um!"</p>
+   <p>Ale meinte: "Na gut.” Und er ging zu dem Hirten: "Gib mir das Gewehr!"</p>
+   <p>Der Hirt gab ihm das Gewehr. Er begab sich zum Grab seines Vaters,setzte sich in die Grube und wachte auch in dieser Nacht. Als es zwei Uhr wurde, kam ein weißer Mann auf weißem Roß in weißer Kleidung und stülpte das Land um: Es regnete, es hagelte, es schneite. Er sprang vom Pferd und brüllte: "Ja, du Verdammter, jetzt habe ich dich doch erwischt!”</p>
+   <p>In diesem Augenblick schoß Ale, tötete ihn, zog ihm die Kleider aus,warf den Toten beiseite, fing das Roß ein und nahm die Kleider mit.</p>
+   <p>"Priester, nimm das zu dir. Daß du dies, weiß Gott, nicht verrätst, sonst verlierst du auf der Stelle dein Leben. Gib mir das Roß wieder, wenn ich es dir sage. Und sprich zu niemandem davon, bis ich wiederkomme!"</p>
+   <p>Ale ging in seinem roten Filzmantel heim und legte sich in sein Zimmer.</p>
+   <p>Am nächsten Tag stand er auf und begab sich zu seinen Brüdern. Die Brüder lasen Zeitung und schüttelten den Kopf.</p>
+   <p>"Was gibt es, Brüder", fragte Ale, "was steht in der Zeitung?"</p>
+   <p>Der mittlere Bruder antwortete: "Was geht das dich an, wer fragt dichdanach?"</p>
+   <p>"Wieso, Brüder, wenn es etwas Gutes ist, werde ich mich auch darüber <pb n="70"/> freuen."</p>
+   <p>Der mittlere Bruder sagte: "Weißt du, Ale, was es Neues gibt? Im Reich Arabien sollen drei Töchter des Herrschers verheiratet werden. Das beginnt von heute an am sechzehnten Tag. Der Wettstreit um diese Mädchen soll folgendermaßen verlaufen: Im sechsten Stock wird der Ring der ältesten Tochter aufgehängt. Wem es gelingt, ihn mit dem Revolver herabzuschießen, dem soll das Mädchen gehören. So wird es am nächsten Tag bei der mittleren Tochter und am dritten bei der Jüngsten sein. Das steht in dieser Zeitung. Wozu willst du das wissen, du Elender?"</p>
+   <p>Ale erwiderte: "Wann zieht ihr los, Brüder?"</p>
+   <p>"Wir wollen morgen losreiten. Fünfzehn Tage brauchen wir für den Weg,am sechzehnten werden wir dort sein."</p>
+   <p>"Gut, Brüder, versucht euer Glück. Wenn es euch gelingt, diese Mädchen zu heiraten, werde ich noch größere Freude haben.”</p>
+   <p>Und Ale drehte sich in seinem roten Filzmantel um und ging in sein Zimmer. Am nächsten Tag, als es hell wurde, machten sich die Brüder fertig, zäumten ihre Pferde, saßen auf und ritten davon. Ale meinte: "Was mache ich die fünfzehn Tage hier, mein Roß ist in. fünf Minuten dort. Die fünfzehn Tage Wartezeit wurden für Ale wie fünfzehn Jahre Zwangsarbeit.</p>
+   <p>Als die fünfzehn Tage verstrichen waren, ging er zu dem Priester: "Gib mirdas schwarze Roß", sagte er zu dem Priester.</p>
+   <p>Der Priester sprach zu ihm: "Ich habe Beton über das Roß gegossen, ichkann es dir nicht geben.”</p>
+   <p>"Wo ist es, zeig es mir!"</p>
+   <p>Der Priester zeigte ihm den Ort. Ale trat mit dem Fuß dagegen, zerbrach den Beton und führte das schwarze Roß heraus. Er legte ihm den schwarzen Sattel auf, kleidete sich in schwarze Kleidung und setzte sich auf das Roß. Dem Priester trug er auf: "Daß die anderen Rosse nicht davonlaufen!"</p>
+   <p>Er schlug mit der Peitsche, und das Roß erhob sich in die Luft. Im Handumdrehen war es dorthin geflogen, wo der Ring hing. Alle erschraken: Was ist das, was da gekommen ist! Und alle fielen zu Boden. Als Ale hinkam, rief er: "Erlaubt ihr mir zu schießen, Brüder?"</p>
+   <p>Ein Mann gab zur Antwort: "Geh und versuche es, Herr."</p>
+   <p>Ale zog seinen Revolver aus der Tasche, schoß nach dem Ring, der Ring fiel herunter, Ale fing ihn auf und steckte ihn in seine Tasche, Er versetzte seinen Brüdern je einen Peitschenhieb, wandte sich um und ritt davon. Der Vater des Mädchens, der Herrscher, erklärte: "Gebt den Priestern den Auftrag, die Klöster und Kirchen zu schmücken, und beginnt, den Gottesdienst zu feiern: Gott hat meine älteste Tochter zur Frau erkoren.”</p>
+   <p>Der Herrscher kam vor Freude fast um. Die Priester feierten den Gottesdienst. <pb n="71"/></p>
+   <p>Ales Brüder sagten: "Gott hat die Tochter des Herrschers gefreit, aber was haben wir damit zu tun, weshalb hat er uns die Peitsche über den Rücken gezogen?”</p>
+   <p>Am nächsten Tag war die zweite Tochter an der Reihe, verheiratet zu werden.</p>
+   <p>Ale ritt fort und kam nach Hause. Er gab dem Priester das Roß und die Kleider. Als der nächste Tag anbrach, zog er die rote Kleidung an, setzte sich auf das rote Roß und ritt hin, dabei stellte er das Land auf den Kopf.</p>
+   <p>Dort, wo der Ring hing, begann man zu schießen. Der Rauch zog über das ganze Land, doch der Ring hing immer noch da. Als Ale hinkam, erschraken alle und fielen auf die Erde: "Was ist das, was da gekommen ist?"</p>
+   <p>"Ich bitte euch, Brüder, erlaubt ihr mir zu schießen?"</p>
+   <p>Jemand winkte ihm mit der Hand: "Geh und versuche dein Glück, Herr!"</p>
+   <p>Da nahm er seinen Revolver, schoß und warf den Ring herab. Er fing ihn auf und steckte ihn in seine Tasche. Zweimal schlug er mit der Peitsche sonach seinen Brüdern, daß ihnen der Rücken brannte. "Mann", sagten die Brüder, "was haben wir damit zu tun?“</p>
+   <p>Der Herrscher freute sich, ließ die Kanonen abfeuern und sprach: "Auch meine mittlere Tochter hat Gott zur Frau erwählt."</p>
+   <p>Ale ritt davon und begab sich zu dem Priester, Er übergab ihm das rote Roß und die rote Kleidung und zäumte das weiße Roß, Am dritten Tag war die jüngste Tochter an der Reihe.</p>
+   <p>Ale saß auf und ritt hin, aber wie er ritt! Er zerstampfte das Land. Dort,wo der Ring hing, hatte man das Schießen begonnen. Das ganze Land war schon in Feuer gehüllt, aber der Ring hing immer noch dort. Sobald Ale erschien, fielen alle zu Boden: "Welcher Schrecken ist da gekommen?"</p>
+   <p>Ale rief: "Erlaubt ihr mir zu schießen?"</p>
+   <p>"Geh nur hin und versuche es, Bruder!" rief ihm jemand zu. Er zog den Revolver hervor und schoß. Der Ring fiel herab, er fing ihn auf und steckte ihn in seine Tasche. Seinen Brüdern zog er je dreimal eins mit der Peitsche über, daß ihnen der Rücken aufplatzte.</p>
+   <p>"So etwas! Die Töchter des Herrschers werden gefreit, und wir beide sind auserwählt, getötet zu werden? Was haben wir denn damit zu tun?" meinten die Brüder,</p>
+   <p>Ale wandte sich ab und ritt davon. So kam er zum dritten mal zu dem Priester und sagte: "Nimm das Roß und die Kleider.”</p>
+   <p>Der Priester meinte: "Mein Gott, ich habe ihn für einen jämmerlichen Kerl gehalten, er aber hält die Welt in Atem.”</p>
+   <p>Ale sagte zu dem Priester: "In fünfzehn Tagen werden meine Brüder kommen. Lade sie ein und frage sie, was sie erreicht haben. Sie werden dir sagen, was sich dort zugetragen hat. Dann frage sie nach mir: Ihr Brüder, <pb n="72"/> werdet ihr eurem jüngsten Bruder Ale seinen Anteil vom Erbe des Vaters geben?”</p>
+   <p>Die Brüder kehrten erschöpft nach Hause zurück. Ihr Rücken war von Ales Peitschenhieben aufgeplatzt. Ale sagte zu dem Priester: "Wenn sie sich an den Tisch setzen, will ich in der schwarzen Kleidung hereinkommen,dann in der roten und schließlich in der weißen. Wer ist das, Priester,werden sie dich fragen. Du aber sage nur: Seid still, das sind Heilige."</p>
+   <p>Als die Brüder kamen, lud der Priester sie ein, Sie setzten sich zu Tisch.</p>
+   <p>Der Priester fragte sie: "Was war los, was habt ihr erreicht?"</p>
+   <p>Die Brüder antworteten: "Laß uns in Ruhe, wenn du an Gott glaubst.</p>
+   <p>Frag uns nicht nach dem, was dort geschehen ist: Gottes Söhne haben sie zur Frau genommen.”</p>
+   <p>Jetzt fragte der Priester: "Brüder, bei Gott, wollt ihr Ale nicht seinen Teilvom Erbe des Vaters geben?"</p>
+   <p>"Ach, Priester, hast du denn, bei Gott, nichts anderes zu tun? Ale hat einen roten Filzmantel. Wenn der ihm zerfällt, kaufen wir ihm einen anderen.”</p>
+   <p>In diesem Augenblick trat Ale, in die schwarze Kleidung gehüllt, ein.</p>
+   <p>"Wer ist das, Priester?"</p>
+   <p>"Seid still, meine Söhne, dieser und noch zwei andere sind Heilige."</p>
+   <p>Da erzählten sie dem Priester: "Diese sind es, die die Töchter des Herrschers heiraten."</p>
+   <p>Ale zog die rote Kleidung an und ging wieder hinein.</p>
+   <p>"Priester, das war der, der die mittlere Tochter des Herrschers gewonnen hat."</p>
+   <p>Ale legte auch die weiße Kleidung an und trat zur hinteren Tür ein.</p>
+   <p>"Der hat die jüngste Tochter zur Frau gewonnen."</p>
+   <p>Dann kam Ale herein und stellte sich vor seine Brüder hin: "So ist das also: Ihr wollt mir einen roten Filzmantel kaufen?!"</p>
+   <p>Die Brüder erschraken. Sollte das Ale gewesen sein? Sie fielen vor ihmauf die Knie und baten ihn: "Bring uns nicht um, mein Lieber, Herr Ale,wir wollen dir auch die Füße baden."</p>
+   <p>Ale erwiderte: "Ich will euch nicht töten, aber ihr habt mich gewissen los behandelt. Deswegen habe ich jedem von euch sechs Hiebe mit der Peitsche versetzt. Steht jetzt auf und setzt euch auf eure Stühle.”</p>
+   <p>Ale zog den Ring der ältesten Tochter hervor und vermachte ihn dem ältesten Bruder, dann nahm er den Ring der mittleren und vermachte ihn dem mittleren Bruder.</p>
+   <p>"Jetzt setzt euch zu Pferde und reitet los. Von dort, wo die Ringe hingen,sind die Mädchen hier herzubringen."</p>
+   <p>Die Brüder sagten: "Weh uns, wenn diese Mädchen von dort hierhergebracht <pb n="73"/> werden und auf unseren Pferden sitzen müssen, kommen wir doch um!"</p>
+   <p>Ale entgegnete: "Nein, habt keine Angst."</p>
+   <p>Er brachte alle drei Rosse herbei, zäumte sie, band ihnen die Kleider andie Seite, hieß die Brüder hinter sich aufsitzen und nahm die anderen Rosse als Reserve mit. So erhob er sich in die Luft und stob davon. Fünf Meilen vom Anwesen des Herrschers ließ er sich zur Erde nieder und setzte seine Brüder hier ab. Er kleidete sich in die schwarze Tracht, setzte sich auf das schwarze Roß und ließ dem Herrscher übermitteln: "Setze mir die älteste Tochter auf den Balkon!"</p>
+   <p>Der Herrscher bereitete alles so vor und ließ ihm ausrichten: "Es ist alles fertig."</p>
+   <p>Da flog Ale auf seinem Roß heran. Das Mädchen saß im sechsten Stock.</p>
+   <p>Ale flog an ihr vorüber, ergriff sie, nahm sie mit und setzte sie bei seinen Brüdern ab. Dann zog er die roten Kleider an, setzte sich auf das rote Roßund ließ dem Herrscher ausrichten: "Halte mir das mittlere Mädchen bereit!"</p>
+   <p>Der Herrscher gab ihm Bescheid: "Sie ist bereit,"</p>
+   <p>Ale stob auf seinem Roß heran und entführte auch sie, Er setzte sie da ab, und dann schwang er sich auf das weiße Roß und teilte dem Herrscher mit: "Triff Vorbereitungen für die jüngste Tochter!"</p>
+   <p>Der Herrscher ließ ihm ausrichten: "Sie ist bereit."</p>
+   <p>Da flog Ale heran und nahm auch sie mit, Er setzte sie ab, und als erjetzt davonreiten wollte, übermittelte ihm der Herrscher: "Warte noch ein wenig, ich will dir etwas Mitgift mitgeben!"</p>
+   <p>Als Mitgift schickte ihm der Herrscher je dreihundert Mann.</p>
+   <p>Nun brachen sie auf. Sie mußten zu Fuß gehen und liefen bis zum Abend. Als die Nacht anbrach, errichteten die drei Brüder Zelte und ruhten darin. Die anderen Leute lagerten auf dem Feld. Als sie so ruhten,kam eine alte Frau, ging zu dem ältesten Bruder und sagte: "Wärme mich am Feuer." Der älteste Bruder sagte: "Nein, scher dich fort." Und er ließ sie nicht hinein. Da ging sie zu dem mittleren und sagte: "Wärme mich am Feuer." Auch der jagte sie fort. Die Frau wollte aber gar nichts bei den älteren Brüdern, sie wollte etwas von Ale. Sie ging zu ihm und sagte: "Was ist hier los, Bruder, dreihundert Leute bin ich abgelaufen, und keiner hat mich eingelassen. Bin ich denn eine Menschenfresserin?"</p>
+   <p>Ale sprach: "Komm her, du Arme, wer fürchtet sich denn vor dir." Under ließ sie ein. Als sie nachts schliefen, verwandelte sich die alte Frau in einen Riesen, entführte Ales Frau und lief davon. Ale träumte, daß jemand seine Frau fort brächte. Als er erwachte, waren weder seine Frau noch die Alte da. Er stand auf und rief: "Hait!" <pb n="74"/></p>
+   <p>Er weckte die Brüder, wandte sich nach links, setzte sich auf sein weißes Roß und sagte zu seinen Brüdern: "Gestern nacht hat man meine Frau entführt. Wartet fünfzehn Jahre auf mich. Wenn ich in dieser Zeit nicht nach Hause komme, sollt ihr nicht mehr auf mich warten. Dann sollen meine dreihundert Männer euch gehören."</p>
+   <p>Er brach auf und ritt davon. Er ritt heute, morgen, übermorgen. Wer weiß, wie viel er zurücklegte. Er gelangte zu einem Berg. Der sah nicht wie Fleisch aus, doch schließlich begriff er, daß er auf einer Menschenbrust ritt.</p>
+   <p>Als er die Brustwarze sah, sprang er von seinem Roß und biß sogleich in die Brustwarze hinein.</p>
+   <p>"Kind!” rief Rokapi, "wieso tust du mir das an?"</p>
+   <p>Ale sagte zu ihr: "Du sollst mir Mutter und ich will dein Sohn sein.”</p>
+   <p>Rokapi sprach: "Zwölf Kinder habe ich, zwischen Meer und Gebirgege hört ihnen alles. Ich schicke sie zu dir, doch wenn du ihnen folgst, kannst du nichts erreichen.”</p>
+   <p>Ale sagte wieder: "Du sollst mir Mutter und ich will dein Sohn sein."</p>
+   <p>Rokapi sagte: "Aus dem Land, wohin man deine Frau entführt hat, ist noch niemand lebend zurückgekehrt."</p>
+   <p>"Du sollst mir Mutter und ich will dein Sohn sein", sagte Ale wieder,</p>
+   <p>Rokapi sprach: "Du sollst mein Sohn und ich will deine Mutter sein."</p>
+   <p>Da gab Ale ihre Brust frei. Rokapi erhob sich und rief ihre zwölf Kinder herbei: "Kommt her!" Da kamen alle zwölf. Sie begrüßten Ale, und Rokapi sagte zu ihnen: "Dies ist euer dreizehnter Bruder. Er ist in Not, Kashamdii hat ihm die Frau geraubt, und er verfolgt ihn. Wenn ihr ihm helfen könnt, Kinder, so muß es sich jetzt hier erweisen."</p>
+   <p>Alle zwölf drehten sich nach links. Ale sprach zu ihnen: "Nein, Brüder,ich möchte eure gemeinschaftliche Hilfe nicht. Was ich machen will, mußich allein tun. Ich möchte euch hier als Brüder haben. Wenn ich in Not bin,sollt ihr mir helfen."</p>
+   <p>Er setzte sich auf sein Roß und trabte davon. Er ritt dahin, aber ohne Erfolg. Als er aufblickte, sah er an einem Ort im dritten Stockwerk ein Mädchen. Es saß an einer Nähmaschine und nähte einen Stoff. Als Ale hinkam, sprach sie: "Weh, Bruder Ale, was willst du denn hier?"</p>
+   <p>Ale fragte: "Wer bist du?"</p>
+   <p>"Ich bin deine Schwester. Als ich geboren wurde, hat mich sofort ein Riese verschleppt."” Und sie weinte. Da stieg Ale von seinem Roß und gingzu ihr hinein. Sie lief ihm entgegen, küßte ihn, umarmte ihn und weinte.</p>
+   <p>"Was ist denn, Schwester, warum weinst du?”</p>
+   <p>"Warum ich weine? Jetzt hat man deine Frau hier vorbeigebracht. Du. wirst dorthin reiten und dort umkommen. Deshalb weine ich. Von dort ist noch niemand lebend zurückgekehrt.” <pb n="75"/> </p>
+   <p>Ale sprach: "Fürchte dich nicht, bereite mir eine Mahlzeit und gib mir zu essen: Mit dieser Sache will ich dich nicht belästigen."</p>
+   <p>Ale aß und legte sich hin. Er schlief bis zum Abend, Da kam die Schwester und weckte ihn. Sie weinte.,</p>
+   <p>"Was ist denn, Mädchen, warum weinst du?"</p>
+   <p>"Ach, Bruder, es regnet und hagelt. Das ist mein Mann, er wird dich auffressen."</p>
+   <p>"Mach dir keine Sorgen, hab keine Angst, er kann mich nicht fressen.“Die Schwester bat Ale: "Geh in das Zimmer und bleib wenigstens da."</p>
+   <p>Der Riese kam herbei und polterte: "Was ist das, ein schmackhaftes Stück Bratenfleisch habe ich dazubekommen.”</p>
+   <p>Seine Frau sagte: "Ich will dir etwas sagen, was dich freuen wird."</p>
+   <p>"Was kannst du mir schon sagen", meinte ihr Mann. "Von meinen Schwägern ist keiner imstande hierherzukommen außer Ale, und Ale ist noch ein Kind,"</p>
+   <p>"Ale ist gekommen."</p>
+   <p>"Zeig ihn mir aus der Ferne, sonst fresse ich ihn versehentlich auf."</p>
+   <p>Da trat Ale zur Tür herein. Der Riese wollte ihn verschlingen, vermochte es aber nicht, Er sagte: "Setz dich her, Bruder.”</p>
+   <p>Der Riese erhob sich, rief sein halbes Reich zusammen, versammelte alle und sprach: "Begleitet Ale!” Doch Ale erwiderte: "Ich brauche deine Leute nicht, weder einen noch alle. Ich ziehe allein weiter. Was ich zu tun habe,muß ich allein machen, ich will keinen Helfer."</p>
+   <p>Die Schwester weinte. Ale aber sprang auf sein Roß.</p>
+   <p>"Warte, du unbelehrbarer Bruder", sagte die Schwester, "ich will dir noch ein Hündchen mitgeben. Dieses Hündchen wird vor dir herlaufen. Das Haus, in dem deine Frau sitzt, wird es von der Seite her ansehen. Heb das Hündchen hoch und steck es in das Ohr deines Rosses. Dort wird dich ein harter Kampf erwarten, und sie werden dich sicher töten, Dieses Hündchen wird herausspringen, hergelaufen kommen und uns benachrichtigen. Dann werden wir losziehen und dich unter den Toten suchen, dich mitnehmen und begraben.”</p>
+   <p>Der Bruder sagte zu seiner Schwester: "Gut, was kümmert mich das?"</p>
+   <p>Sie gab ihm das Hündchen. Er ließ es voran laufen. Es lief und lief, und das Roß folgte ihm. Lange waren sie unterwegs, schließlich sah es zu einem solchen Haus hin, daß Ale der Schreck durchfuhr. Er stieg von seinem Roß,hob das Hündchen empor und steckte es in das Ohr des Rosses, Das Roß warf Stahl aus seinem Ohr und begann zu grasen. Der junge Mann ging um das Haus herum, doch nirgends konnte er einen Eingang finden. Es war so hoch, daß kein Ende zu sehen war,. Da wurde er nachdenklich und setzte sich betrübt nieder, Das Roß sprach zuerst nichts zu ihm. Dann sagte es: <pb n="76"/> "Na, junger Mann.” Da freute er sich und antwortete plötzlich fröhlich: "Ja,mein Liebes?"</p>
+   <p>"Der Herr dieses Hauses hält sich zur Zeit in der Unterwelt auf. Geh zueinem Schmied, laß mir auf jeden Huf ein fünfundzwanzig Pud schweres Hufeisen schlagen. Wenn du mir die Sporen gibst, muß mir der Schmerz durch Mark und Bein gehen. Wenn du mich mit der Peitsche schlägst,müssen sich zwölf Lagen Fell ablösen. Dann schlagen wir eine Bresche in das Haus, und sein Besitzer gerät in Schrecken. Nichts anderes kann uns helfen.”</p>
+   <p>Sogleich rief Ale Schmiede herbei. Im Handumdrehen schlugen sie die Hufeisen an. Der junge Mann saß auf, schlug mit der Peitsche zu und gab dem Roß die Sporen, daß es aufschrie, nach vorn sprang und gegen das Haus zu schlagen begann. Alle vier Hufeisen nutzte es völlig ab und zerbrach die Mauer. Das Roß lief zur Seite, der junge Mann sprang zu dem Mädchen hinein.</p>
+   <p>"Ach, Bursche", sagte das Mädchen, "ich war verloren, warum richtest auch du dich zugrunde!"</p>
+   <p>"Nun, da ich dich gesehen habe, will ich gern sterben."</p>
+   <p>Sie legten sich zueinander und ruhten sich aus. Da kam der Herr des Hauses aus der Unterwelt empor. Als er das Haus eingeschlagen vorfand,rief er: "Gott bewahre mich davor, drei Monate lang im Himmel zu leben!"Und er stieg wieder hinab.</p>
+   <p>Es war Mitternacht. Außer diesem Riesen hatte noch ein arabischer Herrscher Interesse an diesem Mädchen. Dieser Araber umzingelte mit dem halben Heer seines Reiches dieses Haus,</p>
+   <p>Das Mädchen hatte einen Traum: "Weh mir, weh mir, Ale, mein Mann ist für drei Monate fortgegangen. Aber ein Araber hatte Interesse an mir.</p>
+   <p>Die Hälfte der Truppen seines Reiches hat jetzt unser Haus umstellt. Doch fürchte dich nicht. Hier hängt der Dolch meines Mannes, nimm ihn in die Hand, dann wird dich keine Kugel treffen. Und mit dem Dolch wirst du allen die Köpfe abschlagen bis auf acht Mann, die sollst du am Leben lassen, damit sie die Kunde überbringen können."</p>
+   <p>Der Tag brach an. Ale nahm den Dolch herab, packte ihn und öffnete die Tür. "Seid gegrüßt!" sagte er zu den Truppen. Sie antworteten ihm mit Kugeln. Da begann er ihnen die Köpfe abzuschlagen. Allen außer acht Mann hieb er die Köpfe ab. Den acht Männern sagte er: "Geht und überbringt dem Araber die Nachricht.”</p>
+   <p>Die acht Männer brachen auf und brachten ihm die Kunde. In der nächsten Nacht schickte der Araber die restliche Hälfte des Heeres, Die Truppen umstellten das Haus.</p>
+   <p>Nachts träumte das Mädchen wieder: "Weh mir, Ale, wieder hat die <pb n="77"/> Hälfte der Truppen seines Reiches uns umstellt. Aber mache es wieder so,wie du es getan hast. Laß acht Männer übrig, um dem Araber die Nachricht zu überbringen."</p>
+   <p>Als der Morgen dämmerte, öffnete Ale die Tür: "Seid gegrüßt!"</p>
+   <p>Sie schossen mit Kugeln auf ihn. Doch er ging daran, ihnen die Köpfe abzuschlagen. Er tötete alle bis auf acht Mann. Diesen acht Männern sagte er: "Geht und teilt es dem Araber mit!"</p>
+   <p>Die acht Männer zogen los und überbrachten ihm die Nachricht.</p>
+   <p>Ale war müde geworden und legte sich nieder. Nachts begann sich das Mädchen unruhig hin und herzuwerfen. "Was ist denn?" fragte Ale.</p>
+   <p>Das Mädchen sagte: "Bis jetzt sind wir noch nicht verloren!"</p>
+   <p>"Warum?” wunderte sich Ale,</p>
+   <p>"Weil diese acht Männer kommen und als neunter der Araber selbst.</p>
+   <p>Sobald du hinaustrittst, versuche, diese acht Männer zu erschlagen. Wenndu sie getötet hast, wird der Araber erschrecken und davonlaufen, Doch hüte dich, den Dolch gegen ihn zu schwingen, sonst stürzt du dich ins Verderben, denn der Dolch kann ihn nicht verletzen, Sobald du den Dolch gegen ihn hebst, wird er zerbrechen, und der Araber wird dich umbringen.”</p>
+   <p>Ale stieß die Tür auf, trat heraus und wollte gegen die acht Männer kämpfen, doch ständig sprang der Araber vor ihn hin. Nichts half dagegen.</p>
+   <p>Da verlor Ale die Beherrschung und zückte wütend den Dolch gegen den Araber. Der Dolch zerbrach, und ein Bruchstück trennte Ale das Ohr ab.</p>
+   <p>Da sprang das Hündchen aus dem Ohr des Rosses und lief zu Ales Schwester. Die Schwester begann zu schreien. Da strömten von dort Männer herbei, und das Hündchen führte sie, Sie gelangten dorthin, wo die vielen Leute erschlagen lagen. Das Hündchen suchte Ale heraus. Sie nahmen ihn mit nach Hause und bahrten ihn auf. Die Schwester schrie und klagte Tag und Nacht. Die Hälfte der Leute starb vor Trauer. Fünfzehn Tage lang lag der Leichnam schon da, aber er verweste nicht.</p>
+   <p>Gott sprach zu den Engeln: "Laßt den Leichnam verwesen, dann werden sie ihn begraben. Wenn nicht, dann macht ihn wieder lebendig."</p>
+   <p>Die Engel sprachen: "Wir wollen ihn wiederbeleben.”</p>
+   <p>Gott sprach: "Nehmt dieses Tuch und werft es auf den Balkon, auf demder Tote ruht."</p>
+   <p>Die Engel nahmen das Tuch und warfen es auf den Balkon.</p>
+   <p>Morgens stand die Schwester auf, und wie sie schreiend dahinlief, stieß sie auf das überaus schöne Tuch. "Mit diesem schönen Tuch will ich das</p>
+   <p>_ Blut meines Bruders abwischen", sprach sie. Als sie ihm damit über den Nacken strich, wurde er lebendig."</p>
+   <p>Was ist los, Bruder, du hast aber lange geschlafen!""Ach, meine Schwester, was soll ich dir sagen? Aber ich kann ihr jetzt <pb n="78"/> nicht helfen. Gib mir etwas zu essen.”</p>
+   <p>Die Schwester fürchtete, er könnte wieder dorthin gehen. Doch Ale nahm sich den Dolch seines Schwagers und hängte ihn sich um: "Leb wohl, Schwester, bald sehe ich dich wieder!" Und er zog davon.</p>
+   <p>Als er tot gewesen war, hatte er etwas geträumt, und mit diesen Gedanken lief er heute und morgen. Wie er so unterwegs war, kam ein Priester auf einem Maulesel daher. Der junge Mann begegnete ihm.</p>
+   <p>"Guten Tag, Priester!"</p>
+   <p>"Gott gebe dir Erfolg, mein Sohn", sagte der Priester.</p>
+   <p>"Wohin reitest du, Priester?"</p>
+   <p>"Wohin ich reite? Ins Ausland, mein Sohn."</p>
+   <p>"Wieso ziehst du ins Ausland?"</p>
+   <p>"Warum wohl. Da ist so ein verdammter Kerl gekommen, er heißt Ale.</p>
+   <p>In zwei Reichen hat er die Männer vernichtet, und ich suche jemanden, den ich in meinen Dienst stellen kann. Aber auch den Ale hat man umgebracht.”</p>
+   <p>Jetzt überlegte Ale: "Ich gehe mit dir, Priester, Laß mich nur keine Gänse und Schweine hüten, alles andere will ich verrichten.”</p>
+   <p>"Rinder habe ich zu hüten.”</p>
+   <p>"Gut, ich komme mit!”</p>
+   <p>Sie einigten sich, und Ale folgte ihm. Als er in das Haus des Priesters kam, sah er sich um. Der Priester hatte drei Töchter, die wunderschön waren. Jetzt zeigte ihm der Priester die Weide, aber es wuchs kein Gras darauf, Daneben lag eine Heuwiese: "Dort dürfen die Rinder nicht hingehen, denn dort ist ein Eber, und der bringt alle um."</p>
+   <p>Der Priester ging nach Hause. Der junge Mann hütete die Rinder. Er lief mit ihnen umher, und vom endlosen Laufen wurde er müde.</p>
+   <p>"Sollen die Kühe doch dort das Gras abfressen. Was kann mir der Eber schon anhaben, ich muß mich erproben.”</p>
+   <p>Die Rinder liefen auf die Heuwiese, fraßen sich mit Gras voll und legten sich nieder, Da sprang der Eber auf und kam auf ihn zu: "Was für ein Mensch bist du, daß du es gewagt hast, in meine Heuwiese einzudringen!”</p>
+   <p>"Ich bin ein armer Bauer."</p>
+   <p>"Nimm den Kampf mit mir auf!" rief der Eber.</p>
+   <p>"Bin schon bereit."</p>
+   <p>Sie packten sich und rangen lange, kämpften und wurden schließlich müde. Der Eber sprach zu ihm: "Wenn ich jetzt ein Büschel Ähren zerbeißen, mich im Schlamm wälzen und dich töten könnte, das wäre gut."</p>
+   <p>"O", meinte der Bursche, "könnte ich jetzt ein Gomidsh-Brot essen, einen. Krug Wein trinken, das Mädchen des Priesters küssen und dich töten, das wäre gut." <pb n="79"/></p>
+   <p>Schließlich trennten sie sich voneinander. Der junge Mann trieb die Rinder nach Hause. Der Priester begann zu schreien: "Wo hast du denn die Kühe gehabt? Die Milch paßt nirgends mehr hinein!”</p>
+   <p>"Priester, was bringt dich denn um den Verstand! Ich habe ihnen Efeu abgeschnitten", antwortete der Bursche.</p>
+   <p>Der Priester hatte Angst. Er wußte, was geschehen war, aber er sagte nichts. Der junge Mann legte sich schlafen. Als der Tag anbrach, trieb er die Kühe hinaus und trieb sie wieder dorthin. Wieder schlugen sie sich voll und legten sich dort nieder. Der Priester kam etwas eher hinzu und versteckte sich im Gebüsch. Er fürchtete sich: Was wäre, wenn er jetzt fortliefe und der Eber ihn erwischte? Oder was wäre, wenn er nicht fortliefe und der Eber ihn auffräße? Er wußte nicht, was er tun sollte.</p>
+   <p>Der Eber rief: "Bist du gekommen, Bursche?"</p>
+   <p>"Hier bin ich, komm her!" rief der junge Mann.</p>
+   <p>Wieder packten sie sich, kämpften lange miteinander, konnten einander aber nicht überwinden. Beide wurden müde, und der Eber sprach: "Wenn ich jetzt ein Büschel Ähren zerbeißen, mich im Schlamm wälzen und dich töten könnte, das wäre gut."</p>
+   <p>Der Bursche entgegnete: "Könnte ich jetzt ein Pfund Brot essen, einen Krug Wein trinken, das Mädchen des Priesters küssen und dich töten, das wäre gut."</p>
+   <p>"Dann leb wohl bis morgen.”</p>
+   <p>Der Priester hatte alles gehört. Sofort eilte er nach Hause. Vor Angst war er mehr tot als lebendig. Als er nach Hause kam, fragten sie ihn: "Was ist denn los?"</p>
+   <p>Aber der Priester sagte niemandem etwas. Er dachte: Wenn mir nur das Gras erhalten bleibt, so will ich gern mein Haus niederbrennen und alles tun.</p>
+   <p>Als der Bursche die Kühe heim trieb, fragte der Priester: "Wo hast du denn die Kühe gehabt, mein Sohn?"</p>
+   <p>"Was geht das dich an, Priester!" gab der Bursche zur Antwort.</p>
+   <p>Sie legten sich schlafen. Am Morgen, bevor der junge Mann aufstand,wählte der Priester eine Backofenfüllung Brot, einen Krug Wein und das beste Mädchen aus. Das Mädchen, den Wein und das Brot nahm er mit.</p>
+   <p>Mit dem Mädchen, dem Brot und dem Wein setzte er sich dort in das Dornengebüsch. Der junge Mann trieb die Rinder her. Er trieb sie auf die Heuwiese und legte sich dort in das Gras. Die Kühe fraßen sich voll und legten sich nieder. Da stürzte der Eber hervor und rief: "Komm her, Bursche!"</p>
+   <p>Der Bursche rief: "Hier bin ich!"Sie traten zum Kampf an und packten sich, Lange rangen sie miteinander,<pb n="80"/>  schließlich wurden beide müde. Der Eber sagte zu ihm: "Wenn ich jetzt ein Büschel Ähren zerbeißen, mich im Schlamm wälzen und dich töten könnte, das wäre gut.”</p>
+   <p>Der Bursche entgegnete: "Könnte ich jetzt einen Bissen Brot essen, ein Glas Wein trinken, das Mädchen des Priesters küssen und dich töten, das wäre gut!"</p>
+   <p>Sie trennten sich. Der Eber kehrte an seinen Ort zurück, und der junge Mann wandte sich um. Da kam der Priester hervor: "Da, mein Sohn, hast du Brot." Er drückte es ihm in die Hand, Der junge Mann aß es auf, und dann trank er einen Krug Wein.</p>
+   <p>"Hier, mein Sohn, ist mein Mädchen", sagte der Priester zu ihm. Der junge Mann wischte sich den Mund ab und küßte die Tochter des Priesters.“Geht jetzt und versteckt euch", sagte er zu ihnen. Der Priester und das Mädchen verbargen sich, und der Bursche rief den Eber: "Eber, komm zurück. Jetzt kann ich mit dir nicht mehr so zimperlich sein. Bringen wir es jetzt zu Ende, wer wen überwindet."</p>
+   <p>Der Eber erklärte: "Wir haben es doch auf morgen verschoben.”</p>
+   <p>Der Bursche sagte: "Dann gib deine Heuwiese auf.”</p>
+   <p>Da schämte sich der Eber. Wieder packten sie einander, Der Burschewar überlegen und warf ihn zu Boden. Er schlug ihm mit dem Dolch den Kopf ab und sagte zu dem Priester: "Geh nach Hause und hol den Ochsenkarren, damit wir das Fleisch aufladen können.”</p>
+   <p>Sogleich eilte der Priester nach Hause. Der junge Mann zog dem Eber das Fell ab und nahm die Eingeweide heraus. Dabei zog er eine goldene Tabaksdose mit heraus. Er öffnete sie. Darin saß eine Schwalbe. Im Bauch‚der Schwalbe saßen drei Fliegen Diese Schwalbe war das Augenlicht jenes Arabers. Die Fliegen waren seine Seele, Er riß der Schwalbe den Kopf ab,sperrte sie wieder in die Tabaksdose und steckte sie in die Tasche, Inzwischen war auch der Ochsenkarren gekommen. Sie luden das Fleisch auf und brachten es nach Hause. Als sie nach Hause kamen, stand ein Auto da:"Wir brauchen den Priester", riefen sie.</p>
+   <p>Der Priester fragte: "Wozu braucht ihr mich denn, mein Sohn?"</p>
+   <p>Sie antworteten: "Der und der Araber hat seine Seele noch, und nichts fehlt ihm. Wir möchten, daß du ihm das heilige Abendmahl gibst."</p>
+   <p>Als der Priester das Auto bestieg, sagte Ale: "Fahr nicht ohne mich fort.”Er setzte sich neben den Priester, und sie fuhren los. Als sie zum Haus des Arabers kamen, rief der dem Ale zu: "Du hast mir das Augenlicht genommen, als du die Schwalbe getötet hast. Aber töte nicht meine Seele, die du in der Hand hältst, die drei Fliegen. Nimm mir nicht meine Seele, und ich will dir wie ein Bruder sein.”</p>
+   <p>"O du Seelenverdammter! Ich habe meine Frau von einem Ungläubigen <pb n="81"/> befreit, und dann hast du sie mir genommen! Schließlich hast du mir noch den Kopf abgeschlagen! Und ich soll dich am Leben lassen?!" sprach Ale.</p>
+   <p>Er riß den Fliegen den Kopf ab, da starb der Araber. Jetzt nahm er seine Frau und fing sein Roß ein. Er kam zum Haus seiner Schwester, Die freute sich natürlich. Drei Monate lang feierten sie, nach drei Monaten nahm er seine Schwester und den Schwager mit. Sie kamen dorthin, wo er die zwölf Brüder gewonnen hatte. Drei Tage dauerte das Fest. Sie ritten weiter und gelangten nach Hause.</p>
+   <p>"Guten Tag, meine Brüder!" sagte Ale zu ihnen.</p>
+   <p>"Scher dich fort, du Elender", erwiderten die Brüder. "Seit unser Bruder verschollen ist, sind sechzehn Jahre vergangen.”</p>
+   <p>"Nein, Brüder”, sagte Ale, "ich bin euer Jüngster Bruder."</p>
+   <p>"Du bist nicht unser Bruder!"</p>
+   <p>"Ich bin also nicht euer Bruder?" sagte Ale.</p>
+   <p>Er stellte die Brüder hüben und drüben neben sich. Da lag ein hundert Pud schwerer Stein. Er hob ihn auf, nahm ihn in die Hand und bat Gott:"Wenn diese meine Brüder waren und mich nicht als Bruder anerkennen,dann will ich diesen Stein in die Höhe werfen. Spalte den Stein in der Mitte, töte diese an meiner Seite und laß mich am Leben. Bin aber ich der Lügner, so töte mich und laß diese am Leben."</p>
+   <p>Ale warf den Stein in die Höhe. Er spaltete sich in der Mitte, tötete die Brüder, und Ale blieb am Leben. Da rief Ale seine Angehörigen und richtete ein Fest. Drei Jahre dauerte das Gelage.</p>
+  </body>
+ </text>
+</TEI>

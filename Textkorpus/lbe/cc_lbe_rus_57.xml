@@ -1,0 +1,182 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">Шакалка</title>
+    <author>
+     <name xml:id="AO">
+      <persName>
+       <forename>Abdulla</forename>
+       <surname>Omarov</surname>
+      </persName>
+     </name>
+     <idno></idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">КАЗЙКУМУМУХСКІЯ (ЛАКСКІЯ) НАРОДНЫЯ СКАЗАНІЯ</title>
+      <author>
+       <persName ref="#AО">
+        <forename>Abdulla</forename>
+        <surname>Omarov</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">ССКГ; Сборник сведений о кавказских горцах</title>
+      <imprint>
+       <pubPlace>Тифлись</pubPlace>
+       <publisher>Кавказский отдел Императорского Русского географического общества</publisher>
+       <date when="1868">1868</date>
+      </imprint>
+      <biblScope unit="volume">1</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"></index>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_lbe_rus_57.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district></district>
+     <settlement></settlement>
+    </placeName>
+    <date notAfter="1868">1868</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district></district>
+       <settlement></settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AO">
+      <forename>Abdulla</forename>
+      <surname>Omarov</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName key="#AO">
+      <forename>Abdulla</forename>
+      <surname>Omarov</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change></change>
+    <change></change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_lbe_rus_57">
+  <body>
+   <head>Шакалка</head>
+   <p>Однажды лисица подружилась съ шакалкою. Обѣ подруги отправились въ путь искать счастья. На дорогѣ онѣ проголодались, и вдругъ нашли дохлую курицу. Лисица задумала, какъ-бы съѣсть курицу одной. "Давай, другъ мой, шакалка —говорить она — отдадимъ эту курицу тому изъ насъ, кто старше лѣтами; а то, если мы обѣ раздѣлимъ ее пополамъ, то ни тебѣ не будетъ поживы, ни мнѣ." — "Хорошо, отвѣчала шакалка, а скажи, сколько тебѣ лѣтъ?" Обрадовавшись согласию подруги, лисица сказала: "Я участвовала въ походахъ Ноя, и мнѣ было тогда не менѣе 15 лѣтъ." Въ это время шакалка зарыдала и произнесла печально: "Ахъ, зачѣмъ ты напомнила мнѣ забытое горе!" — Что съ тобой? спросила лисица. — "Какъ что? Вѣдь въ техъ походахъ, въ которыхъ ты участвовала, убили моего юнаго единственнаго сына."— "Ну, такъ ты старше меня...кушай курицу! "сказала лисица съ досадою. Шакалка съѣла курицу, и подруги отправились дальше. Шли онѣ вмѣстѣ, шли, ничего съѣдомаго не встрѣчая пo дорогѣ, какъ вотъ въ одномъ мѣстѣ нашли баранью голову. Лисица, голодная до изнеможения, начала опять придумывать, какъ бы ей одной съѣсть голову. "Послушан, другъ мой, сказала она шакалкѣ: намъ и эту голову нечего раздѣлять пополамъ; давай ляжемъ спать, и кому лучший сонъ привидится, тотъ пусть и голову съѣстъ!" —"Хорошо," сказала шакалка, и тотчасъ легла и захрапела, точно и въ самомъ дѣлѣ сонная, а когда лисица также легла и дѣйствительно заснула, она встала, съѣла голову и опять улеглась. Проснувшись въ одно время, пустились онѣ въ распросы. "Ты что, сестрица, видѣла во снѣ?" спросила шакалка. — "О, какой прекрасный сонъ! сказала лисица. Мнѣ снилось, будто у царя во дворцѣ свадьба, и на царской кухнѣ разный вкусный кушанья готовятъ. Я тоже пошла на кухню; никто не прогонялъ меня и я кушала тамъ такиѳ вкусные мяса, сыры, пловъ, о какихъ я никогда не мечтала. А ты что видѣла, сестрица?" спросила она у шакалки.— "Мнѣ снилось, что ты дѣйствительно отправилась на царскую свадьбу, и думая, что ты тамъ покушаешь досыта, я встала и съѣла баранью голову." Лисице ничего больше не оставалось, какъ разстаться съ подругой; голодная, пошла она съ досадою особой дорогой. <pb n="63"/>
+   </p>
+  </body>
+ </text>
+</TEI>

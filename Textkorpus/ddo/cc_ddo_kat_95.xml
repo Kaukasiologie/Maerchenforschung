@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="kat">ჯადოქარი და გოგონები</title>
+    <author>
+     <name xml:id="NA">
+      <persName>
+       <surname>Ardoteli</surname>
+       <forename>Nodar</forename>
+      </persName>
+      <idno type="orcid" corresp="https://orcid.org/0000-0003-3790-6896">0000-0003-3790-6896</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="bookSection">
+     <title xml:lang="eng">The Dido Lnguage. Descriptive analysis with texts</title>
+     <author ref="https://orcid.org/0000-0003-3790-6896">
+      <persName>
+       <forename>Nodar</forename>
+       <surname>Ardoteli</surname>
+      </persName>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>
+      <name ref="https://ice.ge/ofen/">Arn. Chikobava Institute of Linguistic</name>
+      <geogName>Tbilisi</geogName>
+     </publisher>
+     <distributor>
+      <persName corresp="https://orcid.org/0000-0003-3790-6896">
+       <surname>Ardoteli</surname>
+       <forename>Nodar</forename>
+      </persName>
+     </distributor>
+     <date when="2007"/>
+     <availability>
+      <p>
+       <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="kat">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a327 Die Kinder und der Unhold</item>
+      <item>a313 Magische Flucht</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_95.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district>Tsuntinskiy Rayon</district>
+     <settlement ref="https://www.geonames.org/482584/tlyatsuda.html">Tlyatsuda</settlement>
+    </placeName>
+    <date when="1986">1986</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Schachsanat</forename>
+      <surname>Hamsatov</surname>
+     </persName>
+     <age/>
+     <birth>
+      <date when="1936">1959</date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district>Tsuntinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/482584/tlyatsuda.html">Tlyatsuda</settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName corresp="https://orcid.org/0000-0003-3790-6896">
+      <surname>Ardoteli</surname>
+      <forename>Nodar</forename>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName ref="#NA">
+      <surname>Ardoteli</surname>
+      <forename>Nodar</forename>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_ddo_kat_95">
+  <body>
+   <head>ჯადოქარი და გოგონები</head>
+   <p> ყოფილა ერთი კაცი უხსოვარ დროს, მას ჰყოლია სამი ქალიშვილი. <cb n="1"/> ერთხელ მათ უკითხავთ („უთქვამთ") მისთვის: <cb n="2"/>
+   </p>
+   <p> „- ჩვენ ხენდროზე მივდივართო"... <cb n="3"/> მამას მიუგია: „- აბა, წადითო". <cb n="4"/>
+   </p>
+   <p> ქალიშვილები წასულან ხენდროზე და ვედროებიც წაუღიათ. <cb n="5"/> ისინი ტყეში გაჩერებულან და თამაში გაუმართავთ. <cb n="6"/> შეყოვნებულან რა, ამასობაში მზეც ჩაწვერილა. <cb n="7"/> მწუხრი ჩამომდგარა. <cb n="8"/>
+   </p>
+   <p> შემდეგ („იქიდან უკან") გოგონებს შორიახლო სჩვენებია ცეცხლი. <cb n="9"/> შემდეგ ისინი წასულან იქით. <cb n="10"/> აქ აღმოჩენილა იმ ჯადოქრის მოტაცებული გოგონა. <cb n="11"/> იმ გოგოს ასე უთქვამს: <cb n="12"/>
+   </p>
+   <p> „- თქვენ სად მოხვედით აქ!" <cb n="13"/>
+    <pb n="122"/>მეც ჯადოქრის („ჯადოქარმა") დაჭერილი ვარ, თქვენც დაგიჭერთო". <cb n="14"/> მერე გოგოებს უთქვამთ: „- მოდი, შენც ჩვენთან ერთად, გავიქეცითო". <cb n="15"/> გოგოს უთქვამს: „- არა, ვერ წამოვალ, მაინც არ გამომიშვებს ის". <cb n="16"/>
+   </p>
+   <p> შემდეგ გამოჩენილა ჯადოქარი, მათ დასდევნებია უკან, კინაღამ დაუჭერია. <cb n="17"/>  შემდეგ იმ გოგონებს უსროლია თხორი და უზარმაზარი მთა გაჩენილა. <cb n="18"/> ის ჯადოქარი მთის ძირას დარჩენილა, ის გოგონები წვერზე მოსულან. <cb n="19"/> კიდევაც გამოჰკიდებია ის ჯადოქარი უკან, ის-ის იყო, იჭერდა თურმე მათ. <cb n="20"/> ისევ უსროლია გოგონებს სავარცხელი: უღრანი ტყე გაჩენილა. <cb n="21"/> იმ ტყიდან გოგონებს გაუღწევია, ის ჯადოქარი იქ დარჩენილა. <cb n="22"/> ჯადოქარს თავისივე კბილი ამოუძვრია, ტყის ჩეხვა დაუწყია, უჩეხია რა, ტყეც გაუთავებია. <cb n="23"/> ის გამოჰკიდებიათ გოგონებს უკან. <cb n="24"/> შემდეგ იგი იმ გოგოებს ის-ის იყო იჭერდა თურმე. <cb n="25"/> დაჭერამდე ცოტა რომ დარჩენილა, ყველაზე უმცროსს უსროლია სარკე. <cb n="26"/>
+    <pb n="123"/>უსროლია რა ის სარკე, მათ შუაზე წარმოქმნილა ზღვა: აქეთა მხარეს _ გოგონები, იქითა მხარეს _ ჯადოქარი. <cb n="27"/> ჯადოქარს უთქვამს გოგოებისთვის: <cb n="28"/>
+   </p>
+   <p> „- თქვენ როგორ აღმოჩნდით მაგ მხარეს, მეც გადამიყვანეთ, თქვენი დედა ვიქნებიო". <cb n="29"/> შემდეგ გოგოებს უთქვამთ: „- რომ ვერ აწევ, (ისეთი) ქვა მოიბი ტანზე და მერე გადმოხტიო". <cb n="30"/> მართლაც მას ქვა მოუბია, გადმომხტარა, გაჩერებულა რა, შემდეგ დამხრჩვალა. <cb n="31"/>
+   </p>
+   <p> გოგონები კი შინ დაბრუნებულან და ბედნიერად ყოფილან. <cb n="32"/>
+   </p>
+   <p> დიდო-მიდო თხის კუდქვეშ, ვაცუნის ყურქვეშ. <cb n="33"/>
+   </p>
+  </body>
+ </text>
+</TEI>

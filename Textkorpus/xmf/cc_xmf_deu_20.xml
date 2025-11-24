@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">15. Der Herrschersohn Sanartia</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_20.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+  <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+    <date notAfter="1880-12-31">notAfter 1880.12.31</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName type="gnd" corresp="https://d-nb.info/gnd/173176518">173176518>
+      <forename>Alexandre</forename>
+      <surname>Zagareli</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_20">
+  <body>
+   <head>Der Herrschersohn Sanartia</head>
+   <p>Es war einmal ein Herrscher, Dieser Herrscher wurde alt, ohne einen Sohn zu haben. In hohem Alter gebar seine Frau einen Sohn. Sie gaben ihm den Namen Sanartia. Er wuchs heran und wurde ein sehr tüchtiger und kluger Bursche, der alles über die Lebewesen der Welt wußte. Aber erhörte nicht auf die Mutter, Deswegen begann seine Mutter ihn zu hassen,und sie sprach zu ihrem Mann, dem Herrscher: "Bring diesen Jungen weg und wirf ihn in das große, tiefe Meer, weil er nicht auf seine Mutter hört."</p>
+   <p>Der Vater wurde sehr traurig, aber er konnte sich den Worten seiner Frau nicht entziehen. Der Junge begriff, was Mutter und Vater berieten,aber er stellte sich nicht gegen den Beschluß seiner Eltern. Dann sagte der Vater zu ihm: "Laß uns in die Stadt gehen und sie uns ansehen."</p>
+   <p>Da bat der Bursche den Vater: "Vater, gib mir ein wenig Geld."</p>
+   <p>Der Vater gab ihm Geld, und sie gingen in die Stadt, um sie sich anzusehen. Als sie dort hinkamen, kaufte der junge Mann von dem Geld eine Axt, Messer, eine Nadel, Garn, Feuerstahl und Zunder. Sie kehrten von dort zurück, und als sie in die Nähe des Meeres kamen, riß der Bursche eine große Eiche aus dem Boden und nahm sie auf die Schulter. Als sie an die Meeresküste kamen, warf der Vater noch vor dem Sohn einen Blick in das Meer und sagte zu seinem Sohn: "Komm her und sieh, was für einen großen Fisch ich dir zeigen werde."</p>
+   <p>Als der Sohn hinging, um hineinzusehen, warf ihn der Vater samt dem Baum in das tiefe Wasser, und ein Fisch verschluckte ihn. Der Vater kehrte um und ging wieder nach Hause.</p>
+   <p>Der Bursche zündete im Meer, im Bauch des Fisches, ein Feuer an. Er <pb n="112"/> schnitt sich Fischrogen ab, briet ihn und aß. Von diesem Rogen lebte er dreißig Jahre lang im Bauch des Fisches. Dann, als das Holz, der Feuerstahl und der Zunder zur Neige gingen, zündete er ein sehr großes Feuer an. Als der Fisch heiß wurde, sprang er aus dem Wasser und fiel auf das Land. Der Bursche sagte: "Ich werde diesem Fisch den Bauch aufschneiden,und wenn ich sehe, daß er noch im Wasser ist, werde ich ihn wieder zunähen. Wenn er an Land liegt, werde ich ihn ganz aufschneiden und herauskommen.”</p>
+   <p>Er schnitt ein wenig auf, und als er sah, daß er an Land lag, schlitzte er ihn ganz auf und stieg aus dem Bauch des Fisches heraus, zündete auf dem Feld ein Feuer an, schnitt von dem Fisch Fleisch ab, briet und aß es.</p>
+   <p>Zu dieser Zeit kam ein Königssohn daher, der auf Brautschau war, und stieß auf den Sohn des Herrschers, der aus dem Bauch des Fisches gekommen war. Dieser Königssohn schickte einen Mann zu dem Burschen und ließ ihm übermitteln: "Gib mir den Weg frei.” Denn der saß am Strand, und der Reiter konnte an keiner anderen Stelle vorbeireiten. Aber der Bursche weigerte sich. Da kam der Königssohn näher und fragte den anderen Herrschersohn: "Wer bist du?" Der nannte ihm den Namen des Herrschers,dessen Sohn er war. Da lud der andere Sanartia ein: "Ich bin unterwegs,mir eine Frau zu suchen. Komm mit." Sanartia erklärte sich bereit und folgte ihm, wohin er wollte. | i</p>
+   <p>Als sie dort hin kamen, sandten sie einen Mann zu dem Gastgeber und ließen ihm ausrichten, er möge seine Tochter diesem Königssohn zur Frau geben. Der Gastgeber hörte ihn an und ließ als Antwort übermitteln:"Wenn er imstande ist, zwei Aufgaben zu erledigen, werde ich seinen Wunsch erfüllen. Aber diese Aufgaben sind sehr schwierig und gefährlich zu lösen. Die Königstochter wird einen großen Bleiblock so weit werfen,wie eine Gewehrkugel fliegen kann, und der Bräutigam muß ihn von dor taus zurückwerfen und ihn dort zu Boden schleudern, wo das Mädchen steht.”</p>
+   <p>Der Königssohn, der das Mädchen heiraten wollte, ließ ihm ausrichten:"Das mache ich schon." Er begab sich dorthin, wo das Mädchen es ihmzeigte, und blieb da stehen. Das Mädchen schleuderte den Bleiblock undwarf ihn dorthin, wo der junge Mann stand. Doch statt das Blei zurückzuwerfen, vermochte es der Bräutigam nicht einmal von der Erde aufzuheben.</p>
+   <p>Da nahm sein Gefährte Sanartia, der andere Königssohn, das Blei und warfes sogar noch weiter zurück.,</p>
+   <p>Da sie das eine erfüllt hatten, sollte er jetzt das zweite vollbringen: Man führte Sanartia anstelle des Bräutigams an einen unbewohnten Ort, wo sicheine große Burg befand, in der der Waldmensch Otscho Kotschi wohnte.</p>
+   <p>Man öffnete ihm die Tür der Burg, ließ ihn hinein, verschloß die Tür <pb n="113"/> wieder und sprach: "Dieser Otscho Kotschi wird den Burschen töten.” Injener Nacht blieb er dort, und als er sich zur Ruhe legen wollte, kam der Otscho Kotschi und wollte ihn töten, aber da Sanartia große Kraft besaß,packte er ihn, drehte ihn mit dem Kopf nach unten, stieß ihn auf den Boden und schlug ihn, solange er konnte. Als er ihn tüchtig verprügelt hatte, sagte er zu ihm: "Geh und stell dich als Wächter an die Tür!” Otscho Kotschi ging hin und stellte sich dort auf, bis der Morgen dämmerte.</p>
+   <p>Als der Tag anbrach, sandte der König, der Vater des Mädchens, seinen Wesir aus und sprach: "Bring in Erfahrung, was aus dem Königssohn und dem Otscho Kotschi geworden ist.”</p>
+   <p>Wie der Wesir zu der Tür ging, rief ihm Otscho Kotschi von drinnen zu:"Der Herr schläft. Wecke ihn nicht, sonst verprügelt er mich!" Der Wesirgab dem Otscho Kotschi keine Antwort. Er kehrte zurück und berichtete dem König, was der Otscho Kotschi ihm gesagt hatte.</p>
+   <p>Der König wunderte sich, kam selbst zu der Burg und befahl dem Otscho Kotschi: "Öffne mir die Tür!" Doch der Otscho Kotschi entgegnete:"Mein Herr wird mich umbringen." In diesem Augenblick erwachte Sanartiaund wies Otscho Kotschi an: "Offne ihm die Tür!" Sofort machte er ihm die Tür auf und ließ den König ein.</p>
+   <p>Dann kehrten der König und Sanartia wieder zurück. Der König wollteseine Tochter mit ihm verheiraten, doch Sanartia stahl sich davon, kleidete den befreundeten Königssohn in sein eigenes Gewand und schickte ihn an seiner Stelle hin. Als er zum König kam, vermählte man ihn auf der Stelle mit dem Mädchen. Dann begab sich Sanartia als sein Freund zu ihm. Sie wußten aber nicht, was Sanartia getan hatte, sonst hätte man dem anderen das Mädchen nicht gegeben. Doch von irgendwoher erfuhr ein Diener des Königs, daß Sanartia diese Aufgaben gelöst hatte, denn der Mann dieses Mädchens hätte das nie vollbringen können.</p>
+   <p>Eines Abends erzählte der Diener dem Mädchen, wie Sanartia sie überlistet und mit einem anderen Mann verheiratet hatte. Darüber geriet das Mädchen in Zorn und ging an jenem Abend, als sich Sanartia schlafenlegte, zu ihm hin und schnitt ihm ein Bein bis zum Knie ab. Doch Sanartia starb nicht an dieser Wunde. Er reiste in ein anderes Land und befreundete sich dort mit einem Mann, dessen Hand gelähmt war. Eine Zeitlang lebten sie dort in dessen Haus. Dann bauten sie gemeinsam ein gesondertes Haus und zogen dort ein. Sanartia brachte ein Mädchen her und stellte sie wie eine nahe Verwandte bei sich an.</p>
+   <p>Eines Tages gingen er und sein Gefährte auf die Jagd und blieben in jener Nacht im Wald. In ihrem Haus hielt sich nur das Mädchen auf, das er zu sich genommen hatte. Da kam ein Riese, trank aus der Brust des Mädchens und ging wieder fort. Als Sanartia und sein Gefährte nach Hause <pb n="114"/> kamen, berichtete das Mädchen, was vorgefallen war. Sanartia ließ seinen Gefährten und das Mädchen im Haus zurück und trug ihm auf: "Wenn der Riese kommt, dann fang ihn und führe ihn mir vor!" Der Riese kam, aber der Mann wagte es nicht, ihn festzuhalten, und der Riese lief wieder davon.</p>
+   <p>Kaum war Sanartia zurück, fragte er seinen Kameraden und das Mädchen:"Was habt ihr erreicht?”</p>
+   <p>Sie antworteten: "Der Riese ist gekommen, aber wir konnten ihn nicht festhalten, und er ist wieder davongegangen."</p>
+   <p>Am nächsten Tag wartete Sanartia zu Hause und schickte seinen Gefährten auf die Jagd. Der Riese kam auch in jener Nacht, aber sobald Sanartia seiner ansichtig wurde, lauerte er ihm an der Tür auf, ergriff ihn, als er eintreten wollte, warf ihn auf den Rücken und streckte ihn zu Boden. Erließ das Mädchen einen Strick herbeibringen und schnürte ihn fest zusammen. Dann zog er sein Schwert, um ihn in Stücke zu hauen, doch der Riese flehte ihn an: "Töte mich nicht, und ich will dich von deinem Leiden heilen.”</p>
+   <p>Sanartia erhörte das Flehen des Riesen und sprach: "Wenn du mir dieses abgetrennte Bein wieder wachsen 1äßt, lasse ich dich laufen, wenn nicht,werde ich dich umbringen.”</p>
+   <p>Der Riese versprach ihm, ihn zu heilen, führte ihn zu einem großen Flußund sprach: "Tauche dein Bein hinein, und es wird dir wieder ganz werden."</p>
+   <p>Aber Sanartia vertraute nicht nur auf die Worte des Riesen, Er ließ ihn einen dürren Stock herbeibringen und sagte zu ihm: "Tauche diesen Stock hinein, und wenn er frisch wird und Blätter treibt, dann will auch ich mein Bein hineinstecken, sonst nicht."</p>
+   <p>Natürlich steckte man den Stock in das Wasser, doch man zog ihn ebenso dürr wieder heraus. Da geriet Sanartia in Zorn und wollte den Riesen töten, doch der flehte ihn wieder an: "Ein anderer Fluß hat diese Heilwirkung."</p>
+   <p>Er führte ihn an einen anderen Fluß, und sobald Sanartia sein Bein dort hineingetaucht hatte, war es wieder geheilt und wurde noch besser als das andere Bein. Sanartia tötete den Riesen nun nicht mehr, sondern ließ ihn am Leben. Dann ließ er den Riesen auch seinen Gefährten, den Mann mit der gelähmten Hand, heilen und verheiratete diesen mit dem Mädchen. Erließ die beiden in dem Haus zurück und begab sich selbst zum Haus seines Vaters. Er kam dorthin, aber niemand erkannte ihn, und am nächsten Tag sprang er heimlich auf das Pferd seines Vaters und ritt dorthin, wo er dem Königssohn dessen Frau beschafft hatte.</p>
+   <p>Unterwegs erblickte er einen Schweinehirten. Als er näher kam, erkannte er, daß es sein ehemaliger Gefährte, der Königssohn, war, und als er ihn fragte, was geschehen wäre, sagte der Schweinehirt: "Sobald du fortgegangen<pb n="115"/>  warst, haben sie mich zum Schweinehirten gemacht."</p>
+   <p>Sanartia löste sein Schwert, gab es ihm und sprach: "Schlachte alle Schweine bis auf drei. Füge diesen drei Schweinen Wunden zu und treibe sie nach Hause. Dort werde ich dich erwarten, und wer dich schilt, den willich verprügeln.”</p>
+   <p>Der Schweinehirt tat alles so, wie Sanartia es ihm aufgetragen hatte, und trieb am Abend die drei Schweine in den Hof des Königs. Sanartia war vorihm in das Haus des Königs gekommen, aber niemand wußte, daß dies Sanartia war. Als der Bursche die Schweine in den Hof trieb, wollte seine Frau ihn schlagen: "Warum sind dir die Schweine abhanden gekommen?"</p>
+   <p>Da trat Sanartia hinzu, fuhr die junge Frau an und sprach: "Wenn du eine gute Frau gewesen wärest, hättest du deinen Mann nicht die Schweinehüten lassen."</p>
+   <p>Da merkten sie, daß dieser Mann Sanartia war. Sie wunderten sich sehr:"Er hatte doch das Bein bis zum Knie abgetrennt, wer hat ihm denn ein neues gegeben?!"</p>
+   <p>Sanartia zwang die Frau, ihren Mann, den Schweinehirten, herzuholen,ihn eigenhändig gründlich zu waschen und in prächtige Gewänder zu kleiden. Und als Sanartia wieder nach Hause ritt, wies er die Frau, ihre Mutter und ihren Vater an: "Wenn ihr den Königssohn nicht so behandelt, wie es ihm zusteht, komme ich sofort, und dann wird es euch übel ergehen.”</p>
+   <p>Er nahm Abschied von allen und kehrte nach Hause zurück.</p>
+  </body>
+ </text>
+</TEI>

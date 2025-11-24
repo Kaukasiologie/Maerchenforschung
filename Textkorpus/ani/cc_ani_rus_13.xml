@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">6. (Цыганъ и воръ были друзьями...)</title>
+    <author>
+     <name xml:id="AD">
+      <persName>
+       <forename>Adolf</forename>
+       <surname>Dirr</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">Краткий граматический очеркь Андийского языка ц текстаму, цборникомз андийских слобь</title>
+      <author>
+       <persName ref="#AD">
+        <forename>Adolf</forename>
+        <surname>Dirr</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+      <imprint>
+       <pubPlace>Tiflis</pubPlace>
+       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+       <date when="1906">1906</date>
+      </imprint>
+      <biblScope unit="volume">36</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ani_rus_13.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item>Warnung vor rassistischen Darstellungen oder kolonialen Klischees</item>
+      <item>Warnung vor der Idealisierung von Kriminalität</item>
+      <item>Warnung vor sozialer Diskriminierung</item>
+      <item>Warnung vor Schönheitsnormen und Körperidealen</item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+    </placeName>
+    <date notAfter="1906">1906</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename> </forename>
+      <surname> </surname>
+     </persName>
+     <age/>
+     <birth>
+      <date/>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district/>
+       <settlement/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AD">
+      <forename>Adolf</forename>
+      <surname>Dirr</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName key="#AD">
+      <forename>Adolf</forename>
+      <surname>Dirr</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_ani_rus_13">
+  <body>
+   <head>6.</head>
+   <p>Цыганъ и воръ были друзьями. Путешествовали они по разнымъ местамъ и гуляли. Въ одномъ месте цыганъ увиделъ очень красивую девушку и влюбился въ. нее страстно. Другъ егд увиделъ ту же самую красавицу и влюбился также въ нее. Когда оба они встретились дома, то сказали другъ другу: «Ей Богу‚ чтб за красавицу я виделъ!» Но они не знали, что оба, видезли одну и ту же самую двушку. </p>
+   <p>Разъ воръ встретилъ цытана у своей красавицы. «Го, го, цыганъ», сказалъ онъ: «что ты здесь делаешь?» — «Да она же моя возлюбленная».— «Неть, моя», возразилъ воръ. «Ну, что же намъ дълать? Эй, ты, девушка, скажи, кого ты любишь?» — «Ей Богу», сказала, она: «мне все равно! Я буду принадлежать тому, кто совершить самое великое дело!» — «Хорошо!» сказали цыганъ и воръ.</p>
+   <p>Они ушли и отправились на базаръ, чтобы исполнить желание любимой девушки. Цыганъ вынулъ изъ кармана у одного купща кошелекъ съ 99 червонщцами, положилъ въ него свое золотое кольцо и все обратно всунуль вь карманъ купца. Позволивъ кулцу удалиться немножко, онъ вдругъ бросился на него, схватилъ его и: сказалъ: «Ты укралъ мое золото! — «Неть, я ничего не бралъ!» ответилъ купецъ. «Укралъ!» утверждалъ опять цыганъ. Началась ссора; полицейске прибЪжали и повели въ участокъ цыгана и купца. Въ участке цыганъ объявилъ, что купецъ у него  кошелекъ: «99 червонцевъ и золотое кольцо были въ немъ», <pb n="92"/>сказалъ онъ. «Нетъ, я ничего не бралъ», сказалъ купецъ: «эти 99 червонцевъ мои собственные». Полицейскее искали въ кармане купца и.нашли тамъ действительно 99 червонцевъ и кольцо, которыя они и отняли у него и передали цыгану; купца же арестовали. Цыгана отпустили; онъ пошелъ домой къ. девушеке.</p>
+   <p>Вор вошёл. «Нет, я ничего не брал», сказал купец, «эти 99 червонцев мои собственные». Полицейские искали в карманах купца и нашли там действительно 99 червонцев и кольцо, которые они и отняли у него и передали цыгану; купца же арестовали. Цыгана отпустили; он пошёл домой к двушке.</p>
+   <p>Вор же прежде всего купил много ключей. В городе (селении), где он жил, был хан, который имел 7 комнат; одна приходилась внутри другой, и крепкие решетки защищали их. У первой двери (этих комнат) лежали храбрые собаки, у второй были ямщики, у третьей нукеры, у четвертой семейство хана, у пятой его визири, у шестой он сам, у седьмой гусь. Этого гуся именно вор хотел украсть. Ночью он отправился в путь, взяв с собой ключи и тесто, которое он смешал на водке. Прибыв к дому хана, он бросил это тесто собакам, которые, конечно, опьянели от него. Затем он открыл комнату ямщиков, которых он нашел спящими, как и нукеров, и семейство хана, и визирей. Потом он открыл комнату хана. Сам хан тоже спал; но около него сидел нукер, который чесал ему спину и жевал свою жвачку. Вор взял длинный волос и осторожно сунул его сбоку в рот нукера. Нукер все жевал, и когда волос прилип к жвачке, то вор вынул ее изо рта нукера, который тотчас же заснул. Потом вор зарезал гуся и сварил его там же; нукера он убил, повесил его труп на дворе на столбе и лег спать немного около самого хана. Затем он пошёл домой и рассказал все любимой девушке. «Вот, что я сделал», сказал он: «ну, кто из нас совершил самый большой подвиг?» — «Ей Богу, я подумаю немножко, и потом скажу!» ответила девушка.</p>
+   <p>Когда хан на следующий день увидел, что случилось, то собрал свой народ и сказал: «Люди, вот что случилось: моего гуся украли, нукера убили. Узнайте, кто это сделал!» — «Этого человека мы не знаем, хан», ответили люди: «и не можем знать, но если он сам признается, то прости его!» Вор признался, и хан простил его. «Я это сделал», сказал вор: «потому что мы с цыганом спорили из-за этой девицы, которая должна принадлежать более храброму из нас. Цыган так сделал (как выше было рассказано); я — так. Цыгана хан велел убить; девица вышла за вора, которого хан взял к себе».</p>
+  </body>
+ </text>
+</TEI>

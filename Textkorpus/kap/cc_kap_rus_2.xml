@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">три глухой</title>
+    <author>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref target="https://doi.org/10.25362/lazar.84d6478a-04c7-4685-9c77-d40089485d09">Audioquelle</ref>
+     <availability>
+      <p>
+       <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+      </p>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a1698 Schwerhörig Schwerhörigkeit</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_kap_rus_1.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
+     <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+     <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+     <settlement ref="https://www.geonames.org/824940/chant-lisq-ure.html">Chant’lisq’ure</settlement>
+    </placeName>
+    <date when="2023">2023</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Isa</forename>
+      <surname>Rmazanov</surname>
+     </persName>
+     <age/>
+     <birth>
+      <date when="1992">1992</date>
+      <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
+       <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+       <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+       <settlement ref="https://www.geonames.org/824940/chant-lisq-ure.html">Chant’lisq’ure</settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="gnd:1154734161">
+      <forename>Diana</forename>
+      <surname>Forker</surname>
+      <persName key="gnd:133557154">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </persName>
+    </person>
+    <person role="translator">
+     <name>
+      <persName key="gnd:1154734161">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_kap_rus_2">
+  <body>
+   <head>три глухой</head>
+   <p>были три глухой. у одного глухого были бараны. в поле кармил он свой бараны. пол день барашки спали (леглись), сам тоже лег. когда проснулся, потерялась барашка с сломаним рогой. потом он пошел потерявшуя барана искать.</p>
+   <p>он увидел тракториста, который похал землю. мой рога сломаный баран увидел ли ты? этот тракторист тоже оказался глухим. тракторист сказал: вот эту землю пахаю и вниз потом буду пахать. этот пастух думал, что он показывает место где его баран есть.</p>
+   <p>он там пошел и нашел свой баран. потом он пошел к трактористу и говорит: это мой баран с сломаним рогой даю тебе за помощи (за то что подсказал) этот тракторист говорит: я не ломал рогу. у них случилось спор.</p>
+   <p>пошли они свяшенику чтобы выявить кто прав. свяшеник тоже был глухим. у этого свшяшеника тоже дома было ссора и он тоже был на улице. чабан говорит: у меня потерялась баран. и этот тракторист помог найти. сейчас я ему даю баран со сломаним рогой, а он не берет. сейчас тракторист говорит: я землю пахал. пришел этот чабан и говорит, почему сломал рогу моей барашки. я не сломал рогу. сшяшеник говорит: таких как вы хоть 40 человек придет, я дома не буду примирится.</p>
+  </body>
+ </text>
+</TEI>

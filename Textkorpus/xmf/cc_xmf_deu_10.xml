@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">5. Der Herrscher Tschaismeni und sein Sohn Dshimscher</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_10.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
+      <forename>Iosif Alekseevich</forename>
+      <surname>Kipshidze</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_10">
+  <body>
+   <head>Der Herrscher Tschaismeni und sein Sohn Dshimscher</head>
+   <p>In einem Land lebte ein verheirateter Herrscher namens Tschaismeni. Die Frau und ihr Mann wurden alt, und sie hatten kein Kind. Da Tschaismeni sehr reich war, dachte er: Wem wird mein Besitz zufallen? Die Frau  und der Mann waren so betrübt, daß sie nur selten lachten.</p>
+   <p>Einmal kam in Tschaismenis Schloß der Herrscher eines fremden Landes zu Besuch, und als er den Herrscher und dessen Frau voller Kummer fand, fragte er Tschaismeni:; "Wie kommt es, daß ihr so betrübt seid?" </p>
+   <p>Tschaismeni sprach: "Worüber sollten wir uns freuen, wenn wir alt werden und kein Kind bekommen haben. Ich weiß nicht, wem unser Besitz nach uns zufallen wird."</p>
+   <p>Der Gast überlegte eine Weile und sagte: "Noch bevor ein Jahr vergangen ist, werdet ihr einen Sohn bekommen, aber..."</p>
+   <p>"Warum hast du deinen Worten ein Aber folgen lassen, erkläre mir das”, drängte Tschaismeni den Gast.<pb n="23"/></p>
+   <p>Der sprach: "Noch vor Jahresfrist wird euch ein Sohn geboren, gebt ihm den Namen Dshimscher. Dieser Junge wird unter einem solchen Stern geboren sein, daß er auf der Stelle seine Seele aushaucht, wenn du ihm ein Ei zeigst. Und wenn er das Wort "Ei" hört, so ist es sein Schicksal, daß er fragt: "Was ist das: ein Ei? Das muß ich in Erfahrung bringen." Und darüber wird er umkommen. Aber habe ich deswegen gesagt, weil es euch schwer fallen wird, ihn am Leben zu behalten." </p>
+   <p>Als der Herrscher und seine Frau das vernahmen, freuten sie sich doch sehr und gaben dem Gast zu verstehen, daß sie ihren Besitz ihrem Sohn zum Nutzen übergeben und nicht verlorengehen lassen wollten. Dann verabschiedeten sie den Gast in Ehren. </p>
+   <p>Noch bevor ein Jahr zu Ende ging, gebar Tschaismenis Frau einen Jungen. Wie der Junge heute ist, so ist er morgen besser und übermorgen noch besser, und im ganzen Reich verbreitete sich die Nachricht, dem Herrscher Tschaismeni sei ein märchenhafter Sohn geboren. Wer herbeikommen konnte, beglückwünschte ihn zu diesem Kind. Ohne daß es jemand gesagt hätte, nannten alle, die kamen, das neugeborene Kind Dshimscher. Das wunderte den Herrscher und seine Frau. Tschaismeni ordnete an, daß niemand Dshimscher ein Ei zeigen oder dessen Namen bekanntgeben durfte, Der Herrscher und seine Frau lebten in großer Freude. </p>
+   <p>Einmal ritt Tschaismeni zur Jagd aus, und hinter ihm spielte Dshimscher mit dem Sohn des Wesirs Ball. Als sie einmal den Ball warfen, übertraf der Sohn des Wesirs Dshimscher. Sie warfen ein zweites Mal, und wieder war der Sohn des Wesirs überlegen. Dshimscher geriet in Zorn, er wurde blau im Gesicht und wußte nicht, was er machen sollte. </p>
+   <p>Der Sohn des Wesirs sagte zu ihm: "Junge, reg dich nicht so auf, sonst zerspringst du wie ein Ei." </p>
+   <p>Dshimscher fragte den Sohn des Wesirs: "Was heißt das, Junge: ein Ei?" Die Wesire, die dem Spiel zusahen, hörten das und sagten: "Wir sind verloren!"</p>
+   <p>Sofort trennten sie den Sohn des Wesirs von Dshimscher. Dshimscher geriet in Raserei: "Zeigt mir, was man ein Ei nennt!" </p>
+   <p>Doch hätte man ihm ein Ei gezeigt, wäre er gestorben. So aber geriet er völlig außer sich, man konnte ihn nicht mehr halten, und er wollte in die Ferne ziehen. Die Wesire und Dshimschers Mutter zogen es seinem Tod vor, ihn ziehen zu lassen. Sie gaben ihm das beste Pferd und legten ihm den Sattel auf. Dshimscher sprang auf das Pferd, schlug es mit der Peitsche und jagte über einen Berg hinweg. Er überquerte den zweiten Berg und einen dritten. Er wurde müde, sprang vom Pferd und legte sich auf eine Wiese. Dshimschers Pferd war so erzogen, daß es die Wünsche erfüllte. Der Tag war schön. Als Dshimscher etwas einschlummerte, blitzte es. "Was ist <pb n="24"/> das, das da blitzt? Das muß ich erfahren." Er sprang wieder auf sein Pferd und überquerte einen Berg, einen zweiten und einen dritten Berg. Er wurde müde, sprang ab und legte sich auf den Rasen. Da blitzte es, Der Tag war schön. "Was ist das, das so blitzt", wunderte sich Dshimscher. Als er sich umblickte, sah er einen Mönch, der zur Quelle ging, um Wasser zu holen. Dshimscher fragte den Mönch: "Wie kommt das, daß keine Wolke am Himmel hängt und es blitzt?" </p>
+   <p>Der Mönch sprach: "Mein Sohn, von dir ganz abgesehen, wer es erfahren hat, wünschte sich, es nicht erfahren zu haben.”</p>
+   <p>Dshimscher gab nicht nach: "Du mußt es mir trotzdem unbedingt sagen.”  </p>
+   <p>Schließlich verriet der Mönch Dshimscher: "An dem und dem Ort ist ein Mädchen. Sie sitzt oben in ihrem Haus, und wenn sie mit der Hand aus dem Fenster winkt, dann leuchtet es auf, und das ist der Blitz. Die jungen Männer, die zu ihr reisen, um sie als Frau zu gewinnen, müssen erraten, was ihnen das Mädchen sagt. Wer das Rätsel löst, dessen Frau wird sie. Wer es nicht löst, dem muß sie den Kopf abschlagen. Auf allen Pfählen, die im Hof stehen, außer dreien ist auf jedem der Kopf eines Mannes aufgespießt.” </p>
+   <p>Dshimscher sagte sich: "Dieses Mädchen muß ich heiraten." Er verabschiedete sich von dem Mönch, sprang auf sein Pferd und ritt über einen Berg hinüber, er ritt über den zweiten hinweg und über einen dritten. So war er zwölf Jahre lang unterwegs und wurde stattlich groß. Als er sich umblickte, sah er, daß da ein großes Haus stand. Er gelangte bis hin, doch der Hof war so vom Licht des Mädchens erstrahlt, daß er die Augen nicht zu öffnen vermochte. Endlich betrat er das Haus. Das Mädchen empfing ihn, doch er konnte sie nicht ansehen, denn sie leuchtete wie die Sonne. </p>
+   <p>"Weshalb bist du hergekommen, junger Mann?" fragte ihn das Mädchen. Dshimscher sprach: "Man rühmt dich über alle Maßen, und ich bin gekommen, um dich zu heiraten." </p>
+   <p>Das Mädchen verliebte sich in Dshimscher und sagte: "Du tust mir überaus leid, aber was soll ich tun? Von meinem Vater und meiner Mutter ist mir aufgetragen, und auch ich habe es geschworen, daß ich dessen Frau werde, der mir errät: "Was ist die Rose des Herzens und der Kummer des Herzens?" Wer mir das nicht erraten kann, dem muß ich den Kopf abschlagen. Du siehst selbst, außer drei Pfählen habe ich den Hof voller Männerköpfe stecken. Aber weil ich mich so in dich verliebt habe, will ich dir ein Jahr Zeit geben, dich zu erkundigen und zu überlegen. Hast du es bis zum Jahresende nicht herausgefunden, so werde ich dessen Frau, dem es gelingt, es zu erraten. Ein ganzes Jahr will ich auf dich warten." </p>
+   <p>"Gut", meinte Dshimscher und dachte: "Wenn ich es nicht erraten kann, komme ich überhaupt nicht wieder her." <pb n="25"/></p>
+   <p>Er verabschiedete sich von dem Mädchen und zog davon. Er ritt und ritt, ein halbes Jahr zog er dahin und gelangte in ein fremdes Reich, Unterwegs dachte er immerzu: "Was ist die Rose des Herzens und der Kummer des Herzens?" Aber er konnte nichts begreifen. Als er sich schließlich umblickte, sah er, daß sich am Hoftor eines Herrschers eine Unmasse Leute zusammengefunden hatte. Das Tor stand offen. Der Herrscher schlug sich mit den Händen an die Stirn und weinte, und alle Leute bedauerten ihn von draußen. Man schmauste und zechte wie bei einem Fest, und es war nicht zu erkennen, warum sie weinten. </p>
+   <p>Als der junge Mann fragte, bekam er zur Antwort: "Es ist nicht gestattet, dort hineinzugehen, und wir weinen, Ohne zu wissen, warum, Der Herrscher will nicht preisgeben, was ihm widerfahren ist, und wer es erfährt, den tötet er auf der Stelle.” </p>
+   <p>Dshimscher spornte sein Pferd an und ritt in den Hof des Herrschers hinein. Der Herrscher sprach kein Wort zu ihm. Am Abend schloß er plötzlich das Hoftor. Dshimscher trat in das Haus und sah, daß oben der Kopf eines zwölfköpfigen Riesen hing, an der Tür lag ein weißer Windhund, und darüber saß ein Sperber, der den Kopf des Riesen anblickte, ohne mit den Wimpern zu zucken. Dshimscher wunderte sich sehr.  </p>
+   <p>Als der Herrscher hereinkam, fragte er Dshimscher: "Warum bist du hierhergekommen?"  </p>
+   <p>Dshimscher erzählte es ihm und sagte: "Was ist die Rose des Herzens und der Kummer des Herzens? Das herauszufinden, durchstreife ich die Welt.” </p>
+   <p>Der Herrscher sprach: "Mein Sohn, du siehst doch die vielen Leute hier stehen. Sie hatten keine Erlaubnis hereinzukommen. Aber sie kommen, um zu erfahren, welches Leid mich bedrückt. Die Rose des Herzens und der Kummer des Herzens sind hier. Wer es vorzieht, dies vor seinem Tod zu erfahren, dem erkläre ich es, und dann töte ich ihn augenblicklich, denn ich will nicht, daß diese Geschichte bekannt wird. Wer das Leben dem Tod vorzieht, bleibt hier bis nächstes Jahr um diese Zeit; am Tag des Herrn wird großes Wehklagen sein, und wenn ich das Tor öffne, kannst du dort hinausgehen. Wofür entscheidest du dich, mein Sohn?"</p>
+   <p>Dshimscher antwortete: "Ich will es erfahren und dann sterben,"  </p>
+   <p>"Gut”, sprach der Herrscher, "ich hole die Waffe, um dir den Kopf abzuschlagen.” Und er ging hinaus. </p>
+   <p>Da sagte das Pferd zu Dshimscher: "Fürchte dich nicht. Wenn du geschickt bist, so will ich über den Hof traben. Wenn du dich auf mich schwingst, mußt du mich so mit der Peitsche schlagen, daß du mir eine Schicht Fell auf der einen Seite abreißt und eine andere Schicht Fell auf der anderen Seite."<pb n="26"/> </p>
+   <p>Inzwischen kam der Herrscher zurück und stellte die Waffe bereit. Dann begann er zu erzählen: "Ich war ein sehr reicher Herrscher. Ich heiratete ein Mädchen, das so schön war, daß man es wie die Sonne nicht anzublikken vermochte. Ich hielt sie noch besser als die wunderschönste Frau., Wir lebten glücklich, und besaß ich da etwa nicht die Rose des Herzens? Meine Frau verliebte sich in einen zwölfköpfigen Riesen und schlief mit ihm. Das erfuhr meine schöne Schwester und sagte es mir. Ich fing den Riesen, schlug ihm den Kopf ab, und du siehst doch, daß er da hängt. Meine Frau bekam heraus, daß meine Schwester mir das verraten hatte, verfluchte sie und verwandelte sie in einen weißen Windhund. Siehst du, da liegt er. Da habe auch ich meine Frau nicht ganz getötet. Ich habe sie verflucht und in einen Sperber verwandelt. Sobald sie sich in den Sperber verwandelt hatte, flog sie empor, sie liebt den Riesen aber so sehr, daß sie den Blick nicht von ihm wenden kann. Ist das denn nicht der Kummer meines Herzens? Seither lade ich jedes Jahr an einem Tag des Herrn meine Leute ein, Vom Morgen bis zum Abend habe ich das Tor geöffnet, ich weine, und sie bedauern mich. Weil ich nicht will, daß bekannt wird, daß mir so etwas widerfahren ist, töte ich jeden, dem ich diese Geschichte erzähle." </p>
+   <p>Der Herrscher beendete seine Erzählung und wollte Dshimscher nun den Kopf abschlagen. Dshimscher aber sprang blitzschnell auf sein Pferd, schlug es hüben und drüben mit der Peitsche und riß ihm auf beiden Seiten je eine Schicht Fell ab. Da sprang das Pferd empor und setzte über die im Hof stehende riesige Burg hinweg. Der Herrscher war todunglücklich, aber was hätte er tun sollen? </p>
+   <p>Dshimscher spornte sein Pferd an. Er ritt und ritt und gelangte zum Haus des Mädchens. Das Mädchen hatte alle Pfähle im Hof mit Männerköpfen besteckt. Und als sie Dshimscher fragte, erklärte er ihr, was die Rose des Herzens und der Kummer des Herzens war. Das Mädchen freute sich und nahm ihn zum Mann. Als sie so eine zeitlang lebten, fragte Dshimscher: "Was ist dir lieber, willst du, daß wir hierbleiben, oder willst du mit mir kommen?" </p>
+   <p>"Ich ziehe mit dir dorthin", sagte das Mädchen. </p>
+   <p>Sie bereiteten alles für die Abreise vor. Alles, was im Himmel und auf Erden gut und schön war, packte das Mädchen auf den Wagen, und sie fuhren los. Sie fuhren und fuhren und überquerten neun Berge., Sie gelangten zu Tschaismenis Schloß. Tschaismeni und seine Frau saßen, seit Dshimscher verschollen war, in schwarzer Trauerkleidung da. Alle Wesire hatten sie ausgewiesen. Als sie einmal aufblickten, sahen sie ein Mädchen und einen jungen Mann kommen, aber sie erkannten ihn nicht. Dshimscher und seine Frau gingen in das Schloß hinauf und setzten sich. Dshimscher fragte seine Mutter: "Warum seid Ihr so betrübt, meine Dame?"<pb n="27"/> </p>
+   <p>Da sagte Tschaismenis Frau zu ihrem Mann: "Die Stimme dieses jungen Mannes erinnert mich an die von Dshimscher, Vermachen wir ihm unseren Besitz.” </p>
+   <p>Da konnte sich Dshimscher nicht mehr beherrschen und erklärte: "Ich bin euer Sohn." </p>
+   <p>Tschaismeni und seine Frau waren starr vor übermäßiger Freude, und als sie sich gefaßt hatten, küßten und umarmten sie Dshimscher und dessen Frau, Dshimscher erzählte seiner Mutter und seinem Vater seine Erlebnisse, Man veranstaltete ein großes Freudenfest. Sie ließen die Wesire wieder zurückkommen, und dann lebten Tschaismeni und seine Frau glücklich mit ihrem Sohn und ihrer Schwiegertochter zusammen.  </p>
+   <p>Drei Äpfel, drei Granatäpfel, Gott wehre euch nicht, was ihr eigenhändig eingebracht habt.</p>
+  </body>
+ </text>
+</TEI>

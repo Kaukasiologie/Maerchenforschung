@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">V. Двенадцать сыновей</title>
+    <author>
+     <name xml:id="AB">
+      <persName>
+       <forename>Aleksei</forename>
+       <surname>Barsov</surname>
+      </persName>
+     </name>
+     <idno></idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">Дагестанския Сказки</title>
+      <author>
+       <persName ref="#AD">
+        <forename>Aleksei</forename>
+        <surname>Barsov</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+      <imprint>
+       <pubPlace>Tiflis</pubPlace>
+       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+       <date when="1881">1881</date>
+      </imprint>
+      <biblScope unit="volume">2</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"></index>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_kum_rus_46.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district>Buinaksk</district>
+     <settlement ref="https://www.geonames.org/484334/tarki.html">Tarki</settlement>
+    </placeName>
+    <date notAfter="1882">1882</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district></district>
+       <settlement ref="https://www.geonames.org/484334/tarki.html">Tarki</settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AB">
+      <forename>Nureddin</forename>
+      <surname>Schamchalov</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change></change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_kum_rus_46">
+  <body>
+   <head>V. Двенадцать сыновей</head>
+   <p>Жилъ старикъ въ одномъ ауле; у него было 12 сыновей; когда они выросли, то пришли къ отцу, говоря, что имъ пора жениться, и просили найти нмъ невестъ, которыя были-бы дочерьми одного отца. Отецъ приготовился въ дальний путь: сшилъ себе сапоги безъ подошвъ, черкеску безъ рукавовъ; взялъ на закуску баранью ляшку, и отправился въ путь. Шелъ онъ такъ: шагъ впередъ, два назадъ, и дошелъ до широкой поляны, где открылась передъ нимъ избушка; онъ вошелъ въ нее, и увидевъ тамъ Карть (Баба-яга) за прядениемъ шерсти, сказалъ ей: "Здравствуй, бабушка!" —"Зхравствуй! Откуда явился человеческий духъ?" сказала Баба-яга. Старикъ разсказалъ, какъ онъ приехалъ сюда, и какъ сыновья просили его приискать имъ невесть, дочерей одной матери и одного отца. —"Хорошо, посылай ихъ ко мнеъ, я дамъ имъ по невесте, такъ какъ у меня 12 <pb n="133"/> дочерей," сказала Баба-яга. Старикъ отправился домой; приехавши, онъ велелъ сыновьямъ приготовиться. Черезъ несколько дней братья отправились за невестеми. Когда они приехали къ Бабе-яге, она ихъ накормила, напоила и уложила спать. Ночью старший братъ, Байбуракъ, сказалъ младшимъ, чтобы они не спали; они послушались его. Въ полночь Байбуракъ услыхалъ, какъ Баба-яга точила ножъ. Наточивши ножъ, она пришла къ братьямъ и спрашиваеть: "Кто спитъ, а кто не спитъ?" — "Я не сплю," говоритъ Байбуракъ.— "Почему же ты не спишь?" —"Потому что ваши коровы кричатъ." Баба-яга пошла и зарезала всехъ коровъ; потомъ пришла и опять говоритъ: "Кто спитъ и кто не спитъ?" Отвечаетъ Байбуракъ: "Я не сплю." —"Почему же ты не спишь?" — "Потому что ваши куры не даютъ мне спать." Баба-яга перерезала всехъ куръ.
+</p>
+   <p>Въ то время, когда она ходила съ одной дочерью резать куръ, Байбуракъ положнлъ одиннадцать дочерей на те места, где спали его братья, а братья спрятались за дверь. Третий разъ приходить Баба-яга и говоритъ: "Кто спить, и кто не спить?" Байбуракъ ничего не отвечалъ. Тогда Баба-яга зарезала всехъ своихъ дочерей, принявъ ихъ за братьевъ Байбурака. Утромъ Баба-яга вышла въ поле жать, а оставшейся дочери велела изжарить и принести ей голову старшаго брата, ногу младшаго и руку средняго. Между темъ Байбуракъ отвелъ братьевъ за гору, а самъ наделъ платье дочери Бабы-яги, пришелъ къ ней и говоритъ: "Иди, закуси, а я буду жать." Какъ только Баба-яга ушла, Байбуракъ кинулся къ братьямъ и все они побежали вместе. Между темъ Баба-яга, увидевъ своихъ дочерей убытими, бросилась въ погоню за братьями. Когда Байбуракъ увиделъ, что Баба-яга догонаетъ ихъ, то началъ просить Бога, чтобы Онъ сделалъ лесъ передъ нею. Лесъ тотчась же явился. Баба-яга начала грызть его зубами, прогрызла <pb n="134"/> дорожку и опять погналась. Стала она уже догонять братьевъ; тогда Байбуракъ началъ молиться Богу, чтобы позади ихъ явилось море. Море явилось, и Баба-яга не могла его перейти. Тогда братья спокойно пошли домой. После этого случая братья возненавидели Байбурака за то, что онъ отличался отъ нихъ. Они пошли къ хану и сказали, что у Бабы-яги есть одеяло, которымъ могутъ укрыться три тысячи человекъ. Ханъ и спрашиваетъ: "А кто можетъ достать это одеяло?" — "Нашъ братъ Байбуракъ." — "Ну, скажите, чтобы онъ досталъ и принесъ его ко мне." Братья пошли и передали брату, что сказалъ ханъ. Байбуракъ отправился въ путь; прийда къ дому Бабы-яги, онъ досталъ длинную палку, въ конецъ которой вбилъ иголку; вечеромъ влезъ Байбуракъ на крышу, пробылъ дыру надъ постелью Бабы-яги и сталъ дожидаться, когда она ляжетъ спать. Когда Баба-яга легла, онъ просунулъ палку въ отверстие крыши и сталъ колоть Бабу-ягу иголкой. Она думала, что ее кусаютъ блохи, и выкинула одеяло на крышу. Конечно, Байбуракъ былъ очень доволенъ этимъ, схватилъ одеяло и пустился бежать. Между темъ Бабе-яге пришло въ голову, не взялъ ли Байбуракъ ея одеяло, и вышла она посмотреть на крышу; оттуда она увидала, что Байбуракъ былъ уже далеко съ одеяломъ. Она тотчась села на арбу безъ колесъ и пустилась въ погоню. Лишь только начала она догонять, Байбуракъ сталъ просить Бога, чтобы сзади него сделался иголочный лесъ. Она проехала этотъ лесъ и пустилася далыше; Какъ только стала она догонять, Байбуракъ началъ молиться Богу, чтобы передъ нею явилось море; едва успелъ онъ помолиться, какъ образовалось большое море, и Баба-яга воротилась домой. Байбуракъ отдохнулъ и понесъ одеяло хану. Братья еще болыше возненавидели Байбурака и хотели какъ-нибудь извести его. Вотъ пошли они къ хану и говорятъ, что у <pb n="135"/> Бабы-яги есть гусь, который можетъ предсказывать будущее. Ханъ спрашиваеть: "Кто же можетъ достать гуся?" — "Нашъ Байбуракъ," отвечаютъ братья. Ханъ призвалъ къ себе Байбурака и спрашиваетъ, можеть ли онъ достать гуся, который предсказываетъ будущее. -"Могу," отвечалъ тотъ и отправился, по приказанию хана, къ Бабе-яге.
+</p>
+   <p>Много-ли, мало-ли онъ шелъ, но, наконецъ, пришелъ къ Бабе-яге и спрятался за дверь. Вотъ Баба-яга и говеритъ дочери: "Принеси мне гуся." Дочь исполнила ея приказание. Баба-яга спросила гуся: "Где теперь Байбуракъ?" Гусь отвечаетъ: "Онъ теперь за дверью стоитъ." Баба-яга разсердилась, оторвала голову гусю и велела принести другаго. Съ другимъ то же случилось. Посылаетъ Баба-яга и за третьимъ; на вопросъ ея: "где Байбуракъ?" и третий ответилъ: "за дверью." Баба-яга вышла посмотретъ и, увидевши Байбурака, схватила его, привязала къ столу и говоритъ: "Вотъ теперь я тебя съемъ." Дочь ея стала разводить огонь. Тогда Байбуракъ говоритъ старухе: "Иди, прежде позови своихъ знакомыхъ и тогда ешь меня." Баба-яга ушла, а Байбуракъ, освободившись отъ веревокъ, бросилъ дочь Бабы-ягя въ огонь, схватилъ гуся и пустился бежать. Баба-яга увидела его и бросилась его догонять. Байбуракъ сталъ просить Бога, чтобы передъ нею сделалось море; Богъ исполнилъ его желание, и Баба-яга воротилась домой, а Байбуракъ отнесъ гуся царю.
+</p>
+   <p>Братья еще больше возненавидели Байбурака и стали говорить хану: "Ханъ, теперь у тебя есть гусь и одеяло; достань Бабу-ягу и тогда будетъ очень хорошо." — "А кто же можетъ достать ее?" —"Байбурак." —"Позовите его сюда." Братья позвали. — "Байбуракъ, можешь ли достать мне Бабу-ягу?" — "Могу." —"Ну, иди, достань." —Байбуракъ тотчасъ пощелъ къ кузнецу и велелъ сделать большой железный сундукъ. Кузнецъ сделалъ. Байбуракъ взвалилъ сундукъ на <pb n="136"/> плечи и отправился къ Бабе-яге. Дорогою онъ переоделся въ старую одежду, приклеилъ седую бороду и такъ пришелъ къ Бабе-яге. Тамъ началъ онъ разсказывать, что Байбуракъ убилъ у него 12 сывовей. "А у мевя," сказала Баба-яга: "убилъ онъ 12 дочерей." При этихъ словахъ оба залились слезами и начали обниматься и целоваться. Наплакавшись досыта, Баба-яга спрашиваетъ, зачемъ у него такой большой сундукъ. "Летомъ я въ немъ отдыхаю." — "Продай его мне." — "Изволь, только ложись прежде въ него: надо померять, годится ли онъ тебе." Говоря это, онъ открылъ сундукъ. Баба-яга легла въ него. Байбуракъ сейчасъ же заперъ его на шесть замковъ, взвалилъ на плечн и понесъ къ хану. Несъ, несъ, донесъ до города и поставилъ, а самъ пошелъ къ хану и говоритъ: "Я утомился, нести сундукъ больше не могу; на тебе ключи, иди и возьми Бабу-ягу." Ханъ со всеми жителями пошелъ за городъ, а Байбуракъ взлезъ на высокую башню, предъ дверьми которой выкопалъ большую яму. Какъ только царь отворилъ сундукъ, Баба-яга выскочила изъ него и поела всехъ. Потомъ, увидевши Байбурака, побежала къ нему, но, отворивъ дверь, упала въ яму. Байбуракъ остался живъ.
+</p>
+   <p>Я там был, бузуп пил, халвой закусил.</p>
+   <p>Сообщил учитель Т.-Х.-Шуринского реального училища Алексей Барсов.</p>
+   <p>Т.-Х.-Шура. 1881 г.</p>
+  </body>
+ </text>
+</TEI>

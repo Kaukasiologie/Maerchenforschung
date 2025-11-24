@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">7. (Раз, ночью, вор унес из дома Насреддина...)</title>
+    <author>
+     <name xml:id="AD">
+      <persName>
+       <forename>Adolf</forename>
+       <surname>Dirr</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+       <sourceDesc>
+      <biblStruct>
+        <analytic>
+          <title xml:lang="ru">Арчинский языкъ. Граматический очеркъ, тексты, сборникъ арчинскихъ слобъ съ русскумъ къ нему указателемъ</title>
+          <author>
+            <persName ref="#AD">
+              <forename>Adolf</forename>
+              <surname>Dirr</surname>
+            </persName>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+          <imprint>
+            <pubPlace>Tiflis</pubPlace>
+            <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+            <date when="1908">1908</date>
+          </imprint>
+          <biblScope unit="volume">39</biblScope>
+        </monogr>
+      </biblStruct>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>aTMJ1392_1 Dem Dieb gefolgt, der alle seine Sachen gestohlen hat: Ich dachte, wir ziehen um</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_aqc_rus_23.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+    </placeName>
+    <date notAfter="1908">1908</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename> </forename>
+      <surname> </surname>
+     </persName>
+     <age/>
+     <birth>
+      <date/>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district/>
+       <settlement/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AD">
+      <forename>Adolf</forename>
+      <surname>Dirr</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName key="#AD">
+      <forename>Adolf</forename>
+      <surname>Dirr</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+    <text xml:id="cc_aqc_rus_23">
+      <body>
+         <pb n="105"/>
+         <head>
+            7.</head>
+         <p>Раз, ночью, вор унес из дома Насреддина довольно много вещей. Утром мулла встал, взял вещи, оставленные вором, и пошел с женой к этому последнему. "Куда ты, мулла?" спросил вор. "Разве мы не должны перейти сюда?" спросил Мулла-Насреддин. "Вот мы и пришли туда, где теперь наши вещи."</p>
+      </body>
+   </text>
+</TEI>

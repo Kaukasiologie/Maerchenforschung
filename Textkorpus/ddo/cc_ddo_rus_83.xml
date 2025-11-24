@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">Был ли хвост у твоей жены?</title>
+    <author>
+     <name xml:id="AA">
+      <persName>
+       <forename>Arsen Kurbanovič</forename>
+       <surname>Abdulaev</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="IA">
+      <persName>
+       <forename>Isa Kurbanovič</forename>
+       <surname>Abdullaev</surname>
+      </persName>
+      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date when="2025">2025</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref/>
+    </bibl>
+    <bibl type="collection">
+     <title xml:lang="eng">Dido (Tsez) Folklore</title>
+     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+     <author role="author">
+      <name ref="#AA">
+       <persName>
+        <forename>Arsen Kurbanovič</forename>
+        <surname>Abdulaev</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#IA">
+       <persName>
+        <forename>Isa Kurbanovič</forename>
+        <surname>Abdullaev</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+     <distributor/>
+     <date when="2010">The year 2010</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a1313A Die Todesankündigung ernst nehmen</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_83.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date/>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <address>
+       <district/>
+       <settlement/>
+      </address>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text xml:id="zyx_cc_ddo_rus_83">
+  <body>
+   <head>Был ли хвост у твоей жены?</head>
+   <p>
+       Что рассказать, чего не рассказывать? Однажды пошел с ослом в лес за дровами молодой человек. Там его осел беспрерывно ревел. На опушке леса он встретил одного человека, у которого вместо бороды было только девять волос. Молодой человек спросил его: «Когда я умру?» Безбородый человек, не думая, сказал ему: «Ты умрешь, когда осел три раза заревет». Безбородый человек не успел это выговорить, как осел заревел. Тогда молодой человек сказал: «Теперь забирают мой дух, и дошло до ног». Второй раз закричал осел, и он сказал: «Забрали у меня дух, и на этот раз дошло до пояса». Когда в третий раз осел заревел он сказал: «Теперь я умер». Повалился на землю, полежал и заснул. 
+     </p>
+   <p>
+       Осел пошел сам по себе по дороге. Утром молодой человек встал и, когда шел домой, увидел осла, которого убили волки. Остававшееся мясо осла ела ворона, он побежал за ней: «Хоть тебя поймаю». Ворона улетела и спряталась в одной дыре на стене. Молодой человек побежал за ней, запустил туда руку и достал оттуда деньги и золото. «Это здесь маленькие змейки», с такими словами он удрал оттуда.
+      Когда бежал, он встретил двух братьев, один был умный, а другой – глупый. Они спросили его: «Что с тобой случилось, почему ты бежишь?» Он объяснил: «Там за горкой за меня преследуют змеи». Молодой человек побежал дальше и вскоре исчез с глаз. 
+      «Тут, наверно, какое-то чудо», - умный брат потащил глупого брата на то место, которое указал молодой человек. Там братья обнаружили упавшие на землю деньги и золото. Наполнив мешки деньгами и золотом, они забрали их домой. 
+      Умный брат отправил глупого брата за меркой к мулле, чтобы померить деньги и золото. Он его предупредил: «Ты скажи ему, что мерка нужна не для того, чтобы мерить деньги и золото, а для того, чтобы мерить муку». 
+      Глупец сказал мулле прямо, что мерка нужно для того, чтобы мерить деньги и золото. «В таком случае, - заметила жена муллы, - я тоже пойду вместе с тобой, мне нужно немного денег и золота». Глупец начертил внизу линию и предупредил ее: «Если ты перейдешь эту черту, то я тебя убью». От жадности жена муллы не смогла терпеть и, переступив линию, проведенную глупцом, она перешагнула на другую сторону. После этого глупец, ударив жену муллы меркой по голове, повалил на землю. «Вот теперь она умерла», подумал, потащил ее в хлев и закопал в навозе. Затем взял мерку и пошел домой. 
+     </p>
+   <p>
+       Умный брат спросил его: «Что ты сказал, когда попросил мерку?» Глупец рассказал, как убил жену муллы как потом закопал ее в навозе. Умный брат ничего не сказал ему, залез в хлев муллы, убил одну козу и закопал там в навозе. А жену муллы похоронил в другом месте. 
+     </p>
+   <p>
+       Глупый брат, который вышел на улицу за умным же братом, встретил муллу. Мулла спросил его: «Ты не видел мою жену?» Он сказал: «Я твою жену убил и закопал в навозе». Мулла взял глупца, чтобы тот показал ему место, где закопана его жена. Услышав их разговор, за ними пошел и умный брат. Потом умный брат стал копать в том месте, которое показал глупец. А мулла молча смотрел. Когда сверху убрали навоз, появился хвост козы. Умный спросил: «Эх-эх, мулла, твоя жена была с хвостом что ли?» Мулла удивился и не знал, что сказать. Еще немного сняли сверху и появились рога козы. На этот раз мудрец спросил у муллы: «У твоей жены рога были?»  «Я тоже поверил этому глупцу», - сказав так, мулла встал и пошел искать жену в другом месте. 
+     </p>
+  </body>
+ </text>
+</TEI>

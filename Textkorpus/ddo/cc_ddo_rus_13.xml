@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">РАДУГА</title>
+    <author>
+     <name xml:id="AA">
+      <persName>
+       <forename>Arsen Kurbanovič</forename>
+       <surname>Abdulaev</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="IA">
+      <persName>
+       <forename>Isa Kurbanovič</forename>
+       <surname>Abdullaev</surname>
+      </persName>
+      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date when="2025">2025</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref/>
+    </bibl>
+    <bibl type="collection">
+     <title xml:lang="eng">Dido (Tsez) Folklore</title>
+     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+     <author role="author">
+      <name ref="#AA">
+       <persName>
+        <forename>Arsen Kurbanovič</forename>
+        <surname>Abdulaev</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#IA">
+       <persName>
+        <forename>Isa Kurbanovič</forename>
+        <surname>Abdullaev</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+     <distributor/>
+     <date when="2010">The year 2010</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a516 Der treue Johannes</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_13.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+      <item>Warnung vor sozialer Diskriminierung</item>
+     </list>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date/>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <address>
+       <district/>
+       <settlement/>
+      </address>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text xml:id="cc_ddo_rus_13">
+  <body>
+   <head>РАДУГА</head>
+   <p>О чем рассказать и что не рассказывать? Жили-были муж и жена. Муж был человеком грубым и не заботился о своей семье. Однажды он отправил свою жену в лес за дровами, чтобы в утробе зародыш не сохранился. В лесу она увидела радугу. Жена попросила радугу, чтобы у нее родилась дочь с золотым мизинцем.</p>
+   <p>Но соседству с беременной женщиной жила ее племянница. Не вытерпев издевательств своего мужа, женщина пошла к своей племяннице.</p>
+   <p>И вот она-родила дочь с золотым мизинцем. Своей дочери она по вечерам позволяла выйти только на балкон. Когда вечером она выходила на улицу, все вокруг озарялось. Когда дочь стала взрослой, многие молодые люди приходили просить ее руки, но мать не соглашалась выдать ее за кого-либо.</p>
+   <p>В одном далеком селе сын. богатого человека худел день ото дня. Сколько бы родители ни уговаривали его, он им не рассказывал, почему он так чахнет.</p>
+   <p>Однажды отец отыскал вдову и рассказал ей, что его сын с каждым днем все худеет и худеет. Вдова в ответ сказала: «Если ты мне. дашь тарелку, полную золота, я узнаю, почему он с каждым днем худеет». Богач согласился. Вдова незаметно прокралась в дом сына богача, спряталась под его кроватью и тихо слушала. Как только сын лег спать, вдова услышала, как он, вздохнув, сказал: «Если я не добьюсь этой девушки с золотым мизинцем из далекого села, то через неделю умру». Утром вдова незаметно вышла и тут же отправилась к его отцу, чтобы рассказать ему о горе, которое испытывает его сын. Согласнд уговору с вдовой, он отдал ей обещанное и отпустил ее.</p>
+   <p>После этого родители отправились на поиски этой девушки. Отправившись в путь, они пришли к матери той девушки с золотым мизинцем. Мать спрятала свою дочь в сундуке от посторонних глаз. Наконец племянница ей сказала: «Лучше и богаче парня ты не найдешь, да и дочь не выдавать замуж нельзя». В конце концов сыграли свадьбу и дочь выдали за сына зажиточного человека. Прошло немного времени, и дочь взяла свою мать к себе. С тех пор Типичное начало дидойских сказок.</p>
+   <p>та женщина навсегда избавилась от угнетения мужа и благодаря помощи радуги обрела свободу и покой.</p>
+  </body>
+ </text>
+</TEI>

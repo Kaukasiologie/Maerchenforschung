@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">ТРИ БРАТА</title>
+    <author>
+     <name xml:id="AA">
+      <persName>
+       <forename>Arsen Kurbanovič</forename>
+       <surname>Abdulaev</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="IA">
+      <persName>
+       <forename>Isa Kurbanovič</forename>
+       <surname>Abdullaev</surname>
+      </persName>
+      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date when="2025">2025</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref/>
+    </bibl>
+    <bibl type="collection">
+     <title xml:lang="eng">Dido (Tsez) Folklore</title>
+     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+     <author role="author">
+      <name ref="#AA">
+       <persName>
+        <forename>Arsen Kurbanovič</forename>
+        <surname>Abdulaev</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#IA">
+       <persName>
+        <forename>Isa Kurbanovič</forename>
+        <surname>Abdullaev</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+     <distributor/>
+     <date when="2010">The year 2010</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a1920F Wer sagt 'das ist gelogen', muss eine Strafe zahlen</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_67.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date/>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <address>
+       <district/>
+       <settlement/>
+      </address>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text xml:id="cc_ddo_rus_67">
+  <body>
+   <head>ТРИ БРАТА</head>
+   <p>Был один отец, у него было трое сыновей. Тот отец каждый день ходил на охоту и возвращался обратно с дичью. Он был уже в возрасте и с каждым днем становился слабее. Однажды он пошел на охоту и вернулся ни с чем. А на следующий день он заболел и не смог даже пойти. Когда он болел и был прикован к постели, он сказал сыновьям: «После моей смерти ходите на охоту только в сторону захода солнца».</p>
+   <p>Через некоторое время их отец умер. После его похорон и поминального обряда они решили пойти на охоту. По завещанию отца они всегда ходили на охоту в сторону захода солнца. Так они ходили в течение недели и ни разу не смогли поймать какую-либо дичь. Однажды старший брат сказал: «Сегодня я пойду на охоту в сторону восхода солнца. Если через неделю я обратно не вернусь, ступайте, за мной». Сел старший брат, на коня, накинул ружье на плечи и отправился на охоту. Шел, шел и дошел до одного родника. Там. он поел в последний раз: у него кончилась еда. Когда он пошел дальше по дороге, через некоторое время его охватил голод. Он добрался до одного места, где среди фруктовых деревьев стоял, дворец. Хотя он был очень голоден, он боялся сорвать хотя бы одно яблоко или грушу. Подойдя к дворцу, он сильно удивился. Изнутри вышла одна плохая женщина и спросила его: «Можешь ли ты лгать или нет?» «Нет», - ответил он. Тогда она спросила: «Сорвал ли ты или не сорвал яблоко или грушу?» «Не рвал», - ответил он. «В таком случае получай», - ударом кинжала она убила его, положила под кроватью и принялась смотреть в окно.</p>
+   <p>Прошла неделя, и, когда старший брит не вернулся домой, средний брат отправился за ним по той же дороге, по которой шел и старший. Пришел он к тому роднику, у которого останавливался старший брат. Он там поел, пошел дальше и пришел к тому же дворцу. Хотя был голодный, он тоже не рвал с деревьев фруктов и не ел. Зашел во двор дворца, и, когда с удивлением осматривался, появилась та же женщина и также спросила: «Можешь ли ты лгать или нет?» Он также ответил: «Нет». Тогда она спросила: «Сорвал ли ты или не сорвал яблоко или грушу?» «Не. рвал», - ответил он. «В таком случае получай», - ударом кинжала она убила его, положила под кроватью рядом с братом и принялась смотреть через окно в сад.</p>
+   <p>Прошло больше недели, средний брат тоже не вернулся, поэтому младший брат взял хороший кинжал, ружье, продав все оставшееся от отца имущество, купил хорошего коня-иноходца и отправился за ним. Шел, шел и дошел он до одного родника. Он там поел, выпил воды, пошел дальше по дороге и добрался до сада той женщины. Он, набрасываясь на деревья, начал есть фрукты. Ломая деревья, он добрался до дворца.</p>
+   <p>Привязал во дворе коня, бросил перед ним кучу яблок и, как постоянный жилец, зашел в дом. Женщина видела все, что он делал. Она подумала: «Нехороший человек пришел ко мне». Она также спросила его: «Можешь ли ты лгать или нет?» «Могу», - ответил он. «Ты мои фрукты ел?» - спросила она потом. «Я твоих фруктов не ел», - ответил юноша. Тут они поспорили и решили, что бы ни случилось, когда один рассказывает, другой должен молчать. В случае, если во время рассказа одного другой хоть одно слово скажет, убить того на месте.</p>
+   <p>Юноша начал рассказывать: «Я был в селе. Там у меня были быки, подобные муравьям. Я их заставил перевезти в село в течение. трех дней гору дров. Потом пошел пасти овец. Поднялись на гору, и к утру одна овца окотилась десятью тысячами ягнят.</p>
+   <p>Поэтому мие приходилось беспрерывно косить траву. Однажды, когда на овец напал волк, я побежал за ним-, ударил его косой, и она воткнулась ему в ребро. Волк побежал оттуда и косил траву вонзившейся в ребро косой, а я шел за ним, не отрываясь и собирая скошенную им траву, овцы по ходу тоже ели. Вот так я жил десять лет. Однажды ко мне пришел старик с длинной белой бородой: мол, дай мне в долг овец. Я дал ему всех овец». - «Такое разве может быть?» Как только это у нее вырвалось, младший брат ее рассек ударом кинжала.</p>
+   <p>Там во дворце все осмотрел и под кроватью нашел убитых братьев. Похоронил их, как положено, взял себе дворец, женился и мать забрал к себе. Говорят, до сих пор они там живут и дальше несколько столетий будут житъ.</p>
+  </body>
+ </text>
+</TEI>

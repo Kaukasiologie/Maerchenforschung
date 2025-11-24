@@ -1,0 +1,184 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">Волкъ и лисица</title>
+    <author>
+     <name xml:id="AO">
+      <persName>
+       <forename>Abdulla</forename>
+       <surname>Omarov</surname>
+      </persName>
+     </name>
+     <idno></idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">КАЗЙКУМУМУХСКІЯ (ЛАКСКІЯ) НАРОДНЫЯ СКАЗАНІЯ</title>
+      <author>
+       <persName ref="#AО">
+        <forename>Abdulla</forename>
+        <surname>Omarov</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">ССКГ; Сборник сведений о кавказских горцах</title>
+      <imprint>
+       <pubPlace>Тифлись</pubPlace>
+       <publisher>Кавказский отдел Императорского Русского географического общества</publisher>
+       <date when="1868">1868</date>
+      </imprint>
+      <biblScope unit="volume">1</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"></index>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_lbe_rus_59.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item></item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district></district>
+     <settlement></settlement>
+    </placeName>
+    <date notAfter="1868">1868</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename></forename>
+      <surname></surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district></district>
+       <settlement></settlement>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AO">
+      <forename>Abdulla</forename>
+      <surname>Omarov</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName key="#AO">
+      <forename>Abdulla</forename>
+      <surname>Omarov</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change></change>
+    <change></change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_lbe_rus_59">
+  <body>
+   <head>Волкъ и лисица</head>
+   <p>Лисица крала куръ изъ аула. Жители догадались въ чѳмъ дѣло, подкараули ее и, поймавши, поколотили хорошенько. Высвободившись кое-какъ, шла она съ опухшимъ лицомъ и повстрѣчала волка. "Откуда, сестрица?" спросилъ онъ. —"Была на свадьбѣ, и до того наѣлась, что на силу иду." —"Где-жъ свадьба? и я пойду," сказалъ волкъ. —"Вонъ тамъ!" и она указала на то самое мѣсто, гдѣ ее прибили. Волкъ отправился туда, и караулъ угостилъ его на славу палками. Волкъ однако кое-канъ успѣлъ убѣжать и сталъ придумывать, какъ-бы отомстить лисицѣ.
+</p>
+   <p>Разъ онъ подсмотрѣлъ лису и сталъ наблюдать, куда она <pb n="64"/> пойдетъ. Лисица тоже замѣтила волка и потихоньку отправилась въ кузницу, стоявшую вблизи аула. Волкъ за ней вслѣдъ, и видитъ,что лисица сидитъ подлѣ наковальни съ молоткомъ въ лапахъ. "Постой-же, проклятая, я раздѣлаюсь съ тобой," закричалъ онъ. Лиса посмотрѣла на него и сказала: "что ты говоришь, братъ? я вѣдь лиспца-кузнецъ, а та, что тебя обманула, совсѣмъ другая." —"Такъ возьми меня въ ученики; я не могу теперь охотиться и буду жить съ тобою," сказалъ волкъ. "Хорошо, сказала лисица, садись тутъ, а я пойду достану работу." Лисица заперла дверь и убѣжала. Пришѳлъ кузнецъ, увидѣлъ волка, и взявши большую палку, хорошенько поколотилъ его. Волкъ выбѣжалъ изъ кузни весь избитый, и думалъ: "попадись-же теперь, окаянная, я знаю, что съ тобою сдѣлать." И вотъ, дѣйствительно, встрѣтился онъ опять съ лисицею. Зная, что месть ждетъ ее неизбежно, лиса завернула на мельницу. Волкъ за ней туда же, и говоритъ: "постой, обманщица, посмотрю я, куда ты уйдешь теперь отъ меня! "Лисица взглянула на него и, какъ будто удивленная, сказала: "я уже пять лѣтъ мельникомъ, а обманщица—лисица совсѣмъ другая." —"Такъ покорми меня, сестрица, я съ голоду умираю, по милости окаянной обманщицы," сказалъ волкъ. —"Садись сюда, а я сейчасъ пойду за водою и сдѣлаю тебѣ толокно," сказала лисица и указала на жерновъ. Волкъ сѣлъ на указанномъ мѣстѣ, а лиса пошла къ канавѣ и выпустила воду въ жолобъ. Жерновъ завертѣлся и раздробилъ волку черепъ. Лиса поплакала, поплясала вокругъ трупа, а потомъ пошла своей дорогой. И я тоже пришелъ къ вамъ своей дорогой.
+</p>
+  </body>
+ </text>
+</TEI>

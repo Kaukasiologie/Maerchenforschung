@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">3. Der Sohn des Herrschers und der Zögling des Riesen</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_8.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+     <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <date/>
+      <placeName>
+       <country/>
+       <region/>
+       <district/>
+       <settlement/>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
+      <forename>Iosif Alekseevich</forename>
+      <surname>Kipshidze</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_8">
+  <body>
+   <head>Der Sohn des Herrschers und der Zögling des Riesen</head>
+   <p>Einst drangen die Türken in ein Land ein, und die Leute flüchteten um ihr Leben. Aus dem Haus eines Bauern rannten drei Schwiegertöchter weg und flohen irrtümlich in die Richtung, wohin die Türken zogen. Von dort trafen sie auf andere Leute, die auch flüchteten, und sie wandten sich um und folgten diesen Leuten. Eine trug ein Kleinkind im Arm, sie wurde müde und blieb zurück, Die anderen Schwiegertöchter blickten sich nicht um. Da ließ sie ihr Kind im Wald und floh weiter.</p>
+   <p>In diesem Land lebte ein Herrscher, der hatte einen Sohn, der sich gern die Gegend ansah. Als dieser einst zum Vergnügen ausritt, sah er auf einer Waldwiese einen Riesen sitzen, auf dessen Brust ein junger Bursche spielte. Darüber wunderte sich der Königssohn sehr. Lange Zeit später sah er sie wieder so. Er kehrte nach Hause zurück, bat seinen Vater um Soldaten, gab jedem Mann ein Bund Stroh und eine Kerze, führte sie hin und ließ den Wald umstellen, wo der Riese saß. Rasch ließ er sie mit den Kerzen das Stroh anzünden, Der Riese sprang auf und durchbrach an einer Seite die Truppen, Da fing sein Fell Feuer, und er rannte fort, ohne sich umzusehen. Den Mann, der auf dem Riesen gespielt hatte, fingen sie nach vielen Mühen, schafften ihn in das Schloß und brachten ihn in einer gesonderten Unterkunft unter. Der Sohn des Herrschers stand dem verwilderten Burschen immer zur Seite und zeigte ihm Kleidung und Speisen, Er wollte, daß er ein gewöhnliches Leben begann, aber der Wilde konnte sich nicht schnell daran gewöhnen. Zuerst lernte er, mit dem Finger Honig zu lecken, dann lernte er sich zu kleiden. Nach langer Zeit hatte er alles gelernt und war in seiner Auffassungsgabe nicht schlechter als der Sohn des Herrschers.</p>
+   <p>Der Herrscher hatte einen Aufenthaltsraum, zu dem nur er den Schlüssel hatte und in den er keinen Menschen hineinließ, Der Sohn des Herrschers wollte den Raum betreten und bat den Vater um den Schlüssel, aber der sagte: "Du wirst verschollen gehen", und er gab ihm den Schlüssel nicht. </p>
+   <p>Der junge Mann erzählte das dem Zögling des Riesen. Der sprach: "Hab keine Angst, ich werde den Raum aufbrechen.” </p>
+   <p>Sie gingen hin, und als sie ihn aufgebrochen hatten, sahen sie, daß an der Wand das Bild eines märchenhaft schönen Mädchens hing. Sie lasen: "Die Tochter des schwarzen Riesen in dem und dem Land." </p>
+   <p>Der Sohn des Herrschers sagte: "Für dieses schöne Mädchen gebe ich alles, ich muß zu ihr und sie entführen.” </p>
+   <p>Der Zögling des Riesen sprach: "Wohin du ziehst, ziehe ich mit." </p>
+   <p>Unter vielen Tränen verabschiedeten sie sich von dem Herrscher und zogen davon. Sie reisten und reisten, und unterwegs ging ihnen die Verpflegung aus. Sie bekamen Hunger. Als sie sich umblickten, sahen sie, daß <pb n="12"/> in der Nähe des Hauses eines Riesen ein Baum voller Äpfel stand. Der Zögling des Riesen ergriff einen dicken Stock, schlug gegen den Apfelbaum und brach ihn am Fuß um. Der Riese kam herausgetrottet und schrie: "Wer hat das getan?" Und rasch ging er auf den Zögling des Riesen zu. Der stieß ihm zwei Finger in die Augen und stach sie ihm aus. Der Riese flehte ihn an, ihn nicht ganz umzubringen, doch der Zögling des Riesen tötete ihn. </p>
+   <p>Dann reisten sie weiter, und auf einem Feld sahen sie nur eine Flechthütte. Als sie eintraten, fanden sie eine alte Frau. Wie sie sie nach der Lage im Land fragten, sprach sie: "Der schwarze Riese hat eine unsäglich schöne Tochter, die der weiße Riese, der Herrscher der Unterwelt, entführen will. Doch das Mädchen hat eine Mutter, der sich niemand mehr als zwölf Meilen zu nähern wagt. Sobald sie jemanden gewahrt, reißt sie ihm den Kopf ab." </p>
+   <p>Als der Sohn des Herrschers das vernahm, verlor er die Hoffnung, das Mädchen entführen zu können. Aber der Zögling des Riesen machte ihm Mut. Als die Alte erfuhr, daß die beiden Burschen unterwegs waren, um das Mädchen zu entführen, erzählte sie ihnen eifrig die Umstände: "Die Mutter des Mädchens hat große Brüste, die zum Sonnen an der Tür ruhen. Wer sich hinschleicht und die Brüste küßt, der ist würdig, das Mädchen zur Frau zu nehmen." </p>
+   <p>Der Sohn des Herrschers erschrak, als er das vernahm, doch der Zögling des Riesen machte ihm Hoffnung. Er führte den Sohn des Herrschers davon und brachte ihn kriechend zu den Brüsten der Mutter des Mädchens. Als der junge Mann sie küßte, war die Mutter erstaunt. Als sie zwei bildhübsche junge Männer erblickte, wunderte sie sich, Dann sprach sie zu dem Sohn des Herrschers: "Du bist nicht imstande, meine Tochter zu beschützen."</p>
+   <p>Aber beide Burschen überzeugten sie, vor allem der Zögling des Riesen übernahm den Schutz und die Betreuung des Mädchens. Als der schwarze Riese nach Hause kam und erfuhr, was vorgefallen war, freute er sich sehr. Der Schwiegersohn gefiel ihm, und er sprach: "Meine Tochter hat einen würdigen Mann gefunden." Aber er warnte die jungen Männer vor der Gefahr, daß seine Tochter entführt werden könnte. Es wurde ein Fest gefeiert, das nach einer Woche zu Ende ging. </p>
+   <p>Der Sohn des Herrschers sagte zu dem Zögling des Riesen: "Begib dich nach Hause und überbringe meinem Vater die freudige Botschaft. Richtet das Fest, und dann komm zu uns zurück und laß uns gemeinsam abreisen."</p>
+   <p>Der Zögling des Riesen reiste nach Hause. Als das Mädchen und ihr Mann eines Abends Arm in Arm daherschritten, stürzte der Herrscher der Unterwelt, der weiße Riese, auf sie zu und entriß dem Burschen das Mädchen. Der junge Mann war zu Tode betrübt, aber was hätte er tun sollen? <pb n="13"/>Das alles berichtete er der Mutter des Mädchens. Sie gab ihm zur Antwort: "Habe ich dir nicht gesagt, daß dir das so widerfahren würde?” </p>
+   <p>Man hätte sofort die Verfolgung aufnehmen müssen, aber dieser junge Mann war zu nichts imstande, und so mußte man warten, bis der Zögling des Riesen zurückkehrte. Am nächsten Tag kam er, und als er den Vorfall erfuhr, war er sehr verärgert, doch was hätte er tun sollen? Statt zur Hochzeit zu gehen, heftete er sich an die Spur des Riesen. Er überquerte Berge und Täler, und die Spur des Riesen, der bis zu den Knien im Grund eingesunken war, führte zu einem Stein. Als er den Stein umdrehte, entdeckte er eine bodenlose, dunkle Grube. Er wollte hinabsteigen, aber womit? Er flocht einen Korb und rief die Riesen, die dort hausten, zusammen, manche kamen freiwillig, andere gezwungenermaßen. Kein einziger wagte sich zu widersetzen, solche Furcht flößte er ihnen ein. Er nahm alle Seile, die es in dem Lande gab, band sie zusammen und hängte zum Schluß den Korb daran. Er setzte sich in den Korb hinein und befahl den Riesen, bis zu seiner Rückkehr Wache zu halten und zu warten, bis das Seil den Grund erreicht hätte. Die Riesen segneten ihm den Weg und ließen ihn hinab. Der Korb sank immer tiefer und gelangte in die Unterwelt. Der Zögling des Riesen verbarg den Korb. Er machte sich auf den Weg, lief und lief und sah auf einem Feld einen Schweinehirten, den er fragte. Der Schweinehirt sagte: "Der Herrscher dieses Landes hat die Tochter des Herrschers der Oberwelt entführt und feiert jetzt ein großes Fest, das ein ganzes Jahr nicht enden soll, und jeder, der will, geht hin, ißt und trinkt." </p>
+   <p>Der Zögling des Riesen ging zu dem Fest. Seine Kleidung tauschte er gegen die des Schweinehirten und zog dessen Sachen an. Er lief und lief, und als er zu dem Fest kam, sah er eine riesige Volksmenge. Das Mädchen saß bei dem Herrscher. Der junge Mann kroch wie ein elender Bettler auf dem Boden herum und begann zu Füßen des Herrschers und des Mädchens einen Knochen zu zerknacken. Da erblickte ihn der Herrscher. "Komm her, du Armseliger!" sprach er zu ihm und reichte ihm eine Speise. </p>
+   <p>Als das Mädchen ihn betrachtete, erkannte sie ihn, und sie bat den Herrscher: "Laß ihn bei mir sitzen, wir wollen ihm zu essen geben." </p>
+   <p>"Gut”, meinte der Herrscher, und sie setzten den Armen an den Tisch. </p>
+   <p>Als die Nacht anbrach, sagte der Herrscher zu dem Mädchen: "Komm</p>
+   <p>mit in das Schlafzimmer." </p>
+   <p>Das Mädchen sprach: "Ich habe mich am Spiel noch nicht sattgesehen, ich komme dann zu dir." </p>
+   <p>"Gut”, sagte der Herrscher und ging. </p>
+   <p>Das Mädchen und der Bursche blieben allein. Die angeheiterten Männer unterhielten sich auf ihre Weise, und die beiden berieten ihre Sache, wie es besser sei und wie nicht. Der junge Mann trug dem Mädchen auf: "Bring <pb n="14"/> mir in Erfahrung, wo sich die Seele des Herrschers befindet." </p>
+   <p>"Gut”, sagte das Mädchen und ging. </p>
+   <p>In dieser Nacht liebkoste sie den Herrscher sehr und fragte ihn: "Ich muß wissen, wem du deine Seele anvertraut hast.”</p>
+   <p>"Wozu willst du das?” meinte der Herrscher. </p>
+   <p>Das Mädchen ließ ihm keine Ausflucht und setzte ihm zu: "Du mußt es mir unbedingt sagen." Das Mädchen wurde sehr betrübt. Um sie aufzuheitern, belog der Herrscher sie und sprach: "Meine Seele habe ich dem Schoßhündchen anvertraut." </p>
+   <p>Das Mädchen begriff, daß das gelogen war, aber sie fing das Hündchen mit Absicht, begann mit ihm zu spielen und gab es nicht mehr aus der Hand. Der Herrscher dachte: "Ach, die Ärmste, sie liebt mich tatsächlich,” Das Mädchen tat ihm leid, wenn sie so unsinnig mit dem Hund spielte, und er sagte: "Laß ihn laufen!" </p>
+   <p>Das Mädchen gab dem Herrscher keine Ruhe: "Du hast mich absichtlich belogen, denn wie sollte ich von dem ablassen, worin sich deine Seele befindet!" </p>
+   <p>Das Mädchen wurde wieder verdrossen, und der Herrscher sagte: "Meine Seele hat ein Hirsch in dem und dem Wald.” </p>
+   <p>Das Mädchen freute sich sehr. </p>
+   <p>Am Morgen begaben sich der Herrscher und das Mädchen zum Fest. Das Mädchen sah den Zögling des Riesen und berichtete ihm, was der Herrscher ihr gesagt hatte. </p>
+   <p>“Gut”, erklärte der junge Mann und ging in den Wald. </p>
+   <p>Lange lief er umher und fand den Hirsch. Er schoß mit Pfeil und Bogen auf ihn. Als der Hirsch zu Boden stürzte, sprang ein Hase heraus. Er schoß einen Pfeil nach dem Hasen, und als der Hase fiel, sprang ein Kästchen heraus. Er lief dem Kästchen nach und ergriff es. Er öffnete es und fand darin zwei Fliegen. Beiden stach er die Augen aus und nahm sie mit. </p>
+   <p>Der junge Mann kam zum Haus des Herrschers und erfuhr, daß dem Herrscher die Augen schmerzten und er krank sei. Er betrat das Haus und sprach zu dem Herrscher: "Ich habe deine Seele in der Hand." </p>
+   <p>Der Herrscher begriff alles und flehte den jungen Mann an: "Töte mich nicht!" Doch der brachte die Fliegen um, und der Herrscher starb. </p>
+   <p>Der junge Mann und das Mädchen führten Pferde heraus, schirrten sie vor einen Wagen, beluden ihn mit dem Vermögen und dem Gold des Herrschers, setzten sich darauf und fuhren los. </p>
+   <p>Sie fuhren und fuhren und erreichten jenen Ort, wo der Bursche in die Unterwelt hinabgelangt war. Er fand den Korb, in dem er herabgekommen war, schlenkerte das Seil und gab den Riesen oben, die es nicht gewagt hatten, sich vom Ende des Seiles zu entfernen, seine Ankunft bekannt. Sie <pb n="15"/> legten die Schätze in den Korb und ließen ihn hinauf. Als er wieder herabkam, setzte sich das Mädchen hinein und stieg empor. Der Korb kam wieder herab, und der junge Mann setzte sich hinein. Als nur noch ein klein wenig bis oben hin fehlte, schnitten die Riesen das Seil durch, und der Bursche stürzte in die Tiefe. Aber an einer Stelle erfaßte er einen Stein und hielt sich fest. </p>
+   <p>Die Riesen schleppten das Mädchen fort und stellten sie als Dienerin an. Die Schätze teilten sie sich. </p>
+   <p>Der junge Mann kletterte und kroch auf die Oberwelt hinauf. Er rief alle Riesen zusammen, schnitt allen die Ohren ab und nahm seinen Besitz und das Mädchen mit. </p>
+   <p>Er lief und lief und gelangte zum Haus des Mädchens, Als die Mutter ihre Tochter erblickte, freute sie sich und lobte das Verhalten des jungen Mannes über alle Maßen. Der Sohn des Herrschers und das Mädchen umarmten sich, und es entstand große Freude. Als lange Zeit vergangen war, reisten der Sohn des Herrschers, das Mädchen und der junge Bursche in das Reich des Herrschers. Lange waren sie unterwegs. Die Nacht überraschte sie, und sie lagerten am Wege unter einem Baum. Alle schliefen ein, nur der Zögling des Riesen schlief nicht. Da kamen drei Engel, setzten sich auf den Baum, und einer sprach: "Was sollen wir denen bestimmen, die hier unter dem Baum liegen?" </p>
+   <p>Der zweite sagte: "Morgen wird ein Freudenbote zum Haus des Herrschers reiten. Der Herrscher soll für seinen Sohn ein goldenes Gewehr bereithalten und für die Schwiegertochter ein Seidenkleid. Sobald man dem jungen Mann das Gewehr umhängt, soll es losgehen und ihn töten. Sobald man dem Mädchen das Kleid anzieht, soll sie Feuer fangen und verbrennen.” </p>
+   <p>Der dritte sagte: "Wer das verrät, soll sich in kalten Stein verwandeln.”  Der Zögling des Riesen wurde sehr betrübt, er fiel in Sorge, wie er das Mädchen und den jungen Mann retten könnte. Am Morgen machten sie sich auf und zogen weiter. Sie ritten und ritten, und als sie sich dem Haus näherten, sprachen sie: "Wer soll der Freudenbote sein?"</p>
+   <p>Der Zögling des Riesen sagte: "Ich werde gehen", und er ritt los.  Die Frau des Herrschers und der Herrscher freuten sich. Der Herrscher brachte ein goldenes Gewehr heraus, seine Frau ein Seidenkleid, Der Bursche sprach: "Dieses Geschenk ist nicht nötig, sie haben viele Schätze. Schenkt dies der Dienerin und dem Diener."</p>
+   <p>Der junge Mann und das Mädchen trafen ein. Man küßte sich und war sehr lustig. Als man dem Diener das Gewehr umhängte, ging es los und tötete ihn. Als man der Dienerin das Kleid anzog, fing sie Feuer und verbrannte. Jedermann erstarrte und wunderte sich. Dann begann der Festschmaus.<pb n="17"/> Später lebten der Herrscher und seine Familie im Glück. </p>
+   <p>Die Frau des Herrschersohnes brachte einen Jungen zur Welt. Einmal schlief der Sohn des Herrschers. Der Zögling des Riesen schnallte ihm das Schwert: ab und betrachtete es, Plötzlich erwachte der junge Mann und schrie: "Warum wolltest du mich töten?" </p>
+   <p>Der Zögling des Riesen schwor und wies das von sich, doch der Sohn des Herrschers glaubte ihm nicht und sagte es dem Herrscher. Alle verdächtigten den Zögling des Riesen: "Er wollte das Mädchen haben." </p>
+   <p>Da rief der Zögling des Riesen alle zusammen und sprach: "Wenn ihr mich nicht anhört, so seht wenigstens auf euren Gott!" </p>
+   <p>Alle hielten den Atem an. Der Zögling des Riesen begann zu reden und berichtete alles, was ihm widerfahren war und was er für den Sohn des Herrschers getan hatte. Dann sagte er: "Das und das haben die Engel gesagt, und sie haben den verflucht, der das verraten sollte.” </p>
+   <p>Kaum hatte der Bursche das gesagt, verwandelte er sich in kalten Stein. Der Sohn des Herrschers war zu Tode betrübt, aber was hätte er tun sollen? Ohne sich umzusehen, stürzte er hinaus: "Ich muß in Erfahrung bringen, was ihn retten kann." </p>
+   <p>Er ritt dahin und erblickte auf einem Feld eine Flechthütte, Als er eintrat, fand er eine alte Frau darin. Sie fragte ihn: "Wie bist du hierhergelangt, mein Junge?" </p>
+   <p>Der junge Mann erzählte ihr seine Geschichte von Anfang bis zum Ende. </p>
+   <p>Die Alte erklärte: "Dafür weiß ich ein gutes Mittel, aber es ist ein wenig teuer. Verschaffe dir die Ohren von hundert Riesen und koche deinen Sohn. Schütte alles zusammen über den Stein, und er wird wieder lebendig." </p>
+   <p>Der junge Mann freute sich sehr, und als er nach Hause kam, kochte er die Ohren der Riesen und seinen eigenen Sohn. Das schüttete er oben auf den Stein. Der Zögling des Riesen wurde lebendig, und es herrschte große Freude.</p>
+   <p>Gestern war ich dort, heute bin ich hierhergekommen. Drei Apfel, drei Granatäpfel, Gott verwehre euch nicht, was ihr eigenhändig eingebracht habt.</p>
+  </body>
+ </text>
+</TEI>

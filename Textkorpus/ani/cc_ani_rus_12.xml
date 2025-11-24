@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">5. (У одного хана было трое сыновей...)</title>
+    <author>
+     <name xml:id="AD">
+      <persName>
+       <forename>Adolf</forename>
+       <surname>Dirr</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+    </author>
+    <editor>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+    </editor>
+    <editor>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+    </editor>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName ref="#ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+     <name>
+      <persName ref="#DF">
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <analytic>
+      <title xml:lang="ru">Краткий граматический очеркь Андийского языка ц текстаму, цборникомз андийских слобь</title>
+      <author>
+       <persName ref="#AD">
+        <forename>Adolf</forename>
+        <surname>Dirr</surname>
+       </persName>
+      </author>
+     </analytic>
+     <monogr>
+      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+      <imprint>
+       <pubPlace>Tiflis</pubPlace>
+       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+       <date when="1906">1906</date>
+      </imprint>
+      <biblScope unit="volume">36</biblScope>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a654 Die behenden Brüder</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ani_rus_12.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+     </list>
+    </keywords>
+   </textClass>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+    </placeName>
+    <date notAfter="1906">1906</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename> </forename>
+      <surname> </surname>
+     </persName>
+     <age/>
+     <birth>
+      <date/>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district/>
+       <settlement/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName key="#AD">
+      <forename>Adolf</forename>
+      <surname>Dirr</surname>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName key="#AD">
+      <forename>Adolf</forename>
+      <surname>Dirr</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_ani_rus_12">
+  <body>
+   <head>5.</head>
+   <p>У одного хана было трое сыновей; у другого же хана, живущего далеко от первого, была одна дочь. Сыновья первого влюбились в эту девушку, и каждый хотел взять ее себе. "Нет, она должна принадлежать одному только: бросьте жребий!" сказал их отец. Но им это не понравилось; они начали ссориться по вопросу: бросать ли жребий, или не бросать? Вследствие этих споров отец их заболел. "К Богу," сказал он своим сыновьям: "от ваших ссор и споров я заболел; я умру. Вот вам три вещи. Первая – ковер; если кто сядет на него и пожелает что-нибудь, это желание исполнится. Вторая вещь – кувшин; если из него выльется вода, то этой водой можно воскресить мертвого. Вот и третья вещь – зеркало; если смотреть в него, можно узнать, жив ли или мертвый такой-то; гуляет ли, или спит он. Ну вот, эти вещи возьмите; берите каждый, что кому нравится!" И опять из-за этих вещей возник спор между сыновьями: "Мне дай это!" сказал один. "Нет, мне!" сказал другой. Пришел посторонний человек и раздал им эти вещи: кувшин – старшему, зеркало – среднему, а ковер – младшему и успокоил их таким образом.</p>
+   <p>Вот, вздумалось среднему "посмотреть в свое зеркало. Смотрит и видит, что их возлюбленная умерла и что собираются похоронить ее. Он сообщил об этом своим братьям. Младший брат сейчас сел на свой ковер и попросил Бога, чтобы он их поскорее отнес к одной девушке, и таким образом <pb n="85"/>все трое прибыли к ней как раз в тот момент, когда ее уже опускали в могилу. Старший вылил воду из своего кувшина, и, действительно, покойница воскресла.</p>
+   <p>Опять возник спор: каждый из них хотел ее, конечно, взять себе. "Если бы я не посмотрел в свое зеркало, мы не узнали бы, что она умерла. Следовательно, она принадлежит мне," сказал хозяин зеркала. "Да, ведь, я увидел, что она умерла!" – "А что, если бы у меня не было ковра?" спросил младший, "как бы мы нашли бы ее? Правда, что ты ее увидел, но она все-таки мне принадлежит, а не тебе" – "Хотя ты ее увидел," сказал старший, "и хотя тот нас привел к ней, но это я воскресил мертвую, так что она должна принадлежать мне." Таким образом, спор продолжался: каждый хотел ее взять себе.</p>
+   <p>Созвали народ и старший брат сказал: "Вот у нас опять идет спор; этот говорит так, тот едак, а я говорю иначе. Судите о деле, люди!" Но и люди не могли согласиться между собой: один говорил, что девица принадлежит старшему, потому что он воскресил мертвую; другие – младшему, потому что он молился Богу и привел их к ней; еще другие – среднему, потому что он увидел случившееся в своем зеркале. И так люди спорили и спорили и не могли разобраться в этом деле. "Разсудите вы сами, люди!" (Разказчик обращается здесь к слушателям, но человеческий ум, вероятно, не может разобраться в такой путанице).</p>
+  </body>
+ </text>
+</TEI>

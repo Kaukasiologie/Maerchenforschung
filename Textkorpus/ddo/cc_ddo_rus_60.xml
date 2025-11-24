@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="rus">ХАСАН И ХУСЕЙН</title>
+    <author>
+     <name xml:id="AA">
+      <persName>
+       <forename>Arsen Kurbanovič</forename>
+       <surname>Abdulaev</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="IA">
+      <persName>
+       <forename>Isa Kurbanovič</forename>
+       <surname>Abdullaev</surname>
+      </persName>
+      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name>
+      <persName xml:id="ED">
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+      </persName>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date when="2025">2025</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref/>
+    </bibl>
+    <bibl type="collection">
+     <title xml:lang="eng">Dido (Tsez) Folklore</title>
+     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+     <author role="author">
+      <name ref="#AA">
+       <persName>
+        <forename>Arsen Kurbanovič</forename>
+        <surname>Abdulaev</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#IA">
+       <persName>
+        <forename>Isa Kurbanovič</forename>
+        <surname>Abdullaev</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+     <distributor/>
+     <date when="2010">The year 2010</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item>a327A Haensel und Gretel</item>
+      <item>a303 Die zwei Brüder</item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_60.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="rus">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+     <district/>
+     <settlement/>
+     <geo/>
+    </placeName>
+    <date/>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+     <age/>
+     <birth>
+      <address>
+       <district/>
+       <settlement/>
+      </address>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+    <person role="translator">
+     <persName>
+      <forename/>
+      <surname/>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text xml:id="cc_ddo_rus_60">
+  <body>
+   <head>ХАСАН И ХУСЕЙН</head>
+   <p>Что рассказать, что не рассказывать? В прошлые времена в одном, селе, жили муж и жена. У них не было детей. Однажды в лесу к мужу подошел старик и спросил: «Что с тобой случилось, почему ты грустный?» «Если сказать правду, у нас нет детей. Поэтому, не зная, что делать, я много думаю об этом», - ответил муж. «Если сделаете то, что я скажу, у вас родятся дети», - сказал тот старик. «Если у нас родятся дети, то я сделаю все, что ты скажешь», - обещал муж. Тогда старик вытащил два яблока и отдал мужу: одно ему, другое жене, и исчез с глаз.</p>
+   <p>Прошло немного времени, как у них родились двое сыновей. Их назвали одного Хасаном, другого Хусейном. Через некоторое время, когда дети стали взрослыми, от старика, который дал им яблоки, пришло требование, чтобы одного сына отправили к нему, а он будет ждать его у родника. В тот. день Хусейн, ходил в лес, а Хасан был дома. Встал он, сказал им: я, мол, пойду, и отправился в путъ туда, куда указал старик. Скоро после его ухода пришел и Хусейн. Когда он спросил, куда пошел. Хасан, родители рассказали ему: «Вот пришло требование от старика, который дал нам яблоки еще до вашего рождения, так он к нему пошел». «Нет, я пойду, пусть до него я умру», - Хусейн выстрелил из лука, в дверь, оседлал коня, сел на него и отправился в путь.</p>
+   <p>Через некоторое время Хусейн догнал Хасана. Хусейн настаивал на том, чтобы Хасан вернулся домой: «Я за тебя, поборюсь, а ты возвращайся; я выстрелил в дверь из лука, и если со мной что-нибудь случится, то из стрелы появится кровь, а если все пойдет благополучно, то молоко закапает». Сказал это Хусейн и отправился в путь. Пришел к роднику, выпил воды и сел отдохнуть. С ко-ро там появился старик и сразу спросил Хусейна: «Что ты хочешь: совет старика или золото?» «Золото я быстро потрачу, а совет навсегда останется со мной», - ответил Хусейн. «Очень хорошо, — сказал старик, - в таком случае, послушай внимательно то, что я тебе скажу. Если тот старик скажет тебе: мол, наруби дров, ты скажи: «Сначала, сам наруби, потом и. я буду рубить». Потом еще он тебе скажет: «Вынь хлеб из печи», так ты скажи: «Сначала ты вынь, потом я выну». Как только он начнет доставать хлеб из печи, ты его затолкай в печь». Хусейн поблагодарил старика и пошел своей дорогой. Вот он пришел к старику, который послал отцу письмо. Поздоровался и зашел в дом. Старик рубил дрова, а Хусейн сказал: «Я очень устал, сегодня сам руби». Старик молча сам нарубил дров. Затем он приготовил еду и попросил Хусейна помочь достать хлеб из печи. Хусейн сказал: «Сначала ты мне покажи, как его вытащить оттуда, потом, я тебе помогу». «Пустъ будет так», - сам начал доставать. Когда вынул последний хлеб, Хусейн толкнул его внутрь и закрыл дверцу, пока тот полностью не сгорел.</p>
+   <p>Убрал этого джинна с глаз долой, а когда посмотрел, что у него в доме есть, увидел валявшиеся на полу человеческие кости. Услышав человеческий стон из другой комнаты, Хусейн заглянул туда и увидел одну красивую девушку, скованную цепью. Он спросил: «Что ты тут делаешь?» Она ответила: «Старик силой притащил меня сюда. Если быстро не уйдешь отсюда, от него хорошего не увидишь». «Я его бросил в печь и сжег», - сказал Хусейн. Девушка очень обрадовалась.</p>
+   <p>Хусейн вонзил в пол стрелу и сказал ей: «Я иду за конями. Если со мной случится какое-то несчастье, оттуда, куда я вонзил стрелу, появится кровь, а если все будет благополучно, закапает молоко».</p>
+   <p>Сказал это девушке и пошел по дороге, а там встретил дракона. Как увидел дракон Хусейна, сказал: «Если ты с третьей попытки попадешь в меня этим камнем, то руби меня на. две части, а если не попадешь, я тебя съем». Хусейн согласился с таким условием. Три раза Хусейн бросил в него камнем и ни разу не попал, поэтому дракон съел Хусейна вместе с конем. Дома его брат Хасан увидел капающую из стрелы кровь, оседлал коня, поняв, что что-то случилось с братом, и отправился в путъ за ним. Вот он. пришел к старику, который прислал письмо отцу. Тот ему показал дорогу, по которой шел Хусейн. Поскакал на копе дальше и к вечеру добрался до одного дома. Соскочил с коня, привязал его во дворе, осторожно оглядываясь, зашел в дом и увидел там ту девушку. Как только ее увидел, спросил про Хусейна, а девушка рассказала обо всем, что произошло в том доме, и показала кровъ, которая капала из того места, куда он вонзил стрелу. От нее Хасан узнал, что после выстрела из лука Хусейн пошел в село за копями, и то, что он по пути встретил дракона, а тот проглотил его. Последние слова она произнесла не очень уверенно. «В таком случае с помощью Аллаха Хусейн и я скоро вернемся обратно», - сказал ей Хасан, вскочил на коня и отправился в путъ.</p>
+   <p>Встретил дракона и договорился с ним, как и Хусейн: если с третьей попытки попадет в него камень, то он его может рубить пополам, а если не попадет, дракон его проглотит. Хасан тоже согласился с этим условием. Взял на прицел и бросил, попал подряд три раза. По договору Хасан вытащил из ножей кинжал, ударил дракона и разрубил пополам. Изнутри наружу вышел Хусейн с конем, и братья обнялись, немного посидели, успокоились, вернулись обратно, забрали ту девушку и скорей отправились к родителям, чтобы развеять их горе.</p>
+   <p>Когда оба брата вернулись домой невредимыми, родители не могли найти себе места от радости. Вскоре после этого Хасан засватал другую девушку, и оба брата в течение недели под музыку вместе сыграли свадьбу.</p>
+   <p>Я тоже был там., ел мед, пил бузу, но обмочил только усы.</p>
+  </body>
+ </text>
+</TEI>

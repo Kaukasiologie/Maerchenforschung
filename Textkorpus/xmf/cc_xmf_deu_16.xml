@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">11. Alischkerkou</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_16.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+  <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+       <district ref="https://www.geonames.org/614378/gulripshi-district.html">Gulripshi</district>
+       <settlement ref="https://www.geonames.org/874635/ojibina.html">Ojibina</settlement>
+       <geo/>
+      </placeName>
+    <date when="1933">1933</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Kolia</forename>
+      <surname>Ghvinjilia</surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename>Makar</forename>
+      <surname>Khubua</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_16">
+  <body>
+   <head>Alischkerkou</head>
+   <p>Es war einmal ein reicher Mann, der hatte zwei Söhne. Im Alter, als erkrank wurde und sein Tod herankam, rief er seine beiden Söhne zu sich und seine schwangere Frau. Er sprach zu ihnen: "Kinder, ihr seht, daß ich sterbe und eure Mutter schwanger ist. Sie wird einen Sohn gebären, dem .ihr den Namen Alischkerkou geben sollt. Er wird ein tapferer Mann werden, der euch schützen wird. Ohne ihn könnt ihr nichts ausrichten. Laßt meine Rosse nicht frei, bevor er geboren und herangewachsen ist, denn ihr könnt sie nicht wiederfinden und werdet auf der Suche nach ihnen selbst verschwinden.” ;</p>
+   <p>Der Vater starb. Sie beweinten ihn, wie es die Sitte verlangte, und bestatteten ihn,</p>
+   <p>Die Söhne sagten: "Was ist unser Vater doch für ein Dummkopf gewesen! Was hat er gesagt?! Das Kind, das im Bauch sitzt, wird geboren werden und heranwachsen, erst dann laßt die Rosse los. Ist das nicht lächerlich?<pb n="82"/>  Bis dahin sollen wir sie anbinden, ihnen das Gras hinschleppen und darüber sterben. Ist es da nicht besser, sie in den Wald zu treiben? Da werden sie für sich grasen, und wenn wir uns aufmachen, fangen wir sie ein und bringen sie wieder her!"</p>
+   <p>Sie trieben die Rosse hinaus. Ein, zwei Wochen vergingen. Da gingen sie,um sie zu suchen. Sie suchten und suchten, sie liefen umher, aber sie konnten nichts finden, und sie verirrten sich und blieben im Wald.</p>
+   <p>Eine lange Zeit verging. Die Mutter brachte ein Kind zur Welt. Das Kind wuchs auf und wurde ein tüchtiger Junge. Er liebte die Jagd und jagte mit Pfeil und Bogen. Die Mutter sagte dem Sohn nicht, daß er Brüder hatte.</p>
+   <p>Der Junge wußte gar nichts. Die Mutter flehte alle an: "Steht mir bei, helft mir, daß es meinem Jungen nicht zu Ohren kommt, denn er wird nicht auf mich hören, sondern hinausstürzen, um sie zu suchen. Und ist es nicht möglich, daß auch er mir verlorengeht? Dann bleibe ich allein ganz zum Fraß für die Hunde!"</p>
+   <p>Eines Tages saß der Junge in einer nahe gelegenen kleinen Bude. Da sah er eine Frau stehen, die einen vollen Wasserkrug auf der Schulter trug. Ersagte zu seinen Gefährten: "Laßt uns wetten, ob ich den Krug auf ihrer Schulter zertrümmern kann!”</p>
+   <p>Seine Gefährten erwiderten: "Aus dieser Entfernung hat noch nie ein Pfeil getroffen, und du willst das schaffen?"</p>
+   <p>Sie wetteten miteinander, Der Junge schoß den Pfeil ab und zertrümmerte den Krug auf der Schulter. Das Wasser überschüttete die Frau, sie wurde naß und schrie: "Mutter, bist du Alischkerkou?! Ach, daß du doch ebenso verschwändest wie deine Brüder!"</p>
+   <p>Der Junge erstarrte. Er wußte nicht, was er sagen sollte, denn daß er Brüder besaß, wußte er nicht. Er sagte kein Wort, und als er nach Hause kam, sagte er zu seiner Mutter: "Bereite mir etwas zu essen!"</p>
+   <p>Die Mutter brachte ihm etwas.</p>
+   <p>"Mach es mir auf dem Feuer heiß, kühles Essen mag ich nicht.”</p>
+   <p>Die Mutter stellte das Essen auf das Feuer. Da ergriff der Sohn ihre Hand und hielt sie ins Feuer, Die Mutter verbrannte sich die Hand.</p>
+   <p>"Kind, warum tust du mir das? Was habe ich dir getan?"</p>
+   <p>Der Sohn sprach: "Sage mir die Wahrheit: Habe ich Brüder gehabt?"</p>
+   <p>Lange leugnete die Mutter. Doch als nichts half, sagte sie schließlich: "Ja, Kind, du hattest zwei Brüder, Als dein Vater starb, hat er ihnen aufgetragen: "Laßt die Rosse nicht los, bis das Kind geboren ist, das noch im Leib sitzt (damit hat er dich gemeint), sonst könnt ihr sie nicht wiederfinden,und ihr werdet wie sie verschwinden." Sie haben nicht auf die Worte des Vaters gehört, deine Geburt nicht abgewartet und die Rosse auf die Weide getrieben. Ein, zwei Wochen später sind sie hinausgegangen, um sie zu <pb n="83"/> suchen. Seit dieser Zeit fehlt jede Spur von ihnen. Ich habe dir das verheimlicht, weil du ein anderes Kind bist. Ich hatte Angst, daß du fortgehen würdest, um sie zu suchen. Was hätte ich tun sollen, wer hätte mich ernähren sollen, wenn du mir verlorengegangen wärest?"</p>
+   <p>Als Alischkerkou das vernahm, wurde er sehr zornig über seine Mutter:"Warum hast du mir das nicht gesagt! Jetzt, meine Mutter, muß ich ausziehen, sie zu suchen. Ich kann nicht zurückkommen, ohne sie gefunden zuhaben!" .</p>
+   <p>Der Junge ging, setzte sich auf sein Roß, hängte sich Pfeil und Bogen über die Schulter, nahm für lange Zeit Wegzehrung mit und zog los, um die Brüder zu suchen. Er ritt einen, zwei, drei Tage lang und gelangte auf ein weites Feld, wo er lautes Krachen hörte. Er wunderte sich sehr: Drei Tageschon bin ich unterwegs und habe keinen Menschen gesehen! Er ritt näher und sah etwas Seltsames: Ein Mann saß allein auf dem Feld, vor ihm brannte ein starkes Feuer, er blies mit dem Mund hinein, und in dem Feuer lag ein Eisen zum Erhitzen. Mit der einen Hand nahm er das glühende Eisen auf, das Knie nutzte er als Amboß, die andere Hand gebrauchte er als Hammer und schmiedete das glühende Eisen auf seinem Knie.</p>
+   <p>Der Bursche staunte, ritt verwundert hin und grüßte ihn: "Was für ein Wunder habe ich da gesehen! Warum verbrennt er sich nicht die Hände oder das Knie, wenn er das glühende Eisen so schmiedet?"</p>
+   <p>Er setzte sich, holte seine Wegzehrung hervor und lud auch den Schmiede in. Sie begannen gemeinsam zu essen. Der Schmied fragte: "Junge, wo kommst du her, und was suchst du?"</p>
+   <p>Der Bursche erzählte ihm alles, was sein Vater bei seinem Tod aufgetragen hatte. Der Schmied meinte: "Junge, wie kannst du denn deine Brüder finden? Ist es nicht möglich, daß du zwei, drei Jahre dafür brauchst? Solange kann dein Roß nicht laufen und wird dir darüber sterben. Es ist besser,du kehrst zu deiner Mutter zurück, sonst bleibst auch du an einem solchen Ort und verschwindest ebenso. Dann lebt deine Mutter völlig im Leid."</p>
+   <p>Der junge Mann entgegnete: "Wenn ich verlorengehe, so geschieht es auf der Suche nach meinen Brüdern und nach keinem anderen!"</p>
+   <p>Da sagte der Schmied: "Dein Roß hilft dir nicht. Höre auf mich: Hier aufdem Feld läuft eine Stute umher. Jedes Jahr wirft sie eine Stute, aber immer entreißen die Schakale ihr das Füllen. Jetzt ist das Pferd trächtig.</p>
+   <p>Wenn sie das Fohlen wirft und es dir gelingt, es zu schützen, dann wird es dich tragen, selbst wenn du hundert Jahre darauf reitest."</p>
+   <p>Der junge Mann sagte: "Wenn die Stute so gut ist, dann will ich sie nicht den Schakalen, ja nicht einmal den Teufeln überlassen."</p>
+   <p>Der Schmied machte ihm Hoffnung, aber er fragte ihn: "Womit willst du die Stute denn hüten?" <pb n="84"/></p>
+   <p>Der Bursche lachte: "Solange ich meinen Pfeil und Bogen habe, werde ich sie hüten."</p>
+   <p>Der Schmied sprach: "Was vermag denn dein Pfeil? Schieß doch einmal auf den Baum da, ob er ihn entwurzeln kann!"</p>
+   <p>Der Bursche schoß, doch sein Pfeil zersplitterte in kleine Stücke.</p>
+   <p>Der Schmied lachte auf: "Habe ich es dir nicht gesagt?"</p>
+   <p>Der Mensch stirbt nicht vor Scham, doch Alischkerkou verging fast vor Scham: "Weh mir, was kann mich jetzt noch retten, da mein Pfeil zerbrochen ist?" ;</p>
+   <p>Der Schmied lachte: "Welchen Beruf habe ich denn? Was für ein Schmied wäre ich, wenn ich keinen Pfeil schmieden könnte?“</p>
+   <p>"Wenn du mir ihn schmieden kannst, so hilf mir, mein Lieber, undschmiede mir einen guten, festen Pfeil.”"</p>
+   <p>Der Schmied versprach es ihm und erfüllte Alischkerkous Bitte. Erfertigte ihm einen Pfeil, der fünfundzwanzig Pud Gewicht hatte. Er drückte ihn ihm in die Hand und sagte: "Jetzt kannst du im Vertrauen auf diesen Pfeil die Stute hüten.”</p>
+   <p>Der junge Mann zog los, um das Pferd zu suchen, aber er konnte es nichtausfindig machen. Er kam zu dem Schmied und fragte ihn: Wohin mag dieses Pferd gelaufen sein? Auf diesem Feld ist es nicht zu finden!"</p>
+   <p>Der Schmied hielt Ausschau, überlegte und sprach: "Hinter dem dritten Berg ist eine gute Quelle, dort wird es hingelaufen sein, um zu trinken. In drei Tagen wird es zurückkommen.“”</p>
+   <p>Am Morgen des vierten Tages zog Alischkerkou los und sah das Pferd.</p>
+   <p>Er kam zu dem Schmied und sagte zu ihm: "Das Pferd steht ganz sinnlosda, aber es sieht nicht so aus, als würde es ein Fohlen werfen."</p>
+   <p>Der Schmied sagte: "Gedulde dich ein wenig. In fünfzehn Tagen wird esdie Stute zur Welt bringen.“</p>
+   <p>Der Bursche wartete, Nach fünfzehn Tagen ging er hin, um die Stute zusuchen, aber er konnte sie nicht finden. Er kam zurück und sagte zu dem Schmied: "Das Pferd ist überhaupt nicht zu sehen."</p>
+   <p>"Ach, mein Gott, es wird ans Meer gelaufen sein und wird bald kommen."</p>
+   <p>Tatsächlich kam das Pferd am nächsten Tag ganz in die Nähe des Schmiedes und des jungen Mannes. Sie beide sahen es sich genau an und merkten, daß es heute die Stute werfen mußte. Der junge Mann war bereit,sie zu beschützen. Als sich die Sonne zum Untergehen neigte, legte sich das Pferd hin und wollte das Fohlen zur Welt bringen. Da tauchten im Waldein Wolf, ein Schakal und ein Bär auf. Sie kamen, um die Stute zu holen.</p>
+   <p>Doch der Bursche zielte mit Pfeil und Bogen und schoß: Bäume und Steine schmetterte er zusammen. Da erschraken die Wölfe und kehrten um. Die <pb n="85"/> Stute verblieb dem jungen Mann.</p>
+   <p>Jetzt sprach der Schmied zu dem Burschen: "Jetzt bist du glücklich. Wennsie herangewachsen ist, fang sie ein und reite sie zu, Sitz auf und reitedamit. Mit ihr kannst du deine Brüder suchen."</p>
+   <p>Es verging geraume Zeit, und die Stute mußte eingefangen werden.</p>
+   <p>Alischkerkou packte einen langen Stock und ritt auf seinem Pferd der Stute hinterher. Einen ganzen Tag lang verfolgte er sie und fing sie mit Mühe. Er legte ihr die Trense in das Maul, legte den Sattel auf, setzte sichdarauf und ritt sie zu. Am nächsten Tag brach er auf, um seine Brüder zusuchen.</p>
+   <p>Lange war er unterwegs. Eines Tages um die Mittagszeit kam er an einenkleinen Fluß. Er verspürte Hunger. Er sprang vom Pferd und setzte sich,um zu essen. Als er sich umsah, erkannte er ein menschenähnliches Wesen.</p>
+   <p>Leise, ganz leise erhob er sich und schlich sich an den Waldmenschen heran, packte ihn und hielt ihn fest. Der andere brüllte und schrie, aber was hätte er gegen Alischkerkou ausrichten können?! Alischkerkou riß ihn herum und streckte ihn zu Boden, schleppte ihn zu seinem Gepäck, ergriff eine Schere, schnitt ihm das Haar, badete ihn, zog ihm Kleider an, währender ihn gewaltsam festhielt. Er reichte ihm Essen, und der andere nahm es und begann zu essen.</p>
+   <p>Alischkerkou fragte ihn: "Wer bist du? Woher bist du gekommen?"</p>
+   <p>Der andere begann zu sprechen und erzählte ihm, wie es um ihn stand.</p>
+   <p>Schließlich stellte es sich heraus, daß er Alischkerkous Bruder war. Da freute sich Alischkerkou: "Mein lieber Bruder! Den einen Bruder habe ich gesehen. Jetzt fehlt mir nur noch, daß ich den zweiten finde!"</p>
+   <p>Sie sättigten sich, klopften sich die Sachen aus, setzten sich beide auf das eine Pferd und zogen los, um den dritten Bruder zu suchen.</p>
+   <p>Auch den dritten Bruder fanden sie so. Sie taten sich alle drei zusammen und kehrten erfreut nach Hause zurück. Wie sie unterwegs waren, stieg aus einer kleinen Flechthütte Rauch auf. Als sie hineinblickten, saß eine alte Frau am Herd, hatte die eine Brust über die eine und die andere über die andere Schulter geworfen, und sie lagen dick und prall auf ihrem Rücken.</p>
+   <p>Alischkerkou schlich sich von hinten an sie heran und setzte seine Zähne an ihre Brüste: "Du sollst mir Mutter und ich will dein Sohn sein!"</p>
+   <p>Die Alte blickte sich um, wunderte sich, als sie die Burschen sah, und sprach: "Woher seid ihr gekommen, meine Kinder, was für Leute seid ihr,und was sucht ihr?"</p>
+   <p>Alischkerkou sagte, wie sich ihre Sache verhielt und wie er seine beiden verlorenen Brüder gefunden hatte.,</p>
+   <p>Sie blieben zwei Wochen da und sahen jeden Tag, wie etwas wie das Sonnenlicht aufleuchtete und den Wald mit Licht überschüttete. <pb n="86"/> </p>
+   <p>Alischkerkou fragte seine neue Mutter: "Meine Mutter, was ist das, sage es mir." Die Mutter entgegnete: "Das ist nicht nötig für dich.” Doch Alischkerkou war ein hartnäckiger Mann. Er zwang sie, ihm zu sagen, was es war.</p>
+   <p>"Das ist die Tochter eines gewaltigen Riesen, die zwölf Brüder und einen sehr alten Großvater hat. Der jüngste Bruder hat die Kraft von hundert Männern. Die älteren haben jeweils hundert Männer mehr Kraft als die jüngeren. Der allerälteste hat die Kraft von tausendzweihundert Männern.</p>
+   <p>Auch der Großvater besitzt die gleiche Kraft wie die zwölf Brüder. Das Mädchen sitzt in einer großen, hohen Karawanserei, und je ein Bruder steht nachts an ihrem Kopfende auf Wacht.”</p>
+   <p>Als Alischkerkou das hörte, wartete er nicht länger, sondern wollte aufbrechen, um das Mädchen zu suchen. Die Mutter ließ ihn nicht ziehen,aber es half nichts. Als Alischkerkou loszog, gab ihm die Mutter ein kleines Taschenmesser und sprach: "Dies ist ein Bote. Wenn du in Not bist, so l1aßes los. Es wird die Nachricht herbringen, und deine Brüder werden dir beistehen.” .</p>
+   <p>Alischkerkou legte das Taschenmesser in seine Tasche, setzte sich auf sein Roß und ritt davon. Er kam in die Nähe des Hauses, in dem sich das Mädchen befand. Er sah eine große eiserne Umfriedung und eine riesige Eisentür, an der ein großes Schloß hing. Alischkerkou besaß keinen Schlüssel. Er ließ sein Roß heranstürmen, preschte gegen die Umfriedung und riß einen Teil der Mauer zu Boden. Er galoppierte zu dem Gebäude undsprang ab. Das Roß ließ er dort, er selbst stieg dort in das obere Stockwerk hinauf, wo sich das Mädchen aufhielt. Er stellte sich auf den Balkon und schaute nach dem Mädchen. Dabei sah er in einem Spiegel, der an der Wand h1ng‚ daß sie mit dem Gesicht zu ihm dalag Alischkerkou sah, daßsie ihn im Spiegel anblickte.</p>
+   <p>Das Mädchen entbrannte in Liebe zu ihm. Sie wandte sich ihm zu und sprach: "Junger Mann, warum bist du hierhergekommen, um mein Herz zu peinigen! Bist du denn so ein Held, daß du meine Brüder überwinden könntest? Meine Brüder stehen vom Abend an bei mir Wacht. Gelingt es dir, einen zu töten, bleiben noch elf andere übrig. Vermagst du alle zutöten, dann beginnt die Auferstehung für mich.”</p>
+   <p>Der junge Mann setzte sich auf den Balkon, und zur Abendzeit kam ein Bruder, Als er seine Umfriedung zerstört fand, brüllte er: "Was für ein Mann bist du, daß du meine Mauer umgeworfen hast? Wie konntest du es wagen, hier einzudringen? Tritt zum Kampf an, ich will dich wie einen Lumpen zerfetzen!"</p>
+   <p>_ Alischkerkou rief ihm zu: "Komm nur her, du struppiger Riese! Wie einem Kücken werde ich dir den Kopf abreißen!”</p>
+   <p>Der Riese konnte sich nicht länger beherrschen und schoß von fern einen <pb n="87"/> Pfeil ab. Alischkerkou fing ihn mit der Hand auf und tötete den Riesen mit diesem Pfeil.</p>
+   <p>Auf diese Weise tötete er alle Brüder, die das Mädchen hatte, jeweils an einem Abend. Da begann das Mädchen zu schreien und weinte: "Jetzt wird mein alter Großvater kommen. Gegen ihn kannst du allein nichts ausrichten, ihn kannst du nicht besiegen. Hinter diesem kleinen Hügel fließt einkleiner Bach. Eine Brücke führt über ihn hinweg. Diesseits der kleinen Brücke plätschert eine heiße Quelle. Wenn es dir gelingen sollte, meinem Großvater den Kopf abzuschlagen und dort hineinzuwerfen, so wird er sofort sterben. Wenn du ihn nicht hineinwerfen kannst, werden ihm vier Köpfe wachsen. Schlägst du ihm diese ab und kannst sie nicht hineinwerfen,so werden ihm zwölf Köpfe wachsen. Schlägst du ihm diese zwölf Köpfe ab und kannst sie nicht hineinwerfen, dann bist du verloren."</p>
+   <p>Alischkerkou setzte sich auf sein Roß, hängte sich seinen großen Dolch</p>
+   <p>um und ritt los. Er ritt unter die Brücke und verbarg sich dort. Am Abend kam der alte Riese auf seinem Roß zu der kleinen Brücke geritten. Als das Roß seinen Fuß auf die Brücke setzte, lief es nicht mehr weiter, sondern begann zu schnauben. Der Riese witterte den Menschengeruch und brüllte:"Wer bist du, der du hier darunter sitzt? Komm hervor, wenn du ein Kerl bist!”Alischkerkou sprang heraus. In der Hand hielt er den Dolch. Sie nahm enden Kampf auf. Gnadenlos schlugen sie aufeinander ein, um einander zu verwunden. Wie sie stritten, kämpften auch ihre Rosse miteinander. Alischkerkou schlug dem Riesen den Kopf ab, vermochte ihn aber nicht in die kochende Quelle zu werfen. Da wuchsen dem Riesen vier Köpfe. Alischkerkou sah, daß er allein ihn nicht überwinden konnte, daß seine Kraft nicht ausreichte. Er erinnerte sich an das kleine Taschenmesser, das ihm seine Mutter gegeben hatte, er zog es hervor und ließ es zu seinen Brüdern:"Hilfe, steht mir bei!”</p>
+   <p>Sofort war das Taschenmesser mit neuer Kunde zurück: "Kämpfe nur tüchtig, und wir werden bald hinkommen. Nicht nur den Kopf, den ganzen Riesen werden wir in das kochende Wasser werfen!”</p>
+   <p>Alischkerkou schöpfte neue Hoffnung, er drang auf den Riesen ein und schlug ihm die vier Köpfe ab. Da wuchsen ihm zwölf Köpfe. Nun war Alischkerkou am Ende seiner Kräfte. Er erkannte, daß ihm die Hoffnung auf seine Brüder nicht helfen konnte. Er übertraf sich selbst, stieß mit aller Kraft seinen Dolch nach dem Riesen und schlug ihm alle zwölf Köpfe ab, Er ließ sie in die Quelle hineinplatschen, in der das kochende Wasser gluckerte. Da verendete der Riese.</p>
+   <p>Alischkerkou brach zusammen und verlor die Besinnung. Nach langer Zeit kam er wieder zu sich, Er fühlte, daß ihn etwas am Fuß stieß. Alischkerkous<pb n="88"/>  Roß hatte das Roß des Riesen getötet und sich dann still zu seinen Füßen gelegt. Behutsam nahm es ihn auf seinen Rücken, Alischkerkou hieltsich am Sattel fest, und das Roß erhob sich. Sie machten kehrt und ritten zurück.</p>
+   <p>Als das Mädchen sah, daß Alischkerkou am Leben war, freute sie sich,lief ihm entgegen, umarmte und küßte ihn: "Jetzt sind wir glücklich!"</p>
+   <p>Alischkerkou hob sein Mädchen in den Sattel und ritt zu seinen Brüdern.</p>
+   <p>Er nahm auch seine Brüder, sie bereiteten sich Wegzehrung zu und brachen auf, um zum Haus ihres Vaters zu reisen. Sie gelangten auf ein weites Feld.</p>
+   <p>auf dem einsam eine Linde stand. In ihrem Schatten ruhten sie sich aus.</p>
+   <p>Alischkerkou schlief ein, und sein Kopf ruhte auf den Knien seiner Braut.</p>
+   <p>Die Brüder verschworen sich gegen ihn: "Wir wollen Alischkerkou töten,dann bleibt das schöne Mädchen für uns.”</p>
+   <p>Alischkerkous Braut vernahm alles, aber sie weckte Alischkerkou nicht.</p>
+   <p>Ein Bruder schlich sich hin und zückte seinen Dolch. Da erwachte Alischkerkou. Vor Angst glitt dem Bruder der Dolch aus der Hand. Aber er fiel über Alischkerkou her und schlug ihm beide Beine ab.</p>
+   <p>Das Mädchen weinte. Die Brüder nahmen sie gewaltsam mit und ließen Alischkerkou hilflos liegen.</p>
+   <p>Das Mädchen ließ ein kleines Kästchen, in dem ein Tüchlein lag, bei ihmzurück und sprach: "Solange ich dies beides nicht sehe, wirst du am Leben sein, und ich will keines anderen Frau werden.”</p>
+   <p>Sie zogen davon und ließen ihm nur ein wenig Nahrung da.</p>
+   <p>Alischkerkou saß allein mit abgetrennten Beinen unter der Linde und beweinte den Tag seines Unglücks. Als er aufblickte, sah er einen Hirsch auf sich zukommen, dem ein Mann folgte. Dieser Mann stürzte hier und da über Bäume und Steine. Als Alischkerkou den Hirsch erblickte, schoß ereinen Pfeil nach ihm und erlegte ihn. Da kam der Mann heran und begann Alischkerkou laut zu schelten: "Was hast du mir angetan? Hätten doch deine Brüder dir das gleiche angetan wie die meinigen mir!”</p>
+   <p>Alischkerkou sagte zu ihm: "Reicht mir denn nicht, was meine Brüdermir angetan haben, daß sie mir die Beine abgetrennt haben? Was fehlt dir denn?"</p>
+   <p>"Kannst du nicht erkennen, was mit mir ist? Meine Brüder haben mir beide Augen ausgestochen, und jetzt bin ich blind.”</p>
+   <p>"Komm her, Bruder“", sagte Alischkerkou, "du bist blind, und ich habekeine Beine. Laß uns Brüder sein. Nicht einen Hirsch, hundert Hirsche werden wir erlegen."</p>
+   <p>Sie schlossen Brüderschaft. Alischkerkou setzte sich dem Blinden auf die Schulter und wies ihm den Weg dorthin, wo der Hirsch lag. Sie schleppten den Hirsch her, zogen ihm das Fell ab und lebten in Eintracht. <pb n="89"/> </p>
+   <p>Am nächsten Tag verfolgte wieder ein Mann einen Hirsch und gab ihm mit dem Fuß einen Tritt. Auch diesen Hirsch erlegte Alischkerkou. Der Mann kam zu ihm und brachte sich fast um: "Warum hast du mir meinen Hirsch getötet? Hätten doch deine Brüder dir das gleiche angetan wie die meinigen mir! Siehst du denn nicht, daß ich keine Hände habe? Meine Brüder haben sie mir abgeschlagen.”</p>
+   <p>"Siehst du denn nicht, daß ich keine Beine habe? Die haben mir meine Brüder abgetrennt. Laß uns uns zu dritt zusammentun und ohne Beine,blind und ohne Hände, von unseren Brüdern mißhandelt, zusammenleben.</p>
+   <p>An Wildbret wird es uns nicht mangeln."</p>
+   <p>Sie schlossen Brüderschaft und lebten von der Jagd. Der Blinde nahm sich Alischkerkou auf die Schulter, der Mann ohne Hände lief voraus, und so streiften sie durch den Wald, erlegten Wild, verkauften es und wurden reich. Sie bauten sich ein schönes Haus. Ein wenig gingen sie auch in das Dorf. An einem Ort stießen die drei Krüppel auf eine Festgesellschaft.</p>
+   <p>Niemand kümmerte sich sehr um sie. Man setzte sie in einen Winkel. Doch ein Mädchen versorgte sie und erwies ihnen große Ehre. Alles, was es an guten Speisen gab, brachte sie ihnen. Die drei verliebten sich in sie und sprachen: "Laßt uns dieses Mädchen mitnehmen."</p>
+   <p>Man brachte die Braut herein, hieß sie an der Tafel Platz nehmen und begann, sie mit Geld zu beschenken, doch zu Alischkerkou und dessen Gefährten ging niemand hin. Das Mädchen sagte zu dem Mann, der das Geld sammelte: "Geh auch zu denen da, das sind auch Menschen."</p>
+   <p>Der Blinde schenkte hundert Maneti, der ohne Hände zweihundert und Alischkerkou dreihundert. Tausendfünfhundert Gäste waren da und schenkten ganze zweihundert Maneti. Die drei Männer aber gaben sechshundert Maneti.</p>
+   <p>Am Morgen, als es tagte, sprachen sich die Brüder ab: Alischkerkousetzte sich dem Mann ohne Hände auf die Schulter, der Blinde nahm das Mädchen an die Hand, setzte sie auf seine Schulter, und so zogen sie davon und nahmen das Mädchen heimlich mit. Sie brachten sie in ihr Haus, ohne daß sie jemand hätte einholen können, Die Brüder sprachen zu Alischkerkou: "Wir sind verdorbenes Volk, heirate du das Mädchen."</p>
+   <p>Alischkerkou weigerte sich: "Das ist unsere leibliche Schwester. Wir wollen sie wie eine Schwester halten.”</p>
+   <p>Eines Tages begaben sich alle drei Brüder auf die Jagd. Als sie abends nach Hause kamen, fanden sie das Mädchen im Sterben liegend.</p>
+   <p>Das Mädchen sprach: "Eine alte Frau ist gekommen und hat mich beinahe erwürgt.”</p>
+   <p>Am nächsten Tag tat sie ihr noch Schlimmeres an. Jetzt kamen die Brüder überein: "Laßt uns der Reihe nach Wache halten!"<pb n="90"/></p>
+   <p>Der Blinde sagte: "Heute will ich wachen. Mit den Augen kann ich sie zwar nicht sehen, doch wenn sie mir in die Hände fällt, werde ich sie wie Stoff zerreißen."</p>
+   <p>Sie zogen auf die Jagd und ließen den Blinden als Wächter bei dem Mädchen. Der Blinde sagte zu dem Mädchen: "Was es auch sein möge, locke es ins Haus, damit ich es in meine Hände bekomme. Und dann wirst du schon sehen, was ich mit ihm mache!”</p>
+   <p>Als die Alte kam, erwürgte sie das Mädchen beinahe. Und dem Blinden,der sie fangen wollte, schlug sie an der Wand fast den Kopf ein.</p>
+   <p>Als die Brüder nach Hause kamen, fanden sie das Mädchen mehr tot als lebendig.</p>
+   <p>Am nächsten Tag blieb der Mann ohne Hände als Wächter bei dem Mädchen. Die Alte kam, stürzte in das Haus, schlug das Mädchen schlimmer als gestern und gab dem Mann ohne Hände einen Tritt.</p>
+   <p>Als die Brüder am Abend heimkehrten, fanden sie das Mädchen verprügelt. .</p>
+   <p>Am dritten Tag übernahm Alischkerkou die Wache bei dem Mädchen.</p>
+   <p>Gleich am Morgen ließ er das Mädchen fünf lange Stöcke abschneiden.</p>
+   <p>Vier Stöcke ließ er in die Ecken stellen. Er selbst setzte sich genau oben über die Tür und nahm sich einen Stock in die Hand.</p>
+   <p>Wieder kam die Alte, um das Mädchen zu schlagen. Doch das Mädchen setzte keinen Fuß aus der Tür. Da ging die Alte hinein. Als sie hereinkam,ließ sich Alischkerkou herabfallen und sprang ihr direkt ins Genick. Erschlug mit dem Stock auf sie ein, bis der zerbrach. Der Alten wurde es schwindlig, sie fiel in eine Ecke. Da ergriff er den zweiten Stock und hieb zu. Alle Stöcke zerdrosch er auf ihrem Kopf. Der Alten drehte sich alles im Kopf, sie fiel zu Boden. Er ließ einen Strick holen, band sie an einer langen Bank fest und legte sie ans Feuer,</p>
+   <p>Als die Brüder kamen und die Alte gefangen sahen, freuten sie sich sehr.</p>
+   <p>Sie legten sie direkt an das Feuer und begannen sie zu quälen.</p>
+   <p>Die Alte sprach: "Verbrennt mich nicht im Feuer. Ich will euch alle heilen: Dir Blindem will ich das Augenlicht wiedergeben, dir neue Händeund dir Beine wachsen lassen. Nur müßt ihr mir einzeln in den Mund hineinkriechen!" ;</p>
+   <p>Die Brüder sagten: "Wir trauen dir nicht. Wenn wir hineinsteigen und nicht wieder herauskönnen, was dann?"</p>
+   <p>"Nehmt viele Knüppel zur Hand. Wenn ich euch nicht herauslasse, so stellt mich auf den Kopf und haltet auch einen großen Hammer bereit.</p>
+   <p>Schlagt mich solange mit den Knüppeln, bis ich den Mann wieder herauslasse."</p>
+   <p>Als erster stieg der Blinde hinein und kam sehend wieder heraus. Dann <pb n="91"/> stieg der Mann ohne Hände hinein und kam mit Händen wieder heraus.</p>
+   <p>Da freuten sich die Brüder: "Alischkerkou, jetzt ist die Reihe an dir!"</p>
+   <p>Alischkerkou sprach zu seinen Brüdern: "Sie ist mein Feind, und es kann sein, daß ich nicht mehr herauskommen kann. Aber haltet euch nicht zurück, sie mit dem Hammer zu schlagen. Wenn ich nicht wieder herauskomme, dann haltet sie fest und schneidet sie auf wie ein Huhn!"</p>
+   <p>Alischkerkou kroch hinein, aber er kam nicht wieder heraus. Sie hiebenmit dem Hammer zu, doch Alischkerkou blieb darinnen.</p>
+   <p>Sie schnitten der Alten den Leib auf, doch Alischkerkou war nicht zu finden. Da gingen sie daran, der Alten jedes Glied zu öffnen. Und an der Spitze des kleinen Fingers fanden sie ihn mit Beinen.</p>
+   <p>Jetzt machten sich Alischkerkou und seine Brüder auf, um zu Alischkerkous Haus zu ziehen. Unterwegs hörten sie an einem Ort Schreien und Weinen.</p>
+   <p>Sie gingen hin, um nachzusehen, wer dort gestorben war.</p>
+   <p>Doch sie fanden keinen Toten. Es saß ein Mädchen da, und das beweinte man.</p>
+   <p>"Was soll das, daß ihr ein lebendiges Mädchen beweint?"</p>
+   <p>"Was das soll? Der Sohn von dem und dem Mann heiratet heute abend.</p>
+   <p>Die Braut verlangt von ihrem Bräutigam ein Tuch. Wenn du mir das bringst, werde ich deine Frau, wenn nicht, so heirate ich dich nicht, hat sie gesagt. Dieses Mädchen hier hat ihm versprochen, ein solches Tuch zusticken, hat es aber nicht vermocht. An diesem Abend werden sie kommen und sie umbringen. Weh mir, warum muß mein Mädchen für diesen Mann ihr Leben lassen!"</p>
+   <p>"Weint nicht!" Alischkerkou zog sein Tuch hervor und gab es ihr. "Bringt ihr dieses Tuch, dann wird man dein Mädchen nicht töten."</p>
+   <p>Als man der Braut das Tuch gab, war sie nicht einverstanden: "Das Tuch habe ich zwar, aber jetzt möchte ich das Kästchen, in dem es aufbewahrt worden ist.”</p>
+   <p>Da schickte der Bräutigam sogleich Leute zu den Tischlern und ließ das Kästchen in Auftrag geben, doch kein Tischler vermochte es anzufertigen.</p>
+   <p>Wie das Mädchen beweinte man den Tischler schon zu Lebzeiten. Alischkerkou gab auch ihm das Kästchen, und der Mann war gerettet.</p>
+   <p>Man brachte der Braut das Kästchen. Als sie es sah, war sie zu Tode erschrocken. Sie ging in ihr Gemach und begann zu weinen.</p>
+   <p>Alischkerkou und seine Freunde kamen dorthin, wo das Fest stattfand.</p>
+   <p>Niemand erkannte ihn. Er trat in das Zimmer, in dem das Mädchen weinte.</p>
+   <p>Er nahm seinen kleinen Tschonguri, begann zu spielen und sang Gedichte dazu. All sein Unglück brachte er dem Mädchen zu Gehör. Das Mädchen erkannte an der Stimme, daß es Alischkerkou war, doch sie glaubte, er <pb n="92"/> wäre tot, weil sie beides, das Tuch und das Kästchen, zusammen erhalten hatte. Sie sah ihn ein wenig genauer an und erkannte ihn am Gesicht. Da freute sie sich, und sie bekam wieder gute Laune. Sie umarmten sich und küßten sich viele Male.</p>
+   <p>Jetzt rief man die Braut herbei, um sie zu bekränzen. Aber sie erbat sich zuvor ein wenig Brotteig. Sie formte als Hühner eine Henne und einen Hahn, setzte beide auf den Tisch und ließ sie alles Leid erzählen, das sie und Alischkerkou erfahren hatten, Schließlich fügte sie hinzu: "Was soll mit den Brüdern geschehen, die so etwas getan haben?"</p>
+   <p>Alle eingeladenen Gäste entschieden, einen solchen Menschen an den Schweif eines Pferdes zu binden und ihn zu Tode schleifen zu lassen.</p>
+   <p>Alles war gesagt. Alischkerkou trat heraus und berichtete, wie es ihm ergangen war.</p>
+   <p>Da freuten sich die Gäste, als sie Alischkerkou sahen. Sofort banden sieden ältesten Bruder an den Schwanz seines Pferdes, Alischkerkou vermählte man mit dem Mädchen. Es wurde ein großes Gelage veranstaltet. Auch ich bin dort gewesen. Torkelnd bin ich heute hierhergekommen.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">12. Roschapi und Rokapi</title>
+    <author>
+     <name xml:id="HF">
+      <persName>
+       <forename>Heinz</forename>
+       <surname>Fähnrich</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="KD">
+      <persName>
+       <forename>Korneli</forename>
+       <surname>Danelia</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+     </name>
+    </author>
+    <author>
+     <name xml:id="AZ">
+      <persName>
+       <forename>Apolon</forename>
+       <surname>Zanava</surname>
+      </persName>
+     </name>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name xml:id="ED">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+     </name>
+     <name xml:id="DF">
+      <persName>
+       <forename>Diana</forename>
+       <surname>Forker</surname>
+      </persName>
+      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date>2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>
+      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+     </p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="collection">
+     <title xml:lang="eng">Mingrelian Fairy Tales</title>
+     <title xml:lang="kat">მეგრული ზღაპრები</title>
+     <title xml:lang="deu">Mingrelische Märchen</title>
+     <author role="author">
+      <name ref="#HF">
+       <persName>
+        <forename>Heinz</forename>
+        <surname>Fähnrich</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#KD">
+       <persName>
+        <forename>Korneli</forename>
+        <surname>Danelia</surname>
+       </persName>
+      </name>
+     </author>
+     <author role="author">
+      <name ref="#AZ">
+       <persName>
+        <forename>Apolon</forename>
+        <surname>Tsanava</surname>
+       </persName>
+      </name>
+     </author>
+     <respStmt>
+      <resp/>
+      <name/>
+     </respStmt>
+     <extent>
+      <measure unit="words"/>
+      <measure unit="pages"/>
+     </extent>
+     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+     <distributor/>
+     <date when="2001">The year 2001</date>
+     <availability>
+      <licence/>
+     </availability>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="deu">
+     <index indexName="iso639-3"/>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+    </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+    </keywords>
+    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+     <term>prose</term>
+    </keywords>
+    <keywords scheme="https://d-nb.info/gnd/">
+     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+     <list>
+      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_17.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
+     </list>
+    </keywords>
+    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+     <list>
+      <item/>
+     </list>
+    </keywords>
+   </textClass>
+ <creation>
+    <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+       <district></district>
+       <settlement ref="https://www.geonames.org/613614/k-urzu.html">Kurzu</settlement>
+       <geo/>
+      </placeName>
+    <date when="1923">1923</date>
+   </creation>
+   <particDesc>
+    <person role="speaker">
+     <persName>
+      <forename>Tedo</forename>
+      <surname>Jojua</surname>
+     </persName>
+     <age></age>
+     <birth>
+      <date></date>
+      <placeName>
+       <country></country>
+       <region></region>
+       <district></district>
+       <settlement></settlement>
+       <geo/>
+      </placeName>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName>
+      <forename>Makar</forename>
+      <surname>Khubua</surname>
+     </persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change>
+     <name/>
+     <date/>
+    </change>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="cc_xmf_deu_17">
+  <body>
+   <head>Roschapi und Rokapi</head>
+   <p>Es war einmal ein altes Ehepaar, das hatte keine Kinder. Der Mann war Jäger. Dieser Jäger hatte ein bestimmtes Jagdgebiet, dahinter befand sich das Herrschaftsgebiet von Roschapi. In Roschapis Revier durfte nicht geschossen werden. Selbst wenn man am Rand seines Landes geschossen hätte, so hätte er doch gewußt, daß es auf seinem Gebiet war. Schließlich bekam das alte Ehepaar doch einen Sohn. Jeden Tag war das Kind kräftiger als am Tag zuvor, und bald war es herangewachsen.</p>
+   <p>Zu dieser Zeit ging der alte Mann auf die Jagd. Er sah einen weißen Hirsch und verfolgte ihn, doch der Hirsch floh in Roschapis Gebiet. Der Alte konnte sich nicht mehr beherrschen und schoß, aber seine Kugel verfehlte den Hirsch. In diesem Augenblick donnerte es, und eine Stimme dröhnte: "Wer bist du, daß du in meinem Reich schießt?"</p>
+   <p>Kurz darauf erschien Roschapi bei dem Alten und sprach: "Warum hast du in meinem Wald mit dem Gewehr geschossen? Du wußtest doch, daß man hier nicht schießen darf. Aber ich will dir nichts antun. Schicke nur deinen Sohn zu mir."</p>
+   <p>Der Alte brach in Tränen aus und sagte: "Herr, wohin soll ich ihn gehenlassen, damit er zu deinem Haus findet?"</p>
+   <p>Roschapi erwiderte: "Führe ihn zu deinem Tor hinaus, und dann wird er zu meinem Haus kommen, wohin er sich auch wendet.” <pb n="93"/> </p>
+   <p>Der Alte ging nach Hause, und als er weinend seinen Hof betrat, lief ihm der Sohn entgegen und fragte: "Vater, warum weinst du?"</p>
+   <p>Der Vater meinte schluchzend: "Mir ist nicht nach Weinen, sondern nach Sterben zumute.” Und er erzählte dem Jungen, daß er am Morgen zu Roschapis Haus gehen sollte.</p>
+   <p>"Deshalb hast du geweint?" sagte der Bursche, "Bereite mir Wegzehrung zu, und am Morgen in der Frühe will ich losziehen. Deshalb sollst du nicht weinen.”</p>
+   <p>Am nächsten Morgen bereiteten sie dem Sohn die Wegzehrung, und erbrach auf, um Roschapis Haus aufzusuchen. Er lief und lief und gelangte an das Ufer eines Flusses. Er sah hinab und erblickte drei Tauben, die herangeflogen kamen. Der Bursche dachte: "Ich laufe sowieso ins Ungewisse, ich will eine Weile diese Tauben beobachten." Und er verbarg sich im Gesträuch.</p>
+   <p>Während der Bursche da saß, flogen die Tauben in seine Nähe an das Flußufer, Sie schlugen mit den Flügeln, und aus dem Federkleid schlüpften wunderschöne Mädchen heraus. Sie begannen im Fluß zu baden. Der Bursche dachte: Ich ziehe sowieso ins Ungewisse und will ihre Federkleider an mich nehmen, Er sprang aus dem Wald und ergriff die Federn der einen. Den anderen beiden gelang es, in ihre Gewänder zu schlüpfen und zu entkommen. Das eine Mädchen blieb im Fluß und sprach zu dem Burschen: "Junge, was dir fehlt, das weiß ich alles. Gib mir mein Federkleid wieder, und ich werde dich retten. Ich bin Roschapis Tochter, und die Mädchen, die geflohen sind, sind meine Schwestern. Wenn du unseren Hof betrittst, so komm nicht vor Anbruch der Nacht heraus, um einen Menschen zu sehen. Wo nachts ein Licht brennt, dort geh hinein. Kein anderer außer mir wird Licht haben. Ich werde dir sagen, wie du dich weiter verhalten sollst.”</p>
+   <p>"Gut", sagte der Bursche und gab dem Mädchen die Federn. Das Mädchen nahm sein Gewand und flog sofort davon.</p>
+   <p>Der Bursche brach auf, lief seines Weges und erreichte Roschapis Haus, Bis zum Einbruch der Nacht wartete er im Gebüsch, und als es Nacht wurde, kam er heraus. Als er sich umsah, bemerkte er Licht in einem Zimmer, in den anderen Räumen war es überall dunkel. Rasch machte er sich auf und ging dort hinein, wo das Licht leuchtete. Das Mädchen empfing ihn und gab ihm zu essen. Sie unterhielten sich ein wenig, und sie ließ den ermüdeten Burschen ruhen. Es war eine Januarnacht. Das Mädchen ging hin und ließ nachts vor dem Haus einen Baum wachsen, der halb Apfelbaum und halb Birnbaum war. Dann weckte sie den jungen Mann und sagte: "Stell dich unter diesen Baum, und wenn meine Mutter und mein Vater erwachen, so begrüße Roschapi einmal und Rokapi zweimal. Sie <pb n="94"/> werden dich fragen: Wer hat das vollbracht? Du aber antworte: Dergleichen kann ich vieles, doch für mich ist das alles ein Kinderspiel. Danach wird erdich am heutigen Tag in Ruhe lassen. Wenn es Nacht wird, komm in das Zimmer, wo du Licht siehst”, sagte das Mädchen.</p>
+   <p>Es wurde hell, und Rokapi und Roschapi standen auf, Da sahen sie den Burschen am Fuß des Baumes stehen. Der junge Mann grüßte Rokapi zweimal und Roschapi einmal.</p>
+   <p>"Den heutigen Tag geben wir dir frei”, sagten sie zu dem jungen Mann.</p>
+   <p>Als es Nacht wurde, begab sich der Bursche wieder in das Zimmer des Mädchens. Dieses Mädchen konnte hellsehen. Sie wußte alles, was ein Mensch dachte. Auch in dieser Nacht ließ sie den Burschen ruhen. Das Haus stand an der Küste des Meeres. Das Mädchen baute eine Brücke, die zwei Kilometer weit in das Meer hineinführte. Dann weckte sie den jungen Mann und sprach: "Nimm diese Zange und den Hammer, stell dich an die Brücke und klopfe dagegen. Wenn Roschapi und Rokapi aufstehen, grüße Rokapi dreimal und Roschapi zweimal. Sie werden dir sagen: "Auch den heutigen Tag hast du frei." Bleib tagsüber dort und komm nachts wieder zu mir", sagte das Mädchen.</p>
+   <p>Am Morgen geschah alles so, wie es das Mädchen gesagt hatte. Der junge Mann stellte sich an jenem Tag auf die Brücke, und als die Nacht hereinbrach, ging er wieder in das Zimmer des Mädchens.</p>
+   <p>Das Mädchen sagte: "Morgen früh werden meine Mutter und mein Vater zu dir kommen und dir sagen: "Du sollst unsere Tochter zur Frau nehmen!“Wir sind drei Schwestern, sie werden uns alle drei vor dich hinstellen und sagen: "Suche dir die aus, die du willst.” Aber wir sehen uns alle drei ähnlich. Daß du mich nicht verkennst, sonst wirst du umkommen! Wenn sie uns vor dir aufreihen, dann achte auf meine Ferse. Wenn ich mit einem Fußwippe, bin ich es, dann faß nach meiner Hand. Dann werde ich deine Frausein.”</p>
+   <p>Am nächsten Tag stellten sie tatsächlich alle drei Schwestern vor ihm aufund sagten zu ihm: "Wähle dir von diesen Mädchen diejenige aus, die duals Braut möchtest!"</p>
+   <p>Der junge Mann blickte sie lange an und ergriff die Hand des Mädchens,das mit dem Fuß wippte. Sie führten sie fort und vermählten den Burschen mit dieser Tochter.</p>
+   <p>Das kränkte die älteren Schwestern, und sie trafen eine Absprache. Dieälteste Tochter sagte: "Erinnerst du dich, das ist der Bursche, der unsere jüngste Schwester im Wasser fing, als wir von unten geflogen kämen, Laß uns diese ganze Geschichte unserer Mutter und unserem Vater erzählen,und sie werden beide auffressen."</p>
+   <p>Alles, was diese beiden Schwestern dachten und sprachen, verstand das <pb n="95"/> jüngste Mädchen, die Frau des jungen Mannes. Nachts erzählte sie ihm,daß Mutter und Vater sie am Morgen beide auffressen würden, wenn sie von den älteren Schwestern alles erfuhren. Als die Morgendämmerung näher kam, standen das Mädchen und der Bursche auf, setzten sich auf die Rosse von Mutter und Vater und flogen wie der Wind dahin. Das Mädchen rief dem Burschen zu: "Jetzt sind meine Schwestern aufgestanden undgehen zu meinen Eltern, um sich zu beklagen."</p>
+   <p>Kurz darauf blitzte und donnerte es, und Roschapi verließ das Haus.</p>
+   <p>Jeden Augenblick mußte er sie einholen, so nahe war er gekommen.</p>
+   <p>Das Mädchen besaß eine Peitsche. Sobald sie das Roß mit der Peitsche schlug und ihm etwas sagte, ging ihr sofort alles in Erfüllung. Sie knallte mit der Peitsche und sagte zu dem Pferd: "Verwandle dich in eine Kirche!"</p>
+   <p>Das Roß wurde zu einer Kirche, das andere verwandelte sich in eine Kirchenmauer, Den jungen Mann machte sie zu einem Diakon, sie selbst wurde zum Priester und begann die Messe zu lesen. Roschapi kam zu der Kirche und fragte: "Habt ihr hier ein Mädchen und einen Burschen gesehen?"</p>
+   <p>"Nein", antworteten sie.</p>
+   <p>Da kehrte Roschapi nach Hause zurück.</p>
+   <p>Die beiden verwandelten sich wieder in das Mädchen und den jungen Mann, setzten sich zu Pferde und stoben davon. Das Mädchen sagte:"Meine Mutter weiß alles, was wir tun. Wenn mein Vater nach Hause kommt, wird auch meine Mutter ausreiten, um mich zu fangen. Aber es ist schwierig, sich vor meiner Mutter Rokapi zu verbergen.”</p>
+   <p>Kaum hatte sie das gesagt, blitzte und donnerte es, und Roschapi und Rokapi verließen das Haus. Jeden Augenblick mußten sie sie einholen, da schlug das Mädchen das Roß des Burschen mit der Peitsche und verwandelte es in einen glatten Stein, der bis zum Himmel ragte. Dann schlug sie ihr Roß, und ein Meer umschloß den Fels ringsum. Den jungen Mann und sich selbst verwandelte sie in Tauben und steckte sich die Peitsche in den Schnabel. Sie flogen höher und höher an dem Fels hinauf und setzten sich auf die Spitze. Da kamen Roschapi und Rokapi heran.</p>
+   <p>Rokapi sprach zu Roschapi: "Siehst du, auf der Spitze des Steins sitzendas Mädchen und der Bursche in Taubengestalt. Das Meer und der Stein sind die beiden Rosse, Nun mach schon!"</p>
+   <p>Roschapi begann das Meer auszuschlürfen und legte es trocken. Dann begannen sie hinaufzusteigen, um das Mädchen und den Burschen zufressen. Das Mädchen und der junge Mann machten sich auf und flogen davon. Roschapi wurde müde, weil er von dem Wasser aufgetrieben war, er konnte nicht mehr fliegen, stürzte auf den Gipfel des Felsens und starb darauf. Wieder umschloß das Meer den Stein, und darin ertrank auch <pb n="96"/> Rokapi.</p>
+   <p>Das Mädchen und der Bursche stiegen herab und verwandelten sichwieder in ihre frühere Gestalt,</p>
+   <p>Der junge Mann sagte: "Laß uns zu mir nach Hause gehen."</p>
+   <p>Das Mädchen erwiderte: "Nein, gehen wir zu mir.” Lange überredeten sie sich vergeblich, schließlich meinte das Mädchen: "Na gut!" Und sie ritten zum Haus des jungen Mannes. Als sie hinkamen, sprach der Bursche:"Bleib hier. Ich will hineingehen und alles gut herrichten."</p>
+   <p>Das Mädchen entgegnete ihm: "Wenn du dein Haus betrittst, wirst du mich vergessen.”</p>
+   <p>Aber der Bursche hörte nicht auf sie und ging. "Wie könnte ich dich vergessen!" sagte er zu dem Mädchen.</p>
+   <p>Der junge Mann kam nach Hause, und vergaß er nicht tatsächlich das Mädchen?! Das Mädchen blieb in dieser Nacht im Freien, aber deswegen litt sie keine Not! Sie besaß ja eine Peitsche, mit der sie sich verwandeln konnte, wozu sie wollte.</p>
+   <p>Zu Hause begann man, eine Frau für den Burschen auszusuchen, und man vermittelte ihm die Tochter des Priesters. Man bereitete alles vor, und an dem Abend, an dem das Hochzeitsfest stattfinden sollte, kam auch dieses Mädchen dorthin. Der junge Mann aber erkannte sie nicht, denn er hatte sie vergessen. Das Mädchen bat um ein Zimmer im Haus des Burschen, und man gab es ihr.</p>
+   <p>Da rief dieses Mädchen die Mutter ihres Mannes zu sich und bat sie:"Verkauft mir eine Henne und einen Hahn, hackt den Kopf nicht ganz ab,bratet sie und bringt sie mir so." Die Mutter willigte ein, bereitete die Henne und den Hahn zu, wie sie es gesagt hatte, und brachte sie gebraten zu ihr. Man führte die Braut herein, und als sie sich zum abendlichen Fest niederließen, war auch dieses Mädchen dabei und bat an der Tafel um das Wort: "Erlaubt mir, daß meine gebratene Henne und mein gebratener Hahn wieder lebendig werden und mein ganzes Leid erzählen!"</p>
+   <p>Alle wunderten sich: "Wie sollen denn eine gebratene Henne und ein gebratener Hahn wieder lebendig werden und sich unterhalten!” Aber man erlaubte es ihr. Das Mädchen rief der gebratenen Henne und dem gebratenen Hahn zu: "Wacht auf, ihr Hühner, warum schlaft ihr solange, steht auf und erzählt mein Leid!”</p>
+   <p>Da erhoben sich die Hühner wirklich. Die Henne begann zu sprechen, sie berichtete alles vom Anfang bis zum Ende, was dem Mädchen widerfahren war. Und der Hahn fügte hinzu, daß dieser junge Mann der Mann des Mädchens wäre.</p>
+   <p>Da fiel dem jungen Mann alles wieder ein, und er bejahte, daß dieses Mädchen seine Frau war. Man schickte die Tochter des Priesters wieder <pb n="97"/> nach Hause, und das Mädchen und der junge Mann lebten lange Zeit zufrieden und behaglich.</p>
+  </body>
+ </text>
+</TEI>
