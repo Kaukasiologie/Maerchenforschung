@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xs:schema xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:b1="www.dglab.uni-jena.de/vmf/b1" elementFormDefault="qualified" targetNamespace="www.dglab.uni-jena.de/vmf/b1" vc:maxVersion="1.1" vc:minVersion="1.0">
+<xs:attribute name="ana" type="b1:ana"/>
+<xs:simpleType name="ana">
+<xs:restriction base="xs:normalizedString">
+
+<xs:enumeration value="#"/>
+   
+<xs:enumeration value="f"/>
+<xs:enumeration value="F"/>
+<xs:enumeration value="Ff"/>
+
+<xs:enumeration value="h"/>
+<xs:enumeration value="H"/>
+   
+<xs:enumeration value="hf"/>
+<xs:enumeration value="HF"/>  
+    
+<xs:enumeration value="Hh"/>
+  
+<xs:enumeration value="N"/>
+
+</xs:restriction>
+</xs:simpleType>
+</xs:schema>
+<!--declare namespace xs="http://www.w3.org/2001/XMLSchema";
+declare namespace bc="www.dglab.uni-jena.de/vmf/bc";
+
+for $e in doc("vmf_bc.xsd")//xs:enumeration
+for $d in $e /@value
+order by $d
+return<ara>{ $d}</ara>-->
