@@ -1,209 +1,211 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Сын кузнеца</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_75.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="zyx_cc_ddo_rus_75">
-  <body>
-   <head>Сын кузнеца</head>
-   <p>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Сын кузнеца</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_75.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="zyx_cc_ddo_rus_75">
+    <body>
+      <head>Сын кузнеца</head>
+      <p>
        Были, говорят, муж и жена, у них был один сын. Муж был известный в селе кузнец. Как-то отец сказал сыну: «Мы уже постарели, тебе тоже нужно заниматься хозяйством, поэтому научись кузнечному ремеслу». Но сын не захотел перенять мастерство отца. 
      </p>
-   <p>
+      <p>
        Не прошло много времени, умер его отец, вслед за ним же умерла и мать, и сын остался сиротой. На случай, если сын станет бедным, отец спрятал в амбаре мешок, полный золота и денег. Однажды сын кузнеца пошел поесть в столовой. В столовой он увидел такого же сироту-мальчика. Он сказал сыну кузнеца: «Сначала потратим мои деньги, потом твои». Вот так кончились деньги, кроме того, они истратили мешок золота и денег, который оставил отец в наследство сыну.
      </p>
-   <p>
+      <p>
        Юноша, которого сын кузнеца встретил в столовой, сказал ему: «Я тебя направлю туда, где ежедневно можно получать тысячу рублей». «Как это возможно?» - спросил он. Тот юноша ответил: «Нужно купить одного верблюда, убрать из него все внутренности и запустить туда тебя. А он тебя доставит в то место, где получают по тысяче рублей». 
      </p>
-   <p>
+      <p>
        Купили они верблюда, убрали изнутри кишки, и запустили в него сына кузнеца. Тот верблюд доставил его на одну гору. Он там нашел мертвых и безнадежно больных людей. Они сказали ему: «Эй юноша, ты зачем сюда приехал? ты не видишь что ли, как мы тут мучаемся и страдаем? Скорей уходи отсюда», - закричали они на сына кузнеца. 
      </p>
-   <p>
+      <p>
        Он встал и пошел оттуда, шел тысячи лет, шел тысячи дней и дошел до берега одной реки. Поскользнулся и чуть было не упал в реку, но успел зацепиться за куст, попавший под руку. 
      </p>
-   <p>
+      <p>
        Он поднялся, пошел по берегу реки и добрался до скалистой местности. Он решил перейти это место, но свалился в реку и угодил в пасть рыбе. Она спросила: «На ту или на эту сторону тебя переправить?» Тот юноша сказал рыбе: «Переправь меня на ту сторону». Как только переправился на тот берег, не оглядываясь по сторонам, он пошел прямо и дошел до одного густого леса. Там он увидел, как спорят лиса и медведь, которые не могли поделить между собой коня, чересседельные сумки и кожаную шапку. Лиса говорила: «Мне должны достаться чересседельные сумки и шапка». А медведь возражал: «Конь с чересседельными сумками должны достаться мне». Когда подошел сын кузнеца, медведь и лиса попросили его: «Вот этого коня, чересседельные сумки и шапку раздели поровну между нами». Он сказал, что тому, кто первым вернет ему стрелу, выпущенную им из лука, он даст выбрать любую из этих трех вещей. Они согласились, и он выпустил стрелу из лука. Лиса и медведь побежали за ней. А он вскочил на коня, привязал позади чересседельные сумки, надел на голову шапку и поскакал оттуда. Приехал он на одну большую поляну. Зашел в дом, который там стоял, и внутри увидел Бабу-ягу, которая сидела с распущенными волосами. Как только зашел, он схватил ее одной рукой за волосы, а другой рукой стал бить ее палкой, пока она не сказала, что он, мол, ее сын. «Если бы я не сказала так, я бы тебя пожарила и съела», - сказала она. 
      </p>
-   <p>
+      <p>
        Баба-яга собралась уйти оттуда, оставив там сына кузнеца. «Ты куда идешь?» - спросил он ее. Она ответила: «Я тебе не скажу, куда иду, вернусь только через три месяца». Потом она дала ему ключи от всех комнат и предупредила: «Оставайся здесь до моего возвращения и не заходи туда в нижнюю комнату». 
      </p>
-   <p>
+      <p>
        Баба-яга ушла, а дома в одиночестве остался сын кузнеца. Он осмотрел все комнаты и, когда дошел до дверей нижней комнаты, стал думать, зайти или не зайти. Он терпел в течение трех дней, а потом не вытерпел. Открыл дверь и зашел. Вдруг огромное животное, оказавшееся там, бросилось на него и убило. 
      </p>
-   <p>
+      <p>
        Вот так и происходит, когда не следуют совету. 
      </p>
-  </body>
- </text>
+    </body>
+  </text>
 </TEI>

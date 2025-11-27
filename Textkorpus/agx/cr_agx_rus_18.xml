@@ -1,124 +1,123 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Agulische Folklore</title>
-      <title xml:lang="eng">Agul Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <bibl>
-         <title>Магометов А. А. Агульский язык: Исследования и тексты. Тбилиси: Мецниереба, 1970а.</title>
-        </bibl>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      <titleStmt>
+        <title xml:lang="deu">Agulische Folklore</title>
+        <title xml:lang="eng">Agul Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <bibl>
+              <title>Магометов А. А. Агульский язык: Исследования и тексты. Тбилиси: Мецниереба, 1970а.</title>
+            </bibl>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="agx">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date>1957</date>
-     </creation>
-     <particDesc>
-      <person role="InformatorIn">
-       <persName xml:lang="rus">Муслим Рамазанов</persName>
-       <persName xml:lang="agx">muslim ramazanow</persName>
-       <age>22</age>
-       <birth>
-        <address>
-         <district />
-         <settlement ref="https://www.geonames.org/538998/kurag.html">Kurag</settlement>
-        </address>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А. А.</forename>
-        <surname xml:lang="rus">МАГОМЕТОВ</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Т. А.</forename>
-        <surname xml:lang="rus">Майсак</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="agx">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date>1957</date>
+      </creation>
+      <particDesc>
+        <person role="InformatorIn">
+          <persName xml:lang="rus">Муслим Рамазанов</persName>
+          <persName xml:lang="agx">muslim ramazanow</persName>
+          <age>22</age>
+          <birth>
+            <address>
+              <district/>
+              <settlement ref="https://www.geonames.org/538998/kurag.html">Kurag</settlement>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А. А.</forename>
+            <surname xml:lang="rus">МАГОМЕТОВ</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Т. А.</forename>
+            <surname xml:lang="rus">Майсак</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_agx_rus_18">
+  </teiHeader>
+  <text xml:id="cr_agx_rus_18">
     <body>
-     <head>М13. Сказка про Али-Назара</head>
-     <p>сказка али назара говорят говорят бедный парень звали али назар пастухом телят однажды пас телят мать принесла немного меду съел мед кружку положил рядом собой некоторое время кружку обсели мухи али назар рассердился взял палку ударил кружке кружка разбилась сорок мух убито али назар подумал сильный человек сразу сорок могу убить брошу ка пасти телят пойду убивать аждах сказано сделано али назар бросил телят пошел мулле мулла напиши знамени али назар ночам гуляю одним ударом сорок убиваю мулла написал это знамени взял знамя пошел неком направлении шел шел пришел одно село селе время праздник салам алейкум ва алейкум салам али назар сел указанное место некоторое время туда пришел мулла мулла прочел написано знамени али назар добро пожаловать откуда этих местах мулла рассказал народу человек али назар люди встали али назара посадили самое лучшее место люди рассказали али назару своем положении положение такое возле села находилась одна крепость крепости жили аждахи аждахи оставляли покое скотину человека выйдут села аждах одна красивая сестра сестру берегли никуда выпускали народ попросил али назара убить этих аждах алиназар испугался показал виду притворился согласен решил ночью сбежит аждахам стало известно приходе очень испугались закрыли крепости двери сами вошли внутрь крепости спрятались четырех сторон свет зажгли стемнело сестра пошла водой вернулась водой забыла закрыть дверь наступила ночь али назар сказал пойдет убивать аждах сбежал деревни пути услышал вой волков али назар очень испугался найти укрытие побежал месту горел свет вышел крепости зная это крепость аждах шумом полез наверх дверь которую заперла девушка аждахи услышали поднятый шум вышли увидев алиназара испугались убежали наткнувшись закрытые двери сумев открыть спрыгнули вниз стены спрыгнув высокой стены трое погибли страх прошел али назар спустился вниз отрезал носы губы аждах положил мешок пошел сестре аждах лег спать нею рядом утром народ увидел убитых аждах али назар вышел показал народу носы губы аждах которые народ понял это али назар убил аждах народ сделал али назара своим царем сестру аждах женою сказка кончается ладно сказал молла насреддин пошел молла насреддин домой пришел домой сказал своей жене принеси мерку мешка принесла дала положил мешки мерку собаку пошел кладбище молла насреддин сказал людям вместе собрались те должен дать зерно весь народ рассмеялся придя кладбища принесли зерно дали молле насреддину высыпал зерно палас сушиться отнес мельницу смолол перевез муку мельницы насыпал сундук жена моллы насреддина понемногу брала сундука месила тесто носила пекарню пекла хлеб относила домой ели конец</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>М13. Сказка про Али-Назара</head>
+      <p>сказка али назара говорят говорят бедный парень звали али назар пастухом телят однажды пас телят мать принесла немного меду съел мед кружку положил рядом собой некоторое время кружку обсели мухи али назар рассердился взял палку ударил кружке кружка разбилась сорок мух убито али назар подумал сильный человек сразу сорок могу убить брошу ка пасти телят пойду убивать аждах сказано сделано али назар бросил телят пошел мулле мулла напиши знамени али назар ночам гуляю одним ударом сорок убиваю мулла написал это знамени взял знамя пошел неком направлении шел шел пришел одно село селе время праздник салам алейкум ва алейкум салам али назар сел указанное место некоторое время туда пришел мулла мулла прочел написано знамени али назар добро пожаловать откуда этих местах мулла рассказал народу человек али назар люди встали али назара посадили самое лучшее место люди рассказали али назару своем положении положение такое возле села находилась одна крепость крепости жили аждахи аждахи оставляли покое скотину человека выйдут села аждах одна красивая сестра сестру берегли никуда выпускали народ попросил али назара убить этих аждах алиназар испугался показал виду притворился согласен решил ночью сбежит аждахам стало известно приходе очень испугались закрыли крепости двери сами вошли внутрь крепости спрятались четырех сторон свет зажгли стемнело сестра пошла водой вернулась водой забыла закрыть дверь наступила ночь али назар сказал пойдет убивать аждах сбежал деревни пути услышал вой волков али назар очень испугался найти укрытие побежал месту горел свет вышел крепости зная это крепость аждах шумом полез наверх дверь которую заперла девушка аждахи услышали поднятый шум вышли увидев алиназара испугались убежали наткнувшись закрытые двери сумев открыть спрыгнули вниз стены спрыгнув высокой стены трое погибли страх прошел али назар спустился вниз отрезал носы губы аждах положил мешок пошел сестре аждах лег спать нею рядом утром народ увидел убитых аждах али назар вышел показал народу носы губы аждах которые народ понял это али назар убил аждах народ сделал али назара своим царем сестру аждах женою сказка кончается ладно сказал молла насреддин пошел молла насреддин домой пришел домой сказал своей жене принеси мерку мешка принесла дала положил мешки мерку собаку пошел кладбище молла насреддин сказал людям вместе собрались те должен дать зерно весь народ рассмеялся придя кладбища принесли зерно дали молле насреддину высыпал зерно палас сушиться отнес мельницу смолол перевез муку мельницы насыпал сундук жена моллы насреддина понемногу брала сундука месила тесто носила пекарню пекла хлеб относила домой ели конец</p>
+    </body>
+  </text>
+</TEI>

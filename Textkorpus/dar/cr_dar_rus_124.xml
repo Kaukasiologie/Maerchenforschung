@@ -1,128 +1,149 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>д. 216</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>д. 216</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1886—1887</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Б.</forename>
-        <surname xml:lang="rus">Далгат</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo/>
+        </placeName>
+        <date>1886—1887</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Б.</forename>
+            <surname xml:lang="rus">Далгат</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_124">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_124">
     <body>
-     <head>ТРИ БРАТА И ЛИСА</head>
-     <p>жили брага двое умных третий дурачок старшие ходили охоту дурачка оставляли дом сторожить однажды ла охоте нашли па высоком дереве большой пчелиный рой второй день пошли туда лукошками наполнили медом вместе сотами принесли домой однажды братья снова ушли охоту дурачку пришла лиса подошла лиса двери окликнула дурачка од отозвался просит дай мол меду кончике пальца</p><p>лукошки медом стоят тахтой пойди возьми говорит дурачок</p><p>дурачок сердись пожалуйста возьму</p><p>мложно меду сказала лиса подошла лукошку выли зала весь мед наполнив лукошко своим пометом ушла уходит дурачок вслед кричит уходи мол скорее умпьг братьи придут могут обидеть вскои вернулись братья сделали хинкал поели улеглись спать утром ушли охоту прн игла лиса крикнула дурачку</p><p>дурачок умрет твоя сестра дома твои братья пет</p><p>пет лисичка заходи ответил дурачок лиса зашла первый вылизала весь мед лукошко наполнила пометом дурачку сказала съела чуточку медку дурачок добрые нанутсг вия вслед кричит</p><p>пришли братья приготовили хинкал поели втроем дали дурачку миску велели принести меду оп пошел принес тарелку лисьим пометом</p><p>это удивились братья</p><p>мед отвечал дурачок</p><p>поколотили онп заставили рассказать мед съел день братья спрятались дома велели дурачку говорить лисе лиса пришла кричит двери</p><p>эй дурачок дома братья пет</p><p>дома лисапька дома смотри заходи ответил дурачок лиса убежала</p><p>братья поколотили назавтра дома спрятались пришла лиса спросила дурачка дома братья оп ответил пог мол заходить зашла лиса братья схватили отодрали хорошенько палками подвесили столбе очага отри ушли охоту дурачка оставили караулить дом лису сел дурачок очага угольками стал играть горку насыпать лиса махнула хвостом горку развалила дурачок горку сделал лиса рассыпала дурачок разозлился па говорит</p><p>ах негодная свалишься вниз</p><p>взмахом кинжала оп перерезал веревку которой висела лиса вскочила лиса па моги убежала пришли братья лисы пег спросили дурачка говорит учила побили день подкараулили лису схватили подвесили п снова ушли иа охоту прошлый дурачок наказание перерезал веревку лиса убежала</p><p>третий день братья подкараулили лису схватив стали избивать оиа вырвалась пих добежав высокой скалы остановилась спросила своих пог</p><p>делали бедные схватили</p><p>отбивались отталкивались ответили те</p><p>делали глаза спросила лиса</p><p>глядели ответили те удастся тебе убежать</p><p>думал хвост спросила лиса</p><p>ах негодяйка поймали тебе красть чужой мед вместо честно свое собственное неворованное говорил отвечает хвост</p><p>лиса очень рассердилась хвост п стала кружиться ска е кусая хвост крича отгрызу отгрызу скалы свалилась разбилась насмерть</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>ТРИ БРАТА И ЛИСА</head>
+      <p>жили брага двое умных третий дурачок старшие ходили охоту дурачка оставляли дом сторожить однажды ла охоте нашли па высоком дереве большой пчелиный рой второй день пошли туда лукошками наполнили медом вместе сотами принесли домой однажды братья снова ушли охоту дурачку пришла лиса подошла лиса двери окликнула дурачка од отозвался просит дай мол меду кончике пальца</p>
+      <p>лукошки медом стоят тахтой пойди возьми говорит дурачок</p>
+      <p>дурачок сердись пожалуйста возьму</p>
+      <p>мложно меду сказала лиса подошла лукошку выли зала весь мед наполнив лукошко своим пометом ушла уходит дурачок вслед кричит уходи мол скорее умпьг братьи придут могут обидеть вскои вернулись братья сделали хинкал поели улеглись спать утром ушли охоту прн игла лиса крикнула дурачку</p>
+      <p>дурачок умрет твоя сестра дома твои братья пет</p>
+      <p>пет лисичка заходи ответил дурачок лиса зашла первый вылизала весь мед лукошко наполнила пометом дурачку сказала съела чуточку медку дурачок добрые нанутсг вия вслед кричит</p>
+      <p>пришли братья приготовили хинкал поели втроем дали дурачку миску велели принести меду оп пошел принес тарелку лисьим пометом</p>
+      <p>это удивились братья</p>
+      <p>мед отвечал дурачок</p>
+      <p>поколотили онп заставили рассказать мед съел день братья спрятались дома велели дурачку говорить лисе лиса пришла кричит двери</p>
+      <p>эй дурачок дома братья пет</p>
+      <p>дома лисапька дома смотри заходи ответил дурачок лиса убежала</p>
+      <p>братья поколотили назавтра дома спрятались пришла лиса спросила дурачка дома братья оп ответил пог мол заходить зашла лиса братья схватили отодрали хорошенько палками подвесили столбе очага отри ушли охоту дурачка оставили караулить дом лису сел дурачок очага угольками стал играть горку насыпать лиса махнула хвостом горку развалила дурачок горку сделал лиса рассыпала дурачок разозлился па говорит</p>
+      <p>ах негодная свалишься вниз</p>
+      <p>взмахом кинжала оп перерезал веревку которой висела лиса вскочила лиса па моги убежала пришли братья лисы пег спросили дурачка говорит учила побили день подкараулили лису схватили подвесили п снова ушли иа охоту прошлый дурачок наказание перерезал веревку лиса убежала</p>
+      <p>третий день братья подкараулили лису схватив стали избивать оиа вырвалась пих добежав высокой скалы остановилась спросила своих пог</p>
+      <p>делали бедные схватили</p>
+      <p>отбивались отталкивались ответили те</p>
+      <p>делали глаза спросила лиса</p>
+      <p>глядели ответили те удастся тебе убежать</p>
+      <p>думал хвост спросила лиса</p>
+      <p>ах негодяйка поймали тебе красть чужой мед вместо честно свое собственное неворованное говорил отвечает хвост</p>
+      <p>лиса очень рассердилась хвост п стала кружиться ска е кусая хвост крича отгрызу отгрызу скалы свалилась разбилась насмерть</p>
+    </body>
+  </text>
+</TEI>

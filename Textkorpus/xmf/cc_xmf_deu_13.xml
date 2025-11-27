@@ -1,271 +1,313 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">8. Die Helden Muhambi und Sakaiki</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_13.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district ></district>
-       <settlement ref="https://www.geonames.org/614626/gaghma-sajijao.html">Sajijao</settlement>
-       <geo/>
-      </placeName>
-    <date when="1921">1921</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Bakhva</forename>
-      <surname>Ubilava</surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename>Makar</forename>
-      <surname>Khubua</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_13">
-  <body>
-   <head>Die Helden Muhambi und Sakaiki</head>
-   <p>In alter Zeit lebte ein Mann, der durch seine Mannhaftigkeit sehr berühmt war. Er hieß Muhambar und war sehr gepriesen und wehrhaft im Krieg. Er war kein Thronfolger, war aber im Staat sehr geachtet, weil derjenige Herrscher, dem er im Krieg beistand, unbedingt siegen mußte.</p>
-   <p>Dieser Mann hatte selbst weder Sohn noch Tochter. Als er stark in die Jahre gekommen war, verspürte er den Wunsch, Gott um ein Kind zubitten. Ein solcher Augenblick war ihm vergönnt, sein Wunsch sollte in Erfüllung gehen, doch wie sollte er dies erleben? Zu seinen Lebzeiten sah er mit eigenen Augen, daß seine Frau schwanger war. Zu dieser Zeit wurde Muhambar krank. Er erkannte, daß seine Krankheit tödlich war. Da fiel ihm sein Wunsch ein, und er gelangte zu der Überzeugung, daß jener Augenblick so war, daß ihm alles erfüllt worden wäre, worum er gebeten hätte, wie kostbar es auch hätte sein mögen. Doch er erkannte auch, wie unsinnig seine Bitte war, denn er hatte um ein Kind gebeten, aber nicht darum, dessen Geburt erleben zu dürfen, Da bedauerte er das sehr, aber nichts konnte mehr helfen. Er ging daran, sein Testament abzufassen, rief seine Verwandten und die erforderlichen Fürsten zu sich und legte testamentarisch fest, was er wollte. Nur was sein Kind betraf, so erzählte er seiner lieben Frau, wie unsinnig er die obige Bitte geäußert hatte, und trug ihr auf: "Wenn das Neugeborene ein Mädchen sein sollte, nennt es, wie ihr wollt. Doch wenn es ein Junge ist, dann gebt ihm den Namen, den ich euch sage: Ich, Muhambar, nenne ihn Muhambi." Als er das gesagt hatte, verschied er. Als man ihn bestattet hatte, gebar seine Frau einen Sohn. Man gan ihm den Namen Muhambi.</p>
-   <p>Muhambi übertraf seinen Vater bei weitem und erlangte höchsten Ein‚fluß in allen Reichen und jeglicher Gesellschaft. Als er jung war, im Alter von zehn, elf Jahren, hatte er ein wenig gelesen, um die Welt kennen zulernen. Muhambar hatte sämtliches Kriegsgerät besessen: Schild, Schwert, Pfeil und Bogen alles aus Eisen. Als Reittier besaß er ein weißes Pferd.</p>
-   <p>Dies erbat sich Muhambi und wollte hinausziehen, um die Welt zu sehen.</p>
-   <p>Da er noch klein war, erlaubte die Mutter es ihm nicht, und alle Verwandten rieten ihm, nicht auszureiten. Er aber schlug alle wohlgemeinten Worte in den Wind, legte alle Waffen bereit, ließ das Roß herrichten und setzte den Tag fest, an dem er das Haus verlassen wollte. Die Mutter saß weinend und klagend in ihrem Unglück da, aber wozu soll ich euch langweilen, an jenem Tag rief er all seine Angehörigen zu sich, um sich von ihnen zu verabschieden, und alle kamen herbei, Gerufene und Ungerufene, Muhambi nahm von allen Abschied, Man segnete ihm den Weg,. Die Mutter dachte oft daran, sich das Leben zu nehmen, weil ihr Sohn sie in so kindlicher Art <pb n="54"/> verließ, aber da auch das nichts geändert hätte, nahm sie davon Abstand.</p>
-   <p>Zuletzt, als er sich von allen verabschiedet hatte, nahm sie seine rechte Hand, drehte ihn rechts herum und sprach: “Gott, um vieles habe ich dich gebeten. Ich bitte dich, mir noch das zu erfüllen, worum ich dich jetzt bitte!</p>
-   <p>Es ist nicht viel, was ich erflehe. Aber ich halte es für nötig und bitte dich unter bitteren Tränen: Wenn dieser mein Sohn an Mannhaftigkeit und Verstand geringer sein sollte als sein Vater oder nicht seinen Eltern gleich sein sollte, so bitte ich dich, barmherziger Gott, daß weder ich noch seine Heimat ihn lebend wiedersehen können."</p>
-   <p>Als die Mutter ihre flehentlichen Worte zu Ende gesprochen hatte,verabschiedete sie sich von ihrem Sohn. Muhambi ritt hinaus und begab sich auf den Weg.</p>
-   <p>Nach langem Ritt stieß er auf sechs Männer, die Räuber und Plünderer waren. Sie sahen Muhambi von fern und sprachen untereinander: "Seht ihr denn nicht, eine Kleinigkeit haben wir doch in unsere Gewalt gebracht!"Doch Muhambi verstand diese Worte, denn er war so rasch an ihrer Seite,weil sein Pferd so schnell war. Was hätten die Räuber ihm antun können,er bezwang sie alle. Aber sie taten ihm leid, und so gab er jedem seine Waffen zurück und belehrte sie: "Seid nicht roh!"</p>
-   <p>Er saß auf und ritt weiter. Als er nach langem Ritt aufblickte, war aus der Ferne etwas in der Größe eines Krähenkopfes zu sehen. Aber seine Behendigkeit und die Schnelligkeit seines Pferdes ließen ihn rasch erkennen, daß da ein junger Mann auf einem Pferd saß und gewaltig wie der Sturm auf ihn zubrauste. Sie trafen aufeinander. Der Herankommende sagte zu Muhambi: "Heil dir, Muhambi!"</p>
-   <p>Muhambi antwortete: "Gott verleihe dir Erfolg, Sakaiki!”</p>
-   <p>Dabei hatten sie sich in ihrem Leben nie zuvor gesehen. Sie erkundigten sich nach dem Befinden, sprangen von den Pferden, setzten sich und plauderten. Sakaiki fragte Muhambi nach Muhambar, aber ohne zu wissen, daß Muhambi dessen Sohn war. Erst aus dem Gespräch erfuhr er, daß er aus jenem Königreich kam. Als sich Sakaiki nach Muhambar erkundigte, sagte ihm Muhambi, daß er tot sei. Sakaikis Feind solle es noch schlimmer ergehen! Da klagte Sakaiki und war sehr betrübt wie ein enger Freund, Als er sich beruhigt hatte, unterhielten sie sich noch lange. Dabei gab Muhambi zu erkennen, daß er Muhambars Sohn war. Da wandelte sich Sakaikis Trauer bald in Fröhlichkeit. Er sagte Muhambi viel Liebes, Vertrauliches und Rühmenswertes über dessen Vater. Obwohl Sakaiki es in seiner Fröhlichkeit vermied, betrübt zu sein und zu klagen, stöhnte seine Seele doch bald wieder, und schließlich fragte Muhambi ihn: "Bruder Sakaiki, ich weiß,daß du voll Trauer bist, ich weiß aber auch, daß du von neuem Freude empfindest. Was ist es, das dich so bedrückt?" <pb n="55"/></p>
-   <p>Lange beteuerte Sakaiki, es sei nichts, gar nichts. Doch Muhambi bat ihn,unter Eid sein Weh zu berichten. Und schließlich gab Sakaiki nach underzählte Muhambi alles: "Ich war unglücklich wegen einer Angelegenheit,und als Beistand hatte ich einen sehr zuverlässigen Mann, deinen Vater. Zu meinen Unglück kann er mir nicht helfen, er ist mir selbst gestorben, und icht bin verloren. Heute ist zu dem einen Leid ein zweites hinzugekommen,und beide lassen mein Herz anschwellen. Was soll ich dir weiter sagen?"meinte Sakaiki.</p>
-   <p>Nun sprach Muhambi: "Ich bin dir dankbar, daß du um meines Vaterswillen betrübt bist. Wenn ich mich nur dafür in deiner edlen Angelegenheit erkenntlich zeigen könnte! Jetzt aber bitte ich dich von ganzem Herzen, mir zu sagen, was das zweite Leid ist."</p>
-   <p>Mit großer Mühe und vielen Entschuldigungen sagte Sakaiki: "Ich mußtean dem schwarzen Riesen am schwarzen Meer Blutrache üben und wollte mich rächen, Ich hatte niemanden unter dem Himmel, der mir in dieser Sache hätte beistehen können, außer deinem Vater. Jetzt ist es nichts damit! Ich bitte Gott, mich sterben zu lassen. Ohne Muhambar ist mein Leben ohne Rettung."</p>
-   <p>Da bat ihn Muhambi: "Guter Freund! Des Todes müssen alle sterben.</p>
-   <p>Auch mein Vater mußte sterben, wer ist schon unsterblich?! Und was mein Vater vermochte, darin verfüge ich anderthalbmal mehr an Kraft, Stärke und Behendigkeit. Mir fehlt nur die Gelegenheit, sie in der Tat zu erproben. Mit deiner Hilfe kann ich das erreichen. Sage mir nur von dem Riesen, wie und was du willst, und ich bin bereit. Fürchte dich nicht, wir werden keine Schande auf uns laden.”</p>
-   <p>Da sprach Sakaiki: "Der schwarze Riese lebt am schwarzen Meer, am Rand des Festlands, wo die Sonne untergeht. Er besitzt eine Herde von allen Haustieren östlich vom schwarzen Meer, auf einem Feld am Strand,und zwar Pferde, Kamele, Büffel, Rinder und alle noch kleineren Tiere.</p>
-   <p>Unter den Pferden aber ist eines: Wenn es daliegt, überragt es die stehenden Pferde um zwei Alabi. Dieses Pferd ist das Zuchtpferd. Wer will und dazu in der Lage ist, zieht von hier aus los. Viele Monate und eine Jahresreise sind es bis dorthin. Gelangt man auf jenes Feld, so steht eine Poststrecke entfernt ein Berg. Steigt man hinauf, sieht man dieses Vieh. Jetzt ist interessant, daß demjenigen, der dieses Pferd bändigt und fortführt, ganz gleich, wohin, in alle vier Richtungen, ob nach Osten oder gegen Sonnenuntergang, nach Norden oder Süden, wohin er es auch lenkt, alle Tiere dieser Herde zusammen folgen. Die Bändigung des Pferdes ist mit Gefahr verbunden. Wenn man sie übersteht, dann gehören einem das Pferd und alle diese Tiere.</p>
-   <p>Dieses Pferd hat die Gewohnheit und Erfahrung: Den Mann, der es <pb n="56"/> fortführen kann, erkennt es erstens von Natur, und zweitens läßt es sich nicht bändigen, bevor er dazu in der Lage ist. Viele Männer wollten dieses Pferd gewinnen, doch niemand hat es vermocht..."</p>
-   <p>"Was bleibt uns jetzt zu sagen? Wie und auf welche Weise kann man zu ihm hingelangen?" sagte Muhambi zu Sakaiki.</p>
-   <p>Sakaiki erwiderte: "Auf folgende Weise: Wenn wir den Berg hinabsteigen,so muß derjenige, der weniger Kraft hat, am Anfang des Feldes, am Rand,warten. Der Mann mit der größeren Kraft muß hinausstürzen und zu dem Pferd reiten. Wir müssen versuchen, das Pferd zu fangen, womit wir können, Dort angelangt, müssen wir es sofort einfangen, von unserem Pferd springen und den Sattel von unserem Pferd auf das andere legen. Da wird jenes Pferd zum ersten mal wiehern. Der Reiter muß sich auf das Pferd schwingen, bevor es dreimal gewiehert hat. Wenn es sein drittes Wiehern zu Ende gebracht hat, wird es der schwarze Riese im schwarzen Meer vernehmen, sich auf das schwarze Roß setzen und zum Kampf heranreiten. Erträgt ein Gewehr, so dick wie ein Baumstumpf. Während das Pferd dreimal wiehert, muß der Mann, der zu ihm hingeritten ist, es zu seinem Gefährten bringen, der am Fuß des Berges wartet. Der muß aufsitzen und ganz auf den Berg hinaufreiten. Ihm werden auf seinen Ruf alle Tiere folgen. Derjenige, der das Pferd hergebracht hat, muß dem Riesen dort entgegentreten,wo er das Pferd gefangen hat. Der Riese ist stark und will dem anderen mit seiner Erfahrung begegnen. Wenn der Riese ihn fragt: Hast du mir das angetan oder dein Gefährte?, so muß der Mann ihm zur Antwort geben: Nicht ich, der andere hat dir das getan.</p>
-   <p>Dann muß er dem Riesen den Weg zu seinem Gefährten zeigen und ihm selbst folgen, sobald der Riese losreitet und sich an die Verfolgung des Gefährten macht. Wo sie ihm entgegentreten, wird nicht einer allein sein,sondern es werden zwei Gefährten sein, und sie werden sich gegenseitig beistehen. Wenn sie sich helfen, werden sie den Riesen natürlich besiegen und töten. Nach dem Tod des Riesen werden ihnen dessen ganze Schätze gehören."</p>
-   <p>Jetzt fragte Muhambi seinen Freund Sakaiki freudig: "Warum wolltest du mir das verheimlichen? Ich wollte mich doch, wie ich dir sagte, erproben.</p>
-   <p>Nun hast du mich eingeweiht. Von jetzt an betrachte diese Sache hoffnungsvoll. Ich will dir zeigen, was ich vermag. Reiten wir jetzt los, brechen wir auf. Begeben wir uns bis zu seiner Grenze., Ich will das Pferd überfallen und dich dort zurücklassen. Das sage ich dir jetzt so, und das andere wirst du bald sehen." ;</p>
-   <p>Sie kamen überein. Sie ritten und ritten und erreichten jene Grenze und sühten sich ein wenig aus. Jetzt mußte Muhambi losreiten, doch Sakaiki überlegte lange und wollte das keinesfalls zulassen. Sie redeten lange, doch <pb n="57"/> da Muhambi darauf bestand loszureiten, hatte Sakaiki keine Möglichkeit mehr, ihn aufzuhalten. Muhambi stob davon, jagte dahin und erschien dort,wo das Pferd lag. Er packte es am Ohr, legte ihm den Sattel auf und schwang sich hinauf. Er ritt davon und kam unterwegs zu seinem Gefährten. Vom Beginn des Ritts bis hierher hatte das Pferd ein Wiehern zu Endegebracht. Muhambi kam hin, gab seinem Freund das Pferd und eilte, bevor es zum zweiten mal zu wiehern begann, dorthin zurück, wo es gelegen hatte.</p>
-   <p>Als Muhambi dort war, wieherte das Pferd das zweite Mal zu Ende. Dann wieherte es ein drittes Mal. Inzwischen hatte Sakaiki, auf dem großen Zuchtpferd sitzend, die Hälfte des Weges zum Gipfel des Berges zurückgelegt. Die Zeit verging, und tatsächlich brauste der Riese auf seinem Roß heran. Er näherte sich und ließ die Erde erbeben. Die Hufe des Rosses trafen auf kasten große Steine und verwandelten alle zu Staub. Die Splitter flogen meilenweit fort und töteten und vernichteten alles, was sie trafen.</p>
-   <p>Das Roß, auf dem der Riese saß, war wirklich sehr kräftig. Der Riese kam zu Muhambi herangeritten und grüßte ihn. Der erwiderte den Gruß. Der Riese fragte Muhambi: "Hast du mir das angetan, Muhambi, oder Sakaiki?"</p>
-   <p>Muhambi erklärte ihm: "Ich habe dir das getan, du stinkender Riese, was willst du denn?"</p>
-   <p>Der Riese wagte nicht, ihn anzugreifen. Er stob davon und nahm die Verfolgung von Sakaiki auf. Muhambi dachte: Was ich mit dem mache, soll mein Freund mit eigenen Augen sehen. Aber Muhambi fehlte es noch ein wenig an Erfahrung. Er ließ den Riesen ein Stück weit vor und achtete nicht ständig auf dessen Kopf und Hände. Als er aufblickte, krachte das Gewehr des Riesen. Der Knall war so laut, wie er schlimmer nur einem Feind widerfahren sollte. Sogar Muhambis Herz war betroffen. Er machte einen Satz und sprang zu dem Riesen hin. Wozu soll ich euch langweilen,es ist keine Lüge: Ohne eine Waffe zu schwingen, nur mit der Hand schlug er zu, und wo er hintraf, riß er ihm Kopf und Arm ab und fetzte ihm die Beine weg. Wie man Teig oder Knetmasse packen und happenweise trennen kann, so ergriff Muhambi den Riesen und zerriß ihn mit seinen Händen. Als er Ausschau hielt, sah er, daß Sakaiki vom Pferd gestürzt war. Ereilte zu ihm hin. Unterwegs stieß er auf das Pferd, er nahm es mit und kam zu Sakaiki, der aber war am Leben. —</p>
-   <p>"Wie geht es dir, Bruder Sakaiki?" fragte Muhambi. Sakaiki sah auf und erkannte das Zuchtpferd. Er sagte zu Muhambi: "Gut steht es um die Sache. Einmal bin ich gestorben, mehrmals noch nicht.”</p>
-   <p>Als er das Roß erkannte, dachte er, Muhambi müsse den Riesen erschlagen haben, und er sprach zu ihm: "Ich bin noch nicht tot, aber ich werde sterben. Du sollst mich in meine Heimat bringen. Mein großes Vorhaben habe ich ja mit deiner Unterstützung vollbracht, Bruder.” <pb n="59"/></p>
-   <p>In diesem Augenblick setzte sich Muhambi die Pistole auf die Brust und sagte zu Sakaiki: "Ich hatte noch keine Gelegenheit, von deiner Erfahrung zu lernen, Falls es ein Mittel auf Erden gibt, so sage es mir, und auch ich werde können, was man tun kann. Wenn nicht, so will ich meinem Leben vor dir ein Ende setzen."</p>
-   <p>Da sprach Sakaiki: "Es gibt ein Mittel, aber das ist jetzt unmöglich. Ich hätte es dir sowieso sagen müssen, weil es für dich erforderlich werden könnte. Du mußt dich auf das Zuchtpferd setzen, das du hast, und ihm ins Ohr flüstern, wohin du reiten möchtest: das Land, das Gebiet, Ausland oder Gebirge. Wenn du ihm sagst: "Setz mich in dem und dem Hof oder auf der Erde ab", so setzt es dich dort ab. Die Strecke eines Jahres legt es in einer Stunde zurück. Ob es Tag ist oder Nacht, finster oder mondhell, ist ihm alles gleich. Da du so betrübt bist, mach dich auf, schwing dich in den Sattel und flüstere ihm ins Ohr: "Spring in Sakaikis Hof!" Dann mußt du von der rechten Seite dreimal mit dem Fuß gegen die Tür von Sakaikis großem Haus donnern und dabei sagen: "Sakaiki stirbt, Sakaiki!" Sobald das Gekrache vorüber ist, werde ich wieder völlig gesund sein!"</p>
-   <p>Da sattelte Muhambi sein Pferd, sprang auf und stob davon. Blitzschnell jagte er in einen großen Hof hinein. Er ging hin, schlug dreimal donnernd mit dem Fuß gegen die Tür und sprach dabei: "Sakaiki stirbt, Sakaiki stirbt!"</p>
-   <p>Als er das dreimal gesagt hatte, war Sakaiki wieder genesen. Sakaiki setzte sich zu Pferde und ritt über Land. Auch Muhambi kam über das Land geritten, um Sakaiki zu treffen. Als sie sich begegneten, freuten sie sich sehr. Dann brachen sie auf. Zuerst empfing sie Sakaikis Familie. Sie kamen in Sakaikis Haus, und es herrschte großer Jubel. Lange Zeit später ritten sie weiter und kamen zu Muhambis Haus. Da sie über Land reisten,zogen natürlich alle genannten Tiere mit ihnen. Sie teilten sie zur Hälfte.</p>
-   <p>Die eine Hälfte ließen sie da, die andere nahmen sie mit zu Muhambis Familie. In Muhambis Haus gab es ein großes Fest und Freude. Das Vieh,das er mitgebracht hatte, teilte Muhambi: Die Hälfte behielt er für sich, die andere Hälfte schenkte er dem Volk. So lebten sie in großem Ruhm. Ihre Mannhaftigkeit war in allen Ländern bekannt.</p>
-   <p>Die wunderschöne Tochter seines Herrschers sandte Muhambi einen Brief und bat ihn, beide sollten die Familie des Herrschers und dessen Angehörige besuchen. In dem Schreiben sprach sie ihn mit "Bruder" an.</p>
-   <p>Beide freuten sich und machten sich zurecht, wie es ihrem Stand entsprach.</p>
-   <p>Sie wählten ein Geschenk aus, wie es dem Herrscher, seiner Frau und deren Tochter gebührte, und nahmen für jeden ein geschirrtes Pferd und ein kostbares Geschenk mit. Als sie hinkamen, herrschte große Freude, und sie fanden Gefallen aneinander. Die wunderschöne Tochter des Herrschers <pb n="59"/> und Muhambi waren sich zugetan wie Schwester und Bruder, Sakaiki aber war Muhambis Freund und Ehrengast der Herrscherfamilie. Da dachte Muhambi: Sie ist mir wie eine Schwester, und Sakaiki ist mein Freund, den ich über alles schätze. Ich will sie miteinander vermählen.</p>
-   <p>Tatsächlich brachten sie das Gespräch darauf, und Sakaiki wurde der Schwiegersohn des Herrschers. So lebten sie in großem Ruhm. Nach langer Zeit wollte Muhambi nach Hause zurückkehren. Kaum hatte er das gesagt,verließen beide Frauen und Männer den Abendbrottisch und die Mittagstafel und weinten, denn ohne ihn galt ihnen ihr Leben nichts. Einmal schob er die Abreise auf, ein zweites Mal, und auch ein drittes Mal geschah es so.</p>
-   <p>Muhambi dachte: Ich muß prüfen, ob das wirklich so ist, ob sie mich wirklich so von Herzen betrachten und sie mein Abschied so sehr betrübt.</p>
-   <p>Er bat sie: "Tut nicht, wie ihr es bisher getan habt. Morgen reise ich unbedingt zu meiner Mutter. Mache ich das nicht, ist das eine Schande für mich, und auch für euch wäre das nicht schön.” Sie stritten hin und her,aber sie konnten nichts erreichen. Am nächsten Tag wollte Muhambi nach Hause reiten, Er nahm Abschied und ging, um sich schlafen zu legen. Es war Nacht. Geraume Zeit verging, und Muhambi dachte: Ich will doch einmal heimlich zu ihnen hineinschauen, so daß sie mich nicht sehen können. Wenn es wirklich so ist und sie solches Herzweh haben, müssen sie jetzt noch ebenso weinen, wie ich sie verlassen habe. Ist es aber Heuchelei,so werden sie sich schon zu Bett gelegt haben.</p>
-   <p>Er stand auf und begab sich zu ihrer Stube, ohne daß sie ihn sehen konnten. Er suchte eine Stelle zum Hineinschauen und erblickte sie. Das wunderschöne Mädchen saß auf dem ausgebreiteten Bett und säuberte sich die Fingernägel, doch das Bettzeug war ganz naß von ihren Tränen. Sie weinte immer noch, Sakaiki saß an der Tür, einen großen Stock im Arm,und schnitzte, Er schabte die Rinde ab und schluchzte. Muhambi wurde ganz unglücklich, als er das sah. Großer Kummer und Schwermut befielen ihn. Am nächsten Tag tröstete er sie: "Ich werde nicht abreisen." So lebten sie da. Eine kurze Zeit später seufzte Sakaiki, wenn er sich unterhielt.</p>
-   <p>Muhambi bemerkte das spät und fragte ihn: "Du mußt mir unbedingt sagen,was der Grund dafür ist, daß du so seufzt!”</p>
-   <p>Es fiel Sakaiki überaus schwer, dies preis zugeben, doch schließlich sprach er zu Muhambi: "Auch ich bin ein Mann, auch ich habe ein Gewissen, ich habe Hochachtung vor dir und deinen Taten, die du für mich auf Erden vollbracht hast, und ich verdanke dir Reichtum, das war eine gewaltige Sache. Andererseits stamme ich, der Sohn einer vornehmen, fernen Familie, aus fürstlichem Geblüt, doch ohne dich hätte man mir nicht die Tochter des Herrschers zur Frau gegeben. Mehr als dies kann ein Mann nicht für einen anderen leisten. Jetzt überlege ich, wie ich dir diese Güte vergelten <pb n="60"/> kann. Doch zu etwas, das dir zustatten kommt und dir von mir gebührt, bin ich nicht imstande. Nur eines gibt es, und das will ich dir jetzt sagen. Ich hätte es dir schon früher sagen sollen, aber dir dies zu sagen und zu sterben, ist für mich beides gleich."</p>
-   <p>Muhambi überging diese Entschuldigungen ganz und sprach zu Sakaiki:"Wir müssen uns nicht voreinander entschuldigen. Alles Meinige ist dein und alles Deinige mein außer einem. An Besitz sind wir beide nicht arm,und es fehlt uns an nichts, doch wenn du mir das nicht verrätst, will ich nicht am Leben bleiben."</p>
-   <p>Nach vielem Reden sagte Sakaiki: "Muhambi, du weißt, daß ich der Sohn eines fernen Herrschers war, den man aus seiner Heimat ausgewiesen hat,und ich lebte in diesem Land. Du weißt auch, daß meine Eltern keinen anderen Sohn hatten als mich. Aber sie hatten eine Tochter, meine Schwester. Mein Vater hatte sie, jener Zeit entsprechend, bis zur Reife in einer Hochschule untergebracht. Sie selbst war begabt und klug. Für ihren künftigen Bräutigam schrieb sie ein Beispiel auf und stellte vier, fünf verschiedene Dinge zusammen, zu deren Lösung es großer Kraft, Verstandes und Geschicks bedarf, Wer all diese Prüfungen besteht, der soll ihr Mann werden.</p>
-   <p>Doch wer dies erreichen will, muß zuvor bei der Regierung ein Schriftstück hinterlegen: Wer diese Weisheit, diese Kraft und Stärke nicht beweisen und die Prüfungen nicht bestehen kann, dem soll der Kopf abgeschlagen werden. Sie hat gesagt und ihr Einverständnis gegeben, daß von einem bis zu hundert Mann hingehen können, um sich zu versuchen. Wenn es ihr gelungen ist, hundert Männern die Köpfe abzuschlagen, so braucht sie keine weiteren Männer zu empfangen, und die Regierung gestattet ihr das auch nicht."</p>
-   <p>Diese Nachricht übergab Sakaiki Muhambi und nannte ihm auch die Bedingungen, unter denen das Mädchen die Männer tötete.</p>
-   <p>Sakaiki erzählte: "Zuerst sei dir folgendes gesagt: Der ganze Besitz ihrer Familie besteht aus diesen Dingen: Die Gebäude, die da stehen, sind alle aus Silber. Die Möbel, Stühle, Tische und alles andere sind aus Gold, das Bettzeug und die Decken aus Seide und Atlas. Den Hof umgeben Mauern aus zweierlei Material. Die innere ist von Gold, die äußere von Silber. Die‘Türen bestehen alle aus Gold, bis zur Haustür ist ein breiter Weg mit reinem Gold gepflastert. Sobald ein Mann hingeht, muß er an der Tür rufen. Dann öffnet man ihm auf der Stelle. Die Tür geht auf, und das schöne Mädchen tritt ihm entgegen. Natürlich gibt sie ihm die Hand und lädt ihn in die Wohnung ein. Arm in Arm begeben sie sich in das Haus.</p>
-   <p>Wenn sie dir die Hand gibt, darfst du ihr nicht in die Augen und ins Gesicht blicken. Ihre Schönheit ist außergewöhnlich. Zudem hat sie gefährliche Augen. Sieh nicht hinein, sonst machen sie dich schwach, sieh nicht hinein. <pb n="61"/> Wenn ihr in das Haus geht, wird sie dir einen goldenen Stuhl anbieten,doch setze dich nicht darauf, denn er ist vergiftet, Er bricht den Menschen mehr als ein starker Mann. Laß sie auf dem Stuhl Platz nehmen. Wenn sie sich daraufsetzt, wird dir der unvergiftete Stuhl bleiben. Wenn du das überstehst, wird das Mädchen rufen: "He, Araber, biete dem Gast an, was ihm gebührt!"</p>
-   <p>Der Araber stürzt aus seinem Zimmer hervor, in der einen Hand trägt erein großes Gefäß voll Getränk, in der anderen ein großes Glas. Das füllt und reicht er dir. Doch das darfst du auf keinen Fall trinken. Laß ihn zuerst trinken, und dann trink du, es wird dir nicht schaden. Wenn du das überstanden hast, wird das Mädchen aufstehen, in den Spiegel schauen und sagen: "He, Spiegel, empfange diesen Gast mit zwölf Kanonenkugeln!"</p>
-   <p>Wenn sie das sagt, mußt du aufstehen und ihm die Brust bieten. Tatsächlich wird zwölfmal die Kanone schießen. Wenn du Furcht zeigst, tötet sie dich. Wenn du keine Angst hast, fallen alle Kugeln auf den Fußboden.</p>
-   <p>Wenn du das überstanden hast, so hängt an der Wand ein Dolch. Zu diesem Dolch wird das Mädchen sagen: "He, Dolch, tu dem Gast, was ihm gebührt!" Der Dolch wird klirren und aus der Scheide fahren. Du mußt ihm den gebeugten Nacken hinstrecken. Fürchtest du dich, wird er dich töten.</p>
-   <p>Wenn nicht, bist du frei. Wenn du auch das überstehst, wird das Mädchen rufen: "He, Araber, du bist dem Gast wieder zur Bewirtung geblieben!" Der Araber hat eine stählerne Hand. Er wird herbeikommen und mit dir kämpfen. Wenn er dich überwindet, wirst du von seiner Hand sterben, Besiegt er dich nicht, bist du frei.</p>
-   <p>Das Geschehen hat einen Beobachter, den die Regierung geschickt hat.</p>
-   <p>Wenn dies so endet, wird Jubel ausbrechen. Aber, Bruder Muhambi, zu meinem Unglück muß ich dir sagen: Bis heute sind dort von den hundert Männern neunundneunzig ums Leben gekommen, nur ein einziger kann noch hingehen. Ich bitte dich, Muhambi, laß mich dies sagen: Tu dies auf keinen Fall!”</p>
-   <p>Muhambi überging diese Bitte: "Das sind doch alles ganz leichte Dinge,wovor hast du denn Angst? Ich will für morgen Vorbereitungen zur Abreise treffen.”</p>
-   <p>Da begann ein Klagen und Weinen. Am nächsten und übernächsten Tag ließ Sakaiki ihn nicht abreisen. Inzwischen berechnete er, wie viele Kilometer es von dieser Familie bis zur Familie seiner Schwester waren. An jedem Kilometer stellte er einen Kanonier an. Man zählte aus, wie viel Zeit Muhambi brauchte, wenn er von hier loszog, bis er dort angelangt wäre, und wie viel Zeit sie dort brauchten. Hier in seinem Hof ließ Sakaiki eine fünfundzwanzig Meter tiefe Grube graben, und beide Ehefrauen und beide Männer stiegen hinein. Sie nahmen eine große Kerze als Beleuchtung mit <pb n="63"/> hinab. Zwei große Uhren ließen sie herbeibringen und hängten sie hüben und drüben an die Wand. In ihre Hände nahmen sie je zwei Pistolen und drückten sie sich gegenseitig auf die Brust. Als sie das vorbereitet hatten,verließ Muhambi das Haus. Wie viele Zeit er für den Ritt und seine Handlungen dort benötigte, war natürlich festgesetzt.</p>
-   <p>Wenn Gott es wollte und er Erfolg hatte, sollte der obere Kanonier sofort schießen, und von dort angefangen, sollte sich das Schießen fortsetzen. In diesem Fall wollten Sakaiki und seine Frau die Pistolen voneinander abwenden und leeren, und die Leute oben standen bereit, sie an Ketten hinaufzuziehen.</p>
-   <p>Als Muhambi in das Haus des Mädchens kam, sollte er rufen: "Öffnet die Tür!" Aber das tat er keineswegs. Er sprang und übersprang mit seinem Pferd beide Mauern, Er stieg vom Pferd, und das Mädchen kam zu seinem Empfang heran geglitten. Sie reichten sich die Hand. Sakaiki hatte ihm zwar gesagt, er solle sie nicht anblicken, doch er begann, ihr Gesicht ganz genau zu betrachten. Als sie in das Haus hinaufstiegen, bot ihm das Mädchen den goldenen Stuhl an. Obwohl Sakaiki geraten hatte, ihn abzulehnen, setzte er sich sofort darauf. Als nichts weiter geschah, rief das Mädchen: "He, Araber, biete dem Gast an, was ihm gebührt!"</p>
-   <p>Der Araber trat heraus, und wie er Muhambi das Getränk reichte, nahm der es sogleich und trank es mit einem mal aus,</p>
-   <p>Als damit immer noch nichts geschah, bat das Mädchen den Spiegel um die Kanonenkugeln. Muhambi stand auf und reckte dem Spiegel die Brustentgegen. Da donnerten zwölf Kanonenschüsse, und alle Kugeln fielen auf den Fußboden.</p>
-   <p>Das Mädchen wunderte sich darüber sehr. Nun nahm sie den Dolch zu Hilfe. Der glitt aus der Scheide, und Muhambi hielt ihm sein Genick hin.</p>
-   <p>Der Dolch zerbrach in der Mitte und fiel zu beiden Seiten herab. Schließlich rief das Mädchen den Araber.</p>
-   <p>Der Araber stürzte hervor und fiel über Muhambi her. Damit der Araber keine Zeit fand, ihn zu packen, ergriff Muhambi ihn im Genick und zerriß ihn wie ein Kücken. Er wandte sich um und begann das Mädchen anzusehen. Sie sprach zu ihm: "Junger Mann, du taugst zu meinem Bräutigam. Du sollst mein und ich will dein sein."</p>
-   <p>Kaum war dies geschehen, schoß der Kanonier an der Tür aus seiner Kanone. Ihm folgte der zweite, dem zweiten der dritte, und so erreichte die Freudenbotschaft Sakaikis Familie. Als Sakaiki auf die Uhr sah, war nicht einmal die Hälfte der bestimmten Zeit vergangen. Sobald die Kanonenschüsse ertönten, wandten sie die Pistolen voneinander ab und leerten sie.</p>
-   <p>Man zog sie hinauf, gratulierte ihnen, und es herrschte Freude mit der ganzen Familie. Seither waren Muhambi und Sakaiki das ganze Leben lang <pb n="64"/> bis zum Tode treue Freunde, Gestern war ich dort, und heute bin ich hier.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">8. Die Helden Muhambi und Sakaiki</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_13.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/614626/gaghma-sajijao.html">Sajijao</settlement>
+          <geo/>
+        </placeName>
+        <date when="1921">1921</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Bakhva</forename>
+            <surname>Ubilava</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_13">
+    <body>
+      <head>Die Helden Muhambi und Sakaiki</head>
+      <p>In alter Zeit lebte ein Mann, der durch seine Mannhaftigkeit sehr berühmt war. Er hieß Muhambar und war sehr gepriesen und wehrhaft im Krieg. Er war kein Thronfolger, war aber im Staat sehr geachtet, weil derjenige Herrscher, dem er im Krieg beistand, unbedingt siegen mußte.</p>
+      <p>Dieser Mann hatte selbst weder Sohn noch Tochter. Als er stark in die Jahre gekommen war, verspürte er den Wunsch, Gott um ein Kind zubitten. Ein solcher Augenblick war ihm vergönnt, sein Wunsch sollte in Erfüllung gehen, doch wie sollte er dies erleben? Zu seinen Lebzeiten sah er mit eigenen Augen, daß seine Frau schwanger war. Zu dieser Zeit wurde Muhambar krank. Er erkannte, daß seine Krankheit tödlich war. Da fiel ihm sein Wunsch ein, und er gelangte zu der Überzeugung, daß jener Augenblick so war, daß ihm alles erfüllt worden wäre, worum er gebeten hätte, wie kostbar es auch hätte sein mögen. Doch er erkannte auch, wie unsinnig seine Bitte war, denn er hatte um ein Kind gebeten, aber nicht darum, dessen Geburt erleben zu dürfen, Da bedauerte er das sehr, aber nichts konnte mehr helfen. Er ging daran, sein Testament abzufassen, rief seine Verwandten und die erforderlichen Fürsten zu sich und legte testamentarisch fest, was er wollte. Nur was sein Kind betraf, so erzählte er seiner lieben Frau, wie unsinnig er die obige Bitte geäußert hatte, und trug ihr auf: &quot;Wenn das Neugeborene ein Mädchen sein sollte, nennt es, wie ihr wollt. Doch wenn es ein Junge ist, dann gebt ihm den Namen, den ich euch sage: Ich, Muhambar, nenne ihn Muhambi.&quot; Als er das gesagt hatte, verschied er. Als man ihn bestattet hatte, gebar seine Frau einen Sohn. Man gan ihm den Namen Muhambi.</p>
+      <p>Muhambi übertraf seinen Vater bei weitem und erlangte höchsten Ein‚fluß in allen Reichen und jeglicher Gesellschaft. Als er jung war, im Alter von zehn, elf Jahren, hatte er ein wenig gelesen, um die Welt kennen zulernen. Muhambar hatte sämtliches Kriegsgerät besessen: Schild, Schwert, Pfeil und Bogen alles aus Eisen. Als Reittier besaß er ein weißes Pferd.</p>
+      <p>Dies erbat sich Muhambi und wollte hinausziehen, um die Welt zu sehen.</p>
+      <p>
+        Da er noch klein war, erlaubte die Mutter es ihm nicht, und alle Verwandten rieten ihm, nicht auszureiten. Er aber schlug alle wohlgemeinten Worte in den Wind, legte alle Waffen bereit, ließ das Roß herrichten und setzte den Tag fest, an dem er das Haus verlassen wollte. Die Mutter saß weinend und klagend in ihrem Unglück da, aber wozu soll ich euch langweilen, an jenem Tag rief er all seine Angehörigen zu sich, um sich von ihnen zu verabschieden, und alle kamen herbei, Gerufene und Ungerufene, Muhambi nahm von allen Abschied, Man segnete ihm den Weg,. Die Mutter dachte oft daran, sich das Leben zu nehmen, weil ihr Sohn sie in so kindlicher Art 
+        <pb n="54"/>
+         verließ, aber da auch das nichts geändert hätte, nahm sie davon Abstand.
+      </p>
+      <p>Zuletzt, als er sich von allen verabschiedet hatte, nahm sie seine rechte Hand, drehte ihn rechts herum und sprach: “Gott, um vieles habe ich dich gebeten. Ich bitte dich, mir noch das zu erfüllen, worum ich dich jetzt bitte!</p>
+      <p>Es ist nicht viel, was ich erflehe. Aber ich halte es für nötig und bitte dich unter bitteren Tränen: Wenn dieser mein Sohn an Mannhaftigkeit und Verstand geringer sein sollte als sein Vater oder nicht seinen Eltern gleich sein sollte, so bitte ich dich, barmherziger Gott, daß weder ich noch seine Heimat ihn lebend wiedersehen können.&quot;</p>
+      <p>Als die Mutter ihre flehentlichen Worte zu Ende gesprochen hatte,verabschiedete sie sich von ihrem Sohn. Muhambi ritt hinaus und begab sich auf den Weg.</p>
+      <p>Nach langem Ritt stieß er auf sechs Männer, die Räuber und Plünderer waren. Sie sahen Muhambi von fern und sprachen untereinander: &quot;Seht ihr denn nicht, eine Kleinigkeit haben wir doch in unsere Gewalt gebracht!&quot;Doch Muhambi verstand diese Worte, denn er war so rasch an ihrer Seite,weil sein Pferd so schnell war. Was hätten die Räuber ihm antun können,er bezwang sie alle. Aber sie taten ihm leid, und so gab er jedem seine Waffen zurück und belehrte sie: &quot;Seid nicht roh!&quot;</p>
+      <p>Er saß auf und ritt weiter. Als er nach langem Ritt aufblickte, war aus der Ferne etwas in der Größe eines Krähenkopfes zu sehen. Aber seine Behendigkeit und die Schnelligkeit seines Pferdes ließen ihn rasch erkennen, daß da ein junger Mann auf einem Pferd saß und gewaltig wie der Sturm auf ihn zubrauste. Sie trafen aufeinander. Der Herankommende sagte zu Muhambi: &quot;Heil dir, Muhambi!&quot;</p>
+      <p>Muhambi antwortete: &quot;Gott verleihe dir Erfolg, Sakaiki!”</p>
+      <p>
+        Dabei hatten sie sich in ihrem Leben nie zuvor gesehen. Sie erkundigten sich nach dem Befinden, sprangen von den Pferden, setzten sich und plauderten. Sakaiki fragte Muhambi nach Muhambar, aber ohne zu wissen, daß Muhambi dessen Sohn war. Erst aus dem Gespräch erfuhr er, daß er aus jenem Königreich kam. Als sich Sakaiki nach Muhambar erkundigte, sagte ihm Muhambi, daß er tot sei. Sakaikis Feind solle es noch schlimmer ergehen! Da klagte Sakaiki und war sehr betrübt wie ein enger Freund, Als er sich beruhigt hatte, unterhielten sie sich noch lange. Dabei gab Muhambi zu erkennen, daß er Muhambars Sohn war. Da wandelte sich Sakaikis Trauer bald in Fröhlichkeit. Er sagte Muhambi viel Liebes, Vertrauliches und Rühmenswertes über dessen Vater. Obwohl Sakaiki es in seiner Fröhlichkeit vermied, betrübt zu sein und zu klagen, stöhnte seine Seele doch bald wieder, und schließlich fragte Muhambi ihn: &quot;Bruder Sakaiki, ich weiß,daß du voll Trauer bist, ich weiß aber auch, daß du von neuem Freude empfindest. Was ist es, das dich so bedrückt?&quot; 
+        <pb n="55"/>
+      </p>
+      <p>Lange beteuerte Sakaiki, es sei nichts, gar nichts. Doch Muhambi bat ihn,unter Eid sein Weh zu berichten. Und schließlich gab Sakaiki nach underzählte Muhambi alles: &quot;Ich war unglücklich wegen einer Angelegenheit,und als Beistand hatte ich einen sehr zuverlässigen Mann, deinen Vater. Zu meinen Unglück kann er mir nicht helfen, er ist mir selbst gestorben, und icht bin verloren. Heute ist zu dem einen Leid ein zweites hinzugekommen,und beide lassen mein Herz anschwellen. Was soll ich dir weiter sagen?&quot;meinte Sakaiki.</p>
+      <p>Nun sprach Muhambi: &quot;Ich bin dir dankbar, daß du um meines Vaterswillen betrübt bist. Wenn ich mich nur dafür in deiner edlen Angelegenheit erkenntlich zeigen könnte! Jetzt aber bitte ich dich von ganzem Herzen, mir zu sagen, was das zweite Leid ist.&quot;</p>
+      <p>Mit großer Mühe und vielen Entschuldigungen sagte Sakaiki: &quot;Ich mußtean dem schwarzen Riesen am schwarzen Meer Blutrache üben und wollte mich rächen, Ich hatte niemanden unter dem Himmel, der mir in dieser Sache hätte beistehen können, außer deinem Vater. Jetzt ist es nichts damit! Ich bitte Gott, mich sterben zu lassen. Ohne Muhambar ist mein Leben ohne Rettung.&quot;</p>
+      <p>Da bat ihn Muhambi: &quot;Guter Freund! Des Todes müssen alle sterben.</p>
+      <p>Auch mein Vater mußte sterben, wer ist schon unsterblich?! Und was mein Vater vermochte, darin verfüge ich anderthalbmal mehr an Kraft, Stärke und Behendigkeit. Mir fehlt nur die Gelegenheit, sie in der Tat zu erproben. Mit deiner Hilfe kann ich das erreichen. Sage mir nur von dem Riesen, wie und was du willst, und ich bin bereit. Fürchte dich nicht, wir werden keine Schande auf uns laden.”</p>
+      <p>Da sprach Sakaiki: &quot;Der schwarze Riese lebt am schwarzen Meer, am Rand des Festlands, wo die Sonne untergeht. Er besitzt eine Herde von allen Haustieren östlich vom schwarzen Meer, auf einem Feld am Strand,und zwar Pferde, Kamele, Büffel, Rinder und alle noch kleineren Tiere.</p>
+      <p>Unter den Pferden aber ist eines: Wenn es daliegt, überragt es die stehenden Pferde um zwei Alabi. Dieses Pferd ist das Zuchtpferd. Wer will und dazu in der Lage ist, zieht von hier aus los. Viele Monate und eine Jahresreise sind es bis dorthin. Gelangt man auf jenes Feld, so steht eine Poststrecke entfernt ein Berg. Steigt man hinauf, sieht man dieses Vieh. Jetzt ist interessant, daß demjenigen, der dieses Pferd bändigt und fortführt, ganz gleich, wohin, in alle vier Richtungen, ob nach Osten oder gegen Sonnenuntergang, nach Norden oder Süden, wohin er es auch lenkt, alle Tiere dieser Herde zusammen folgen. Die Bändigung des Pferdes ist mit Gefahr verbunden. Wenn man sie übersteht, dann gehören einem das Pferd und alle diese Tiere.</p>
+      <p>
+        Dieses Pferd hat die Gewohnheit und Erfahrung: Den Mann, der es 
+        <pb n="56"/>
+         fortführen kann, erkennt es erstens von Natur, und zweitens läßt es sich nicht bändigen, bevor er dazu in der Lage ist. Viele Männer wollten dieses Pferd gewinnen, doch niemand hat es vermocht...&quot;
+      </p>
+      <p>&quot;Was bleibt uns jetzt zu sagen? Wie und auf welche Weise kann man zu ihm hingelangen?&quot; sagte Muhambi zu Sakaiki.</p>
+      <p>Sakaiki erwiderte: &quot;Auf folgende Weise: Wenn wir den Berg hinabsteigen,so muß derjenige, der weniger Kraft hat, am Anfang des Feldes, am Rand,warten. Der Mann mit der größeren Kraft muß hinausstürzen und zu dem Pferd reiten. Wir müssen versuchen, das Pferd zu fangen, womit wir können, Dort angelangt, müssen wir es sofort einfangen, von unserem Pferd springen und den Sattel von unserem Pferd auf das andere legen. Da wird jenes Pferd zum ersten mal wiehern. Der Reiter muß sich auf das Pferd schwingen, bevor es dreimal gewiehert hat. Wenn es sein drittes Wiehern zu Ende gebracht hat, wird es der schwarze Riese im schwarzen Meer vernehmen, sich auf das schwarze Roß setzen und zum Kampf heranreiten. Erträgt ein Gewehr, so dick wie ein Baumstumpf. Während das Pferd dreimal wiehert, muß der Mann, der zu ihm hingeritten ist, es zu seinem Gefährten bringen, der am Fuß des Berges wartet. Der muß aufsitzen und ganz auf den Berg hinaufreiten. Ihm werden auf seinen Ruf alle Tiere folgen. Derjenige, der das Pferd hergebracht hat, muß dem Riesen dort entgegentreten,wo er das Pferd gefangen hat. Der Riese ist stark und will dem anderen mit seiner Erfahrung begegnen. Wenn der Riese ihn fragt: Hast du mir das angetan oder dein Gefährte?, so muß der Mann ihm zur Antwort geben: Nicht ich, der andere hat dir das getan.</p>
+      <p>Dann muß er dem Riesen den Weg zu seinem Gefährten zeigen und ihm selbst folgen, sobald der Riese losreitet und sich an die Verfolgung des Gefährten macht. Wo sie ihm entgegentreten, wird nicht einer allein sein,sondern es werden zwei Gefährten sein, und sie werden sich gegenseitig beistehen. Wenn sie sich helfen, werden sie den Riesen natürlich besiegen und töten. Nach dem Tod des Riesen werden ihnen dessen ganze Schätze gehören.&quot;</p>
+      <p>Jetzt fragte Muhambi seinen Freund Sakaiki freudig: &quot;Warum wolltest du mir das verheimlichen? Ich wollte mich doch, wie ich dir sagte, erproben.</p>
+      <p>Nun hast du mich eingeweiht. Von jetzt an betrachte diese Sache hoffnungsvoll. Ich will dir zeigen, was ich vermag. Reiten wir jetzt los, brechen wir auf. Begeben wir uns bis zu seiner Grenze., Ich will das Pferd überfallen und dich dort zurücklassen. Das sage ich dir jetzt so, und das andere wirst du bald sehen.&quot; ;</p>
+      <p>
+        Sie kamen überein. Sie ritten und ritten und erreichten jene Grenze und sühten sich ein wenig aus. Jetzt mußte Muhambi losreiten, doch Sakaiki überlegte lange und wollte das keinesfalls zulassen. Sie redeten lange, doch 
+        <pb n="57"/>
+         da Muhambi darauf bestand loszureiten, hatte Sakaiki keine Möglichkeit mehr, ihn aufzuhalten. Muhambi stob davon, jagte dahin und erschien dort,wo das Pferd lag. Er packte es am Ohr, legte ihm den Sattel auf und schwang sich hinauf. Er ritt davon und kam unterwegs zu seinem Gefährten. Vom Beginn des Ritts bis hierher hatte das Pferd ein Wiehern zu Endegebracht. Muhambi kam hin, gab seinem Freund das Pferd und eilte, bevor es zum zweiten mal zu wiehern begann, dorthin zurück, wo es gelegen hatte.
+      </p>
+      <p>Als Muhambi dort war, wieherte das Pferd das zweite Mal zu Ende. Dann wieherte es ein drittes Mal. Inzwischen hatte Sakaiki, auf dem großen Zuchtpferd sitzend, die Hälfte des Weges zum Gipfel des Berges zurückgelegt. Die Zeit verging, und tatsächlich brauste der Riese auf seinem Roß heran. Er näherte sich und ließ die Erde erbeben. Die Hufe des Rosses trafen auf kasten große Steine und verwandelten alle zu Staub. Die Splitter flogen meilenweit fort und töteten und vernichteten alles, was sie trafen.</p>
+      <p>Das Roß, auf dem der Riese saß, war wirklich sehr kräftig. Der Riese kam zu Muhambi herangeritten und grüßte ihn. Der erwiderte den Gruß. Der Riese fragte Muhambi: &quot;Hast du mir das angetan, Muhambi, oder Sakaiki?&quot;</p>
+      <p>Muhambi erklärte ihm: &quot;Ich habe dir das getan, du stinkender Riese, was willst du denn?&quot;</p>
+      <p>Der Riese wagte nicht, ihn anzugreifen. Er stob davon und nahm die Verfolgung von Sakaiki auf. Muhambi dachte: Was ich mit dem mache, soll mein Freund mit eigenen Augen sehen. Aber Muhambi fehlte es noch ein wenig an Erfahrung. Er ließ den Riesen ein Stück weit vor und achtete nicht ständig auf dessen Kopf und Hände. Als er aufblickte, krachte das Gewehr des Riesen. Der Knall war so laut, wie er schlimmer nur einem Feind widerfahren sollte. Sogar Muhambis Herz war betroffen. Er machte einen Satz und sprang zu dem Riesen hin. Wozu soll ich euch langweilen,es ist keine Lüge: Ohne eine Waffe zu schwingen, nur mit der Hand schlug er zu, und wo er hintraf, riß er ihm Kopf und Arm ab und fetzte ihm die Beine weg. Wie man Teig oder Knetmasse packen und happenweise trennen kann, so ergriff Muhambi den Riesen und zerriß ihn mit seinen Händen. Als er Ausschau hielt, sah er, daß Sakaiki vom Pferd gestürzt war. Ereilte zu ihm hin. Unterwegs stieß er auf das Pferd, er nahm es mit und kam zu Sakaiki, der aber war am Leben. —</p>
+      <p>&quot;Wie geht es dir, Bruder Sakaiki?&quot; fragte Muhambi. Sakaiki sah auf und erkannte das Zuchtpferd. Er sagte zu Muhambi: &quot;Gut steht es um die Sache. Einmal bin ich gestorben, mehrmals noch nicht.”</p>
+      <p>
+        Als er das Roß erkannte, dachte er, Muhambi müsse den Riesen erschlagen haben, und er sprach zu ihm: &quot;Ich bin noch nicht tot, aber ich werde sterben. Du sollst mich in meine Heimat bringen. Mein großes Vorhaben habe ich ja mit deiner Unterstützung vollbracht, Bruder.” 
+        <pb n="59"/>
+      </p>
+      <p>In diesem Augenblick setzte sich Muhambi die Pistole auf die Brust und sagte zu Sakaiki: &quot;Ich hatte noch keine Gelegenheit, von deiner Erfahrung zu lernen, Falls es ein Mittel auf Erden gibt, so sage es mir, und auch ich werde können, was man tun kann. Wenn nicht, so will ich meinem Leben vor dir ein Ende setzen.&quot;</p>
+      <p>Da sprach Sakaiki: &quot;Es gibt ein Mittel, aber das ist jetzt unmöglich. Ich hätte es dir sowieso sagen müssen, weil es für dich erforderlich werden könnte. Du mußt dich auf das Zuchtpferd setzen, das du hast, und ihm ins Ohr flüstern, wohin du reiten möchtest: das Land, das Gebiet, Ausland oder Gebirge. Wenn du ihm sagst: &quot;Setz mich in dem und dem Hof oder auf der Erde ab&quot;, so setzt es dich dort ab. Die Strecke eines Jahres legt es in einer Stunde zurück. Ob es Tag ist oder Nacht, finster oder mondhell, ist ihm alles gleich. Da du so betrübt bist, mach dich auf, schwing dich in den Sattel und flüstere ihm ins Ohr: &quot;Spring in Sakaikis Hof!&quot; Dann mußt du von der rechten Seite dreimal mit dem Fuß gegen die Tür von Sakaikis großem Haus donnern und dabei sagen: &quot;Sakaiki stirbt, Sakaiki!&quot; Sobald das Gekrache vorüber ist, werde ich wieder völlig gesund sein!&quot;</p>
+      <p>Da sattelte Muhambi sein Pferd, sprang auf und stob davon. Blitzschnell jagte er in einen großen Hof hinein. Er ging hin, schlug dreimal donnernd mit dem Fuß gegen die Tür und sprach dabei: &quot;Sakaiki stirbt, Sakaiki stirbt!&quot;</p>
+      <p>Als er das dreimal gesagt hatte, war Sakaiki wieder genesen. Sakaiki setzte sich zu Pferde und ritt über Land. Auch Muhambi kam über das Land geritten, um Sakaiki zu treffen. Als sie sich begegneten, freuten sie sich sehr. Dann brachen sie auf. Zuerst empfing sie Sakaikis Familie. Sie kamen in Sakaikis Haus, und es herrschte großer Jubel. Lange Zeit später ritten sie weiter und kamen zu Muhambis Haus. Da sie über Land reisten,zogen natürlich alle genannten Tiere mit ihnen. Sie teilten sie zur Hälfte.</p>
+      <p>Die eine Hälfte ließen sie da, die andere nahmen sie mit zu Muhambis Familie. In Muhambis Haus gab es ein großes Fest und Freude. Das Vieh,das er mitgebracht hatte, teilte Muhambi: Die Hälfte behielt er für sich, die andere Hälfte schenkte er dem Volk. So lebten sie in großem Ruhm. Ihre Mannhaftigkeit war in allen Ländern bekannt.</p>
+      <p>Die wunderschöne Tochter seines Herrschers sandte Muhambi einen Brief und bat ihn, beide sollten die Familie des Herrschers und dessen Angehörige besuchen. In dem Schreiben sprach sie ihn mit &quot;Bruder&quot; an.</p>
+      <p>Beide freuten sich und machten sich zurecht, wie es ihrem Stand entsprach.</p>
+      <p>
+        Sie wählten ein Geschenk aus, wie es dem Herrscher, seiner Frau und deren Tochter gebührte, und nahmen für jeden ein geschirrtes Pferd und ein kostbares Geschenk mit. Als sie hinkamen, herrschte große Freude, und sie fanden Gefallen aneinander. Die wunderschöne Tochter des Herrschers 
+        <pb n="59"/>
+         und Muhambi waren sich zugetan wie Schwester und Bruder, Sakaiki aber war Muhambis Freund und Ehrengast der Herrscherfamilie. Da dachte Muhambi: Sie ist mir wie eine Schwester, und Sakaiki ist mein Freund, den ich über alles schätze. Ich will sie miteinander vermählen.
+      </p>
+      <p>Tatsächlich brachten sie das Gespräch darauf, und Sakaiki wurde der Schwiegersohn des Herrschers. So lebten sie in großem Ruhm. Nach langer Zeit wollte Muhambi nach Hause zurückkehren. Kaum hatte er das gesagt,verließen beide Frauen und Männer den Abendbrottisch und die Mittagstafel und weinten, denn ohne ihn galt ihnen ihr Leben nichts. Einmal schob er die Abreise auf, ein zweites Mal, und auch ein drittes Mal geschah es so.</p>
+      <p>Muhambi dachte: Ich muß prüfen, ob das wirklich so ist, ob sie mich wirklich so von Herzen betrachten und sie mein Abschied so sehr betrübt.</p>
+      <p>Er bat sie: &quot;Tut nicht, wie ihr es bisher getan habt. Morgen reise ich unbedingt zu meiner Mutter. Mache ich das nicht, ist das eine Schande für mich, und auch für euch wäre das nicht schön.” Sie stritten hin und her,aber sie konnten nichts erreichen. Am nächsten Tag wollte Muhambi nach Hause reiten, Er nahm Abschied und ging, um sich schlafen zu legen. Es war Nacht. Geraume Zeit verging, und Muhambi dachte: Ich will doch einmal heimlich zu ihnen hineinschauen, so daß sie mich nicht sehen können. Wenn es wirklich so ist und sie solches Herzweh haben, müssen sie jetzt noch ebenso weinen, wie ich sie verlassen habe. Ist es aber Heuchelei,so werden sie sich schon zu Bett gelegt haben.</p>
+      <p>Er stand auf und begab sich zu ihrer Stube, ohne daß sie ihn sehen konnten. Er suchte eine Stelle zum Hineinschauen und erblickte sie. Das wunderschöne Mädchen saß auf dem ausgebreiteten Bett und säuberte sich die Fingernägel, doch das Bettzeug war ganz naß von ihren Tränen. Sie weinte immer noch, Sakaiki saß an der Tür, einen großen Stock im Arm,und schnitzte, Er schabte die Rinde ab und schluchzte. Muhambi wurde ganz unglücklich, als er das sah. Großer Kummer und Schwermut befielen ihn. Am nächsten Tag tröstete er sie: &quot;Ich werde nicht abreisen.&quot; So lebten sie da. Eine kurze Zeit später seufzte Sakaiki, wenn er sich unterhielt.</p>
+      <p>Muhambi bemerkte das spät und fragte ihn: &quot;Du mußt mir unbedingt sagen,was der Grund dafür ist, daß du so seufzt!”</p>
+      <p>
+        Es fiel Sakaiki überaus schwer, dies preis zugeben, doch schließlich sprach er zu Muhambi: &quot;Auch ich bin ein Mann, auch ich habe ein Gewissen, ich habe Hochachtung vor dir und deinen Taten, die du für mich auf Erden vollbracht hast, und ich verdanke dir Reichtum, das war eine gewaltige Sache. Andererseits stamme ich, der Sohn einer vornehmen, fernen Familie, aus fürstlichem Geblüt, doch ohne dich hätte man mir nicht die Tochter des Herrschers zur Frau gegeben. Mehr als dies kann ein Mann nicht für einen anderen leisten. Jetzt überlege ich, wie ich dir diese Güte vergelten 
+        <pb n="60"/>
+         kann. Doch zu etwas, das dir zustatten kommt und dir von mir gebührt, bin ich nicht imstande. Nur eines gibt es, und das will ich dir jetzt sagen. Ich hätte es dir schon früher sagen sollen, aber dir dies zu sagen und zu sterben, ist für mich beides gleich.&quot;
+      </p>
+      <p>Muhambi überging diese Entschuldigungen ganz und sprach zu Sakaiki:&quot;Wir müssen uns nicht voreinander entschuldigen. Alles Meinige ist dein und alles Deinige mein außer einem. An Besitz sind wir beide nicht arm,und es fehlt uns an nichts, doch wenn du mir das nicht verrätst, will ich nicht am Leben bleiben.&quot;</p>
+      <p>Nach vielem Reden sagte Sakaiki: &quot;Muhambi, du weißt, daß ich der Sohn eines fernen Herrschers war, den man aus seiner Heimat ausgewiesen hat,und ich lebte in diesem Land. Du weißt auch, daß meine Eltern keinen anderen Sohn hatten als mich. Aber sie hatten eine Tochter, meine Schwester. Mein Vater hatte sie, jener Zeit entsprechend, bis zur Reife in einer Hochschule untergebracht. Sie selbst war begabt und klug. Für ihren künftigen Bräutigam schrieb sie ein Beispiel auf und stellte vier, fünf verschiedene Dinge zusammen, zu deren Lösung es großer Kraft, Verstandes und Geschicks bedarf, Wer all diese Prüfungen besteht, der soll ihr Mann werden.</p>
+      <p>Doch wer dies erreichen will, muß zuvor bei der Regierung ein Schriftstück hinterlegen: Wer diese Weisheit, diese Kraft und Stärke nicht beweisen und die Prüfungen nicht bestehen kann, dem soll der Kopf abgeschlagen werden. Sie hat gesagt und ihr Einverständnis gegeben, daß von einem bis zu hundert Mann hingehen können, um sich zu versuchen. Wenn es ihr gelungen ist, hundert Männern die Köpfe abzuschlagen, so braucht sie keine weiteren Männer zu empfangen, und die Regierung gestattet ihr das auch nicht.&quot;</p>
+      <p>Diese Nachricht übergab Sakaiki Muhambi und nannte ihm auch die Bedingungen, unter denen das Mädchen die Männer tötete.</p>
+      <p>Sakaiki erzählte: &quot;Zuerst sei dir folgendes gesagt: Der ganze Besitz ihrer Familie besteht aus diesen Dingen: Die Gebäude, die da stehen, sind alle aus Silber. Die Möbel, Stühle, Tische und alles andere sind aus Gold, das Bettzeug und die Decken aus Seide und Atlas. Den Hof umgeben Mauern aus zweierlei Material. Die innere ist von Gold, die äußere von Silber. Die‘Türen bestehen alle aus Gold, bis zur Haustür ist ein breiter Weg mit reinem Gold gepflastert. Sobald ein Mann hingeht, muß er an der Tür rufen. Dann öffnet man ihm auf der Stelle. Die Tür geht auf, und das schöne Mädchen tritt ihm entgegen. Natürlich gibt sie ihm die Hand und lädt ihn in die Wohnung ein. Arm in Arm begeben sie sich in das Haus.</p>
+      <p>
+        Wenn sie dir die Hand gibt, darfst du ihr nicht in die Augen und ins Gesicht blicken. Ihre Schönheit ist außergewöhnlich. Zudem hat sie gefährliche Augen. Sieh nicht hinein, sonst machen sie dich schwach, sieh nicht hinein. 
+        <pb n="61"/>
+         Wenn ihr in das Haus geht, wird sie dir einen goldenen Stuhl anbieten,doch setze dich nicht darauf, denn er ist vergiftet, Er bricht den Menschen mehr als ein starker Mann. Laß sie auf dem Stuhl Platz nehmen. Wenn sie sich daraufsetzt, wird dir der unvergiftete Stuhl bleiben. Wenn du das überstehst, wird das Mädchen rufen: &quot;He, Araber, biete dem Gast an, was ihm gebührt!&quot;
+      </p>
+      <p>Der Araber stürzt aus seinem Zimmer hervor, in der einen Hand trägt erein großes Gefäß voll Getränk, in der anderen ein großes Glas. Das füllt und reicht er dir. Doch das darfst du auf keinen Fall trinken. Laß ihn zuerst trinken, und dann trink du, es wird dir nicht schaden. Wenn du das überstanden hast, wird das Mädchen aufstehen, in den Spiegel schauen und sagen: &quot;He, Spiegel, empfange diesen Gast mit zwölf Kanonenkugeln!&quot;</p>
+      <p>Wenn sie das sagt, mußt du aufstehen und ihm die Brust bieten. Tatsächlich wird zwölfmal die Kanone schießen. Wenn du Furcht zeigst, tötet sie dich. Wenn du keine Angst hast, fallen alle Kugeln auf den Fußboden.</p>
+      <p>Wenn du das überstanden hast, so hängt an der Wand ein Dolch. Zu diesem Dolch wird das Mädchen sagen: &quot;He, Dolch, tu dem Gast, was ihm gebührt!&quot; Der Dolch wird klirren und aus der Scheide fahren. Du mußt ihm den gebeugten Nacken hinstrecken. Fürchtest du dich, wird er dich töten.</p>
+      <p>Wenn nicht, bist du frei. Wenn du auch das überstehst, wird das Mädchen rufen: &quot;He, Araber, du bist dem Gast wieder zur Bewirtung geblieben!&quot; Der Araber hat eine stählerne Hand. Er wird herbeikommen und mit dir kämpfen. Wenn er dich überwindet, wirst du von seiner Hand sterben, Besiegt er dich nicht, bist du frei.</p>
+      <p>Das Geschehen hat einen Beobachter, den die Regierung geschickt hat.</p>
+      <p>Wenn dies so endet, wird Jubel ausbrechen. Aber, Bruder Muhambi, zu meinem Unglück muß ich dir sagen: Bis heute sind dort von den hundert Männern neunundneunzig ums Leben gekommen, nur ein einziger kann noch hingehen. Ich bitte dich, Muhambi, laß mich dies sagen: Tu dies auf keinen Fall!”</p>
+      <p>Muhambi überging diese Bitte: &quot;Das sind doch alles ganz leichte Dinge,wovor hast du denn Angst? Ich will für morgen Vorbereitungen zur Abreise treffen.”</p>
+      <p>
+        Da begann ein Klagen und Weinen. Am nächsten und übernächsten Tag ließ Sakaiki ihn nicht abreisen. Inzwischen berechnete er, wie viele Kilometer es von dieser Familie bis zur Familie seiner Schwester waren. An jedem Kilometer stellte er einen Kanonier an. Man zählte aus, wie viel Zeit Muhambi brauchte, wenn er von hier loszog, bis er dort angelangt wäre, und wie viel Zeit sie dort brauchten. Hier in seinem Hof ließ Sakaiki eine fünfundzwanzig Meter tiefe Grube graben, und beide Ehefrauen und beide Männer stiegen hinein. Sie nahmen eine große Kerze als Beleuchtung mit 
+        <pb n="63"/>
+         hinab. Zwei große Uhren ließen sie herbeibringen und hängten sie hüben und drüben an die Wand. In ihre Hände nahmen sie je zwei Pistolen und drückten sie sich gegenseitig auf die Brust. Als sie das vorbereitet hatten,verließ Muhambi das Haus. Wie viele Zeit er für den Ritt und seine Handlungen dort benötigte, war natürlich festgesetzt.
+      </p>
+      <p>Wenn Gott es wollte und er Erfolg hatte, sollte der obere Kanonier sofort schießen, und von dort angefangen, sollte sich das Schießen fortsetzen. In diesem Fall wollten Sakaiki und seine Frau die Pistolen voneinander abwenden und leeren, und die Leute oben standen bereit, sie an Ketten hinaufzuziehen.</p>
+      <p>Als Muhambi in das Haus des Mädchens kam, sollte er rufen: &quot;Öffnet die Tür!&quot; Aber das tat er keineswegs. Er sprang und übersprang mit seinem Pferd beide Mauern, Er stieg vom Pferd, und das Mädchen kam zu seinem Empfang heran geglitten. Sie reichten sich die Hand. Sakaiki hatte ihm zwar gesagt, er solle sie nicht anblicken, doch er begann, ihr Gesicht ganz genau zu betrachten. Als sie in das Haus hinaufstiegen, bot ihm das Mädchen den goldenen Stuhl an. Obwohl Sakaiki geraten hatte, ihn abzulehnen, setzte er sich sofort darauf. Als nichts weiter geschah, rief das Mädchen: &quot;He, Araber, biete dem Gast an, was ihm gebührt!&quot;</p>
+      <p>Der Araber trat heraus, und wie er Muhambi das Getränk reichte, nahm der es sogleich und trank es mit einem mal aus,</p>
+      <p>Als damit immer noch nichts geschah, bat das Mädchen den Spiegel um die Kanonenkugeln. Muhambi stand auf und reckte dem Spiegel die Brustentgegen. Da donnerten zwölf Kanonenschüsse, und alle Kugeln fielen auf den Fußboden.</p>
+      <p>Das Mädchen wunderte sich darüber sehr. Nun nahm sie den Dolch zu Hilfe. Der glitt aus der Scheide, und Muhambi hielt ihm sein Genick hin.</p>
+      <p>Der Dolch zerbrach in der Mitte und fiel zu beiden Seiten herab. Schließlich rief das Mädchen den Araber.</p>
+      <p>Der Araber stürzte hervor und fiel über Muhambi her. Damit der Araber keine Zeit fand, ihn zu packen, ergriff Muhambi ihn im Genick und zerriß ihn wie ein Kücken. Er wandte sich um und begann das Mädchen anzusehen. Sie sprach zu ihm: &quot;Junger Mann, du taugst zu meinem Bräutigam. Du sollst mein und ich will dein sein.&quot;</p>
+      <p>Kaum war dies geschehen, schoß der Kanonier an der Tür aus seiner Kanone. Ihm folgte der zweite, dem zweiten der dritte, und so erreichte die Freudenbotschaft Sakaikis Familie. Als Sakaiki auf die Uhr sah, war nicht einmal die Hälfte der bestimmten Zeit vergangen. Sobald die Kanonenschüsse ertönten, wandten sie die Pistolen voneinander ab und leerten sie.</p>
+      <p>
+        Man zog sie hinauf, gratulierte ihnen, und es herrschte Freude mit der ganzen Familie. Seither waren Muhambi und Sakaiki das ganze Leben lang 
+        <pb n="64"/>
+         bis zum Tode treue Freunde, Gestern war ich dort, und heute bin ich hier.
+      </p>
+    </body>
+  </text>
 </TEI>

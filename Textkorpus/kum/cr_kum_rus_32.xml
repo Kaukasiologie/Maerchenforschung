@@ -1,125 +1,140 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Kumykische Folklore</title>
-      <title xml:lang="eng">Kumyk Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Kumykische Folklore</title>
+        <title xml:lang="eng">Kumyk Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="kum">Емакъларл</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="kum">Магьачкъала, 1959, стр. 20</publisher>
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="kum">Емакъларл</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="kum">Магьачкъала, 1959, стр. 20</publisher>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="kum">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/551645/kayakentskiy-rayon.html">Kayakentskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/578849/bashlykent.html">Bashlykent</settlement>
-       <geo />
-      </placeName>
-      <date>1958</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">С. </forename>
-        <surname xml:lang="rus">Гаджиeвa</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="kum">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/551645/kayakentskiy-rayon.html">Kayakentskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/578849/bashlykent.html">Bashlykent</settlement>
+          <geo/>
+        </placeName>
+        <date>1958</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">С. </forename>
+            <surname xml:lang="rus">Гаджиeвa</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_kum_rus_32">
+  </teiHeader>
+  <text xml:id="cr_kum_rus_32">
     <body>
-     <head>18. Теленок и коза </head>
-     <p>одного человека теленок коза однажды плелись лугу незаметно оказались очень далеко дома</p><p>дороге нашли шкуру шакала взяли собой вскоре теленок коза увидели какую землянку оставили дверью шкуру шакала вошли внутрь землянке сидели девять волков пили вино</p><p>геленок коза поздоровались сели волки никак ответили па приветствие сказали своему музыканту</p><p>грай гостей</p><p>музыкант заиграл кумузе запел</p><p>жиити микти жинти минти пришел конец козе нти м инти жинти м ити пришел конец теленку</p><p>понял теленок хотят съесть сказал</p><p>дайте ка агач кумуз сыграю</p><p>волки решили посмеяться хорошим ужином му ыкапт протянул теленку муз</p><p>теленок запел</p><p>хйнти минти хинти минти десять шкур шубу нужно</p><p>хинти минти хинти минти дверьми одна</p><p>выглянули волки дверь видят лежит шкура шакала</p><p>полки перепугались бросились бежать</p><p>теленок говорит козе</p><p>убежали приведут других волков мам спастись давай ка уйдем отсюда</p><p>теленок коза взяли шкуру шакала поспешили домой</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>18. Теленок и коза </head>
+      <p>одного человека теленок коза однажды плелись лугу незаметно оказались очень далеко дома</p>
+      <p>дороге нашли шкуру шакала взяли собой вскоре теленок коза увидели какую землянку оставили дверью шкуру шакала вошли внутрь землянке сидели девять волков пили вино</p>
+      <p>геленок коза поздоровались сели волки никак ответили па приветствие сказали своему музыканту</p>
+      <p>грай гостей</p>
+      <p>музыкант заиграл кумузе запел</p>
+      <p>жиити микти жинти минти пришел конец козе нти м инти жинти м ити пришел конец теленку</p>
+      <p>понял теленок хотят съесть сказал</p>
+      <p>дайте ка агач кумуз сыграю</p>
+      <p>волки решили посмеяться хорошим ужином му ыкапт протянул теленку муз</p>
+      <p>теленок запел</p>
+      <p>хйнти минти хинти минти десять шкур шубу нужно</p>
+      <p>хинти минти хинти минти дверьми одна</p>
+      <p>выглянули волки дверь видят лежит шкура шакала</p>
+      <p>полки перепугались бросились бежать</p>
+      <p>теленок говорит козе</p>
+      <p>убежали приведут других волков мам спастись давай ка уйдем отсюда</p>
+      <p>теленок коза взяли шкуру шакала поспешили домой</p>
+    </body>
+  </text>
+</TEI>

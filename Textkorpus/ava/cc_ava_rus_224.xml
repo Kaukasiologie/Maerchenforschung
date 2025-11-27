@@ -1,208 +1,224 @@
-
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Братъ и сестра</title>
-    <author>
-     <name xml:id="AT">
-      <persName>
-       <forename>Ajdemir</forename>
-       <surname>Tschirkeevskij</surname>
-      </persName>
-     </name>
-     <idno></idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <biblStruct>
-     <analytic>
-      <title xml:lang="ru">НАРОДНЫЯ СКАЗАНІЯ КАВКАЗСКИХЪ ГОРЦЕВЪ (АВАРСКІЯ НАРОДНЫЯ СКАЗАНІЯ)</title>
-      <author>
-       <persName ref="#AT">
-        <forename>Ajdemir</forename>
-        <surname>Tschirkeevskij</surname>
-       </persName>
-      </author>
-     </analytic>
-     <monogr>
-      <title level="j" xml:lang="ru">ССКГ; Сборник сведений о кавказских горцах</title>
-      <imprint>
-       <pubPlace>Тифлись</pubPlace>
-       <publisher>Кавказский отдел Императорского Русского географического общества</publisher>
-       <date when="1869">1869</date>
-      </imprint>
-      <biblScope unit="volume">2</biblScope>
-     </monogr>
-    </biblStruct>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"></index>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_rus_224.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district></district>
-     <settlement></settlement>
-    </placeName>
-    <date notAfter="1867">1867</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district></district>
-       <settlement></settlement>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AT">
-      <forename>Ajdemir</forename>
-      <surname>Tschirkeevskij</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AT">
-      <forename>Ajdemir</forename>
-      <surname>Tschirkeevskij</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change></change>
-    <change></change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_ava_rus_224">
-  <body>
-   <head>Братъ и сестра</head>
-   <p>Жили были мужъ и жена. Семеро сыновей было у нихъ; сами они были богатые люди.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Братъ и сестра</title>
+        <author>
+          <name xml:id="AT">
+            <persName>
+              <forename>Ajdemir</forename>
+              <surname>Tschirkeevskij</surname>
+            </persName>
+          </name>
+          <idno/>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">НАРОДНЫЯ СКАЗАНІЯ КАВКАЗСКИХЪ ГОРЦЕВЪ (АВАРСКІЯ НАРОДНЫЯ СКАЗАНІЯ)</title>
+            <author>
+              <persName ref="#AT">
+                <forename>Ajdemir</forename>
+                <surname>Tschirkeevskij</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">ССКГ; Сборник сведений о кавказских горцах</title>
+            <imprint>
+              <pubPlace>Тифлись</pubPlace>
+              <publisher>Кавказский отдел Императорского Русского географического общества</publisher>
+              <date when="1869">1869</date>
+            </imprint>
+            <biblScope unit="volume">2</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_rus_224.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1867">1867</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AT">
+            <forename>Ajdemir</forename>
+            <surname>Tschirkeevskij</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AT">
+            <forename>Ajdemir</forename>
+            <surname>Tschirkeevskij</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ava_rus_224">
+    <body>
+      <head>Братъ и сестра</head>
+      <p>Жили были мужъ и жена. Семеро сыновей было у нихъ; сами они были богатые люди.
 </p>
-   <p>Некогда обратились къ Богу съ мольбой мужъ и жена. "Боже," сказали они, "даль Ты намъ семь сыновей; дай намъ еще дочь, чтобы исполнять въ доме женскую работу; сами мы уже стары." Внялъ Богъ ихъ мольбе; забеременевъ, въ надлежащее <pb n="64"/> время родила жена дочь. Когда исполнился день дочери, казалось, исполнился ей месяцъ; когда исполнился месяцъ, казалось, что исполнился ей годъ; такъ непомерно выростая, стала она достигать ужасающихъ размеровъ.ю
+      <p>
+        Некогда обратились къ Богу съ мольбой мужъ и жена. &quot;Боже,&quot; сказали они, &quot;даль Ты намъ семь сыновей; дай намъ еще дочь, чтобы исполнять въ доме женскую работу; сами мы уже стары.&quot; Внялъ Богъ ихъ мольбе; забеременевъ, въ надлежащее 
+        <pb n="64"/>
+         время родила жена дочь. Когда исполнился день дочери, казалось, исполнился ей месяцъ; когда исполнился месяцъ, казалось, что исполнился ей годъ; такъ непомерно выростая, стала она достигать ужасающихъ размеровъ.ю
+      </p>
+      <p>Былъ у нихъ табунъ кобылицъ; семеро сыновей пасли его поочереди. Однажды, кончивъ свою очередь, пришель домой старший сынъ. &quot;Удивительное дело случилось сегодня,&quot; сказалъ онъ, &quot;какъ разъ въ полдень, черное какъ уголь существо, которому и названия нетъ, бросилось въ табунъ; въ одно мгновение, схвативъ въ ротъ кобылицу, исчезло оно изъ глазъ; а табунъ такъ и дрожаль, храпелъ.&quot; Тоже самое, кончивъ свою очередь, разсказалъ и следующий братъ. Словомъ сказать: при каждой очереди шестерыхъ старшихъ братьевъ, произошло тоже чудо.
 </p>
-   <p>Былъ у нихъ табунъ кобылицъ; семеро сыновей пасли его поочереди. Однажды, кончивъ свою очередь, пришель домой старший сынъ. "Удивительное дело случилось сегодня," сказалъ онъ, "какъ разъ въ полдень, черное какъ уголь существо, которому и названия нетъ, бросилось въ табунъ; въ одно мгновение, схвативъ въ ротъ кобылицу, исчезло оно изъ глазъ; а табунъ такъ и дрожаль, храпелъ." Тоже самое, кончивъ свою очередь, разсказалъ и следующий братъ. Словомъ сказать: при каждой очереди шестерыхъ старшихъ братьевъ, произошло тоже чудо.
+      <p>Пошелъ, въ свою очередь, младший братъ. Въ самый полдень, прилетело въ средину табуна черное какъ уголь, туче подобное существо; схвативъ въ ротъ кобылицу, поднялось оно на воздухъ, Легши на спину, пустилъ парень вследъ за, ней стрелу,— кобылица упала наземь, а чудо исчезло изъ глазъ.
 </p>
-   <p>Пошелъ, въ свою очередь, младший братъ. Въ самый полдень, прилетело въ средину табуна черное какъ уголь, туче подобное существо; схвативъ въ ротъ кобылицу, поднялось оно на воздухъ, Легши на спину, пустилъ парень вследъ за, ней стрелу,— кобылица упала наземь, а чудо исчезло изъ глазъ.
+      <p>Кончивъ свою очередь, пошель онъ домой; придя домой, нашелъ онъ, что отецъ, мать, братья и проще собираются перевязать руку сестры. Посмотрель онъ, — на ладони сестры увиделъ онъ рану отъ своей стрелы. &quot;Что случилось съ нею?&quot; спросить онъ.— &quot;Нечаянно сама укололась ножемъ,&quot; отвечали те. —&quot;Нетъ, это рана отъ моей стрелы; не человекь дочь ваша, Картъ она; это она похищаеть кобылиць. Следуетъ ее сейчасъ-же убить; иначе, она молодая глотаетъ кобылицъ, а после и весь светъ проглотить,&quot; сказалъ онъ. Бросились тутъ все на него. &quot;Чемъ убить единородную дочь, околейте вы все&quot; закричали отецъ и мать. &quot;Тебя самого убъемъ,&quot; закричали братья. —&quot;Хорошо, довольно ея съ васъ,&quot; сказалъ онъ и вышель изъ дому.
 </p>
-   <p>Кончивъ свою очередь, пошель онъ домой; придя домой, нашелъ онъ, что отецъ, мать, братья и проще собираются перевязать руку сестры. Посмотрель онъ, — на ладони сестры увиделъ онъ рану отъ своей стрелы. "Что случилось съ нею?" спросить онъ.— "Нечаянно сама укололась ножемъ," отвечали те. —"Нетъ, это рана отъ моей стрелы; не человекь дочь ваша, Картъ она; это она похищаеть кобылиць. Следуетъ ее сейчасъ-же убить; иначе, она молодая глотаетъ кобылицъ, а после и весь светъ проглотить," сказалъ онъ. Бросились тутъ все на него. "Чемъ убить единородную дочь, околейте вы все" закричали отецъ и мать. "Тебя самого убъемъ," закричали братья. —"Хорошо, довольно ея съ васъ," сказалъ онъ и вышель изъ дому.
+      <p>
+        Пошель онъ, пошелъ, много шель, мало шелъ, въ другое царство пришелъ, до большаго города дошелъ. Въ этомъ городе детей—головы не имевшихъ, 
+        <note place="end">
+          <p> Т. е. одинокихъ, безродныхъ. </p>
+        </note>
+         у старыхъ людей остановился онъ гостемъ; богатые люди были они. Не приняли они его какъ гостя, приняли какъ сына, посланнаго имъ Богомъ; не пустили они его въ другое место, оставили у себя.
+      </p>
+      <p>
+        Жиль онъ туть, жилъ; прожилъ месяць, прожилъ другой, третий; прожиль годъ. Двухъ отличныхъ собакъ воспиталъ онъ; 
+        <pb n="65"/>
+         одна называлась Быстрая-Нога, другая Тонкий-Слухъ; на цепяхь были они.
+      </p>
+      <p>Однажды, сказалъ онъ найденнымь отцу и матери: &quot;къ родной стороне лежитъ мое сердце; пойду я туда проведать и вернусь. Если мои собаки съ воемъ потянутъ цепи, спускайте ихъ, не мешкая.&quot;
 </p>
-   <p>Пошель онъ, пошелъ, много шель, мало шелъ, въ другое царство пришелъ, до большаго города дошелъ. Въ этомъ городе детей—головы не имевшихъ, <note place="end"><p> Т. е. одинокихъ, безродныхъ. </p></note> у старыхъ людей остановился онъ гостемъ; богатые люди были они. Не приняли они его какъ гостя, приняли какъ сына, посланнаго имъ Богомъ; не пустили они его въ другое место, оставили у себя.
+      <p>Пошелъ онъ, пошелъ; идя, ступая, приблизился онъ къ отцовскому селению. Взобравшись на холмь, съ котораго видно было село, посмотрелъ онъ, —все обрушилось, все село обратилось въ развалины; только изъ одного места выходилъ дымъ. Пошелъ онъ туда, дошелъ, вошелъ во-внутрь, — нашель свою сестру; страшнымъ Картомъ стала уже она. Притворилась она, что радуется, обняла его, посадила, назвала братомъ, назвала жизнью. Такъ, разговаривая, распрашивая, вышла она во дворъ; выхватила ногу у лошади брата и проглотила ее. Войдя въ комнату, сказала, она: &quot;братъ! на треногой лошади разве ты приехалъ?&quot; —&quot;Такъ, сестра&quot; отвечалъ онъ. Выйдя опять, проглотила она другую ногу; войдя, спросила снова: &quot;братъ! на двуногой лошади разве ты приехалъ?&quot;—&quot;Такъ, сестра,&quot; отвечалъ онъ. Такимъ образомъ, проглотила она все четыре ноги лошади. Наконецъ, проглотивъ туловище, сказала: &quot;братъ! безъ лошади, пешкомь разве ты пришелъ?&quot;—&quot;Такъ, сестра&quot; отвечаль онъ. &quot;Сестра&quot;, сказалъ онъ, &quot;и я голоденъ, изготовь что-нибудь закусить; а пока, ты изготовишь, я поднимусь на крышу, чтобы посмотреть на светъ.&quot; —&quot;Хорошо, братъ, поднимись; только ноги свесь ты въ потолочное окно, чтобы я могла видеть,&quot; сказала она.
 </p>
-   <p>Жиль онъ туть, жилъ; прожилъ месяць, прожилъ другой, третий; прожиль годъ. Двухъ отличныхъ собакъ воспиталъ онъ; <pb n="65"/> одна называлась Быстрая-Нога, другая Тонкий-Слухъ; на цепяхь были они.
+      <p>Когда онъ поднялся на крышу, подбежала къ нему мышь. &quot;Скорее спасайся,&quot; сказала она; &quot;иначе, какое твое намерение? Отца и мать проглотила она, братьевъ проглотила; кроме меня, во всей стране ничего живаго не оставила она; сама я, прячась то туда, то сюда, насилу спасаю свою жизнь.&quot; —&quot;Какъ мне бежать? Если и бежать, какъ спасусь?&quot; сказаль онъ.—&quot;Въ потолочное окно свесь ты оба сапога, чтобы она думала, что ты здесь,&quot; отвечала мышь; &quot;если она заговорить, я буду отвчать; беги покуда безъ оглядки.&quot; Свесивъ оба сапога въ потолочное окно, ударился парень бежать.
 </p>
-   <p>Однажды, сказалъ онъ найденнымь отцу и матери: "къ родной стороне лежитъ мое сердце; пойду я туда проведать и вернусь. Если мои собаки съ воемъ потянутъ цепи, спускайте ихъ, не мешкая."
+      <p>
+        Заговорила Картъ, отвечала мышь. &quot;Братъ! иди кушать,&quot; закричала Картъ.— &quot;Погоди немного,&quot; отвечала мышь. —&quot;Поскорей, кушанье стынетъ,&quot; закричала, она. &quot;Погоди немного.&quot; отвечала, опять мышь.—&quot;Довольно, слезай,&quot; закричала она въ третий разъ; 
+        <pb n="66"/>
+         тоть же ответъ дала мышь. Въ гневе, дернула Картъ оба сапога,—только и остались въ рукахъ они, больше нетъ ничего. Выбежавъ на дворъ, посмотрела она,—черной точкою кажется братъ, исчезаеть онъ изъ виду. Бросилась она вселедь за нимъ, бросилась, бросилась. Оглянулся парень назадъ, —догоняетъ она. &quot;Боже,&quot; взмолился онъ, &quot;пусть ляжетъ между нами река безъ моста,&quot; —легла река. Перешагнула ее Картъ. &quot;Боже,&quot; взмолился онъ вторично, &quot;да станетъ между нами скала безъ дороги,&quot; —стала скала. Однимъ прыжкомъ взобралась Картъ наверх. &quot;Боже,&quot; взмолился онъ въ третий разъ, &quot;пусть выростетъ дерево, ушедшее подъ тучу, а на вершине чтобы я былъ&quot;—сделалось, какъ онъ молилъ.
+      </p>
+      <p>Подошла Картъ. Вместо топора вынула она, коренной зубъ, вместо топорища выдернула изъ головы волосъ; приладила и стала рубить дерево. Когда дерево стало клониться, закричаль парень: &quot;Быстрая-Нога, Тонкий-Слухъ!&quot; Какъ бы запряженныя, ровно прибежали обе собаки; прибежавъ, бросились они на Карта съ двухь сторонъ и разорвали ее надвое.
 </p>
-   <p>Пошелъ онъ, пошелъ; идя, ступая, приблизился онъ къ отцовскому селению. Взобравшись на холмь, съ котораго видно было село, посмотрелъ онъ, —все обрушилось, все село обратилось въ развалины; только изъ одного места выходилъ дымъ. Пошелъ онъ туда, дошелъ, вошелъ во-внутрь, — нашель свою сестру; страшнымъ Картомъ стала уже она. Притворилась она, что радуется, обняла его, посадила, назвала братомъ, назвала жизнью. Такъ, разговаривая, распрашивая, вышла она во дворъ; выхватила ногу у лошади брата и проглотила ее. Войдя въ комнату, сказала, она: "братъ! на треногой лошади разве ты приехалъ?" —"Такъ, сестра" отвечалъ онъ. Выйдя опять, проглотила она другую ногу; войдя, спросила снова: "братъ! на двуногой лошади разве ты приехалъ?"—"Такъ, сестра," отвечалъ онъ. Такимъ образомъ, проглотила она все четыре ноги лошади. Наконецъ, проглотивъ туловище, сказала: "братъ! безъ лошади, пешкомь разве ты пришелъ?"—"Такъ, сестра" отвечаль онъ. "Сестра", сказалъ онъ, "и я голоденъ, изготовь что-нибудь закусить; а пока, ты изготовишь, я поднимусь на крышу, чтобы посмотреть на светъ." —"Хорошо, братъ, поднимись; только ноги свесь ты въ потолочное окно, чтобы я могла видеть," сказала она.
+      <p>Слезши съ дерева и ведя за собой собакъ, пошелъ парень. &quot;Братъ! разе меня здесь оставишь?&quot; сказала капля крови, которая упала на листокъ.—&quot;Не оставлю, сестра,&quot; сказаль онъ; взявъ, положилъ онъ за пазуху тотъ листъ.
 </p>
-   <p>Когда онъ поднялся на крышу, подбежала къ нему мышь. "Скорее спасайся," сказала она; "иначе, какое твое намерение? Отца и мать проглотила она, братьевъ проглотила; кроме меня, во всей стране ничего живаго не оставила она; сама я, прячась то туда, то сюда, насилу спасаю свою жизнь." —"Какъ мне бежать? Если и бежать, какъ спасусь?" сказаль онъ.—"Въ потолочное окно свесь ты оба сапога, чтобы она думала, что ты здесь," отвечала мышь; "если она заговорить, я буду отвчать; беги покуда безъ оглядки." Свесивъ оба сапога въ потолочное окно, ударился парень бежать.
+      <p>Какъ пришелъ домой, безъ языка упалъ парень и умеръ. Когда сняли платье и посмотрели, то увидели, что капля крови, проевъ бокъ, впилась ему въ сердце.
 </p>
-   <p>Заговорила Картъ, отвечала мышь. "Братъ! иди кушать," закричала Картъ.— "Погоди немного," отвечала мышь. —"Поскорей, кушанье стынетъ," закричала, она. "Погоди немного." отвечала, опять мышь.—"Довольно, слезай," закричала она въ третий разъ; <pb n="66"/> тоть же ответъ дала мышь. Въ гневе, дернула Картъ оба сапога,—только и остались въ рукахъ они, больше нетъ ничего. Выбежавъ на дворъ, посмотрела она,—черной точкою кажется братъ, исчезаеть онъ изъ виду. Бросилась она вселедь за нимъ, бросилась, бросилась. Оглянулся парень назадъ, —догоняетъ она. "Боже," взмолился онъ, "пусть ляжетъ между нами река безъ моста," —легла река. Перешагнула ее Картъ. "Боже," взмолился онъ вторично, "да станетъ между нами скала безъ дороги," —стала скала. Однимъ прыжкомъ взобралась Картъ наверх. "Боже," взмолился онъ въ третий разъ, "пусть выростетъ дерево, ушедшее подъ тучу, а на вершине чтобы я былъ"—сделалось, какъ онъ молилъ.
-</p>
-   <p>Подошла Картъ. Вместо топора вынула она, коренной зубъ, вместо топорища выдернула изъ головы волосъ; приладила и стала рубить дерево. Когда дерево стало клониться, закричаль парень: "Быстрая-Нога, Тонкий-Слухъ!" Какъ бы запряженныя, ровно прибежали обе собаки; прибежавъ, бросились они на Карта съ двухь сторонъ и разорвали ее надвое.
-</p>
-   <p>Слезши съ дерева и ведя за собой собакъ, пошелъ парень. "Братъ! разе меня здесь оставишь?" сказала капля крови, которая упала на листокъ.—"Не оставлю, сестра," сказаль онъ; взявъ, положилъ онъ за пазуху тотъ листъ.
-</p>
-   <p>Какъ пришелъ домой, безъ языка упалъ парень и умеръ. Когда сняли платье и посмотрели, то увидели, что капля крови, проевъ бокъ, впилась ему въ сердце.
-</p>
-  </body>
- </text>
+    </body>
+  </text>
 </TEI>

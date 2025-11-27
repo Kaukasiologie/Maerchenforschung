@@ -1,215 +1,288 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title xml:lang="ava">VI. Cúchulin</title>
-<author>
-<name xml:id="WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
-</author>
-<author>
-<name xml:id="EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
-</author>
-<author>
-<name xml:id="JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
-</author>
-<respStmt>
-<resp>Annotated according to the ATU system</resp>
-<name xml:id="ED">
-<persName>
-<forename>Elguja</forename>
-<surname>Dadunashvili</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-</name>
-<name xml:id="DF">
-<persName>
-<forename>Diana</forename>
-<surname>Forker</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<publisher>
-<name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-</publisher>
-<pubPlace>
-<genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-</pubPlace>
-<date>2024</date>
-<distributor>
-<addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-<ref target="https://github.com/edadunashvili">Software und Texte</ref>
-</distributor>
-<availability>
-<p>
-<ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-</p>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="collection">
-<title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="ava">VI. Cúchulin</title>
+        <author>
+          <name xml:id="WB">
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <author>
+          <name xml:id="EL">
+            <persName>
+              <forename>Ernst</forename>
+              <surname>Lewy</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
+        </author>
+        <author>
+          <name xml:id="JB">
+            <persName>
+              <forename>Johannes</forename>
+              <surname>Bechert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
        Johannes Bechert† and M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova and S. Šaxtamanov</title>
-<title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
+          <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
        Johannes Bechert† sowie von M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova und S. Šaxtamanov</title>
-<author role="author">
-<name ref="#WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-</author>
-<respStmt>
-<resp/>
-<name/>
-</respStmt>
-<extent>
-<measure unit="words"/>
-<measure unit="pages"/>
-</extent>
-<publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
-<distributor><ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
-</distributor>
-<date when="2007">The year 2007</date>
-<availability>
-<licence/>
-</availability>
-</bibl>
-<bibl type="digitalSource">
-               <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
-            </bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="ava">
-<index indexName="iso639-3"/>
-<ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-</language>
-</langUsage>
-<textClass>
-<keywords>
-<term type="writingSystem">utf-8</term>
-</keywords>
-<keywords scheme="http://uri.gbv.de/terminology/bk/">
-<term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-<term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-</keywords>
-<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-<term>prose</term>
-</keywords>
-<keywords scheme="https://d-nb.info/gnd/">
-<term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-<list>
-<item>a701 Riesenspielzeug</item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-<list>
-<item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_210.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-<list>
-<item></item>
-</list>
-</keywords>
-</textClass>
-<creation>
-<placeName>
-<country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
-<region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
-<district/>
-<settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
-<geo/>
-</placeName>
-<date when="1918">1918</date>
-</creation>
-<particDesc>
-<person role="speaker">
-<persName>
-<forename>Nazmuddin</forename>
-<surname>Sajpudin</surname>
-</persName>
-<age>31</age>
-<birth>
-<date when="1887">1887</date>
-<placeName>
-<country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-<region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-<district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
-<settlement>Gunib</settlement>
-</placeName>
-</birth>
-</person>
-<person role="researcher">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-<person role="translator">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-</particDesc>
-</profileDesc>
-<revisionDesc>
-<listChange>
-<change>
-<name/>
-<date/>
-</change>
-</listChange>
-</revisionDesc>
-</teiHeader>
- <text xml:id="cc_ava_ava_210">
-  <body>
-   <head>VI. Cúchulin {= Cú Chulainn}</head>
-   <p>
-    <cb n="118"/> ВукӀанила цо хан. Дов ханасул щибго лъимер букӀинчӀила. КӀикъоялда анцӀго сонги дов ханас тӀубан букӀанила. Гьеб заманаялъ гьавунила досие цо вас. “Жидецаго хьихьани къадарав лъугьина”, - абун, цогиги чӀужуялъухъе кьунила дов вас хьихьизе. Цинги долъ дов вас хьихьанила, <cb n="119"/> щибго канлъи гьечӀеб рукъовги тун. Цинги дов васас анцӀила щуго сон тӀубараб<note place="bottom">1013 &lt;гӀораб&gt;</note> мехалъ, дой радал къватӀие жиндеего гулаяталъ унеб мехалъ, дов вас вегараб рукъобе гордо рагьун танила. Доб заманги радал бакъ баккулеб заман букӀанила, цинги дов вас <cb n="120"/> кьижарав ворчӀанила. Цинги досда, гордухъан жанибе бачӀун, доб бакъ бихьун буго. Цинги дов вас кӀанцӀун, тӀадеги вахъун, доб бакъ кквезе лъугьун вуго. Досда кидаго доб къоялдегӀан цебе бакъ бихьун букӀун гьечӀо, я къватӀиб дуниял бихьун <cb n="121"/> букӀун гьечӀо. Цинги дов «бакъ кквезе» абун гӀемер лъугьун вуго. ГӀетӀги бан, свакан гӀодов чӀун вуго. Цинги дов хьихьарай эбел тӀаде ячӀун йиго. Цинги долъ дов васасда абун буго: “Щай дуда гӀетӀ бараб? Щиб дуца гьабулеб букӀараб?” Цинги дов васас абун буго: “Балагье <cb n="122"/> эбел, нилъер рокъоб, кидаго дида бихьичӀеб, цо гӀаламат бачӀун буго. Гъоб гӀаламатаб жо кквезе абун дун гӀемерав лъугьана, дида гъоб кквезе кӀоларо. Щиб жо гъоб, дида лъаларо.” <pb n="123"/>Цинги дой эбелалъ досда абунила: “Бакъги бугеб, зобги бугеб гӀемераб гӀаламатаб жо <cb n="123"/> ги бугеб”, - абун. Дов вас дой эбелалъ гордухъан къватӀиве балагьизе виччан вуго. Цинги досда гъора гӀемерал гӀадамал рихьун руго. Цинги гъос цӀакъ эбелалада гьарун буго: “Виччай дунги къватӀиве гӀадамазда цадахъ хьвадизе”, - абун. Цинги дой эбелалъ дов вас къватӀиве <cb n="124"/> виччан вуго. Цинги досда гӀолохъаби ратун руго, торгӀо<note place="bottom">1014 &lt;топ&gt;</note> гьабулел. Цинги ав вас ун гъозда гьоркьовеги, асги гьабун буго торгӀо, ас хӀатӀица кьабун ун, гъоб торгӀо цоясул горбода речӀчӀун буго. Цинги гъов чи гӀодов ккун вуго. Гъораса гӀадамалги рукъоре ун руго. <cb n="125"/> Гьединав торгӀо речӀчӀун гӀадамал гӀодо ккезе гьарулев, кутак бугев вукӀун вуго гъов жанив тун хьихьарав ханасул вас. Цинги гъов унев вукӀун вуго, жиндаса гьунар бергьарав чи ватулиш дуйналалда вихьизе. Цинги гъос <cb n="126"/> живго хьихьарай эбелалда бицун буго: “Дун гьадин ине вуго”, - абун. Цинги гъой эбелалъ гъов васасда абун буго: “Мун гӀадинал гӀадамал ун, араб бакӀ лъачӀого, тӀагӀине гьарулел чагӀи гӀемерал руго. Унге мун. Дурго рукъов вукӀа”, - <cb n="127"/> абун, эбелалъ гъосда гӀемер абунила. Кинго гъов эбелалъухъ балагьичӀила. Цинги гъой эбелалъ, гъов инчӀого чӀолареб мехалъ, гъосда малъун буго: “Дур инсул-инсул букӀараб чу бугин, кӀикъоялда анцӀго соналъ жаниб тун, къватӀиб биччачӀого хьихьараб. <cb n="128"/> Гъоб чуги ярагъги инсуца дуй кьуни, инзе бегьила мун къватӀиве. КьечӀони, унге мун кивего.” Цинги гъос инсудаса гьарун буго гъоб чуги, кьилиги, ярагъги жиндее кьейила. Цинги инсуца гъосда абун буго: “Дуда эб бицине кколареб жо бицун буго. <cb n="129"/> Гьанже бицун тун бугелъул дуе эб кьечӀого гӀеларо. Векере бачине а, гьадаб бокьоб бухьун бугин доб чу. Дир эмен хун кӀикъоялда анцӀго сонги бан буго. Эв хваралдаса эб чодухъ щивниги чиги балагьичӀо. Дида доб хон бугеб, чӀаго бугеб, <cb n="130"/> кин бугебги лъаларо.” Цинги дов вас ун, доб бокьалъул нуцӀида аскӀов щун вуго. Досда батун буго, доб нуцӀида цо кӀудиял кӀулал ран. Цинги дов васас дол кӀулал ричӀун руго. Цинги доб бокьоб цо чу батун буго асда гамачӀ кваналеб. Цинги долда ав вас <cb n="131"/> вихьараб мехалъ, долъ <pb n="124"/>цинги гьаракь гьабун буго кӀудияб. Цинги гӀадамал цӀакъ хӀинкъун руго, «Гьаб щиб кӀудияб гьаракь?» абун. Цинги дос “Мун сахаб жо гуро, мун лъикӀаб букӀараб ани, кӀикъоялда анцӀго соналъ гамачӀ кванан гьедин букӀилароан”, - абун, дос доб чу горбодаса сапги ккун, <cb n="132"/> тиртирун къватӀиб рехун буго. Цинги ун дов васас, кьилиги босун, кьолон буго доб чу. Цинги жиндирго ретӀелги ретӀун, доб чода ав вас рекӀун вуго. Ав вас тӀадги рекӀун, доб биччараб мехалъ, щибниги ав васасда канлъи бихьулеб букӀун гьечӀо, доб <cb n="133"/> чодул иналъул кутакалъ. Цинги цо бакӀалда цо магӀарде щун вуго дов вас. Доб магӀарда батун буго нартазул рукъги, дозул мергу дургъулей эбелги. Дой эбелалъ гьав васасда цӀехон буго: “А дир вас, киве унев чи мун?”, ... абун. Цинги дов васас дол <cb n="134"/> нартазул эбелалда абун буго: “Дидаса гьунар бергьарав чи балагьизе унев вуго дун”, - абун. Цинги долъ абун буго дов васасда: “Дирги вугин анкьго вас. Мун гӀадин гьунар тӀокӀал гьечӀин гьел. Эл рачӀизегӀан анив чӀа мун”, - ян абун абунила. Цинги долъ <cb n="135"/> жиндирго мергуялдаса букӀараб тӀагъди бортизе гьабун буго гъов васасухъе. Цинги долъги абун буго: “Воре, дир вас, гьеб тӀагъди гьанибе тӀаде рехе”, - абун. Цинги дов гӀемер лъугьун вуго дов тӀади дубе тӀагъди рехизе. Цинги асда кинго доб тӀагъди кодобе <cb n="136"/> босизе кӀун гьечӀо. Цинги дой эбел цӀакъ елъун йиго ав васасда. Цинги долъ жиндерго бетӀералдаса гъал бегьун буго гъов васасухъе: “Бухье дуца гьеб тӀагъди дир гъалалда”, - абун. Цинги дос доб тӀагъди долъун гъалалда бухьун буго. Цинги дов васги долъ вахчизе гьавун буго. <cb n="137"/> Гьанже бакъанида долъул анкьго нартги рукъоре рачӀулел рихьун руго гьав васасда, киназухъго кьолболъа бахъун гъветӀги гъежалда лъун, гъотӀол кинабго гӀаркьслалда чанги бан. Цинги дов вас, дол рихьигун, лъутун вуго. Хадур дол нарталги рекерун руго. <cb n="138"/> Цинги ав васасда данде ккун вуго гӀайибав чи, цояб кверги цояб бохги бакъварав<note place="bottom">1015 &lt;бокъарав&gt;</note>. Цинги досда бан букӀун буго, кӀикъоялда анцӀго гьоко, цоялда цояб хадуб бухьун, кодоб кӀвекӀулеб цо ганщил тӀомги букӀун буго. Дов чиясул <cb n="139"/> горбода бан цӀалеб кӀикъоялда анцӀго <pb n="125"/>цӀамул цӀураб гьоко, кодоб квераз кӀвекӀулеб ганщил тӀом, живгоги бащадаб черх бакъварав, гьединав чи данде ккун вуго ав васасда. Цинги ав васас дов чиясда абун буго: “Хехго дун вахче дуца!”, — абун. <cb n="140"/> Цинги дос восун жиндирго кисинив лъун вуго. Доб сагӀат дол нарталги тӀаде щун руго дов чиясда. Дол нартаз досда абун буго: “Цо гьадинав чи вихьичӀиш? Дуца эв вахчун цин ватила. Дуца эв хехго нижехъе кье. КьечӀони <cb n="141"/> мун нижеца гьадин гьавила”, — абун, гӀодосаги босун гамачӀ хъатикь къан, лъим чвахизе гьабун буго. Цинги досги доб жиндаго кодоб букӀараб ганщил тӀом бихъун буго. Цинги дозда досги абун буго: “Нуж дица гьадин рихъила”, - <cb n="142"/> абун. Цинги дол нартал дораса нахъ руссун, рокъоре араб мехалъ, ав вас жиндирго кисиниса къватӀиве восун вуго. Цинги дов чияс асда цӀехон буго: “Мун кив вукӀарав, нужор щиб лъугьараб?” Цинги дов васас бицун буго: “Дун ун вукӀана дидасаго кутак бергьарав чи валагьизе. <cb n="143"/> Цинги дида гъол чагӀи дидаса гьунар цӀикӀкӀарал лъунги рихьун, дун нахъе лъутана.” Цинги дов чияс гьав васасда абун буго: “Мунги дунги гӀадинал гуро кутак бугел чагӀи рукӀунел. Дир вукӀана анкьго вац. Ниж рукӀана цо рохьор, цо гъветӀалда жанир чӀун, гьедин ниж <cb n="144"/> ругеб мехалъ, вачӀана цо кӀудияв чи гӀемерал гӀиялги рачун. Досул гӀиял цо квешаб бакӀалде унел рукӀана. Цинги дос дунги, дир вацалги, жаниб чӀараб доб гъветӀги бахъун, гӀиялда цебе рехана дол гӀиял нахъ руссизе. Цинги доб гъветӀалда гъоркье ккун, дир <cb n="145"/> анкьго вац хвана, дирги цо гӀаркьел кьабун, гьадин барщадаб черх бакъвана. Гьединалги руго дуйналалда гӀадамал. Мун жеги гьитӀинав чи вуго, дурго эбелалъ гьарурал хинкӀалги кванан рукъов вукӀа”, - абун. Дов васги рукъове витӀун, дов чиги жиндирго гьакалги цӀан, <cb n="146"/> жиндирго нухда ун вуго.</p>
-  </body>
- </text>
+          <author role="author">
+            <name ref="#WB">
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#JB">
+              <persName>
+                <forename>Johannes</forename>
+                <surname>Bechert</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#EL">
+              <persName>
+                <forename>Ernst</forename>
+                <surname>Lewy</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
+          <distributor>
+            <ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
+          </distributor>
+          <date when="2007">The year 2007</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+        <bibl type="digitalSource">
+          <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a701 Riesenspielzeug</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_210.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
+          <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
+          <geo/>
+        </placeName>
+        <date when="1918">1918</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Nazmuddin</forename>
+            <surname>Sajpudin</surname>
+          </persName>
+          <age>31</age>
+          <birth>
+            <date when="1887">1887</date>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
+              <settlement>Gunib</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ava_ava_210">
+    <body>
+      <head>VI. Cúchulin {= Cú Chulainn}</head>
+      <p>
+        <cb n="118"/>
+         ВукӀанила цо хан. Дов ханасул щибго лъимер букӀинчӀила. КӀикъоялда анцӀго сонги дов ханас тӀубан букӀанила. Гьеб заманаялъ гьавунила досие цо вас. “Жидецаго хьихьани къадарав лъугьина”, - абун, цогиги чӀужуялъухъе кьунила дов вас хьихьизе. Цинги долъ дов вас хьихьанила, 
+        <cb n="119"/>
+         щибго канлъи гьечӀеб рукъовги тун. Цинги дов васас анцӀила щуго сон тӀубараб
+        <note place="bottom">1013 &lt;гӀораб&gt;</note>
+         мехалъ, дой радал къватӀие жиндеего гулаяталъ унеб мехалъ, дов вас вегараб рукъобе гордо рагьун танила. Доб заманги радал бакъ баккулеб заман букӀанила, цинги дов вас 
+        <cb n="120"/>
+         кьижарав ворчӀанила. Цинги досда, гордухъан жанибе бачӀун, доб бакъ бихьун буго. Цинги дов вас кӀанцӀун, тӀадеги вахъун, доб бакъ кквезе лъугьун вуго. Досда кидаго доб къоялдегӀан цебе бакъ бихьун букӀун гьечӀо, я къватӀиб дуниял бихьун 
+        <cb n="121"/>
+         букӀун гьечӀо. Цинги дов «бакъ кквезе» абун гӀемер лъугьун вуго. ГӀетӀги бан, свакан гӀодов чӀун вуго. Цинги дов хьихьарай эбел тӀаде ячӀун йиго. Цинги долъ дов васасда абун буго: “Щай дуда гӀетӀ бараб? Щиб дуца гьабулеб букӀараб?” Цинги дов васас абун буго: “Балагье 
+        <cb n="122"/>
+         эбел, нилъер рокъоб, кидаго дида бихьичӀеб, цо гӀаламат бачӀун буго. Гъоб гӀаламатаб жо кквезе абун дун гӀемерав лъугьана, дида гъоб кквезе кӀоларо. Щиб жо гъоб, дида лъаларо.” 
+        <pb n="123"/>
+        Цинги дой эбелалъ досда абунила: “Бакъги бугеб, зобги бугеб гӀемераб гӀаламатаб жо 
+        <cb n="123"/>
+         ги бугеб”, - абун. Дов вас дой эбелалъ гордухъан къватӀиве балагьизе виччан вуго. Цинги досда гъора гӀемерал гӀадамал рихьун руго. Цинги гъос цӀакъ эбелалада гьарун буго: “Виччай дунги къватӀиве гӀадамазда цадахъ хьвадизе”, - абун. Цинги дой эбелалъ дов вас къватӀиве 
+        <cb n="124"/>
+         виччан вуго. Цинги досда гӀолохъаби ратун руго, торгӀо
+        <note place="bottom">1014 &lt;топ&gt;</note>
+         гьабулел. Цинги ав вас ун гъозда гьоркьовеги, асги гьабун буго торгӀо, ас хӀатӀица кьабун ун, гъоб торгӀо цоясул горбода речӀчӀун буго. Цинги гъов чи гӀодов ккун вуго. Гъораса гӀадамалги рукъоре ун руго. 
+        <cb n="125"/>
+         Гьединав торгӀо речӀчӀун гӀадамал гӀодо ккезе гьарулев, кутак бугев вукӀун вуго гъов жанив тун хьихьарав ханасул вас. Цинги гъов унев вукӀун вуго, жиндаса гьунар бергьарав чи ватулиш дуйналалда вихьизе. Цинги гъос 
+        <cb n="126"/>
+         живго хьихьарай эбелалда бицун буго: “Дун гьадин ине вуго”, - абун. Цинги гъой эбелалъ гъов васасда абун буго: “Мун гӀадинал гӀадамал ун, араб бакӀ лъачӀого, тӀагӀине гьарулел чагӀи гӀемерал руго. Унге мун. Дурго рукъов вукӀа”, - 
+        <cb n="127"/>
+         абун, эбелалъ гъосда гӀемер абунила. Кинго гъов эбелалъухъ балагьичӀила. Цинги гъой эбелалъ, гъов инчӀого чӀолареб мехалъ, гъосда малъун буго: “Дур инсул-инсул букӀараб чу бугин, кӀикъоялда анцӀго соналъ жаниб тун, къватӀиб биччачӀого хьихьараб. 
+        <cb n="128"/>
+         Гъоб чуги ярагъги инсуца дуй кьуни, инзе бегьила мун къватӀиве. КьечӀони, унге мун кивего.” Цинги гъос инсудаса гьарун буго гъоб чуги, кьилиги, ярагъги жиндее кьейила. Цинги инсуца гъосда абун буго: “Дуда эб бицине кколареб жо бицун буго. 
+        <cb n="129"/>
+         Гьанже бицун тун бугелъул дуе эб кьечӀого гӀеларо. Векере бачине а, гьадаб бокьоб бухьун бугин доб чу. Дир эмен хун кӀикъоялда анцӀго сонги бан буго. Эв хваралдаса эб чодухъ щивниги чиги балагьичӀо. Дида доб хон бугеб, чӀаго бугеб, 
+        <cb n="130"/>
+         кин бугебги лъаларо.” Цинги дов вас ун, доб бокьалъул нуцӀида аскӀов щун вуго. Досда батун буго, доб нуцӀида цо кӀудиял кӀулал ран. Цинги дов васас дол кӀулал ричӀун руго. Цинги доб бокьоб цо чу батун буго асда гамачӀ кваналеб. Цинги долда ав вас 
+        <cb n="131"/>
+         вихьараб мехалъ, долъ 
+        <pb n="124"/>
+        цинги гьаракь гьабун буго кӀудияб. Цинги гӀадамал цӀакъ хӀинкъун руго, «Гьаб щиб кӀудияб гьаракь?» абун. Цинги дос “Мун сахаб жо гуро, мун лъикӀаб букӀараб ани, кӀикъоялда анцӀго соналъ гамачӀ кванан гьедин букӀилароан”, - абун, дос доб чу горбодаса сапги ккун, 
+        <cb n="132"/>
+         тиртирун къватӀиб рехун буго. Цинги ун дов васас, кьилиги босун, кьолон буго доб чу. Цинги жиндирго ретӀелги ретӀун, доб чода ав вас рекӀун вуго. Ав вас тӀадги рекӀун, доб биччараб мехалъ, щибниги ав васасда канлъи бихьулеб букӀун гьечӀо, доб 
+        <cb n="133"/>
+         чодул иналъул кутакалъ. Цинги цо бакӀалда цо магӀарде щун вуго дов вас. Доб магӀарда батун буго нартазул рукъги, дозул мергу дургъулей эбелги. Дой эбелалъ гьав васасда цӀехон буго: “А дир вас, киве унев чи мун?”, ... абун. Цинги дов васас дол 
+        <cb n="134"/>
+         нартазул эбелалда абун буго: “Дидаса гьунар бергьарав чи балагьизе унев вуго дун”, - абун. Цинги долъ абун буго дов васасда: “Дирги вугин анкьго вас. Мун гӀадин гьунар тӀокӀал гьечӀин гьел. Эл рачӀизегӀан анив чӀа мун”, - ян абун абунила. Цинги долъ 
+        <cb n="135"/>
+         жиндирго мергуялдаса букӀараб тӀагъди бортизе гьабун буго гъов васасухъе. Цинги долъги абун буго: “Воре, дир вас, гьеб тӀагъди гьанибе тӀаде рехе”, - абун. Цинги дов гӀемер лъугьун вуго дов тӀади дубе тӀагъди рехизе. Цинги асда кинго доб тӀагъди кодобе 
+        <cb n="136"/>
+         босизе кӀун гьечӀо. Цинги дой эбел цӀакъ елъун йиго ав васасда. Цинги долъ жиндерго бетӀералдаса гъал бегьун буго гъов васасухъе: “Бухье дуца гьеб тӀагъди дир гъалалда”, - абун. Цинги дос доб тӀагъди долъун гъалалда бухьун буго. Цинги дов васги долъ вахчизе гьавун буго. 
+        <cb n="137"/>
+         Гьанже бакъанида долъул анкьго нартги рукъоре рачӀулел рихьун руго гьав васасда, киназухъго кьолболъа бахъун гъветӀги гъежалда лъун, гъотӀол кинабго гӀаркьслалда чанги бан. Цинги дов вас, дол рихьигун, лъутун вуго. Хадур дол нарталги рекерун руго. 
+        <cb n="138"/>
+         Цинги ав васасда данде ккун вуго гӀайибав чи, цояб кверги цояб бохги бакъварав
+        <note place="bottom">1015 &lt;бокъарав&gt;</note>
+        . Цинги досда бан букӀун буго, кӀикъоялда анцӀго гьоко, цоялда цояб хадуб бухьун, кодоб кӀвекӀулеб цо ганщил тӀомги букӀун буго. Дов чиясул 
+        <cb n="139"/>
+         горбода бан цӀалеб кӀикъоялда анцӀго 
+        <pb n="125"/>
+        цӀамул цӀураб гьоко, кодоб квераз кӀвекӀулеб ганщил тӀом, живгоги бащадаб черх бакъварав, гьединав чи данде ккун вуго ав васасда. Цинги ав васас дов чиясда абун буго: “Хехго дун вахче дуца!”, — абун. 
+        <cb n="140"/>
+         Цинги дос восун жиндирго кисинив лъун вуго. Доб сагӀат дол нарталги тӀаде щун руго дов чиясда. Дол нартаз досда абун буго: “Цо гьадинав чи вихьичӀиш? Дуца эв вахчун цин ватила. Дуца эв хехго нижехъе кье. КьечӀони 
+        <cb n="141"/>
+         мун нижеца гьадин гьавила”, — абун, гӀодосаги босун гамачӀ хъатикь къан, лъим чвахизе гьабун буго. Цинги досги доб жиндаго кодоб букӀараб ганщил тӀом бихъун буго. Цинги дозда досги абун буго: “Нуж дица гьадин рихъила”, - 
+        <cb n="142"/>
+         абун. Цинги дол нартал дораса нахъ руссун, рокъоре араб мехалъ, ав вас жиндирго кисиниса къватӀиве восун вуго. Цинги дов чияс асда цӀехон буго: “Мун кив вукӀарав, нужор щиб лъугьараб?” Цинги дов васас бицун буго: “Дун ун вукӀана дидасаго кутак бергьарав чи валагьизе. 
+        <cb n="143"/>
+         Цинги дида гъол чагӀи дидаса гьунар цӀикӀкӀарал лъунги рихьун, дун нахъе лъутана.” Цинги дов чияс гьав васасда абун буго: “Мунги дунги гӀадинал гуро кутак бугел чагӀи рукӀунел. Дир вукӀана анкьго вац. Ниж рукӀана цо рохьор, цо гъветӀалда жанир чӀун, гьедин ниж 
+        <cb n="144"/>
+         ругеб мехалъ, вачӀана цо кӀудияв чи гӀемерал гӀиялги рачун. Досул гӀиял цо квешаб бакӀалде унел рукӀана. Цинги дос дунги, дир вацалги, жаниб чӀараб доб гъветӀги бахъун, гӀиялда цебе рехана дол гӀиял нахъ руссизе. Цинги доб гъветӀалда гъоркье ккун, дир 
+        <cb n="145"/>
+         анкьго вац хвана, дирги цо гӀаркьел кьабун, гьадин барщадаб черх бакъвана. Гьединалги руго дуйналалда гӀадамал. Мун жеги гьитӀинав чи вуго, дурго эбелалъ гьарурал хинкӀалги кванан рукъов вукӀа”, - абун. Дов васги рукъове витӀун, дов чиги жиндирго гьакалги цӀан, 
+        <cb n="146"/>
+         жиндирго нухда ун вуго.
+      </p>
+    </body>
+  </text>
 </TEI>

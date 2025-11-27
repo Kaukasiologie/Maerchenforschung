@@ -1,128 +1,168 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф. 9, on, 1, д. № 6</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф. 9, on, 1, д. № 6</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Алибека</forename>
-        <surname xml:lang="rus">Магомедаоглы</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus"> А.</forename>
-        <surname xml:lang="rus">Алиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Алибека</forename>
+            <surname xml:lang="rus">Магомедаоглы</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus"> А.</forename>
+            <surname xml:lang="rus">Алиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_90">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_90">
     <body>
-     <head>64. Пастух и пастушка </head>
-     <p>жила одна пастушка имени айшат родители умерли десять лет этих пор должна сама зарабатывать хлеб</p><p>айшат стала пастушкой</p><p>жила горном пастбище редко видела лю очень застенчива бывало нин проходил мимо стада старалась спрятаться никто видел дичилась единственного моего друга пастуха али который неподалеку пас д баранов каждый али приходил айшат проводил целые дни айшат сама заметила привяза</p><p>ь али который полюбил айшат оба затаив обе чувства решались открыться друг другу</p><p>однажды али пришел айшат сильный уман боялся оставить свое стадо айшат почув повала сильно привязалась али день али обыкновению пришел заметил айшат побледнела айшат сказала спала ночь</p><p>али понял причину бессонницы открыл гй свои чувства айшат ответила</p><p>давно люблю пе решалась говорить</p><p>несколько дней али заключил кебин айшат п гала женой</p><p>однажды айшат али сидели около своего шалаша горе появился своей свитой хан который приехал сюда охоту время охоты пошел сильный дождь хап укрылся шалаше пастухов увидев айшат хан поражен е красотой</p><p>такая делаешь спросил</p><p>айшат рассказала хану девушка понравилась хан решил взять жены узнав любит своего мужа решил избавиться</p><p>вернувшись домой хан вызвал али сказал</p><p>своем дворце лесу живет людоед мизинце надето кольцо дпя должен привезти это кольцо иначе велю казнить</p><p>убитый горем али вернулся домой предчувствуя недоброе айшат тревогою спросила своего мужа вызвал хан али рассказал жене говорил хан зная предпринять молча сидели айшат али наверное просидели долго услышали оклика обернувшись заметили громадную змею которая заговорила ними человеческим голосом</p><p>печалься али сказала змея желание твое исполнено поступать скажу пойди хану сказки род дагестан</p><p>попроси коня табуна хан разрешит тебе эго подойди табуну раза свистни свисток змея протянула свисток возьми коня который подойдет тебе конь приведет тому месту буду остальное сделаю сама</p><p>сказав это змея исчезла</p><p>айшат али изумления могли понять наяву это сне</p><p>али сделал советовала змея сидит коне конь стрелою мчится прямо лесу али увидел змею сказала</p><p>поедем ко дворцу людоеда заберусь нему спальню впущу жилы яд которого дня подряд спать сможешь войти дворец снять пальца людоеда кольцо</p><p>али сел коня змея обвилась вокруг талии конь поскакал ветер дворца людоеда дворец окружен высоким железным забором змея исчезла вскоре али услышал зовет своем коне перелетел железный забор очутился дворце</p><p>одной комнат увидел спящего постели громадного людоеда змея сказала проснется али снял пальца людоеда кольцо вышел вместе змеей</p><p>сели коня благополучно вернулись место откуда выехали змея простилась юношей сказав</p><p>позови</p><p>али отпустил коня табун пошел хану передал</p><p>кольцо людоеда удивился хан отпустил али домой подумал стало избавиться пастуха счастливый али вернулся своей красавице жене которая встретила великой радостью это время хан задумал убить али следующий день мечети хан обратившись народу сказал</p><p>видел плохой сон аллах прогневался должны принести жертву человека</p><p>этих словах хана прислужники стали выкрикивать имя пастуха решено всенародно убить али</p><p>хан послал людей али несчастного юношу привели хану объявил своем решении али стал перечить хану попросил разрешили проститься женой придя домой али сказал жене хан решил завтра убить страданиям айшат конца горько плакала ничем могла помочь лли</p><p>али раза свистнул свисток нему явилась имея которая однажды спасла жизнь</p><p>печалься положись иди подчинись хану сказав это змея исчезла</p><p>али вернулся хану айшат оплакивая своего мужа теряя надежды снова увидеть осталась дома</p><p>ночи наметили палача который должен убить али вечером палач лег спать нему приползла мея ужалив впустила столько яда дня мог проснуться</p><p>следующий день народ собрался дворца хана вывели юдного али стали ждать прихода палача шел</p><p>хан послал палачом посланные вернулись сообщили хану смогли разбудить палача</p><p>узнав люди ужасе стали расходиться говоря аллах желает смерти али хан воскликнул</p><p>завтра убыо али приказываю всем собраться площади</p><p>ночью хан лег спать нему приползла змея ужалив хана впустила жилы столько яда просыпаясь умер</p><p>утром площадь снов г вывели али весь народ ждал хана объявили ночью хан умер</p><p>закричали али угодный аллаху человек н сделать ханом вместо умершего</p><p>этих пор али стал ханом народ доволен правлением</p><p>пили ели торжествах столько бывшие целый год могли видеть бузу мясо хаи подарил хорошего коня которого хотел привести подарок сожалению дороге встретился знакомый наш ахмед отдал коня</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>64. Пастух и пастушка </head>
+      <p>жила одна пастушка имени айшат родители умерли десять лет этих пор должна сама зарабатывать хлеб</p>
+      <p>айшат стала пастушкой</p>
+      <p>жила горном пастбище редко видела лю очень застенчива бывало нин проходил мимо стада старалась спрятаться никто видел дичилась единственного моего друга пастуха али который неподалеку пас д баранов каждый али приходил айшат проводил целые дни айшат сама заметила привяза</p>
+      <p>ь али который полюбил айшат оба затаив обе чувства решались открыться друг другу</p>
+      <p>однажды али пришел айшат сильный уман боялся оставить свое стадо айшат почув повала сильно привязалась али день али обыкновению пришел заметил айшат побледнела айшат сказала спала ночь</p>
+      <p>али понял причину бессонницы открыл гй свои чувства айшат ответила</p>
+      <p>давно люблю пе решалась говорить</p>
+      <p>несколько дней али заключил кебин айшат п гала женой</p>
+      <p>однажды айшат али сидели около своего шалаша горе появился своей свитой хан который приехал сюда охоту время охоты пошел сильный дождь хап укрылся шалаше пастухов увидев айшат хан поражен е красотой</p>
+      <p>такая делаешь спросил</p>
+      <p>айшат рассказала хану девушка понравилась хан решил взять жены узнав любит своего мужа решил избавиться</p>
+      <p>вернувшись домой хан вызвал али сказал</p>
+      <p>своем дворце лесу живет людоед мизинце надето кольцо дпя должен привезти это кольцо иначе велю казнить</p>
+      <p>убитый горем али вернулся домой предчувствуя недоброе айшат тревогою спросила своего мужа вызвал хан али рассказал жене говорил хан зная предпринять молча сидели айшат али наверное просидели долго услышали оклика обернувшись заметили громадную змею которая заговорила ними человеческим голосом</p>
+      <p>печалься али сказала змея желание твое исполнено поступать скажу пойди хану сказки род дагестан</p>
+      <p>попроси коня табуна хан разрешит тебе эго подойди табуну раза свистни свисток змея протянула свисток возьми коня который подойдет тебе конь приведет тому месту буду остальное сделаю сама</p>
+      <p>сказав это змея исчезла</p>
+      <p>айшат али изумления могли понять наяву это сне</p>
+      <p>али сделал советовала змея сидит коне конь стрелою мчится прямо лесу али увидел змею сказала</p>
+      <p>поедем ко дворцу людоеда заберусь нему спальню впущу жилы яд которого дня подряд спать сможешь войти дворец снять пальца людоеда кольцо</p>
+      <p>али сел коня змея обвилась вокруг талии конь поскакал ветер дворца людоеда дворец окружен высоким железным забором змея исчезла вскоре али услышал зовет своем коне перелетел железный забор очутился дворце</p>
+      <p>одной комнат увидел спящего постели громадного людоеда змея сказала проснется али снял пальца людоеда кольцо вышел вместе змеей</p>
+      <p>сели коня благополучно вернулись место откуда выехали змея простилась юношей сказав</p>
+      <p>позови</p>
+      <p>али отпустил коня табун пошел хану передал</p>
+      <p>кольцо людоеда удивился хан отпустил али домой подумал стало избавиться пастуха счастливый али вернулся своей красавице жене которая встретила великой радостью это время хан задумал убить али следующий день мечети хан обратившись народу сказал</p>
+      <p>видел плохой сон аллах прогневался должны принести жертву человека</p>
+      <p>этих словах хана прислужники стали выкрикивать имя пастуха решено всенародно убить али</p>
+      <p>хан послал людей али несчастного юношу привели хану объявил своем решении али стал перечить хану попросил разрешили проститься женой придя домой али сказал жене хан решил завтра убить страданиям айшат конца горько плакала ничем могла помочь лли</p>
+      <p>али раза свистнул свисток нему явилась имея которая однажды спасла жизнь</p>
+      <p>печалься положись иди подчинись хану сказав это змея исчезла</p>
+      <p>али вернулся хану айшат оплакивая своего мужа теряя надежды снова увидеть осталась дома</p>
+      <p>ночи наметили палача который должен убить али вечером палач лег спать нему приползла мея ужалив впустила столько яда дня мог проснуться</p>
+      <p>следующий день народ собрался дворца хана вывели юдного али стали ждать прихода палача шел</p>
+      <p>хан послал палачом посланные вернулись сообщили хану смогли разбудить палача</p>
+      <p>узнав люди ужасе стали расходиться говоря аллах желает смерти али хан воскликнул</p>
+      <p>завтра убыо али приказываю всем собраться площади</p>
+      <p>ночью хан лег спать нему приползла змея ужалив хана впустила жилы столько яда просыпаясь умер</p>
+      <p>утром площадь снов г вывели али весь народ ждал хана объявили ночью хан умер</p>
+      <p>закричали али угодный аллаху человек н сделать ханом вместо умершего</p>
+      <p>этих пор али стал ханом народ доволен правлением</p>
+      <p>пили ели торжествах столько бывшие целый год могли видеть бузу мясо хаи подарил хорошего коня которого хотел привести подарок сожалению дороге встретился знакомый наш ахмед отдал коня</p>
+    </body>
+  </text>
+</TEI>

@@ -1,183 +1,188 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">3. (Когда-то в Тифлисе жил купец...)</title>
-    <author>
-     <name xml:id="AD">
-      <persName>
-       <forename>Adolf</forename>
-       <surname>Dirr</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <biblStruct>
-     <analytic>
-      <title xml:lang="ru">Агулзский языкъ. Граматический очеркъ, тексты, сборникъ агульскихъ слобъ съ русскумъ къ нему указателемъ</title>
-      <author>
-       <persName ref="#AD">
-        <forename>Adolf</forename>
-        <surname>Dirr</surname>
-       </persName>
-      </author>
-     </analytic>
-     <monogr>
-      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
-      <imprint>
-       <pubPlace>Tiflis</pubPlace>
-       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
-       <date when="1907">1907</date>
-      </imprint>
-      <biblScope unit="volume">37</biblScope>
-     </monogr>
-    </biblStruct>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a654 Die behenden Brüder</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_agx_rus_56.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
-
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-    </placeName>
-    <date notAfter="1907">1907</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename> </forename>
-      <surname> </surname>
-     </persName>
-     <age/>
-     <birth>
-      <date/>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district/>
-       <settlement/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_agx_rus_56">
-  <body>
-   <head>3.</head>
-   <p>Когда-то в Тифлисе жил купец, у которого была дочь по имени Мариат, красивая, начитанная и ученая. "Свою дочь выдам только такому мужу," подумал купец, "который умеет делать что-нибудь необыкновенное." Слух об этом условии купца распространился повсюду. Узнал о нем также человек в Эрзеруме, который обладал способностью видеть все, что происходит на целом свете, если только он ляжет, приложив руку к глазам. В Бухаре тоже был человек, который услышал о дочери купца и который никогда не промахивался, когда он стрелял. Потом жил еще один человек в Афганистане, <pb n="81"/>который умел делать там деревянные вещи, на которых можно пройти в один час месячный путь.</p>
-   <p>Вот, все трое отправились в путь, чтобы просить руки этой знаменитой девицы и приехали в дом, где она жила, втроем, в тот же самый момент. Попросили ее руку. "Что вы умеете делать?" спросил отец. Они объяснили ему свои умения. "Спасибо вам," сказал купец, "вот, вы пришли, и нельзя послать вас обратно, так, без обид: я подумаю, за кого из вас ее выдать." — "Хорошо," сказали они, и купец ушел.</p>
-   <p>На следующее утро он пришел к претендентам на руку его дочери и сказал: "В эту ночь пропала девица, которую вы любите; не знаю, где она." Они посмотрели друг на друга, и один из них сказал: "Ты сказал, что ты можешь узнать все, что происходит на свете. Ну, теперь узнавай!" Он сразу приложил руку к глазам, поднял голову и сказал: "В Черном море есть остров, на котором стоит джинская крепость, и в ней сидит эта девица пленницей." Тот, который делал деревянные летающие вещи, тут же сделал одну такую вещь, нацелил на нее стрелу и сказал: "Я туда пойду и приведу ее или умру!" Ушел, достиг крепости, вошел в перестрелку с джинским войском, победил его и спас девицу. Но, конечно, когда он привел ее, между ними возник спор: каждый хотел девицу для себя.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">3. (Когда-то в Тифлисе жил купец...)</title>
+        <author>
+          <name xml:id="AD">
+            <persName>
+              <forename>Adolf</forename>
+              <surname>Dirr</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">Агулзский языкъ. Граматический очеркъ, тексты, сборникъ агульскихъ слобъ съ русскумъ къ нему указателемъ</title>
+            <author>
+              <persName ref="#AD">
+                <forename>Adolf</forename>
+                <surname>Dirr</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+            <imprint>
+              <pubPlace>Tiflis</pubPlace>
+              <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+              <date when="1907">1907</date>
+            </imprint>
+            <biblScope unit="volume">37</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a654 Die behenden Brüder</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_agx_rus_56.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1907">1907</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename> </forename>
+            <surname> </surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_agx_rus_56">
+    <body>
+      <head>3.</head>
+      <p>
+        Когда-то в Тифлисе жил купец, у которого была дочь по имени Мариат, красивая, начитанная и ученая. &quot;Свою дочь выдам только такому мужу,&quot; подумал купец, &quot;который умеет делать что-нибудь необыкновенное.&quot; Слух об этом условии купца распространился повсюду. Узнал о нем также человек в Эрзеруме, который обладал способностью видеть все, что происходит на целом свете, если только он ляжет, приложив руку к глазам. В Бухаре тоже был человек, который услышал о дочери купца и который никогда не промахивался, когда он стрелял. Потом жил еще один человек в Афганистане, 
+        <pb n="81"/>
+        который умел делать там деревянные вещи, на которых можно пройти в один час месячный путь.
+      </p>
+      <p>Вот, все трое отправились в путь, чтобы просить руки этой знаменитой девицы и приехали в дом, где она жила, втроем, в тот же самый момент. Попросили ее руку. &quot;Что вы умеете делать?&quot; спросил отец. Они объяснили ему свои умения. &quot;Спасибо вам,&quot; сказал купец, &quot;вот, вы пришли, и нельзя послать вас обратно, так, без обид: я подумаю, за кого из вас ее выдать.&quot; — &quot;Хорошо,&quot; сказали они, и купец ушел.</p>
+      <p>На следующее утро он пришел к претендентам на руку его дочери и сказал: &quot;В эту ночь пропала девица, которую вы любите; не знаю, где она.&quot; Они посмотрели друг на друга, и один из них сказал: &quot;Ты сказал, что ты можешь узнать все, что происходит на свете. Ну, теперь узнавай!&quot; Он сразу приложил руку к глазам, поднял голову и сказал: &quot;В Черном море есть остров, на котором стоит джинская крепость, и в ней сидит эта девица пленницей.&quot; Тот, который делал деревянные летающие вещи, тут же сделал одну такую вещь, нацелил на нее стрелу и сказал: &quot;Я туда пойду и приведу ее или умру!&quot; Ушел, достиг крепости, вошел в перестрелку с джинским войском, победил его и спас девицу. Но, конечно, когда он привел ее, между ними возник спор: каждый хотел девицу для себя.</p>
+    </body>
+  </text>
 </TEI>

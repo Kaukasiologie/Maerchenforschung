@@ -1,215 +1,290 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title xml:lang="deu">VI. Cúchulain</title>
-<author>
-<name xml:id="WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
-</author>
-<author>
-<name xml:id="EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
-</author>
-<author>
-<name xml:id="JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
-</author>
-<respStmt>
-<resp>Annotated according to the ATU system</resp>
-<name xml:id="ED">
-<persName>
-<forename>Elguja</forename>
-<surname>Dadunashvili</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-</name>
-<name xml:id="DF">
-<persName>
-<forename>Diana</forename>
-<surname>Forker</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<publisher>
-<name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-</publisher>
-<pubPlace>
-<genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-</pubPlace>
-<date>2024</date>
-<distributor>
-<addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-<ref target="https://github.com/edadunashvili">Software und Texte</ref>
-</distributor>
-<availability>
-<p>
-<ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-</p>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="collection">
-<title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">VI. Cúchulain</title>
+        <author>
+          <name xml:id="WB">
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <author>
+          <name xml:id="EL">
+            <persName>
+              <forename>Ernst</forename>
+              <surname>Lewy</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
+        </author>
+        <author>
+          <name xml:id="JB">
+            <persName>
+              <forename>Johannes</forename>
+              <surname>Bechert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
        Johannes Bechert† and M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova and S. Šaxtamanov</title>
-<title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
+          <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
        Johannes Bechert† sowie von M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova und S. Šaxtamanov</title>
-<author role="author">
-<name ref="#WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-</author>
-<respStmt>
-<resp/>
-<name/>
-</respStmt>
-<extent>
-<measure unit="words"/>
-<measure unit="pages"/>
-</extent>
-<publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
-<distributor><ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
-</distributor>
-<date when="2007">The year 2007</date>
-<availability>
-<licence/>
-</availability>
-</bibl>
-<bibl type="digitalSource">
-               <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
-            </bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="deu">
-<index indexName="iso639-3"/>
-<ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-</language>
-</langUsage>
-<textClass>
-<keywords>
-<term type="writingSystem">utf-8</term>
-</keywords>
-<keywords scheme="http://uri.gbv.de/terminology/bk/">
-<term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-<term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-</keywords>
-<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-<term>prose</term>
-</keywords>
-<keywords scheme="https://d-nb.info/gnd/">
-<term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-<list>
-<item>a701 Riesenspielzeug</item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-<list>
-<item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_210.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-<list>
-<item>Warnung vor körperbezogener Diskriminierung</item>
-</list>
-</keywords>
-</textClass>
-<creation>
-<placeName>
-<country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
-<region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
-<district/>
-<settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
-<geo/>
-</placeName>
-<date when="1918">1918</date>
-</creation>
-<particDesc>
-<person role="speaker">
-<persName>
-<forename>Nazmuddin</forename>
-<surname>Sajpudin</surname>
-</persName>
-<age>31</age>
-<birth>
-<date when="1887">1887</date>
-<placeName>
-<country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-<region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-<district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
-<settlement>Gunib</settlement>
-</placeName>
-</birth>
-</person>
-<person role="researcher">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-<person role="translator">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-</particDesc>
-</profileDesc>
-<revisionDesc>
-<listChange>
-<change>
-<name/>
-<date/>
-</change>
-</listChange>
-</revisionDesc>
-</teiHeader>
- <text xml:id="cc_ava_deu_210">
-  <body>
-   <p>VI. Cúchulain {= Cú Chulainn} </p>
-   <p>
-    <cb n="118"/> Es war ein König. Dieser König hatte keine Kinder. Er war fünf­zig Jahre alt geworden. Da bekam er einen Sohn. Man sagte: “Wenn man ihn selbst erzieht, wird er schwach,” und man gab ihn einer Dienerin zur Erziehung. Da erzog sie diesen Sohn, ihn in einem Zim­mer lassend, <cb n="119"/> wo kein Licht war. Als dann der Sohn fünf­zehn Jahre alt wurde und sie hinausging, um spazieren zu gehen, ließ sie das Fenster offen im Zimmer, wo er lag. Es war am Morgen gerade die Zeit, wo die Sonne aufgeht. Da wachte der Sohn, <cb n="120"/> der ge­schlafen hatte, auf. Da sah er die Sonne, die durch das Fenster herein­kam. Da sprang er auf (“aufspringend erhob er sich”), die aufgehende Sonne zu ergreifen. Er hatte noch niemals die Sonne gesehen, und ebenso hatte er <cb n="121"/> nicht draußen die Welt gesehen. Da versuchte er sehr, die Sonne zu fangen. Schwitzend setzte er sich ermüdet nieder. Da kam seine Ziehmutter herein. Da sagte sie zu ihm: “Warum schwitzt du? Was hast du gemacht?” Da sagte der Sohn: “Sieh <cb n="122"/> Mutter! In unser Haus ist ein von mir noch nie gesehenes Wunder ge­kommen. Dies wunderbare Ding zu fangen habe ich sehr versucht, es zu fangen ist mir unmöglich. Was es ist, weiß ich nicht.” Da ant­wortete die (Zieh–)Mutter ihm: “Es gibt sowohl eine Sonne, als auch einen Himmel, als auch viele wunderbare <cb n="123"/> Dinge.” Die Mutter ließ den Sohn durch das Fenster hinaussehen. Da sah er viele Menschen. Da bat er die Mutter sehr: “Lass mich draußen mit den Menschen herumgehen.” Da ließ die Mutter ihn <cb n="124"/> nach draußen. Da fand er Jünglinge Ball spielend. Da ging er unter sie und spielte Ball. Er schlug den Ball mit dem Bein und der Ball fiel auf den Nacken eines (Jünglings). Dieser Mann fiel zu Boden. Von dort gingen die Leute nach Hause. <cb n="125"/> Ein solcher, der, wenn er den Ball wirft (“den Ball <pb n="188"/>werfend”), Leute zu Boden fallen lässt, einer mit so viel Kraft wurde der drinnen gehalten aufgezogene Königssohn. Da ging er, einen ihm an Fähigkeit überlegenen Menschen auf der Welt zu finden. Da erzählte er es <cb n="126"/> seiner Ziehmutter: “Ich muss deshalb gehen.” Da sagte die Mutter zu dem Sohne: “Es gibt viele solche Menschen, die Leute wie dich verschwinden lassen, ohne den Ort wissen zu lassen. Gehe du nicht. Bleibe in deinem Hause.” <cb n="127"/> So sagte die Mutter oft zu ihm. Indessen kümmerte er sich nicht um die Mutter. Da er nicht blieb, wurde er von der Mutter instruiert: “Es gibt ein Pferd von dei­nes Vaters Vater, das seit fünfzig Jahre drinnen gehalten wird, ohne herausgelassen zu werden. <cb n="128"/> Du wirst nach draußen gehen können, wenn der Vater dir jenes Pferd und eine Waffe gibt. Wenn er es nicht gibt, gehe nirgendwohin.” Er bat seinen Vater um das Pferd, einen Sattel und eine Waffe für sich. Der Vater sagte zu ihm: “Man hat dir etwas gesagt, was nicht gesagt werden durfte. <cb n="129"/> Nun hat man es dir gesagt, daher wäre es ungenügend, es dir nicht zu geben. Geh los, hole es, in jenem Stalle ist das Pferd angebunden. Seit mein Vater gestor­ben ist, sind es fünfzig Jahre. Seitdem er gestorben ist, hat niemand nach diesem Pferd gesehen. Ob es tot ist, ob es lebendig ist, <cb n="130"/> wie es ist, weiß ich nicht.” Der Bursche gelangte bis zur Tür des Stalles. Da fand er dort an der Tür große Schlüssel und ein Schloss. Der Bur­sche öffnete das Schloss. Dann in dem Stall fand er das Pferd, das Steine fraß. Wie es den Burschen <cb n="131"/> sah, wieherte es laut (“machte es große Stimme”). Die Leute fürchteten sich sehr. “Was ist das für ein großer Lärm (“große Stimme”)?” Er sagte: “Du bist nicht in Ord­nung (“gesund, stark”); wenn du ein gutes Pferd wärest, hättest du nicht fünfzig Jahre lang Steine gefressen.” Als er das gesagt hatte, nahm er das Pferd an der Mähne am Halse und <cb n="132"/> warf es, es dre­hend, hinaus (auf den Hof). Dann kam dieser Bursche, nahm den Sattel und sattelte das Pferd, zog seine Kleider an und bestieg das Pferd. Nachdem er das Pferd bestiegen hatte, ließ er es laufen, und nichts konnte dieser Bursche sehen, so gewaltig war der schnelle Lauf des Pferdes (“infolge der Kraft <cb n="133"/> des schnellen Laufens dieses Pferdes”). Dann kam dieser Bursche an einer Stelle zu einem Berg. Auf dem Berge fand er ein Haus der Narten und ihre die Spindel drehende Mutter. Die Mutter fragte den Burschen: Mein Sohn, wohin gehst du?” Da sagte er zu der Mutter <cb n="134"/> der Narten: “Ich gehe, um nach einem seiner Fähigkeit nach Besseren als ich zu suchen.” Da <pb n="189"/>sagte sie: “Ich habe auch sieben Söhne. Sie <cb n="135"/> sind ihrer Fähigkeit nach nicht besser als du. Bis sie kommen, bleibe hier” Sie ließ den an der Spindel befindlichen Griff vor den Burschen fallen. Sie sagte: “Pass auf, mein Sohn, wirf diesen Griff hier herauf.” Da bemühte er sich lange, den Griff dort hinauf zu werfen. Er konnte den Griff aber durchaus nicht in die Hände <cb n="136"/> nehmen. Da lachte die Mutter sehr über den Burschen. Dann ließ sie von ihrem Kopf eine Flechte herab zu dem Burschen und sagte: “Binde du diesen Griff an meine Flech­te.” Da band er diesen Griff an ihre Flechte. Dann versteckte sie den Burschen. <cb n="137"/> Jetzt am Abend sah der Bursche ihre sieben Narten nach Hause kommen, jeden einen an der Wurzel ausgerissenen Baum über die Schulter gelegt und an jedem Zweig des Baumes Wild angebunden. Als der Bursche sie sah, floh er. Hinter ihm rannten die Narten. <cb n="138"/> Da begegnete der Bursche einem Krüppel, der eine ver­dorrte Hand<note place="bottom">1231 wahrscheinlich im Sinne von “lahm”; s. Anm. 748, 1162</note> und einen verdorrten Fuß hatte. Er führte hinter sich fünfzig Wagen hintereinander gebunden, in der Hand knautschte<note place="bottom">1232 d.h. um es weich zu machen</note> er ein Büffelfell. Zu diesem Manne, <cb n="139"/> die mit dem Nacken gezoge­nen fünfzig Wagen voll Salz, in den Händen ein mit der Hand geknautschte Büffelfell, er selbst war auch am halben Körper<note place="bottom">1233 s. Anm. 756, 1162</note> ver­dorrt: Einem solchen Mann begegnete dieser Bursche. Er sagte zu diesem Manne: “Schnell verstecke du mich.” <cb n="140"/> Dann nahm (dies)er ihn und steckte ihn in seine Tasche. Da kamen die Narten zu dem Mann, und diese Narten sagten zu ihm: “Hast du nicht einen derarti­gen Mann gesehen? Du hast ihn bestimmt versteckt. Du sollst ihn uns schnell geben. Wenn du ihn nicht gibst, <cb n="141"/> werden wir dich so machen.” Dies sagten sie und nahmen sie vom Boden einen Stein und drückten ihn in der Hand, bis Wasser herausfloss. Er zerriss das in seinen Händen befindliche Büffelfell und sagte zu ihnen: “Euch werde ich so zerreißen.” <cb n="142"/> Da kehrten die Narten von dort nach Hause zurück. Als sie gegangen waren, nahm er den Burschen aus seiner Tasche. Der Mann fragte ihn: “Wo bist du gewesen, was ist mit euch<note place="bottom">1234 “Euch” bezieht sich vielleicht auf den Burschen und seine Brüder, obwohl von diesen erst nachher die Rede ist.</note> geschehen?” Dann erzählte der Bursche: “Ich ging nach einem Menschen suchen, der seiner Fähigkeit nach besser als ich<pb n="190"/>wäre. <cb n="143"/> Nachdem ich sah, dass diese Menschen ihrer Fähigkeit nach besser waren, bin ich weggerannt.” Da sagte der Mann zu dem Burschen: “Solche wie du und ich sind keine starken Leute. Ich hatte sieben Brüder. Wir waren in einem Walde. Als wir so <cb n="144"/> in einem Baume waren, kam ein großer Mann mit vielen Schafen. Seine Schafe waren zu einem schlechten Platze gegangen. Da riss er den Baum mit mir und meinen Brüdern zusammen heraus und warf ihn vor die Herde, damit sie zurückkämen. Unter diesen Baum geraten starben meine <cb n="145"/> sieben Brüder. Auch mich schlug ein Ast so, dass mein halber Körper verdorrt ist. Solche Menschen gibt es auch auf der Welt. Du bist noch ein kleiner Mann, bleib zu Hause und iss die von deiner Mutter gemachten Knödel (“essend bleibe zu Hause”).” Der Mann schickte den Burschen nach Hause, nahm seine Wagen mit <cb n="146"/> und ging er seines Weges. </p>
-  </body>
- </text>
+          <author role="author">
+            <name ref="#WB">
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#JB">
+              <persName>
+                <forename>Johannes</forename>
+                <surname>Bechert</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#EL">
+              <persName>
+                <forename>Ernst</forename>
+                <surname>Lewy</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
+          <distributor>
+            <ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
+          </distributor>
+          <date when="2007">The year 2007</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+        <bibl type="digitalSource">
+          <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a701 Riesenspielzeug</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_210.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor körperbezogener Diskriminierung</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
+          <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
+          <geo/>
+        </placeName>
+        <date when="1918">1918</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Nazmuddin</forename>
+            <surname>Sajpudin</surname>
+          </persName>
+          <age>31</age>
+          <birth>
+            <date when="1887">1887</date>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
+              <settlement>Gunib</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ava_deu_210">
+    <body>
+      <p>VI. Cúchulain {= Cú Chulainn} </p>
+      <p>
+        <cb n="118"/>
+         Es war ein König. Dieser König hatte keine Kinder. Er war fünf­zig Jahre alt geworden. Da bekam er einen Sohn. Man sagte: “Wenn man ihn selbst erzieht, wird er schwach,” und man gab ihn einer Dienerin zur Erziehung. Da erzog sie diesen Sohn, ihn in einem Zim­mer lassend, 
+        <cb n="119"/>
+         wo kein Licht war. Als dann der Sohn fünf­zehn Jahre alt wurde und sie hinausging, um spazieren zu gehen, ließ sie das Fenster offen im Zimmer, wo er lag. Es war am Morgen gerade die Zeit, wo die Sonne aufgeht. Da wachte der Sohn, 
+        <cb n="120"/>
+         der ge­schlafen hatte, auf. Da sah er die Sonne, die durch das Fenster herein­kam. Da sprang er auf (“aufspringend erhob er sich”), die aufgehende Sonne zu ergreifen. Er hatte noch niemals die Sonne gesehen, und ebenso hatte er 
+        <cb n="121"/>
+         nicht draußen die Welt gesehen. Da versuchte er sehr, die Sonne zu fangen. Schwitzend setzte er sich ermüdet nieder. Da kam seine Ziehmutter herein. Da sagte sie zu ihm: “Warum schwitzt du? Was hast du gemacht?” Da sagte der Sohn: “Sieh 
+        <cb n="122"/>
+         Mutter! In unser Haus ist ein von mir noch nie gesehenes Wunder ge­kommen. Dies wunderbare Ding zu fangen habe ich sehr versucht, es zu fangen ist mir unmöglich. Was es ist, weiß ich nicht.” Da ant­wortete die (Zieh–)Mutter ihm: “Es gibt sowohl eine Sonne, als auch einen Himmel, als auch viele wunderbare 
+        <cb n="123"/>
+         Dinge.” Die Mutter ließ den Sohn durch das Fenster hinaussehen. Da sah er viele Menschen. Da bat er die Mutter sehr: “Lass mich draußen mit den Menschen herumgehen.” Da ließ die Mutter ihn 
+        <cb n="124"/>
+         nach draußen. Da fand er Jünglinge Ball spielend. Da ging er unter sie und spielte Ball. Er schlug den Ball mit dem Bein und der Ball fiel auf den Nacken eines (Jünglings). Dieser Mann fiel zu Boden. Von dort gingen die Leute nach Hause. 
+        <cb n="125"/>
+         Ein solcher, der, wenn er den Ball wirft (“den Ball 
+        <pb n="188"/>
+        werfend”), Leute zu Boden fallen lässt, einer mit so viel Kraft wurde der drinnen gehalten aufgezogene Königssohn. Da ging er, einen ihm an Fähigkeit überlegenen Menschen auf der Welt zu finden. Da erzählte er es 
+        <cb n="126"/>
+         seiner Ziehmutter: “Ich muss deshalb gehen.” Da sagte die Mutter zu dem Sohne: “Es gibt viele solche Menschen, die Leute wie dich verschwinden lassen, ohne den Ort wissen zu lassen. Gehe du nicht. Bleibe in deinem Hause.” 
+        <cb n="127"/>
+         So sagte die Mutter oft zu ihm. Indessen kümmerte er sich nicht um die Mutter. Da er nicht blieb, wurde er von der Mutter instruiert: “Es gibt ein Pferd von dei­nes Vaters Vater, das seit fünfzig Jahre drinnen gehalten wird, ohne herausgelassen zu werden. 
+        <cb n="128"/>
+         Du wirst nach draußen gehen können, wenn der Vater dir jenes Pferd und eine Waffe gibt. Wenn er es nicht gibt, gehe nirgendwohin.” Er bat seinen Vater um das Pferd, einen Sattel und eine Waffe für sich. Der Vater sagte zu ihm: “Man hat dir etwas gesagt, was nicht gesagt werden durfte. 
+        <cb n="129"/>
+         Nun hat man es dir gesagt, daher wäre es ungenügend, es dir nicht zu geben. Geh los, hole es, in jenem Stalle ist das Pferd angebunden. Seit mein Vater gestor­ben ist, sind es fünfzig Jahre. Seitdem er gestorben ist, hat niemand nach diesem Pferd gesehen. Ob es tot ist, ob es lebendig ist, 
+        <cb n="130"/>
+         wie es ist, weiß ich nicht.” Der Bursche gelangte bis zur Tür des Stalles. Da fand er dort an der Tür große Schlüssel und ein Schloss. Der Bur­sche öffnete das Schloss. Dann in dem Stall fand er das Pferd, das Steine fraß. Wie es den Burschen 
+        <cb n="131"/>
+         sah, wieherte es laut (“machte es große Stimme”). Die Leute fürchteten sich sehr. “Was ist das für ein großer Lärm (“große Stimme”)?” Er sagte: “Du bist nicht in Ord­nung (“gesund, stark”); wenn du ein gutes Pferd wärest, hättest du nicht fünfzig Jahre lang Steine gefressen.” Als er das gesagt hatte, nahm er das Pferd an der Mähne am Halse und 
+        <cb n="132"/>
+         warf es, es dre­hend, hinaus (auf den Hof). Dann kam dieser Bursche, nahm den Sattel und sattelte das Pferd, zog seine Kleider an und bestieg das Pferd. Nachdem er das Pferd bestiegen hatte, ließ er es laufen, und nichts konnte dieser Bursche sehen, so gewaltig war der schnelle Lauf des Pferdes (“infolge der Kraft 
+        <cb n="133"/>
+         des schnellen Laufens dieses Pferdes”). Dann kam dieser Bursche an einer Stelle zu einem Berg. Auf dem Berge fand er ein Haus der Narten und ihre die Spindel drehende Mutter. Die Mutter fragte den Burschen: Mein Sohn, wohin gehst du?” Da sagte er zu der Mutter 
+        <cb n="134"/>
+         der Narten: “Ich gehe, um nach einem seiner Fähigkeit nach Besseren als ich zu suchen.” Da 
+        <pb n="189"/>
+        sagte sie: “Ich habe auch sieben Söhne. Sie 
+        <cb n="135"/>
+         sind ihrer Fähigkeit nach nicht besser als du. Bis sie kommen, bleibe hier” Sie ließ den an der Spindel befindlichen Griff vor den Burschen fallen. Sie sagte: “Pass auf, mein Sohn, wirf diesen Griff hier herauf.” Da bemühte er sich lange, den Griff dort hinauf zu werfen. Er konnte den Griff aber durchaus nicht in die Hände 
+        <cb n="136"/>
+         nehmen. Da lachte die Mutter sehr über den Burschen. Dann ließ sie von ihrem Kopf eine Flechte herab zu dem Burschen und sagte: “Binde du diesen Griff an meine Flech­te.” Da band er diesen Griff an ihre Flechte. Dann versteckte sie den Burschen. 
+        <cb n="137"/>
+         Jetzt am Abend sah der Bursche ihre sieben Narten nach Hause kommen, jeden einen an der Wurzel ausgerissenen Baum über die Schulter gelegt und an jedem Zweig des Baumes Wild angebunden. Als der Bursche sie sah, floh er. Hinter ihm rannten die Narten. 
+        <cb n="138"/>
+         Da begegnete der Bursche einem Krüppel, der eine ver­dorrte Hand
+        <note place="bottom">1231 wahrscheinlich im Sinne von “lahm”; s. Anm. 748, 1162</note>
+         und einen verdorrten Fuß hatte. Er führte hinter sich fünfzig Wagen hintereinander gebunden, in der Hand knautschte
+        <note place="bottom">1232 d.h. um es weich zu machen</note>
+         er ein Büffelfell. Zu diesem Manne, 
+        <cb n="139"/>
+         die mit dem Nacken gezoge­nen fünfzig Wagen voll Salz, in den Händen ein mit der Hand geknautschte Büffelfell, er selbst war auch am halben Körper
+        <note place="bottom">1233 s. Anm. 756, 1162</note>
+         ver­dorrt: Einem solchen Mann begegnete dieser Bursche. Er sagte zu diesem Manne: “Schnell verstecke du mich.” 
+        <cb n="140"/>
+         Dann nahm (dies)er ihn und steckte ihn in seine Tasche. Da kamen die Narten zu dem Mann, und diese Narten sagten zu ihm: “Hast du nicht einen derarti­gen Mann gesehen? Du hast ihn bestimmt versteckt. Du sollst ihn uns schnell geben. Wenn du ihn nicht gibst, 
+        <cb n="141"/>
+         werden wir dich so machen.” Dies sagten sie und nahmen sie vom Boden einen Stein und drückten ihn in der Hand, bis Wasser herausfloss. Er zerriss das in seinen Händen befindliche Büffelfell und sagte zu ihnen: “Euch werde ich so zerreißen.” 
+        <cb n="142"/>
+         Da kehrten die Narten von dort nach Hause zurück. Als sie gegangen waren, nahm er den Burschen aus seiner Tasche. Der Mann fragte ihn: “Wo bist du gewesen, was ist mit euch
+        <note place="bottom">1234 “Euch” bezieht sich vielleicht auf den Burschen und seine Brüder, obwohl von diesen erst nachher die Rede ist.</note>
+         geschehen?” Dann erzählte der Bursche: “Ich ging nach einem Menschen suchen, der seiner Fähigkeit nach besser als ich
+        <pb n="190"/>
+        wäre. 
+        <cb n="143"/>
+         Nachdem ich sah, dass diese Menschen ihrer Fähigkeit nach besser waren, bin ich weggerannt.” Da sagte der Mann zu dem Burschen: “Solche wie du und ich sind keine starken Leute. Ich hatte sieben Brüder. Wir waren in einem Walde. Als wir so 
+        <cb n="144"/>
+         in einem Baume waren, kam ein großer Mann mit vielen Schafen. Seine Schafe waren zu einem schlechten Platze gegangen. Da riss er den Baum mit mir und meinen Brüdern zusammen heraus und warf ihn vor die Herde, damit sie zurückkämen. Unter diesen Baum geraten starben meine 
+        <cb n="145"/>
+         sieben Brüder. Auch mich schlug ein Ast so, dass mein halber Körper verdorrt ist. Solche Menschen gibt es auch auf der Welt. Du bist noch ein kleiner Mann, bleib zu Hause und iss die von deiner Mutter gemachten Knödel (“essend bleibe zu Hause”).” Der Mann schickte den Burschen nach Hause, nahm seine Wagen mit 
+        <cb n="146"/>
+         und ging er seines Weges. 
+      </p>
+    </body>
+  </text>
 </TEI>

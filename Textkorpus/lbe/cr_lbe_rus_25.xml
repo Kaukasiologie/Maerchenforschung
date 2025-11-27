@@ -1,125 +1,177 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Lakische Folklore</title>
-      <title xml:lang="eng">Lak Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф. 9, on. I, д. Nr. 23</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Lakische Folklore</title>
+        <title xml:lang="eng">Lak Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф. 9, on. I, д. Nr. 23</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="lez">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date>1936</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">М. М.</forename>
-        <surname xml:lang="rus">Гаджиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="lez">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date>1936</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">М. М.</forename>
+            <surname xml:lang="rus">Гаджиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_lbe_rus_25">
+  </teiHeader>
+  <text xml:id="cr_lbe_rus_25">
     <body>
-     <head>16. Проделки лисицы </head>
-     <p>б ыл верблюд однажды шел зимовье встретилась лисица говорит</p><p>эй верблюд идешь</p><p>иду зимовье прокормиться</p><p>возьми собой стала просить лисица тебе товарищем буду</p><p>верблюд согласился лисица влезла спину пошли вместе встретился волк спрашивает</p><p>идете</p><p>идем зимовье прокормиться</p><p>волк попросился взяли</p><p>забрался волк верблюда пошли дальше встречается медведь спрашивает</p><p>идете</p><p>идем зимовье прокормиться</p><p>возьмите собой</p><p>идем брат</p><p>медведь вскарабкался верблюда звери двинулись путь</p><p>зимовье остановились укрытой долине однажды нечего лисица предложила волку медведю убить верблюда</p><p>ума сошла нам убить верблюда большой</p><p>положитесь всем сказала лисица</p><p>волк медведем согласились помочь</p><p>ночыо собрались вместе лисица начала</p><p>разговор</p><p>эх брат верблюд зима наступает корм тебе сена ячменя будешь стоять глазеть поаботишься выживешь слыхала муллы нынешняя зима очень суровой</p><p>снаякн наро оя дагестана</p><p>богу сестра знаю делать печально ответил верблюд</p><p>могу тебе кое предложить продолжала лисица</p><p>говори</p><p>зарежем ячмень будущего урожая</p><p>зимой выйдешь затруднения следующую ячмень</p><p>богу сестра обрадовался верблюд это прекрасная мысль</p><p>следующий день звери зарезали освежевали верблюда волк остался разрубать тушу лиса медведь отправились реке мыть верблюжьи потроха лисица говорит</p><p>любезный братец медведь давай съедим</p><p>волк сосчитал возразил медведь окажется ответим</p><p>волк спросит посмотри отвечу сказала лисица</p><p>пусть твоему сестра</p><p>съели верблюжье сердце несколько кишок</p><p>возвратились домой волк сердито спросил</p><p>верблюжье сердце</p><p>верблюда сердце отвечает лисица</p><p>позволил зарезать</p><p>промолчал волк стал считать кишки досчитывается</p><p>кишки спросил медведя</p><p>повернулся взглянул лисицу лисица говорит</p><p>ел глядел</p><p>волк бросился па медведя пустился наутек пока гнался другим лисица перетащила нору мясо вернулся волк верблюжатины помине</p><p>эй лисица закричал мясо</p><p>какое мясо</p><p>любезная зарезали верблюда</p><p>какого верблюда бредишь</p><p>бросился волк лисицей юркнула нору</p><p>волк полез нору застрял норы выход лисица вышла начала отгрызать волчий хвост волк завопил</p><p>ай ай делаешь</p><p>мяса захотелось говорит лисица</p><p>спереди мясо жирнее приди ешь отсюда</p><p>хотел схитрить волк</p><p>тревожься обо ответила лисица предстоит долгая зима туда доберусь</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>16. Проделки лисицы </head>
+      <p>б ыл верблюд однажды шел зимовье встретилась лисица говорит</p>
+      <p>эй верблюд идешь</p>
+      <p>иду зимовье прокормиться</p>
+      <p>возьми собой стала просить лисица тебе товарищем буду</p>
+      <p>верблюд согласился лисица влезла спину пошли вместе встретился волк спрашивает</p>
+      <p>идете</p>
+      <p>идем зимовье прокормиться</p>
+      <p>волк попросился взяли</p>
+      <p>забрался волк верблюда пошли дальше встречается медведь спрашивает</p>
+      <p>идете</p>
+      <p>идем зимовье прокормиться</p>
+      <p>возьмите собой</p>
+      <p>идем брат</p>
+      <p>медведь вскарабкался верблюда звери двинулись путь</p>
+      <p>зимовье остановились укрытой долине однажды нечего лисица предложила волку медведю убить верблюда</p>
+      <p>ума сошла нам убить верблюда большой</p>
+      <p>положитесь всем сказала лисица</p>
+      <p>волк медведем согласились помочь</p>
+      <p>ночыо собрались вместе лисица начала</p>
+      <p>разговор</p>
+      <p>эх брат верблюд зима наступает корм тебе сена ячменя будешь стоять глазеть поаботишься выживешь слыхала муллы нынешняя зима очень суровой</p>
+      <p>снаякн наро оя дагестана</p>
+      <p>богу сестра знаю делать печально ответил верблюд</p>
+      <p>могу тебе кое предложить продолжала лисица</p>
+      <p>говори</p>
+      <p>зарежем ячмень будущего урожая</p>
+      <p>зимой выйдешь затруднения следующую ячмень</p>
+      <p>богу сестра обрадовался верблюд это прекрасная мысль</p>
+      <p>следующий день звери зарезали освежевали верблюда волк остался разрубать тушу лиса медведь отправились реке мыть верблюжьи потроха лисица говорит</p>
+      <p>любезный братец медведь давай съедим</p>
+      <p>волк сосчитал возразил медведь окажется ответим</p>
+      <p>волк спросит посмотри отвечу сказала лисица</p>
+      <p>пусть твоему сестра</p>
+      <p>съели верблюжье сердце несколько кишок</p>
+      <p>возвратились домой волк сердито спросил</p>
+      <p>верблюжье сердце</p>
+      <p>верблюда сердце отвечает лисица</p>
+      <p>позволил зарезать</p>
+      <p>промолчал волк стал считать кишки досчитывается</p>
+      <p>кишки спросил медведя</p>
+      <p>повернулся взглянул лисицу лисица говорит</p>
+      <p>ел глядел</p>
+      <p>волк бросился па медведя пустился наутек пока гнался другим лисица перетащила нору мясо вернулся волк верблюжатины помине</p>
+      <p>эй лисица закричал мясо</p>
+      <p>какое мясо</p>
+      <p>любезная зарезали верблюда</p>
+      <p>какого верблюда бредишь</p>
+      <p>бросился волк лисицей юркнула нору</p>
+      <p>волк полез нору застрял норы выход лисица вышла начала отгрызать волчий хвост волк завопил</p>
+      <p>ай ай делаешь</p>
+      <p>мяса захотелось говорит лисица</p>
+      <p>спереди мясо жирнее приди ешь отсюда</p>
+      <p>хотел схитрить волк</p>
+      <p>тревожься обо ответила лисица предстоит долгая зима туда доберусь</p>
+    </body>
+  </text>
+</TEI>

@@ -1,131 +1,165 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Lakische Folklore</title>
-      <title xml:lang="eng">Lak Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Lakische Folklore</title>
+        <title xml:lang="eng">Lak Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="lbe">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-       <geo />
-      </placeName>
-      <date>1953</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Ш.</forename>
-        <surname xml:lang="rus">Рашкуевa</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Х.М.</forename>
-        <surname xml:lang="rus">Халилова</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Х.М.</forename>
-        <surname xml:lang="rus">Халилова</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="lbe">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+          <geo/>
+        </placeName>
+        <date>1953</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Ш.</forename>
+            <surname xml:lang="rus">Рашкуевa</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Х.М.</forename>
+            <surname xml:lang="rus">Халилова</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Х.М.</forename>
+            <surname xml:lang="rus">Халилова</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_lbe_rus_7">
+  </teiHeader>
+  <text xml:id="cr_lbe_rus_7">
     <body>
-     <head> 73 Одним ударом семерых убиваю (лак.) </head>
-     <p>жили жили делать жили одной старушки трое сыновей дома еды разбогатеть отправились путь младший брат каналом очень трусливым старшие братья добывали пропитание спал спрятавшись бугром</p><p>однажды братья ушли добывать еду вернулись домой мать стала просить качала</p><p>иди сын поищи своих братьев</p><p>желающий никуда выходить дому качал смотрел мух собравшихся сладости столе садились измазанные руки лицо раздражали взял тряпку ударил ею мухам посмотрел семь мух убил</p><p>одел приличную одежду привязал поясу оружие сказав оказывается герой отправился поиски братьев ремне своем написал одним ударом лишаю жизни сразу семерых взял гостинцы шило иголку латать чарыки износятся</p><p>шел шел дошел большой пещеры увидел большие котлы огне горящие костры пока изумлении смотрел это послышался грохот смотрит оказалось это идут семь дэвов испуга качал потерял сознание упал</p><p>зашли дэвы пещеру видят пещере растянувшись лежит человек очень удивились дух спит спокойно боясь подошли поближе смотрят поясе начертано одним ударом лишаю жизни сразу семерых дэвы испугались некоторое время качал пришел очнулся встал испуга выпучил глаза странно смотрел одного другого дэвы подумали сердится сказали уважительно салам алейк спросили</p><p /><p>человек ищущий братьев похожих сказал качал заметив дэвы испугались</p><p>станем твоими братьями сказали дэвы</p><p>давайте приготовьте еду сильно проголодался сказал увидел быка убитого ими добавил</p><p>это хватит немного утолить голод</p><p>дэвы сильнее испугались посчитав аждахой сказал</p><p>наверное устали охоте приготовлю еду пока поспите немного</p><p>самом деле уставшие охоте дэвы свалились землю заснули убитые временем качал кое трудом подтащил быка пропасти сбросил большую реку протекавшую рядом пещерой река унесла быка</p><p>качал взял большое бревно поддел котел опрокинул покатил обрыву сбросил вниз грохота катившегося котла шипения воды залившей огонь дэвы проснулись смотрят видят друг друга дыма заполнившего пещеру услышали ругань качала оказывается капля кипятка попала лицо обожгла проснувшиеся дэвы спросили</p><p>случилось такое</p><p>качал ответил</p><p>проверял сварился бык хватило зуб вытащил зуба проглотил расстроился братьям осталось досады вздохнул котел исчез костер погас пещера наполнилась дымом</p><p>дэвы задрожали испуга подумали маленький аждаха</p><p>погубит сказали дэвы решили ночью убить постелили постель углу пещере жарко качал вышел наружу подышать свежим воздухом это время дэвы встали подняли большой камень бросили место спал качал думая убили спокойно легли спать наутро встали посмотрели качал спокойно храпел живой здоровый дэвы знали делать решили проверить действительно сильный</p><p>самый сильный взял камень руку сжал кулаке превратил землю качал тайком достал кармана остаток сыра сжал кулаке выдавил капли воды</p><p>дэвы решили побиться кулаках качал стал ждать пока дэв ударит вытащил кармана шило зажал кулак ударил дэва грудь шило попало дэву сердце свалился испустив дух другие дэвы увидели это упали ноги прося оставить живых</p><p>качал сказал</p><p>жалко встаньте одним ударом сразу лишу жизни семерых приказал</p><p>принесите сюда награбленное людей богатство</p><p>дэвы показали казну юноша снова приказал дэвам</p><p>спрячьте это золото богатство сундуки</p><p>дэвы сделали приказано вновь велел</p><p>взвалите сундуки плечи идите впереди буду идти сзади никто убежал никуда</p><p>дэвы подняли плечи сундуки набитые золотом серебром пошли сторону указанную каналом незаметно взобрался сундук последнего дэва</p><p>шли шли дошли места откуда виден аул качала качал сказал</p><p>подождите позову своих братьев приду сюда</p><p>сказал какое время пройдя некоторое расстояние спрятался дэвы подумали приведет своих братьев убьет поэтому убежать сговорились вместе убежали оттуда пятки засверкали</p><p>качал крикнул вслед испугались сильнее качал вернулся домой дома нашел своих братьев мать куска хлеба затем вместе братьями притащил домой шесть сундуков пять сундуков раздали беднякам аула сундук оставили</p><p>справили качалу пышную свадьбу кимизу подожгли вацилу пожарили казикумухское койсу запустили котлы били барабаны играли зурны весь аул танцевал ой ой такая свадьба такая свадьба хотел хотел люди той свадьбе также удовольствием слушали мою сказку</p></body>
-   </text>
-  </TEI>
-
-  
+      <head> 73 Одним ударом семерых убиваю (лак.) </head>
+      <p>жили жили делать жили одной старушки трое сыновей дома еды разбогатеть отправились путь младший брат каналом очень трусливым старшие братья добывали пропитание спал спрятавшись бугром</p>
+      <p>однажды братья ушли добывать еду вернулись домой мать стала просить качала</p>
+      <p>иди сын поищи своих братьев</p>
+      <p>желающий никуда выходить дому качал смотрел мух собравшихся сладости столе садились измазанные руки лицо раздражали взял тряпку ударил ею мухам посмотрел семь мух убил</p>
+      <p>одел приличную одежду привязал поясу оружие сказав оказывается герой отправился поиски братьев ремне своем написал одним ударом лишаю жизни сразу семерых взял гостинцы шило иголку латать чарыки износятся</p>
+      <p>шел шел дошел большой пещеры увидел большие котлы огне горящие костры пока изумлении смотрел это послышался грохот смотрит оказалось это идут семь дэвов испуга качал потерял сознание упал</p>
+      <p>зашли дэвы пещеру видят пещере растянувшись лежит человек очень удивились дух спит спокойно боясь подошли поближе смотрят поясе начертано одним ударом лишаю жизни сразу семерых дэвы испугались некоторое время качал пришел очнулся встал испуга выпучил глаза странно смотрел одного другого дэвы подумали сердится сказали уважительно салам алейк спросили</p>
+      <p/>
+      <p>человек ищущий братьев похожих сказал качал заметив дэвы испугались</p>
+      <p>станем твоими братьями сказали дэвы</p>
+      <p>давайте приготовьте еду сильно проголодался сказал увидел быка убитого ими добавил</p>
+      <p>это хватит немного утолить голод</p>
+      <p>дэвы сильнее испугались посчитав аждахой сказал</p>
+      <p>наверное устали охоте приготовлю еду пока поспите немного</p>
+      <p>самом деле уставшие охоте дэвы свалились землю заснули убитые временем качал кое трудом подтащил быка пропасти сбросил большую реку протекавшую рядом пещерой река унесла быка</p>
+      <p>качал взял большое бревно поддел котел опрокинул покатил обрыву сбросил вниз грохота катившегося котла шипения воды залившей огонь дэвы проснулись смотрят видят друг друга дыма заполнившего пещеру услышали ругань качала оказывается капля кипятка попала лицо обожгла проснувшиеся дэвы спросили</p>
+      <p>случилось такое</p>
+      <p>качал ответил</p>
+      <p>проверял сварился бык хватило зуб вытащил зуба проглотил расстроился братьям осталось досады вздохнул котел исчез костер погас пещера наполнилась дымом</p>
+      <p>дэвы задрожали испуга подумали маленький аждаха</p>
+      <p>погубит сказали дэвы решили ночью убить постелили постель углу пещере жарко качал вышел наружу подышать свежим воздухом это время дэвы встали подняли большой камень бросили место спал качал думая убили спокойно легли спать наутро встали посмотрели качал спокойно храпел живой здоровый дэвы знали делать решили проверить действительно сильный</p>
+      <p>самый сильный взял камень руку сжал кулаке превратил землю качал тайком достал кармана остаток сыра сжал кулаке выдавил капли воды</p>
+      <p>дэвы решили побиться кулаках качал стал ждать пока дэв ударит вытащил кармана шило зажал кулак ударил дэва грудь шило попало дэву сердце свалился испустив дух другие дэвы увидели это упали ноги прося оставить живых</p>
+      <p>качал сказал</p>
+      <p>жалко встаньте одним ударом сразу лишу жизни семерых приказал</p>
+      <p>принесите сюда награбленное людей богатство</p>
+      <p>дэвы показали казну юноша снова приказал дэвам</p>
+      <p>спрячьте это золото богатство сундуки</p>
+      <p>дэвы сделали приказано вновь велел</p>
+      <p>взвалите сундуки плечи идите впереди буду идти сзади никто убежал никуда</p>
+      <p>дэвы подняли плечи сундуки набитые золотом серебром пошли сторону указанную каналом незаметно взобрался сундук последнего дэва</p>
+      <p>шли шли дошли места откуда виден аул качала качал сказал</p>
+      <p>подождите позову своих братьев приду сюда</p>
+      <p>сказал какое время пройдя некоторое расстояние спрятался дэвы подумали приведет своих братьев убьет поэтому убежать сговорились вместе убежали оттуда пятки засверкали</p>
+      <p>качал крикнул вслед испугались сильнее качал вернулся домой дома нашел своих братьев мать куска хлеба затем вместе братьями притащил домой шесть сундуков пять сундуков раздали беднякам аула сундук оставили</p>
+      <p>справили качалу пышную свадьбу кимизу подожгли вацилу пожарили казикумухское койсу запустили котлы били барабаны играли зурны весь аул танцевал ой ой такая свадьба такая свадьба хотел хотел люди той свадьбе также удовольствием слушали мою сказку</p>
+    </body>
+  </text>
+</TEI>

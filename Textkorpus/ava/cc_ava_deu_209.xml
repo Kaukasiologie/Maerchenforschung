@@ -1,217 +1,299 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title xml:lang="deu">V. Die drei Brüder</title>
-<author>
-<name xml:id="WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
-</author>
-<author>
-<name xml:id="EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
-</author>
-<author>
-<name xml:id="JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
-</author>
-<respStmt>
-<resp>Annotated according to the ATU system</resp>
-<name xml:id="ED">
-<persName>
-<forename>Elguja</forename>
-<surname>Dadunashvili</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-</name>
-<name xml:id="DF">
-<persName>
-<forename>Diana</forename>
-<surname>Forker</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<publisher>
-<name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-</publisher>
-<pubPlace>
-<genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-</pubPlace>
-<date>2024</date>
-<distributor>
-<addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-<ref target="https://github.com/edadunashvili">Software und Texte</ref>
-</distributor>
-<availability>
-<p>
-<ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-</p>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="collection">
-<title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">V. Die drei Brüder</title>
+        <author>
+          <name xml:id="WB">
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <author>
+          <name xml:id="EL">
+            <persName>
+              <forename>Ernst</forename>
+              <surname>Lewy</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
+        </author>
+        <author>
+          <name xml:id="JB">
+            <persName>
+              <forename>Johannes</forename>
+              <surname>Bechert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
        Johannes Bechert† and M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova and S. Šaxtamanov</title>
-<title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
+          <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
        Johannes Bechert† sowie von M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova und S. Šaxtamanov</title>
-<author role="author">
-<name ref="#WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-</author>
-<respStmt>
-<resp/>
-<name/>
-</respStmt>
-<extent>
-<measure unit="words"/>
-<measure unit="pages"/>
-</extent>
-<publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
-<distributor><ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
-</distributor>
-<date when="2007">The year 2007</date>
-<availability>
-<licence/>
-</availability>
-</bibl>
-<bibl type="digitalSource">
-               <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
-            </bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="deu">
-<index indexName="iso639-3"/>
-<ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-</language>
-</langUsage>
-<textClass>
-<keywords>
-<term type="writingSystem">utf-8</term>
-</keywords>
-<keywords scheme="http://uri.gbv.de/terminology/bk/">
-<term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-<term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-</keywords>
-<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-<term>prose</term>
-</keywords>
-<keywords scheme="https://d-nb.info/gnd/">
-<term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-<list>
-<item>a530 Prinzessin auf dem Glasberg</item>
-<item>a314A Hirt und die drei Riesen</item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-<list>
-<item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_209.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-<list>
-<item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
-<item>Warnung vor sozialer Diskriminierung</item>
-<item>Warnung vor körperbezogener Diskriminierung</item>
-</list>
-</keywords>
-</textClass>
-<creation>
-<placeName>
-<country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
-<region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
-<district/>
-<settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
-<geo/>
-</placeName>
-<date when="1918">1918</date>
-</creation>
-<particDesc>
-<person role="speaker">
-<persName>
-<forename>Nazmuddin</forename>
-<surname>Sajpudin</surname>
-</persName>
-<age>31</age>
-<birth>
-<date when="1887">1887</date>
-<placeName>
-<country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-<region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-<district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
-<settlement>Gunib</settlement>
-</placeName>
-</birth>
-</person>
-<person role="researcher">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-<person role="translator">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-</particDesc>
-</profileDesc>
-<revisionDesc>
-<listChange>
-<change>
-<name/>
-<date/>
-</change>
-</listChange>
-</revisionDesc>
-</teiHeader>
- <text xml:id="cc_ava_deu_209">
-  <body>
-   <head>V. Die drei Brüder </head>
-   <p><cb n="87"/> Ein Mann hatte drei Söhne, zwei gut, der kleinste ein Grindkopf, der nicht aus dem Hause ging. Jetzt wurde der Vater der drei krank. Er sagte: “Drei Tage bewacht mein Grab.” Jetzt starb der Vater. Da ging der allerälteste das Grab bewachen. Er ging nicht zum Grabe, sondern legte sich <cb n="88"/> an einem geeigneten Platze nieder und blieb da. Am Morgen kam er nach Hause. Der Grindkopf fragte: “Nun, Bruder, bist du zum Grabe gegangen? Was gibt’s Neues?” Er sagte: “Wozu dir etwas Neues? Kratze nur deinen Grind, und bleibe nur zu Hause.” In der folgenden Nacht ging der mittlere Bruder das Grab hüten. Er ging nicht zum Grabe, sondern auch er blieb an einem ihm angenehmen Platze. <cb n="89"/> Da ging der Grindkopf (und) sah nach dem Grabe. Dort fand er den mittleren Bruder nicht. In dem Moment, als der grind­<pb n="183"/>köpfige Bursche dort stand, kam ein Nart<note place="bottom">1227 ein Riese im Märchen 1228 d.h., wer hat sie geheiratet? </note> zu des Vaters Grabe. Der Nart hatte die Absicht, den Vater aus dem Grabe herauszunehmen. Der Grindkopf sagte: “Lass du dieses Grab alleine, dies <cb n="90"/> ist meines Vaters Grab.” Da ließ der Nart das Grab nicht (alleine). Der grind­köpfige Bruder tötete den Nart, nahm seine Kleider und ging nach Hause. Da kam am Morgen der mittlere Bruder nach Hause. Da fragte der Grindkopf ihn: “Bist du zum Grabe gegangen, was gibt es Neues?” Da sagte der mittlere Bruder: <cb n="91"/> “Kratze nur deinen Grind, und bleibe nur zu Hause; wozu brauchst du etwas Neues?” Nun war da eines Tages ein Nart, der hatte eine Schwester. “Sie ist niemand anderem zu vergeben als einem Manne, der größere Kraft hat, als ich selbst sie habe,” dachte er (“sagend”) (und) zog er sie groß (“behütete er sie”). Da brachen eines Tages die Leute dorthin auf, alles Men­schen, die übermäßigen Heldenmut (“Fähigkeit”) hatten und sich durch Kraft auszeichneten: <cb n="92"/> “Ich werde das Mädchen für mich er­langen”, sagten sie (“sagend”). Da kamen des grindköpfigen Burschen Brüder dorthin. Da ging auch der Grindkopf hinter ihnen her. Er be­stieg das Ross des von ihm selbst getöteten Narten, seine (“die”) Kleider zog er an. Dann fand er dort die Leute. Man fing an, die Pfer­de von einem Ort aus sprengen zu lassen. Keines Mannes Ross konnte von dort <cb n="93"/> sprengen. Des Grindkopfes, früher dem Narten gehören­des Ross sprang von diesem Ort. Dann ging der Grindkopf nach Hause. Dann kamen die Brüder. “Nun, Brüder, was ist geschehen? An wen ist des Narten Schwester gegangen<note place="bottom">d.h., wer hat sie geheiratet?</note>?”, fragte sie der Grind­kopf. “Tatsächlich ist ein Mann gekommen,” sagten sie, “auf einem großen Pferd reitend, <cb n="94"/> in schmucken Kleidern; einzig (“nur”) seíne Kraft war dort unüberbietbar. Auch am nächsten Tag werden wir dorthin gehen. Man weiß nicht, an wen des Narten Schwester gehen wird.” Am nächsten Tag gingen die Leute dorthin, um ihre Fähigkeit zu zeigen. Keines Mannes Fähigkeit ließ der Grindkopf die seine übertreffen (“vor sich gehen”). Darauf gab der Nart seine Schwester dem Grindkopf. Dieser ging nach seinem <cb n="95"/> Hause und blieb, seinen Grind kratzend, zu Hause. Jetzt kamen die Brüder hinzu (“hinauf”). Der Grindkopf fragte die Brüder wiederum: “He, Brüder, was ist ge­schehen?” Dann sagten die Brüder zu ihm: “An wen sie auch ge­<pb n="184"/>gangen sein mag, warum machst du dir darüber Gedanken? Kratze nur deinen Grind, und bleib’ nur zu Hause.” Da <cb n="96"/> behandelten sie den eigenen grindigen Bruder (“Burschen”) geringschätzig. Da ging er und heiratete die Schwester des Narten. Da erst mussten sich ihm seine Brüder ergeben. Ein Jahr verging, nachdem er sie geheiratet hatte, da wurde ihm ein Sohn geboren. Da sagte er zu seinem Sohne: “Dein Vater ist von niemand <cb n="97"/> besiegt worden; sei auch du nicht zu besiegen.” Da hörte er (sc. der Sohn), ein Nart habe eine schmucke Tochter, und er bereitete sich darauf vor hinzugehen, um sie für sich zu holen. Er sagte zum Vater: “Nun, mein Vater, ich gehe nach einem bestimmten Orte. Gib du mir Pferd und Kleider.” Der Vater antwor­tete ihm: <cb n="98"/> “Geh du nicht.” Er aber blieb keineswegs da, er verzich­tete nicht darauf zu gehen (“ohne zu gehen”). Der Vater gab ihm kein Pferd und keine Kleider. Da ging er grollend von dem Vater weg, einen für sich geeigneten Ort zu suchen. Er ging von dort fort, erreich­te einen wunderbaren Ort und fand auf einem Berge ein Haus. Er sah <cb n="99"/> viele Schafe. Da gingen jene Schafe und der (dazu gehörende) Mann (“jener Mann”) nach Hause. Wie dieser (sc. Bursche) sie betrachtete, machte er sich Gedanken über sie: Man hat nur einen blinden Mann mit so vielen Schafen gehen lassen. Da ging er (sc. der Bursche) zwischen den Schafen in den Stall. Da nahm der blinde Mann ein Schaf zum Schlachten. Dann ging dieser Bursche durch die Tür, und <cb n="100"/> blickte hinein. Er sah im Hause eine blinde Frau und den blinden Ehemann. Dann ging er und setzte sich auch zwischen sie, ohne dass sie etwas wussten. Dann, nachdem man das Fleisch zum Kochen (sc. ins Wasser) gelegt hatte, machte man Chinka<note place="bottom">1229 cin6al ‘Fleischkloß (wie man ihn überall im Kaukasus kennt)’; s. Anm. 790</note>. Aber das Fleisch wurde nicht klein geschnitten. Es wurde gerecht geteilt (“halbiert”), kreuz und quer. Das große Brustteil war für den Mann. Als <cb n="101"/> nun die blinden Leute Chinkal und Fleisch (aus dem Topf) herausgenommen hatten, riss der Bursche von dem Fleisch des Man­nes das Brustbein weg, von dem Fleisch der Frau das Bein. Jetzt nahm der blinde Mann sein Fleisch in die Hände und fing an zu essen; er fand (aber) nicht das Brustbein. Dann fing die blinde Frau an zu essen. <cb n="102"/> Auch sie fand nicht das Bein von ihrem Fleisch. Da sagte sie: “Wenn sie alt werden, werden die Menschen schlau. Schau, was die­ser macht.” Dann schimpfte der blinde Mann: “Sieh mal, was für ein <pb n="185"/>Wort sie spricht (“was erzählt für ein Wort”). Aus meinem Fleisch das Brustbein zu nehmen und mir die Schuld dafür zu geben: Das war also <cb n="103"/> gemeint!” (“Aus meinem Fleisch das Brustbein weggerissen ha­bend und mir die Schuld dafür gebend, so war wohl die Geschichte?”) Da sagte der Bursche zu ihnen: “Das ist keine Schuld von euch. Ich habe dieses euer Fleisch abgeschnitten.” Da sprach der blinde Mann zu dem Burschen: “He, mein Sohn, ein wie eine Katze heimlich tuender Mensch! Wie bist du gekommen, ohne es wissen zu lassen?” sagte der blinde Mann. Da erzählte der Bursche die Neuigkeit dessen, was geschehen war. Da <cb n="104"/> sagte der blinde Mann: “Ich werde dich wie meinen leiblichen Sohn hüten, wenn du hier bleibst. Wenn wir gestorben sind, ist dieses Schafvieh dein, es wird dir überschrieben.” Da war der Bursche sehr zufrieden. Am nächsten Tage sagte der blinde Mann: “Ich gehe zu den Schafen” und (“ "..." sagend”) (wollte) gehen. Da ließ ihn der Bursche nicht. “Du alter Mann, warum (willst du) zu den Schafen gehen? Ich gehe doch zu den Schafen, da (für dich) jetzt die Zeit gekommen ist, zu Hause zu bleiben, <cb n="105"/> (denn) du bist alt geworden. Ein alter Mann sollte nicht (mehr) zu den Schafen gehen.” Da ging der Junge die Schafe auf den Berg treiben. Dort sah er einen Berg mit sehr gutem Futter, einen guten Platz. Da führte der Junge die Schafe an den Platz mit sehr gutem Futter zum Weiden. Da kamen sieben Narten zu ihm. Sie sagten zu dem Jungen: “Du wirst wahrscheinlich auch nicht gerade des Grindkopfs Sohn sein; warum hast du die Schafe hierher gebracht?” <cb n="106"/> “Ist denn des Grindkopfs Sohn der Stärkste? Das bin ich. Was kannst du mir schon antun (“was tust du mir”)?” “Wenn du etwas tun kannst, tu das Deine.” Da schickten sich die Narten an, den Burschen zu töten. Dieser Bursche tötete die sieben Narten und nahm ihre Schafe für sich selbst. Dann am Abend gingen er und die Schafe nach Hause. Dem blinden Mann <cb n="107"/> erzählte der Bursche nichts. Am nächsten Tage brachte er die Schafe zum Weiden auf den Berg. Der an die Narten angrenzende Berg gehörte einer Qart. Zum Berge dieser Qart die Schafe bringend, ging der Bursche.<note place="bottom">1230 Die folgenden Sätze: “Da sah die Qart ... Warum bist du hergekommen?” folgen der Satzeinteilung von A.K. und P.S. in Anm. 646 und 648.</note> Da sah die Qart den Burschen. Die Qart kommt angerannt und sagt zu ihm: “Nicht einmal ein <cb n="108"/> Vogel kommt zu meinem Berge geflogen: Warum bist du hergekommen?” “Da es mir <pb n="186"/>beliebt, bin ich gekommen, lässt du (mich) nicht kommen?” sagte (“sagend sprach”) der Bursche zu ihr. Da beabsichtigte sie den Burschen zu töten. Da band jener Bursche der Qart beide Hände hinter dem Rücken zusammen. Der Bursche hatte die Absicht, sie mitzu­nehmen. <cb n="109"/> Jetzt nahm er ihre Schafe und auch sie gegen Abend nach Hause. Als die Schafe dort nicht ins Haus gingen, blieben sie draußen stehen. Der blinde Mann sagte zu dem Burschen: “He, mein Junge, ist der Lärm der Schafe nicht sehr laut (“ist die Stimme der Schafe nicht sehr groß”)? Was ist mit ihnen, dass sie heute einen solchen Lärm (“große Stimme”) machen?” Der Bursche sagte zu dem alten Manne: “Ich habe die Narten getötet und die Qart gefangen und hierher geführt <cb n="110"/> und ihre Schafe hierher gebracht. Für uns brachte (ich) sie. Deshalb machen jene Schafe solchen Lärm.” Da fürchteten sich der blinde Mann und die blinde Frau sehr: “Warum hast du die Qart hierher gebracht? Sie wird uns doch töten.” “Um euch zu töten habe ich ihr doch nicht die Hände auf den Rücken gebunden und sie hierher geführt. Ich kann sie natürlich gleich töten.” Da schickte sich der Bursche an, <cb n="111"/> die Qart zu töten. Da sagte sie: “Du töte mich nicht.” Dann sagte er: “Sofort töte ich dich.” Da sagte sie: “Wenn du mich nicht tötest, werde ich eure blinden Leute (Licht) sehen ma­chen.” Da sagte er: “Wenn du unsere blinden Leute (Licht) <cb n="112"/> sehen machst, werde (ich) dich nicht töten.” Da nahm sie eine kleine Fla­sche, strich die Medizin auf die Augen. Da sahen sie (Licht). Da wurde sie weggeschickt, indem man sagte: “Geh du von diesem Ort weit weg!”. Dann als dieser Bursche am nächsten Tage die Schafe wegtreibend ging, sah er einen <cb n="113"/> Mann, der zu den blinden Leuten ging. Da kehrte er nach Hause zurück. Er begegnete dem Mann, der herauskam. Er fragte (ihn): “Warum bist du hierher gekommen? Was willst du (“was ist dir nötig”)?” Der Mann sagte zu ihm. “Das geht dich nichts an (“das ist nicht deine Sache”). Wegen meiner Angele­genheit (“Bedürfnis”) <cb n="114"/> bin ich gekommen.” Da ging dieser Bur­sche nach Hause und fragte seine blinden Leute: “Wozu ist dieser Mann hierher gekommen? Was hatte er nötig?” Da sagte der blinde Mann zu jenem Burschen: “Es gibt einen sehr guten Freund von mir, einen König. <cb n="115"/> Es ist Krieg zwischen ihm und einem anderen König. Dieser Mann ist gekommen und hat gesagt: «Komm ihm zu Hilfe». Jetzt muss ich wohl dorthin gehen” (sagend) sprach der blinde Mann. Da sagte der Bursche zu ihm: “Du alter Mann wirst nicht dorthin gehen, ich gehe dorthin zu kämpfen,” sagte er. Da gab der blinde Mann <cb n="116"/> ihm ein gutes, dickes Pferd, er gab ihm ein schönes Gewand zum anziehen, er gab ihm eine leichte Waffe. Dann ging er (sc. der Bursche) weg, um zu kämpfen. Dort angekommen, wurde er dort nach kurzer Zeit im Krieg getötet. Der blinde Mann blieb im Frieden. Der Grindkopf hatte nicht die Absicht, den Ort zu finden, wohin sein Sohn gegangen war. <cb n="117"/> Wenn der grindköpfige Bursche ein guter Held gewesen wäre, hätte er den Ort gefunden, wohin sein Sohn gegangen war.</p>
-  </body>
- </text>
+          <author role="author">
+            <name ref="#WB">
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#JB">
+              <persName>
+                <forename>Johannes</forename>
+                <surname>Bechert</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#EL">
+              <persName>
+                <forename>Ernst</forename>
+                <surname>Lewy</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
+          <distributor>
+            <ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
+          </distributor>
+          <date when="2007">The year 2007</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+        <bibl type="digitalSource">
+          <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a530 Prinzessin auf dem Glasberg</item>
+            <item>a314A Hirt und die drei Riesen</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_209.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+            <item>Warnung vor sozialer Diskriminierung</item>
+            <item>Warnung vor körperbezogener Diskriminierung</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
+          <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
+          <geo/>
+        </placeName>
+        <date when="1918">1918</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Nazmuddin</forename>
+            <surname>Sajpudin</surname>
+          </persName>
+          <age>31</age>
+          <birth>
+            <date when="1887">1887</date>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
+              <settlement>Gunib</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ava_deu_209">
+    <body>
+      <head>V. Die drei Brüder </head>
+      <p>
+        <cb n="87"/>
+         Ein Mann hatte drei Söhne, zwei gut, der kleinste ein Grindkopf, der nicht aus dem Hause ging. Jetzt wurde der Vater der drei krank. Er sagte: “Drei Tage bewacht mein Grab.” Jetzt starb der Vater. Da ging der allerälteste das Grab bewachen. Er ging nicht zum Grabe, sondern legte sich 
+        <cb n="88"/>
+         an einem geeigneten Platze nieder und blieb da. Am Morgen kam er nach Hause. Der Grindkopf fragte: “Nun, Bruder, bist du zum Grabe gegangen? Was gibt’s Neues?” Er sagte: “Wozu dir etwas Neues? Kratze nur deinen Grind, und bleibe nur zu Hause.” In der folgenden Nacht ging der mittlere Bruder das Grab hüten. Er ging nicht zum Grabe, sondern auch er blieb an einem ihm angenehmen Platze. 
+        <cb n="89"/>
+         Da ging der Grindkopf (und) sah nach dem Grabe. Dort fand er den mittleren Bruder nicht. In dem Moment, als der grind­
+        <pb n="183"/>
+        köpfige Bursche dort stand, kam ein Nart
+        <note place="bottom">1227 ein Riese im Märchen 1228 d.h., wer hat sie geheiratet? </note>
+         zu des Vaters Grabe. Der Nart hatte die Absicht, den Vater aus dem Grabe herauszunehmen. Der Grindkopf sagte: “Lass du dieses Grab alleine, dies 
+        <cb n="90"/>
+         ist meines Vaters Grab.” Da ließ der Nart das Grab nicht (alleine). Der grind­köpfige Bruder tötete den Nart, nahm seine Kleider und ging nach Hause. Da kam am Morgen der mittlere Bruder nach Hause. Da fragte der Grindkopf ihn: “Bist du zum Grabe gegangen, was gibt es Neues?” Da sagte der mittlere Bruder: 
+        <cb n="91"/>
+         “Kratze nur deinen Grind, und bleibe nur zu Hause; wozu brauchst du etwas Neues?” Nun war da eines Tages ein Nart, der hatte eine Schwester. “Sie ist niemand anderem zu vergeben als einem Manne, der größere Kraft hat, als ich selbst sie habe,” dachte er (“sagend”) (und) zog er sie groß (“behütete er sie”). Da brachen eines Tages die Leute dorthin auf, alles Men­schen, die übermäßigen Heldenmut (“Fähigkeit”) hatten und sich durch Kraft auszeichneten: 
+        <cb n="92"/>
+         “Ich werde das Mädchen für mich er­langen”, sagten sie (“sagend”). Da kamen des grindköpfigen Burschen Brüder dorthin. Da ging auch der Grindkopf hinter ihnen her. Er be­stieg das Ross des von ihm selbst getöteten Narten, seine (“die”) Kleider zog er an. Dann fand er dort die Leute. Man fing an, die Pfer­de von einem Ort aus sprengen zu lassen. Keines Mannes Ross konnte von dort 
+        <cb n="93"/>
+         sprengen. Des Grindkopfes, früher dem Narten gehören­des Ross sprang von diesem Ort. Dann ging der Grindkopf nach Hause. Dann kamen die Brüder. “Nun, Brüder, was ist geschehen? An wen ist des Narten Schwester gegangen
+        <note place="bottom">d.h., wer hat sie geheiratet?</note>
+        ?”, fragte sie der Grind­kopf. “Tatsächlich ist ein Mann gekommen,” sagten sie, “auf einem großen Pferd reitend, 
+        <cb n="94"/>
+         in schmucken Kleidern; einzig (“nur”) seíne Kraft war dort unüberbietbar. Auch am nächsten Tag werden wir dorthin gehen. Man weiß nicht, an wen des Narten Schwester gehen wird.” Am nächsten Tag gingen die Leute dorthin, um ihre Fähigkeit zu zeigen. Keines Mannes Fähigkeit ließ der Grindkopf die seine übertreffen (“vor sich gehen”). Darauf gab der Nart seine Schwester dem Grindkopf. Dieser ging nach seinem 
+        <cb n="95"/>
+         Hause und blieb, seinen Grind kratzend, zu Hause. Jetzt kamen die Brüder hinzu (“hinauf”). Der Grindkopf fragte die Brüder wiederum: “He, Brüder, was ist ge­schehen?” Dann sagten die Brüder zu ihm: “An wen sie auch ge­
+        <pb n="184"/>
+        gangen sein mag, warum machst du dir darüber Gedanken? Kratze nur deinen Grind, und bleib’ nur zu Hause.” Da 
+        <cb n="96"/>
+         behandelten sie den eigenen grindigen Bruder (“Burschen”) geringschätzig. Da ging er und heiratete die Schwester des Narten. Da erst mussten sich ihm seine Brüder ergeben. Ein Jahr verging, nachdem er sie geheiratet hatte, da wurde ihm ein Sohn geboren. Da sagte er zu seinem Sohne: “Dein Vater ist von niemand 
+        <cb n="97"/>
+         besiegt worden; sei auch du nicht zu besiegen.” Da hörte er (sc. der Sohn), ein Nart habe eine schmucke Tochter, und er bereitete sich darauf vor hinzugehen, um sie für sich zu holen. Er sagte zum Vater: “Nun, mein Vater, ich gehe nach einem bestimmten Orte. Gib du mir Pferd und Kleider.” Der Vater antwor­tete ihm: 
+        <cb n="98"/>
+         “Geh du nicht.” Er aber blieb keineswegs da, er verzich­tete nicht darauf zu gehen (“ohne zu gehen”). Der Vater gab ihm kein Pferd und keine Kleider. Da ging er grollend von dem Vater weg, einen für sich geeigneten Ort zu suchen. Er ging von dort fort, erreich­te einen wunderbaren Ort und fand auf einem Berge ein Haus. Er sah 
+        <cb n="99"/>
+         viele Schafe. Da gingen jene Schafe und der (dazu gehörende) Mann (“jener Mann”) nach Hause. Wie dieser (sc. Bursche) sie betrachtete, machte er sich Gedanken über sie: Man hat nur einen blinden Mann mit so vielen Schafen gehen lassen. Da ging er (sc. der Bursche) zwischen den Schafen in den Stall. Da nahm der blinde Mann ein Schaf zum Schlachten. Dann ging dieser Bursche durch die Tür, und 
+        <cb n="100"/>
+         blickte hinein. Er sah im Hause eine blinde Frau und den blinden Ehemann. Dann ging er und setzte sich auch zwischen sie, ohne dass sie etwas wussten. Dann, nachdem man das Fleisch zum Kochen (sc. ins Wasser) gelegt hatte, machte man Chinka
+        <note place="bottom">1229 cin6al ‘Fleischkloß (wie man ihn überall im Kaukasus kennt)’; s. Anm. 790</note>
+        . Aber das Fleisch wurde nicht klein geschnitten. Es wurde gerecht geteilt (“halbiert”), kreuz und quer. Das große Brustteil war für den Mann. Als 
+        <cb n="101"/>
+         nun die blinden Leute Chinkal und Fleisch (aus dem Topf) herausgenommen hatten, riss der Bursche von dem Fleisch des Man­nes das Brustbein weg, von dem Fleisch der Frau das Bein. Jetzt nahm der blinde Mann sein Fleisch in die Hände und fing an zu essen; er fand (aber) nicht das Brustbein. Dann fing die blinde Frau an zu essen. 
+        <cb n="102"/>
+         Auch sie fand nicht das Bein von ihrem Fleisch. Da sagte sie: “Wenn sie alt werden, werden die Menschen schlau. Schau, was die­ser macht.” Dann schimpfte der blinde Mann: “Sieh mal, was für ein 
+        <pb n="185"/>
+        Wort sie spricht (“was erzählt für ein Wort”). Aus meinem Fleisch das Brustbein zu nehmen und mir die Schuld dafür zu geben: Das war also 
+        <cb n="103"/>
+         gemeint!” (“Aus meinem Fleisch das Brustbein weggerissen ha­bend und mir die Schuld dafür gebend, so war wohl die Geschichte?”) Da sagte der Bursche zu ihnen: “Das ist keine Schuld von euch. Ich habe dieses euer Fleisch abgeschnitten.” Da sprach der blinde Mann zu dem Burschen: “He, mein Sohn, ein wie eine Katze heimlich tuender Mensch! Wie bist du gekommen, ohne es wissen zu lassen?” sagte der blinde Mann. Da erzählte der Bursche die Neuigkeit dessen, was geschehen war. Da 
+        <cb n="104"/>
+         sagte der blinde Mann: “Ich werde dich wie meinen leiblichen Sohn hüten, wenn du hier bleibst. Wenn wir gestorben sind, ist dieses Schafvieh dein, es wird dir überschrieben.” Da war der Bursche sehr zufrieden. Am nächsten Tage sagte der blinde Mann: “Ich gehe zu den Schafen” und (“ &quot;...&quot; sagend”) (wollte) gehen. Da ließ ihn der Bursche nicht. “Du alter Mann, warum (willst du) zu den Schafen gehen? Ich gehe doch zu den Schafen, da (für dich) jetzt die Zeit gekommen ist, zu Hause zu bleiben, 
+        <cb n="105"/>
+         (denn) du bist alt geworden. Ein alter Mann sollte nicht (mehr) zu den Schafen gehen.” Da ging der Junge die Schafe auf den Berg treiben. Dort sah er einen Berg mit sehr gutem Futter, einen guten Platz. Da führte der Junge die Schafe an den Platz mit sehr gutem Futter zum Weiden. Da kamen sieben Narten zu ihm. Sie sagten zu dem Jungen: “Du wirst wahrscheinlich auch nicht gerade des Grindkopfs Sohn sein; warum hast du die Schafe hierher gebracht?” 
+        <cb n="106"/>
+         “Ist denn des Grindkopfs Sohn der Stärkste? Das bin ich. Was kannst du mir schon antun (“was tust du mir”)?” “Wenn du etwas tun kannst, tu das Deine.” Da schickten sich die Narten an, den Burschen zu töten. Dieser Bursche tötete die sieben Narten und nahm ihre Schafe für sich selbst. Dann am Abend gingen er und die Schafe nach Hause. Dem blinden Mann 
+        <cb n="107"/>
+         erzählte der Bursche nichts. Am nächsten Tage brachte er die Schafe zum Weiden auf den Berg. Der an die Narten angrenzende Berg gehörte einer Qart. Zum Berge dieser Qart die Schafe bringend, ging der Bursche.
+        <note place="bottom">1230 Die folgenden Sätze: “Da sah die Qart ... Warum bist du hergekommen?” folgen der Satzeinteilung von A.K. und P.S. in Anm. 646 und 648.</note>
+         Da sah die Qart den Burschen. Die Qart kommt angerannt und sagt zu ihm: “Nicht einmal ein 
+        <cb n="108"/>
+         Vogel kommt zu meinem Berge geflogen: Warum bist du hergekommen?” “Da es mir 
+        <pb n="186"/>
+        beliebt, bin ich gekommen, lässt du (mich) nicht kommen?” sagte (“sagend sprach”) der Bursche zu ihr. Da beabsichtigte sie den Burschen zu töten. Da band jener Bursche der Qart beide Hände hinter dem Rücken zusammen. Der Bursche hatte die Absicht, sie mitzu­nehmen. 
+        <cb n="109"/>
+         Jetzt nahm er ihre Schafe und auch sie gegen Abend nach Hause. Als die Schafe dort nicht ins Haus gingen, blieben sie draußen stehen. Der blinde Mann sagte zu dem Burschen: “He, mein Junge, ist der Lärm der Schafe nicht sehr laut (“ist die Stimme der Schafe nicht sehr groß”)? Was ist mit ihnen, dass sie heute einen solchen Lärm (“große Stimme”) machen?” Der Bursche sagte zu dem alten Manne: “Ich habe die Narten getötet und die Qart gefangen und hierher geführt 
+        <cb n="110"/>
+         und ihre Schafe hierher gebracht. Für uns brachte (ich) sie. Deshalb machen jene Schafe solchen Lärm.” Da fürchteten sich der blinde Mann und die blinde Frau sehr: “Warum hast du die Qart hierher gebracht? Sie wird uns doch töten.” “Um euch zu töten habe ich ihr doch nicht die Hände auf den Rücken gebunden und sie hierher geführt. Ich kann sie natürlich gleich töten.” Da schickte sich der Bursche an, 
+        <cb n="111"/>
+         die Qart zu töten. Da sagte sie: “Du töte mich nicht.” Dann sagte er: “Sofort töte ich dich.” Da sagte sie: “Wenn du mich nicht tötest, werde ich eure blinden Leute (Licht) sehen ma­chen.” Da sagte er: “Wenn du unsere blinden Leute (Licht) 
+        <cb n="112"/>
+         sehen machst, werde (ich) dich nicht töten.” Da nahm sie eine kleine Fla­sche, strich die Medizin auf die Augen. Da sahen sie (Licht). Da wurde sie weggeschickt, indem man sagte: “Geh du von diesem Ort weit weg!”. Dann als dieser Bursche am nächsten Tage die Schafe wegtreibend ging, sah er einen 
+        <cb n="113"/>
+         Mann, der zu den blinden Leuten ging. Da kehrte er nach Hause zurück. Er begegnete dem Mann, der herauskam. Er fragte (ihn): “Warum bist du hierher gekommen? Was willst du (“was ist dir nötig”)?” Der Mann sagte zu ihm. “Das geht dich nichts an (“das ist nicht deine Sache”). Wegen meiner Angele­genheit (“Bedürfnis”) 
+        <cb n="114"/>
+         bin ich gekommen.” Da ging dieser Bur­sche nach Hause und fragte seine blinden Leute: “Wozu ist dieser Mann hierher gekommen? Was hatte er nötig?” Da sagte der blinde Mann zu jenem Burschen: “Es gibt einen sehr guten Freund von mir, einen König. 
+        <cb n="115"/>
+         Es ist Krieg zwischen ihm und einem anderen König. Dieser Mann ist gekommen und hat gesagt: «Komm ihm zu Hilfe». Jetzt muss ich wohl dorthin gehen” (sagend) sprach der blinde Mann. Da sagte der Bursche zu ihm: “Du alter Mann wirst nicht dorthin gehen, ich gehe dorthin zu kämpfen,” sagte er. Da gab der blinde Mann 
+        <cb n="116"/>
+         ihm ein gutes, dickes Pferd, er gab ihm ein schönes Gewand zum anziehen, er gab ihm eine leichte Waffe. Dann ging er (sc. der Bursche) weg, um zu kämpfen. Dort angekommen, wurde er dort nach kurzer Zeit im Krieg getötet. Der blinde Mann blieb im Frieden. Der Grindkopf hatte nicht die Absicht, den Ort zu finden, wohin sein Sohn gegangen war. 
+        <cb n="117"/>
+         Wenn der grindköpfige Bursche ein guter Held gewesen wäre, hätte er den Ort gefunden, wohin sein Sohn gegangen war.
+      </p>
+    </body>
+  </text>
 </TEI>

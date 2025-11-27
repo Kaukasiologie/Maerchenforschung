@@ -1,131 +1,149 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФ ИЯЛИ</institution>
-          <collection>Ф. 9. Оп. 1. Д. 305</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФ ИЯЛИ</institution>
+                <collection>Ф. 9. Оп. 1. Д. 305</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
-       <geo />
-      </placeName>
-      <date>1966</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">X.</forename>
-        <surname xml:lang="rus">Имиевa</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Ф.А.</forename>
-        <surname xml:lang="rus">Алиева </surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Ф.А.</forename>
-        <surname xml:lang="rus">Алиевa</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
+          <geo/>
+        </placeName>
+        <date>1966</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">X.</forename>
+            <surname xml:lang="rus">Имиевa</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Ф.А.</forename>
+            <surname xml:lang="rus">Алиева </surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Ф.А.</forename>
+            <surname xml:lang="rus">Алиевa</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_23">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_23">
     <body>
-     <head>78 Суждено было (дарг.) </head>
-     <p>жили жили муж жена сын решил побродить свету посмотреть людей показать прошел немалый путь дошел одной горы стемнело подумал найти место переночевать вдалеке увидел огонек пошел ту сторону оказался домик вошел спросил хозяина переночевать хозяин ответил это время очень быстро писал</p><p>быстро пишешь спросил хозяина дома</p><p>умею предсказывать людские судьбы ответил старик</p><p>сможешь предсказать суждено жизни спрашивает парень</p><p>хозяин дома погрузился свои бумаги сказал</p><p>тебе суждено оставив суженую жениться очень больной бедной девушке</p><p>расстроился парень долго мог уснуть обиды среди ночи встал ушел подальше дома шел шел невдалеке увидел свет пошел вошел дом увидел мужа жену</p><p>переночевать спросил</p><p>переночевать ответили хозяева дома сможешь уснуть наверху лежит больная дочь которая очень громко стонет даст тебе уснуть</p><p>усну сказал парень</p><p>хозяева дома положили еду трапезы предложили поспать парень задумался это наверное та самая девушка которой говорил старик которой суждено жениться решил убить поднялся вонзил кинжал положил рядом кошелек деньгами ушел дома</p><p>рассветом родители девушки разволновались слышно нашей дочери ка пойдем посмотрим отчего перестала стонать подумали поднялись девушке комнату поверили своим глазам дочь поправилась встала улыбкой встречала своих родителей</p><p>выздоровела удивились родители</p><p>знаю ночью вошел вонзил кинжал сразу прошла боль сказала девушка</p><p>родители очень обрадовались взяли деньги которые оставил парень сами пошли искать человека которому удалось вылечить дочь</p><p>решили переехать другое место построили дом вырастили фруктовые деревья</p><p>та девушка сидела саду напевая песню занималась мимо проходил самый парень который вонзил кинжал услышав пение невольно заслушался остановился войдя сад увидел девушку сразу влюбился решил жениться</p><p>пришел своим родителям этак стал уговаривать засватать девушку возражали родители говорили очень бедной семьи слушал настаивал своем пришлось уступить желанию сыграли большую свадьбу поженили молодых</p><p>проходит некоторое время муж молодой женщины увидел животе большой шрам спросил рассказала обо всем приключилось молодой муж вспомнил историю предсказания старика которого видел доме</p><p>сбылись предсказания мудрого старика подумал</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>78 Суждено было (дарг.) </head>
+      <p>жили жили муж жена сын решил побродить свету посмотреть людей показать прошел немалый путь дошел одной горы стемнело подумал найти место переночевать вдалеке увидел огонек пошел ту сторону оказался домик вошел спросил хозяина переночевать хозяин ответил это время очень быстро писал</p>
+      <p>быстро пишешь спросил хозяина дома</p>
+      <p>умею предсказывать людские судьбы ответил старик</p>
+      <p>сможешь предсказать суждено жизни спрашивает парень</p>
+      <p>хозяин дома погрузился свои бумаги сказал</p>
+      <p>тебе суждено оставив суженую жениться очень больной бедной девушке</p>
+      <p>расстроился парень долго мог уснуть обиды среди ночи встал ушел подальше дома шел шел невдалеке увидел свет пошел вошел дом увидел мужа жену</p>
+      <p>переночевать спросил</p>
+      <p>переночевать ответили хозяева дома сможешь уснуть наверху лежит больная дочь которая очень громко стонет даст тебе уснуть</p>
+      <p>усну сказал парень</p>
+      <p>хозяева дома положили еду трапезы предложили поспать парень задумался это наверное та самая девушка которой говорил старик которой суждено жениться решил убить поднялся вонзил кинжал положил рядом кошелек деньгами ушел дома</p>
+      <p>рассветом родители девушки разволновались слышно нашей дочери ка пойдем посмотрим отчего перестала стонать подумали поднялись девушке комнату поверили своим глазам дочь поправилась встала улыбкой встречала своих родителей</p>
+      <p>выздоровела удивились родители</p>
+      <p>знаю ночью вошел вонзил кинжал сразу прошла боль сказала девушка</p>
+      <p>родители очень обрадовались взяли деньги которые оставил парень сами пошли искать человека которому удалось вылечить дочь</p>
+      <p>решили переехать другое место построили дом вырастили фруктовые деревья</p>
+      <p>та девушка сидела саду напевая песню занималась мимо проходил самый парень который вонзил кинжал услышав пение невольно заслушался остановился войдя сад увидел девушку сразу влюбился решил жениться</p>
+      <p>пришел своим родителям этак стал уговаривать засватать девушку возражали родители говорили очень бедной семьи слушал настаивал своем пришлось уступить желанию сыграли большую свадьбу поженили молодых</p>
+      <p>проходит некоторое время муж молодой женщины увидел животе большой шрам спросил рассказала обо всем приключилось молодой муж вспомнил историю предсказания старика которого видел доме</p>
+      <p>сбылись предсказания мудрого старика подумал</p>
+    </body>
+  </text>
+</TEI>

@@ -1,302 +1,334 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">14. Aleksandre und Dawit</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_19.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
- <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
-       <district ref="https://www.geonames.org/614378/gulripshi-district.html">Gulripshi</district>
-       <settlement ref="https://www.geonames.org/614863/dranda.html">Dranda</settlement>
-       <geo/>
-      </placeName>
-    <date when="1933">1933</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Pila</forename>
-      <surname>Izoria</surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date when="1888"></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename>Makar</forename>
-      <surname>Khubua</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_19">
-  <body>
-   <head>Aleksandre und Dawit</head>
-   <p>Es waren einmal eine Frau und ihr Mann, die beide schon alt waren. Sie hatten drei Söhne. Sie lebten in Armut, und die Söhne kamen überein,fortzuziehen, um Geld zu verdienen. Sie buken Hirsebrot und bereiteten sich Wegzehrung, brachen auf und zogen los. Sie liefen heute, morgen,fünfzehn, zwanzig Tage lang, und erreichten einen Ort, an dem sich drei Wege trafen und wo kein Mensch in der Nähe wohnte. Am Anfang des Weges war ein Pfosten eingeschlagen, an den drei Wegen standen drei Pfosten.</p>
-   <p>Auf dem einen stand geschrieben: "Wer den ersten Weg nimmt, der wird Reichtum gewinnen.” Auf dem zweiten stand: "Wer den zweiten Wegnimmt, wird gleichfalls Reichtum gewinnen." Auf dem dritten war geschrieben: "Wer diesen dritten Weg zieht, der wird dorthin gelangen, aber nicht mehr zurückkehren."</p>
-   <p>Der älteste Bruder hieß Aleksandre, der mittlere Dawit, der jüngste Giorgi. Dawit und Aleksandre wählten die guten Wege, wo sie Wohlstand erwartete. Giorgi nahm den elenden Weg. Giorgi vereinbarte mit Aleksandre und Dawit: "Wer zuerst hier vorüberkommt und nach Hause zurückkehrt, der soll hier anschreiben: Ich bin nach Hause gezogen."</p>
-   <p>Sie verabschiedeten sich voneinander, und Giorgi nahm den elenden Weg. Er lief und traf nach langer Zeit auf eine Hütte, wo eine alte Frauwohnte. Er ging hinein und bat sie um etwas zu essen. Sie gab es ihm, un der fragte: "Wohin führt dieser Weg?"</p>
-   <p>"Wenn du diesen Weg gehst, kommst du nach anderthalb Kilometern zu den zwölf Brüdern Riesen. Sie haben ein zwölf stöckiges Haus, das von einer Mauer umgeben ist, die mit einem Tor versehen ist, das kein Mensch <pb n="104"/> öffnen kann, sondern nur die zwölf Brüder Riesen gemeinsam. Sie haben eine Schwester."</p>
-   <p>Giorgi sprach zu ihr: "Das ist meine Aufgabe." Er nahm Abschied von der Frau und sagte: "In einem Monat kehre ich zurück. Warte auf mich.”</p>
-   <p>Giorgi begab sich zu der Familie der Riesen. Er öffnete das Tor, das die zwölf Brüder gemeinsam aufmachen konnten, allein und trat in das Haus.</p>
-   <p>Das Mädchen sagte zu ihm: "Es ist besser, wenn du wieder fortgehst, denn wenn meine Brüder kommen, werden sie dich töten.”</p>
-   <p>Giorgi meinte: "Vielleicht werde ich sie töten, das wollen wir erst einmal sehen.”</p>
-   <p>Nach kurzer Zeit kam ein Bruder Riese. Er fing mit Giorgi Streit an, und Giorgi erschlug alle zwölf Brüder Riesen. Giorgi und das Mädchen blieben allein in diesem Haus. Das Mädchen bereitete Giorgi natürlich das Abendbrot, machte das Bett, und sie legten sich beide hin. Giorgi löste seinen Dolch und legte ihn in die Mitte zwischen sich und das Mädchen. So verbrachten sie eine Woche da. Der Weg, den Giorgi gewählt hatte, führte noch weiter über den Hof hinaus, und er fragte das Mädchen: "Wohin führt dieser Weg?"</p>
-   <p>Das Mädchen antwortete: "Wenn du zehn Meilen weit gehst, lebt dort die Tochter eines Riesen. Sie besitzt eine Schere, wenn sie die klappern Jäßt, schneidet sie einem Mann sofort den Kopf ab. Im Hof dieses Mädchens stehen dreihundertsechzig Pfähle. Auf allen ist ein Menschenkopf aufgespießt mit Ausnahme von einem. Wenn du dort hingehst, wird sie dich ebenso töten und deinen Kopf auf den Pfahl stecken. Geh nicht hin, es ist besser für dich.”</p>
-   <p>Giorgi erwiderte: "Das ist meine Sache." Er hörte nicht auf das Mädchen und brach auf.</p>
-   <p>Im Haus dieses Mädchens gab es viel Gold, und er trug dem Mädchen auf: "In einem Monat kehre ich zurück. Halte das Gepäck bereit." Giorgi machte sich auf und lief zum Haus des Mädchens. Als er zum Tor kam,waren dort wirklich, wie es das Mädchen gesagt hatte, Köpfe aufgespießt.</p>
-   <p>Doch er stieß das Tor auf und schritt hinein. Als er nach vorn blickte,spielte auf dem Balkon ein Mädchen Gitarre. Sie sah ihn und dachte: Das ist ein Fremder, ich will erst mit ihm reden und ihm dann den Kopf abschneiden.</p>
-   <p>Giorgi stieg auf den Balkon hinauf. Auf dem Tisch im Saal sah er die Schere des Mädchens liegen, nahm sie und steckte sie in seine Tasche.</p>
-   <p>Das Mädchen sprach zu ihm: "Wer mir diese Schere weggenommen hat,der muß mein Mann sein." Natürlich blieben Giorgi und das Mädchen in dieser Nacht hier. Sie aßen Abendbrot und legten sich schlafen. Wie beidem ersten Mädchen legte er auch hier den Dolch so, daß sie sich nicht im <pb n="105"/> mindesten mit dem Körper berühren konnten.</p>
-   <p>Nach einer Woche fragte Giorgi das Mädchen: "Wohin führt dieser Weg?"</p>
-   <p>"Das ist für dich nicht nötig. Noch nie ist ein Mensch, der von hier aufgebrochen ist, von dort zurückgekehrt”, sagte sie.</p>
-   <p>Giorgi entgegnete: "Bevor dieser Weg kein Ende nimmt, muß ich immerweitergehen., Das habe ich mir geschworen.”</p>
-   <p>Das Mädchen sprach: "Da du nicht hörst, will ich dir sagen, was dich dort erwartet: Wenn du von hier aus zehn, fünfzehn Meilen zurücklegst, lebt dort Kashandem mit seinen fünfundzwanzig Söhnen. Sie wohnen in einemfünfundzwanzigstöckigen Haus mit einer Tür, die nur die fünfundzwanzig Brüder zusammen oder Kashandem allein öffnen können und sonst niemand, Meine Schere schneidet ihnen allen die Köpfe ab, nur für Kashandem taugt sie nicht und zerbricht. Gebrauche sie nicht unnütz!”</p>
-   <p>Trotzdem brach Giorgi auf. Er ging hin und öffnete allein die Tür, die die fünfundzwanzig Männer nur gemeinsam öffnen konnten. Die fünfundzwanzig Räume waren sämtlich mit einem Schloß verschlossen, und Giorgi brach sie alle auf. Im obersten Zimmer traf er ein wunderschönes Mädchenan. Da Giorgi ein stattlicher Bursche war, war das Mädchen traurig, ihn hier zu sehen: "Es ist besser, wenn du fortgehst", sagte sie, "weshalb willst du dich ins Verderben stürzen.”</p>
-   <p>Doch Giorgi erwiderte: "Ich werde all deine Brüder und deinen Vater töten. Ich und du, wir werden Mann und Frau sein."</p>
-   <p>Als sie ihr Gespräch beendet hatten, stieg Giorgi in das untere Stockwerkhinab. Da kam einer der Riesenbrüder. Als er das Tor geöffnet sah, schrie er: "Wer hat diese Tür geöffnet, wenn es nicht Giorgi gewesen ist!"</p>
-   <p>"Ja", sagte Giorgi, "ich bin gekommen."</p>
-   <p>Und er schnitt dem Riesen mit der Schere den Kopf ab. Einzeln und zu zweien schnitt er allen fünfundzwanzig Brüdern mit der Schere den Kopfab. Schließlich kam Kashandem. Als er sah, daß seine Söhne tot waren, zog er seinen Dolch. Der Dolch Giorgis war klein, der des Riesen groß. Giorgi rief Kashandem zu: "Mit Dolchen zu kämpfen, ist doch nicht mannhaft."</p>
-   <p>Und er löste seinen Dolch und warf ihn fort. Der Riese schämte sich und warf seinen Dolch gleichfalls fort. Sie packten sich kräftig mit den Händen und rangen tags, nachts und am nächsten Tag. Drei Tage und drei Nächte kämpften sie miteinander. Dann tötete Giorgi Kashandem. Müde stieg er zu dem Zimmer hinauf, wo das Mädchen wohnte. Das Mädchen freute sichnatürlich, daß der junge Mann am Leben geblieben war. Sie ließ ihn baden,wechselte ihm die Kleider, und als sie zu Abend gegessen hatten, legten sie sich zu Bett. Sie tauschten ihre Ringe aus. Auf dem Ring des Mädchens waren ihr Name und Vorname geschrieben. <pb n="106"/></p>
-   <p>Eine Woche lang lebten sie hier. Nach einer Woche packten sie alles, was an Sachen, Geld und Gold da war, zusammen und nahmen es mit. Und noch zwölf Pferdelasten Geld nahmen sie mit. Sie brachen auf und rittenlos und kamen dorthin, wo ihm die alte Frau Essen gegeben hatte. Giorgitraf sie lebend an und nahm auch sie mit. Er brach wieder auf und rittheimwärts. Sie gelangten an die Stelle, wo sich die drei Wege trafen. Giorgisah sich die Pfähle an, doch auf keinem stand geschrieben, daß sie nach Hause zurückgekehrt wären. Giorgi sagte zu dem Mädchen: "Auf diesen Wegen sind meine Brüder fortgegangen. Bleibt hier, bis ich zurückkehre.”</p>
-   <p>Er fragte hier nach seinem Bruder Aleksandre, doch niemand konnte ihm sagen, wo er sich aufhielt. Schließlich gelangte er auf ein großes Feld,wo viele Buchen standen, Unten im Wald hielten sich Schweine auf, und ein Mann schlug Bucheckern herunter, wozu er auf den Baum geklettert war. Giorgi dachte: Den will ich auch fragen. Als er hinging und ihn ansah,war es sein leiblicher Bruder Aleksandre!</p>
-   <p>"Junge, was wolltest du hier", sagte er zu ihm.</p>
-   <p>"Ich stehe als Tagelöhner bei dem Mann im Dienst und hüte die Schweine. Hundert Maneti gibt er mir im Jahr."</p>
-   <p>Giorgi sprach: "Laß die Schweine und komm mit mir.”</p>
-   <p>Aleksandre wollte nicht auf ihn hören, doch Giorgi nahm seinen Bruder mit. Er brachte ihn in die Stadt, stattete ihn mit guter Kleidung aus, kaufte ihm ein Pferd und sagte zu ihm: "Nimm diesen Weg, dort befinden sich meine Sachen und meine Frauen. Bleib du dort, und ich will losziehen, ummeinen zweiten Bruder Dawit zu suchen,”</p>
-   <p>Aleksandre ritt dorthin, wo sich die Mädchen aufhielten. Giorgi brach in jenes Land auf, wo sein zweiter Bruder Dawit war. Er gelangte dorthin und fragte alle nach seinem Bruder Dawit. Aber niemand konnte ihm den Wegweisen. Schließlich kam er in einen großen Dattelbaumwald. Dort schüttelte ein Mann den Gänsen Wilddatteln herab. Als er hinging, fand er da nicht seinen Bruder Dawit?!</p>
-   <p>"Komm mit mir", sagte er zu ihm.</p>
-   <p>Dawit entgegnete: "Drei Jahre lang diene ich schon diesem Mann. Ich bekomme dreihundert Maneti."</p>
-   <p>Doch Giorgi hörte nicht auf ihn, nahm ihn mit und brachte ihn in die Stadt. Hier stattete er ihn mit Kleidung, einem Pferd und einem Sattel aus und nahm ihn zu Pferde mit. Sie kamen dorthin, wo Giorgi diese Frauen zurückgelassen hatte. Zuerst sagte er zu dem Mädchen, dessen zwölf Brüder Riesen er getötet hatte: "Du bist die Frau meines ältesten Bruders Aleksandre." Und er stellte sie ihm zur Seite. Dann stellte er das Mädchen,das die Schere besaß, seinem mittleren Bruder Dawit an die Seite und sprach: "Dies ist deine Frau!" <pb n="107"/> </p>
-   <p>"Brüder", sagte er zu ihnen, "dies sind fünfundzwanzig Pferdelasten Gold und Brillanten, und wenn ihr nach Hause kommt und Mutter und Vater am Leben sind, so sagt ihnen: Seht, wir sind dem Elend entronnen.”</p>
-   <p>Sie brachen auf und machten sich auf die Heimreise, Sie ritten heute und morgen und kamen in ein Land, in dem kein Mensch in der Nähe lebte.</p>
-   <p>Hier bekamen sie solchen Durst, daß sie ihn nicht mehr ertragen konnten.</p>
-   <p>Im Schatten eines Baumes schlugen sie ihr Lager auf und wollten irgendwo nach Trinkwasser suchen. Da sahen sie eine zehn Meter breite Grube und auf dem Grund Wasser irgendwohin in die Ferne fließen. Sie mußten einen Korb flechten, ein Bruder mußte hinabgelassen werden und das Wasser heraufholen. Sie flochten den Korb und banden einen Strick daran. Niemand außer Giorgi wagte es, da hinabzusteigen. Giorgi setzte sich in den Korb, nahm den Krug und ließ sich hinab. Er sank tiefer und tiefer, die Brüder hielten den Strick. Der Strick war lang. Giorgi hatte den Brüdern gesagt: "Wenn ich den Strick bewege, so zieht mich in die Höhe."</p>
-   <p>Die Brüder sprachen sich ab: "Wir werden immer die Diener dieses Bruders sein. Er hat uns Frauen beschafft, und er hat uns auch zu Reichtum verholfen. Wir wollen den Strick durchschneiden und ihn in die Tiefestürzen lassen.” Sie schnitten den Strick durch, an dem der Korb hing, undbegannen zu weinen: "Der Strick ist gerissen!", um die Frauen zu täuschen.</p>
-   <p>Auch die Frauen weinten natürlich, denn sie liebten Giorgi stärker als ihre Ehemänner.</p>
-   <p>Als sie sich ausgeweint hatten, brachen die beiden Brüder auf und brachten diese Frauen in ihr Haus. Unterwegs sagten sie zu den Frauen: "Wenn wir nach Hause kommen, so sagt, wenn man euch fragt, daß ihr Giorgi überhaupt nicht kennt, sonst schlagen wir euch den Kopf ab."</p>
-   <p>Sie kamen nach Hause. Mutter und Vater erkundigten sich sofort nach Giorgi. Die Brüder sagten: "Giorgi haben wir überhaupt nicht mehr gesehen, seit wir uns unterwegs getrennt haben. Erst als wir zurückkehrten,haben wir hier erfahren, daß er gestorben ist.”</p>
-   <p>Die Brüder ließen sich so prunkvoll nieder, wie es nicht einmal die Familie des Herrschers vermochte, denn sie hatten sich das angeeignet, was Giorgi erworben hatte, und waren unermeßlich reich geworden.</p>
-   <p>Giorgi war unterdessen mit dem Korb in die Unterwelt gestürzt. Hier schöpfte er Wasser. Der Strick war oben an einer Seite hängengeblieben.</p>
-   <p>Als er daran zog und ihn niemand emporholte, zerrte er daran und erkannte, daß man den Strick zerschnitten hatte.</p>
-   <p>Giorgi begriff, daß er verloren war. Als er sich umsah, bemerkte er, daß da Leute wohnten. Er machte sich auf und ging zum Haus eines Mannes.</p>
-   <p>Er trat in das Haus, grüßte ihn und bat ihn schließlich um etwas zu essen.</p>
-   <p>"Zu essen haben wir alles, aber wir haben kein Wasser", sagte der Hausherr.<pb n="108"/> </p>
-   <p>"Es gibt kein Wasser, Mann, fließt hier nicht Wasser entlang? Wenn ihr nicht in der Lage seid, es zu holen, so gebt mir ein Gefäß, und ich werde es holen", sagte Giorgi zu den Leuten.</p>
-   <p>"Dieses Wasser gehört dem Drachen. Wieviele Krüge Wasser wir holen,soviele Menschen müssen wir ihm geben. Heute ist die Tochter des Herrschers dort für den Drachen angebunden, und wir trauern um sie.”</p>
-   <p>Giorgi hörte nicht auf ihn, brachte Wasser herbei, ließ Essen zubereiten und aß. "Jetzt zeigt mir, wo das Mädchen angebunden ist", forderte er sie auf. Sie zeigten es ihm mit dem Finger: "Unter einer großen Linde steht ein Eisenpfosten, und daran ist das Mädchen festgebunden;"</p>
-   <p>Giorgi ging hin und fand tatsächlich das Mädchen, das dort angekettet war. Kaum war er dorthin gegangen, ließ er das Mädchen frei und legte sich ein wenig zur Ruhe. Dem Mädchen aber sagte er: "Nimm diesen Stein in die Hand und schlage mich auf den Kopf, sobald der Drache kommt.</p>
-   <p>Fürchte dich nicht, ich werde den Drachen töten."</p>
-   <p>Der Nachmittag näherte sich, und der Drache kam heran. Als das Mädchen ihn sah, brachte sie es nicht übers Herz, Giorgi mit dem Stein zuschlagen, sondern begann zu weinen. Die Tränen rannen auf Giorgis Gesicht, und er erwachte. Er legte sein Obergewand ab und gab es dem Mädchen. Mit seinem Dolch drang er auf den Drachen ein, verwundete und tötete ihn. Schließlich sagte er: "Laß uns zu dir nach Hause gehen."</p>
-   <p>Als das Mädchen und Giorgi nach Hause gingen, erblickte sie der Wächter am Tor des Herrschers. Man teilte dem Herrscher mit: "Irgendein Mann bringt deine Tochter her." Der Herrscher gab den Befehl: "Ich empfange meine Tochter nicht. Niemand soll sie hierherbringen, sonst lasse ich beide umbringen.”</p>
-   <p>Doch Giorgi ließ sich davon nicht beeindrucken, brachte das Mädchen zum Kabinett des Herrschers und ging hinaus. Das Mädchen ließ er beidem Vater und setzte sich selbst auf den Balkon.</p>
-   <p>Der Vater fragte das Mädchen: "Warum bist du hierhergekommen?”</p>
-   <p>Das Mädchen antwortete: "Dieser junge Mann hat den Drachen getötet und ihm den Kopf abgeschlagen. Dort liegt er. Wozu hätte ich dort warten sollen, ich bin zurückgekommen.”</p>
-   <p>Um sich zu überzeugen, ließ der Herrscher drei Männer dorthin gehen.</p>
-   <p>Diese drei Männer brachten ihm die Nachricht, daß der Drache getötet und das Volk frei war. Man könne Wasser holen, woher man wolle. Mit großer Hochachtung ging der Herrscher zu dem jungen Mann und fragte ihn: "Was soll ich dir geben? Ich will dir die Hälfte dieses Reiches geben, und wenn du willst, gebe ich es dir ganz.”</p>
-   <p>Giorgi gab zur Antwort: "Ich will weder dein Reich noch deinen Besitz. <pb n="109"/> Ich möchte ein Pferd und einen Sattel und Geld, um Kleidung zu kaufen, Mehr will ich nicht.”</p>
-   <p>Natürlich gab ihm der Herrscher das. Was er an Auslagen brauchte, Pferd und Sattel, mit allem stellte er ihn zufrieden. Natürlich aßen sie Abendbrot, und der Vater sagte zu dem Mädchen, das Giorgi zurückgebracht hatte: "Leg dich heute nacht still neben Giorgi!”</p>
-   <p>Das Mädchen und der junge Mann legten sich zu Bett, doch Giorgi berührte sie nicht. Am nächsten Morgen stand Giorgi auf und war sehr wütend über den Herrscher. "Dieses Mädchen, das du an meine Seite gelegt hast, war meine Tochter, das war meine Schwester", sagte er zu ihm, "tu mir so etwas nicht noch einmal an!" Der Herrscher entschuldigte sich bei ihm.</p>
-   <p>Schließlich verabschiedete sich Giorgi von dem Herrscher und ritt davon.</p>
-   <p>Er verließ dieses Reich und gelangte in ein anderes Reich. Er ritt den ganzen Tag über, aber nirgends war ein Mensch zu sehen. Alle Haustüren waren verschlossen, Er erblickte ein schönes Schloß, schlug das Pferd mitder Peitsche und ritt in den Schloßhof hinein. Er sprang vom Pferd, band es an und donnerte gegen die Tür. Plötzlich öffnete ein Mann die Tür und sprach: "Komm schnell herein!" Rasch trat Giorgi ein.</p>
-   <p>Es war das Haus des Herrschers, und der Herrscher fragte ihn: "Was für ein Mensch bist du, daß du tagsüber in diesem Land umherreist?"</p>
-   <p>"Am Tage unterwegs zu sein, ist doch nicht verwunderlich. Sagt mir nur,warum ihr euch heute alle hinter verschlossenen Türen versteckt habt”,sagte Giorgi.</p>
-   <p>Der Herrscher sprach: "Sieh dich um. Hinter dem Schloß hat ein Adler oben sein Nest, und zwei Junge sitzen darin. Wenn hier jemand vorübergeht, so fällt der Adler über ihn her und füttert seine Jungen mit diesen Leuten."</p>
-   <p>Giorgi sagte: "Gib mir eine Axt!”</p>
-   <p>Man gab Giorgi die Axt. Er ging hin, um den Baum zu fällen, auf dem sich das Nest des Adlers befand. Als der Adler Giorgi sah, kam er herangeflogen, um ihn zu packen. Doch Giorgi ergriff ihn und hielt ihn fest."</p>
-   <p>Töte mich nicht, Giorgi", sprach der Adler, "Gott ist mein Zeuge, daß ich das Menschengeschlecht nicht mehr bedrohen und dich in dein Land zurückführen werde.”</p>
-   <p>Giorgi ließ den Adler frei. Er kam in das Schloß und sprach zu dem Herrscher: "Gib in deinem Reich bekannt, daß jedermann sich frei bewegen kann, weil der Adler ihm nichts mehr antut." Der Herrscher überbrachte diese Nachricht natürlich, und das Reich wurde von dem Adler befreit.</p>
-   <p>"Wenn ich dich brauche, dann will ich dich rufen", sagte Giorgi zu dem Adler.</p>
-   <p>Eine Woche, fünfzehn Tage lang, hielt sich Giorgi im Schloß des Herrschers <pb n="110"/> auf. Er dachte: Ich will doch einmal den Adler fragen, der zu mir gesagt hat, er werde mir mein Haus zeigen. Er ging zu dem Adler, der Adler erblickte ihn und kam zu ihm herabgeflogen. Giorgi fragte den Adler: "Du hast mir doch gesagt, du wirst mir mein Haus zeigen. Wie kannst du denn das vollbringen, das möchte ich von dir erfahren.”</p>
-   <p>Der Adler sprach zu Giorgi: "Beschaffe mir einen großen Korb, in den zweitausend zerlegte Ochsen passen, bindet ihn mir mit Ketten auf den Rücken, und ich will dich in die Oberwelt bringen."</p>
-   <p>Giorgi kam zu dem Herrscher und sprach: "Gib mir zweitausend Ochsen,einen Korb mußt du mir beschaffen, so und so verhält sich meine Sache.</p>
-   <p>Ich will in mein Land zurückkehren, der Adler hat es mir versprochen."</p>
-   <p>Man stellte Giorgi alles für den bestimmten Tag bereit. An dem vereinbarten Tag kam der Adler, lud sich den Korb auf, Giorgi setzte sich daneben, es wurde alles festgebunden, und der Adler flog in die Höhe. Wieoft er mit dem Flügel schlug, soviel Pud Fleisch legte ihm Giorgi in den Schnabel.</p>
-   <p>Der Adler flog empor und setzte ihn in seinem Land ab, er selbst kehrt ein sein eigenes Land zurück. Der junge Mann blieb oben, sie verabschiedeten sich voneinander. Giorgi begab sich nach Hause. Es war Abend. Er kam an das Tor und rief: "Hausherr!”</p>
-   <p>Von drinnen riefen sie: "Was wünschen Sie?"</p>
-   <p>"Die Nacht hat mich unterwegs überrascht, könnt ihr mich nicht diese Nacht hier beherbergen?"</p>
-   <p>"Kommen Sie herein, mein Herr", erhielt er zur Antwort.</p>
-   <p>Giorgi trat ein. Er grüßte die Mutter, den Vater und die Schwägerinnen.</p>
-   <p>Die Brüder waren nicht zu Hause. Er setzte sich, und sie unterhielten sich.</p>
-   <p>Der Vater wußte nicht, daß dies sein Sohn war, und Giorgi fragte ihn:"Warum trägst du schwarze Kleidung?"</p>
-   <p>"Ich hatte drei Söhne, alle drei sind ausgezogen, um etwas zu verdienen.</p>
-   <p>Der beste meiner Söhne hieß Giorgi, und es heißt, daß er gestorben ist. Er ist verschollen, er ist gestorben, sagt man", erklärte der Vater dem Sohn."</p>
-   <p>Die anderen Brüder wußten nichts vom Tod Giorgis und haben ihm eine Frau mitgebracht. Diese hier ist seine Braut”, und er streckte seine Hand nach dem einen Mädchen aus. Mutter und Vater hatten ihren Sohn Giorgi noch nicht erkannt.</p>
-   <p>Giorgi fragte alle drei Mädchen, als sie an den Tisch kamen und sich setzen wollten: “"Wessen Töchter seid ihr?”</p>
-   <p>Die erste antwortete: "Ich bin die Tochter eines Riesen."</p>
-   <p>Jetzt kamen auch Giorgis Brüder und hörten die Frage. "Ich hatte zwölf Brüder Riesen, da kam Giorgi, hat sie getötet und zu mir gesagt: Ich will dich als Schwägerin, und er hat mich mitgenommen.” <pb n="111"/></p>
-   <p>Er fragte die Frau des zweiten Bruders: "Wer sind Sie?"</p>
-   <p>"Ich bin die Tochter eines Riesen”, sagle sie, "Giorgi ist gekommen und hat mir die Schere weggenommen. Er hat meine Brüder getötet und mich hierhergebracht."</p>
-   <p>Mutter und Vater sprachen zu ihnen: "Was ist, warum habt ihr uns gesagt, ihr hättet Giorgi nicht gesehen?"</p>
-   <p>"Die Burschen haben uns gedroht: Sagt es nicht, sonst bringen wir euch um.”</p>
-   <p>Da gab Giorgi zu erkennen, daß er selbst Giorgi war, und sagte zu seinen Brüdern: "Ich verzeihe euch um dieser Schwägerinnen willen!"</p>
-   <p>Es wurde ein Fest veranstaltet und herrschte große Freude. Nichts fehlte,nicht einmal Kanonen.</p>
-   <p>Gestern war ich dort, und heute bin ich hier.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">14. Aleksandre und Dawit</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_19.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+          <district ref="https://www.geonames.org/614378/gulripshi-district.html">Gulripshi</district>
+          <settlement ref="https://www.geonames.org/614863/dranda.html">Dranda</settlement>
+          <geo/>
+        </placeName>
+        <date when="1933">1933</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Pila</forename>
+            <surname>Izoria</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date when="1888"/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_19">
+    <body>
+      <head>Aleksandre und Dawit</head>
+      <p>Es waren einmal eine Frau und ihr Mann, die beide schon alt waren. Sie hatten drei Söhne. Sie lebten in Armut, und die Söhne kamen überein,fortzuziehen, um Geld zu verdienen. Sie buken Hirsebrot und bereiteten sich Wegzehrung, brachen auf und zogen los. Sie liefen heute, morgen,fünfzehn, zwanzig Tage lang, und erreichten einen Ort, an dem sich drei Wege trafen und wo kein Mensch in der Nähe wohnte. Am Anfang des Weges war ein Pfosten eingeschlagen, an den drei Wegen standen drei Pfosten.</p>
+      <p>Auf dem einen stand geschrieben: &quot;Wer den ersten Weg nimmt, der wird Reichtum gewinnen.” Auf dem zweiten stand: &quot;Wer den zweiten Wegnimmt, wird gleichfalls Reichtum gewinnen.&quot; Auf dem dritten war geschrieben: &quot;Wer diesen dritten Weg zieht, der wird dorthin gelangen, aber nicht mehr zurückkehren.&quot;</p>
+      <p>Der älteste Bruder hieß Aleksandre, der mittlere Dawit, der jüngste Giorgi. Dawit und Aleksandre wählten die guten Wege, wo sie Wohlstand erwartete. Giorgi nahm den elenden Weg. Giorgi vereinbarte mit Aleksandre und Dawit: &quot;Wer zuerst hier vorüberkommt und nach Hause zurückkehrt, der soll hier anschreiben: Ich bin nach Hause gezogen.&quot;</p>
+      <p>Sie verabschiedeten sich voneinander, und Giorgi nahm den elenden Weg. Er lief und traf nach langer Zeit auf eine Hütte, wo eine alte Frauwohnte. Er ging hinein und bat sie um etwas zu essen. Sie gab es ihm, un der fragte: &quot;Wohin führt dieser Weg?&quot;</p>
+      <p>
+        &quot;Wenn du diesen Weg gehst, kommst du nach anderthalb Kilometern zu den zwölf Brüdern Riesen. Sie haben ein zwölf stöckiges Haus, das von einer Mauer umgeben ist, die mit einem Tor versehen ist, das kein Mensch 
+        <pb n="104"/>
+         öffnen kann, sondern nur die zwölf Brüder Riesen gemeinsam. Sie haben eine Schwester.&quot;
+      </p>
+      <p>Giorgi sprach zu ihr: &quot;Das ist meine Aufgabe.&quot; Er nahm Abschied von der Frau und sagte: &quot;In einem Monat kehre ich zurück. Warte auf mich.”</p>
+      <p>Giorgi begab sich zu der Familie der Riesen. Er öffnete das Tor, das die zwölf Brüder gemeinsam aufmachen konnten, allein und trat in das Haus.</p>
+      <p>Das Mädchen sagte zu ihm: &quot;Es ist besser, wenn du wieder fortgehst, denn wenn meine Brüder kommen, werden sie dich töten.”</p>
+      <p>Giorgi meinte: &quot;Vielleicht werde ich sie töten, das wollen wir erst einmal sehen.”</p>
+      <p>Nach kurzer Zeit kam ein Bruder Riese. Er fing mit Giorgi Streit an, und Giorgi erschlug alle zwölf Brüder Riesen. Giorgi und das Mädchen blieben allein in diesem Haus. Das Mädchen bereitete Giorgi natürlich das Abendbrot, machte das Bett, und sie legten sich beide hin. Giorgi löste seinen Dolch und legte ihn in die Mitte zwischen sich und das Mädchen. So verbrachten sie eine Woche da. Der Weg, den Giorgi gewählt hatte, führte noch weiter über den Hof hinaus, und er fragte das Mädchen: &quot;Wohin führt dieser Weg?&quot;</p>
+      <p>Das Mädchen antwortete: &quot;Wenn du zehn Meilen weit gehst, lebt dort die Tochter eines Riesen. Sie besitzt eine Schere, wenn sie die klappern Jäßt, schneidet sie einem Mann sofort den Kopf ab. Im Hof dieses Mädchens stehen dreihundertsechzig Pfähle. Auf allen ist ein Menschenkopf aufgespießt mit Ausnahme von einem. Wenn du dort hingehst, wird sie dich ebenso töten und deinen Kopf auf den Pfahl stecken. Geh nicht hin, es ist besser für dich.”</p>
+      <p>Giorgi erwiderte: &quot;Das ist meine Sache.&quot; Er hörte nicht auf das Mädchen und brach auf.</p>
+      <p>Im Haus dieses Mädchens gab es viel Gold, und er trug dem Mädchen auf: &quot;In einem Monat kehre ich zurück. Halte das Gepäck bereit.&quot; Giorgi machte sich auf und lief zum Haus des Mädchens. Als er zum Tor kam,waren dort wirklich, wie es das Mädchen gesagt hatte, Köpfe aufgespießt.</p>
+      <p>Doch er stieß das Tor auf und schritt hinein. Als er nach vorn blickte,spielte auf dem Balkon ein Mädchen Gitarre. Sie sah ihn und dachte: Das ist ein Fremder, ich will erst mit ihm reden und ihm dann den Kopf abschneiden.</p>
+      <p>Giorgi stieg auf den Balkon hinauf. Auf dem Tisch im Saal sah er die Schere des Mädchens liegen, nahm sie und steckte sie in seine Tasche.</p>
+      <p>
+        Das Mädchen sprach zu ihm: &quot;Wer mir diese Schere weggenommen hat,der muß mein Mann sein.&quot; Natürlich blieben Giorgi und das Mädchen in dieser Nacht hier. Sie aßen Abendbrot und legten sich schlafen. Wie beidem ersten Mädchen legte er auch hier den Dolch so, daß sie sich nicht im 
+        <pb n="105"/>
+         mindesten mit dem Körper berühren konnten.
+      </p>
+      <p>Nach einer Woche fragte Giorgi das Mädchen: &quot;Wohin führt dieser Weg?&quot;</p>
+      <p>&quot;Das ist für dich nicht nötig. Noch nie ist ein Mensch, der von hier aufgebrochen ist, von dort zurückgekehrt”, sagte sie.</p>
+      <p>Giorgi entgegnete: &quot;Bevor dieser Weg kein Ende nimmt, muß ich immerweitergehen., Das habe ich mir geschworen.”</p>
+      <p>Das Mädchen sprach: &quot;Da du nicht hörst, will ich dir sagen, was dich dort erwartet: Wenn du von hier aus zehn, fünfzehn Meilen zurücklegst, lebt dort Kashandem mit seinen fünfundzwanzig Söhnen. Sie wohnen in einemfünfundzwanzigstöckigen Haus mit einer Tür, die nur die fünfundzwanzig Brüder zusammen oder Kashandem allein öffnen können und sonst niemand, Meine Schere schneidet ihnen allen die Köpfe ab, nur für Kashandem taugt sie nicht und zerbricht. Gebrauche sie nicht unnütz!”</p>
+      <p>Trotzdem brach Giorgi auf. Er ging hin und öffnete allein die Tür, die die fünfundzwanzig Männer nur gemeinsam öffnen konnten. Die fünfundzwanzig Räume waren sämtlich mit einem Schloß verschlossen, und Giorgi brach sie alle auf. Im obersten Zimmer traf er ein wunderschönes Mädchenan. Da Giorgi ein stattlicher Bursche war, war das Mädchen traurig, ihn hier zu sehen: &quot;Es ist besser, wenn du fortgehst&quot;, sagte sie, &quot;weshalb willst du dich ins Verderben stürzen.”</p>
+      <p>Doch Giorgi erwiderte: &quot;Ich werde all deine Brüder und deinen Vater töten. Ich und du, wir werden Mann und Frau sein.&quot;</p>
+      <p>Als sie ihr Gespräch beendet hatten, stieg Giorgi in das untere Stockwerkhinab. Da kam einer der Riesenbrüder. Als er das Tor geöffnet sah, schrie er: &quot;Wer hat diese Tür geöffnet, wenn es nicht Giorgi gewesen ist!&quot;</p>
+      <p>&quot;Ja&quot;, sagte Giorgi, &quot;ich bin gekommen.&quot;</p>
+      <p>Und er schnitt dem Riesen mit der Schere den Kopf ab. Einzeln und zu zweien schnitt er allen fünfundzwanzig Brüdern mit der Schere den Kopfab. Schließlich kam Kashandem. Als er sah, daß seine Söhne tot waren, zog er seinen Dolch. Der Dolch Giorgis war klein, der des Riesen groß. Giorgi rief Kashandem zu: &quot;Mit Dolchen zu kämpfen, ist doch nicht mannhaft.&quot;</p>
+      <p>
+        Und er löste seinen Dolch und warf ihn fort. Der Riese schämte sich und warf seinen Dolch gleichfalls fort. Sie packten sich kräftig mit den Händen und rangen tags, nachts und am nächsten Tag. Drei Tage und drei Nächte kämpften sie miteinander. Dann tötete Giorgi Kashandem. Müde stieg er zu dem Zimmer hinauf, wo das Mädchen wohnte. Das Mädchen freute sichnatürlich, daß der junge Mann am Leben geblieben war. Sie ließ ihn baden,wechselte ihm die Kleider, und als sie zu Abend gegessen hatten, legten sie sich zu Bett. Sie tauschten ihre Ringe aus. Auf dem Ring des Mädchens waren ihr Name und Vorname geschrieben. 
+        <pb n="106"/>
+      </p>
+      <p>Eine Woche lang lebten sie hier. Nach einer Woche packten sie alles, was an Sachen, Geld und Gold da war, zusammen und nahmen es mit. Und noch zwölf Pferdelasten Geld nahmen sie mit. Sie brachen auf und rittenlos und kamen dorthin, wo ihm die alte Frau Essen gegeben hatte. Giorgitraf sie lebend an und nahm auch sie mit. Er brach wieder auf und rittheimwärts. Sie gelangten an die Stelle, wo sich die drei Wege trafen. Giorgisah sich die Pfähle an, doch auf keinem stand geschrieben, daß sie nach Hause zurückgekehrt wären. Giorgi sagte zu dem Mädchen: &quot;Auf diesen Wegen sind meine Brüder fortgegangen. Bleibt hier, bis ich zurückkehre.”</p>
+      <p>Er fragte hier nach seinem Bruder Aleksandre, doch niemand konnte ihm sagen, wo er sich aufhielt. Schließlich gelangte er auf ein großes Feld,wo viele Buchen standen, Unten im Wald hielten sich Schweine auf, und ein Mann schlug Bucheckern herunter, wozu er auf den Baum geklettert war. Giorgi dachte: Den will ich auch fragen. Als er hinging und ihn ansah,war es sein leiblicher Bruder Aleksandre!</p>
+      <p>&quot;Junge, was wolltest du hier&quot;, sagte er zu ihm.</p>
+      <p>&quot;Ich stehe als Tagelöhner bei dem Mann im Dienst und hüte die Schweine. Hundert Maneti gibt er mir im Jahr.&quot;</p>
+      <p>Giorgi sprach: &quot;Laß die Schweine und komm mit mir.”</p>
+      <p>Aleksandre wollte nicht auf ihn hören, doch Giorgi nahm seinen Bruder mit. Er brachte ihn in die Stadt, stattete ihn mit guter Kleidung aus, kaufte ihm ein Pferd und sagte zu ihm: &quot;Nimm diesen Weg, dort befinden sich meine Sachen und meine Frauen. Bleib du dort, und ich will losziehen, ummeinen zweiten Bruder Dawit zu suchen,”</p>
+      <p>Aleksandre ritt dorthin, wo sich die Mädchen aufhielten. Giorgi brach in jenes Land auf, wo sein zweiter Bruder Dawit war. Er gelangte dorthin und fragte alle nach seinem Bruder Dawit. Aber niemand konnte ihm den Wegweisen. Schließlich kam er in einen großen Dattelbaumwald. Dort schüttelte ein Mann den Gänsen Wilddatteln herab. Als er hinging, fand er da nicht seinen Bruder Dawit?!</p>
+      <p>&quot;Komm mit mir&quot;, sagte er zu ihm.</p>
+      <p>Dawit entgegnete: &quot;Drei Jahre lang diene ich schon diesem Mann. Ich bekomme dreihundert Maneti.&quot;</p>
+      <p>
+        Doch Giorgi hörte nicht auf ihn, nahm ihn mit und brachte ihn in die Stadt. Hier stattete er ihn mit Kleidung, einem Pferd und einem Sattel aus und nahm ihn zu Pferde mit. Sie kamen dorthin, wo Giorgi diese Frauen zurückgelassen hatte. Zuerst sagte er zu dem Mädchen, dessen zwölf Brüder Riesen er getötet hatte: &quot;Du bist die Frau meines ältesten Bruders Aleksandre.&quot; Und er stellte sie ihm zur Seite. Dann stellte er das Mädchen,das die Schere besaß, seinem mittleren Bruder Dawit an die Seite und sprach: &quot;Dies ist deine Frau!&quot; 
+        <pb n="107"/>
+      </p>
+      <p>&quot;Brüder&quot;, sagte er zu ihnen, &quot;dies sind fünfundzwanzig Pferdelasten Gold und Brillanten, und wenn ihr nach Hause kommt und Mutter und Vater am Leben sind, so sagt ihnen: Seht, wir sind dem Elend entronnen.”</p>
+      <p>Sie brachen auf und machten sich auf die Heimreise, Sie ritten heute und morgen und kamen in ein Land, in dem kein Mensch in der Nähe lebte.</p>
+      <p>Hier bekamen sie solchen Durst, daß sie ihn nicht mehr ertragen konnten.</p>
+      <p>Im Schatten eines Baumes schlugen sie ihr Lager auf und wollten irgendwo nach Trinkwasser suchen. Da sahen sie eine zehn Meter breite Grube und auf dem Grund Wasser irgendwohin in die Ferne fließen. Sie mußten einen Korb flechten, ein Bruder mußte hinabgelassen werden und das Wasser heraufholen. Sie flochten den Korb und banden einen Strick daran. Niemand außer Giorgi wagte es, da hinabzusteigen. Giorgi setzte sich in den Korb, nahm den Krug und ließ sich hinab. Er sank tiefer und tiefer, die Brüder hielten den Strick. Der Strick war lang. Giorgi hatte den Brüdern gesagt: &quot;Wenn ich den Strick bewege, so zieht mich in die Höhe.&quot;</p>
+      <p>Die Brüder sprachen sich ab: &quot;Wir werden immer die Diener dieses Bruders sein. Er hat uns Frauen beschafft, und er hat uns auch zu Reichtum verholfen. Wir wollen den Strick durchschneiden und ihn in die Tiefestürzen lassen.” Sie schnitten den Strick durch, an dem der Korb hing, undbegannen zu weinen: &quot;Der Strick ist gerissen!&quot;, um die Frauen zu täuschen.</p>
+      <p>Auch die Frauen weinten natürlich, denn sie liebten Giorgi stärker als ihre Ehemänner.</p>
+      <p>Als sie sich ausgeweint hatten, brachen die beiden Brüder auf und brachten diese Frauen in ihr Haus. Unterwegs sagten sie zu den Frauen: &quot;Wenn wir nach Hause kommen, so sagt, wenn man euch fragt, daß ihr Giorgi überhaupt nicht kennt, sonst schlagen wir euch den Kopf ab.&quot;</p>
+      <p>Sie kamen nach Hause. Mutter und Vater erkundigten sich sofort nach Giorgi. Die Brüder sagten: &quot;Giorgi haben wir überhaupt nicht mehr gesehen, seit wir uns unterwegs getrennt haben. Erst als wir zurückkehrten,haben wir hier erfahren, daß er gestorben ist.”</p>
+      <p>Die Brüder ließen sich so prunkvoll nieder, wie es nicht einmal die Familie des Herrschers vermochte, denn sie hatten sich das angeeignet, was Giorgi erworben hatte, und waren unermeßlich reich geworden.</p>
+      <p>Giorgi war unterdessen mit dem Korb in die Unterwelt gestürzt. Hier schöpfte er Wasser. Der Strick war oben an einer Seite hängengeblieben.</p>
+      <p>Als er daran zog und ihn niemand emporholte, zerrte er daran und erkannte, daß man den Strick zerschnitten hatte.</p>
+      <p>Giorgi begriff, daß er verloren war. Als er sich umsah, bemerkte er, daß da Leute wohnten. Er machte sich auf und ging zum Haus eines Mannes.</p>
+      <p>Er trat in das Haus, grüßte ihn und bat ihn schließlich um etwas zu essen.</p>
+      <p>
+        &quot;Zu essen haben wir alles, aber wir haben kein Wasser&quot;, sagte der Hausherr.
+        <pb n="108"/>
+      </p>
+      <p>&quot;Es gibt kein Wasser, Mann, fließt hier nicht Wasser entlang? Wenn ihr nicht in der Lage seid, es zu holen, so gebt mir ein Gefäß, und ich werde es holen&quot;, sagte Giorgi zu den Leuten.</p>
+      <p>&quot;Dieses Wasser gehört dem Drachen. Wieviele Krüge Wasser wir holen,soviele Menschen müssen wir ihm geben. Heute ist die Tochter des Herrschers dort für den Drachen angebunden, und wir trauern um sie.”</p>
+      <p>Giorgi hörte nicht auf ihn, brachte Wasser herbei, ließ Essen zubereiten und aß. &quot;Jetzt zeigt mir, wo das Mädchen angebunden ist&quot;, forderte er sie auf. Sie zeigten es ihm mit dem Finger: &quot;Unter einer großen Linde steht ein Eisenpfosten, und daran ist das Mädchen festgebunden;&quot;</p>
+      <p>Giorgi ging hin und fand tatsächlich das Mädchen, das dort angekettet war. Kaum war er dorthin gegangen, ließ er das Mädchen frei und legte sich ein wenig zur Ruhe. Dem Mädchen aber sagte er: &quot;Nimm diesen Stein in die Hand und schlage mich auf den Kopf, sobald der Drache kommt.</p>
+      <p>Fürchte dich nicht, ich werde den Drachen töten.&quot;</p>
+      <p>Der Nachmittag näherte sich, und der Drache kam heran. Als das Mädchen ihn sah, brachte sie es nicht übers Herz, Giorgi mit dem Stein zuschlagen, sondern begann zu weinen. Die Tränen rannen auf Giorgis Gesicht, und er erwachte. Er legte sein Obergewand ab und gab es dem Mädchen. Mit seinem Dolch drang er auf den Drachen ein, verwundete und tötete ihn. Schließlich sagte er: &quot;Laß uns zu dir nach Hause gehen.&quot;</p>
+      <p>Als das Mädchen und Giorgi nach Hause gingen, erblickte sie der Wächter am Tor des Herrschers. Man teilte dem Herrscher mit: &quot;Irgendein Mann bringt deine Tochter her.&quot; Der Herrscher gab den Befehl: &quot;Ich empfange meine Tochter nicht. Niemand soll sie hierherbringen, sonst lasse ich beide umbringen.”</p>
+      <p>Doch Giorgi ließ sich davon nicht beeindrucken, brachte das Mädchen zum Kabinett des Herrschers und ging hinaus. Das Mädchen ließ er beidem Vater und setzte sich selbst auf den Balkon.</p>
+      <p>Der Vater fragte das Mädchen: &quot;Warum bist du hierhergekommen?”</p>
+      <p>Das Mädchen antwortete: &quot;Dieser junge Mann hat den Drachen getötet und ihm den Kopf abgeschlagen. Dort liegt er. Wozu hätte ich dort warten sollen, ich bin zurückgekommen.”</p>
+      <p>Um sich zu überzeugen, ließ der Herrscher drei Männer dorthin gehen.</p>
+      <p>Diese drei Männer brachten ihm die Nachricht, daß der Drache getötet und das Volk frei war. Man könne Wasser holen, woher man wolle. Mit großer Hochachtung ging der Herrscher zu dem jungen Mann und fragte ihn: &quot;Was soll ich dir geben? Ich will dir die Hälfte dieses Reiches geben, und wenn du willst, gebe ich es dir ganz.”</p>
+      <p>
+        Giorgi gab zur Antwort: &quot;Ich will weder dein Reich noch deinen Besitz. 
+        <pb n="109"/>
+         Ich möchte ein Pferd und einen Sattel und Geld, um Kleidung zu kaufen, Mehr will ich nicht.”
+      </p>
+      <p>Natürlich gab ihm der Herrscher das. Was er an Auslagen brauchte, Pferd und Sattel, mit allem stellte er ihn zufrieden. Natürlich aßen sie Abendbrot, und der Vater sagte zu dem Mädchen, das Giorgi zurückgebracht hatte: &quot;Leg dich heute nacht still neben Giorgi!”</p>
+      <p>Das Mädchen und der junge Mann legten sich zu Bett, doch Giorgi berührte sie nicht. Am nächsten Morgen stand Giorgi auf und war sehr wütend über den Herrscher. &quot;Dieses Mädchen, das du an meine Seite gelegt hast, war meine Tochter, das war meine Schwester&quot;, sagte er zu ihm, &quot;tu mir so etwas nicht noch einmal an!&quot; Der Herrscher entschuldigte sich bei ihm.</p>
+      <p>Schließlich verabschiedete sich Giorgi von dem Herrscher und ritt davon.</p>
+      <p>Er verließ dieses Reich und gelangte in ein anderes Reich. Er ritt den ganzen Tag über, aber nirgends war ein Mensch zu sehen. Alle Haustüren waren verschlossen, Er erblickte ein schönes Schloß, schlug das Pferd mitder Peitsche und ritt in den Schloßhof hinein. Er sprang vom Pferd, band es an und donnerte gegen die Tür. Plötzlich öffnete ein Mann die Tür und sprach: &quot;Komm schnell herein!&quot; Rasch trat Giorgi ein.</p>
+      <p>Es war das Haus des Herrschers, und der Herrscher fragte ihn: &quot;Was für ein Mensch bist du, daß du tagsüber in diesem Land umherreist?&quot;</p>
+      <p>&quot;Am Tage unterwegs zu sein, ist doch nicht verwunderlich. Sagt mir nur,warum ihr euch heute alle hinter verschlossenen Türen versteckt habt”,sagte Giorgi.</p>
+      <p>Der Herrscher sprach: &quot;Sieh dich um. Hinter dem Schloß hat ein Adler oben sein Nest, und zwei Junge sitzen darin. Wenn hier jemand vorübergeht, so fällt der Adler über ihn her und füttert seine Jungen mit diesen Leuten.&quot;</p>
+      <p>Giorgi sagte: &quot;Gib mir eine Axt!”</p>
+      <p>Man gab Giorgi die Axt. Er ging hin, um den Baum zu fällen, auf dem sich das Nest des Adlers befand. Als der Adler Giorgi sah, kam er herangeflogen, um ihn zu packen. Doch Giorgi ergriff ihn und hielt ihn fest.&quot;</p>
+      <p>Töte mich nicht, Giorgi&quot;, sprach der Adler, &quot;Gott ist mein Zeuge, daß ich das Menschengeschlecht nicht mehr bedrohen und dich in dein Land zurückführen werde.”</p>
+      <p>Giorgi ließ den Adler frei. Er kam in das Schloß und sprach zu dem Herrscher: &quot;Gib in deinem Reich bekannt, daß jedermann sich frei bewegen kann, weil der Adler ihm nichts mehr antut.&quot; Der Herrscher überbrachte diese Nachricht natürlich, und das Reich wurde von dem Adler befreit.</p>
+      <p>&quot;Wenn ich dich brauche, dann will ich dich rufen&quot;, sagte Giorgi zu dem Adler.</p>
+      <p>
+        Eine Woche, fünfzehn Tage lang, hielt sich Giorgi im Schloß des Herrschers 
+        <pb n="110"/>
+         auf. Er dachte: Ich will doch einmal den Adler fragen, der zu mir gesagt hat, er werde mir mein Haus zeigen. Er ging zu dem Adler, der Adler erblickte ihn und kam zu ihm herabgeflogen. Giorgi fragte den Adler: &quot;Du hast mir doch gesagt, du wirst mir mein Haus zeigen. Wie kannst du denn das vollbringen, das möchte ich von dir erfahren.”
+      </p>
+      <p>Der Adler sprach zu Giorgi: &quot;Beschaffe mir einen großen Korb, in den zweitausend zerlegte Ochsen passen, bindet ihn mir mit Ketten auf den Rücken, und ich will dich in die Oberwelt bringen.&quot;</p>
+      <p>Giorgi kam zu dem Herrscher und sprach: &quot;Gib mir zweitausend Ochsen,einen Korb mußt du mir beschaffen, so und so verhält sich meine Sache.</p>
+      <p>Ich will in mein Land zurückkehren, der Adler hat es mir versprochen.&quot;</p>
+      <p>Man stellte Giorgi alles für den bestimmten Tag bereit. An dem vereinbarten Tag kam der Adler, lud sich den Korb auf, Giorgi setzte sich daneben, es wurde alles festgebunden, und der Adler flog in die Höhe. Wieoft er mit dem Flügel schlug, soviel Pud Fleisch legte ihm Giorgi in den Schnabel.</p>
+      <p>Der Adler flog empor und setzte ihn in seinem Land ab, er selbst kehrt ein sein eigenes Land zurück. Der junge Mann blieb oben, sie verabschiedeten sich voneinander. Giorgi begab sich nach Hause. Es war Abend. Er kam an das Tor und rief: &quot;Hausherr!”</p>
+      <p>Von drinnen riefen sie: &quot;Was wünschen Sie?&quot;</p>
+      <p>&quot;Die Nacht hat mich unterwegs überrascht, könnt ihr mich nicht diese Nacht hier beherbergen?&quot;</p>
+      <p>&quot;Kommen Sie herein, mein Herr&quot;, erhielt er zur Antwort.</p>
+      <p>Giorgi trat ein. Er grüßte die Mutter, den Vater und die Schwägerinnen.</p>
+      <p>Die Brüder waren nicht zu Hause. Er setzte sich, und sie unterhielten sich.</p>
+      <p>Der Vater wußte nicht, daß dies sein Sohn war, und Giorgi fragte ihn:&quot;Warum trägst du schwarze Kleidung?&quot;</p>
+      <p>&quot;Ich hatte drei Söhne, alle drei sind ausgezogen, um etwas zu verdienen.</p>
+      <p>Der beste meiner Söhne hieß Giorgi, und es heißt, daß er gestorben ist. Er ist verschollen, er ist gestorben, sagt man&quot;, erklärte der Vater dem Sohn.&quot;</p>
+      <p>Die anderen Brüder wußten nichts vom Tod Giorgis und haben ihm eine Frau mitgebracht. Diese hier ist seine Braut”, und er streckte seine Hand nach dem einen Mädchen aus. Mutter und Vater hatten ihren Sohn Giorgi noch nicht erkannt.</p>
+      <p>Giorgi fragte alle drei Mädchen, als sie an den Tisch kamen und sich setzen wollten: “&quot;Wessen Töchter seid ihr?”</p>
+      <p>Die erste antwortete: &quot;Ich bin die Tochter eines Riesen.&quot;</p>
+      <p>
+        Jetzt kamen auch Giorgis Brüder und hörten die Frage. &quot;Ich hatte zwölf Brüder Riesen, da kam Giorgi, hat sie getötet und zu mir gesagt: Ich will dich als Schwägerin, und er hat mich mitgenommen.” 
+        <pb n="111"/>
+      </p>
+      <p>Er fragte die Frau des zweiten Bruders: &quot;Wer sind Sie?&quot;</p>
+      <p>&quot;Ich bin die Tochter eines Riesen”, sagle sie, &quot;Giorgi ist gekommen und hat mir die Schere weggenommen. Er hat meine Brüder getötet und mich hierhergebracht.&quot;</p>
+      <p>Mutter und Vater sprachen zu ihnen: &quot;Was ist, warum habt ihr uns gesagt, ihr hättet Giorgi nicht gesehen?&quot;</p>
+      <p>&quot;Die Burschen haben uns gedroht: Sagt es nicht, sonst bringen wir euch um.”</p>
+      <p>Da gab Giorgi zu erkennen, daß er selbst Giorgi war, und sagte zu seinen Brüdern: &quot;Ich verzeihe euch um dieser Schwägerinnen willen!&quot;</p>
+      <p>Es wurde ein Fest veranstaltet und herrschte große Freude. Nichts fehlte,nicht einmal Kanonen.</p>
+      <p>Gestern war ich dort, und heute bin ich hier.</p>
+    </body>
+  </text>
 </TEI>

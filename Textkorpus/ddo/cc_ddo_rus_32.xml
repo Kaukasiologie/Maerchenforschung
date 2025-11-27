@@ -1,196 +1,198 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">МАТЬ И ТРИ ДОЧЕРИ</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a403 Die schwarze und die weisse Braut</item>
-      <item>a425A Das Ungeheuer (Tier) als Bräutigam</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_32.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_32">
-  <body>
-   <head>МАТЬ И ТРИ ДОЧЕРИ</head>
-   <p>Жила одна мать и три ее дочери. Однажды они пошли в лес ^Л1.\.за дровами. К вечеру они возвращались с охапками дров, и, когда мать сказала, что ей тяжело тащитъ охапку, дочери сказали: «Вытащи из охапки один толстый сук и выброси». Положив на землю охапку, она вытащила самый толстый сук и выбросила. Тот превратился в змею и, не отставая, двигался за ними. Змея пугала мать: «Если ты мне не дашь свою дочъ, я тебя убью».</p>
-   <p>Не зная, что делать, мать спросила старшую дочь: «Не выйдешь ли за змею?» Когда она отказалась, спросила среднюю, и та не согласилась. Когда младшую дочь спросила, та сказала матери, что готова в любое время делать то, что она хочет. Оттуда же они, впереди змея, за пей девушка, отправились в путь в змеиный дом. Через некоторое время, когда они пришли в то место, где дорога раздваивается, девушка пошла по одной дороге, а змея по другой. Долго она шла по этой дороге, дошла до какого-то дома и зашла внутрь. Там она увидела красивого юношу, сидящего за столом. У дивленная девушка смотрела: «Это во сне, что ли?» В тот же день они сыграли свадьбу. Они. жили счастливо. Через год у них родился сын. Со временем девушке захотелось навестить свою матъ и сестер. Она попросила разрешения пойти навестить семью у своего мужа. Он позволил остаться там на три месяца, чтобы ей хватило побывать там и вернуться обратно. На следующий же день она взяла с собой сына и пошла к матери.</p>
-   <p>Когда она пробыла в семье два месяца, мать стала настаивать: «Возвращайся домой, а то мужу не понравится». Старшая дочь упорно просила матъ: «Дай мне пойти вместе с ней, чтобы ее провожать». Рассердившись, мать сказала: «Почему тогда не пошла, когда я тебя отправляла?» Матъ все же отпустила ее, так как она настойчиво просила: «Провожу ее и вернусь обратно».</p>
-   <p>Обе сестры отправились в путь. Сына несла старшая дочь. Ущипнув, она заставила ребенка плакатъ. Мать спросила: «Почему он плачет?» Та сказала: «Он хочет твою косынку». Потом опятъ старшая сестра ущипнула и заставила плакатъ мальчика. Мать спросила: «Что ему теперь захотелось?» Старшая сестра ответила: «Он плачет, желая, чтобы мы обменялись платьями». Обе сестры по пути поменяли платье. В третий раз она ущипнула мальчика, и тот заплакал. Мать поинтересовалась снова: «Чего же еще он хочет?» Старшая сестра сказала: «Он плачет, потому что хочет, белый цветок, который находится на море». Мать пошла к берегу моря, нагнулась, чтобы сорвать тот цветок, а старшая сестра столкнула ее. в море, забрала с собой мальчика и пошла в дом младшей сестры.</p>
-   <p>Когда пришла домой, мать мужа сказала ей: «Ударъ кувшин о стенку». Та ударила о стенку кувшин. Потом отправила ее отрезать вымя коровы. Она пошла, отрезала вымя коровы и вернулась. Глядя на ее поведение, сын сказал матери: «Это не моя жена, это, наверное, другая женщина». «Терпи, со временем узнаем», - сказала мать.</p>
-   <p>Маленький мальчик повзрослел и вот-вот станет юношей. Поднявшись на гору и пустив коров на пастбище, он сел отдохнуть. Вдруг неизвестно откуда появилась птица и начала разговаривать с ним на человеческом языке: «Я не родила тебя, чтобы ты пас коров, но теперь делать нечего». Сказав это, исчезла с глаз. В тот день мальчик потерял коров. Отец слегка выругал сына: «Почему потерял коров?» Тот вынужден был солгать отцу: заснул, мол. «Больше не делай так, чтобы другие тебя ругали», - сказав, ограничился этим отец.</p>
-   <p>Когда на следующий день отправили сына пасти коров, опятъ появилась птица и говорила мальчику: «Я не родила тебя, чтобы ты пас коров, но теперь делать нечего». Сказав это, исчезла с глаз. В тот. день мальчик опять потерял коров. Когда пришел домой, потеряв коров, на этот раз отец его отругал. Сын рассказал отцу о том, что произошло: «Передо мной появилась птица и заговорила человеческим, языком, мол, я не родила тебя, чтобы ты пас коров, но теперь делать нечего, и исчезала с глаз». Отец сидел молча.</p>
-   <p>На следующий день пасти коров вместе с сыном пошел и отец. Когда, отец и сын поднимались на гору, на дереве появилась птица и начала так же разговаривать. Отец сказал: «Если ты человек, иди ко мне, если нет, не издевайся над нами и уходи». Как только это он сказал, птица, спрыгнула, с дерева и. подошла к. отцу. Он взял е.е, забрал домой и пустил в курятник. Старшая сестра, говоря, нашел, мол, тоже, выпустила ее из курятника и бросила на землю. Та превратилась в ножницы. «Они мне понадобятся», - сказав, старшая сестра подобрала их и положила в комод для одежды. А ножницы всю одежду в комоде изрезали. Старшая сестра увидела в комоде, одежду, разрезанную на куски, и выбросила ножницы на улицу. Там эти ножницы превратились в курицу. А ее подобрала к себе старуха. Когда старая женщина выходила на улицу, возвратившись вечером домой, опа находила все работы по дому сделанными и удивлялась: «Кто у меня дома в мое отсутствие трудится?»</p>
-   <p>Однажды старая женщина притворилась, что выходит на улицу, а сама следила, что произойдет. Приведенная ею курица моментально превратилась в девушку, начала делать работу по дому, а старая женщина быстро подбежала и схватила ту девушку. В тот же день старая женщина во все села послала вестъ, что у нее дома находится незнакомая девушка.</p>
-   <p>Услышав это известие, отец и сын пошли посмотреть. Он увидел ее и сразу узнал, что это его жена. Она же обняла мальчика: это мой сын, мол.</p>
-   <p>Они очень обрадовались и оттуда пошли втроем домой, а там, как у себя, дома, сидит старшая сестра. Увидев вдруг младшую сестру, она вспомнила все то, что она проделала с ней, и тут же умерла от разрыва сердца.</p>
-   <p>С тех пор они жили вместе спокойной жизнью. Л мать раздала большую милостыню по случаю того, что жена сына вернулась домой после таких страданий.</p>
-   <p>Я тоже был тому свидетелем.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">МАТЬ И ТРИ ДОЧЕРИ</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a403 Die schwarze und die weisse Braut</item>
+            <item>a425A Das Ungeheuer (Tier) als Bräutigam</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_32.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_32">
+    <body>
+      <head>МАТЬ И ТРИ ДОЧЕРИ</head>
+      <p>Жила одна мать и три ее дочери. Однажды они пошли в лес ^Л1.\.за дровами. К вечеру они возвращались с охапками дров, и, когда мать сказала, что ей тяжело тащитъ охапку, дочери сказали: «Вытащи из охапки один толстый сук и выброси». Положив на землю охапку, она вытащила самый толстый сук и выбросила. Тот превратился в змею и, не отставая, двигался за ними. Змея пугала мать: «Если ты мне не дашь свою дочъ, я тебя убью».</p>
+      <p>Не зная, что делать, мать спросила старшую дочь: «Не выйдешь ли за змею?» Когда она отказалась, спросила среднюю, и та не согласилась. Когда младшую дочь спросила, та сказала матери, что готова в любое время делать то, что она хочет. Оттуда же они, впереди змея, за пей девушка, отправились в путь в змеиный дом. Через некоторое время, когда они пришли в то место, где дорога раздваивается, девушка пошла по одной дороге, а змея по другой. Долго она шла по этой дороге, дошла до какого-то дома и зашла внутрь. Там она увидела красивого юношу, сидящего за столом. У дивленная девушка смотрела: «Это во сне, что ли?» В тот же день они сыграли свадьбу. Они. жили счастливо. Через год у них родился сын. Со временем девушке захотелось навестить свою матъ и сестер. Она попросила разрешения пойти навестить семью у своего мужа. Он позволил остаться там на три месяца, чтобы ей хватило побывать там и вернуться обратно. На следующий же день она взяла с собой сына и пошла к матери.</p>
+      <p>Когда она пробыла в семье два месяца, мать стала настаивать: «Возвращайся домой, а то мужу не понравится». Старшая дочь упорно просила матъ: «Дай мне пойти вместе с ней, чтобы ее провожать». Рассердившись, мать сказала: «Почему тогда не пошла, когда я тебя отправляла?» Матъ все же отпустила ее, так как она настойчиво просила: «Провожу ее и вернусь обратно».</p>
+      <p>Обе сестры отправились в путь. Сына несла старшая дочь. Ущипнув, она заставила ребенка плакатъ. Мать спросила: «Почему он плачет?» Та сказала: «Он хочет твою косынку». Потом опятъ старшая сестра ущипнула и заставила плакатъ мальчика. Мать спросила: «Что ему теперь захотелось?» Старшая сестра ответила: «Он плачет, желая, чтобы мы обменялись платьями». Обе сестры по пути поменяли платье. В третий раз она ущипнула мальчика, и тот заплакал. Мать поинтересовалась снова: «Чего же еще он хочет?» Старшая сестра сказала: «Он плачет, потому что хочет, белый цветок, который находится на море». Мать пошла к берегу моря, нагнулась, чтобы сорвать тот цветок, а старшая сестра столкнула ее. в море, забрала с собой мальчика и пошла в дом младшей сестры.</p>
+      <p>Когда пришла домой, мать мужа сказала ей: «Ударъ кувшин о стенку». Та ударила о стенку кувшин. Потом отправила ее отрезать вымя коровы. Она пошла, отрезала вымя коровы и вернулась. Глядя на ее поведение, сын сказал матери: «Это не моя жена, это, наверное, другая женщина». «Терпи, со временем узнаем», - сказала мать.</p>
+      <p>Маленький мальчик повзрослел и вот-вот станет юношей. Поднявшись на гору и пустив коров на пастбище, он сел отдохнуть. Вдруг неизвестно откуда появилась птица и начала разговаривать с ним на человеческом языке: «Я не родила тебя, чтобы ты пас коров, но теперь делать нечего». Сказав это, исчезла с глаз. В тот день мальчик потерял коров. Отец слегка выругал сына: «Почему потерял коров?» Тот вынужден был солгать отцу: заснул, мол. «Больше не делай так, чтобы другие тебя ругали», - сказав, ограничился этим отец.</p>
+      <p>Когда на следующий день отправили сына пасти коров, опятъ появилась птица и говорила мальчику: «Я не родила тебя, чтобы ты пас коров, но теперь делать нечего». Сказав это, исчезла с глаз. В тот. день мальчик опять потерял коров. Когда пришел домой, потеряв коров, на этот раз отец его отругал. Сын рассказал отцу о том, что произошло: «Передо мной появилась птица и заговорила человеческим, языком, мол, я не родила тебя, чтобы ты пас коров, но теперь делать нечего, и исчезала с глаз». Отец сидел молча.</p>
+      <p>На следующий день пасти коров вместе с сыном пошел и отец. Когда, отец и сын поднимались на гору, на дереве появилась птица и начала так же разговаривать. Отец сказал: «Если ты человек, иди ко мне, если нет, не издевайся над нами и уходи». Как только это он сказал, птица, спрыгнула, с дерева и. подошла к. отцу. Он взял е.е, забрал домой и пустил в курятник. Старшая сестра, говоря, нашел, мол, тоже, выпустила ее из курятника и бросила на землю. Та превратилась в ножницы. «Они мне понадобятся», - сказав, старшая сестра подобрала их и положила в комод для одежды. А ножницы всю одежду в комоде изрезали. Старшая сестра увидела в комоде, одежду, разрезанную на куски, и выбросила ножницы на улицу. Там эти ножницы превратились в курицу. А ее подобрала к себе старуха. Когда старая женщина выходила на улицу, возвратившись вечером домой, опа находила все работы по дому сделанными и удивлялась: «Кто у меня дома в мое отсутствие трудится?»</p>
+      <p>Однажды старая женщина притворилась, что выходит на улицу, а сама следила, что произойдет. Приведенная ею курица моментально превратилась в девушку, начала делать работу по дому, а старая женщина быстро подбежала и схватила ту девушку. В тот же день старая женщина во все села послала вестъ, что у нее дома находится незнакомая девушка.</p>
+      <p>Услышав это известие, отец и сын пошли посмотреть. Он увидел ее и сразу узнал, что это его жена. Она же обняла мальчика: это мой сын, мол.</p>
+      <p>Они очень обрадовались и оттуда пошли втроем домой, а там, как у себя, дома, сидит старшая сестра. Увидев вдруг младшую сестру, она вспомнила все то, что она проделала с ней, и тут же умерла от разрыва сердца.</p>
+      <p>С тех пор они жили вместе спокойной жизнью. Л мать раздала большую милостыню по случаю того, что жена сына вернулась домой после таких страданий.</p>
+      <p>Я тоже был тому свидетелем.</p>
+    </body>
+  </text>
 </TEI>

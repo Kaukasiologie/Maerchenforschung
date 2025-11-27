@@ -1,125 +1,145 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Nogaische Folklore</title>
-      <title xml:lang="eng">Nogai Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Ногайские народные сказки</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Nogaische Folklore</title>
+        <title xml:lang="eng">Nogai Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="nog">Ногай эртегилер.</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 44–45.</publisher>
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Ногайские народные сказки</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="nog">Ногай эртегилер.</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 44–45.</publisher>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="nog">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="nog">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName/>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_nog_rus_46">
+  </teiHeader>
+  <text xml:id="cr_nog_rus_46">
     <body>
-     <head>39. О женщине, которой не вынес даже аздаа </head>
-     <p>давние давние времена жила ауле старуха единственный сын ауле жила женщина язык точило носилась туда сюда головной платок трепыхался знамя единственная дочь</p><p>дней сын старухи надумал жениться дочери той женщины</p><p>ума сошел дитя мое сказала мать</p><p>почему мать спрашивает сын</p><p>сначала загляни чашу ешь сперва посмотри мать женись дочери говорят старики</p><p>сын прислушался словам матери вышло говорила</p><p>первых дней молодая жена оторвала юношу матери давала покоя соседям жизнь юноши стала темнее ночи долго думал нашел выход</p><p>дней юноша говорит жене</p><p>съездим соседний аул</p><p>отправились путь доехали глубокой ямы юноша соскочил арбы схватил жену волосы бросил яму</p><p>прошел месяц юноша решил узнать стало женой приехал той яме опустил веревку жена жива вытащу наружу подумал юноша стал тянуть веревку чувствует тяжело трудом вытащил свой груз наружу смотрит это аздаа</p><p>юноша испугался выхватил кинжал перерезать веревку бросить аздаа обратно дно ямы аздаа взмолился</p><p>прошу бросай обратно яму жизни опустил яму жену утратил покой знал спастись спасибо вытащил исполню любое твое желание бросай яму</p><p>юноша попросил аздаа помог жениться дочери хана</p><p>согласился аздаа сделаем напугаю людей хана сделаю вид хочу съесть придешь спасешь хана благодарный хан отдаст тебе дочь жены</p><p>сказано сделано юноша победил аздаа женился дочери хана зажили счастье довольстве</p><p>дней дошла хана весть аздаа губит скот хан призвал своего зятя попросил прогнать аздаа</p><p>юноша поднялся холм увидел аздаа разоряет ханские стада стал гнать аздаа злобно крикнул</p><p>подходи тебе плохо одну твою просьбу выполнил жди добра</p><p>юноша пустился хитрость говорит аздаа</p><p>можешь погубить пришел тебе другому делу помнишь мою жену которая сидя яме лишила покоя выбралась ямы ищет попасть руки приму смерть</p><p>услышав слова страшный злобный аздаа пустился бежать прочь тех мест сердце лопнуло страха</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>39. О женщине, которой не вынес даже аздаа </head>
+      <p>давние давние времена жила ауле старуха единственный сын ауле жила женщина язык точило носилась туда сюда головной платок трепыхался знамя единственная дочь</p>
+      <p>дней сын старухи надумал жениться дочери той женщины</p>
+      <p>ума сошел дитя мое сказала мать</p>
+      <p>почему мать спрашивает сын</p>
+      <p>сначала загляни чашу ешь сперва посмотри мать женись дочери говорят старики</p>
+      <p>сын прислушался словам матери вышло говорила</p>
+      <p>первых дней молодая жена оторвала юношу матери давала покоя соседям жизнь юноши стала темнее ночи долго думал нашел выход</p>
+      <p>дней юноша говорит жене</p>
+      <p>съездим соседний аул</p>
+      <p>отправились путь доехали глубокой ямы юноша соскочил арбы схватил жену волосы бросил яму</p>
+      <p>прошел месяц юноша решил узнать стало женой приехал той яме опустил веревку жена жива вытащу наружу подумал юноша стал тянуть веревку чувствует тяжело трудом вытащил свой груз наружу смотрит это аздаа</p>
+      <p>юноша испугался выхватил кинжал перерезать веревку бросить аздаа обратно дно ямы аздаа взмолился</p>
+      <p>прошу бросай обратно яму жизни опустил яму жену утратил покой знал спастись спасибо вытащил исполню любое твое желание бросай яму</p>
+      <p>юноша попросил аздаа помог жениться дочери хана</p>
+      <p>согласился аздаа сделаем напугаю людей хана сделаю вид хочу съесть придешь спасешь хана благодарный хан отдаст тебе дочь жены</p>
+      <p>сказано сделано юноша победил аздаа женился дочери хана зажили счастье довольстве</p>
+      <p>дней дошла хана весть аздаа губит скот хан призвал своего зятя попросил прогнать аздаа</p>
+      <p>юноша поднялся холм увидел аздаа разоряет ханские стада стал гнать аздаа злобно крикнул</p>
+      <p>подходи тебе плохо одну твою просьбу выполнил жди добра</p>
+      <p>юноша пустился хитрость говорит аздаа</p>
+      <p>можешь погубить пришел тебе другому делу помнишь мою жену которая сидя яме лишила покоя выбралась ямы ищет попасть руки приму смерть</p>
+      <p>услышав слова страшный злобный аздаа пустился бежать прочь тех мест сердце лопнуло страха</p>
+    </body>
+  </text>
+</TEI>

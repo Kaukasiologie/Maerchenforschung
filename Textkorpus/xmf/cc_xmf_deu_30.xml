@@ -1,250 +1,266 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">25. Die zwölf Brüder</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_30.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
- <creation> 
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
-      <forename>Iosif Alekseevich</forename>
-      <surname>Kipshidze</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_30">
-  <body>
-   <head>Die zwölf Brüder</head>
-   <p>Es waren zwölf Brüder. Der jüngste hieß Data. Data war ein starker Mann. Diese zwölf Brüder wollten zwölf Schwestern zur Frau nehmen.</p>
-   <p>Einmal zogen sie aus, um Mädchen zu suchen. Da sahen sie unter einem Baum einen Mann stehen und in den Himmel blicken. Data grüßte ihn:"Guten Tag!"</p>
-   <p>"Guten Tag auch dir!"</p>
-   <p>"Warum starrst du hinauf in den Himmel?"</p>
-   <p>"Im vorigen Jahr habe ich einen Pfeil in den Himmel hinaufgeschossen,und er ist noch nicht heruntergefallen.”</p>
-   <p>"Du bist ein Mann", sagte Data, "im vergangenen Jahr hast du einen Pfeil abgeschossen, und in diesem Jahr hältst du nach ihm Ausschau."</p>
-   <p>Der andere erwiderte: "Nicht ich, sondern Data ist ein Mann, der jüngste <pb n="138"/>der zwölf Brüder."</p>
-   <p>"Ich bin Data, komm mit mir.”</p>
-   <p>Der Mann folgte Data. Sie liefen und liefen und gelangten an das Ufereines Flusses. Da sahen sie einen Mann, der das ganze Wasser trank und dabei rief: "Ach, Mutter, ich sterbe vor Durst!"</p>
-   <p>Data sprach zu ihm: "Du bist ein Mann, Bruder, du legst den ganzen Fluß trocken und rufst: Ich habe Durst.”</p>
-   <p>Der Mann, der den Fluß ausschlürfte, sagte: "Nicht ich, sondern der ist ein Mann, der Data heißt."</p>
-   <p>"Ich bin Data, folge mir." Und der Mann folgte ihm.</p>
-   <p>Sie liefen und liefen und begegneten einem Mann, der zwölf Joch Büffel angespannt hatte und den Boden pflügte. Die umgepflügte Erde verschlang er und rief dabei: "Ach, Mutter, ich sterbe vor Hunger!"</p>
-   <p>Data sprach zu ihm: "Du bist ein Mann, du verschlingst alle Erde, die aufgeworfen wird, und rufst dabei: Ich habe Hunger."</p>
-   <p>Der Erdschlucker sagte: "Nicht ich, sondern der ist ein Mann, der Data heißt."</p>
-   <p>"Ich bin Data, komm mit mir."</p>
-   <p>Dieser Mann folgte ihm. Sie liefen und liefen. Da trafen sie einen Mann,der trug den Himmel, die Erde, Steine und Bäume und schrie dabei: "Ich kann keine Last finden!"</p>
-   <p>Data sprach zu ihm: "Du bist ein Mann: Du trägst alles mit einem mal und rufst dabei: Ich trage nichts."</p>
-   <p>"Nicht ich, sondern der ist ein Mann, der Data heißt."</p>
-   <p>"Data bin ich, komm mit mir."</p>
-   <p>Der Mann erklärte sich einverstanden. Sie liefen und liefen und fanden am Wegrand einen Mann, der so klein war wie ein Ohr.</p>
-   <p>Data sprach zu ihm: "Guten Tag! Was machst du hier?"</p>
-   <p>Der Mann erklärte: "Ich habe Ameisen gehütet, doch zwei von den elenden fehlen mir, ich weiß nicht, wohin sie gekrochen sind."</p>
-   <p>"Du bist ein Mann, Bruder, daß du Ameisen hütest."</p>
-   <p>"Nicht ich, sondern der ist ein Mann, den man Data nennt."</p>
-   <p>"Data bin ich, komm mit mir."</p>
-   <p>Dieser Mann folgte Data, und sie liefen und liefen. Da sahen sie einen kniehohen Mann, der Hasen hütete. Data sprach zu ihm: "Du bist ein Mann, daß du Hasen hütest."</p>
-   <p>"Ach, nicht ich, Data ist ein Mann.”</p>
-   <p>"Ich bin Data, komm mit."</p>
-   <p>Der Mann war einverstanden. Sie liefen und liefen und sahen einen Riesen. Sie grüßten sich.</p>
-   <p>"Wo zieht ihr hin?" fragte der Riese. <pb n="139"/> </p>
-   <p>"Wir sind zwölf Brüder und wollen zwölf Schwestern zur Frau nehmen.”</p>
-   <p>Der Riese sprach: "Ich habe sechs Töchter, die anderen werde ich jetzt zeugen, wartet solange."</p>
-   <p>Data lehnte das ab. Sie liefen und liefen und kamen zu einem anderen Riesen. Der sagte wie der vorige: "Ich habe neun Töchter, wartet solange,bis es zwölf geworden sind."</p>
-   <p>Data wartete nicht. Sie liefen und liefen. Da begegnete ihnen ein Riese.</p>
-   <p>Data fragte ihn: "Wieviele Töchter hast du?"</p>
-   <p>Der Riese antwortete: "Zwölf."</p>
-   <p>Data sprach: "Wir sind zwölf Brüder und wollen zwölf Schwestern zur Frau nehmen. Ich bin Data."</p>
-   <p>Der Riese führte die zwölf Brüder in sein Haus und richtete ein Fest. Da begannen sie zu wetten. Die Wette bestand darin, daß der Riese, wenn er gewann, ihnen die Mädchen nicht geben würde. Wenn aber Data und seine Brüder gewannen, mußte er ihnen die Töchter geben. Zuerst wetteten sie,wer mehr Wein trinken könnte. Der Riese brachte einen riesigen Beutel Wein herbei. Bei Data waren auch die, die er unterwegs getroffen hatte.</p>
-   <p>Der Wassertrinker nahm den Beutel Wein, schlang ihn mit einem mal hinunter und begann zu brüllen: "Bringt mir Wein, ich habe Durst." Der Riese konnte nicht mithalten, So übertraf Data den Riesen.</p>
-   <p>Beim zweiten Mal wettete Data mit dem Riesen im Zielschießen. Sie stellten die Zielscheibe fern auf und begannen mit Pfeilen zu schießen. Von der Seite des Riesen gelang es niemandem, den Pfeil in das Ziel zu schießen, was sie auch immer versuchten. Von Datas Seite ergriff der, der unter dem Baum gestanden und seinen Pfeil in den Himmel geschossen hatte, Pfeil und Bogen, schoß auf die Zielscheibe und traf. So besiegten sie den Riesen und dessen Gefährten.</p>
-   <p>Beim dritten Mal wetteten sie um Fleischessen. Der Riese schlachtete Schweine, kochte sie und trug sie auf. Datas Gefährte, der mit zwölf Joch Büffeln die Erde pflügte und das Umgepflügte verschluckte, verschlang mit einem mal das gesamte Fleisch und begann zu brüllen: "Ich sterbe vor Hunger." Der Riese schleppte Fleisch zusammen, aber trotzdem half nichts.</p>
-   <p>Der Riese gab aber nicht auf und wettete ein viertes Mal.</p>
-   <p>Beim vierten Mal wetteten sie um Schnellaufen und nahmen einen Läufer jeweils von ihrer Seite, Data wählte den Hasenhüter. Sie ließen sielaufen, und der Hasenhüter ließ seinen Gegner auf halbem Weg zurück.</p>
-   <p>Beim fünften Mal vermischten sie Gerste und Roggenkörner miteinander, Sie wetteten um das Auslesen der Körner. Die Gerstenkörner sollten für sich und die Roggenkörner für sich verlesen werden. Der Ameisenhüter hatte sie im Handumdrehen ausgelesen.</p>
-   <p>Als dem Riesen nichts weiter gelang, wetteten sie um Lastenheben. Von <pb n="140"/> Datas Seite trat der Mann auf, der Himmel und Erde, Steine und Bäumeirug. Er hob Haus und Hof des Riesen empor und begann sie fortzutragen.</p>
-   <p>Da sprach der Riese: "Tu mir das nicht an. Ich gebe euch meine Töchter zur Frau."</p>
-   <p>Data war einverstanden, das hatte er ja gewollt. Er brachte alle zwölf Mädchen mit, und die Brüder nahmen sich jeder eine zur Frau.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">25. Die zwölf Brüder</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_30.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">
+            133697460&gt;
+            <forename>Iosif Alekseevich</forename>
+            <surname>Kipshidze</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_30">
+    <body>
+      <head>Die zwölf Brüder</head>
+      <p>Es waren zwölf Brüder. Der jüngste hieß Data. Data war ein starker Mann. Diese zwölf Brüder wollten zwölf Schwestern zur Frau nehmen.</p>
+      <p>Einmal zogen sie aus, um Mädchen zu suchen. Da sahen sie unter einem Baum einen Mann stehen und in den Himmel blicken. Data grüßte ihn:&quot;Guten Tag!&quot;</p>
+      <p>&quot;Guten Tag auch dir!&quot;</p>
+      <p>&quot;Warum starrst du hinauf in den Himmel?&quot;</p>
+      <p>&quot;Im vorigen Jahr habe ich einen Pfeil in den Himmel hinaufgeschossen,und er ist noch nicht heruntergefallen.”</p>
+      <p>&quot;Du bist ein Mann&quot;, sagte Data, &quot;im vergangenen Jahr hast du einen Pfeil abgeschossen, und in diesem Jahr hältst du nach ihm Ausschau.&quot;</p>
+      <p>
+        Der andere erwiderte: &quot;Nicht ich, sondern Data ist ein Mann, der jüngste 
+        <pb n="138"/>
+        der zwölf Brüder.&quot;
+      </p>
+      <p>&quot;Ich bin Data, komm mit mir.”</p>
+      <p>Der Mann folgte Data. Sie liefen und liefen und gelangten an das Ufereines Flusses. Da sahen sie einen Mann, der das ganze Wasser trank und dabei rief: &quot;Ach, Mutter, ich sterbe vor Durst!&quot;</p>
+      <p>Data sprach zu ihm: &quot;Du bist ein Mann, Bruder, du legst den ganzen Fluß trocken und rufst: Ich habe Durst.”</p>
+      <p>Der Mann, der den Fluß ausschlürfte, sagte: &quot;Nicht ich, sondern der ist ein Mann, der Data heißt.&quot;</p>
+      <p>&quot;Ich bin Data, folge mir.&quot; Und der Mann folgte ihm.</p>
+      <p>Sie liefen und liefen und begegneten einem Mann, der zwölf Joch Büffel angespannt hatte und den Boden pflügte. Die umgepflügte Erde verschlang er und rief dabei: &quot;Ach, Mutter, ich sterbe vor Hunger!&quot;</p>
+      <p>Data sprach zu ihm: &quot;Du bist ein Mann, du verschlingst alle Erde, die aufgeworfen wird, und rufst dabei: Ich habe Hunger.&quot;</p>
+      <p>Der Erdschlucker sagte: &quot;Nicht ich, sondern der ist ein Mann, der Data heißt.&quot;</p>
+      <p>&quot;Ich bin Data, komm mit mir.&quot;</p>
+      <p>Dieser Mann folgte ihm. Sie liefen und liefen. Da trafen sie einen Mann,der trug den Himmel, die Erde, Steine und Bäume und schrie dabei: &quot;Ich kann keine Last finden!&quot;</p>
+      <p>Data sprach zu ihm: &quot;Du bist ein Mann: Du trägst alles mit einem mal und rufst dabei: Ich trage nichts.&quot;</p>
+      <p>&quot;Nicht ich, sondern der ist ein Mann, der Data heißt.&quot;</p>
+      <p>&quot;Data bin ich, komm mit mir.&quot;</p>
+      <p>Der Mann erklärte sich einverstanden. Sie liefen und liefen und fanden am Wegrand einen Mann, der so klein war wie ein Ohr.</p>
+      <p>Data sprach zu ihm: &quot;Guten Tag! Was machst du hier?&quot;</p>
+      <p>Der Mann erklärte: &quot;Ich habe Ameisen gehütet, doch zwei von den elenden fehlen mir, ich weiß nicht, wohin sie gekrochen sind.&quot;</p>
+      <p>&quot;Du bist ein Mann, Bruder, daß du Ameisen hütest.&quot;</p>
+      <p>&quot;Nicht ich, sondern der ist ein Mann, den man Data nennt.&quot;</p>
+      <p>&quot;Data bin ich, komm mit mir.&quot;</p>
+      <p>Dieser Mann folgte Data, und sie liefen und liefen. Da sahen sie einen kniehohen Mann, der Hasen hütete. Data sprach zu ihm: &quot;Du bist ein Mann, daß du Hasen hütest.&quot;</p>
+      <p>&quot;Ach, nicht ich, Data ist ein Mann.”</p>
+      <p>&quot;Ich bin Data, komm mit.&quot;</p>
+      <p>Der Mann war einverstanden. Sie liefen und liefen und sahen einen Riesen. Sie grüßten sich.</p>
+      <p>
+        &quot;Wo zieht ihr hin?&quot; fragte der Riese. 
+        <pb n="139"/>
+      </p>
+      <p>&quot;Wir sind zwölf Brüder und wollen zwölf Schwestern zur Frau nehmen.”</p>
+      <p>Der Riese sprach: &quot;Ich habe sechs Töchter, die anderen werde ich jetzt zeugen, wartet solange.&quot;</p>
+      <p>Data lehnte das ab. Sie liefen und liefen und kamen zu einem anderen Riesen. Der sagte wie der vorige: &quot;Ich habe neun Töchter, wartet solange,bis es zwölf geworden sind.&quot;</p>
+      <p>Data wartete nicht. Sie liefen und liefen. Da begegnete ihnen ein Riese.</p>
+      <p>Data fragte ihn: &quot;Wieviele Töchter hast du?&quot;</p>
+      <p>Der Riese antwortete: &quot;Zwölf.&quot;</p>
+      <p>Data sprach: &quot;Wir sind zwölf Brüder und wollen zwölf Schwestern zur Frau nehmen. Ich bin Data.&quot;</p>
+      <p>Der Riese führte die zwölf Brüder in sein Haus und richtete ein Fest. Da begannen sie zu wetten. Die Wette bestand darin, daß der Riese, wenn er gewann, ihnen die Mädchen nicht geben würde. Wenn aber Data und seine Brüder gewannen, mußte er ihnen die Töchter geben. Zuerst wetteten sie,wer mehr Wein trinken könnte. Der Riese brachte einen riesigen Beutel Wein herbei. Bei Data waren auch die, die er unterwegs getroffen hatte.</p>
+      <p>Der Wassertrinker nahm den Beutel Wein, schlang ihn mit einem mal hinunter und begann zu brüllen: &quot;Bringt mir Wein, ich habe Durst.&quot; Der Riese konnte nicht mithalten, So übertraf Data den Riesen.</p>
+      <p>Beim zweiten Mal wettete Data mit dem Riesen im Zielschießen. Sie stellten die Zielscheibe fern auf und begannen mit Pfeilen zu schießen. Von der Seite des Riesen gelang es niemandem, den Pfeil in das Ziel zu schießen, was sie auch immer versuchten. Von Datas Seite ergriff der, der unter dem Baum gestanden und seinen Pfeil in den Himmel geschossen hatte, Pfeil und Bogen, schoß auf die Zielscheibe und traf. So besiegten sie den Riesen und dessen Gefährten.</p>
+      <p>Beim dritten Mal wetteten sie um Fleischessen. Der Riese schlachtete Schweine, kochte sie und trug sie auf. Datas Gefährte, der mit zwölf Joch Büffeln die Erde pflügte und das Umgepflügte verschluckte, verschlang mit einem mal das gesamte Fleisch und begann zu brüllen: &quot;Ich sterbe vor Hunger.&quot; Der Riese schleppte Fleisch zusammen, aber trotzdem half nichts.</p>
+      <p>Der Riese gab aber nicht auf und wettete ein viertes Mal.</p>
+      <p>Beim vierten Mal wetteten sie um Schnellaufen und nahmen einen Läufer jeweils von ihrer Seite, Data wählte den Hasenhüter. Sie ließen sielaufen, und der Hasenhüter ließ seinen Gegner auf halbem Weg zurück.</p>
+      <p>Beim fünften Mal vermischten sie Gerste und Roggenkörner miteinander, Sie wetteten um das Auslesen der Körner. Die Gerstenkörner sollten für sich und die Roggenkörner für sich verlesen werden. Der Ameisenhüter hatte sie im Handumdrehen ausgelesen.</p>
+      <p>
+        Als dem Riesen nichts weiter gelang, wetteten sie um Lastenheben. Von 
+        <pb n="140"/>
+         Datas Seite trat der Mann auf, der Himmel und Erde, Steine und Bäumeirug. Er hob Haus und Hof des Riesen empor und begann sie fortzutragen.
+      </p>
+      <p>Da sprach der Riese: &quot;Tu mir das nicht an. Ich gebe euch meine Töchter zur Frau.&quot;</p>
+      <p>Data war einverstanden, das hatte er ja gewollt. Er brachte alle zwölf Mädchen mit, und die Brüder nahmen sich jeder eine zur Frau.</p>
+    </body>
+  </text>
 </TEI>

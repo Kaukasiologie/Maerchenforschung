@@ -1,128 +1,187 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Lakische Folklore</title>
-      <title xml:lang="eng">Lak Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф. 9, on. I, д. № 176</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Lakische Folklore</title>
+        <title xml:lang="eng">Lak Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф. 9, on. I, д. № 176</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="lbe">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/538724/kurkli.html">Kurkli</settlement>
-       <geo />
-      </placeName>
-      <date>1936</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Магомед</forename>
-        <surname xml:lang="rus">Жабраил</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А. М.</forename>
-        <surname xml:lang="rus">Магомедов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="lbe">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/538724/kurkli.html">Kurkli</settlement>
+          <geo/>
+        </placeName>
+        <date>1936</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Магомед</forename>
+            <surname xml:lang="rus">Жабраил</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А. М.</forename>
+            <surname xml:lang="rus">Магомедов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_lbe_rus_35">
+  </teiHeader>
+  <text xml:id="cr_lbe_rus_35">
     <body>
-     <head>43. Золотой башмак </head>
-     <p>жил жил крестьянин сына однажды крестьянин пошел осмотреть свое поле увидел оно истоптано лошадью вернулся домой сказал старшему сыну</p><p>наше поле истоптала лошадь сегодня ночью покарауль</p><p>побоялся старший сын идти ночыо поле спрятался гдето проспал утра</p><p>вернулся домой отец спросил</p><p>видел ночыо поле</p><p>случилось ответил сын</p><p>день отец пошел осмотрен ноле видит ч оно снова истоптано</p><p>отправил караулить среднего сына поступил старший брат</p><p>третью ночь отец отправил караульщиком младшего</p><p>сына младший сын порезал мизинец положил рану немного соли уснуть пошел поле некоторое время появился всадник начал гонять коня полю</p><p>младший сын хотел схватить коня уздцы всадник исчез руках юноши остался золотой башмак вернулся младший сын домой рассказал обо всем отцу очень удивился младший сын сказал</p><p>отец должен найти второй башмак узнать хозяина</p><p>отец хотел отпускать сына юноша настоял свогм отправился путь прошел узкие ущелья широкие ноля темные леса добрался какого города</p><p>подошел юноша дому одной бедной старухи спросил</p><p>гостя принимаете</p><p>гость посланник аллаха заходи сынок комнату ответила хозяйка</p><p>немного отдохнув юноша спросил</p><p /><p>какие новости городе</p><p>валлах сынок ответила старуха городе ночыо погибают те выходит улицу л убивает неизвестно</p><p>юноша сказал</p><p>иди царю скажи человек который избавить город чудовища</p><p>старуха отправилась царю говорит</p><p>будешь здоров царь гостит чужеземец обещает спасти чудовища</p><p>привести воскликнул царь</p><p>старуха вернулась домой привела своего гостя царь сказал</p><p>освободишь чудовища щедро вознагражу</p><p>юноша слышал чудовище появляется стороны кладбища поэтому ночыо пошел прямо кладбище спрятался ровно полночь услышал сильный шум появилось какое длинное существо вытащив изза пазухи длинную плеть это существо ударило ею могиле тотчас могилы поднялся мертвец существо ударило второй мертвец вернулся могилу юноша бросился это существо отнял плеть существо сразу исчезло</p><p>утром юноша пошел царю рассказал</p><p>царь очень обрадовался</p><p>скажи вознаградить проси хочешь пожалею</p><p>будешь здоров царь ответил юноша сможешь найди пару атому золотому башмаку</p><p>тебе дам какое угодно богатство найти пару этому башмаку моих силах</p><p>юноша отказался простился царем двинулся дальше прошел узкие ущелья широкие поля темные леса добрался другого города правил царь юноша остановился одной бедной старухи</p><p>увидел хозяйка ходит совершенно нагая спросил</p><p>почему тебе одежды</p><p>старуха ответила</p><p>валлах сынок никто имеет одежды корабли товарами которые плывут нашему городу тонут ночам никому известно топит</p><p>юноша сказал старухе</p><p>освобожу ваш город беды иди царю скажи</p><p>старуха пошла царю рассказала обо всем</p><p>царь приказал немедленно привести храброго чужеземца</p><p>н спросил</p><p>тебе нужно спасги наш город чудовища</p><p>нужно несколько кораблей ответил юноша</p><p>пусть выходят море одному посмотрю топит</p><p>корабли стали выходить одному море ктою остановил первый корабль начал тянуть воду</p><p>юноша увидел чья рука тянет корабль дно бросился море рука сразу исчезла юноша успел сорвать одного пальца золотое кольцо храбрец решил посмотреть делается подводном царстве хот находился море почему оставался сухим шел шел шел добрался дна моря юноша увидел высокую крепость такую высокую смотреть снизу вверх папаха спадет головы юноша зашел крепость видит разостлана скатерть всевозможные яства полные кубки вокруг души юноша поел отдохнул заметил приоткрытом сундуке золотой оашмак юноша поставил сундучок второй башмак спрягался</p><p>некоторое время прилетели голубки сбродили перья превратились красивых девушек</p><p>младшая увидела второй золотой башмак воскликнула</p><p>башмак оставила далекой стране попал сюда наверное прячется выйди ы пришел</p><p>юноша вышел</p><p>дочери морского царя сказали девушки</p><p>л</p><p>юноша поведал своих приключениях показал плеть кольцо</p><p>это мое кольцо воскликнула старшая сестра</p><p>это плеть воскликнула средняя</p><p>младшая сестра юноша сразу полюбили друг друга решили пожениться</p><p>царь царица согласились вскоре сыграли большую свадьбу которой семь пар зурначей барабанщиков</p><p>юноша взял жену двух сестер своих братьев богатые подарки морского царя отправился домой пути заехал двум царям которых выручил беды щедро наградили вернулся юноша домой выдал дочерей морского царя своих братьев сыграли богатую свадьбу веселился весь город вдоволь ел пил зажили счастливо сыновья рождались похожими отцов дочери матерей</p><p>оставил вернулся</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>43. Золотой башмак </head>
+      <p>жил жил крестьянин сына однажды крестьянин пошел осмотреть свое поле увидел оно истоптано лошадью вернулся домой сказал старшему сыну</p>
+      <p>наше поле истоптала лошадь сегодня ночью покарауль</p>
+      <p>побоялся старший сын идти ночыо поле спрятался гдето проспал утра</p>
+      <p>вернулся домой отец спросил</p>
+      <p>видел ночыо поле</p>
+      <p>случилось ответил сын</p>
+      <p>день отец пошел осмотрен ноле видит ч оно снова истоптано</p>
+      <p>отправил караулить среднего сына поступил старший брат</p>
+      <p>третью ночь отец отправил караульщиком младшего</p>
+      <p>сына младший сын порезал мизинец положил рану немного соли уснуть пошел поле некоторое время появился всадник начал гонять коня полю</p>
+      <p>младший сын хотел схватить коня уздцы всадник исчез руках юноши остался золотой башмак вернулся младший сын домой рассказал обо всем отцу очень удивился младший сын сказал</p>
+      <p>отец должен найти второй башмак узнать хозяина</p>
+      <p>отец хотел отпускать сына юноша настоял свогм отправился путь прошел узкие ущелья широкие ноля темные леса добрался какого города</p>
+      <p>подошел юноша дому одной бедной старухи спросил</p>
+      <p>гостя принимаете</p>
+      <p>гость посланник аллаха заходи сынок комнату ответила хозяйка</p>
+      <p>немного отдохнув юноша спросил</p>
+      <p/>
+      <p>какие новости городе</p>
+      <p>валлах сынок ответила старуха городе ночыо погибают те выходит улицу л убивает неизвестно</p>
+      <p>юноша сказал</p>
+      <p>иди царю скажи человек который избавить город чудовища</p>
+      <p>старуха отправилась царю говорит</p>
+      <p>будешь здоров царь гостит чужеземец обещает спасти чудовища</p>
+      <p>привести воскликнул царь</p>
+      <p>старуха вернулась домой привела своего гостя царь сказал</p>
+      <p>освободишь чудовища щедро вознагражу</p>
+      <p>юноша слышал чудовище появляется стороны кладбища поэтому ночыо пошел прямо кладбище спрятался ровно полночь услышал сильный шум появилось какое длинное существо вытащив изза пазухи длинную плеть это существо ударило ею могиле тотчас могилы поднялся мертвец существо ударило второй мертвец вернулся могилу юноша бросился это существо отнял плеть существо сразу исчезло</p>
+      <p>утром юноша пошел царю рассказал</p>
+      <p>царь очень обрадовался</p>
+      <p>скажи вознаградить проси хочешь пожалею</p>
+      <p>будешь здоров царь ответил юноша сможешь найди пару атому золотому башмаку</p>
+      <p>тебе дам какое угодно богатство найти пару этому башмаку моих силах</p>
+      <p>юноша отказался простился царем двинулся дальше прошел узкие ущелья широкие поля темные леса добрался другого города правил царь юноша остановился одной бедной старухи</p>
+      <p>увидел хозяйка ходит совершенно нагая спросил</p>
+      <p>почему тебе одежды</p>
+      <p>старуха ответила</p>
+      <p>валлах сынок никто имеет одежды корабли товарами которые плывут нашему городу тонут ночам никому известно топит</p>
+      <p>юноша сказал старухе</p>
+      <p>освобожу ваш город беды иди царю скажи</p>
+      <p>старуха пошла царю рассказала обо всем</p>
+      <p>царь приказал немедленно привести храброго чужеземца</p>
+      <p>н спросил</p>
+      <p>тебе нужно спасги наш город чудовища</p>
+      <p>нужно несколько кораблей ответил юноша</p>
+      <p>пусть выходят море одному посмотрю топит</p>
+      <p>корабли стали выходить одному море ктою остановил первый корабль начал тянуть воду</p>
+      <p>юноша увидел чья рука тянет корабль дно бросился море рука сразу исчезла юноша успел сорвать одного пальца золотое кольцо храбрец решил посмотреть делается подводном царстве хот находился море почему оставался сухим шел шел шел добрался дна моря юноша увидел высокую крепость такую высокую смотреть снизу вверх папаха спадет головы юноша зашел крепость видит разостлана скатерть всевозможные яства полные кубки вокруг души юноша поел отдохнул заметил приоткрытом сундуке золотой оашмак юноша поставил сундучок второй башмак спрягался</p>
+      <p>некоторое время прилетели голубки сбродили перья превратились красивых девушек</p>
+      <p>младшая увидела второй золотой башмак воскликнула</p>
+      <p>башмак оставила далекой стране попал сюда наверное прячется выйди ы пришел</p>
+      <p>юноша вышел</p>
+      <p>дочери морского царя сказали девушки</p>
+      <p>л</p>
+      <p>юноша поведал своих приключениях показал плеть кольцо</p>
+      <p>это мое кольцо воскликнула старшая сестра</p>
+      <p>это плеть воскликнула средняя</p>
+      <p>младшая сестра юноша сразу полюбили друг друга решили пожениться</p>
+      <p>царь царица согласились вскоре сыграли большую свадьбу которой семь пар зурначей барабанщиков</p>
+      <p>юноша взял жену двух сестер своих братьев богатые подарки морского царя отправился домой пути заехал двум царям которых выручил беды щедро наградили вернулся юноша домой выдал дочерей морского царя своих братьев сыграли богатую свадьбу веселился весь город вдоволь ел пил зажили счастливо сыновья рождались похожими отцов дочери матерей</p>
+      <p>оставил вернулся</p>
+    </body>
+  </text>
+</TEI>

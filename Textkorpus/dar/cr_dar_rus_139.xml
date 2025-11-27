@@ -1,131 +1,157 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
-       <geo />
-      </placeName>
-      <date>1961</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Абдурагим</forename>
-        <surname xml:lang="rus">Далгат</surname>
-       </persName>
-       <age>62</age>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
+          <geo/>
+        </placeName>
+        <date>1961</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Абдурагим</forename>
+            <surname xml:lang="rus">Далгат</surname>
+          </persName>
+          <age>62</age>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_139">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_139">
     <body>
-     <head>КАК Я В БАШЛЫ БАТРАЧИЛ</head>
-     <p>умерли мои родители дома нечего пошел башлы стал ходить аулу кричать</p><p>кому нужен слуга кому слуга</p><p>одна вдова пригласила говорит</p><p>подавно умер муж одинока будешь жить</p><p>смущения пошел поужинал вечером хипкалом провел первую ночь наутро опа говорит</p><p>иду нижний аул поминки оставайся дома</p><p>спросил</p><p>должен буду сделать твоего прихода</p><p>говорит</p><p>делать вообще нечего возьми ту шкуру быка хорошенько помни ч рыки сделать коровой пригляди присматривай коршун цыплят унес</p><p>сел дворе па камень начал шкуру отбивать небе появился коршун камнем упал вниз схватив одного цыпленка улетел погнался стал думать хозяйка нагрянет ругаться придумал взял длинную бечеву связал цыплят вместо последнего палке привязал взялся работу смотрю коршун бросился цыплят схватил одного взлетел поднатужился повертелся вся связка цыплят палкой вместе взлетела па воздух</p><p>думаю утащить пожалеешь повадился сюда запустил дубиной которой отбивал шкуру коршуна попал угодил прямо рогам привязанной яслей коровы сломал рог корова стала трясти головой вертеться помотанная</p><p>пропал скажу хозяйке придет размышлял цыплят унес коршун коровы сломан рог кровь идет ручьем подохнет решил бежать дай думаю подожду это время воротами появился цудахарец ослом поздоровался мной спросил хозяйка рассказал пошла па поминки дома оставила стал жаловаться па своп мытарства злоключе пия</p><p>руках аллаха обойдется успокоил оп</p><p>вечером пришла хозяйка аллах опа ругалась бранилась казалось мир перевернется стали хинкал позвала спасибо цудахар чу усадил</p><p>хозяйка говорит</p><p>возможно корова ночью подыхать возьми кинжал ложись сегодня хлеву рядом коровой тог прирежешь издохла</p><p>потел хлев лег спать полночь слышу храп подумал издыхает корова сразу вспомнил хозяйка велела вонзил свой кинжал п аллах оказывается это осел цудахарца испугался очень думаю оставаться бежать потпел тихонько дому приоткрыв дверь просунул руку крынку захватитъ еды вытяпуть обратно руку пе могу застряла решил выйти вместе крынкой крышу разбить ос ударив камень вижу дороге белое дай думаю разобью крынку это оказывается белела седая голова цудахарца</p><p>ох голова закричал оп вскочил ноги мигом очутился дворе оттуда улицу выбежал шел шел дороге дошел хулли знакомых гам пе поэтому выбрал па краю села сеновал зарылся солому спустя немного времени слышу дверь тихонько открывается сарай заходит входит мужчина солому садится некоторое время приходит гляжу это женщина уселись рядышком стали беседовать лакомясь разными вкусными вещами которые принесла собой женщина женщина спрашивает мужчину</p><p>полюбил</p><p>отвечает</p><p>понравилась медным кувшином плечах продев белую руку веревку кувшина черпаком воды руке стройная красивая шла горделивою походкою воду обратно</p><p>ои спросил</p><p>тебе понравился</p><p>женщина отвечала</p><p>поправился закатав рукава верхом яа огненном копе рысью мчался водопой</p><p>мужчина взял вилы сел па коня говорит</p><p>скакал говоришь начал скакать сараю ударит концом вил прямо ио лбу вскрикнул очень испугались оставив свои припасы пустились наутек подсел трапезе поел хорошенько оставшееся взял собой вернулся аул</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>КАК Я В БАШЛЫ БАТРАЧИЛ</head>
+      <p>умерли мои родители дома нечего пошел башлы стал ходить аулу кричать</p>
+      <p>кому нужен слуга кому слуга</p>
+      <p>одна вдова пригласила говорит</p>
+      <p>подавно умер муж одинока будешь жить</p>
+      <p>смущения пошел поужинал вечером хипкалом провел первую ночь наутро опа говорит</p>
+      <p>иду нижний аул поминки оставайся дома</p>
+      <p>спросил</p>
+      <p>должен буду сделать твоего прихода</p>
+      <p>говорит</p>
+      <p>делать вообще нечего возьми ту шкуру быка хорошенько помни ч рыки сделать коровой пригляди присматривай коршун цыплят унес</p>
+      <p>сел дворе па камень начал шкуру отбивать небе появился коршун камнем упал вниз схватив одного цыпленка улетел погнался стал думать хозяйка нагрянет ругаться придумал взял длинную бечеву связал цыплят вместо последнего палке привязал взялся работу смотрю коршун бросился цыплят схватил одного взлетел поднатужился повертелся вся связка цыплят палкой вместе взлетела па воздух</p>
+      <p>думаю утащить пожалеешь повадился сюда запустил дубиной которой отбивал шкуру коршуна попал угодил прямо рогам привязанной яслей коровы сломал рог корова стала трясти головой вертеться помотанная</p>
+      <p>пропал скажу хозяйке придет размышлял цыплят унес коршун коровы сломан рог кровь идет ручьем подохнет решил бежать дай думаю подожду это время воротами появился цудахарец ослом поздоровался мной спросил хозяйка рассказал пошла па поминки дома оставила стал жаловаться па своп мытарства злоключе пия</p>
+      <p>руках аллаха обойдется успокоил оп</p>
+      <p>вечером пришла хозяйка аллах опа ругалась бранилась казалось мир перевернется стали хинкал позвала спасибо цудахар чу усадил</p>
+      <p>хозяйка говорит</p>
+      <p>возможно корова ночью подыхать возьми кинжал ложись сегодня хлеву рядом коровой тог прирежешь издохла</p>
+      <p>потел хлев лег спать полночь слышу храп подумал издыхает корова сразу вспомнил хозяйка велела вонзил свой кинжал п аллах оказывается это осел цудахарца испугался очень думаю оставаться бежать потпел тихонько дому приоткрыв дверь просунул руку крынку захватитъ еды вытяпуть обратно руку пе могу застряла решил выйти вместе крынкой крышу разбить ос ударив камень вижу дороге белое дай думаю разобью крынку это оказывается белела седая голова цудахарца</p>
+      <p>ох голова закричал оп вскочил ноги мигом очутился дворе оттуда улицу выбежал шел шел дороге дошел хулли знакомых гам пе поэтому выбрал па краю села сеновал зарылся солому спустя немного времени слышу дверь тихонько открывается сарай заходит входит мужчина солому садится некоторое время приходит гляжу это женщина уселись рядышком стали беседовать лакомясь разными вкусными вещами которые принесла собой женщина женщина спрашивает мужчину</p>
+      <p>полюбил</p>
+      <p>отвечает</p>
+      <p>понравилась медным кувшином плечах продев белую руку веревку кувшина черпаком воды руке стройная красивая шла горделивою походкою воду обратно</p>
+      <p>ои спросил</p>
+      <p>тебе понравился</p>
+      <p>женщина отвечала</p>
+      <p>поправился закатав рукава верхом яа огненном копе рысью мчался водопой</p>
+      <p>мужчина взял вилы сел па коня говорит</p>
+      <p>скакал говоришь начал скакать сараю ударит концом вил прямо ио лбу вскрикнул очень испугались оставив свои припасы пустились наутек подсел трапезе поел хорошенько оставшееся взял собой вернулся аул</p>
+    </body>
+  </text>
+</TEI>

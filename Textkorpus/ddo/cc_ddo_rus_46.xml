@@ -1,190 +1,192 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">ЯЙЦО</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a315A Die menschenfressende Schwester</item>
-      <item>a321 Augen der Blinden zurueckgebracht</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_46.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_46">
-  <body>
-   <head>ЯЙЦО</head>
-   <p>Что рассказать, что не рассказывать? Была одна женщина. У нее было семь сыновей, но ни одной дочери не было. Однажды она пошла к мулле: «Напиши мне, мол, молитву, которая поможет родить девочку». Мулла сказал: «Если в пятницу пойдешь к тому источнику и выпьешь воды, то родишь девочку». Как сказал мулла, она пошла и выпила воды из этого источника. Через девять месяцев она родила красивую девочку, но у нее был только один глаз.</p>
-   <p>У этой женщины было много овец. Через некоторое время число этих овец стало с каждым днем уменьшаться. Однажды ночью старший сын пошел в хлев посмотреть и увидел там в углу свою одноглазую сестру, которая выбирала жирную овцу. Когда он заметил, что та выбирает овцу, чтобы съесть, выстрелил из лука. Девочка убежала и легла в люльку. Утром сын пришел домой и рассказал матери: «”Волк”, который съедает овец, находится в нашем же доме, надо ее изгнать из этих мест». «Зачем ее изгонятъ? - сказала мать сердито. - Я вас семерых выгоню». Не понравились старшему сыну слова, которые сказала мать, попросил он мать положить ему в дорогу две лепешки и ушел из дому.</p>
-   <p>Прошел одну нашу гору, чужие две прошел и пришел на одно поле. Там он встретил слепых мужа и жену. Они познакомились, и слепые попросили его остаться и стать их сыном. Он согласился, ничего лишнего не сказал и. дал им по одной лепешке, что мать положила ему в дорогу. Они взяли этого юношу домой: мол, у нас достаточно состояния, и дали выбрать и одеть понравившуюся одежду из другой комнаты. Вот так этот юноша провел с ними несколько месяцев, питаясь лучшей пищей, надевая лучшую одежду. Однажды сын сказал «родителям»: «Я очень хочу пойти в село, чтобы увидеться с матерью и братьями». Слепая «матъ» сказала: «Хотя ты пойдешь в село, т.ы увидишь в селе свет только в вашем доме. Твой поход будет напрасным». Как бы то ни было, юноша пошел. «Родители» дали ему коня-иноходца и отправили его. Пошел он и к вечеру пришел туда, откуда было видно село, и свет, был только в их доме. По этому свету он пошел к дому, посмотрел через окно и увидел одноглазую сестру, которая катила по полу человеческие головы. Привязал, во дворе коня, и постучал в дверь, чтобы, зайти внутрь, а она спрятала головы под тахтой. Потом она открыла дверь, поздоровалась, спросила у него: «На коне, что ли, пришел?», вышла во двор будто бы датъ коню сена, а сама съела его. Когда она вернулась в дом и сказала брату: «Ты не приводил коня», он сразу понял, что она его съела. «Я принесу тебе воды», сказала она. брату и вышла на улицу. В это время появилась мышь с яйцом, веником и гладким камнем и сказала юноше: «Если ты быстро не уйдешь из этого дома, придет сестра и тебя убьет. Когда выйдешь на улицу, а она будет тебя преследовать, сначала кинъ веник, потом, когда она будет догонятъ, бросишь камень и окажешься у слепых мужа и жены. После этого сестра не сможет гнаться за тобой. Когда придешь домой, разбей это яйцо и мажь их глаза». Сказав это, мышь исчезла с глаз.</p>
-   <p>Юноша подумал, что она, наверное, говорит правду, и быстро вышел на улицу. Он увидел, что сестра идет с кувшином воды, и убежал. «Теперь ты. от меня не убежишь», - младшая сестра бросила кувшин и побежала за ним. Когда она стала его догонятъ, он, как сказала мышь, бросил веник и перед ней вырос густой лес. Не зная, куда идти в темное время суток, эта девушка осталась в лесу. За это время он оставил позади большую часть дороги. Утром показалась преследовавшая его младшая сестра. Он бросил гладкий камень, и. перед ней появилась высокая, скользкая гора. Она поднималась по этой горе и. не добравшись до вершины, соскальзывала сверху до самого низа. Она никак не могла подняться по этой горе и вернулась обратно домой.</p>
-   <p>К этому времени юноша добрался до названых родителей и стал отдыхать. Они очень обрадовались, когда к ним внезапно пришел названый сын. Сразу, как пришел домой, он разбил яйцо и смазал имглаза. Хотя они и увидели друг друга, но не верили этому от радости до тех пор, пока не рассвело.</p>
-   <p>С тех пор они жили втроем без горя. Очень скоро выбрали для юноши красивую девушку из ближайшего села и женили. Говорят, ухаживая за их детьми, эти муж и жена до сих пор живут, уже пожилые.</p>
-   <p>Куруч, бусинка, да прояснится день и солнце светит!</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">ЯЙЦО</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a315A Die menschenfressende Schwester</item>
+            <item>a321 Augen der Blinden zurueckgebracht</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_46.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_46">
+    <body>
+      <head>ЯЙЦО</head>
+      <p>Что рассказать, что не рассказывать? Была одна женщина. У нее было семь сыновей, но ни одной дочери не было. Однажды она пошла к мулле: «Напиши мне, мол, молитву, которая поможет родить девочку». Мулла сказал: «Если в пятницу пойдешь к тому источнику и выпьешь воды, то родишь девочку». Как сказал мулла, она пошла и выпила воды из этого источника. Через девять месяцев она родила красивую девочку, но у нее был только один глаз.</p>
+      <p>У этой женщины было много овец. Через некоторое время число этих овец стало с каждым днем уменьшаться. Однажды ночью старший сын пошел в хлев посмотреть и увидел там в углу свою одноглазую сестру, которая выбирала жирную овцу. Когда он заметил, что та выбирает овцу, чтобы съесть, выстрелил из лука. Девочка убежала и легла в люльку. Утром сын пришел домой и рассказал матери: «”Волк”, который съедает овец, находится в нашем же доме, надо ее изгнать из этих мест». «Зачем ее изгонятъ? - сказала мать сердито. - Я вас семерых выгоню». Не понравились старшему сыну слова, которые сказала мать, попросил он мать положить ему в дорогу две лепешки и ушел из дому.</p>
+      <p>Прошел одну нашу гору, чужие две прошел и пришел на одно поле. Там он встретил слепых мужа и жену. Они познакомились, и слепые попросили его остаться и стать их сыном. Он согласился, ничего лишнего не сказал и. дал им по одной лепешке, что мать положила ему в дорогу. Они взяли этого юношу домой: мол, у нас достаточно состояния, и дали выбрать и одеть понравившуюся одежду из другой комнаты. Вот так этот юноша провел с ними несколько месяцев, питаясь лучшей пищей, надевая лучшую одежду. Однажды сын сказал «родителям»: «Я очень хочу пойти в село, чтобы увидеться с матерью и братьями». Слепая «матъ» сказала: «Хотя ты пойдешь в село, т.ы увидишь в селе свет только в вашем доме. Твой поход будет напрасным». Как бы то ни было, юноша пошел. «Родители» дали ему коня-иноходца и отправили его. Пошел он и к вечеру пришел туда, откуда было видно село, и свет, был только в их доме. По этому свету он пошел к дому, посмотрел через окно и увидел одноглазую сестру, которая катила по полу человеческие головы. Привязал, во дворе коня, и постучал в дверь, чтобы, зайти внутрь, а она спрятала головы под тахтой. Потом она открыла дверь, поздоровалась, спросила у него: «На коне, что ли, пришел?», вышла во двор будто бы датъ коню сена, а сама съела его. Когда она вернулась в дом и сказала брату: «Ты не приводил коня», он сразу понял, что она его съела. «Я принесу тебе воды», сказала она. брату и вышла на улицу. В это время появилась мышь с яйцом, веником и гладким камнем и сказала юноше: «Если ты быстро не уйдешь из этого дома, придет сестра и тебя убьет. Когда выйдешь на улицу, а она будет тебя преследовать, сначала кинъ веник, потом, когда она будет догонятъ, бросишь камень и окажешься у слепых мужа и жены. После этого сестра не сможет гнаться за тобой. Когда придешь домой, разбей это яйцо и мажь их глаза». Сказав это, мышь исчезла с глаз.</p>
+      <p>Юноша подумал, что она, наверное, говорит правду, и быстро вышел на улицу. Он увидел, что сестра идет с кувшином воды, и убежал. «Теперь ты. от меня не убежишь», - младшая сестра бросила кувшин и побежала за ним. Когда она стала его догонятъ, он, как сказала мышь, бросил веник и перед ней вырос густой лес. Не зная, куда идти в темное время суток, эта девушка осталась в лесу. За это время он оставил позади большую часть дороги. Утром показалась преследовавшая его младшая сестра. Он бросил гладкий камень, и. перед ней появилась высокая, скользкая гора. Она поднималась по этой горе и. не добравшись до вершины, соскальзывала сверху до самого низа. Она никак не могла подняться по этой горе и вернулась обратно домой.</p>
+      <p>К этому времени юноша добрался до названых родителей и стал отдыхать. Они очень обрадовались, когда к ним внезапно пришел названый сын. Сразу, как пришел домой, он разбил яйцо и смазал имглаза. Хотя они и увидели друг друга, но не верили этому от радости до тех пор, пока не рассвело.</p>
+      <p>С тех пор они жили втроем без горя. Очень скоро выбрали для юноши красивую девушку из ближайшего села и женили. Говорят, ухаживая за их детьми, эти муж и жена до сих пор живут, уже пожилые.</p>
+      <p>Куруч, бусинка, да прояснится день и солнце светит!</p>
+    </body>
+  </text>
 </TEI>

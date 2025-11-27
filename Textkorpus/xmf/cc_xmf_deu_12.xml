@@ -1,285 +1,319 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">7. Bruder und Schwester</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_12.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district ref="https://www.geonames.org/613265/ledzadzame.html">Ledzadzame</district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-    <date when="1921">1921</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Ioseb</forename>
-      <surname>Khurtsilava</surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename>Makar</forename>
-      <surname>Khubua</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_12">
-  <body>
-   <head>Bruder und Schwester</head>
-   <p>Es waren eine Schwester und ein Bruder, Der Bruder jagte und ernährte damit seine Schwester. Wie sie so lebten, sahen sie eines Abends von fern das Licht einer Petroleumlampe. Die Schwester bat den Bruder: "Bring mich dorthin, wo dieses Licht zu sehen ist.”</p>
-   <p>Der Bruder ging auf den Wunsch der Schwester ein. Sie machten sich auf und zogen los. Den Namen der Schwester kennt das Märchen nicht, der Bruder aber hieß Lewan. Als sie unterwegs waren, begegnete ihnen ein <pb n="46"/> Mann, der einen jungen Hund bei sich hatte.</p>
-   <p>"Guten Tag, Bruder", grüßte Lewan.</p>
-   <p>"Gott lasse dich erfolgreich sein", erwiderte der Mann.</p>
-   <p>"Verkaufe mir deinen Welpen”", sagte Lewan.</p>
-   <p>"Sehr gut, ich will ihn dir verkaufen", sagte der Mann und verkaufte ihm seinen Welpen für neun Tumani.</p>
-   <p>Lewan und seine Schwester nahmen den Hund mit und zogen ihres Weges. Da begegnete ihnen ein zweiter Mann, dem ein Habicht auf der Hand saß und der so daherkam. Sie grüßten sich.</p>
-   <p>"Verkaufe mir diesen deinen Habicht“, sagte Lewan zu ihm.</p>
-   <p>"Sehr gut", meinte der Besitzer und verkaufte ihm den Habicht für neun Tumani.</p>
-   <p>Sie liefen weiter, heute, morgen, übermorgen und gelangten zu einem großen Anwesen, aus dem das Licht drang. Als sie sich dem Hof näherten,sahen sie, daß er ringsum von einer Steinmauer umgeben war., Dieser Wall war so dick, daß er vier Meter breit war. Alle Tore waren verschlossen, und nirgendwo konnte man hineingelangen.</p>
-   <p>Die Schwester sagte zum Bruder: "Stoße mit dem Arm dagegen, mein Bruder, und durchbrich die Mauer!"</p>
-   <p>Lewan schlug wirklich den Arm gegen die Mauer und zertrümmerte sie.</p>
-   <p>Als sie hineingingen, sahen sie ein Haus mit mehreren Räumen. Lewan trate in und lief durch alle Zimmer, aber er konnte niemanden finden, alle Räume waren leer. Er lief durch alle Zimmer bis auf eines. In diesem einen Raum brachte er seine Schwester unter. Er gab ihr die Schlüssel und sagte:"Du mußt hierbleiben, bis ich wiederkomme, geh nirgend woanders hin."</p>
-   <p>Er stieg hinab und ging in das Kellergewölbe des Hauses. Als er sich umsah, stieß er auf einen Riesen, dem einen folgte ein zweiter, dem zweiten ein dritter: Zwölf Riesen reihten sich auf. Er trat ein Stück vor und sah,daß in einem großen Kessel Fleisch hing, und darunter brannte ein großes Feuer. Der junge Mann und die Riesen nahmen den Kampf miteinander auf. Der Bursche überwältigte sie alle und schlug ihnen die Köpfe ab. Erging umher, und als er von da herauskam, nahm er den Habicht und den Hund mit und ging auf die Jagd.</p>
-   <p>In der Frühe bekam die Schwester Lust, sich die Zimmer anzusehen, sie lief durch alle Räume, und als sie herauskam, vernahm sie ein Stöhnen. Als sie hinabstieg, sah sie die toten Riesen nebeneinander liegen, zwölf an der Zahl, und in dem zwölften war ein wenig Leben, denn sein Kopf war nicht vollständig abgeschlagen und vom Rumpf getrennt. Das Mädchen trat nahe an ihn heran und fragte: "Was vermag dich zu heilen?"</p>
-   <p>Der Riese sagte: "Hole mit dem Krug das klare Wasser, das hier unten entspringt, und sobald du es mir über den Nacken gießt, werde ich im <pb n="47"/> gleichen Augenblick wieder gesund."</p>
-   <p>Das Mädchen ging hin und holte in einem Krug Wasser, wie der Riese es gesagt hatte. Sie ging zu ihm hin, und als sie es ihm über den Nacken schüttete, wurde der Riese gesund und stand auf, Dieser Riese und das Mädchen verliebten sich ineinander, Wenn Lewan kam, versteckte das Mädchen den Riesen, Und wenn Lewan zur Jagd ging, holte sie ihn heraus,und sie waren zusammen.</p>
-   <p>Einmal sagte der Riese zu dem Mädchen: "Wenn Lewan mich erblickt,wird er mich umbringen, heute oder morgen. Laß uns ihn täuschen und töten.”</p>
-   <p>"Wie wollen wir ihn denn töten?" meinte das Mädchen. "Du weißt genau,was für ein starker Mann er ist, wie sollen wir denn mit ihm fertig werden?"</p>
-   <p>"So, wie ich es dir sage", erklärte der Riese, "In dem und dem Gebirge lebt ein großer Eber, der hat Hauer von hundert Meter Länge und sechzig Meter Breite, Du mußt dir eine Krankheit ausdenken, und wenn Lewan dich fragt, dann sage ihm: Wenn du mir eine Borste dieses Ebers bringst,sonst gibt es nichts anderes zwischen Himmel und Erde, das mich retten kann. Sobald Lewan zu dem Eber geht, wird der ihn zerreißen, und wir werden nach unserem Geschmack leben."</p>
-   <p>Der Riese ging fort und versteckte sich.</p>
-   <p>Als Lewan nach Hause kam, sah er, daß sie krank im Bett lag. Die Krankheit der Schwester ging ihm zu Herzen.</p>
-   <p>"Was kann dir helfen, Schwesterchen", fragte er.</p>
-   <p>"In dem und dem Gebirge lebt ein großer Eber, der hat hundert Meterlange Hauer. Wie könntest du das wohl beschaffen: Wenn du mir eine Borste von ihm brächtest, lege ich sie mir auf den Kopf und werde sofort gesund", sagte die Schwester.,</p>
-   <p>Sogleich brach Lewan auf. Er nahm seinen Habicht und seinen Hund mit und machte sich auf den Weg. Während sie so gingen und gingen, sprach der Welpe zu dem Habicht: "Habicht, wie häßlich lang dein Schnabel geworden ist! Siehst du nicht, welche Gefahr Lewan erwartet? Hat er denn die neun Tumani umsonst für dich ausgegeben? Hilf ihm doch!”</p>
-   <p>"Was soll ich ihm denn helfen", meinte der Habicht.</p>
-   <p>Der Welpe sagte: "Mach dich auf und fliege dem Eber auf den Nacken.</p>
-   <p>Sobald du ihm auf den Nacken geflogen bist, flüstere ihm ins Ohr: Lewan kommt, um mit dir Brüderschaft zu schließen, und du, mein Eber, weißt schon, was du zu machen hast. Wenn er dir nicht glaubt, gehe ich auch hin und sage es ihm nochmals. Sofort wird er es nicht ganz glauben, aber du,Lewan, mußt so laut rufen, daß dem Eber der Rücken aufplatzt. Nur wenn wir so Freunde werden, auf andere Weise ist uns nicht zu helfen", sagte der Hund. <pb n="48"/> </p>
-   <p>So beschlossen sie es und begaben sich ins Gebirge. Sie liefen und gelangten zum Aufenthaltsort des Ebers. Die beiden machten halt, und der Habicht brach auf, flog dem Eber auf den Nacken und flüsterte ihm ins Ohr, daß Lewan herbeikäme, um mit ihm Brüderschaft zu schließen. Als der Eber ihm keinen Glauben schenkte, flog er fort, und der Welpe erzählte ihm dasselbe. Als er es auch jetzt noch nicht ganz glaubte, stieß Lewan einen Schrei aus, daß sich die Sterne vom Himmel lösten. Da glaubte es der Eber. Als er Lewan sah, freute er sich sehr.</p>
-   <p>"Das hat mich nicht erstaunt", sprach der Eber. "Schon einige Zeit belästigen mich die Riesen nicht mehr, Lewan hat sie ausgerottet, er ist herangewachsen und gereift, was kann mir jetzt noch fehlen. Was ist, Lewan,was bedrückt dich?" fragte der Eber.</p>
-   <p>"So und so steht es um meine Sache", erklärte Lewan. "Außer einer einzigen Schwester habe ich niemanden, und auch sie ist mir krank geworden. Wenn ich ihr deine Borste bringe, wird sie wieder gesund, sonst nicht.”</p>
-   <p>"Nicht nur eine Borste, ich selbst komme ganz mit dir mit", sprach der Eber.</p>
-   <p>Lewan, der Eber und der Welpe zogen los. Sie kamen nach Hause. Als der Riese sie beisammen sah, starb er fast vor Schreck. Der Eber blieb draußen stehen, und Lewan ging mit der Borste hinein, wo seine Schwester lag. Er legte ihr die Borste an den Kopf, sie selbst aber gingen jagen. Als Lewan von der Jagd zurückkehrte, fragte er: "Wie geht es dir jetzt, Schwesterchen?"</p>
-   <p>“Mir geht es schlechter“, sagte die Schwester.</p>
-   <p>“"Welche Arzenei kann dir denn helfen?" fragte der junge Mann.</p>
-   <p>"In dem und dem Wald haust ein großer Wolf. Wenn du mir dessen Haar bringst, werde ich gesund", sagte das Mädchen. Auch das hatte ihr der Riese beigebracht, denn was wußte das Mädchen schon.</p>
-   <p>Der Bursche ging hinaus und sprach zu dem Eber: "So und so steht es um meine Sache, ich muß zu diesem Wolf gehen.” Der Eber begleitete ihn,und sie brachen auf, Als sie in die Nähe des Wolfes kamen, machten sie alles so, wie sie es bei dem Eber getan hatten. Als der Wolf herauskam, um mit Lewan Brüderschaft zu schließen, sah er den Eber da stehen. Dieser Eber und dieser Wolf waren Brüder, sie stürzten aufeinander zu und küßten sich. Der Wolf verbrüderte sich auch mit Lewan und fragte ihn: "Was gibt es, brauchst du vielleicht irgendetwas?" Lewan erzählte ihm sein Leid."</p>
-   <p>Ich begleite dich, laß uns gemeinsam losziehen", sprach der Wolf, "Sehr gut”, sagten alle und machten sich zusammen auf den Heimweg. Als sie den Hof betraten, brach dem Riesen vor Enttäuschung fast das Herz. "Es hat doch nichts genutzt", dachte er.</p>
-   <p>Zu dem Mädchen sagte er: "Wenn er dich jetzt fragen sollte, weil du vom <pb n="49"/> Haar des Wolfes nicht genest, dann erzähle ihm von dem Bären, der neun Tagesreisen von hier im Gebirge lebt,”</p>
-   <p>Der Riese ging davon und versteckte sich, der junge Mann brachte der Schwester das Wolfs haar und legte es an ihren Kopf. Dann ging er hinaus und nahm alle Tiere mit auf die Jagd, Lange waren sie unterwegs und jagten, und als sie nach Hause kamen, ging es dem Mädchen noch schlechter.</p>
-   <p>"Warum verfolgt mich Gott mit seinem Zorn? Wieso ist es mir nicht gelungen, dir mit diesem Mittel zu helfen?" meinte der Bursche.</p>
-   <p>"Jetzt weiß ich, was mich gesund macht”, sagte das Mädchen, "aber es ist fern von hier, und ich habe Angst." Sie tat, als wollte sie es nicht sagen,aber der Bursche bestand darauf.</p>
-   <p>"Neun Tagesreisen von hier haust im Gebirge ein Bär, dessen Haar wird mich ganz sicher gesund machen", sprach das Mädchen.</p>
-   <p>Der junge Mann ging hinaus und berichtete dem Eber und dem Wolf,was ihn bedrückte.</p>
-   <p>"Wir kommen mit", erklärten sie und zogen alle zusammen los. Sie liefen und liefen und gelangten am neunten Tag zu dem Bären. Sie machten es so, wie sie es bei dem Eber und dem Wolf getan hatten. Sobald der Bänden Eber und den Wolf erblickte, freute er sich, denn sie waren seine Brüder. Auch der Bär schloß mit Lewan Brüderschaft und sprach dann zu ihm: "Sage mir, was du auf dem Herzen hast."</p>
-   <p>Der Bursche erzählte ihm sein Leid und sagte: "Du müßtest dir etwas von deinem Haar ausreißen und mir ein wenig davon geben."</p>
-   <p>"Ich will euch selbst begleiten, laßt uns gemeinsam aufbrechen”", sprach der Bär.</p>
-   <p>Sie machten sich alle zusammen auf den Weg und kamen zum Haus des jungen Mannes. Vor dem Haus machten sie Halt, und der Bursche ging zu seiner Schwester hinein. Er zog das Haar des Bären hervor und legte es neben das Kopfkissen. Dann ging er hinaus, und sie zogen auf die Jagd.</p>
-   <p>Darauf kam der Riese hervor, ging zu dem Mädchen und sprach: "Laß deinen Bruder ein Pud Seife herbringen und sage ihm, er soll sich den Kopf damit waschen. Wenn er sich den Kopf einschäumt, laß ihn die Seife auch über die Augen schmieren, und wenn es ihn in den Augen brennt,wird er sie zukneifen. Dann will ich aus dem Zimmer hervorspringen und ihm das Genick brechen. Dann werden wir angenehm und schön leben,niemand wird uns bevormunden.”</p>
-   <p>"Sehr gut", sagte das Mädchen.</p>
-   <p>Als der Bursche am nächsten Tag kam, ließ ihn das Mädchen ein Pud Seife bringen und den Kopf einseifen, wie der Riese es ihr geraten hatte.</p>
-   <p>Als der Bursche die Augen zukniff, kam der Riese hervor, drehte ihm das <pb n="50"/> Genick um und brach es ihm. Den Toten warfen sie hinaus. Als die Tiere das sahen, begannen sie alle zu weinen. Der Wolf schluchzte, es weinten das Schwein, der Habicht, der Welpe und der Bär. Schließlich sprach der Welpe zum Habicht: "Wie häßlich lang dir der Schnabel gewachsen ist! Für dich hat Lewan die neun Tumani umsonst ausgegeben. Du fliegst in der Welt hin und her und kennst kein Mittel, um einen Toten wiederzubeleben?"</p>
-   <p>Der Habicht überlegte und überlegte und sagte dann: "Ja, ich kenne tatsächlich ein Mittel, das einen Toten wieder lebendig machen kann. Hierin der Nähe plätschert eine Quelle, 1aß uns das Wasser holen. Wenn wir Lewan damit übergießen, wird er sofort wieder lebendig."</p>
-   <p>Der Welpe machte sich auf und rollte einen Krug heraus. Sie hängten ihn dem Eber auf den Hauer und zogen zur Quelle. Sie schöpften das Wasser, schafften es heim und schütteten es über Lewan aus. Kaum hatten sie ihn übergossen, wurde er lebendig. Er sprang in das Haus hinein und erschlug den Riesen. Zu seiner Schwester sagte er: "Du hast mich hintergangen, aber ich werde dich nicht töten.“</p>
-   <p>Er gab ihr zwei Schüsseln und sprach: "Ich werde dich für ein Jahr verlassen und lasse dir diese beiden Schüsseln da. Laß in die eine die Tränen für mich rinnen und in die andere die für den Riesen. Wenn ich in einem Jahr zurückkomme und in meiner Schüssel mehr Tränen sehe, will ich dich zur Schwester nehmen, sonst nicht."</p>
-   <p>Der Bursche ging hinaus, und alle folgten ihm. Sie liefen und liefen und gelangten zu einer Stadt am Meeresstrand. Die Stadt war wirklich sehr groß. Als sie sie betraten, war am Strand ein Pfahl eingerammt und ein Mädchen daran festgebunden. Als sie hingingen, sahen sie, daß das Mädchen unentwegt weinte.</p>
-   <p>Lewan fragte sie: "Warum weinst du, und wieso bist du an den Pfahl gebunden?" ;</p>
-   <p>Das Mädchen sprach: "Siehst du denn nicht, daß in der Stadt alles in Schwarz gehüllt ist? Aus diesem Meer steigt jeden Tag ein Drachen heraus und hat dem Herrscher aufgetragen, daß er ihm an dieser Stelle immer einen Menschen bietet. Wenn der Herrscher sich weigert, wird der Drache die ganze Stadt vernichten, so gewaltig ist er. Auf Befehl des Herrschers hat man aus jedem Haus eine Person herausgebracht, und alle hat der Drache verschlungen. Jetzt ist die Reihe an mir, ich bin die Tochter des Herrschers."</p>
-   <p>Da ging Lewan hin, band das Mädchen los, grub die Erde auf und setzte sie dort hinein.</p>
-   <p>Der Welpe bereitete seine Gefährten auf den Kampf vor. Dem Eber sagte er: "Bleib am Strand des Meeres. Sobald der Drache in deine Nähe <pb n="51"/> kommt, stoß deinen Hauer in ihn hinein und wirf ihn in die Höhe."</p>
-   <p>Zu dem Bären sagte er: "Pack ihn mit deiner Pranke und wirf ihn dem Wolf vor.”</p>
-   <p>"Und du, Wolf, stoße ihn mit deinem harten Schädel und schmettere ihn vor Lewan hin."</p>
-   <p>"Du, Lewan, schlag ihn mit dem Schwert und spalte den Drachen in der Mitte, Wenn er stirbt, dann flieg du, Habicht, auf ihn und friß sein Fleisch,damit nichts von ihm übrigbleibt”, sagte der Welpe. Alle fanden den Vorschlag des Welpen gut und verhielten sich so, wie er es gesagt hatte.</p>
-   <p>Noch war nicht viel Zeit vergangen, als der Drache durch das Mee rheranschwamm. Kräftig wühlte er das Wasser auf. Als er ein wenig nähergekommen war, rief er: "Was für ein Mann bist du, daß du es gewagt hast,den Menschen loszubinden, den der Herrscher mir an den Pfahl gebunden hat!"</p>
-   <p>"Was ich für ein Mann bin, ich bin Lewan”, rief ihm der Bursche zu.</p>
-   <p>"Wenn du das bist, so sollst du sehen, welches Vergnügen ich dir bereite",sprach der Drache.</p>
-   <p>"Dann laß es mich mal sehen, da bist du, und hier bin ich", sagte Lewan.</p>
-   <p>Da stürzte der Drache wütend heran, und sobald er sich dem Strand genähert hatte, spießte ihn der Eber auf seinen Hauer und warf ihn in die Höhe. Als er ihn emporwarf, fiel er vor dem Bären zu Boden. Der legte ihm die Pranke auf und warf ihn dem Wolf vor. Der Wolf stieß ihn mit dem Kopf und schmetterte ihn vor Lewan zu Boden. Lewan hieb mit dem Schwert zu und spaltete ihn in der Mitte. Der Habicht flog auf ihn und fraß alles Fleisch, das der Drache hatte, auf. Der Drache war so groß, daß seine Knochen vier Meter hoch am Meeresstrand aufgehäuft waren.</p>
-   <p>Als sie den Drachen getötet hatten, freute sich das Mädchen und sprach zu Lewan, als sie sie aus der Grube hoben: "Kommt mit zu mir nach Hause."</p>
-   <p>Alle zusammen zogen los und gelangten zum Haus des Herrschers. Als man vom Tod des Drachens erfuhr, brach großer Jubel aus. Alle Leute in der Stadt freuten sich und dankten Lewan. Der Herrscher gab ihm seine Tochter zur Frau. Lewan lebte im Schloß des Herrschers und zog auf die Jagd. So verging ein ganzes Jahr. Da sprach er zu dem Eber, dem Bären,dem Wolf, dem Welpen und dem Habicht: "Laßt uns aufbrechen und meine Schwester besuchen, um zu sehen, wie es ihr geht."</p>
-   <p>“Sehr gut", sagten sie und zogen los. Sie kamen hin und sahen, daß die Schüssel, die er ihr für den Riesen da gelassen hatte, bis zum Rand mit Tränen gefüllt war, während in Lewans Schüssel keine einzige Träne gefallen war.,</p>
-   <p>Das kränkte Lewan, aber trotzdem tat ihm die Schwester leid, und er <pb n="52"/> nahm sie mit in das Schloß des Herrschers.</p>
-   <p>Als sie im Palast des Herrschers lebten, sagte die Schwester einmal zu ihrem Bruder: "Man erzählt, daß du einen Drachen getötet hast, dessen Knochen am Meeresstrand aufgehäuft liegen. Bring mich: dorthin und zeige sie mir."</p>
-   <p>"Gut", meinte der Bruder.</p>
-   <p>Er nahm seine Schwester mit und zeigte ihr die Knochen des Drachen.</p>
-   <p>Das Mädchen ging hin, sah sich um, brach einen kleinen Knochen ab, legte ihn in ihre Tasche und kehrte nach Hause zurück.</p>
-   <p>Wer sich auch nur einen Knochen unter den Kopf legte, der mußte sterben.</p>
-   <p>Das Mädchen nähte ein Kopfkissen, legte diesen Knochen hinein und brachte ihn Lewan als Geschenk. Sowie er seinen Kopf auf das Kissen gelegt hatte, hauchte er seine Seele aus. Als das Land vom Tod dieses guten Mannes erfuhr, versammelten sich alle. Die Wesire berieten lange:"Was sollen wir mit dem Leib dieses Mannes machen."</p>
-   <p>Der eine sagte: "Wir wollen ihn an einen Baum hängen." Ein anderer:"Laßt uns ihn in der Erde begraben." Ein dritter: "In der Kirche wollen wir ihn bestatten.” Aber der Welpe stimmte keinem zu und sprach: "Laßt uns ihn in einen Sarg legen, auf ein Boot bringen und auf das Meer hinausfahren.”</p>
-   <p>Das hielten alle für gut. Sie statteten das Boot und den Sarg aus, betteten den Toten hinein und ließen ihn auf das Meer hinaus. Das Boot schwamm um die Welt herum, einmal im Jahr kam es zu der Stadt. Da zogen der Welpe, der Eber, der Wolf, der Bär und der Habicht los und brachten das Wasser herbei, das zum Leben erwecken konnte. Sie zogen das Boot an Land, öffneten den Sarg, und als sie Lewan mit dem Wasser übergossen, wurde er wieder lebendig.</p>
-   <p>Sie kamen in das Schloß des Herrschers, und alle freuten sich, als sie Lewan lebend sahen. Sie erfuhren, daß sein Tod von seiner Schwester bewirkt worden war. Da setzten sich die Wesire hin. Der eine wollte, daß man sie aufhängen, der andere, daß man sie erschießen sollte. Der Welpe war damit nicht einverstanden und sagte: "Mauern wir sie in einen Kamin ein. Laßt uns darunter Feuer anzünden und sie in seinem Rauch ersticken."</p>
-   <p>So tat man es auch. Man baute einen Kamin, mauerte das Mädchen oben so ein, daß sie nirgendwohin entrinnen konnte, zündete ein Feuer darunter an und erstickte sie.</p>
-   <p>Lewan, der Eber, der Wolf, der Bär, der Welpe und der Habicht lebten fürstlich im Schloß des Herrschers. Alle freuten sich und waren Lewan dankbar für seine Mannhaftigkeit und seine guten Taten.<pb n="53"/></p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">7. Bruder und Schwester</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_12.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/613265/ledzadzame.html">Ledzadzame</district>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date when="1921">1921</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Ioseb</forename>
+            <surname>Khurtsilava</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_12">
+    <body>
+      <head>Bruder und Schwester</head>
+      <p>Es waren eine Schwester und ein Bruder, Der Bruder jagte und ernährte damit seine Schwester. Wie sie so lebten, sahen sie eines Abends von fern das Licht einer Petroleumlampe. Die Schwester bat den Bruder: &quot;Bring mich dorthin, wo dieses Licht zu sehen ist.”</p>
+      <p>
+        Der Bruder ging auf den Wunsch der Schwester ein. Sie machten sich auf und zogen los. Den Namen der Schwester kennt das Märchen nicht, der Bruder aber hieß Lewan. Als sie unterwegs waren, begegnete ihnen ein 
+        <pb n="46"/>
+         Mann, der einen jungen Hund bei sich hatte.
+      </p>
+      <p>&quot;Guten Tag, Bruder&quot;, grüßte Lewan.</p>
+      <p>&quot;Gott lasse dich erfolgreich sein&quot;, erwiderte der Mann.</p>
+      <p>&quot;Verkaufe mir deinen Welpen”&quot;, sagte Lewan.</p>
+      <p>&quot;Sehr gut, ich will ihn dir verkaufen&quot;, sagte der Mann und verkaufte ihm seinen Welpen für neun Tumani.</p>
+      <p>Lewan und seine Schwester nahmen den Hund mit und zogen ihres Weges. Da begegnete ihnen ein zweiter Mann, dem ein Habicht auf der Hand saß und der so daherkam. Sie grüßten sich.</p>
+      <p>&quot;Verkaufe mir diesen deinen Habicht“, sagte Lewan zu ihm.</p>
+      <p>&quot;Sehr gut&quot;, meinte der Besitzer und verkaufte ihm den Habicht für neun Tumani.</p>
+      <p>Sie liefen weiter, heute, morgen, übermorgen und gelangten zu einem großen Anwesen, aus dem das Licht drang. Als sie sich dem Hof näherten,sahen sie, daß er ringsum von einer Steinmauer umgeben war., Dieser Wall war so dick, daß er vier Meter breit war. Alle Tore waren verschlossen, und nirgendwo konnte man hineingelangen.</p>
+      <p>Die Schwester sagte zum Bruder: &quot;Stoße mit dem Arm dagegen, mein Bruder, und durchbrich die Mauer!&quot;</p>
+      <p>Lewan schlug wirklich den Arm gegen die Mauer und zertrümmerte sie.</p>
+      <p>Als sie hineingingen, sahen sie ein Haus mit mehreren Räumen. Lewan trate in und lief durch alle Zimmer, aber er konnte niemanden finden, alle Räume waren leer. Er lief durch alle Zimmer bis auf eines. In diesem einen Raum brachte er seine Schwester unter. Er gab ihr die Schlüssel und sagte:&quot;Du mußt hierbleiben, bis ich wiederkomme, geh nirgend woanders hin.&quot;</p>
+      <p>Er stieg hinab und ging in das Kellergewölbe des Hauses. Als er sich umsah, stieß er auf einen Riesen, dem einen folgte ein zweiter, dem zweiten ein dritter: Zwölf Riesen reihten sich auf. Er trat ein Stück vor und sah,daß in einem großen Kessel Fleisch hing, und darunter brannte ein großes Feuer. Der junge Mann und die Riesen nahmen den Kampf miteinander auf. Der Bursche überwältigte sie alle und schlug ihnen die Köpfe ab. Erging umher, und als er von da herauskam, nahm er den Habicht und den Hund mit und ging auf die Jagd.</p>
+      <p>In der Frühe bekam die Schwester Lust, sich die Zimmer anzusehen, sie lief durch alle Räume, und als sie herauskam, vernahm sie ein Stöhnen. Als sie hinabstieg, sah sie die toten Riesen nebeneinander liegen, zwölf an der Zahl, und in dem zwölften war ein wenig Leben, denn sein Kopf war nicht vollständig abgeschlagen und vom Rumpf getrennt. Das Mädchen trat nahe an ihn heran und fragte: &quot;Was vermag dich zu heilen?&quot;</p>
+      <p>
+        Der Riese sagte: &quot;Hole mit dem Krug das klare Wasser, das hier unten entspringt, und sobald du es mir über den Nacken gießt, werde ich im 
+        <pb n="47"/>
+         gleichen Augenblick wieder gesund.&quot;
+      </p>
+      <p>Das Mädchen ging hin und holte in einem Krug Wasser, wie der Riese es gesagt hatte. Sie ging zu ihm hin, und als sie es ihm über den Nacken schüttete, wurde der Riese gesund und stand auf, Dieser Riese und das Mädchen verliebten sich ineinander, Wenn Lewan kam, versteckte das Mädchen den Riesen, Und wenn Lewan zur Jagd ging, holte sie ihn heraus,und sie waren zusammen.</p>
+      <p>Einmal sagte der Riese zu dem Mädchen: &quot;Wenn Lewan mich erblickt,wird er mich umbringen, heute oder morgen. Laß uns ihn täuschen und töten.”</p>
+      <p>&quot;Wie wollen wir ihn denn töten?&quot; meinte das Mädchen. &quot;Du weißt genau,was für ein starker Mann er ist, wie sollen wir denn mit ihm fertig werden?&quot;</p>
+      <p>&quot;So, wie ich es dir sage&quot;, erklärte der Riese, &quot;In dem und dem Gebirge lebt ein großer Eber, der hat Hauer von hundert Meter Länge und sechzig Meter Breite, Du mußt dir eine Krankheit ausdenken, und wenn Lewan dich fragt, dann sage ihm: Wenn du mir eine Borste dieses Ebers bringst,sonst gibt es nichts anderes zwischen Himmel und Erde, das mich retten kann. Sobald Lewan zu dem Eber geht, wird der ihn zerreißen, und wir werden nach unserem Geschmack leben.&quot;</p>
+      <p>Der Riese ging fort und versteckte sich.</p>
+      <p>Als Lewan nach Hause kam, sah er, daß sie krank im Bett lag. Die Krankheit der Schwester ging ihm zu Herzen.</p>
+      <p>&quot;Was kann dir helfen, Schwesterchen&quot;, fragte er.</p>
+      <p>&quot;In dem und dem Gebirge lebt ein großer Eber, der hat hundert Meterlange Hauer. Wie könntest du das wohl beschaffen: Wenn du mir eine Borste von ihm brächtest, lege ich sie mir auf den Kopf und werde sofort gesund&quot;, sagte die Schwester.,</p>
+      <p>Sogleich brach Lewan auf. Er nahm seinen Habicht und seinen Hund mit und machte sich auf den Weg. Während sie so gingen und gingen, sprach der Welpe zu dem Habicht: &quot;Habicht, wie häßlich lang dein Schnabel geworden ist! Siehst du nicht, welche Gefahr Lewan erwartet? Hat er denn die neun Tumani umsonst für dich ausgegeben? Hilf ihm doch!”</p>
+      <p>&quot;Was soll ich ihm denn helfen&quot;, meinte der Habicht.</p>
+      <p>Der Welpe sagte: &quot;Mach dich auf und fliege dem Eber auf den Nacken.</p>
+      <p>
+        Sobald du ihm auf den Nacken geflogen bist, flüstere ihm ins Ohr: Lewan kommt, um mit dir Brüderschaft zu schließen, und du, mein Eber, weißt schon, was du zu machen hast. Wenn er dir nicht glaubt, gehe ich auch hin und sage es ihm nochmals. Sofort wird er es nicht ganz glauben, aber du,Lewan, mußt so laut rufen, daß dem Eber der Rücken aufplatzt. Nur wenn wir so Freunde werden, auf andere Weise ist uns nicht zu helfen&quot;, sagte der Hund. 
+        <pb n="48"/>
+      </p>
+      <p>So beschlossen sie es und begaben sich ins Gebirge. Sie liefen und gelangten zum Aufenthaltsort des Ebers. Die beiden machten halt, und der Habicht brach auf, flog dem Eber auf den Nacken und flüsterte ihm ins Ohr, daß Lewan herbeikäme, um mit ihm Brüderschaft zu schließen. Als der Eber ihm keinen Glauben schenkte, flog er fort, und der Welpe erzählte ihm dasselbe. Als er es auch jetzt noch nicht ganz glaubte, stieß Lewan einen Schrei aus, daß sich die Sterne vom Himmel lösten. Da glaubte es der Eber. Als er Lewan sah, freute er sich sehr.</p>
+      <p>&quot;Das hat mich nicht erstaunt&quot;, sprach der Eber. &quot;Schon einige Zeit belästigen mich die Riesen nicht mehr, Lewan hat sie ausgerottet, er ist herangewachsen und gereift, was kann mir jetzt noch fehlen. Was ist, Lewan,was bedrückt dich?&quot; fragte der Eber.</p>
+      <p>&quot;So und so steht es um meine Sache&quot;, erklärte Lewan. &quot;Außer einer einzigen Schwester habe ich niemanden, und auch sie ist mir krank geworden. Wenn ich ihr deine Borste bringe, wird sie wieder gesund, sonst nicht.”</p>
+      <p>&quot;Nicht nur eine Borste, ich selbst komme ganz mit dir mit&quot;, sprach der Eber.</p>
+      <p>Lewan, der Eber und der Welpe zogen los. Sie kamen nach Hause. Als der Riese sie beisammen sah, starb er fast vor Schreck. Der Eber blieb draußen stehen, und Lewan ging mit der Borste hinein, wo seine Schwester lag. Er legte ihr die Borste an den Kopf, sie selbst aber gingen jagen. Als Lewan von der Jagd zurückkehrte, fragte er: &quot;Wie geht es dir jetzt, Schwesterchen?&quot;</p>
+      <p>“Mir geht es schlechter“, sagte die Schwester.</p>
+      <p>“&quot;Welche Arzenei kann dir denn helfen?&quot; fragte der junge Mann.</p>
+      <p>&quot;In dem und dem Wald haust ein großer Wolf. Wenn du mir dessen Haar bringst, werde ich gesund&quot;, sagte das Mädchen. Auch das hatte ihr der Riese beigebracht, denn was wußte das Mädchen schon.</p>
+      <p>Der Bursche ging hinaus und sprach zu dem Eber: &quot;So und so steht es um meine Sache, ich muß zu diesem Wolf gehen.” Der Eber begleitete ihn,und sie brachen auf, Als sie in die Nähe des Wolfes kamen, machten sie alles so, wie sie es bei dem Eber getan hatten. Als der Wolf herauskam, um mit Lewan Brüderschaft zu schließen, sah er den Eber da stehen. Dieser Eber und dieser Wolf waren Brüder, sie stürzten aufeinander zu und küßten sich. Der Wolf verbrüderte sich auch mit Lewan und fragte ihn: &quot;Was gibt es, brauchst du vielleicht irgendetwas?&quot; Lewan erzählte ihm sein Leid.&quot;</p>
+      <p>Ich begleite dich, laß uns gemeinsam losziehen&quot;, sprach der Wolf, &quot;Sehr gut”, sagten alle und machten sich zusammen auf den Heimweg. Als sie den Hof betraten, brach dem Riesen vor Enttäuschung fast das Herz. &quot;Es hat doch nichts genutzt&quot;, dachte er.</p>
+      <p>
+        Zu dem Mädchen sagte er: &quot;Wenn er dich jetzt fragen sollte, weil du vom 
+        <pb n="49"/>
+         Haar des Wolfes nicht genest, dann erzähle ihm von dem Bären, der neun Tagesreisen von hier im Gebirge lebt,”
+      </p>
+      <p>Der Riese ging davon und versteckte sich, der junge Mann brachte der Schwester das Wolfs haar und legte es an ihren Kopf. Dann ging er hinaus und nahm alle Tiere mit auf die Jagd, Lange waren sie unterwegs und jagten, und als sie nach Hause kamen, ging es dem Mädchen noch schlechter.</p>
+      <p>&quot;Warum verfolgt mich Gott mit seinem Zorn? Wieso ist es mir nicht gelungen, dir mit diesem Mittel zu helfen?&quot; meinte der Bursche.</p>
+      <p>&quot;Jetzt weiß ich, was mich gesund macht”, sagte das Mädchen, &quot;aber es ist fern von hier, und ich habe Angst.&quot; Sie tat, als wollte sie es nicht sagen,aber der Bursche bestand darauf.</p>
+      <p>&quot;Neun Tagesreisen von hier haust im Gebirge ein Bär, dessen Haar wird mich ganz sicher gesund machen&quot;, sprach das Mädchen.</p>
+      <p>Der junge Mann ging hinaus und berichtete dem Eber und dem Wolf,was ihn bedrückte.</p>
+      <p>&quot;Wir kommen mit&quot;, erklärten sie und zogen alle zusammen los. Sie liefen und liefen und gelangten am neunten Tag zu dem Bären. Sie machten es so, wie sie es bei dem Eber und dem Wolf getan hatten. Sobald der Bänden Eber und den Wolf erblickte, freute er sich, denn sie waren seine Brüder. Auch der Bär schloß mit Lewan Brüderschaft und sprach dann zu ihm: &quot;Sage mir, was du auf dem Herzen hast.&quot;</p>
+      <p>Der Bursche erzählte ihm sein Leid und sagte: &quot;Du müßtest dir etwas von deinem Haar ausreißen und mir ein wenig davon geben.&quot;</p>
+      <p>&quot;Ich will euch selbst begleiten, laßt uns gemeinsam aufbrechen”&quot;, sprach der Bär.</p>
+      <p>Sie machten sich alle zusammen auf den Weg und kamen zum Haus des jungen Mannes. Vor dem Haus machten sie Halt, und der Bursche ging zu seiner Schwester hinein. Er zog das Haar des Bären hervor und legte es neben das Kopfkissen. Dann ging er hinaus, und sie zogen auf die Jagd.</p>
+      <p>Darauf kam der Riese hervor, ging zu dem Mädchen und sprach: &quot;Laß deinen Bruder ein Pud Seife herbringen und sage ihm, er soll sich den Kopf damit waschen. Wenn er sich den Kopf einschäumt, laß ihn die Seife auch über die Augen schmieren, und wenn es ihn in den Augen brennt,wird er sie zukneifen. Dann will ich aus dem Zimmer hervorspringen und ihm das Genick brechen. Dann werden wir angenehm und schön leben,niemand wird uns bevormunden.”</p>
+      <p>&quot;Sehr gut&quot;, sagte das Mädchen.</p>
+      <p>Als der Bursche am nächsten Tag kam, ließ ihn das Mädchen ein Pud Seife bringen und den Kopf einseifen, wie der Riese es ihr geraten hatte.</p>
+      <p>
+        Als der Bursche die Augen zukniff, kam der Riese hervor, drehte ihm das 
+        <pb n="50"/>
+         Genick um und brach es ihm. Den Toten warfen sie hinaus. Als die Tiere das sahen, begannen sie alle zu weinen. Der Wolf schluchzte, es weinten das Schwein, der Habicht, der Welpe und der Bär. Schließlich sprach der Welpe zum Habicht: &quot;Wie häßlich lang dir der Schnabel gewachsen ist! Für dich hat Lewan die neun Tumani umsonst ausgegeben. Du fliegst in der Welt hin und her und kennst kein Mittel, um einen Toten wiederzubeleben?&quot;
+      </p>
+      <p>Der Habicht überlegte und überlegte und sagte dann: &quot;Ja, ich kenne tatsächlich ein Mittel, das einen Toten wieder lebendig machen kann. Hierin der Nähe plätschert eine Quelle, 1aß uns das Wasser holen. Wenn wir Lewan damit übergießen, wird er sofort wieder lebendig.&quot;</p>
+      <p>Der Welpe machte sich auf und rollte einen Krug heraus. Sie hängten ihn dem Eber auf den Hauer und zogen zur Quelle. Sie schöpften das Wasser, schafften es heim und schütteten es über Lewan aus. Kaum hatten sie ihn übergossen, wurde er lebendig. Er sprang in das Haus hinein und erschlug den Riesen. Zu seiner Schwester sagte er: &quot;Du hast mich hintergangen, aber ich werde dich nicht töten.“</p>
+      <p>Er gab ihr zwei Schüsseln und sprach: &quot;Ich werde dich für ein Jahr verlassen und lasse dir diese beiden Schüsseln da. Laß in die eine die Tränen für mich rinnen und in die andere die für den Riesen. Wenn ich in einem Jahr zurückkomme und in meiner Schüssel mehr Tränen sehe, will ich dich zur Schwester nehmen, sonst nicht.&quot;</p>
+      <p>Der Bursche ging hinaus, und alle folgten ihm. Sie liefen und liefen und gelangten zu einer Stadt am Meeresstrand. Die Stadt war wirklich sehr groß. Als sie sie betraten, war am Strand ein Pfahl eingerammt und ein Mädchen daran festgebunden. Als sie hingingen, sahen sie, daß das Mädchen unentwegt weinte.</p>
+      <p>Lewan fragte sie: &quot;Warum weinst du, und wieso bist du an den Pfahl gebunden?&quot; ;</p>
+      <p>Das Mädchen sprach: &quot;Siehst du denn nicht, daß in der Stadt alles in Schwarz gehüllt ist? Aus diesem Meer steigt jeden Tag ein Drachen heraus und hat dem Herrscher aufgetragen, daß er ihm an dieser Stelle immer einen Menschen bietet. Wenn der Herrscher sich weigert, wird der Drache die ganze Stadt vernichten, so gewaltig ist er. Auf Befehl des Herrschers hat man aus jedem Haus eine Person herausgebracht, und alle hat der Drache verschlungen. Jetzt ist die Reihe an mir, ich bin die Tochter des Herrschers.&quot;</p>
+      <p>Da ging Lewan hin, band das Mädchen los, grub die Erde auf und setzte sie dort hinein.</p>
+      <p>
+        Der Welpe bereitete seine Gefährten auf den Kampf vor. Dem Eber sagte er: &quot;Bleib am Strand des Meeres. Sobald der Drache in deine Nähe 
+        <pb n="51"/>
+         kommt, stoß deinen Hauer in ihn hinein und wirf ihn in die Höhe.&quot;
+      </p>
+      <p>Zu dem Bären sagte er: &quot;Pack ihn mit deiner Pranke und wirf ihn dem Wolf vor.”</p>
+      <p>&quot;Und du, Wolf, stoße ihn mit deinem harten Schädel und schmettere ihn vor Lewan hin.&quot;</p>
+      <p>&quot;Du, Lewan, schlag ihn mit dem Schwert und spalte den Drachen in der Mitte, Wenn er stirbt, dann flieg du, Habicht, auf ihn und friß sein Fleisch,damit nichts von ihm übrigbleibt”, sagte der Welpe. Alle fanden den Vorschlag des Welpen gut und verhielten sich so, wie er es gesagt hatte.</p>
+      <p>Noch war nicht viel Zeit vergangen, als der Drache durch das Mee rheranschwamm. Kräftig wühlte er das Wasser auf. Als er ein wenig nähergekommen war, rief er: &quot;Was für ein Mann bist du, daß du es gewagt hast,den Menschen loszubinden, den der Herrscher mir an den Pfahl gebunden hat!&quot;</p>
+      <p>&quot;Was ich für ein Mann bin, ich bin Lewan”, rief ihm der Bursche zu.</p>
+      <p>&quot;Wenn du das bist, so sollst du sehen, welches Vergnügen ich dir bereite&quot;,sprach der Drache.</p>
+      <p>&quot;Dann laß es mich mal sehen, da bist du, und hier bin ich&quot;, sagte Lewan.</p>
+      <p>Da stürzte der Drache wütend heran, und sobald er sich dem Strand genähert hatte, spießte ihn der Eber auf seinen Hauer und warf ihn in die Höhe. Als er ihn emporwarf, fiel er vor dem Bären zu Boden. Der legte ihm die Pranke auf und warf ihn dem Wolf vor. Der Wolf stieß ihn mit dem Kopf und schmetterte ihn vor Lewan zu Boden. Lewan hieb mit dem Schwert zu und spaltete ihn in der Mitte. Der Habicht flog auf ihn und fraß alles Fleisch, das der Drache hatte, auf. Der Drache war so groß, daß seine Knochen vier Meter hoch am Meeresstrand aufgehäuft waren.</p>
+      <p>Als sie den Drachen getötet hatten, freute sich das Mädchen und sprach zu Lewan, als sie sie aus der Grube hoben: &quot;Kommt mit zu mir nach Hause.&quot;</p>
+      <p>Alle zusammen zogen los und gelangten zum Haus des Herrschers. Als man vom Tod des Drachens erfuhr, brach großer Jubel aus. Alle Leute in der Stadt freuten sich und dankten Lewan. Der Herrscher gab ihm seine Tochter zur Frau. Lewan lebte im Schloß des Herrschers und zog auf die Jagd. So verging ein ganzes Jahr. Da sprach er zu dem Eber, dem Bären,dem Wolf, dem Welpen und dem Habicht: &quot;Laßt uns aufbrechen und meine Schwester besuchen, um zu sehen, wie es ihr geht.&quot;</p>
+      <p>“Sehr gut&quot;, sagten sie und zogen los. Sie kamen hin und sahen, daß die Schüssel, die er ihr für den Riesen da gelassen hatte, bis zum Rand mit Tränen gefüllt war, während in Lewans Schüssel keine einzige Träne gefallen war.,</p>
+      <p>
+        Das kränkte Lewan, aber trotzdem tat ihm die Schwester leid, und er 
+        <pb n="52"/>
+         nahm sie mit in das Schloß des Herrschers.
+      </p>
+      <p>Als sie im Palast des Herrschers lebten, sagte die Schwester einmal zu ihrem Bruder: &quot;Man erzählt, daß du einen Drachen getötet hast, dessen Knochen am Meeresstrand aufgehäuft liegen. Bring mich: dorthin und zeige sie mir.&quot;</p>
+      <p>&quot;Gut&quot;, meinte der Bruder.</p>
+      <p>Er nahm seine Schwester mit und zeigte ihr die Knochen des Drachen.</p>
+      <p>Das Mädchen ging hin, sah sich um, brach einen kleinen Knochen ab, legte ihn in ihre Tasche und kehrte nach Hause zurück.</p>
+      <p>Wer sich auch nur einen Knochen unter den Kopf legte, der mußte sterben.</p>
+      <p>Das Mädchen nähte ein Kopfkissen, legte diesen Knochen hinein und brachte ihn Lewan als Geschenk. Sowie er seinen Kopf auf das Kissen gelegt hatte, hauchte er seine Seele aus. Als das Land vom Tod dieses guten Mannes erfuhr, versammelten sich alle. Die Wesire berieten lange:&quot;Was sollen wir mit dem Leib dieses Mannes machen.&quot;</p>
+      <p>Der eine sagte: &quot;Wir wollen ihn an einen Baum hängen.&quot; Ein anderer:&quot;Laßt uns ihn in der Erde begraben.&quot; Ein dritter: &quot;In der Kirche wollen wir ihn bestatten.” Aber der Welpe stimmte keinem zu und sprach: &quot;Laßt uns ihn in einen Sarg legen, auf ein Boot bringen und auf das Meer hinausfahren.”</p>
+      <p>Das hielten alle für gut. Sie statteten das Boot und den Sarg aus, betteten den Toten hinein und ließen ihn auf das Meer hinaus. Das Boot schwamm um die Welt herum, einmal im Jahr kam es zu der Stadt. Da zogen der Welpe, der Eber, der Wolf, der Bär und der Habicht los und brachten das Wasser herbei, das zum Leben erwecken konnte. Sie zogen das Boot an Land, öffneten den Sarg, und als sie Lewan mit dem Wasser übergossen, wurde er wieder lebendig.</p>
+      <p>Sie kamen in das Schloß des Herrschers, und alle freuten sich, als sie Lewan lebend sahen. Sie erfuhren, daß sein Tod von seiner Schwester bewirkt worden war. Da setzten sich die Wesire hin. Der eine wollte, daß man sie aufhängen, der andere, daß man sie erschießen sollte. Der Welpe war damit nicht einverstanden und sagte: &quot;Mauern wir sie in einen Kamin ein. Laßt uns darunter Feuer anzünden und sie in seinem Rauch ersticken.&quot;</p>
+      <p>So tat man es auch. Man baute einen Kamin, mauerte das Mädchen oben so ein, daß sie nirgendwohin entrinnen konnte, zündete ein Feuer darunter an und erstickte sie.</p>
+      <p>
+        Lewan, der Eber, der Wolf, der Bär, der Welpe und der Habicht lebten fürstlich im Schloß des Herrschers. Alle freuten sich und waren Lewan dankbar für seine Mannhaftigkeit und seine guten Taten.
+        <pb n="53"/>
+      </p>
+    </body>
+  </text>
 </TEI>

@@ -1,128 +1,148 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/583973/agvali.html">Agvali</settlement>
-       <geo />
-      </placeName>
-      <date>1957</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Г.</forename>
-        <surname xml:lang="rus">Хадисов</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Д.</forename>
-        <surname xml:lang="rus">Атаев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/583973/agvali.html">Agvali</settlement>
+          <geo/>
+        </placeName>
+        <date>1957</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Г.</forename>
+            <surname xml:lang="rus">Хадисов</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Д.</forename>
+            <surname xml:lang="rus">Атаев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_66">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_66">
     <body>
-     <head>33. Шейх из Ботлиха(19)</head>
-     <p>столь древние времена жил ботлихе известный алим последователей муталимов которые разносили славу мудрости всему дагестану среди многих прилежных послушных муталимов дерзкий насмешник проделки которого давали алиму покоя вместо учить коран муталим смешил аульчан анекдотами жадности муллы коварстве дибира несправедливости кадия</p><p>алим решил избавиться насмешника сказал</p><p>желаю терпеть твои проделки возьми моего осла также необходимое покинь наш край иначе клянусь аллахом тебе сдобровать</p><p>хотелось муталиму покидать веселый ботлих поделаешь пришлось</p><p>оседлал осла нагрузил припасами которые дал алим тронулся дальний путь</p><p>долго шел коротко шел днем шел ночью шел шел пока одном высоких перевалов пал измученный осел</p><p>похоронил осла сел около могилы раздумывая своей горькой судьбе</p><p>мимо проходил путник увидел опечаленного муталима спросил</p><p>скажи добрый человек какое горе случилось тобой чья эта свежевырытая могила судя твоей глубокой печали похоронен святой человек</p><p>похоронен ботлихский шейх ответил муталим умевший шутить тяжелые минуты это истинная правда ботлиха весьма ученый осел хотел сказать муталим спохватившись поправился шейх</p><p>это очень большая утрата оказал набожный путник возьми аббаси помолись мою душу могилы святого шейха</p><p>дорога эта оживленной часто проходили путники целые караваны многие услышав кончине ботлихского шейха вносили лепту богоугодное дело муталиму понравилась роль мюрида нового святого дожидаясь расспросов вымогал путников пожертвования пользу шейха мюридов простаков немало муталим быстро разбогател</p><p>муталим поставил могиле часовню окружил учениками стала эта могила местом поклонения многих верующих</p><p>вернемся ботлих тому алиму который изгнал непокорного ученика услышал появилось новое святое место решил совершить туда паломничество замолить грехи которых накопилось немало</p><p>добрался святилища видит стоит часовня рядом усадьба кругом обработанные поля тучные отары овец</p><p>это поставленное святое дело воскликнул алим вошел часовню</p><p>салам алейкум правоверный приветствовал почтенного вида человека который сидя ковре перелистывал коран</p><p>ваалейкум ассалам путник послышался ответ человек поднял глаза</p><p>каково изумление ботлихского алима признал нем своего самого нерадивого муталима богохульника</p><p>это ведаешь отличным хозяйством ка расскажи правду воскликнул алим</p><p>испугался новый мюрид старый плут каким образом проведал делишках рассказал правду</p><p>гм ответил бывший учитель осел говоришь могиле шейха которому поклоняюсь похоронен осел дедушка твоего осла будем продолжать наше выгодное дело</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>33. Шейх из Ботлиха(19)</head>
+      <p>столь древние времена жил ботлихе известный алим последователей муталимов которые разносили славу мудрости всему дагестану среди многих прилежных послушных муталимов дерзкий насмешник проделки которого давали алиму покоя вместо учить коран муталим смешил аульчан анекдотами жадности муллы коварстве дибира несправедливости кадия</p>
+      <p>алим решил избавиться насмешника сказал</p>
+      <p>желаю терпеть твои проделки возьми моего осла также необходимое покинь наш край иначе клянусь аллахом тебе сдобровать</p>
+      <p>хотелось муталиму покидать веселый ботлих поделаешь пришлось</p>
+      <p>оседлал осла нагрузил припасами которые дал алим тронулся дальний путь</p>
+      <p>долго шел коротко шел днем шел ночью шел шел пока одном высоких перевалов пал измученный осел</p>
+      <p>похоронил осла сел около могилы раздумывая своей горькой судьбе</p>
+      <p>мимо проходил путник увидел опечаленного муталима спросил</p>
+      <p>скажи добрый человек какое горе случилось тобой чья эта свежевырытая могила судя твоей глубокой печали похоронен святой человек</p>
+      <p>похоронен ботлихский шейх ответил муталим умевший шутить тяжелые минуты это истинная правда ботлиха весьма ученый осел хотел сказать муталим спохватившись поправился шейх</p>
+      <p>это очень большая утрата оказал набожный путник возьми аббаси помолись мою душу могилы святого шейха</p>
+      <p>дорога эта оживленной часто проходили путники целые караваны многие услышав кончине ботлихского шейха вносили лепту богоугодное дело муталиму понравилась роль мюрида нового святого дожидаясь расспросов вымогал путников пожертвования пользу шейха мюридов простаков немало муталим быстро разбогател</p>
+      <p>муталим поставил могиле часовню окружил учениками стала эта могила местом поклонения многих верующих</p>
+      <p>вернемся ботлих тому алиму который изгнал непокорного ученика услышал появилось новое святое место решил совершить туда паломничество замолить грехи которых накопилось немало</p>
+      <p>добрался святилища видит стоит часовня рядом усадьба кругом обработанные поля тучные отары овец</p>
+      <p>это поставленное святое дело воскликнул алим вошел часовню</p>
+      <p>салам алейкум правоверный приветствовал почтенного вида человека который сидя ковре перелистывал коран</p>
+      <p>ваалейкум ассалам путник послышался ответ человек поднял глаза</p>
+      <p>каково изумление ботлихского алима признал нем своего самого нерадивого муталима богохульника</p>
+      <p>это ведаешь отличным хозяйством ка расскажи правду воскликнул алим</p>
+      <p>испугался новый мюрид старый плут каким образом проведал делишках рассказал правду</p>
+      <p>гм ответил бывший учитель осел говоришь могиле шейха которому поклоняюсь похоронен осел дедушка твоего осла будем продолжать наше выгодное дело</p>
+    </body>
+  </text>
+</TEI>

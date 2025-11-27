@@ -1,128 +1,150 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф. 9, on. I, д. № 6</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф. 9, on. I, д. № 6</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1936</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Магомед</forename>
-        <surname xml:lang="rus">Ахмадапаоглы</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А. М.</forename>
-        <surname xml:lang="rus">Алиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo/>
+        </placeName>
+        <date>1936</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Магомед</forename>
+            <surname xml:lang="rus">Ахмадапаоглы</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А. М.</forename>
+            <surname xml:lang="rus">Алиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_83">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_83">
     <body>
-     <head>35. Чудеснорожденный богатырь</head>
-     <p>жили муж жена владели большим богатством детей муж жена печально сидели дома пришла одна бедная старуха</p><p>грустите спросила старуха</p><p>печальны оттого ответила жеиа желали иметь ребенка аллах нам даст</p><p>ребенок сказала старуха нужно пойти ханский сад найти самом углу яблоню</p><p>сорвать одно самое красное яблоко половину яблока пусть съест женщина другую половину даст кобылице ровно год женщина родит ребенка кобылица принесет жеребенка</p><p>старуха получила хорошее вознаграждение ушла муж отправился ханский сад сорвал яблоко принес жене</p><p>жена советовала старуха съела пол яблока другую половину дала кобылице прошел год жена родила прекрасного ребенка кобылица принесла жеребенка</p><p>дням часам рос ребенок прошли годы стал юношей</p><p>однажды поехал па охоту вместе другими юношами</p><p>товарищи день вернулись домой сами устали коней изморили гоноша поехал дальше</p><p>вечер прибыл одно селение остановился старухи которая радостью приняла кунака старухи такая красивая дочь юноша вечер полюбил</p><p>наутро уезжал подарил старухиной дочери кольцо просил ждать возвращения старуха сразу поняла это простой человек настоящий нарт</p><p>проехав леса долины горы нарт прибыл другое селение заметил одного двора пытается вырваться прекрасная девушка пожилая женщина удерживает нарт подъехал начал расспрашивать</p><p>девушка сказала</p><p>моих брата пошли сражаться драконом который несколько лет наводит ужас округу боюсь братья погибнут никто мог одолеть дракона</p><p>нарт спросил какую сторону направились братья поскакал туда издалека услышал страшный рев крики доехал места схватки храбрецов драконом миг братья обессилели гибель казалась неминуемой нарт обнажил шашку куски изрубил страшного зверя</p><p>брата пришли спросили сюда попал нарт рассказал братья знали отблагодарить необыкновенного юношу пригласили домой четверо приехали селение братья решили выдать замуж сестру сестра радостью согласилась выйти замуж такого храбрела</p><p>нарт решил сначала поехать домой пообещал вернуться девушке уезжал братья сказали</p><p>тебе встретятся две дороги одна длинная безопасная другая короткая опасная засел страшный зверь который разрывает путников куски костей зверь построил дом</p><p>поблагодарил парт предупреждение решил поехать опасной дороге снова испытать свои силы издали увидел какую необыкновенную постройку костей подъехал поближе бросился ужасный зверь похожий дикого человека долго продолжалась схватка нарту удалось свалить зверя хотел нарт отрубить зверю голову сбросил шкуру юноша увидел девушку необыкновенной красоты</p><p>убивай взмолилась</p><p>нарт тронул очаровала своей красотой девушка сказала</p><p>первый вижу такого храбреца согласна выйти замуж</p><p>нарт обрадовался вместе нею вернулся селение взял вторую невесту сестру трех братьев затем заехал своей первой невестой дочерью старухи вместе тремя раса вица ми вестам приехал домой нетерпением ждали родители сыграли такую свадьбу сельчане поныне говорят красавицах женах нарта</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>35. Чудеснорожденный богатырь</head>
+      <p>жили муж жена владели большим богатством детей муж жена печально сидели дома пришла одна бедная старуха</p>
+      <p>грустите спросила старуха</p>
+      <p>печальны оттого ответила жеиа желали иметь ребенка аллах нам даст</p>
+      <p>ребенок сказала старуха нужно пойти ханский сад найти самом углу яблоню</p>
+      <p>сорвать одно самое красное яблоко половину яблока пусть съест женщина другую половину даст кобылице ровно год женщина родит ребенка кобылица принесет жеребенка</p>
+      <p>старуха получила хорошее вознаграждение ушла муж отправился ханский сад сорвал яблоко принес жене</p>
+      <p>жена советовала старуха съела пол яблока другую половину дала кобылице прошел год жена родила прекрасного ребенка кобылица принесла жеребенка</p>
+      <p>дням часам рос ребенок прошли годы стал юношей</p>
+      <p>однажды поехал па охоту вместе другими юношами</p>
+      <p>товарищи день вернулись домой сами устали коней изморили гоноша поехал дальше</p>
+      <p>вечер прибыл одно селение остановился старухи которая радостью приняла кунака старухи такая красивая дочь юноша вечер полюбил</p>
+      <p>наутро уезжал подарил старухиной дочери кольцо просил ждать возвращения старуха сразу поняла это простой человек настоящий нарт</p>
+      <p>проехав леса долины горы нарт прибыл другое селение заметил одного двора пытается вырваться прекрасная девушка пожилая женщина удерживает нарт подъехал начал расспрашивать</p>
+      <p>девушка сказала</p>
+      <p>моих брата пошли сражаться драконом который несколько лет наводит ужас округу боюсь братья погибнут никто мог одолеть дракона</p>
+      <p>нарт спросил какую сторону направились братья поскакал туда издалека услышал страшный рев крики доехал места схватки храбрецов драконом миг братья обессилели гибель казалась неминуемой нарт обнажил шашку куски изрубил страшного зверя</p>
+      <p>брата пришли спросили сюда попал нарт рассказал братья знали отблагодарить необыкновенного юношу пригласили домой четверо приехали селение братья решили выдать замуж сестру сестра радостью согласилась выйти замуж такого храбрела</p>
+      <p>нарт решил сначала поехать домой пообещал вернуться девушке уезжал братья сказали</p>
+      <p>тебе встретятся две дороги одна длинная безопасная другая короткая опасная засел страшный зверь который разрывает путников куски костей зверь построил дом</p>
+      <p>поблагодарил парт предупреждение решил поехать опасной дороге снова испытать свои силы издали увидел какую необыкновенную постройку костей подъехал поближе бросился ужасный зверь похожий дикого человека долго продолжалась схватка нарту удалось свалить зверя хотел нарт отрубить зверю голову сбросил шкуру юноша увидел девушку необыкновенной красоты</p>
+      <p>убивай взмолилась</p>
+      <p>нарт тронул очаровала своей красотой девушка сказала</p>
+      <p>первый вижу такого храбреца согласна выйти замуж</p>
+      <p>нарт обрадовался вместе нею вернулся селение взял вторую невесту сестру трех братьев затем заехал своей первой невестой дочерью старухи вместе тремя раса вица ми вестам приехал домой нетерпением ждали родители сыграли такую свадьбу сельчане поныне говорят красавицах женах нарта</p>
+    </body>
+  </text>
+</TEI>

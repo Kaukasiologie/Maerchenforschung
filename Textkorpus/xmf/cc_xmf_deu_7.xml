@@ -1,237 +1,259 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title xml:lang="deu">2. Geria und der schwarze Herrscher</title>
-<author>
-<name xml:id="HF">
-<persName>
-<forename>Heinz</forename>
-<surname>Fähnrich</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-</name>
-</author>
-<author>
-<name xml:id="KD">
-<persName>
-<forename>Korneli</forename>
-<surname>Danelia</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-</name>
-</author>
-<author>
-<name xml:id="AZ">
-<persName>
-<forename>Apolon</forename>
-<surname>Zanava</surname>
-</persName>
-</name>
-</author>
-<respStmt>
-<resp>Annotated according to the ATU system</resp>
-<name xml:id="ED">
-<persName>
-<forename>Elguja</forename>
-<surname>Dadunashvili</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-</name>
-<name xml:id="DF">
-<persName>
-<forename>Diana</forename>
-<surname>Forker</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<publisher>
-<name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-</publisher>
-<pubPlace>
-<genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-</pubPlace>
-<date>2024</date>
-<distributor>
-<addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-<ref target="https://github.com/edadunashvili">Software und Texte</ref>
-</distributor>
-<availability>
-<p>
-<ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-</p>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="collection">
-<title xml:lang="eng">Mingrelian Fairy Tales</title>
-<title xml:lang="kat">მეგრული ზღაპრები</title>
-<title xml:lang="deu">Mingrelische Märchen</title>
-<author role="author">
-<name ref="#HF">
-<persName>
-<forename>Heinz</forename>
-<surname>Fähnrich</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#KD">
-<persName>
-<forename>Korneli</forename>
-<surname>Danelia</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#AZ">
-<persName>
-<forename>Apolon</forename>
-<surname>Tsanava</surname>
-</persName>
-</name>
-</author>
-<respStmt>
-<resp/>
-<name/>
-</respStmt>
-<extent>
-<measure unit="words"/>
-<measure unit="pages"/>
-</extent>
-<publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-<distributor/>
-<date when="2001">The year 2001</date>
-<availability>
-<licence/>
-</availability>
-</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="deu">
-<index indexName="iso639-3"/>
-<ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-</language>
-</langUsage>
-<textClass>
-<keywords>
-<term type="writingSystem">utf-8</term>
-</keywords>
-<keywords scheme="http://uri.gbv.de/terminology/bk/">
-<term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-<term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-</keywords>
-<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-<term>prose</term>
-</keywords>
-<keywords scheme="https://d-nb.info/gnd/">
-<term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-<list>
-<item/>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-<list>
-<item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_7.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-<list>
-<item/>
-</list>
-</keywords>
-</textClass>
-<creation>
-<placeName>
-<country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-<region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-<district/>
-<settlement/>
-<geo/>
-</placeName>
-<date notAfter="1880-12-31">notAfter 1880.12.31</date>
-</creation>
-<particDesc>
-<person role="speaker">
-<persName>
-<forename/>
-<surname/>
-</persName>
-<age/>
-<birth>
-<date/>
-<placeName>
-<country/>
-<region/>
-<district/>
-<settlement/>
-<geo/>
-</placeName>
-</birth>
-</person>
-<person role="researcher">
-<persName type="gnd" corresp="https://d-nb.info/gnd/173176518">173176518>
-      <forename>Alexandre</forename>
-<surname>Zagareli</surname>
-</persName>
-</person>
-</particDesc>
-</profileDesc>
-<revisionDesc>
-<listChange>
-<change>
-<name/>
-<date/>
-</change>
-</listChange>
-</revisionDesc>
-</teiHeader>
-<text xml:id="cc_xmf_deu_7">
-<body>
-<p>Geria und der schwarze Herrscher</p>
-<p>Es war ein armer verheirateter Mann, der hatte nicht mehr als einen Sohn, aber der war sehr schön und stark und hieß Geria. Eines Tages ging <pb n="7"/>dieser Bursche auf die Jagd, und als er am Abend nach Hause kam, sah er eine Frau, die mit einem Krug zur Quelle ging. Er schoß einen Pfeil auf sie und zerschlug den Krug. Die Frau blickte ihn an und sprach: "Wenn du so ein tüchtiger Bursche bist, dann zerbrich mir nicht den Krug, sondern hole die Schwester der zwölf Brüder Riesen hierher, die hinter den zwölf Bergen leben."</p>
-<p>Als der Bursche das vernahm, begann ihm jugendlich stürmisch das Herz zu klopfen, bis er sie gesehen hätte. Er kam nach Hause und sagte zu Mutter und Vater: "Bratet mir Wegzehrung für ein Jahr, und sollte ich in der vereinbarten Zeit nicht zurückkommen, so folgt mir nach."</p>
-<p>Seine Eltern wollten nichts davon hören: "Wir haben niemanden außer dir, und auch du wirst uns noch verlorengehen!"</p>
-<p>Sie begannen zu weinen, aber Geria hörte nicht auf sie, und sie bereiteten ihm Wegzehrung für ein Jahr, aber es läßt sich nicht aussprechen, welche Trübsal beim Abschied herrschte. Alle erfuhren von dem Abschied und hörten das Weinen: die Sonne und der Mond, der Himmel und die Erde, das Meer und der Sand., Schließlich segneten sie ihn und ließen ihn ziehen. Einen kleinen Hund nahm er mit, der hieß Matikotschi, das bedeutet: Ich bin auch ein Mensch. Sie verabschiedeten sich voneinander, küßten und umarmten sich, und der junge Mann brach auf.</p>
-<p>Er lief und lief und lief. Er lief, soviel er konnte, eine Woche, fünfzehn Tage, ein Jahr und drei Monate lief er und überquerte sechs Berge. Aber als er diese sechs Berge überwunden hatte, geriet alles durcheinander: Bäume und Steine stürzten herab und rollten in den Abgrund, doch Geria blieb unversehrt. Da hörte er eine Stimme aus der Tiefe: "Was bist du für ein Mensch, daß du mir standhalten konntest? Wer wäre dazu imstande außer Geria, dem Sohn des armen Mannes?"  </p>
-<p>Da rief der Bursche: "Ich bin Geria, der Sohn des armen Mannes.”</p>
-<p>Als die alte Hexe Rokapi das hörte, kam sie ihm entgegen, verneigte sich vor ihm und erwies ihm große Ehre. "Wohin gehst du?" fragte sie. Er erzählte ihr sein Vorhaben, Aber das verdroß Rokapi sehr. Geria sagte: "Was verdrießt dich so?"  </p>
-<p>"Viele habe ich gesehen, die dorthin zogen, aber niemanden, der von dort zurückgekehrt ist.”</p>
-<p>Doch Geria achtete nicht auf ihre Worte, machte sich wieder auf den Weg und lief und lief und lief. Soviel er konnte, lief er, und als er nochmals sechs Berge überquert hatte, entstand ein noch schlimmerer Tumult. Das war das Dorf von Rokapis älterer Schwester. Aber Geria ließ sich nichts anmerken, und die Hexe rief ihm zu: "Was für ein Mensch bist du, daß du mir widerstehen konntest. Bist du etwa Geria, der Sohn des armen Mannes?" <pb n="8"/>
-</p>
-<p>"Der bin ich."</p>
-<p>Natürlich kam ihm die Hexe sofort entgegen, verneigte sich vor ihm und erwies ihm Ehre. Dann fragte sie: "Wohin gehst du?" Geria erzählte ihr seine Absicht, aber das betrübte sie sehr.</p>
-<p>Da fragte Geria: "Warum bist du so betrübt?"</p>
-<p>"Warum wohl: Viele habe ich gesehen, die dorthin zogen, aber niemanden, der zurückgekehrt ist. Aber ich will dir eine Wohltat erweisen", sprach die Hexe, "ich schenke dir mein dreibeiniges Roß!"</p>
-<p>Sie rief ihr Roß und schärfte ihm ein: "Solange Geria am Leben ist, sollst du ihm die Treue halten."</p>
-<p>Geria verabschiedete sich von ihr, setzte sich auf sein Roß, ließ seinen Hund Matikotschi hinterherlaufen und ritt davon. Er gelangte auf eine große Wiese und näherte sich dem Anwesen der Riesen. Als er sich auf der Wiese umsah, löste sich der Kalk von seinem Herzen, und seine Augen füllten sich mit Tränen. Er erinnerte sich an sein Zuhause, an das Spiel im Hof und sagte: "Dank sei dem barmherzigen Gott!” Und er gab seinem Roß einen Klaps mit der Peitsche und ließ es so schön tänzeln, daß man es in Staub und Luft nicht unterscheiden konnte, und sprach: "Jetzt bin ich in einem ungewöhnlichen Land angelangt." Er ritt zum Tor der Riesen, sprang vom Pferd und band es dort fest. Als er ein Stück weitergegangen war, meinte er: "Ich habe das Roß schlecht angebunden." Er wandte sich zurück, riß eine Eiche aus, stieß sie kopfüber in die Erde, und als er es fest daran anband, sprach das Roß: "Hättest du das nicht so gemacht, wäre ich nach Hause gelaufen. Mache es jetzt so, wie ich es dir sagen werde. Jetzt sind die Riesen nicht zu Hause. Geh hin und drehe den umgestülpten Kessel um. Dann geh zu dem Mädchen und nimm ihr das Versprechen ab, deine Frau zu werden.”</p>
-<p>Geria ging hinein, stieß mit dem Fuß nach dem Kessel, und der überschlug sich dreimal und stellte sich dann mit der Öffnung nach oben. Dann ging er zu dem Mädchen und zerbrach alle Schlösser. Als er in den Raum trat, wo sich das Mädchen befand, staunte sie sehr, aber als sie sah, was für ein starker junger Mann er war, freute sie sich und versprach ihm, seine Frau zu werden. Fröhlich kehrte der junge Mann zu seinem Roß zurück. In jener Nacht ruhte er sich dort gut aus, und am nächsten Tag sprach das Roß zu ihm: "Jetzt sind die Riesen gekommen, und als sie den Kessel aufgestellt sahen, ergriff sie Furcht, denn nur alle zwölf Riesen zusammen vermochten ihn zu drehen. Und sie haben gesagt: Was der auch immer sagen mag, der das getan hat, darauf wollen wir hören. Und jetzt geh schnell zu ihnen hin!"</p>
-<p>Geria ging zu den Riesen. Kaum hatten die ihn gesehen, sprangen sie alle auf, liefen ihm entgegen, verbeugten sich und sagten: "Was verlangst du <pb n="9"/>von uns?"</p>
-<p>"Ihr sollt mir eure Schwester geben.”</p>
-<p>"Wir geben sie dir, aber der schwarze Herrscher wird sie dir nicht überlassen”, fügten sie hinzu.  </p>
-<p>Doch Geria sagte: "Ich fürchte mich vor niemandem."</p>
-<p>Da deckten sie die Tafel, und wie sie mitten im Feiern waren, sah Geria morgens hinaus und erblickte viele Männer, alle in schwarzen Rüstungen, die der schwarze Herrscher ausgesandt hatte. Er setzte sich auf sein Roß, sprengte in ihre Mitte und tötete sie bis auf drei, die er als Boten freiließ: "Ich bin Geria, der Sohn des armen Mannes”", ließ er sie ausrichten.</p>
-<p>Das verdroß den Herrscher, und er sandte alle Truppen aus, die er besaß, bis auf einen kleinen Rest. Als Geria sie sah, wurde er etwas nachdenklich, aber sein Roß sprach: "Das ist doch gar nichts, Junge, Schlimmeres steht dir bevor."</p>
-<p>Geria feuerte das Roß an und tötete alle außer einem. Den ließ er als Boten frei. Jetzt geriet der Herrscher vollends in Zorn und rief seinen berühmten Streiter herbei, auf den er alle Hoffnungen setzte und den er für die Notzeit bereithielt. Dieser Mann hieß Qwamurizchami, das bedeutet: der mit dem Stern auf der Stirn, der Glückliche. Er gab ihm alle Soldaten, die er noch besaß, und ließ ihn ziehen.</p>
-<p>Als Geria sie sah, war er sehr bedrückt, doch was sollte er tun?</p>
-<p>Das Roß sprach: "Das ist es, wovon ich gesprochen habe."</p>
-<p>Geria bekreuzigte sich und sprach: "Dank sei Gott”, verabschiedete sich von seiner Frau, weil er nicht erwartete, den Kampf zu überleben, und ritt hinaus. Aber noch griff er ihn nicht an. Erst vernichtete er alle Truppen, und dann warfen sie die Spieße aufeinander. Sie kämpften zu Pferde. Aber es ging nicht um die Kraft, denn Qwamurizchamis Seele lag in der Hand eines anderen, nichts konnte ihn töten. Und so rief Qwamurizchami: "So mußt du werfen, Junge!" Und er tötete Geria. Kaum hatte er Geria umgebracht, packte er das Mädchen und schleppte sie fort.</p>
-<p>Doch das Mädchen sagte zu dem Herrscher: "Ich bin die Frau eines solchen Mannes gewesen. So leicht ergebe ich mich dir nicht. Entweder du kämpfst mit mir, und wer gewinnt, dessen Wunsch soll erfüllt werden. Oder du gibst mir drei Monate Zeit, um ihn zu betrauern."</p>
-<p>Der Herrscher fürchtete sich vor einem Kampf: Sie ist ja mit den Riesen verwandt, dachte er und ließ ihr drei Monate Zeit.</p>
-<p>Als Geria gefallen war, lag sein Kopf für sich und der Körper für sich. Sein Hund Matikotschi lief hin, legte die Teile zusammen und setzte sich dazu, um sie zu bewachen.</p>
-<p>Ein Jahr war inzwischen vergangen, und da die Eltern vergeblich auf die Rückkehr ihres Geria warteten, begaben sie sich auf den Weg und gelangten<pb n="10"/> in die Nähe. Auf einem schmalen Weg hatten sich viele Schlangen zusammengefunden, die griffen sich gegenseitig an, und alle kamen ums Leben. Da krochen zwei große Schlangen hervor. Sie glitten in einen Fluß hinein, und als sie wieder herauskamen, schlüpften sie hier und da an den toten Schlangen vorbei und machten sie alle wieder lebendig. Dieser Anblick verwunderte die Eltern sehr, und sie sprachen: "Von diesem Wasser wollen wir ein wenig mitnehmen." Sie schöpften einen Fingerhut voll und nahmen ihn mit.</p>
-<p>Als sie näherkamen und Matikotschi sie sah, kam er herbeigelaufen, ging ihnen entgegen und führte sie betrübt zu dem Toten. Als sie Geria tot sahen, sanken die beiden Armen zu Boden und weinten lange. Dann erinnerten sie sich, daß sie dieses Wasser hatten. Die bedauernswerte Mutter holte es hervor, und als sie es auf Geria goß, wurde er wieder lebendig und sprach: "Ach, wie lange ich geschlafen habe!” Als er aufsah und Mutter und Vater erblickte, freute er sich, Aber als er daran dachte, was geschehen war, wurde er wieder betrübt und sagte: "Lebt wohl.” Er verabschiedete sich wieder von seinen Eltern. Die weinten viel, doch sie legten ihre Angelegenheit in Gottes Hand und faßten sich in Geduld.</p>
-<p>Geria brach auf, und als er sich dem Land des schwarzen Herrschers näherte, stieß er auf einen großen Wald. Als er hineinschritt, war ein solcher Lärm zu hören, daß es nicht schlimmer sein konnte. Als er auf dem Weg stehenblieb, hörte er, daß etwas umherlief, den Wald umbrach und die Bäume aufeinanderschmetterte. Er erblickte einen großen Eber, der direkt auf ihn zulief und ihn angriff, Geria sprang zur Seite, packte ihn und warf ihn drei ausgestreckte Armlängen zurück, doch der Eber griff wieder an. Drei Tage lang kämpften sie miteinander, und schließlich siegte der junge Mann und riß ihn in der Mitte auseinander. Als er ihn zerrissen hatte, sprang ein Reh heraus. Als er das Reh erlegt hatte, fiel ein Kästchen heraus. Als er das Kästchen aufbrach, kamen drei Schwalben hervorgeflogen. Zwei tötete er, und die dritte fing er.</p>
-<p>Zu dieser Zeit wurde Qwamurizchami krank und kam an den Rand des Todes, denn das war seine Seele. Und als Geria auch die dritte Schwalbe tötete, starb Qwamurizchami. Dann betrat Geria den Hof des Herrschers, tötete alle außer seiner Frau und führte seine Frau zu seinen Eltern.</p>
-<p>Große Freude erwartete seine Eltern endlich für ihre Geduld und ihr Leid, und alle zogen wieder nach Hause.<pb n="11"/></p>
-</body>
-</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">2. Geria und der schwarze Herrscher</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_7.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1880.12.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/173176518">
+            173176518&gt;
+            <forename>Alexandre</forename>
+            <surname>Zagareli</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_7">
+    <body>
+      <p>Geria und der schwarze Herrscher</p>
+      <p>
+        Es war ein armer verheirateter Mann, der hatte nicht mehr als einen Sohn, aber der war sehr schön und stark und hieß Geria. Eines Tages ging 
+        <pb n="7"/>
+        dieser Bursche auf die Jagd, und als er am Abend nach Hause kam, sah er eine Frau, die mit einem Krug zur Quelle ging. Er schoß einen Pfeil auf sie und zerschlug den Krug. Die Frau blickte ihn an und sprach: &quot;Wenn du so ein tüchtiger Bursche bist, dann zerbrich mir nicht den Krug, sondern hole die Schwester der zwölf Brüder Riesen hierher, die hinter den zwölf Bergen leben.&quot;
+      </p>
+      <p>Als der Bursche das vernahm, begann ihm jugendlich stürmisch das Herz zu klopfen, bis er sie gesehen hätte. Er kam nach Hause und sagte zu Mutter und Vater: &quot;Bratet mir Wegzehrung für ein Jahr, und sollte ich in der vereinbarten Zeit nicht zurückkommen, so folgt mir nach.&quot;</p>
+      <p>Seine Eltern wollten nichts davon hören: &quot;Wir haben niemanden außer dir, und auch du wirst uns noch verlorengehen!&quot;</p>
+      <p>Sie begannen zu weinen, aber Geria hörte nicht auf sie, und sie bereiteten ihm Wegzehrung für ein Jahr, aber es läßt sich nicht aussprechen, welche Trübsal beim Abschied herrschte. Alle erfuhren von dem Abschied und hörten das Weinen: die Sonne und der Mond, der Himmel und die Erde, das Meer und der Sand., Schließlich segneten sie ihn und ließen ihn ziehen. Einen kleinen Hund nahm er mit, der hieß Matikotschi, das bedeutet: Ich bin auch ein Mensch. Sie verabschiedeten sich voneinander, küßten und umarmten sich, und der junge Mann brach auf.</p>
+      <p>Er lief und lief und lief. Er lief, soviel er konnte, eine Woche, fünfzehn Tage, ein Jahr und drei Monate lief er und überquerte sechs Berge. Aber als er diese sechs Berge überwunden hatte, geriet alles durcheinander: Bäume und Steine stürzten herab und rollten in den Abgrund, doch Geria blieb unversehrt. Da hörte er eine Stimme aus der Tiefe: &quot;Was bist du für ein Mensch, daß du mir standhalten konntest? Wer wäre dazu imstande außer Geria, dem Sohn des armen Mannes?&quot;  </p>
+      <p>Da rief der Bursche: &quot;Ich bin Geria, der Sohn des armen Mannes.”</p>
+      <p>Als die alte Hexe Rokapi das hörte, kam sie ihm entgegen, verneigte sich vor ihm und erwies ihm große Ehre. &quot;Wohin gehst du?&quot; fragte sie. Er erzählte ihr sein Vorhaben, Aber das verdroß Rokapi sehr. Geria sagte: &quot;Was verdrießt dich so?&quot;  </p>
+      <p>&quot;Viele habe ich gesehen, die dorthin zogen, aber niemanden, der von dort zurückgekehrt ist.”</p>
+      <p>
+        Doch Geria achtete nicht auf ihre Worte, machte sich wieder auf den Weg und lief und lief und lief. Soviel er konnte, lief er, und als er nochmals sechs Berge überquert hatte, entstand ein noch schlimmerer Tumult. Das war das Dorf von Rokapis älterer Schwester. Aber Geria ließ sich nichts anmerken, und die Hexe rief ihm zu: &quot;Was für ein Mensch bist du, daß du mir widerstehen konntest. Bist du etwa Geria, der Sohn des armen Mannes?&quot; 
+        <pb n="8"/>
+      </p>
+      <p>&quot;Der bin ich.&quot;</p>
+      <p>Natürlich kam ihm die Hexe sofort entgegen, verneigte sich vor ihm und erwies ihm Ehre. Dann fragte sie: &quot;Wohin gehst du?&quot; Geria erzählte ihr seine Absicht, aber das betrübte sie sehr.</p>
+      <p>Da fragte Geria: &quot;Warum bist du so betrübt?&quot;</p>
+      <p>&quot;Warum wohl: Viele habe ich gesehen, die dorthin zogen, aber niemanden, der zurückgekehrt ist. Aber ich will dir eine Wohltat erweisen&quot;, sprach die Hexe, &quot;ich schenke dir mein dreibeiniges Roß!&quot;</p>
+      <p>Sie rief ihr Roß und schärfte ihm ein: &quot;Solange Geria am Leben ist, sollst du ihm die Treue halten.&quot;</p>
+      <p>Geria verabschiedete sich von ihr, setzte sich auf sein Roß, ließ seinen Hund Matikotschi hinterherlaufen und ritt davon. Er gelangte auf eine große Wiese und näherte sich dem Anwesen der Riesen. Als er sich auf der Wiese umsah, löste sich der Kalk von seinem Herzen, und seine Augen füllten sich mit Tränen. Er erinnerte sich an sein Zuhause, an das Spiel im Hof und sagte: &quot;Dank sei dem barmherzigen Gott!” Und er gab seinem Roß einen Klaps mit der Peitsche und ließ es so schön tänzeln, daß man es in Staub und Luft nicht unterscheiden konnte, und sprach: &quot;Jetzt bin ich in einem ungewöhnlichen Land angelangt.&quot; Er ritt zum Tor der Riesen, sprang vom Pferd und band es dort fest. Als er ein Stück weitergegangen war, meinte er: &quot;Ich habe das Roß schlecht angebunden.&quot; Er wandte sich zurück, riß eine Eiche aus, stieß sie kopfüber in die Erde, und als er es fest daran anband, sprach das Roß: &quot;Hättest du das nicht so gemacht, wäre ich nach Hause gelaufen. Mache es jetzt so, wie ich es dir sagen werde. Jetzt sind die Riesen nicht zu Hause. Geh hin und drehe den umgestülpten Kessel um. Dann geh zu dem Mädchen und nimm ihr das Versprechen ab, deine Frau zu werden.”</p>
+      <p>Geria ging hinein, stieß mit dem Fuß nach dem Kessel, und der überschlug sich dreimal und stellte sich dann mit der Öffnung nach oben. Dann ging er zu dem Mädchen und zerbrach alle Schlösser. Als er in den Raum trat, wo sich das Mädchen befand, staunte sie sehr, aber als sie sah, was für ein starker junger Mann er war, freute sie sich und versprach ihm, seine Frau zu werden. Fröhlich kehrte der junge Mann zu seinem Roß zurück. In jener Nacht ruhte er sich dort gut aus, und am nächsten Tag sprach das Roß zu ihm: &quot;Jetzt sind die Riesen gekommen, und als sie den Kessel aufgestellt sahen, ergriff sie Furcht, denn nur alle zwölf Riesen zusammen vermochten ihn zu drehen. Und sie haben gesagt: Was der auch immer sagen mag, der das getan hat, darauf wollen wir hören. Und jetzt geh schnell zu ihnen hin!&quot;</p>
+      <p>
+        Geria ging zu den Riesen. Kaum hatten die ihn gesehen, sprangen sie alle auf, liefen ihm entgegen, verbeugten sich und sagten: &quot;Was verlangst du 
+        <pb n="9"/>
+        von uns?&quot;
+      </p>
+      <p>&quot;Ihr sollt mir eure Schwester geben.”</p>
+      <p>&quot;Wir geben sie dir, aber der schwarze Herrscher wird sie dir nicht überlassen”, fügten sie hinzu.  </p>
+      <p>Doch Geria sagte: &quot;Ich fürchte mich vor niemandem.&quot;</p>
+      <p>Da deckten sie die Tafel, und wie sie mitten im Feiern waren, sah Geria morgens hinaus und erblickte viele Männer, alle in schwarzen Rüstungen, die der schwarze Herrscher ausgesandt hatte. Er setzte sich auf sein Roß, sprengte in ihre Mitte und tötete sie bis auf drei, die er als Boten freiließ: &quot;Ich bin Geria, der Sohn des armen Mannes”&quot;, ließ er sie ausrichten.</p>
+      <p>Das verdroß den Herrscher, und er sandte alle Truppen aus, die er besaß, bis auf einen kleinen Rest. Als Geria sie sah, wurde er etwas nachdenklich, aber sein Roß sprach: &quot;Das ist doch gar nichts, Junge, Schlimmeres steht dir bevor.&quot;</p>
+      <p>Geria feuerte das Roß an und tötete alle außer einem. Den ließ er als Boten frei. Jetzt geriet der Herrscher vollends in Zorn und rief seinen berühmten Streiter herbei, auf den er alle Hoffnungen setzte und den er für die Notzeit bereithielt. Dieser Mann hieß Qwamurizchami, das bedeutet: der mit dem Stern auf der Stirn, der Glückliche. Er gab ihm alle Soldaten, die er noch besaß, und ließ ihn ziehen.</p>
+      <p>Als Geria sie sah, war er sehr bedrückt, doch was sollte er tun?</p>
+      <p>Das Roß sprach: &quot;Das ist es, wovon ich gesprochen habe.&quot;</p>
+      <p>Geria bekreuzigte sich und sprach: &quot;Dank sei Gott”, verabschiedete sich von seiner Frau, weil er nicht erwartete, den Kampf zu überleben, und ritt hinaus. Aber noch griff er ihn nicht an. Erst vernichtete er alle Truppen, und dann warfen sie die Spieße aufeinander. Sie kämpften zu Pferde. Aber es ging nicht um die Kraft, denn Qwamurizchamis Seele lag in der Hand eines anderen, nichts konnte ihn töten. Und so rief Qwamurizchami: &quot;So mußt du werfen, Junge!&quot; Und er tötete Geria. Kaum hatte er Geria umgebracht, packte er das Mädchen und schleppte sie fort.</p>
+      <p>Doch das Mädchen sagte zu dem Herrscher: &quot;Ich bin die Frau eines solchen Mannes gewesen. So leicht ergebe ich mich dir nicht. Entweder du kämpfst mit mir, und wer gewinnt, dessen Wunsch soll erfüllt werden. Oder du gibst mir drei Monate Zeit, um ihn zu betrauern.&quot;</p>
+      <p>Der Herrscher fürchtete sich vor einem Kampf: Sie ist ja mit den Riesen verwandt, dachte er und ließ ihr drei Monate Zeit.</p>
+      <p>Als Geria gefallen war, lag sein Kopf für sich und der Körper für sich. Sein Hund Matikotschi lief hin, legte die Teile zusammen und setzte sich dazu, um sie zu bewachen.</p>
+      <p>
+        Ein Jahr war inzwischen vergangen, und da die Eltern vergeblich auf die Rückkehr ihres Geria warteten, begaben sie sich auf den Weg und gelangten
+        <pb n="10"/>
+         in die Nähe. Auf einem schmalen Weg hatten sich viele Schlangen zusammengefunden, die griffen sich gegenseitig an, und alle kamen ums Leben. Da krochen zwei große Schlangen hervor. Sie glitten in einen Fluß hinein, und als sie wieder herauskamen, schlüpften sie hier und da an den toten Schlangen vorbei und machten sie alle wieder lebendig. Dieser Anblick verwunderte die Eltern sehr, und sie sprachen: &quot;Von diesem Wasser wollen wir ein wenig mitnehmen.&quot; Sie schöpften einen Fingerhut voll und nahmen ihn mit.
+      </p>
+      <p>Als sie näherkamen und Matikotschi sie sah, kam er herbeigelaufen, ging ihnen entgegen und führte sie betrübt zu dem Toten. Als sie Geria tot sahen, sanken die beiden Armen zu Boden und weinten lange. Dann erinnerten sie sich, daß sie dieses Wasser hatten. Die bedauernswerte Mutter holte es hervor, und als sie es auf Geria goß, wurde er wieder lebendig und sprach: &quot;Ach, wie lange ich geschlafen habe!” Als er aufsah und Mutter und Vater erblickte, freute er sich, Aber als er daran dachte, was geschehen war, wurde er wieder betrübt und sagte: &quot;Lebt wohl.” Er verabschiedete sich wieder von seinen Eltern. Die weinten viel, doch sie legten ihre Angelegenheit in Gottes Hand und faßten sich in Geduld.</p>
+      <p>Geria brach auf, und als er sich dem Land des schwarzen Herrschers näherte, stieß er auf einen großen Wald. Als er hineinschritt, war ein solcher Lärm zu hören, daß es nicht schlimmer sein konnte. Als er auf dem Weg stehenblieb, hörte er, daß etwas umherlief, den Wald umbrach und die Bäume aufeinanderschmetterte. Er erblickte einen großen Eber, der direkt auf ihn zulief und ihn angriff, Geria sprang zur Seite, packte ihn und warf ihn drei ausgestreckte Armlängen zurück, doch der Eber griff wieder an. Drei Tage lang kämpften sie miteinander, und schließlich siegte der junge Mann und riß ihn in der Mitte auseinander. Als er ihn zerrissen hatte, sprang ein Reh heraus. Als er das Reh erlegt hatte, fiel ein Kästchen heraus. Als er das Kästchen aufbrach, kamen drei Schwalben hervorgeflogen. Zwei tötete er, und die dritte fing er.</p>
+      <p>Zu dieser Zeit wurde Qwamurizchami krank und kam an den Rand des Todes, denn das war seine Seele. Und als Geria auch die dritte Schwalbe tötete, starb Qwamurizchami. Dann betrat Geria den Hof des Herrschers, tötete alle außer seiner Frau und führte seine Frau zu seinen Eltern.</p>
+      <p>
+        Große Freude erwartete seine Eltern endlich für ihre Geduld und ihr Leid, und alle zogen wieder nach Hause.
+        <pb n="11"/>
+      </p>
+    </body>
+  </text>
 </TEI>

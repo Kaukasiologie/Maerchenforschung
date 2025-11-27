@@ -1,128 +1,151 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф. 9, он. I, д. № 6</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф. 9, он. I, д. № 6</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1936</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Д.</forename>
-        <surname xml:lang="rus">Гусейнова</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А. М.</forename>
-        <surname xml:lang="rus">Алиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo/>
+        </placeName>
+        <date>1936</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Д.</forename>
+            <surname xml:lang="rus">Гусейнова</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А. М.</forename>
+            <surname xml:lang="rus">Алиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_84">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_84">
     <body>
-     <head>42. Синяя птица </head>
-     <p>одной стране жил хан сына однажды хан ыл охоте сел отдохнуть около родника</p><p>прилетела синяя птица взглянул хан ослеп блеска долго блуждал хан лесу насилу вернулся домой</p><p>созвал хан сыновей поведал случилось</p><p>зрение вернется ко случае закончил хан свой рассказ мои руки попадет одно перо синей птицы</p><p>старший сын хана отправился поиски птицы</p><p>долго блуждал свету нашел вернулся домой отправился второй сын старший брат вернулся пи собрался путь младший сын долго бродил поисках птицы однажды ханский сын встретил слепого старика рассказал историю</p><p>ослеп синей птицы отвечал старик</p><p>трудно найти боишься дам тебе совет ступай вон ту гору двор окруженный забором воротах висит уздечка каждый вечер туда приходит табун лошадей возьми уздечку стань ворот</p><p /><p>табуна выбери ту лошадь которой впору эта уздечка садись лошадь слушайся всем</p><p>ханский сын поблагодарил старика поступил совету едва юноша сел лошадь та пустилась вскачь заговорила человеческим голосом</p><p>достигнем крепости прыгну двор высокую стену привяжи железному столбу войди дом увидишь богатыря сядешь рядом</p><p>вскоре показалась крепость лошадь взвилась птица перепрыгнула стену посреди двора стоял железный столб который доходил самого неба юноша привязал лошадь вошел дом увидев богатыря уселся рядом</p><p>удивился богатырь мог проникнуть нему гость сих пор это никому удавалось богатырь созвал своих нукеров приказал</p><p>вечером пригласите непрошеного гостя ужинать убейте</p><p>нукеры смогли сделать ханским сыном</p><p>обратились одной старухе гадалке</p><p>одолеть гостя сказала гадалка нарт завтра поедет ловить синюю птицу</p><p>наутро ханский сын подошел своей лошади</p><p>синяя птица живет небе сказала лошадь поднимемся этому железному столбу увидишь птицу</p><p>должен схватить держать тех пор пока скажет ради твоей лошади отпусти</p><p>ханский сын вскочил седло лошадь поскакала вверх столбу добрались неба юноша увидел синюю птицу схватил долго билась птица руках проговорила</p><p>отпусти ради своей лошади твоя</p><p>юноша отпустил птицу стала покорной</p><p>вскоре ханский сын верхом своей лошади птицей плече спустился железному столбу землю юноша соскочил лошади синяя птица превратилась красивую девушку богатырь очень завидовал нарту бессилен пришлось богатырю устроить роскошный пир ханский сын взял девушку отправился домой час своего отца оказалось прозрел миг юноша небе схватил синюю птицу сыграли свадьбу ханский сын стал мужем красавицы</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>42. Синяя птица </head>
+      <p>одной стране жил хан сына однажды хан ыл охоте сел отдохнуть около родника</p>
+      <p>прилетела синяя птица взглянул хан ослеп блеска долго блуждал хан лесу насилу вернулся домой</p>
+      <p>созвал хан сыновей поведал случилось</p>
+      <p>зрение вернется ко случае закончил хан свой рассказ мои руки попадет одно перо синей птицы</p>
+      <p>старший сын хана отправился поиски птицы</p>
+      <p>долго блуждал свету нашел вернулся домой отправился второй сын старший брат вернулся пи собрался путь младший сын долго бродил поисках птицы однажды ханский сын встретил слепого старика рассказал историю</p>
+      <p>ослеп синей птицы отвечал старик</p>
+      <p>трудно найти боишься дам тебе совет ступай вон ту гору двор окруженный забором воротах висит уздечка каждый вечер туда приходит табун лошадей возьми уздечку стань ворот</p>
+      <p/>
+      <p>табуна выбери ту лошадь которой впору эта уздечка садись лошадь слушайся всем</p>
+      <p>ханский сын поблагодарил старика поступил совету едва юноша сел лошадь та пустилась вскачь заговорила человеческим голосом</p>
+      <p>достигнем крепости прыгну двор высокую стену привяжи железному столбу войди дом увидишь богатыря сядешь рядом</p>
+      <p>вскоре показалась крепость лошадь взвилась птица перепрыгнула стену посреди двора стоял железный столб который доходил самого неба юноша привязал лошадь вошел дом увидев богатыря уселся рядом</p>
+      <p>удивился богатырь мог проникнуть нему гость сих пор это никому удавалось богатырь созвал своих нукеров приказал</p>
+      <p>вечером пригласите непрошеного гостя ужинать убейте</p>
+      <p>нукеры смогли сделать ханским сыном</p>
+      <p>обратились одной старухе гадалке</p>
+      <p>одолеть гостя сказала гадалка нарт завтра поедет ловить синюю птицу</p>
+      <p>наутро ханский сын подошел своей лошади</p>
+      <p>синяя птица живет небе сказала лошадь поднимемся этому железному столбу увидишь птицу</p>
+      <p>должен схватить держать тех пор пока скажет ради твоей лошади отпусти</p>
+      <p>ханский сын вскочил седло лошадь поскакала вверх столбу добрались неба юноша увидел синюю птицу схватил долго билась птица руках проговорила</p>
+      <p>отпусти ради своей лошади твоя</p>
+      <p>юноша отпустил птицу стала покорной</p>
+      <p>вскоре ханский сын верхом своей лошади птицей плече спустился железному столбу землю юноша соскочил лошади синяя птица превратилась красивую девушку богатырь очень завидовал нарту бессилен пришлось богатырю устроить роскошный пир ханский сын взял девушку отправился домой час своего отца оказалось прозрел миг юноша небе схватил синюю птицу сыграли свадьбу ханский сын стал мужем красавицы</p>
+    </body>
+  </text>
+</TEI>

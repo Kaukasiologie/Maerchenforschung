@@ -1,182 +1,188 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">6.(Падишах Соломон знал языки всех животных...)</title>
-    <author>
-     <name xml:id="AD">
-      <persName>
-       <forename>Adolf</forename>
-       <surname>Dirr</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-       <sourceDesc>
-      <biblStruct>
-        <analytic>
-          <title xml:lang="ru">Граматический очеркь Табасаранского языка</title>
-          <author>
-            <persName ref="#AD">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">6.(Падишах Соломон знал языки всех животных...)</title>
+        <author>
+          <name xml:id="AD">
+            <persName>
               <forename>Adolf</forename>
               <surname>Dirr</surname>
             </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
-          <imprint>
-            <pubPlace>Tiflis</pubPlace>
-            <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
-            <date when="1905">1905</date>
-          </imprint>
-          <biblScope unit="volume">35</biblScope>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_tab_rus_49.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-    </placeName>
-    <date notAfter="1905">1905</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename> </forename>
-      <surname> </surname>
-     </persName>
-     <age/>
-     <birth>
-      <date/>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district/>
-       <settlement/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
-    <text xml:id="cc_tab_rus_49">
-      <body>
-         <head>6.</head>
-         <p>Падишах Соломон знал языки всех животных и вещей. "Да," сказал он про себя, "я знаю теперь языки всех животных. Но мне нужно достать еще воду из Абухайята." Сказав это, он собрал свой народ и сказал ему: "Мне нужна вода из Абухайята." Народ ответил: "Хорошо, принесем." Они посоветовались между собой и отправились в путь. Через некоторое время они достигли Абухайята, наполнили кувшин водой и принесли ее падишаху. "Должен ли я пить ее, или нет?" Подумал падишах: "Лучше, я спрошу своих мудрецов." Он собрал их и спросил: "Должен ли я выпить эту воду, или нет?" — "Мы не знаем," ответили они, "пей или не пей, как хочешь!" Потом Соломон собрал всех стариков (ученых) на Целом свете и спросил их: "Должен ли я выпить эту воду, или нет?" — "Пей!" ответили одни, "не пей!" — другие. Потом они сказали: "На такой-то горе живет очень старая птица, спроси ее!" Тогда Соломон спросил их: "Кто из вас такой молодец, который может мне ее привести?" Джины сказали: "Мы приведем ее!" — "Хорошо: идите, приведите!" Джины отправились в путь, прибыли к птице и сказали ей: "Нас Соломон к тебе прислал: ты должна с нами пойти к нему!" Старая птица сказала: "Не пойду! Я и без того знаю, чего Соломон хочет от меня. Скажите ему, что если он хочет, то пусть выпьет; если же не хочет, то пусть не пьет! Я слишком стара, чтобы отправляться в путь".</p>
-         <p>Получив такой ответ, джины вернулись назад и передали Соломону ответ птицы. "Возьмите лошадь," сказал он, "и идите еще раз. Ведь, это старая птица, она не может идти пешком." Джины взяли лошадь, отправились в путь и сказали птице: <pb n="142"/>"Ты должна поехать с нами: нельзя не ехать." Старая птица села на лошадь и поехала с джинами к Соломону. Тот посадил ее и сказал ей: "Я позвал тебя, чтобы узнать от тебя, должен ли я выпить эту воду, или нет?" Птица сказала: "Вот, я однажды вышла посмотреть, что делается на свете. Прилетела я в один город и села на городскую стену; люди этого города были все хорошие, вежливые, с белыми бородами. Они пришли ко мне и почтили меня. Потом я вернулась на свою родину и легла спать. Прошла тысяча лет. Опять я отправилась в путь, опять я села на стену этого города. Из прежних людей ни одного не было; теперь все имели черные бороды; они пришли ко мне, почтили меня, и я опять вернулась домой. Через тысячу лет я вышла в третий раз и пришла опять в тот же самый город. Опять я увидела там новых людей; все были молоды. Когда они меня увидели, то захотели убить меня. Я убежала и вернулась домой. С тех пор я уже не выходила. Теперь, если хочешь, выпей, если не хочешь, не пей! Больше я ничего не знаю".</p>
-         <p>Когда Соломон услышал слова птицы, он бросил воду, не выпив ее.</p>
-      </body>
-   </text>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">Граматический очеркь Табасаранского языка</title>
+            <author>
+              <persName ref="#AD">
+                <forename>Adolf</forename>
+                <surname>Dirr</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+            <imprint>
+              <pubPlace>Tiflis</pubPlace>
+              <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+              <date when="1905">1905</date>
+            </imprint>
+            <biblScope unit="volume">35</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_tab_rus_49.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1905">1905</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename> </forename>
+            <surname> </surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_tab_rus_49">
+    <body>
+      <head>6.</head>
+      <p>Падишах Соломон знал языки всех животных и вещей. &quot;Да,&quot; сказал он про себя, &quot;я знаю теперь языки всех животных. Но мне нужно достать еще воду из Абухайята.&quot; Сказав это, он собрал свой народ и сказал ему: &quot;Мне нужна вода из Абухайята.&quot; Народ ответил: &quot;Хорошо, принесем.&quot; Они посоветовались между собой и отправились в путь. Через некоторое время они достигли Абухайята, наполнили кувшин водой и принесли ее падишаху. &quot;Должен ли я пить ее, или нет?&quot; Подумал падишах: &quot;Лучше, я спрошу своих мудрецов.&quot; Он собрал их и спросил: &quot;Должен ли я выпить эту воду, или нет?&quot; — &quot;Мы не знаем,&quot; ответили они, &quot;пей или не пей, как хочешь!&quot; Потом Соломон собрал всех стариков (ученых) на Целом свете и спросил их: &quot;Должен ли я выпить эту воду, или нет?&quot; — &quot;Пей!&quot; ответили одни, &quot;не пей!&quot; — другие. Потом они сказали: &quot;На такой-то горе живет очень старая птица, спроси ее!&quot; Тогда Соломон спросил их: &quot;Кто из вас такой молодец, который может мне ее привести?&quot; Джины сказали: &quot;Мы приведем ее!&quot; — &quot;Хорошо: идите, приведите!&quot; Джины отправились в путь, прибыли к птице и сказали ей: &quot;Нас Соломон к тебе прислал: ты должна с нами пойти к нему!&quot; Старая птица сказала: &quot;Не пойду! Я и без того знаю, чего Соломон хочет от меня. Скажите ему, что если он хочет, то пусть выпьет; если же не хочет, то пусть не пьет! Я слишком стара, чтобы отправляться в путь&quot;.</p>
+      <p>
+        Получив такой ответ, джины вернулись назад и передали Соломону ответ птицы. &quot;Возьмите лошадь,&quot; сказал он, &quot;и идите еще раз. Ведь, это старая птица, она не может идти пешком.&quot; Джины взяли лошадь, отправились в путь и сказали птице: 
+        <pb n="142"/>
+        &quot;Ты должна поехать с нами: нельзя не ехать.&quot; Старая птица села на лошадь и поехала с джинами к Соломону. Тот посадил ее и сказал ей: &quot;Я позвал тебя, чтобы узнать от тебя, должен ли я выпить эту воду, или нет?&quot; Птица сказала: &quot;Вот, я однажды вышла посмотреть, что делается на свете. Прилетела я в один город и села на городскую стену; люди этого города были все хорошие, вежливые, с белыми бородами. Они пришли ко мне и почтили меня. Потом я вернулась на свою родину и легла спать. Прошла тысяча лет. Опять я отправилась в путь, опять я села на стену этого города. Из прежних людей ни одного не было; теперь все имели черные бороды; они пришли ко мне, почтили меня, и я опять вернулась домой. Через тысячу лет я вышла в третий раз и пришла опять в тот же самый город. Опять я увидела там новых людей; все были молоды. Когда они меня увидели, то захотели убить меня. Я убежала и вернулась домой. С тех пор я уже не выходила. Теперь, если хочешь, выпей, если не хочешь, не пей! Больше я ничего не знаю&quot;.
+      </p>
+      <p>Когда Соломон услышал слова птицы, он бросил воду, не выпив ее.</p>
+    </body>
+  </text>
 </TEI>

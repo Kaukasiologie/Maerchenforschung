@@ -1,128 +1,152 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478711/urkarakh.html">Urkarakh</settlement>
-       <geo />
-      </placeName>
-      <date>1979</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Г.</forename>
-        <surname xml:lang="rus">Бахмудов</surname>
-       </persName>
-       <age>60</age>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Ф.О.</forename>
-        <surname xml:lang="rus">Абакарова</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478711/urkarakh.html">Urkarakh</settlement>
+          <geo/>
+        </placeName>
+        <date>1979</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Г.</forename>
+            <surname xml:lang="rus">Бахмудов</surname>
+          </persName>
+          <age>60</age>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Ф.О.</forename>
+            <surname xml:lang="rus">Абакарова</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_33">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_33">
     <body>
-     <head>124 Проданный бык (дарг.) </head>
-     <p>жили муж женой обеднели бык жена говорит мужу</p><p>иди адзи соседнее село продай нашего быка умирать нам голоду</p><p>следующий день адзи быком отправился базар дошел руин дома окраине соседнего села жили бездомные собаки подбежали адзи который пошел продавать быка начали лаять</p><p>валлах хотят купить быка сказал хозяин быка покупателей зарезать оставить спросил собак</p><p>собаки ответили лаем</p><p>хотят зарезал заключил адзи зарезал быка положил собаками</p><p>собаки набросились быка стали</p><p>дайте цену сказал адзи подойдя собакам</p><p>собаки громче залаяли</p><p>пусть долг говорит адзи</p><p>адзи оставил зарезанного быка вернулся домой</p><p>дел нашего быка спрашивает жена</p><p>валлах отдал быка собакам адзи рассказал обо всем случилось</p><p>ах ослеп глупец быка дают собакам рассердилась жена</p><p>отдал быка деньги принесу посылаю деньгами ответил адзи</p><p>дня снова отправился собакам получить долг быка собаки стали лаять</p><p>решили платить спрашивает</p><p>собаки снова залаяли</p><p>поверил отдал быка совести хватит давайте деньги</p><p>собаки залаяли громче</p><p>оказывается вами бесполезно говорить хорошему сказав адзи взял длинную палку стал бить</p><p>собаки забежали разрушенный дом адзи встал дверей продолжал бить собаки стали прыгать стену момент палка ударилась стену оттуда выпал камень вслед прямо адзи упал кувшин полный денег</p><p>адзи взял столько денег сколько стоит бык говорит</p><p>взял столько сколько стоит бык беру смотрите</p><p>денег адзи взял ровно столько сколько стоит бык вернулся домой увидев деньги жена обрадовалась</p><p>ах аллах сохранил адзи оказывается глупец продавший собакам быка поверившая тебе</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>124 Проданный бык (дарг.) </head>
+      <p>жили муж женой обеднели бык жена говорит мужу</p>
+      <p>иди адзи соседнее село продай нашего быка умирать нам голоду</p>
+      <p>следующий день адзи быком отправился базар дошел руин дома окраине соседнего села жили бездомные собаки подбежали адзи который пошел продавать быка начали лаять</p>
+      <p>валлах хотят купить быка сказал хозяин быка покупателей зарезать оставить спросил собак</p>
+      <p>собаки ответили лаем</p>
+      <p>хотят зарезал заключил адзи зарезал быка положил собаками</p>
+      <p>собаки набросились быка стали</p>
+      <p>дайте цену сказал адзи подойдя собакам</p>
+      <p>собаки громче залаяли</p>
+      <p>пусть долг говорит адзи</p>
+      <p>адзи оставил зарезанного быка вернулся домой</p>
+      <p>дел нашего быка спрашивает жена</p>
+      <p>валлах отдал быка собакам адзи рассказал обо всем случилось</p>
+      <p>ах ослеп глупец быка дают собакам рассердилась жена</p>
+      <p>отдал быка деньги принесу посылаю деньгами ответил адзи</p>
+      <p>дня снова отправился собакам получить долг быка собаки стали лаять</p>
+      <p>решили платить спрашивает</p>
+      <p>собаки снова залаяли</p>
+      <p>поверил отдал быка совести хватит давайте деньги</p>
+      <p>собаки залаяли громче</p>
+      <p>оказывается вами бесполезно говорить хорошему сказав адзи взял длинную палку стал бить</p>
+      <p>собаки забежали разрушенный дом адзи встал дверей продолжал бить собаки стали прыгать стену момент палка ударилась стену оттуда выпал камень вслед прямо адзи упал кувшин полный денег</p>
+      <p>адзи взял столько денег сколько стоит бык говорит</p>
+      <p>взял столько сколько стоит бык беру смотрите</p>
+      <p>денег адзи взял ровно столько сколько стоит бык вернулся домой увидев деньги жена обрадовалась</p>
+      <p>ах аллах сохранил адзи оказывается глупец продавший собакам быка поверившая тебе</p>
+    </body>
+  </text>
+</TEI>

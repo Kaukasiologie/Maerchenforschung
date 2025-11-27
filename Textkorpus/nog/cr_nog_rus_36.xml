@@ -1,128 +1,161 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Nogaische Folklore</title>
-      <title xml:lang="eng">Nogai Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Ногайские народные сказки</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Nogaische Folklore</title>
+        <title xml:lang="eng">Nogai Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="nog" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="nog" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Ногайские народные сказки</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="nog"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="nog"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="nog">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement ref="https://www.geonames.org/557399/ikon-khalk.html">Ikon-Khalk</settlement>
-       <geo />
-      </placeName>
-      <date>1972</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А.</forename>
-        <surname xml:lang="rus">Сикалиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="nog">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/557399/ikon-khalk.html">Ikon-Khalk</settlement>
+          <geo/>
+        </placeName>
+        <date>1972</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А.</forename>
+            <surname xml:lang="rus">Сикалиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_nog_rus_36">
+  </teiHeader>
+  <text xml:id="cr_nog_rus_36">
     <body>
-     <head>29. Луноликая девушка </head>
-     <p>жили свете муж женой росли сын дочь дней жена умерла муж остался двумя детьми делать пришлось жениться</p><p>новой жены дочь капризна ленива утра вечера наряжалась делала дому</p><p>родная дочь человека трудолюбивой послушной утра ночи работала готовила шила ходила воду присматривала коровой проходили дни</p><p>однажды родная дочь человека пасла корову незаметно дошла какого дома дай думает девушка загляну внутрь зашла дом золото драгоценности одежды дорогие девушка обошла весь дом вдоволь налюбовалась несметные богатства собралась выйти</p><p>двери преградил дорогу сторож смотрит девушка взяла легонько ударил девушку щекам миг левая сторона лица девушки сделалась прекрасной луна правая сияющей солнце</p><p>девушка вышла погнала корову домой вошла ворота своего дома собака пролаяла</p><p>луноликая солнцеликая наша дочь идет</p><p>петух прокричал</p><p>луноликая солнцеликая наша дочь идет</p><p>гуси загоготали</p><p>луноликая солнцеликая наша дочь идет</p><p>шум выскочила дому мачеха слышит идет падчерица левая половина лица прекрасна луна правая сияет солнце</p><p>отчего стала красивой спросила мачеха девушка рассказала дело</p><p>следующий день мачеха наказывает падчерице</p><p>пойдешь пасти корову возьми собой мою дочь покажешь дом пусть станет красавицей</p><p>падчерица привела девушку тому дому девушка переступила порог глаза разбежались золото драгоценности красивые одежды давай скорее хватать горстями драгоценности прятать пазуху карманы набрала сколько могла поспешила двери откуда возьмись появился сторож отобрал девушки набрала легонько ударил щекам миг левая половина лица обернулась кошачьей мордой правая собачьей</p><p>падчерица привела девушку тому дому девушка переступила порог глаза разбежались золото драгоценности красивые одежды давай скорее хватать горстями драгоценности прятать пазуху карманы набрала сколько могла поспешила двери откуда возьмись появился сторож отобрал девушки набрала легонько ударил щекам миг левая половина лица обернулась кошачьей мордой правая собачьей</p><p>вышла девушка дома пошла падчерицей домой вошла ворота своего дома услышала пес пролаял</p><p>песьей мордой кошачьей мордой наша дочь идет</p><p>петух прокричал</p><p>песьей мордой кошачьей мордой наша дочь идет</p><p>гуси загоготали</p><p>песьей мордой кошачьей мордой наша дочь идет</p><p>мачеха выскочила шум видит идет дочь левая половина лица стала кошачьей мордой правая собачьей</p><p>горе закричала женщина лопнула злости накинулась мужа</p><p>немедленно уведи дочь глаз моих долой убей</p><p>делать нечего старик повел дочь двора завел глухую степь убил бросил одну</p><p>пошла девушка глаза глядят шла шла дошла густых зарослей тростника девушка взмолилась</p><p>тростник тростник приюти несчастную</p><p>тростник расступился пропустил девушку снова сомкнулся плотно комар пролезет</p><p>дома злой мачехи остался маленький брат луноликой девушки долго горевал своей сестре убежал дому шел ночью шел днем дошел тростниковых зарослей мальчик склонился тростником запел</p><p>тростник тростник прячешь мою любимую луноликую сестру</p><p>луноликая девушка услышала голос своего брата пропела ответ</p><p>тростник тростник прячет сестру моего любимого брата</p><p>тростник расступился луноликая девушка выбежала брату взяла руку ушли далеко далеко тех мест</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>29. Луноликая девушка </head>
+      <p>жили свете муж женой росли сын дочь дней жена умерла муж остался двумя детьми делать пришлось жениться</p>
+      <p>новой жены дочь капризна ленива утра вечера наряжалась делала дому</p>
+      <p>родная дочь человека трудолюбивой послушной утра ночи работала готовила шила ходила воду присматривала коровой проходили дни</p>
+      <p>однажды родная дочь человека пасла корову незаметно дошла какого дома дай думает девушка загляну внутрь зашла дом золото драгоценности одежды дорогие девушка обошла весь дом вдоволь налюбовалась несметные богатства собралась выйти</p>
+      <p>двери преградил дорогу сторож смотрит девушка взяла легонько ударил девушку щекам миг левая сторона лица девушки сделалась прекрасной луна правая сияющей солнце</p>
+      <p>девушка вышла погнала корову домой вошла ворота своего дома собака пролаяла</p>
+      <p>луноликая солнцеликая наша дочь идет</p>
+      <p>петух прокричал</p>
+      <p>луноликая солнцеликая наша дочь идет</p>
+      <p>гуси загоготали</p>
+      <p>луноликая солнцеликая наша дочь идет</p>
+      <p>шум выскочила дому мачеха слышит идет падчерица левая половина лица прекрасна луна правая сияет солнце</p>
+      <p>отчего стала красивой спросила мачеха девушка рассказала дело</p>
+      <p>следующий день мачеха наказывает падчерице</p>
+      <p>пойдешь пасти корову возьми собой мою дочь покажешь дом пусть станет красавицей</p>
+      <p>падчерица привела девушку тому дому девушка переступила порог глаза разбежались золото драгоценности красивые одежды давай скорее хватать горстями драгоценности прятать пазуху карманы набрала сколько могла поспешила двери откуда возьмись появился сторож отобрал девушки набрала легонько ударил щекам миг левая половина лица обернулась кошачьей мордой правая собачьей</p>
+      <p>падчерица привела девушку тому дому девушка переступила порог глаза разбежались золото драгоценности красивые одежды давай скорее хватать горстями драгоценности прятать пазуху карманы набрала сколько могла поспешила двери откуда возьмись появился сторож отобрал девушки набрала легонько ударил щекам миг левая половина лица обернулась кошачьей мордой правая собачьей</p>
+      <p>вышла девушка дома пошла падчерицей домой вошла ворота своего дома услышала пес пролаял</p>
+      <p>песьей мордой кошачьей мордой наша дочь идет</p>
+      <p>петух прокричал</p>
+      <p>песьей мордой кошачьей мордой наша дочь идет</p>
+      <p>гуси загоготали</p>
+      <p>песьей мордой кошачьей мордой наша дочь идет</p>
+      <p>мачеха выскочила шум видит идет дочь левая половина лица стала кошачьей мордой правая собачьей</p>
+      <p>горе закричала женщина лопнула злости накинулась мужа</p>
+      <p>немедленно уведи дочь глаз моих долой убей</p>
+      <p>делать нечего старик повел дочь двора завел глухую степь убил бросил одну</p>
+      <p>пошла девушка глаза глядят шла шла дошла густых зарослей тростника девушка взмолилась</p>
+      <p>тростник тростник приюти несчастную</p>
+      <p>тростник расступился пропустил девушку снова сомкнулся плотно комар пролезет</p>
+      <p>дома злой мачехи остался маленький брат луноликой девушки долго горевал своей сестре убежал дому шел ночью шел днем дошел тростниковых зарослей мальчик склонился тростником запел</p>
+      <p>тростник тростник прячешь мою любимую луноликую сестру</p>
+      <p>луноликая девушка услышала голос своего брата пропела ответ</p>
+      <p>тростник тростник прячет сестру моего любимого брата</p>
+      <p>тростник расступился луноликая девушка выбежала брату взяла руку ушли далеко далеко тех мест</p>
+    </body>
+  </text>
+</TEI>

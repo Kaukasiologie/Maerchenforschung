@@ -1,186 +1,190 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">11. (Жила-была лисица...)</title>
-    <author>
-     <name xml:id="AD">
-      <persName>
-       <forename>Adolf</forename>
-       <surname>Dirr</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-       <sourceDesc>
-      <biblStruct>
-        <analytic>
-          <title xml:lang="ru">Арчинский языкъ. Граматический очеркъ, тексты, сборникъ арчинскихъ слобъ съ русскумъ къ нему указателемъ</title>
-          <author>
-            <persName ref="#AD">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">11. (Жила-была лисица...)</title>
+        <author>
+          <name xml:id="AD">
+            <persName>
               <forename>Adolf</forename>
               <surname>Dirr</surname>
             </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
-          <imprint>
-            <pubPlace>Tiflis</pubPlace>
-            <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
-            <date when="1908">1908</date>
-          </imprint>
-          <biblScope unit="volume">39</biblScope>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a122Z Weitere Listen, um vor dem Gefressenwerden zu entkommen</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_aqc_rus_27.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item>Warnung vor Gewalt und Missbrauch</item>
-      <item>Warnung vor Tierquälerei oder negativer Darstellung von Tieren</item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-    </placeName>
-    <date notAfter="1908">1908</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename> </forename>
-      <surname> </surname>
-     </persName>
-     <age/>
-     <birth>
-      <date/>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district/>
-       <settlement/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
-    <text xml:id="cc_aqc_rus_27">
-      <body>
-         <head>11.</head>
-         <p>Жила-была лисица, у которой нечего было есть: детьми умирала с голода. Раз она вышла, чтобы поискать что-нибудь съедобного. Попался ей барашек, которого она и поймала. Барашек сказал: "Что ты делаешь?" — "Я тебя съем," ответила лисица. "Как я теперь, моё мясо не вкусно," сказал барашек. "Иди, принеси котел, свари меня и потом съеш, я никуда не пойду!" Лисица ушла, принесла котел, но когда она вернулась, барашка, конечно, уже не было.<pb n="110"/>
-         </p>
-         <p>Опять она вышла, и в этот раз она поймала козу. "Что ты делаешь?" спросила коза. "Я тебя съем!" — "Ах, так с этой шерстью, никакого вкуса не будет!" сказала коза. "Иди, принеси ножницы, остриги меня и потом съешь, я никуда не пойду!" Ушла лисица, принесла ножницы, но козы не нашла.</p>
-         <p>Опять лисица вышла; на дороге ей встретился волк. "Куда ты?" спросил волк лисицу. "Мы с детьми с голода умираем," ответила она: "и я вышла посмотреть, не попадется ли чего-нибудь съедобного?" — "Пойдем со мной!" сказал волк. Скоро они встретили жеребца. Волк остановился перед ним, затрясся и спросил лисицу: "Что, кружатся ли мои глаза и волосы на спине, стоят ли они дыбом?" — "Да!" сказала лисица. Потом волк прыгнул, схватил жеребца за горло и задрал его. Мясо они съели, оставили немного детям и ушли.</p>
-         <p> На другой день лисица опять вышла. На дороге она встретила зайца. "Куда ты?" спросила она. "Иду искать пищи." — "Пойдем со мной!" сказала лисица, которая хотела сделать так же, как волк. Нашли жеребца. Лисица остановилась перед ним и спросила зайца: "Что, кружатся ли мои глаза и волосы на спине, стоят ли они дыбом?" — "Нет," ответил заяц. "Скажи да, а то я тебя убью!" — "Да!" сказал заяц; лисица же прыгнула и схватила жеребца за горло. "Что ты делаешь?" спросил жеребец. "Я тебя убью!" — "На что тебе моя смерть?" сказал жеребец: "вот, под моей ногой ты найдешь массу казны; я подниму ногу, ты приблизи рот и потом казна сама упадет." Лисица приблизилась к ноге жеребца, но тот поднял ногу и ударил лисицу так сильно, что она вверх ногами взлетела на воздух. Потом она скрылась в овраге и сказала сама себе: "Я поймала барашка, а на что мне нужен быль котел, какая я кухарка? И козу поймала, а на что мне ножницы: все-таки веревки не скрутила бы из этой шерсти! А казна! На что она мне? Какая я хозяйка?"</p>
-         <p>Наверху оврага стоял пастух. Когда он услышал слова лисицы, он схватил камень и бросил его в голову этой последней. "Ну, вот," сказала она: "даже там, где людей нет, для моей головы беда выходит." И сразу убежала.</p>
-      </body>
-   </text>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">Арчинский языкъ. Граматический очеркъ, тексты, сборникъ арчинскихъ слобъ съ русскумъ къ нему указателемъ</title>
+            <author>
+              <persName ref="#AD">
+                <forename>Adolf</forename>
+                <surname>Dirr</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+            <imprint>
+              <pubPlace>Tiflis</pubPlace>
+              <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+              <date when="1908">1908</date>
+            </imprint>
+            <biblScope unit="volume">39</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a122Z Weitere Listen, um vor dem Gefressenwerden zu entkommen</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_aqc_rus_27.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor Gewalt und Missbrauch</item>
+            <item>Warnung vor Tierquälerei oder negativer Darstellung von Tieren</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1908">1908</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename> </forename>
+            <surname> </surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_aqc_rus_27">
+    <body>
+      <head>11.</head>
+      <p>
+        Жила-была лисица, у которой нечего было есть: детьми умирала с голода. Раз она вышла, чтобы поискать что-нибудь съедобного. Попался ей барашек, которого она и поймала. Барашек сказал: &quot;Что ты делаешь?&quot; — &quot;Я тебя съем,&quot; ответила лисица. &quot;Как я теперь, моё мясо не вкусно,&quot; сказал барашек. &quot;Иди, принеси котел, свари меня и потом съеш, я никуда не пойду!&quot; Лисица ушла, принесла котел, но когда она вернулась, барашка, конечно, уже не было.
+        <pb n="110"/>
+      </p>
+      <p>Опять она вышла, и в этот раз она поймала козу. &quot;Что ты делаешь?&quot; спросила коза. &quot;Я тебя съем!&quot; — &quot;Ах, так с этой шерстью, никакого вкуса не будет!&quot; сказала коза. &quot;Иди, принеси ножницы, остриги меня и потом съешь, я никуда не пойду!&quot; Ушла лисица, принесла ножницы, но козы не нашла.</p>
+      <p>Опять лисица вышла; на дороге ей встретился волк. &quot;Куда ты?&quot; спросил волк лисицу. &quot;Мы с детьми с голода умираем,&quot; ответила она: &quot;и я вышла посмотреть, не попадется ли чего-нибудь съедобного?&quot; — &quot;Пойдем со мной!&quot; сказал волк. Скоро они встретили жеребца. Волк остановился перед ним, затрясся и спросил лисицу: &quot;Что, кружатся ли мои глаза и волосы на спине, стоят ли они дыбом?&quot; — &quot;Да!&quot; сказала лисица. Потом волк прыгнул, схватил жеребца за горло и задрал его. Мясо они съели, оставили немного детям и ушли.</p>
+      <p> На другой день лисица опять вышла. На дороге она встретила зайца. &quot;Куда ты?&quot; спросила она. &quot;Иду искать пищи.&quot; — &quot;Пойдем со мной!&quot; сказала лисица, которая хотела сделать так же, как волк. Нашли жеребца. Лисица остановилась перед ним и спросила зайца: &quot;Что, кружатся ли мои глаза и волосы на спине, стоят ли они дыбом?&quot; — &quot;Нет,&quot; ответил заяц. &quot;Скажи да, а то я тебя убью!&quot; — &quot;Да!&quot; сказал заяц; лисица же прыгнула и схватила жеребца за горло. &quot;Что ты делаешь?&quot; спросил жеребец. &quot;Я тебя убью!&quot; — &quot;На что тебе моя смерть?&quot; сказал жеребец: &quot;вот, под моей ногой ты найдешь массу казны; я подниму ногу, ты приблизи рот и потом казна сама упадет.&quot; Лисица приблизилась к ноге жеребца, но тот поднял ногу и ударил лисицу так сильно, что она вверх ногами взлетела на воздух. Потом она скрылась в овраге и сказала сама себе: &quot;Я поймала барашка, а на что мне нужен быль котел, какая я кухарка? И козу поймала, а на что мне ножницы: все-таки веревки не скрутила бы из этой шерсти! А казна! На что она мне? Какая я хозяйка?&quot;</p>
+      <p>Наверху оврага стоял пастух. Когда он услышал слова лисицы, он схватил камень и бросил его в голову этой последней. &quot;Ну, вот,&quot; сказала она: &quot;даже там, где людей нет, для моей головы беда выходит.&quot; И сразу убежала.</p>
+    </body>
+  </text>
 </TEI>

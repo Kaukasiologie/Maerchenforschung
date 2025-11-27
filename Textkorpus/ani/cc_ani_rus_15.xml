@@ -1,182 +1,188 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">8. (Жил-был некий Кобыль...)</title>
-    <author>
-     <name xml:id="AD">
-      <persName>
-       <forename>Adolf</forename>
-       <surname>Dirr</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <biblStruct>
-     <analytic>
-      <title xml:lang="ru">Краткий граматический очеркь Андийского языка ц текстаму, цборникомз андийских слобь</title>
-      <author>
-       <persName ref="#AD">
-        <forename>Adolf</forename>
-        <surname>Dirr</surname>
-       </persName>
-      </author>
-     </analytic>
-     <monogr>
-      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
-      <imprint>
-       <pubPlace>Tiflis</pubPlace>
-       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
-       <date when="1906">1906</date>
-      </imprint>
-      <biblScope unit="volume">36</biblScope>
-     </monogr>
-    </biblStruct>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ani_rus_15.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item> Warnung vor der Idealisierung von Kriminalität</item>
-      <item> Warnung vor ethnischen oder kulturellen Stereotypen</item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-    </placeName>
-    <date notAfter="1906">1906</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename> </forename>
-      <surname> </surname>
-     </persName>
-     <age/>
-     <birth>
-      <date/>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district/>
-       <settlement/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
-   <text xml:id="cc_ani_rus_15">
-      <body>
-         <head>8.</head>
-         <p>Жил-был некий Кобыль; у него был баран. Раз Кобыль, сделал длинную веревку, взял своего барана и отправился в горы. Когда люди увидели, что он делает, они спросили его: "Зачем ты это делаешь?" — "Потом узнаете, зачем", ответил Кобыль. Через год он опять отправился в горы, но своего барана не нашел; он нашел только бараньи кости. Увидев, что заяц пробежал мимо, Кобыль позвал его и спросил: "Это ты убил моего барана?" — "Нет, я твоего барана не убил", ответил заяц и убегал. Затем Кобыль увидел волка, "Стой!" кричит он ему: "стой, пока я не приду!" Волк, однако, убегал; за ним побежал впогонку Кобыль Вот, волк спрятался в свое логовище. Кобыль направил дым туда, и волк выпрыгнул. "Держи морду!" сказал Кобыль волку. Волк повиновался. "Да, ты убил моего барана!" сказал Кобыль — "Вот, из этого стада я вытащу белого барашка, с золотой шерстью на голове", сказал волк: "Все пастухи и собаки будут тогда гнаться за мной, и в это время ты можешь увести целое стадо и погнать его домой". (Так волк и сделал); он вытащил барашка, и за ним погнались пастухи и собаки. Тем временем Кобыль увел оставшееся стадо к себе.</p>
-         <p>"Откуда у тебя этот баран?" спросили у него, "Вот, помните, как вы смеялись надо мной, когда я увел своего барана в горы в прошлом году? Видите, этот баран родил всех этих". Люди взяли своих баранов, повели их в горы, <pb n="108"/>оставили их там и вернулись домой. Через год они опять пошли в горы; баранов, конечно, не нашли, только барашки кости нашли. Они пришли к Кобылю и спросили его: "Убить ли тебя, или сжечь твой дом?" — "Убейте меня", сказал он: "Но только моего дома не жгите!" — "Нет, мы не сделаем, как ты того хочешь", возразили они: "мы тебя не убьем, мы сожжем твой дом!" — "Ну, если вы сожжете мой дом, то оставьте мне угли!" (сказал Кобыль...). К сожалению я не мог дописать ету сказку до конца по причине отъезда расказчика. </p>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">8. (Жил-был некий Кобыль...)</title>
+        <author>
+          <name xml:id="AD">
+            <persName>
+              <forename>Adolf</forename>
+              <surname>Dirr</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">Краткий граматический очеркь Андийского языка ц текстаму, цборникомз андийских слобь</title>
+            <author>
+              <persName ref="#AD">
+                <forename>Adolf</forename>
+                <surname>Dirr</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+            <imprint>
+              <pubPlace>Tiflis</pubPlace>
+              <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+              <date when="1906">1906</date>
+            </imprint>
+            <biblScope unit="volume">36</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ani_rus_15.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item> Warnung vor der Idealisierung von Kriminalität</item>
+            <item> Warnung vor ethnischen oder kulturellen Stereotypen</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1906">1906</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename> </forename>
+            <surname> </surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ani_rus_15">
+    <body>
+      <head>8.</head>
+      <p>Жил-был некий Кобыль; у него был баран. Раз Кобыль, сделал длинную веревку, взял своего барана и отправился в горы. Когда люди увидели, что он делает, они спросили его: &quot;Зачем ты это делаешь?&quot; — &quot;Потом узнаете, зачем&quot;, ответил Кобыль. Через год он опять отправился в горы, но своего барана не нашел; он нашел только бараньи кости. Увидев, что заяц пробежал мимо, Кобыль позвал его и спросил: &quot;Это ты убил моего барана?&quot; — &quot;Нет, я твоего барана не убил&quot;, ответил заяц и убегал. Затем Кобыль увидел волка, &quot;Стой!&quot; кричит он ему: &quot;стой, пока я не приду!&quot; Волк, однако, убегал; за ним побежал впогонку Кобыль Вот, волк спрятался в свое логовище. Кобыль направил дым туда, и волк выпрыгнул. &quot;Держи морду!&quot; сказал Кобыль волку. Волк повиновался. &quot;Да, ты убил моего барана!&quot; сказал Кобыль — &quot;Вот, из этого стада я вытащу белого барашка, с золотой шерстью на голове&quot;, сказал волк: &quot;Все пастухи и собаки будут тогда гнаться за мной, и в это время ты можешь увести целое стадо и погнать его домой&quot;. (Так волк и сделал); он вытащил барашка, и за ним погнались пастухи и собаки. Тем временем Кобыль увел оставшееся стадо к себе.</p>
+      <p>
+        &quot;Откуда у тебя этот баран?&quot; спросили у него, &quot;Вот, помните, как вы смеялись надо мной, когда я увел своего барана в горы в прошлом году? Видите, этот баран родил всех этих&quot;. Люди взяли своих баранов, повели их в горы, 
+        <pb n="108"/>
+        оставили их там и вернулись домой. Через год они опять пошли в горы; баранов, конечно, не нашли, только барашки кости нашли. Они пришли к Кобылю и спросили его: &quot;Убить ли тебя, или сжечь твой дом?&quot; — &quot;Убейте меня&quot;, сказал он: &quot;Но только моего дома не жгите!&quot; — &quot;Нет, мы не сделаем, как ты того хочешь&quot;, возразили они: &quot;мы тебя не убьем, мы сожжем твой дом!&quot; — &quot;Ну, если вы сожжете мой дом, то оставьте мне угли!&quot; (сказал Кобыль...). К сожалению я не мог дописать ету сказку до конца по причине отъезда расказчика. 
+      </p>
+    </body>
+  </text>
 </TEI>

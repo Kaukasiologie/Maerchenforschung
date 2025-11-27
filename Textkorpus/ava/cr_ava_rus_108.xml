@@ -1,125 +1,153 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>д. 135</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>д. 135</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-       <geo />
-      </placeName>
-      <date>1935</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">З.</forename>
-        <surname xml:lang="rus">Алихаиов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+          <geo/>
+        </placeName>
+        <date>1935</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">З.</forename>
+            <surname xml:lang="rus">Алихаиов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_108">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_108">
     <body>
-     <head>83. Полукурочка</head>
-     <p>одного узденя кур среди курочка одной ноги крыла дразнили полукурочка другие куры часто обижали подпускали пище жила впроголодь</p><p>надоела полукурочке такая жизнь собрала сах ячменя засеяла небольшую пустошь</p><p>сказали ханский табун потравил поле побежала туда полукурочка видит ржут сытые ханские жеребцы ячменя бывало</p><p>ах ханские твари дорого заплатите ваш хозяин закричала полукурочка стала хлестать коней хворостиной</p><p>собрала табун погнала хану сказать полукурочка голодная злая поэтому готова растерзать первого попавшегося будь аждаха дороге встретила волка мигом проглотила затем дорогу перебежала лиса полукурочка проглотила лису насытилась полукурочка повеселела</p><p>пути попалось небольшое озеро полукурочка выпила побежала дальше</p><p>вскоре полукурочка пригнала табун ханскому дворцу закричала</p><p>эй хан открывай скорее ворота плати штраф</p><p>вышел везир спросил</p><p>дело</p><p>видеть хочу зови самого хана потребовала полукурочка</p><p>крик вышел хан сказала</p><p>плати потраву штраф немалый иначе возвращу коней</p><p>крик вышел хан сказала</p><p>плати потраву штраф немалый иначе возвращу коней</p><p>бросьте урода гусям беспокойте пустякам приказал хан удалился свои покои</p><p>тотчас бросили полукурочку гусиный хлев</p><p>откормленные злые ханские гуси принялись щипать клевать пожалуй избежать смерти подумала полукурочка выплюнула лису рыжая моментально передушила гусей убежала</p><p>наутро нукеры открыли хлев увидели задушенных гусей немедленно доложили хану разгневался хан закричал</p><p>заприте конюшню мои жеребцы растоптали тварь лепешку</p><p>нукеры схватили полукурочку единственную ногу кинули конюшню</p><p>плохи мои дела подумала полукурочка выплюнула волка ночь конюшне шла борьба пока волк задрал жеребцов</p><p>утром нукеры увидели убитых коней побежали сообщить хану несчастье</p><p>это иначе ужасное чудовище испугался хан зажгите печь киньте туда</p><p>нукеры дрожа страха бросили полукурочку печь наполнили дровами подожгли</p><p>полукурочка выпустила озеро потушила огонь</p><p>наутро нукеры увидели полукурочка жива невредима ужасе доложили хану</p><p>жалкие трусы негодяи воскликнул хан направился печи туда заглянул полукурочка выклевала глаза хан завопил бросился бежать полукурочка догнала хана проглотила</p><p>затем полукурочка собрала ханские сокровища нагрузила ими везира назира нукеров пошла курам насмешницам приговаривая будете дразниться будете дразниться</p><p>говорят полукурочка здравствует живет почете</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>83. Полукурочка</head>
+      <p>одного узденя кур среди курочка одной ноги крыла дразнили полукурочка другие куры часто обижали подпускали пище жила впроголодь</p>
+      <p>надоела полукурочке такая жизнь собрала сах ячменя засеяла небольшую пустошь</p>
+      <p>сказали ханский табун потравил поле побежала туда полукурочка видит ржут сытые ханские жеребцы ячменя бывало</p>
+      <p>ах ханские твари дорого заплатите ваш хозяин закричала полукурочка стала хлестать коней хворостиной</p>
+      <p>собрала табун погнала хану сказать полукурочка голодная злая поэтому готова растерзать первого попавшегося будь аждаха дороге встретила волка мигом проглотила затем дорогу перебежала лиса полукурочка проглотила лису насытилась полукурочка повеселела</p>
+      <p>пути попалось небольшое озеро полукурочка выпила побежала дальше</p>
+      <p>вскоре полукурочка пригнала табун ханскому дворцу закричала</p>
+      <p>эй хан открывай скорее ворота плати штраф</p>
+      <p>вышел везир спросил</p>
+      <p>дело</p>
+      <p>видеть хочу зови самого хана потребовала полукурочка</p>
+      <p>крик вышел хан сказала</p>
+      <p>плати потраву штраф немалый иначе возвращу коней</p>
+      <p>крик вышел хан сказала</p>
+      <p>плати потраву штраф немалый иначе возвращу коней</p>
+      <p>бросьте урода гусям беспокойте пустякам приказал хан удалился свои покои</p>
+      <p>тотчас бросили полукурочку гусиный хлев</p>
+      <p>откормленные злые ханские гуси принялись щипать клевать пожалуй избежать смерти подумала полукурочка выплюнула лису рыжая моментально передушила гусей убежала</p>
+      <p>наутро нукеры открыли хлев увидели задушенных гусей немедленно доложили хану разгневался хан закричал</p>
+      <p>заприте конюшню мои жеребцы растоптали тварь лепешку</p>
+      <p>нукеры схватили полукурочку единственную ногу кинули конюшню</p>
+      <p>плохи мои дела подумала полукурочка выплюнула волка ночь конюшне шла борьба пока волк задрал жеребцов</p>
+      <p>утром нукеры увидели убитых коней побежали сообщить хану несчастье</p>
+      <p>это иначе ужасное чудовище испугался хан зажгите печь киньте туда</p>
+      <p>нукеры дрожа страха бросили полукурочку печь наполнили дровами подожгли</p>
+      <p>полукурочка выпустила озеро потушила огонь</p>
+      <p>наутро нукеры увидели полукурочка жива невредима ужасе доложили хану</p>
+      <p>жалкие трусы негодяи воскликнул хан направился печи туда заглянул полукурочка выклевала глаза хан завопил бросился бежать полукурочка догнала хана проглотила</p>
+      <p>затем полукурочка собрала ханские сокровища нагрузила ими везира назира нукеров пошла курам насмешницам приговаривая будете дразниться будете дразниться</p>
+      <p>говорят полукурочка здравствует живет почете</p>
+    </body>
+  </text>
+</TEI>

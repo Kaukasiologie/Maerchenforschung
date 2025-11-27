@@ -1,128 +1,148 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus">Саидов, стр. 27–28</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus">Саидов, стр. 27–28</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/570478/buynakskiy-rayon.html">Buynakskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/581071/arkas.html">Arkas</settlement>
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Магомедов</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Д.</forename>
-        <surname xml:lang="rus">Атаев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/570478/buynakskiy-rayon.html">Buynakskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/581071/arkas.html">Arkas</settlement>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Магомедов</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Д.</forename>
+            <surname xml:lang="rus">Атаев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_35">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_35">
     <body>
-     <head>2. Волк, медведь и лиса</head>
-     <p>жили жили волк медведь лиса подружились стали жить вместе каждое утро отправлялись поле которое позволил обрабатывать хан мукуч работали допоздна лиса сказала</p><p>давайте понемногу делать запасы черный день</p><p>звери согласились вскоре больших кувшина масла меда урбеча</p><p>однажды работали поле лисе захотелось полакомиться урбечем стала думать отлучиться увидела человека который шел мимо громко напевал</p><p>согласна закричала лиса</p><p>это спросили лису друзья</p><p>хана мукуча сын родился гонец приглашает пир ответила лиса отказаться неудобно работаем ханской земле</p><p>волк медведь согласились лиса побежала домой открыла погреб вылизала кувшина конца горлышка</p><p>пировала дружок спросили лису возвратилась какое имя дали ханскому сыну</p><p>пировала отменно ханского сына назвали горлышко ответила лиса</p><p>назавтра захотелось лисе отведать урбеча меда начала кричать хотя поблизости никого</p><p>слышите приглашают пир хана родился сын</p><p>снова звери поверили лисе побежала домой каждый кувшин вылизала ровно половины</p><p>пировала спросили лису возвращения какое имя дали ханскому сыну</p><p>пир хорош ханского сына нарекли серединой ответила лиса</p><p>следующий день лисе пуще прежнего захотелось отведать урбеча меда масла сказала своим друзьям</p><p>слышите это кричит аульский глашатай хана мукуча родился третий сын снова зовут пир</p><p>отпустили лису третий вылизала кувшина самого донышка</p><p>пировала хана спросили лису вернулась какое имя дали ханскому сыну</p><p>пировала ответила лиса ханского сына назвали донышком</p><p>хорошее имя ответили медведь волк</p><p>однажды зимой решили открыть кувшины этому времени лиса перешла цунтинские горы приближалась цору</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>2. Волк, медведь и лиса</head>
+      <p>жили жили волк медведь лиса подружились стали жить вместе каждое утро отправлялись поле которое позволил обрабатывать хан мукуч работали допоздна лиса сказала</p>
+      <p>давайте понемногу делать запасы черный день</p>
+      <p>звери согласились вскоре больших кувшина масла меда урбеча</p>
+      <p>однажды работали поле лисе захотелось полакомиться урбечем стала думать отлучиться увидела человека который шел мимо громко напевал</p>
+      <p>согласна закричала лиса</p>
+      <p>это спросили лису друзья</p>
+      <p>хана мукуча сын родился гонец приглашает пир ответила лиса отказаться неудобно работаем ханской земле</p>
+      <p>волк медведь согласились лиса побежала домой открыла погреб вылизала кувшина конца горлышка</p>
+      <p>пировала дружок спросили лису возвратилась какое имя дали ханскому сыну</p>
+      <p>пировала отменно ханского сына назвали горлышко ответила лиса</p>
+      <p>назавтра захотелось лисе отведать урбеча меда начала кричать хотя поблизости никого</p>
+      <p>слышите приглашают пир хана родился сын</p>
+      <p>снова звери поверили лисе побежала домой каждый кувшин вылизала ровно половины</p>
+      <p>пировала спросили лису возвращения какое имя дали ханскому сыну</p>
+      <p>пир хорош ханского сына нарекли серединой ответила лиса</p>
+      <p>следующий день лисе пуще прежнего захотелось отведать урбеча меда масла сказала своим друзьям</p>
+      <p>слышите это кричит аульский глашатай хана мукуча родился третий сын снова зовут пир</p>
+      <p>отпустили лису третий вылизала кувшина самого донышка</p>
+      <p>пировала хана спросили лису вернулась какое имя дали ханскому сыну</p>
+      <p>пировала ответила лиса ханского сына назвали донышком</p>
+      <p>хорошее имя ответили медведь волк</p>
+      <p>однажды зимой решили открыть кувшины этому времени лиса перешла цунтинские горы приближалась цору</p>
+    </body>
+  </text>
+</TEI>

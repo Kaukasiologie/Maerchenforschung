@@ -1,192 +1,194 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">КОЛЬЦО</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a510A Cinderella</item>
-      <item>a706 Mädchen ohne Hände</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_35.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_35">
-  <body>
-   <head>КОЛЬЦО</head>
-   <p>Жили матъ и. отец, у них была одна-единственная дочь. Однажды, заболев, матъ сказала дочери: «Скажи отцу, если я вдруг умру, пустъ он женится только на той, которой подойдет это кольцо».</p>
-   <p>Вскоре после этого ее мать умерла. Через некоторое время, когда отец начал искать себе жену, дочъ отдала ему кольцо и сказала: «Мама завещала, чтобы ты женился только на той, которой подойдет это кольцо». На следующий день отец попросил приготовить ему еды на месяц. «Я иду на поиски жены», - сказал он и отправился в путь. По многим местам отец скитался, женился на той, которой подошло кольцо, и в свое время вернулся обратно. Но мачеха сильно издевалась над девушкой, все работы и домашние, и вне дома - заставляла делать девушку-сироту. Ей надоели издевательства со стороны мачехи, и она решила забрать у нее кольцо матери и бежать. Однажды она собрала свою одежду и одежду матери, взяла с собой и убежала в лес. Эта девушка была настолько красивой, что глаз с нее невозможно было отвести. Она оказалась в густом лесу, надела шкуру и поднялась на высокое дерево. В это время появились трое охотников. Услышав шорох, они посмотрели вверх и не смогли увидеть, кто это</p>
-   <p>человек или животное. Один из них хотел выстрелить из лука, но другой его остановил: кто знает, может быть, это человек.Третий охотник крикнул: «Если человек, отзовись, а если дичь - мы будем стрелять из лука». «Я человек», - сказала девушка и слезла с дерева. Охотники спросили ее, откуда, мол, сюда попала. Она рассказала, что после смерти матери осталась сиротой и пошла на поиски куска хлеба. Оставив девушку там же, охотники пошли своей дорогой. Среди них был юноша-сирота, росший без отца. Когда они прошли немного, этот юноша сказал им: «Я пойду, заберу эту девушку, мне она очень поправилась». Друзья останавливали его: мол, твоей матери не понравятся ее лицо и волосы. Юноша шел вместе с остальными нехотя, скрепя сердце. Через некоторое время он повернул обратно: мол, вы идите, а я без нее не пойду, забрал девушку и пошел в село.</p>
-   <p>Пришел домой, показал, девушку матери и сказал: «Я привел тебе в помощь девушку». Матъ со злобой ответила: «У нее лицо даже некрасивое, зачем ты ее привел?» Эту девушку они всегда оставляли возле печи одетую в шкуру. Однажды, оставив там девушку, мать и сын пошли в село на свадьбу. Как только они ушли, девушка скинула с себя шкуру, надела красивую одежду, на палеи надела кольцо и пошла на свадьбу. Ей не давали там даже присесть, все приглашали на танец. Через некоторое время девушка незаметно пошла домой, сняла одежду, надела свою шкуру и легла спать там же возле печи.</p>
-   <p>Когда девушка с кольцом исчезла со свадьбы, у этого юноши испортилось настроение, он быстро пошел домой и лег в постель. Мать пришла и спросила его: «Почему ты так грустишь? Ты. не заболел?» Сын ответил: «Положи мне в дорогу еды на неделю, я пойду искать девушку с золотым кольцом. Мое сердце не успокоится, пока ее не найду».</p>
-   <p>Когда юноша вышел на улицу, мать начала готовить хлеб. До того как кончила готовить еду, кто-то ее вызвал на улицу, а девушка встала и положила кольцо в хлеб, вернулась в свою постель возле печи и легла спать.</p>
-   <p>После того как матъ кончила готовить еду, он положил хлеб в котомку и отправился в путь искать девушку с золотым кольцом. Этот юноша вовсе забыл о еде и в течение двух недель шел по дороге. Почувствовал голод и сел поесть на окраине какого-то села. Вытащил из котомки пищу и как только поломал хлеб, испеченный матерью, собираясь есть, обнаружил в середине золотое кольцо. Тут юноша заметил, что это кольцо с пальца той девушки. Возвращаясь обратно домой, двухнедельную дорогу юноша преодолел за три дня, пришел и уже со двора крикнул матери: «Пошли девушку привязать моего коня». «Сама приду», - сказала матъ. «Нет, пошли ее», - резко ответил сын. Когда девушка подошла к нему, юноша скинул с нее одежду из шкуры, надел золотое кольцо, и она стала еще красивее, чем. прежде. Потом он попросил у матери ключи от второго этажа, открыл дверь, девушку пустил в дом, а сам пошел к матери. Матъ спросила: «Нашел ли ты ту девушку с золотым кольцом?» Сын. молча повел мать на верхний этаж, чтобы показать девушку. Увидев девушку, мать поразилась, что до сих пор не знала, что эта девушка такая красивая, хотя она жила у них в течение месяца. Тут опа попросила прощения у сына: это моя вина, мол, что, хотъ она жила дома до сих пор, не обращала на нее внимание.</p>
-   <p>Через три дня сыграли большую свадьбу и привели девушку домой. Охотники тоже удивились, что нашли такую красивую девушку. Вот таким образом с помощью кольца матери девушка-сирота нашла свое счастье и избавилась от плохой мачехи.</p>
-   <p>Куруч, бусина, да прояснится день и солнце светит!</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">КОЛЬЦО</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a510A Cinderella</item>
+            <item>a706 Mädchen ohne Hände</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_35.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_35">
+    <body>
+      <head>КОЛЬЦО</head>
+      <p>Жили матъ и. отец, у них была одна-единственная дочь. Однажды, заболев, матъ сказала дочери: «Скажи отцу, если я вдруг умру, пустъ он женится только на той, которой подойдет это кольцо».</p>
+      <p>Вскоре после этого ее мать умерла. Через некоторое время, когда отец начал искать себе жену, дочъ отдала ему кольцо и сказала: «Мама завещала, чтобы ты женился только на той, которой подойдет это кольцо». На следующий день отец попросил приготовить ему еды на месяц. «Я иду на поиски жены», - сказал он и отправился в путь. По многим местам отец скитался, женился на той, которой подошло кольцо, и в свое время вернулся обратно. Но мачеха сильно издевалась над девушкой, все работы и домашние, и вне дома - заставляла делать девушку-сироту. Ей надоели издевательства со стороны мачехи, и она решила забрать у нее кольцо матери и бежать. Однажды она собрала свою одежду и одежду матери, взяла с собой и убежала в лес. Эта девушка была настолько красивой, что глаз с нее невозможно было отвести. Она оказалась в густом лесу, надела шкуру и поднялась на высокое дерево. В это время появились трое охотников. Услышав шорох, они посмотрели вверх и не смогли увидеть, кто это</p>
+      <p>человек или животное. Один из них хотел выстрелить из лука, но другой его остановил: кто знает, может быть, это человек.Третий охотник крикнул: «Если человек, отзовись, а если дичь - мы будем стрелять из лука». «Я человек», - сказала девушка и слезла с дерева. Охотники спросили ее, откуда, мол, сюда попала. Она рассказала, что после смерти матери осталась сиротой и пошла на поиски куска хлеба. Оставив девушку там же, охотники пошли своей дорогой. Среди них был юноша-сирота, росший без отца. Когда они прошли немного, этот юноша сказал им: «Я пойду, заберу эту девушку, мне она очень поправилась». Друзья останавливали его: мол, твоей матери не понравятся ее лицо и волосы. Юноша шел вместе с остальными нехотя, скрепя сердце. Через некоторое время он повернул обратно: мол, вы идите, а я без нее не пойду, забрал девушку и пошел в село.</p>
+      <p>Пришел домой, показал, девушку матери и сказал: «Я привел тебе в помощь девушку». Матъ со злобой ответила: «У нее лицо даже некрасивое, зачем ты ее привел?» Эту девушку они всегда оставляли возле печи одетую в шкуру. Однажды, оставив там девушку, мать и сын пошли в село на свадьбу. Как только они ушли, девушка скинула с себя шкуру, надела красивую одежду, на палеи надела кольцо и пошла на свадьбу. Ей не давали там даже присесть, все приглашали на танец. Через некоторое время девушка незаметно пошла домой, сняла одежду, надела свою шкуру и легла спать там же возле печи.</p>
+      <p>Когда девушка с кольцом исчезла со свадьбы, у этого юноши испортилось настроение, он быстро пошел домой и лег в постель. Мать пришла и спросила его: «Почему ты так грустишь? Ты. не заболел?» Сын ответил: «Положи мне в дорогу еды на неделю, я пойду искать девушку с золотым кольцом. Мое сердце не успокоится, пока ее не найду».</p>
+      <p>Когда юноша вышел на улицу, мать начала готовить хлеб. До того как кончила готовить еду, кто-то ее вызвал на улицу, а девушка встала и положила кольцо в хлеб, вернулась в свою постель возле печи и легла спать.</p>
+      <p>После того как матъ кончила готовить еду, он положил хлеб в котомку и отправился в путь искать девушку с золотым кольцом. Этот юноша вовсе забыл о еде и в течение двух недель шел по дороге. Почувствовал голод и сел поесть на окраине какого-то села. Вытащил из котомки пищу и как только поломал хлеб, испеченный матерью, собираясь есть, обнаружил в середине золотое кольцо. Тут юноша заметил, что это кольцо с пальца той девушки. Возвращаясь обратно домой, двухнедельную дорогу юноша преодолел за три дня, пришел и уже со двора крикнул матери: «Пошли девушку привязать моего коня». «Сама приду», - сказала матъ. «Нет, пошли ее», - резко ответил сын. Когда девушка подошла к нему, юноша скинул с нее одежду из шкуры, надел золотое кольцо, и она стала еще красивее, чем. прежде. Потом он попросил у матери ключи от второго этажа, открыл дверь, девушку пустил в дом, а сам пошел к матери. Матъ спросила: «Нашел ли ты ту девушку с золотым кольцом?» Сын. молча повел мать на верхний этаж, чтобы показать девушку. Увидев девушку, мать поразилась, что до сих пор не знала, что эта девушка такая красивая, хотя она жила у них в течение месяца. Тут опа попросила прощения у сына: это моя вина, мол, что, хотъ она жила дома до сих пор, не обращала на нее внимание.</p>
+      <p>Через три дня сыграли большую свадьбу и привели девушку домой. Охотники тоже удивились, что нашли такую красивую девушку. Вот таким образом с помощью кольца матери девушка-сирота нашла свое счастье и избавилась от плохой мачехи.</p>
+      <p>Куруч, бусина, да прояснится день и солнце светит!</p>
+    </body>
+  </text>
 </TEI>

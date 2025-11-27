@@ -1,254 +1,255 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Лисья помощь</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a329 Versteckwette</item>
-      <item>a531 Sohn des Jägers/Ferdinand der treue...</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_87.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_87">
-  <body>
-   <head>Лисья помощь</head>
-   <p>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Лисья помощь</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a329 Versteckwette</item>
+            <item>a531 Sohn des Jägers/Ferdinand der treue...</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_87.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_87">
+    <body>
+      <head>Лисья помощь</head>
+      <p>
        Был, говорят, или не был один охотник. Его семья жила охотой. Когда охотник постарел, он лишился зрения и уже не в силах был взять ружье в руки. Им негде было больше добывать хлеб насущный, и семья голодала. Однажды сын охотника сказал своей матери: «Теперь я уверен, что смогу пойти на охоту». «Ты еще маленький», - заметила мать. Услышав их разговор, охотник сказал жене: «Отпусти сына на охоту, если он не пойдет на охоту, все равно другим способом мы не заработаем на хлеб насущный». Дали сыну ружье, отправили, и к вечеру он вернулся с пойманной дичью. Вечером отец позвал сына к себе и сказал: «Я рад, что теперь ты уже стал взрослым и можешь ходить на охоту, тем не менее, послушай мой совет. Ты встретишь одну птицу, смотри, не стреляй в нее, если выстрелишь, то тебе будет плохо». Сын ежедневно ходил на охоту, и состояние семьи охотника заметно улучшилось.
      </p>
-   <p>
+      <p>
        Однажды юноша пошел на охоту и не подстрелил никакой дичи. Через некоторое время он увидел одну птицу. Он поразился ее красотой. Повернул ружье в ее сторону, выстрелил и тут же убил.
       В тот день он поздно вернулся домой. На краю селения он встретил нукера хана. Он попросил юношу: «Дай мне эту птицу, чтобы отнести хану». «Ты вроде старше меня, и ружье у тебя имеется лучше моего, поэтому сам подстрелишь и отнесешь ему», - ответил нукеру хана юноша и не отдал ему птицу.
        Когда пришел домой, отец осведомился у сына, почему тот сегодня опоздал. Жена рассказала, сегодня сын пришел домой, не подстрелив дичи, кроме одной красивой птицы. «Мой сыночек, - крикнул отец, - не обернется ли тебе это плохо, я же предупреждал тебя, не стреляй в эту птицу». 
        Когда они говорили об этом, тот нукер сообщил хану, что сегодня сын охотника подстрелил птицу и забрал. 
       После этого хан отправил нукера к сыну охотника передать тому, чтобы он с этой птицей подошел к хану. По просьбе хана нукер пошел к охотникам. Тогда отец советовал ему: «Теперь ты не можешь не отдать ее, пойди с этой птицей к хану и скажи ему, что продашь ему птицу за полханства». 
      </p>
-   <p>
+      <p>
       Сын охотника с этой птицей пошел к хану. Увидев птицу, хан был поражен ее красотой. Какова цена этой птицы, осведомился хан. «За половину твоего ханства продам», - предложил хану сын охотника. Отдал хан ему полханства и купил ее. 
       Потом хан захотел сшить себе бурку из кожи той птицы. Ее не хватило на бурку. Визирь посоветовал хану: «В той крепости есть одна птица, если достанем ее кожу, думаю, что хватит для твоей бурки». Хан посылал за этой птицей много нукеров, но они никак не смогли ее поймать. Затем тот нукер предложил хану: «Вот того сына охотника отправь за той птицей, он ее поймает»
       . Тут же хан послал нукера за сыном охотника. Зашел нукер и передал сыну охотника, что его вызывает хан. 
      </p>
-   <p>
+      <p>
       После этого отец упрекал сына: «Вот, сыночек, я же тебе говорил, не убивай ту красивую птицу, еще много раз станет тебе плохо, сейчас хоть вспоминаешь меня? Но говорить сейчас о том, что прошло, бесполезно, поэтому иди к хану и скажи ему, что нужны хороший коня и хорошее ружье, чтобы исполнить то, что он сказал. Затем приходи ко мне, если будешь нуждаться в совете». 
       И охотник отправил сына к хану. Хан сказал сыну охотника: «Слышал, что в одной крепости находится птица, возьми и принеси мне ее». Чтобы выполнить свою просьбу, хан дал ему коня на выбор и ружье. 
       После чего он вернулся к отцу. Тот советовал сыну: «В полночь подойди к крепости, привяжи коня снизу, поднимись по стене и, пока темно, возьми ту птицу и спускайся вниз. Если до наступления рассвета ты не сядешь на коня, охранники, которые стоят у крепости, поймают тебя». И проводил сына в путь.
        Сын поступил так, как сказал отец, поймал птицу, отнес и отдал хану. Хан снял кожу и с той птицы. Кожи двух птиц хватило на изготовление бурки и шапки. 
      </p>
-   <p>
+      <p>
        Но теперь у хана не было портного, чтобы их сшить. Тогда нукер сказал хану: «На той стороне моря, говорят, живет девушка, которая шьет бурки и шапки, а чтобы отправиться туда за ней, нет более подходящего человека, чем сын охотника». 
      </p>
-   <p>
-      
+      <p>
       Прежде чем пойти к хану, отец советовал сыну: «Сыночек, теперь делать нечего, скажи хану, если даст тебе мерку, полную золота, и даст выбрать хорошего коня из табуна, ты пойдешь за той девушкой». Сын вернулся от хана на коне и с меркой, полной золота. 
      </p>
-   <p>
+      <p>
        Перед тем как сын отправился в путь, охотник посоветовал ему помогать всем, кого бы он ни встретил по пути. Наполнил сын охотника тем золотом, что дал ему хан, обе чересседельные сумки, сел на коня и тронулся в путь. 
      </p>
-   <p>
+      <p>
       По дороге он встретил лису, которая уносила ноги от мчавшихся за ней трех волков. Та лиса умоляла его: «Дай бог тебе счастья, спаси меня от тех волков». Прибежали волки и требовали у него отдать им лису. Юноша сказал им: «Я выстрелю из лука, и кто скорей побежит за стрелой и вернет ее мне, тому я и отдам лису». Волки согласились. Юноша выстрелил из лука, и они помчали в сторону леса, а лиса избавилась от них. Юноша сказал лисе: «Теперь сама спасайся от волков». Лиса говорила ему: «Я так боялась волков, но еще больше - тебя, почему ты меня теперь отпустил?» Юноша объяснил: «Почему бы не отпустить тебя, если я больше страдаю от горя, чем ты?» «Если ты в таком трудном положении, возьми этот волосок. Когда ты окажешься в тяжелой ситуации, достань его и сожги». Лиса отдала ему волосок и исчезла с глаз. Положив в карман волосок лисы, сын охотника двинулся дальше своей дорогой.
      </p>
-   <p>
+      <p>
       Он увидел орла, увязшего в куче муравьев, они поднялись на него и ели. Он прогнал муравьев и дал орлу улететь. Орел три раза покрутился в воздухе и сел рядом с юношей. Он ему сказал: «Когда ты появился, я еще больше стал бояться, почему ты меня спас?» Юноша объяснил: «Почему бы не спасти тебя, если я больше страдаю от горя, чем ты?» «В таком случае возьми вот это перо. Когда настигнет тебя беда, ты его сожги», - посоветовал ему орел и улетел.
      </p>
-   <p>
+      <p>
       Пошел он дальше и встретил упавшего в яму медведя, которого хотели убить люди: одни бросали камни, а другие били палками. У подошедшего юноши они попросили ружье, чтобы убить медведя. Он не дал ружья, но дал им столько золота, сколько они просили, и выручил от них медведя. Потом медведь спросил у него: «Я больше боялся, когда ты появился, почему же ты меня не убил?» Юноша ответил: «Почему бы не отпустить тебя, если я больше страдаю от горя, чем ты?» В таком случае возьми один мой волосок и, когда настигнет тебя несчастье, ты его сожги», - посоветовал ему медведь и убежал в лес.
      </p>
-   <p>
+      <p>
       Пошел он дальше и добрался до морского берега. Он увидел там рыбака, который тащил буйволами одну огромную рыбу. Он отдал рыбаку много золота и попросил его отпустить ту рыбу в море. После этого на той стороне он увидел дом той девушки. Он погрузился в раздумья: «Как же теперь я переправлюсь на ту сторону?» В это время в море появилась рыба, которую он спас. Рыба посадила сына охотника на свою спину и привезла его к дому той девушки. Затем она вырвала из своих усов волос и отдала ему: «Сожги, когда тебе станет трудно».
      </p>
-   <p>
+      <p>
       Там в доме он встретил отца и дочь. «Ассалам алайкум», - приветствовал их юноша и зашел в дом. Отец дочери ответил на приветствие и осведомился: «С какой целью приехал, какое у тебя желание?» «Ей богу, нужна твоя дочь, я за ней пришел», - ответил юноша. «Пусть будет так, - сказал отец дочери, - в таком случае я дам тебе три раза спрятаться, если хоть раз я тебя не найду, отправлю тебя с дочерью, а если отыщу тебя три раза подряд, отсеку твою голову». «Очень хорошо», - согласился он и пошел прятаться. 
      </p>
-   <p>
+      <p>
        Вот тогда он сжег волос рыбы. «Что хочешь», - появилась из моря рыба, которую он спас. Когда юноша рассказал о своем желании, рыба схватила его пастью и забрала его на дно моря. 
       Отец и дочь вышли посмотреть, где юноша спрятался. Они увидели его в пасти рыбы на дне моря. Когда они ушли домой, рыба доставила сына на берег моря. Он зашел и спросил у них, нашли ли они его. «Мы увидели тебя в пасти рыбы на дне моря», - ответил отец дочери. 
      </p>
-   <p>
+      <p>
        Второй раз пошел юноша прятаться. Тут он сжег перо орла. «Что нужно?» - прилетел орел. Он его посадил на спину и поднял высоко в небо. 
       Отец и дочь вышли посмотреть, где юноша спрятался. Они повсюду посмотрели. В конце концов, когда взглянули в небо, они увидели, как он сидел на спине орла и прятался в облаке. Когда они зашли домой, орел отнес сына охотника к их дому. Он зашел к ним домой, чтобы спросить, видели ли они его. Отец дочери сказал: «Ты сидел на спине орла и прятался в облаках». 
      </p>
-   <p>
+      <p>
        Сын охотника пошел прятаться в третий раз и сжег медвежий волос. Прибежал медведь и спросил: «Что ты от меня хочешь?» Когда юноша рассказал о своем желании, медведь забрал его в берлогу в темном лесу за семью горами. Там медведь выкопал еще одну яму, спрятал его, постелил сверху жерди, засыпал ее и вдобавок еще накрыл яму лапой. 
       Когда отец и дочь вышли на улицу и посмотрели, они увидели сына охотника там внутри. Они зашли домой, а медведь доставил его к их дому. Зашел в дом и спросил он у них: «Вы нашли, где я спрятался?» «Узнали, - ответил отец дочери, - мы увидели тебя в лесу в берлоге в выкопанной яме под лапой медведя». 
      </p>
-   <p>
+      <p>
        «Теперь делайте, что хотите, я не сумел выполнить то, что вы сказали», - признал юноша поражение. После чего вмешалась девушка: «С такими способностями ни один юноша сюда не приходил, было бы хорошо дать ему возможность спрятаться в четвертый раз». Отец тоже согласился с ним и отправил сына охотника прятаться. 
      </p>
-   <p>
+      <p>
        Как вышел на улицу, он сжег волос лисы. Размахивая хвостом, прибежала лиса и спросила, что ему надо. Он поведал лисе о случившемся и попросил: «Ты должна спрятать меня в том месте, где не найдут отец и дочь. В воздухе, на море и земле они меня отыскали, нет ли у тебя другой хитрости?» - спросил юноша. «Я тебя им не покажу», - проговорила лиса, - когда я дуну, ты обернешься вошью, потом ты спрячешься в волосах девушки и перед тем, как она зайдет в дом, прыгнешь на землю, и тогда я обращу тебя обратно в юношу». 
       Так он превратился в вошь и скрылся в волосах той девушки. Отец и дочь искали его повсюду. Сколько бы они ни искали, не нашли его. «На этот раз он осилил нас», - сказав так, они зашли домой. Девушка дошла до дверей и, пока она не зашла домой, вошь спрыгнула и осталась у дверей. Пришла лиса, дунула и обратила вошь в юношу. Зашел он в дом и спросил отца и дочь, увидели ли они его на этот раз. «Не увидели», - признали поражение отец с дочерью. «А где спрятался?», - осведомился отец. Он объяснил, что спрятался в волосах дочери. 
      </p>
-   <p>
+      <p>
        Как договорились, отец выдал за него дочь и проводил юношу в путь в его село. Там она сшила для хана бурку и шапку. Совершили обряд бракосочетания, и сын охотника женился на той девушке. 
      </p>
-   <p>
+      <p>
        Я тоже был на этой свадьбе, оттуда встал, и, пока свадьба не закончилась, пришлось прийти к вам, чтобы рассказать эту сказку. 
      </p>
-  </body>
- </text>
+    </body>
+  </text>
 </TEI>

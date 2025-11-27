@@ -1,128 +1,144 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>НИИФЛИ ДГУ</institution>
-          <collection>Д. 21</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>НИИФЛИ ДГУ</institution>
+                <collection>Д. 21</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/527329/meusisha.html">Meusisha</settlement>
-       <geo />
-      </placeName>
-      <date>1959</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Р.</forename>
-        <surname xml:lang="rus">Багомедов </surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Ф.А.</forename>
-        <surname xml:lang="rus">Алиева</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/527329/meusisha.html">Meusisha</settlement>
+          <geo/>
+        </placeName>
+        <date>1959</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Р.</forename>
+            <surname xml:lang="rus">Багомедов </surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Ф.А.</forename>
+            <surname xml:lang="rus">Алиева</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_15">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_15">
     <body>
-     <head>5. Отец трех детей (дарг.)</head>
-     <p>жили брата старенький отец младший сын вернулся домой сильно уставший старый отец спрашивает</p><p>отчего сильно устал</p><p>сын отвечает</p><p>делал корзину положив скатить сбросить вниз</p><p>те времена окрестностях акуши обычай старых людей клали корзины видя никакой пользы сбрасывали пропасть хребта лес</p><p>сын сказал старому отцу изготовил корзину положив сбросить старик говорит</p><p>сделай корзину покрепче тебе пригодится состаришься</p><p>сын испугался задумался состарюсь также сбросят понял самое могут сделать решил сбрасывать отца боясь людских упреков сделал обычно делает весь народ поместил отца большой сундук спрятал дальней комнате никому братьям сказал</p><p>сел акуша началась засуха посажено высохло люди испугались ожидает голод нечем кормить свои семьи младший сын думая старый отец знает спросил</p><p>вся пшеница полях высохла отец приближается голод нам делать</p><p>отец сундука тихо ответил</p><p>посади просо сынок просо</p><p>младший сын посадил своем участке просо сельчане поступили просо взросло люди собрали большой урожай получили доход спаслись голода</p><p>старшие братья стали интересоваться младшего</p><p>скажи дал тебе совет посадить просо</p><p>младший брат признался отец сброшен пропасть это время спрятан это дал совет</p><p>старшие братья собрали народ всем рассказали это отец которому сбросив пропасть сохранили жизнь посоветовал посеять просо оказывается стариков польза</p><p>люди очень обрадовались мудрости старика говорят отменен обычай сбрасывать пожилых людей пропасть</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>5. Отец трех детей (дарг.)</head>
+      <p>жили брата старенький отец младший сын вернулся домой сильно уставший старый отец спрашивает</p>
+      <p>отчего сильно устал</p>
+      <p>сын отвечает</p>
+      <p>делал корзину положив скатить сбросить вниз</p>
+      <p>те времена окрестностях акуши обычай старых людей клали корзины видя никакой пользы сбрасывали пропасть хребта лес</p>
+      <p>сын сказал старому отцу изготовил корзину положив сбросить старик говорит</p>
+      <p>сделай корзину покрепче тебе пригодится состаришься</p>
+      <p>сын испугался задумался состарюсь также сбросят понял самое могут сделать решил сбрасывать отца боясь людских упреков сделал обычно делает весь народ поместил отца большой сундук спрятал дальней комнате никому братьям сказал</p>
+      <p>сел акуша началась засуха посажено высохло люди испугались ожидает голод нечем кормить свои семьи младший сын думая старый отец знает спросил</p>
+      <p>вся пшеница полях высохла отец приближается голод нам делать</p>
+      <p>отец сундука тихо ответил</p>
+      <p>посади просо сынок просо</p>
+      <p>младший сын посадил своем участке просо сельчане поступили просо взросло люди собрали большой урожай получили доход спаслись голода</p>
+      <p>старшие братья стали интересоваться младшего</p>
+      <p>скажи дал тебе совет посадить просо</p>
+      <p>младший брат признался отец сброшен пропасть это время спрятан это дал совет</p>
+      <p>старшие братья собрали народ всем рассказали это отец которому сбросив пропасть сохранили жизнь посоветовал посеять просо оказывается стариков польза</p>
+      <p>люди очень обрадовались мудрости старика говорят отменен обычай сбрасывать пожилых людей пропасть</p>
+    </body>
+  </text>
+</TEI>

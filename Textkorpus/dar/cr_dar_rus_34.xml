@@ -1,131 +1,160 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФ ИЯЛИ</institution>
-          <collection>Ф. 9. Оп. 1. Д. 3</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФ ИЯЛИ</institution>
+                <collection>Ф. 9. Оп. 1. Д. 3</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
-       <geo />
-      </placeName>
-      <date>1969</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Ниналаловa</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Ф.А.</forename>
-        <surname xml:lang="rus">Алиева</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Ф.А.</forename>
-        <surname xml:lang="rus">Алиевa</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
+          <geo/>
+        </placeName>
+        <date>1969</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Ниналаловa</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Ф.А.</forename>
+            <surname xml:lang="rus">Алиева</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Ф.А.</forename>
+            <surname xml:lang="rus">Алиевa</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_34">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_34">
     <body>
-     <head>108 Чалтукхан (дарг. (куб.))</head>
-     <p>жил бедный человек имени чалтукхан однажды чалтукхан пошел мельницу повел собой осла осла поставил рядом начал мо лоть зерно случайно заметил черный осел побелел взяв осла хвост уши повел крышу стал встряхивать нечаянно онвыпустил осла рук осел упал издох вороны налетели стали клевать тушу чалтукхан отогнал сел живот нутро осла вороны снова налетели поймал одну</p><p>неся смолотую муку спине ворону руке чалтукхан пошел домой оставив муку взяв собой ворону отправился другое село остановился одного дома стал заглядывать приоткрытую дверь увидел находящиеся доме люди готовили разные кушанья откладывали сторону чалтукхан проследил уносят кушанья тихо вошел дом обращаясь хозяевам спросил</p><p>хотите гадальщика</p><p>хотим заходи заходи сказав усадили можешь угадать покажи попросили люди стали слушать</p><p>чалтукхан сжал руках ворону каркнула кар р</p><p>сказала спросили</p><p>клянусь аллахом сказала комнате верхней полке тарелка творожными пирогами говорит чалтукхан</p><p>это время зашел муж услышал разговор еде спросил жену</p><p>жена еда</p><p>ответила</p><p>принеси говорит муж</p><p>жена принесла тарелку едой положила ними поели</p><p>ка говорит твоя ворона спроси обратился муж чал тукхану</p><p>чалтукхан вновь сжал ворону каркнула кар р</p><p>говорит дальнем большом котле тарелка пловом говорит чалтукхан</p><p>жена спрашивает муж</p><p>сказав это жена вынула котла тарелку пловом это поели</p><p>заставляя ворону каркать чалтукхан вынуждал приносить кушанья которые припрятаны женой</p><p>муж стал упрашивать чалтукхана продать ворону</p><p>клянусь аллахом эта ворона стоит больших денег говорит чалтукхан</p><p>сколько сможешь продать спросил человек</p><p>продам такое количество золота серебра которое накрыло ворону ответил чалтукхан</p><p>человек отдал требуемое количество золота серебра чалтукхан передал ворону взял деньги пошел домой купивший ворону человек стал кормить ухаживать</p><p>однажды взял ворону пошел свадьбу всем присутствующим свадьбе заявил ворона умеющая отгадывать</p><p>ка пусть нам скажет стали просить люди</p><p>сжал руках ворону кар р каркнула</p><p>говорит спрашивают</p><p>той комнате тарелка лепешками чалтукхан говорит купивший ворону человек</p><p>люди зашли ту комнату осмотрелись нашли</p><p>ка дай твою ворону сказал взял птицу крепко сжал лопнула</p><p>пользы пропала ворона купленная человеком большие деньги чалтукхан деньги вместо осла купил лошадь зажил припеваючи</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>108 Чалтукхан (дарг. (куб.))</head>
+      <p>жил бедный человек имени чалтукхан однажды чалтукхан пошел мельницу повел собой осла осла поставил рядом начал мо лоть зерно случайно заметил черный осел побелел взяв осла хвост уши повел крышу стал встряхивать нечаянно онвыпустил осла рук осел упал издох вороны налетели стали клевать тушу чалтукхан отогнал сел живот нутро осла вороны снова налетели поймал одну</p>
+      <p>неся смолотую муку спине ворону руке чалтукхан пошел домой оставив муку взяв собой ворону отправился другое село остановился одного дома стал заглядывать приоткрытую дверь увидел находящиеся доме люди готовили разные кушанья откладывали сторону чалтукхан проследил уносят кушанья тихо вошел дом обращаясь хозяевам спросил</p>
+      <p>хотите гадальщика</p>
+      <p>хотим заходи заходи сказав усадили можешь угадать покажи попросили люди стали слушать</p>
+      <p>чалтукхан сжал руках ворону каркнула кар р</p>
+      <p>сказала спросили</p>
+      <p>клянусь аллахом сказала комнате верхней полке тарелка творожными пирогами говорит чалтукхан</p>
+      <p>это время зашел муж услышал разговор еде спросил жену</p>
+      <p>жена еда</p>
+      <p>ответила</p>
+      <p>принеси говорит муж</p>
+      <p>жена принесла тарелку едой положила ними поели</p>
+      <p>ка говорит твоя ворона спроси обратился муж чал тукхану</p>
+      <p>чалтукхан вновь сжал ворону каркнула кар р</p>
+      <p>говорит дальнем большом котле тарелка пловом говорит чалтукхан</p>
+      <p>жена спрашивает муж</p>
+      <p>сказав это жена вынула котла тарелку пловом это поели</p>
+      <p>заставляя ворону каркать чалтукхан вынуждал приносить кушанья которые припрятаны женой</p>
+      <p>муж стал упрашивать чалтукхана продать ворону</p>
+      <p>клянусь аллахом эта ворона стоит больших денег говорит чалтукхан</p>
+      <p>сколько сможешь продать спросил человек</p>
+      <p>продам такое количество золота серебра которое накрыло ворону ответил чалтукхан</p>
+      <p>человек отдал требуемое количество золота серебра чалтукхан передал ворону взял деньги пошел домой купивший ворону человек стал кормить ухаживать</p>
+      <p>однажды взял ворону пошел свадьбу всем присутствующим свадьбе заявил ворона умеющая отгадывать</p>
+      <p>ка пусть нам скажет стали просить люди</p>
+      <p>сжал руках ворону кар р каркнула</p>
+      <p>говорит спрашивают</p>
+      <p>той комнате тарелка лепешками чалтукхан говорит купивший ворону человек</p>
+      <p>люди зашли ту комнату осмотрелись нашли</p>
+      <p>ка дай твою ворону сказал взял птицу крепко сжал лопнула</p>
+      <p>пользы пропала ворона купленная человеком большие деньги чалтукхан деньги вместо осла купил лошадь зажил припеваючи</p>
+    </body>
+  </text>
+</TEI>

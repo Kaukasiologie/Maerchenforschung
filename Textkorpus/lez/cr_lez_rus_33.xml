@@ -1,128 +1,185 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Lesgische Folklore</title>
-      <title xml:lang="eng">Lezgian Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф. 9, on. 1, д № 23</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Lesgische Folklore</title>
+        <title xml:lang="eng">Lezgian Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф. 9, on. 1, д № 23</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="lez">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/538991/kurakhskiy-rayon.html">Kurakhskiy-Rayon</district>
-       <settlement ref="https://www.geonames.org/538994/kurakh.html">Kurakh</settlement>
-       <geo />
-      </placeName>
-      <date>1936</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">И.</forename>
-        <surname xml:lang="rus">Абдул-Керимов</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">М. М.</forename>
-        <surname xml:lang="rus">Гаджиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="lez">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/538991/kurakhskiy-rayon.html">Kurakhskiy-Rayon</district>
+          <settlement ref="https://www.geonames.org/538994/kurakh.html">Kurakh</settlement>
+          <geo/>
+        </placeName>
+        <date>1936</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">И.</forename>
+            <surname xml:lang="rus">Абдул-Керимов</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">М. М.</forename>
+            <surname xml:lang="rus">Гаджиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_lez_rus_33">
+  </teiHeader>
+  <text xml:id="cr_lez_rus_33">
     <body>
-     <head>74. Цицали </head>
-     <p>это жил пастух имени цицали</p><p>жена однажды городе умер человек доме покойного должны собраться женщины случилось жена пастуха пришла раньше комнате никого выло села около очага некоторое время пришла жена богача оттеснив жену пастуха сама уселась около очага затем пришла жена судьи пришлось жене пастуха отодвинуться дальше дверям общем приходило женщин жена пастуха конце концов очутилась самых дверей появилась жена кадия</p><p>вошла женщины встали оказав уважение провели самую почетную часть комнаты жена пастуха очутилась дверями жена пастуха подумала</p><p>жене кадия оказывают такое уважение муж ученый заставлю своего мужа учиться</p><p>вечером домой вернулся муж жена рассказала случилось похоронах</p><p>завтрашнего дня будешь учиться уходи</p><p>дома заключила</p><p>эй жена ответил пастух пятьдесят лет</p><p>время учиться пасти общественное стадо</p><p>стаде позаботятся хозяева скотины ответила жена должен учиться иначе доме тебе места</p><p>завтра иди мулле который живет нашем магале учить</p><p>конце концов пришлось цицали всерьез заняться учением день пошел стадом заказал мастеру плотнику доску которой пишут буквы затем пошел мулле мулла сперва удивился подумал плату равно возьму пускай учится</p><p>дня цицали начал учить алиф ба та осилил алфавит стал читать книги</p><p>цицали выучил азбуку настроение немного поднялось вечерком вышел погулять дошел моста перекинутого большую реку мостом река глубокой построена плотина отсюда отводилась вода мельницы</p><p>случилось это время равнины возвращался караван верблюдов принадлежащих царю караване любимый верблюд царя верблюды проходили мост стали толкать друг друга любимый верблюд царя упав моста утонул реке единственным свидетелем оказался цицали никто видел</p><p>вечером царь осматривал караван оказалось любимого верблюда</p><p>любимый верблюд спрашивает царь караванщика</p><p>видел вошел город ответил</p><p>царь подумал городе наверное воры украли верблюда найти вора царь дал приказ собрать ученых города нашли вора сперва позвали самых ученых затем просто ученых тех которых лишь говорили учились однако никто смог указать найти вора</p><p>остался городе человек который учился спросил царь</p><p>остался имени цицали недавно начал учиться ответили царю</p><p>позвать приказал царь разыщет вора</p><p>позвали цицали царь сказал</p><p>любимый верблюд пропал нужно узнать украл найдешь вора тебе дам золотых</p><p>цицали пообещав найти вора вернулся домой</p><p>другое утро рассвета цицали пришел царю</p><p>твоего верблюда сказал царю никто украл</p><p>упал моста утонул веришь пошли людей пусть вытащат</p><p>царь послал людей действительно нашли верблюда месте которое указал цицали</p><p>цицали получив обещанные золотые вернулся домой разбогатевшим</p><p>прошло некоторое время воры взломали казну царя украли золото царь повелел позвать цицали говорит</p><p>истечении трех дней найдешь воров отрублю тебе голову</p><p>цицали перепугался вернулся домой сидит думает</p><p>делать одна ночь прошла две ночи прошло наступила третья ночь цицали думает</p><p>воры оказывается следили</p><p>цицали спит рассуждали значит знает вор скажет царь убьет</p><p>пойдем цицали сознаемся</p><p>посоветовавшись третью ночь пошли дому цицали постучали дверь цицали подумал вызывает царь испугался мог встать места дверь открыла жена воры вошли комнату</p><p>знаешь пришли спросили</p><p>скажите отвечает цицали</p><p>воры взломавшие казну царя это царю говори убьет тебе расскажем спрятана казна скажи царю украли злые духи</p><p>знал казну украли ответил цицали жалел дня ночи думал говорить говорить сами пришли</p><p>воры рассказали цицали спрятано золото утром свет пошел царю</p><p>узнал вор спросил царь</p><p>узнал царь ответил цицали казну украли люди злые духи хочешь проверь твое золото зарыто кладбище</p><p>сказал царь отправился кладбище раскопали указанное место нашли золото часть которого царь дал цицали</p><p>случая царь задумался кадий знающий вместо назначить цицали</p><p>цицали стал кадием однажды жена говорит</p><p>думай стал кадием своих способностей это произошло благодаря должен построить хороший дом</p><p>цицали стал прекословить жене сделал захотела стали жить довольстве</p><p>прошло некоторое время цицали справедливо решал дела поэтому стране никто стал заниматься воровством царь также оказывал цицали большой почет</p><p>однажды царю захотелось прогуляться своим любимым кадием сели фаэтон отправились прогулку</p><p>выехали город царю пришла голову одна мысль</p><p>слез фаэтона зашел кусты поймал кузнечика держа кулаке вернулся затем говорит цицали</p><p>любимый знающий кадий должен знать узнаешь кулаке станешь самым близким человеком</p><p>гак сказал цицали воскликнул</p><p>погиб цицали</p><p>царь сразу разжал кулак выпустил кузнечика</p><p>хвала тебе сказал цицали оказывается такого дела которого знал</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>74. Цицали </head>
+      <p>это жил пастух имени цицали</p>
+      <p>жена однажды городе умер человек доме покойного должны собраться женщины случилось жена пастуха пришла раньше комнате никого выло села около очага некоторое время пришла жена богача оттеснив жену пастуха сама уселась около очага затем пришла жена судьи пришлось жене пастуха отодвинуться дальше дверям общем приходило женщин жена пастуха конце концов очутилась самых дверей появилась жена кадия</p>
+      <p>вошла женщины встали оказав уважение провели самую почетную часть комнаты жена пастуха очутилась дверями жена пастуха подумала</p>
+      <p>жене кадия оказывают такое уважение муж ученый заставлю своего мужа учиться</p>
+      <p>вечером домой вернулся муж жена рассказала случилось похоронах</p>
+      <p>завтрашнего дня будешь учиться уходи</p>
+      <p>дома заключила</p>
+      <p>эй жена ответил пастух пятьдесят лет</p>
+      <p>время учиться пасти общественное стадо</p>
+      <p>стаде позаботятся хозяева скотины ответила жена должен учиться иначе доме тебе места</p>
+      <p>завтра иди мулле который живет нашем магале учить</p>
+      <p>конце концов пришлось цицали всерьез заняться учением день пошел стадом заказал мастеру плотнику доску которой пишут буквы затем пошел мулле мулла сперва удивился подумал плату равно возьму пускай учится</p>
+      <p>дня цицали начал учить алиф ба та осилил алфавит стал читать книги</p>
+      <p>цицали выучил азбуку настроение немного поднялось вечерком вышел погулять дошел моста перекинутого большую реку мостом река глубокой построена плотина отсюда отводилась вода мельницы</p>
+      <p>случилось это время равнины возвращался караван верблюдов принадлежащих царю караване любимый верблюд царя верблюды проходили мост стали толкать друг друга любимый верблюд царя упав моста утонул реке единственным свидетелем оказался цицали никто видел</p>
+      <p>вечером царь осматривал караван оказалось любимого верблюда</p>
+      <p>любимый верблюд спрашивает царь караванщика</p>
+      <p>видел вошел город ответил</p>
+      <p>царь подумал городе наверное воры украли верблюда найти вора царь дал приказ собрать ученых города нашли вора сперва позвали самых ученых затем просто ученых тех которых лишь говорили учились однако никто смог указать найти вора</p>
+      <p>остался городе человек который учился спросил царь</p>
+      <p>остался имени цицали недавно начал учиться ответили царю</p>
+      <p>позвать приказал царь разыщет вора</p>
+      <p>позвали цицали царь сказал</p>
+      <p>любимый верблюд пропал нужно узнать украл найдешь вора тебе дам золотых</p>
+      <p>цицали пообещав найти вора вернулся домой</p>
+      <p>другое утро рассвета цицали пришел царю</p>
+      <p>твоего верблюда сказал царю никто украл</p>
+      <p>упал моста утонул веришь пошли людей пусть вытащат</p>
+      <p>царь послал людей действительно нашли верблюда месте которое указал цицали</p>
+      <p>цицали получив обещанные золотые вернулся домой разбогатевшим</p>
+      <p>прошло некоторое время воры взломали казну царя украли золото царь повелел позвать цицали говорит</p>
+      <p>истечении трех дней найдешь воров отрублю тебе голову</p>
+      <p>цицали перепугался вернулся домой сидит думает</p>
+      <p>делать одна ночь прошла две ночи прошло наступила третья ночь цицали думает</p>
+      <p>воры оказывается следили</p>
+      <p>цицали спит рассуждали значит знает вор скажет царь убьет</p>
+      <p>пойдем цицали сознаемся</p>
+      <p>посоветовавшись третью ночь пошли дому цицали постучали дверь цицали подумал вызывает царь испугался мог встать места дверь открыла жена воры вошли комнату</p>
+      <p>знаешь пришли спросили</p>
+      <p>скажите отвечает цицали</p>
+      <p>воры взломавшие казну царя это царю говори убьет тебе расскажем спрятана казна скажи царю украли злые духи</p>
+      <p>знал казну украли ответил цицали жалел дня ночи думал говорить говорить сами пришли</p>
+      <p>воры рассказали цицали спрятано золото утром свет пошел царю</p>
+      <p>узнал вор спросил царь</p>
+      <p>узнал царь ответил цицали казну украли люди злые духи хочешь проверь твое золото зарыто кладбище</p>
+      <p>сказал царь отправился кладбище раскопали указанное место нашли золото часть которого царь дал цицали</p>
+      <p>случая царь задумался кадий знающий вместо назначить цицали</p>
+      <p>цицали стал кадием однажды жена говорит</p>
+      <p>думай стал кадием своих способностей это произошло благодаря должен построить хороший дом</p>
+      <p>цицали стал прекословить жене сделал захотела стали жить довольстве</p>
+      <p>прошло некоторое время цицали справедливо решал дела поэтому стране никто стал заниматься воровством царь также оказывал цицали большой почет</p>
+      <p>однажды царю захотелось прогуляться своим любимым кадием сели фаэтон отправились прогулку</p>
+      <p>выехали город царю пришла голову одна мысль</p>
+      <p>слез фаэтона зашел кусты поймал кузнечика держа кулаке вернулся затем говорит цицали</p>
+      <p>любимый знающий кадий должен знать узнаешь кулаке станешь самым близким человеком</p>
+      <p>гак сказал цицали воскликнул</p>
+      <p>погиб цицали</p>
+      <p>царь сразу разжал кулак выпустил кузнечика</p>
+      <p>хвала тебе сказал цицали оказывается такого дела которого знал</p>
+    </body>
+  </text>
+</TEI>

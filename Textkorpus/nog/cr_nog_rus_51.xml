@@ -1,125 +1,139 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Nogaische Folklore</title>
-      <title xml:lang="eng">Nogai Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Ногайские народные сказки</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Nogaische Folklore</title>
+        <title xml:lang="eng">Nogai Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="nog">Ногай эртегилер.</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 134–136.</publisher>
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Ногайские народные сказки</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="nog">Ногай эртегилер.</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 134–136.</publisher>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="nog">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="nog">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName/>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_nog_rus_51">
+  </teiHeader>
+  <text xml:id="cr_nog_rus_51">
     <body>
-     <head>44. Ум старика </head>
-     <p>жил хан молодым стариков любил однажды хан приказал собрать стариков отрубить головы джигит ослушался ханского приказа спрятал своего престарелого отца погребе</p><p>прошло немного времени соседний правитель объявил молодому хану войну хан стал собирать войско джигит скрывший своего отца погребе решил рассказать предстоящем походе посоветоваться</p><p>старик сказал сыну</p><p>походе кончатся запасы еды питья станут колоть своих коней седла уздечки побросают бросай своего седла уздечки туго тебе пришлось дороге домой встретите доброго коня побежит тому кого будут седло уздечка оседлаешь коня подведешь предводителю своего войска считать своим лучшим другом</p><p>походе произошло предсказал старик сын послушался совета отца сделал велел воины голоду зарезали коней съели побросали уздечки седла сын старика взял собой седло уздечку воины повернули поля битвы навстречу выбежал добрый конь бросились ловить побежал джигиту руках которого седло уздечка сын старика оседлал коня подвел предводителю войска тех пор считал юношу своим лучшим другом</p><p>однажды хан своим войском отправился берегу моря воде виднелось блестящее</p><p>достаньте блестящую вещь дна морского говорит хан своим воинам</p><p>многие ныряли блестящей вещью вынырнул поверхность джигит вскочил своего коня помчался советом старику отцу спустился погреб рассказал обо всем отцу</p><p>сын отвечает морском берегу растет большое дерево ветвях свила гнездо ворона гнезде лежит блестящий камень отражается воде придет твоя очередь нырять попроси хана разрешения влезть это дерево последний взглянуть родные края вытащишь камень гнезда отдашь хану</p><p>выслушав совет отца джигит вернулся берег пришел черед нырять море попросил хана разрешения влезть дерево последний взглянуть родные места хан согласился юноша забрался дерево увидел воронье гнездо нем большой блестящий камень юноша вынул камень гнезда отражение исчезло поверхности моря джигит спустился дерева отдал камень хану</p><p>хан удивился говорит</p><p>догадливый дал камень походе подарил коня седлом уздечкой предводителю войска</p><p>хан отвечает юноша это догадливый отец делай мной хочешь ослушался твоего приказа повелел обезглавить стариков сохранил жизнь своему престарелому отцу спрятав погребе уму разуму научил отец другие старики живы поделились нами своей мудростью</p><p>хан отправился юношей отцу дал хану мудрых советов хан вышел своим воинам сказал</p><p>мои воины совершил большую ошибку приказав обезглавить стариков будь живы нашем ханстве знающих людей</p><p>этих пор хан перестал убивать стариков</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>44. Ум старика </head>
+      <p>жил хан молодым стариков любил однажды хан приказал собрать стариков отрубить головы джигит ослушался ханского приказа спрятал своего престарелого отца погребе</p>
+      <p>прошло немного времени соседний правитель объявил молодому хану войну хан стал собирать войско джигит скрывший своего отца погребе решил рассказать предстоящем походе посоветоваться</p>
+      <p>старик сказал сыну</p>
+      <p>походе кончатся запасы еды питья станут колоть своих коней седла уздечки побросают бросай своего седла уздечки туго тебе пришлось дороге домой встретите доброго коня побежит тому кого будут седло уздечка оседлаешь коня подведешь предводителю своего войска считать своим лучшим другом</p>
+      <p>походе произошло предсказал старик сын послушался совета отца сделал велел воины голоду зарезали коней съели побросали уздечки седла сын старика взял собой седло уздечку воины повернули поля битвы навстречу выбежал добрый конь бросились ловить побежал джигиту руках которого седло уздечка сын старика оседлал коня подвел предводителю войска тех пор считал юношу своим лучшим другом</p>
+      <p>однажды хан своим войском отправился берегу моря воде виднелось блестящее</p>
+      <p>достаньте блестящую вещь дна морского говорит хан своим воинам</p>
+      <p>многие ныряли блестящей вещью вынырнул поверхность джигит вскочил своего коня помчался советом старику отцу спустился погреб рассказал обо всем отцу</p>
+      <p>сын отвечает морском берегу растет большое дерево ветвях свила гнездо ворона гнезде лежит блестящий камень отражается воде придет твоя очередь нырять попроси хана разрешения влезть это дерево последний взглянуть родные края вытащишь камень гнезда отдашь хану</p>
+      <p>выслушав совет отца джигит вернулся берег пришел черед нырять море попросил хана разрешения влезть дерево последний взглянуть родные места хан согласился юноша забрался дерево увидел воронье гнездо нем большой блестящий камень юноша вынул камень гнезда отражение исчезло поверхности моря джигит спустился дерева отдал камень хану</p>
+      <p>хан удивился говорит</p>
+      <p>догадливый дал камень походе подарил коня седлом уздечкой предводителю войска</p>
+      <p>хан отвечает юноша это догадливый отец делай мной хочешь ослушался твоего приказа повелел обезглавить стариков сохранил жизнь своему престарелому отцу спрятав погребе уму разуму научил отец другие старики живы поделились нами своей мудростью</p>
+      <p>хан отправился юношей отцу дал хану мудрых советов хан вышел своим воинам сказал</p>
+      <p>мои воины совершил большую ошибку приказав обезглавить стариков будь живы нашем ханстве знающих людей</p>
+      <p>этих пор хан перестал убивать стариков</p>
+    </body>
+  </text>
+</TEI>

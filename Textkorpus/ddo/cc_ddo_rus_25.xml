@@ -1,193 +1,195 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">ТРИ ХАНСКИХ СЫНА И ХАНСКАЯ ДОЧЬ</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a566 Fortunatus</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_25.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
-      <item>Warnung vor sozialer Diskriminierung</item>
-      <item>Warnung vor ethnischen oder kulturellen Stereotypen</item>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_25">
-  <body>
-   <head>ТРИ ХАНСКИХ СЫНА И ХАНСКАЯ ДОЧЬ</head>
-   <p>Что рассказать, что не рассказывать?Жил один хан. У него Л. было три сына. Хан как-то сказал младшему сыну: «Когда тебе станет тяжело, ударь ногой о столб, который находится в этом доме». Вскоре после этого хан умер. По завещанию отца трое братьев разделили между собой наследство, и всем досталось по три мерки,</p>
-   <p>В этом городе у одного хана была дочь. Когда старший сын пошел ее сватать, она попросила с него мерку золота, тогда, мол, даст ему слово выйти за него. Когда же она получила ее, то отказалась выйти за него. «Теперь что я буду делать?» - подумал он и пошел по свету.</p>
-   <p>Затем к этой ханской дочери пошел свататься средний брат, мол, стань моей женой. Ему она тоже сказала, что выйдет, если тот даст ей мерку золота. Пришел и тот юноша с меркой золота, чтобы получить ее согласие. Получив золото, ханская дочъ не дала согласия выйти за пего и прогнала. «Теперь все пи к чему», - сказал о и и тоже пошел по свету.</p>
-   <p>Потом и младший брат пошел сватать ту ханскую дочъ, мол, станъ моей женой. Ему тоже она сказала: «Выйду, если дашь мерку золота». Он принес золото и отдал ей. Как только ханская дочь получила золото, прогнала и младшего брата. «Что же теперь я буду делать?» - с этими мыслями юноша терпел голод и холод. Через некоторое, время он вспомнил завещание отца, по которому, если ударить ногой о столб, который находится дома, и проситъ его, сбудутся все желания. Юноша встал и ударил ногой о столб, и тут неизвестно откуда упала рукавица. «Зачем это упало? Но пусть будет по завещанию отца», - сказал юноша и посмотрел в рукавицу, а там чего только не было! Даже хлеб. Он очень обрадовался, вышел и сказал: «Теперь пойду царевну сватать». Пришел, показал ей рукавицу. Она сначала, не зная, что это за рукавица, сказала: «Таких рукавиц у нас девять». - «Простые рукавицы, может, у вас есть, ио они не такие как моя». - « Что в твоей рукавице необыкновенного? Дай-ка мне посмотреть», - сказала девушка. Юноша дал посмотреть рукавицу де-вушке. Она взяла и посмотрела внутрь. Когда девушка увидела там много разных вещей, она схватила рукавицу и отказалась ее возвращать. Опять юноша впал в отчаяние. В печали он вспомнил завещание отца. Встал и ударил ногой о столб, и неизвестно откуда упал таз. «Зачем это упало? Но пусть будет по завещанию отца», - сказал юноша. Встал, сделал омовение в тазике, воду на улицу вылил, а эта вода превратилась в драгоценности. «Теперь опять, что ли, она не выйдет за меня замуж?» — юноша пошел с тазиком и показал его царевне. Она сказала: «Таких тазиков у нас. десяток найдется». - «Как у меня, наверное, таких тазиков у вас нет». - «А какой он у тебя?» - спросила девушка, «Если налить воду в тазик и вылить, то она превращается в драгоценности», -рассказал юноша. «В таком случае, если ты дашь мне этот тазик, я за тебя выйду», - сказала царевна. Выманила она у него тазик и снова выгнала, не сдержав слова. «Что же я теперь буду делать?» - пошел домой юноша с опущенной головой. Пошел он домой, а когда ударил ногой о столб, упал пандур. «А это зачем упало? Но пустъ будет по завещанию отца», - сказал юноша. Когда он находился, в таком состоянии, из пандура появилось пятьдесят пеших солдат и пятьдесят всадников. Не успели они выйти, он их завел обратно. Потом еще раз пошел к царевне, чтобы, показать пандур. Когда юноша показал пандур, она сказала: «Таких панду ров у нас сколько угодно». - «Вряд ли ваши пандуры подобны моим», — сказал юноша. «Ну-ка покажи, каков твой пандур», — сказала девушка. Как только она это сказала, из пандура вылезли пятьдесят пеших солдат, столько же и всадников. Потом они сказали: «Какое у тебя желание, что ты хочешь от нас?» - «От вас мне пока ничего не нужно, можете зайти обратно», — сказал юноша. Все солдаты вернулись обратно.</p>
-   <p>Царевна удивилась и сказала: «На этот раз выйду я за тебя, если ты дашь мне этот, пандур». «Не дам, - сказал ей юноша, прежде ты меня тоже обманывала». Девушка упорно настаивала: «Выйду за тебя», и юноша отдал пандур. Она выхватила у юноши пандур и выгнала его. Юноша впал в отчаяние: «Пойду теперь куда глаза глядят».</p>
-   <p>Пошел он оттуда и дошел до какого-то поля. В это время он захотел есть. Чуть дальше за полем он увидел яблоню. На ней были с одной стороны белые яблоки, а с другой красные. Го.,іодный, он сорвал с этого дерева красное яблоко и превратился в дерево. «Аллах, что же со мной случилось? Что же теперь я буду делать?» - сказал он, сорвал, съел белое яблоко и превратился в человека. «Очень хорошо теперь», — подумал юноша, сорвал с дерева белых и красных яблок и пошел к ханской дочери. Когда он показал ей яблоко, она попросила юношу: «Если ты мне это яблоко дашь, я за тебя выйду». Юноша сначала притворился, что не. хочет давать. Чем больше юноша отказывался, тем. больше она настаивала: дай, мол, яблоко. Взял и отдал, юноша красное яблоко. Как только ханская дочь закончила его есть, она превратилась в дерево. Оставив ее в таком состоянии, юноша пошел домой.</p>
-   <p>Отец девушки, хан, всех докторов собрал у себя дома и сказал: «Моя дочь превратилась в дерево. Я ее выдам за того, кто ее обратно превратит в девушку». Потом, за исключением этого юноши, хан собрал весь народ, чтобы лечить девушку. Никто не смог превратить ее обратно в девушку. Хан приказал визирям: «Приведите ко мне этого юношу, может бытъ, он превратит мою дочъ обратно в девушку». В тот. же день привели того юношу. Он договорился с ханом, что тот выдаст дочь за него. Его пустили к дереву, чтобы превратить его в девушку. Юноша вынул из кармана белое яблоко и отдал ей. Как только она его съела, превратилась в настоящую ханскую дочъ. Потом юноша сказал ей: «Ну-ка, отдавай теперь мою золотую мерку, таз, рукавицу и пандур». Отнял у царевны золотую мерку, таз, рукавицу, пандур, а хан выдал дочь за него. Через некоторое, время юноша стал ханом вместо отца этой девушки.</p>
-   <p>Я тоже с жалобой был у этого хина. Он принял мою жалобу. Эту вещь я не видел. Пусть плохой человек не увидит хорошего дня!</p>
-   <p>Цунти-цванти на роге козла, под ухом двухгодичного козла!</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">ТРИ ХАНСКИХ СЫНА И ХАНСКАЯ ДОЧЬ</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a566 Fortunatus</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_25.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+            <item>Warnung vor sozialer Diskriminierung</item>
+            <item>Warnung vor ethnischen oder kulturellen Stereotypen</item>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_25">
+    <body>
+      <head>ТРИ ХАНСКИХ СЫНА И ХАНСКАЯ ДОЧЬ</head>
+      <p>Что рассказать, что не рассказывать?Жил один хан. У него Л. было три сына. Хан как-то сказал младшему сыну: «Когда тебе станет тяжело, ударь ногой о столб, который находится в этом доме». Вскоре после этого хан умер. По завещанию отца трое братьев разделили между собой наследство, и всем досталось по три мерки,</p>
+      <p>В этом городе у одного хана была дочь. Когда старший сын пошел ее сватать, она попросила с него мерку золота, тогда, мол, даст ему слово выйти за него. Когда же она получила ее, то отказалась выйти за него. «Теперь что я буду делать?» - подумал он и пошел по свету.</p>
+      <p>Затем к этой ханской дочери пошел свататься средний брат, мол, стань моей женой. Ему она тоже сказала, что выйдет, если тот даст ей мерку золота. Пришел и тот юноша с меркой золота, чтобы получить ее согласие. Получив золото, ханская дочъ не дала согласия выйти за пего и прогнала. «Теперь все пи к чему», - сказал о и и тоже пошел по свету.</p>
+      <p>Потом и младший брат пошел сватать ту ханскую дочъ, мол, станъ моей женой. Ему тоже она сказала: «Выйду, если дашь мерку золота». Он принес золото и отдал ей. Как только ханская дочь получила золото, прогнала и младшего брата. «Что же теперь я буду делать?» - с этими мыслями юноша терпел голод и холод. Через некоторое, время он вспомнил завещание отца, по которому, если ударить ногой о столб, который находится дома, и проситъ его, сбудутся все желания. Юноша встал и ударил ногой о столб, и тут неизвестно откуда упала рукавица. «Зачем это упало? Но пусть будет по завещанию отца», - сказал юноша и посмотрел в рукавицу, а там чего только не было! Даже хлеб. Он очень обрадовался, вышел и сказал: «Теперь пойду царевну сватать». Пришел, показал ей рукавицу. Она сначала, не зная, что это за рукавица, сказала: «Таких рукавиц у нас девять». - «Простые рукавицы, может, у вас есть, ио они не такие как моя». - « Что в твоей рукавице необыкновенного? Дай-ка мне посмотреть», - сказала девушка. Юноша дал посмотреть рукавицу де-вушке. Она взяла и посмотрела внутрь. Когда девушка увидела там много разных вещей, она схватила рукавицу и отказалась ее возвращать. Опять юноша впал в отчаяние. В печали он вспомнил завещание отца. Встал и ударил ногой о столб, и неизвестно откуда упал таз. «Зачем это упало? Но пусть будет по завещанию отца», - сказал юноша. Встал, сделал омовение в тазике, воду на улицу вылил, а эта вода превратилась в драгоценности. «Теперь опять, что ли, она не выйдет за меня замуж?» — юноша пошел с тазиком и показал его царевне. Она сказала: «Таких тазиков у нас. десяток найдется». - «Как у меня, наверное, таких тазиков у вас нет». - «А какой он у тебя?» - спросила девушка, «Если налить воду в тазик и вылить, то она превращается в драгоценности», -рассказал юноша. «В таком случае, если ты дашь мне этот тазик, я за тебя выйду», - сказала царевна. Выманила она у него тазик и снова выгнала, не сдержав слова. «Что же я теперь буду делать?» - пошел домой юноша с опущенной головой. Пошел он домой, а когда ударил ногой о столб, упал пандур. «А это зачем упало? Но пустъ будет по завещанию отца», - сказал юноша. Когда он находился, в таком состоянии, из пандура появилось пятьдесят пеших солдат и пятьдесят всадников. Не успели они выйти, он их завел обратно. Потом еще раз пошел к царевне, чтобы, показать пандур. Когда юноша показал пандур, она сказала: «Таких панду ров у нас сколько угодно». - «Вряд ли ваши пандуры подобны моим», — сказал юноша. «Ну-ка покажи, каков твой пандур», — сказала девушка. Как только она это сказала, из пандура вылезли пятьдесят пеших солдат, столько же и всадников. Потом они сказали: «Какое у тебя желание, что ты хочешь от нас?» - «От вас мне пока ничего не нужно, можете зайти обратно», — сказал юноша. Все солдаты вернулись обратно.</p>
+      <p>Царевна удивилась и сказала: «На этот раз выйду я за тебя, если ты дашь мне этот, пандур». «Не дам, - сказал ей юноша, прежде ты меня тоже обманывала». Девушка упорно настаивала: «Выйду за тебя», и юноша отдал пандур. Она выхватила у юноши пандур и выгнала его. Юноша впал в отчаяние: «Пойду теперь куда глаза глядят».</p>
+      <p>Пошел он оттуда и дошел до какого-то поля. В это время он захотел есть. Чуть дальше за полем он увидел яблоню. На ней были с одной стороны белые яблоки, а с другой красные. Го.,іодный, он сорвал с этого дерева красное яблоко и превратился в дерево. «Аллах, что же со мной случилось? Что же теперь я буду делать?» - сказал он, сорвал, съел белое яблоко и превратился в человека. «Очень хорошо теперь», — подумал юноша, сорвал с дерева белых и красных яблок и пошел к ханской дочери. Когда он показал ей яблоко, она попросила юношу: «Если ты мне это яблоко дашь, я за тебя выйду». Юноша сначала притворился, что не. хочет давать. Чем больше юноша отказывался, тем. больше она настаивала: дай, мол, яблоко. Взял и отдал, юноша красное яблоко. Как только ханская дочь закончила его есть, она превратилась в дерево. Оставив ее в таком состоянии, юноша пошел домой.</p>
+      <p>Отец девушки, хан, всех докторов собрал у себя дома и сказал: «Моя дочь превратилась в дерево. Я ее выдам за того, кто ее обратно превратит в девушку». Потом, за исключением этого юноши, хан собрал весь народ, чтобы лечить девушку. Никто не смог превратить ее обратно в девушку. Хан приказал визирям: «Приведите ко мне этого юношу, может бытъ, он превратит мою дочъ обратно в девушку». В тот. же день привели того юношу. Он договорился с ханом, что тот выдаст дочь за него. Его пустили к дереву, чтобы превратить его в девушку. Юноша вынул из кармана белое яблоко и отдал ей. Как только она его съела, превратилась в настоящую ханскую дочъ. Потом юноша сказал ей: «Ну-ка, отдавай теперь мою золотую мерку, таз, рукавицу и пандур». Отнял у царевны золотую мерку, таз, рукавицу, пандур, а хан выдал дочь за него. Через некоторое, время юноша стал ханом вместо отца этой девушки.</p>
+      <p>Я тоже с жалобой был у этого хина. Он принял мою жалобу. Эту вещь я не видел. Пусть плохой человек не увидит хорошего дня!</p>
+      <p>Цунти-цванти на роге козла, под ухом двухгодичного козла!</p>
+    </body>
+  </text>
 </TEI>

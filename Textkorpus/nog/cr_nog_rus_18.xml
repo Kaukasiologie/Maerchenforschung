@@ -1,125 +1,153 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Nogaische Folklore</title>
-      <title xml:lang="eng">Nogai Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Ногайские народные сказки</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Nogaische Folklore</title>
+        <title xml:lang="eng">Nogai Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="nog">Ногай эртегилер.</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 37–39.</publisher>
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Ногайские народные сказки</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="nog">Ногай эртегилер.</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 37–39.</publisher>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="nog">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="nog">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName/>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_nog_rus_18">
+  </teiHeader>
+  <text xml:id="cr_nog_rus_18">
     <body>
-     <head>11. Хозяин дома, крытого синей жестью </head>
-     <p>старину жил старик девять сыновей решил старик женить сыновей старуха говорит</p><p>пусть невестки будут одной семьи</p><p>отправился старик искать невест своих сыновей</p><p>приходит аул заходит дом спрашивает</p><p>семья девять дочерей</p><p>такая семья отвечает хозяин дома больно бедны</p><p>наутро хозяин повел старика ту семью отец девушек выслушал старика согласился выдать своих дочерей сыновей</p><p>старик возвратился домой говорит сыновьям</p><p>поезжайте своими невестами</p><p>говорят братья пусть самый младший остается дома сами привезем невесту</p><p>старик собирает дорогу напутствует</p><p>отправляйтесь путь заходите дом крытый синей жестью</p><p>едут братья видят дороги дом крытый синей жестью заходят никого наелись напились ушли убрав собой</p><p>приехали братья аул жили невесты справили свадьбу забрали девушек поехали домой дороге снова зашли дом крытый синей жестью наелись напились хотели ехать дальше ними появился аздаа</p><p>раза посетили дом спроса говорит братьям аздаа ели пили убирали собой это оставьте невесту вашего младшего брата джигит пусть приезжает</p><p>делать пришлось братьям оставить девушку доме аздаа</p><p>приехали домой рассказали обо всем младшему брату сразу отправился аздаа заходит дом крытый синей жестью смотрит девушка невеста хотел увести девушку дверях появился аздаа аздаа рассказал вели доме старшие братья юноши говорит</p><p>дитя человека елмавыз превратила аздаа тех пор живу дом построил приносить пользу людям путники находят приют укрываются стужи едят пьют вместо благодарности оставляют собой неубранный стол суждено оставаться аздаа тех пор пока увижу сестру которая живет ауле отцом настоящий джигит помоги разыщи мою сестру приведи сюда снова стану человеком сможешь взять мою сестру жены</p><p>юноша согласился помочь аздаа отправился разыскивать сестру дороге увидел мышь бегала вокруг объятой огнем норы пытаясь спасти своих детей</p><p>увидев джигита мышь взмолилась</p><p>спаси моих детей</p><p>юноша вытащил огня детей мыши выдернула волосок своей шкурки сказала</p><p>тебе понадобится помощь сожги волосок</p><p>юноша взял волосок пошел дальше дошел аула жила сестра аздаа отцом пришел юноша старику говорит хочет жениться дочери</p><p>говорит старик справишься работой которую тебе дам получишь мою дочь жены справишься сносить тебе головы</p><p>этими словами старик повел юношу закрома перемешал мешок пшеницы мешок проса велел юноше утру отделить пшеницу проса положил юношей арбуз велел одним ударом разделить две равные части</p><p>старик ушел юноша задумался делать видно зятем старика сносить головы юноша вспомнил волоске который дала мышь сжег волосок появилась мышь узнав дело позвала других мышей быстро отделили пшеницу проса юноша ссыпал зерно разные мешки затем ударом ладони разделил арбуз пополам улегся спать</p><p>старик никак ожидал юноша справится своей работой поэтому очень удивился утром увидел просо пшеница лежат разных мешках арбуз разделен две равные части</p><p>это джигит достоин моей дочери воскликнул старик</p><p>юноша женился сразу двух девушках аздаа встретился сестрой снова стал человеком</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>11. Хозяин дома, крытого синей жестью </head>
+      <p>старину жил старик девять сыновей решил старик женить сыновей старуха говорит</p>
+      <p>пусть невестки будут одной семьи</p>
+      <p>отправился старик искать невест своих сыновей</p>
+      <p>приходит аул заходит дом спрашивает</p>
+      <p>семья девять дочерей</p>
+      <p>такая семья отвечает хозяин дома больно бедны</p>
+      <p>наутро хозяин повел старика ту семью отец девушек выслушал старика согласился выдать своих дочерей сыновей</p>
+      <p>старик возвратился домой говорит сыновьям</p>
+      <p>поезжайте своими невестами</p>
+      <p>говорят братья пусть самый младший остается дома сами привезем невесту</p>
+      <p>старик собирает дорогу напутствует</p>
+      <p>отправляйтесь путь заходите дом крытый синей жестью</p>
+      <p>едут братья видят дороги дом крытый синей жестью заходят никого наелись напились ушли убрав собой</p>
+      <p>приехали братья аул жили невесты справили свадьбу забрали девушек поехали домой дороге снова зашли дом крытый синей жестью наелись напились хотели ехать дальше ними появился аздаа</p>
+      <p>раза посетили дом спроса говорит братьям аздаа ели пили убирали собой это оставьте невесту вашего младшего брата джигит пусть приезжает</p>
+      <p>делать пришлось братьям оставить девушку доме аздаа</p>
+      <p>приехали домой рассказали обо всем младшему брату сразу отправился аздаа заходит дом крытый синей жестью смотрит девушка невеста хотел увести девушку дверях появился аздаа аздаа рассказал вели доме старшие братья юноши говорит</p>
+      <p>дитя человека елмавыз превратила аздаа тех пор живу дом построил приносить пользу людям путники находят приют укрываются стужи едят пьют вместо благодарности оставляют собой неубранный стол суждено оставаться аздаа тех пор пока увижу сестру которая живет ауле отцом настоящий джигит помоги разыщи мою сестру приведи сюда снова стану человеком сможешь взять мою сестру жены</p>
+      <p>юноша согласился помочь аздаа отправился разыскивать сестру дороге увидел мышь бегала вокруг объятой огнем норы пытаясь спасти своих детей</p>
+      <p>увидев джигита мышь взмолилась</p>
+      <p>спаси моих детей</p>
+      <p>юноша вытащил огня детей мыши выдернула волосок своей шкурки сказала</p>
+      <p>тебе понадобится помощь сожги волосок</p>
+      <p>юноша взял волосок пошел дальше дошел аула жила сестра аздаа отцом пришел юноша старику говорит хочет жениться дочери</p>
+      <p>говорит старик справишься работой которую тебе дам получишь мою дочь жены справишься сносить тебе головы</p>
+      <p>этими словами старик повел юношу закрома перемешал мешок пшеницы мешок проса велел юноше утру отделить пшеницу проса положил юношей арбуз велел одним ударом разделить две равные части</p>
+      <p>старик ушел юноша задумался делать видно зятем старика сносить головы юноша вспомнил волоске который дала мышь сжег волосок появилась мышь узнав дело позвала других мышей быстро отделили пшеницу проса юноша ссыпал зерно разные мешки затем ударом ладони разделил арбуз пополам улегся спать</p>
+      <p>старик никак ожидал юноша справится своей работой поэтому очень удивился утром увидел просо пшеница лежат разных мешках арбуз разделен две равные части</p>
+      <p>это джигит достоин моей дочери воскликнул старик</p>
+      <p>юноша женился сразу двух девушках аздаа встретился сестрой снова стал человеком</p>
+    </body>
+  </text>
+</TEI>

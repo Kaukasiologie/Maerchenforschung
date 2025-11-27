@@ -1,125 +1,148 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф. 9, он. 1, д. № 28</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф. 9, он. 1, д. № 28</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date>1936</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">З.</forename>
-        <surname xml:lang="rus">Алиханов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date>1936</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">З.</forename>
+            <surname xml:lang="rus">Алиханов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_131">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_131">
     <body>
-     <head>44. Полукурочка </head>
-     <p>одного человека кур среди курочка одним крылом одним глазом половинкой гребешка хромая одну ногу поэтому прозвали полукурочкой другие куры обижали подпускали корму били жить решила полукурочка самой позаботиться пропитании</p><p>прихрамывая потащилась поле клевала целый день набрала полсаха зерен день посеяла зерна созреет урожай неплохо пойдут мои дела подумала полукурочка немного повеселела</p><p>однажды сообщили ханские лошади топчут поле побежала полукурочка лошадьми собрала погнала хану дороге проголодалась встретила полукурочка лису проглотила наелась встретила полукурочка волка проглотила почувствовала немного утолила голод захотела полукурочка попить подошла озеру выпила капли</p><p>вскоре пригнала лошадей ханскому двору</p><p>это откуда спросил везир</p><p>дело тебе позови хана</p><p>позвали хана</p><p>ничтожества вызвали сюда возмутился хан</p><p>нечего тебе сердиться плевать твою злость возмести убыток затрещала полукурочка</p><p>хан повелел</p><p>бросьте уродину гусятник утру гуси разорвут части</p><p>бросили гусям полукурочку выплюнула лису</p><p>лиса задушила съела гусей убежала</p><p>день пастух заглянул гусятник видит углу сидит полукурочка гусей одни перья остались пастух побежал везиру везир хану хан страшно разозлился приказал</p><p>бросьте лошадям затоптали</p><p>слуги бросили полукурочку конюшню очень тесно доброго лошади раздавят подумала полукурочка выплюнула волка волк задрал лошадей убежал</p><p>наутро конюшню заглянул конюх увидел растерзанных лошадей побежал везиру везир хану</p><p>осгалось одной лошади углу сидит полукурочка</p><p>хаи сильнее разозлился</p><p>сожгите гадину печке</p><p>затопили печь бросили туда полукурочку выплюнула немного озерной воды залила огонь обгорела продрогла</p><p>избавились курицы решил хан заглянул печь полукурочка выколола хану глаз хана проглотила</p><p>забрала полукурочка ханские богатства погнала собой везира</p><p>дороге домой повторяла</p><p>дразните угодно</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>44. Полукурочка </head>
+      <p>одного человека кур среди курочка одним крылом одним глазом половинкой гребешка хромая одну ногу поэтому прозвали полукурочкой другие куры обижали подпускали корму били жить решила полукурочка самой позаботиться пропитании</p>
+      <p>прихрамывая потащилась поле клевала целый день набрала полсаха зерен день посеяла зерна созреет урожай неплохо пойдут мои дела подумала полукурочка немного повеселела</p>
+      <p>однажды сообщили ханские лошади топчут поле побежала полукурочка лошадьми собрала погнала хану дороге проголодалась встретила полукурочка лису проглотила наелась встретила полукурочка волка проглотила почувствовала немного утолила голод захотела полукурочка попить подошла озеру выпила капли</p>
+      <p>вскоре пригнала лошадей ханскому двору</p>
+      <p>это откуда спросил везир</p>
+      <p>дело тебе позови хана</p>
+      <p>позвали хана</p>
+      <p>ничтожества вызвали сюда возмутился хан</p>
+      <p>нечего тебе сердиться плевать твою злость возмести убыток затрещала полукурочка</p>
+      <p>хан повелел</p>
+      <p>бросьте уродину гусятник утру гуси разорвут части</p>
+      <p>бросили гусям полукурочку выплюнула лису</p>
+      <p>лиса задушила съела гусей убежала</p>
+      <p>день пастух заглянул гусятник видит углу сидит полукурочка гусей одни перья остались пастух побежал везиру везир хану хан страшно разозлился приказал</p>
+      <p>бросьте лошадям затоптали</p>
+      <p>слуги бросили полукурочку конюшню очень тесно доброго лошади раздавят подумала полукурочка выплюнула волка волк задрал лошадей убежал</p>
+      <p>наутро конюшню заглянул конюх увидел растерзанных лошадей побежал везиру везир хану</p>
+      <p>осгалось одной лошади углу сидит полукурочка</p>
+      <p>хаи сильнее разозлился</p>
+      <p>сожгите гадину печке</p>
+      <p>затопили печь бросили туда полукурочку выплюнула немного озерной воды залила огонь обгорела продрогла</p>
+      <p>избавились курицы решил хан заглянул печь полукурочка выколола хану глаз хана проглотила</p>
+      <p>забрала полукурочка ханские богатства погнала собой везира</p>
+      <p>дороге домой повторяла</p>
+      <p>дразните угодно</p>
+    </body>
+  </text>
+</TEI>

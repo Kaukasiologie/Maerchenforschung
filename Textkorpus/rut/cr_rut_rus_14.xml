@@ -1,128 +1,147 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Rutulisch Folklore</title>
-      <title xml:lang="eng">Rutul Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФ ИЯЛИ</institution>
-          <collection>Ф. 9. Оп. 1. Д. 392</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Rutulisch Folklore</title>
+        <title xml:lang="eng">Rutul Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФ ИЯЛИ</institution>
+                <collection>Ф. 9. Оп. 1. Д. 392</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="rut">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
-       <settlement ref="https://www.geonames.org/500316/rutul.html">Rutul</settlement>
-       <geo />
-      </placeName>
-      <date>1972</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Ибрагимов</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Ф.И.</forename>
-        <surname xml:lang="rus">Ибрагимов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rut">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
+          <settlement ref="https://www.geonames.org/500316/rutul.html">Rutul</settlement>
+          <geo/>
+        </placeName>
+        <date>1972</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Ибрагимов</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Ф.И.</forename>
+            <surname xml:lang="rus">Ибрагимов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_rut_rus_14">
+  </teiHeader>
+  <text xml:id="cr_rut_rus_14">
     <body>
-     <head>122 Рубль, заработанный самим (рут.) </head>
-     <p>одном селении бедный человек доброй открытой душой единственный долгожданный ребенок отец мать баловали оберегали отказывали рос помогая родителям видя тяжело зарабатывают кусок хлеба</p><p>исполнилось пятнадцать лет стал красивым видным юношей однажды отец поняв сын поумнел уходя работу поле сказал</p><p>сегодня вернусь поздно смотри иди найди хочешь работу заработай еду сегодня тебе дома еды</p><p>сказав отец ушел работу сын вышел дому слонялся тудасюда затем пошел лес наелся ягод лег тени деревьев выспался вернулся домой ночи говорит матери</p><p>дорогая мамочка делать ходил искал повсюду работу говорят молод дают работы вернется отец ругать скажу</p><p>выслушав это мать говорит своему любимому сыну</p><p>ладно дам тебе рубль скажи отцу заработал</p><p>мамочка обрадовался сын</p><p>вернулся домой отец спрашивает сына</p><p>заработал хлеб</p><p>отец заработал сказал сын вытащил кармана рубль отдал отцу</p><p>отец взял рубль покрутил руке посмотрел одну сторону другую затем бросил огонь сын сказал отец посмотрев произнес</p><p>завтра принеси деньги которые заработаешь</p><p>следующий день юноша пошел годекан пожилые люди рассказывали разные истории прошлой жизни интересно рассказывали заслушался засиделся дотемна увидев стемнело отправился домой сказал матери никто дал работы мать сделала обиженный недовольный вид дала сыну рубль</p><p>рубль отец бросил огонь сын опустил глаза сказал</p><p>завтра принесешь деньги которые заработаешь сказал</p><p>утром мать говорит сыну</p><p>сыночек денег надейся иди поработай приходи домой деньгами отец очень рассердится</p><p>услышав слова юноша понял идти искать работу выйдя дома увидел людей которые берегу реки самур собирали камни строительства дома подойдя стал помогать вечером весь разбитый усталый двумя пятаками вернулся домой дал отцу деньги заработанные отец собрался бросить огонь юноша вскрикнул</p><p>деньги заработал бросай огонь</p><p>поверил заработал деньги сказал обрадованный отец бросал огонь рубля глазом моргнул пятака тебе оказались дороже тех двух рублей дорогой сын выйдет настоящий мужчина дальнейшем свой кусок хлеба ешь достоинством сказал обрадовавшийся отец</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>122 Рубль, заработанный самим (рут.) </head>
+      <p>одном селении бедный человек доброй открытой душой единственный долгожданный ребенок отец мать баловали оберегали отказывали рос помогая родителям видя тяжело зарабатывают кусок хлеба</p>
+      <p>исполнилось пятнадцать лет стал красивым видным юношей однажды отец поняв сын поумнел уходя работу поле сказал</p>
+      <p>сегодня вернусь поздно смотри иди найди хочешь работу заработай еду сегодня тебе дома еды</p>
+      <p>сказав отец ушел работу сын вышел дому слонялся тудасюда затем пошел лес наелся ягод лег тени деревьев выспался вернулся домой ночи говорит матери</p>
+      <p>дорогая мамочка делать ходил искал повсюду работу говорят молод дают работы вернется отец ругать скажу</p>
+      <p>выслушав это мать говорит своему любимому сыну</p>
+      <p>ладно дам тебе рубль скажи отцу заработал</p>
+      <p>мамочка обрадовался сын</p>
+      <p>вернулся домой отец спрашивает сына</p>
+      <p>заработал хлеб</p>
+      <p>отец заработал сказал сын вытащил кармана рубль отдал отцу</p>
+      <p>отец взял рубль покрутил руке посмотрел одну сторону другую затем бросил огонь сын сказал отец посмотрев произнес</p>
+      <p>завтра принеси деньги которые заработаешь</p>
+      <p>следующий день юноша пошел годекан пожилые люди рассказывали разные истории прошлой жизни интересно рассказывали заслушался засиделся дотемна увидев стемнело отправился домой сказал матери никто дал работы мать сделала обиженный недовольный вид дала сыну рубль</p>
+      <p>рубль отец бросил огонь сын опустил глаза сказал</p>
+      <p>завтра принесешь деньги которые заработаешь сказал</p>
+      <p>утром мать говорит сыну</p>
+      <p>сыночек денег надейся иди поработай приходи домой деньгами отец очень рассердится</p>
+      <p>услышав слова юноша понял идти искать работу выйдя дома увидел людей которые берегу реки самур собирали камни строительства дома подойдя стал помогать вечером весь разбитый усталый двумя пятаками вернулся домой дал отцу деньги заработанные отец собрался бросить огонь юноша вскрикнул</p>
+      <p>деньги заработал бросай огонь</p>
+      <p>поверил заработал деньги сказал обрадованный отец бросал огонь рубля глазом моргнул пятака тебе оказались дороже тех двух рублей дорогой сын выйдет настоящий мужчина дальнейшем свой кусок хлеба ешь достоинством сказал обрадовавшийся отец</p>
+    </body>
+  </text>
+</TEI>

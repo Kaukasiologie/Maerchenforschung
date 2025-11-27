@@ -1,131 +1,140 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>д. 95</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>д. 95</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1920-х.</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Меджид</forename>
-        <surname xml:lang="rus">Магомедов</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А.</forename>
-        <surname xml:lang="rus">Алиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo/>
+        </placeName>
+        <date>1920-х.</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Меджид</forename>
+            <surname xml:lang="rus">Магомедов</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А.</forename>
+            <surname xml:lang="rus">Алиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_169">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_169">
     <body>
-     <head>МАЧЕХА</head>
-     <p>жила некогда одном селе дружная счастливая семья муж женой дочерью сыном одни несчастный день мать детей умерла остались дети сиротами смерти матери девочка очень подружилась соседкой вдовой которая постоянно звала старалась всячески задобрить девочка стала просить отца ой женился вдово отец сличала нс соглашался ибо боялся мачеха нехороша детей девочка нс унималась конце концов отец девочки обещал жениться п счастливая побежала вдове рассказала та сразу стала готовиться замужеству девочка стала отца готовить очепъ хотелось жениться дочь готовилась свадьбе жалко огорчать женился дня семье шло мачеха невзлюбила своего пасынка однажды легла постель сделала вид тяжело больна муж спросил почему лежит отвечала заболела попросила пойти кадию узнать средство против болезни</p><p>муж отправился кадию жена вскочила постели побежала дому кадия ближним путем кадия дома пс оказалось опа зашла туда напялила птубу шапку сделала вид читает коран вскоре пришел се муж приветствовал кадия объяспил нриптел узнать вылечить жену кадий виду порылся книгах говорит</p><p>излечит мясо твоего сына иначе опа умрет</p><p>печальный пришел муж домой жспа опередив пришла коротким путем снова легла постель</p><p>сказал кадий спросила опа мужа</p><p>долго хотел говорить средстве кадпя таки сказал девочка услышала разговор сказала нем брату тотчас убежали пз дому решив будь зарежут твоем доме шли шли дороге ш добрались одного родника па камне надпись надписи говорилось эта вода превращает человека барапа пока девушка читала брат успел напиться превратился ягненка заплакала девушка обливаясь слезами пошла дороге ягненок рядом пой мяо го лй шла мало дошла опа другого родника росло большое очень высокое дерево</p><p>дерево милое нагнись пожалуйста могла взобраться сказала девушка дерево нагнулось девушка взобралась самую макушку устроилась ягненок остался деревом</p><p>это время ханские слуги подвели родинку коня хана охотившегося этих мостах н хотели напоить конь пугался шел источнику слуги вернулись хану говорят конь ш чему боится воде подойти хап коня повел конь воде пе идет хан подошел воде увидел воде отражение прекрасной девушки стал оп звать се вниз отказывается хан грозил приказывал просил умолял напрасно оп призвал помощь колдунью пообещал денег сманит девушку дерева пришла дереву случайно д завела девушкой ласковый разговор девушка пе поддалась хитрость вечером дереву вернулся ягненок который днем уходил траву пощипать колдунья ягненка схватила девушка крикнула дерева</p><p>трогай это брат</p><p>пе сойдешь дерена барана зарежу сказала старуха девушка испугалась брата стала спускаться дерево слишком высокое опа никак нс могла сойти вниз попросила дерево нагнуться дерево склонилось земле девушка спрыгнула схватили хапекяе слуги отвели хану хан стал расспрашивать откуда чья девушка рассказала обо всем девушка очень понравилась хану оп попросил се женой сказала согласится будут сняты чары брата хап созвал врачей концов земли долго думали врачи пока пе сказал ягненок станет мальчиком кормить ровно год молоком звездолобой кобылицы стали ягненка кормить таким молоком действительно превратился человека</p><p>девушка вышла замуж хана мальчик вернулся отцу застал мачеху мертвой хан долго счастливо жил своей любимой женой отец своим сыном</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>МАЧЕХА</head>
+      <p>жила некогда одном селе дружная счастливая семья муж женой дочерью сыном одни несчастный день мать детей умерла остались дети сиротами смерти матери девочка очень подружилась соседкой вдовой которая постоянно звала старалась всячески задобрить девочка стала просить отца ой женился вдово отец сличала нс соглашался ибо боялся мачеха нехороша детей девочка нс унималась конце концов отец девочки обещал жениться п счастливая побежала вдове рассказала та сразу стала готовиться замужеству девочка стала отца готовить очепъ хотелось жениться дочь готовилась свадьбе жалко огорчать женился дня семье шло мачеха невзлюбила своего пасынка однажды легла постель сделала вид тяжело больна муж спросил почему лежит отвечала заболела попросила пойти кадию узнать средство против болезни</p>
+      <p>муж отправился кадию жена вскочила постели побежала дому кадия ближним путем кадия дома пс оказалось опа зашла туда напялила птубу шапку сделала вид читает коран вскоре пришел се муж приветствовал кадия объяспил нриптел узнать вылечить жену кадий виду порылся книгах говорит</p>
+      <p>излечит мясо твоего сына иначе опа умрет</p>
+      <p>печальный пришел муж домой жспа опередив пришла коротким путем снова легла постель</p>
+      <p>сказал кадий спросила опа мужа</p>
+      <p>долго хотел говорить средстве кадпя таки сказал девочка услышала разговор сказала нем брату тотчас убежали пз дому решив будь зарежут твоем доме шли шли дороге ш добрались одного родника па камне надпись надписи говорилось эта вода превращает человека барапа пока девушка читала брат успел напиться превратился ягненка заплакала девушка обливаясь слезами пошла дороге ягненок рядом пой мяо го лй шла мало дошла опа другого родника росло большое очень высокое дерево</p>
+      <p>дерево милое нагнись пожалуйста могла взобраться сказала девушка дерево нагнулось девушка взобралась самую макушку устроилась ягненок остался деревом</p>
+      <p>это время ханские слуги подвели родинку коня хана охотившегося этих мостах н хотели напоить конь пугался шел источнику слуги вернулись хану говорят конь ш чему боится воде подойти хап коня повел конь воде пе идет хан подошел воде увидел воде отражение прекрасной девушки стал оп звать се вниз отказывается хан грозил приказывал просил умолял напрасно оп призвал помощь колдунью пообещал денег сманит девушку дерева пришла дереву случайно д завела девушкой ласковый разговор девушка пе поддалась хитрость вечером дереву вернулся ягненок который днем уходил траву пощипать колдунья ягненка схватила девушка крикнула дерева</p>
+      <p>трогай это брат</p>
+      <p>пе сойдешь дерена барана зарежу сказала старуха девушка испугалась брата стала спускаться дерево слишком высокое опа никак нс могла сойти вниз попросила дерево нагнуться дерево склонилось земле девушка спрыгнула схватили хапекяе слуги отвели хану хан стал расспрашивать откуда чья девушка рассказала обо всем девушка очень понравилась хану оп попросил се женой сказала согласится будут сняты чары брата хап созвал врачей концов земли долго думали врачи пока пе сказал ягненок станет мальчиком кормить ровно год молоком звездолобой кобылицы стали ягненка кормить таким молоком действительно превратился человека</p>
+      <p>девушка вышла замуж хана мальчик вернулся отцу застал мачеху мертвой хан долго счастливо жил своей любимой женой отец своим сыном</p>
+    </body>
+  </text>
+</TEI>

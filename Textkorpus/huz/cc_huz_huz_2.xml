@@ -1,198 +1,200 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title xml:lang="huz">Малла Расанно бечедав мадугьално</title>
-            <author>
-               <name xml:id="DF">
-                  <persName>
-                     <forename>Diana</forename>
-                     <surname>Forker</surname>
-                  </persName>
-               </name>
-               <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-            </author>
-            <editor>
-               <name xml:id="ED">
-                  <persName>
-                     <forename>Elguja</forename>
-                     <surname>Dadunashvili</surname>
-                  </persName>
-               </name>
-               <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-            </editor>
-            <respStmt>
-               <resp>Annotated according to the ATU system</resp>
-               <name>
-                  <persName ref="#ED">
-                     <forename>Elguja</forename>
-                     <surname>Dadunashvili</surname>
-                  </persName>
-               </name>
-               <name>
-                  <persName ref="#DF">
-                     <forename>Diana</forename>
-                     <surname>Forker</surname>
-                  </persName>
-               </name>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>
-               <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-            </publisher>
-            <pubPlace>
-               <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-            </pubPlace>
-            <date>2024</date>
-            <distributor>
-               <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-               <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-            </distributor>
-            <availability>
-               <p>
-                  <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
-               <ref target="https://doi.org/10.25362/lazar.113a4d5a-8c5e-4937-bb4a-64b9714152b1">LaZAR Repositorium</ref>
-               <availability>
-                  <p>
-                     <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-                  </p>
-               </availability>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="huz">
-               <index indexName="iso639-3"></index>
-               <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
-            </language>
-         </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a1543 Keinen Pfennig weniger</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_huz_rus_2.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-         <creation>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="huz">Малла Расанно бечедав мадугьално</title>
+        <author>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.113a4d5a-8c5e-4937-bb4a-64b9714152b1">LaZAR Repositorium</ref>
+          <availability>
+            <p>
+              <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+            </p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="huz">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a1543 Keinen Pfennig weniger</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_huz_rus_2.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
+          <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+          <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+          <settlement ref="https://www.geonames.org/12109830/shorokhi.html">Shorokhi</settlement>
+        </placeName>
+        <date when="2023">2023</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Magomed</forename>
+            <surname>Rasulov</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date when="1947">1947</date>
             <placeName>
-               <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
-               <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
-               <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
-               <settlement ref="https://www.geonames.org/12109830/shorokhi.html">Shorokhi</settlement>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
+              <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+              <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+              <settlement ref="https://www.geonames.org/12109830/shorokhi.html">Shorokhi</settlement>
             </placeName>
-            <date when="2023">2023</date>
-         </creation>
-         <particDesc>
-            <person role="speaker">
-               <persName>
-                  <forename>Magomed</forename>
-                  <surname>Rasulov</surname>
-               </persName>
-               <age></age>
-               <birth>
-                  <date when="1947">1947</date>
-                  <placeName>
-                     <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
-                     <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
-                     <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
-                     <settlement ref="https://www.geonames.org/12109830/shorokhi.html">Shorokhi</settlement>
-                  </placeName>
-               </birth>
-            </person>
-            <person role="researcher">
-               <persName key="gnd:1154734161">
-                  <forename>Diana</forename>
-                  <surname>Forker</surname>
-                  <persName key="gnd:133557154">
-                     <forename>Elguja</forename>
-                     <surname>Dadunashvili</surname>
-                  </persName>
-               </persName>
-            </person>
-            <person role="translator">
-               <name>
-                  <persName key="gnd:1154734161">
-                     <forename>Diana</forename>
-                     <surname>Forker</surname>
-                  </persName>
-               </name>
-            </person>
-         </particDesc>
-      </profileDesc>
-      <revisionDesc>
-         <listChange>
-            <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:id="cc_huz_huz_2">
-      <body>
-         <head>Малла Расанно бечедав мадугьално</head>
-         <p>Гьə’с зукъунло, зукъунло сыд забанли Малла Расанно ийуно сыд риэр хохо гӀумру бувон бечерар. Нухъ-хулӀа жон гачен, цӀакъ мискинлъилан, йазихълилан гӀумру бувоч зукъунло. Рува жон шоон гьосун хишакь Малла Расан ухерлӀе гьаса нийэн корон къилмалилъдон ухен аллагьлиг гьардези а’хъа:</p>
-         <p>- Йā бетӀергьан аллагь, жек-чор дугос дə шийон гьарзи рувон рокӀон зукъис, же дии рāхъдо ратӀан ли мə икъекъадийа, дагьабдəн дикьо гурхӀези а’хъчо зегъдо, гьə’с гьə’счӀитӀ къуруш окро тӀутӀо дии мə, цӀакъ мискинлъилāн йазихълъилāн дə же а’хъолъ.</p>
-         <p>- Гьə’счӀитӀ рāхъидон рахъарлӀе нысəн ли ийул.</p>
-         <p>- РахъатӀлӀе, гьынлагь, биллагь рокчос гьə’с кӀапӀекӀ камураб рāхъдолӀе нысəн ли Маллал.</p>
-         <p>НылӀчос лий, нылӀоб əг гьə’счӀитӀ къурушлӀə. Малласно ийусно хабар тухъун ло бечедав мадугьали и чо лодеру. Болъул хӀукму бувон ло Маллакь лъеадийа əг махсарали увадийа. УчӀинригно учӀин къуруш əду гулун былалъцеда, бедо хишо хишакь мадугьаллил хъохъод артӀодо тӀутӀурлӀе əг окро шошен гулур былалӀцə. Жиндо хъохъод артӀодо жо рекчос няцӀанли Малла. Хехлъилкьо (ылӀлӀə) э’кьен рокчен ли əг былалӀцə əду жо лидер Рокчолъ əду лилӀе окро гьə’счӀитӀ-бокьос гьə’c къуруш камураб.</p>
-         <p>- ВахӀ, аллагьно гӀабдал а’хъилъ. НацӀай камураб къурушбо мича былалъцəн нийэн ли дии. ЦӀакъ рахъунлилӀəн жингож жу а’гатенло Малла Болъул нысəр жо тухъун ли мадугьалли.</p>
-         <p>Гьээ, вахӀ, əг дие окро жини речанийадийа пикру зегъар Маллас.</p>
-         <p>(Əгис э’кьерлӀе мадугьан олъудəр) Āкъечос āцӀолъ Мадугьал Маллал окро рара нуцурлӀе, жун āцӀис āхъун булӀи э’кьерлӀе. Олъуд мугъалӀ булӀин э’кьен мадугьаллил нысəрлӀе:</p>
-         <p>- Малла Расан, гьей Малла, əгакь гьə’cчӀитӀ къуруш окро нылӀо нысəн аллаглиго мə гьардези а’хъчодийа дə тӀəтӀрикь агъатухълен əчен зукъур дуго. Мə нысиси гьə’cчӀитӀ къурушлийа гьə’c къуруш камураб рахъдон жинло рокчойслӀəн окро.</p>
-         <p>Əг тухъолъ, мə икъекӀадийа, мах сарали дə тӀутӀун зукъур гъечӀилан кӀарлӀекӀен учӀинригно учӀин къуруш тӀутӀун зукъур. Олъу окрос хазаин дə ло, əг окро дено рāкъо, дено рāкъо.</p>
-         <p>Дуго нысчо рāкъо бəи.</p>
-         <p>- Гьинлагь, биллагь дии дыбə окрон нацӀис, мəн ацӀис, йа рикъатӀ. Мə тӀутӀур окро дии ныхъен гач. Ассалам, вассалам. Мə шийо хабар мийар.</p>
-         <p>- Дийо окро нылӀолӀе мадугьал, йа дыбə окро рикъатӀ, йа мə икъатӀлӀə нысен ли Малла Расанло. ОцӀа икьеакьенло Малла. Əга дагӀбалкь зукъун ло.</p>
-         <p>Мадугьаллил нысəн бахъолъ мекьа нуцӀулӀе судли судийадор. Ахирно судликь мекьерлӀе хӀукму. Гьə’с вəдə мадугьал а’къерлӀə судли Малла э’квадийа.</p>
-         <p>- Судлисə дə э’кьа зукъур, рахъурожба, кьокъа жо гайлъ дие, гьакьо э’кьен а’хъатӀ ичиллен ло дəлӀе нысэрлӀе Маллал. Мадугьаллил олъу кьокъа шугур нылӀерлӀе.</p>
-         <p>- Гьул дийэ лъичӀечос чухъа зукъур нызадийа нылӀен, жегьə’сун əг хъохъонно гāч, рахъатӀи. дыбə нылӀа дии лъичӀа нысəрлӀе Маллал. Мадугьаллил олъу лъичӀа ыцӀцӀу чухъан нылӀерлӀе.</p>
-         <p>ЛъичӀен ыцӀцӀу чухъан, кьокъен шугулакьон маллано мадугьално мекьерлӀе шагьарли судлидийа. Макъолъдийа къэреэченлолӀе судийа истӀоллигъур шебла, истӀилликь кьодо лолӀе пӀапӀкӀа, нухъилӀ рохон тӀехьно лилӀе, жун ачкӀийан нехелен лолӀе. Əгра макъолъ судийал сухӀан бувон, къерен бечекӀен гьахар миже же нысолӀе мижус мурад.</p>
-         <p>Мадугьаллил беда э’къен судийа кāдно, гьадно нысен рувон. Хабар мийен рахъур, руворшинаб жойлос бичӀчӀи руворлӀе. Малла Расадан, же мə нысо дуго рахълӀслӀе нысəн ли судийал. ХӀал чӀахъайаб, битӀраблъи рувоч судийалӀе нысен ли Маллал.</p>
-         <p>Бэл əгас əтӀəлахъ ло, болъул цӀедил жо гьалдукӀан, гьалду цӀедилкӀāр.</p>
-         <p>Мə болъуг ныскӀо гӀадал ā’хъун гачзалӀе. Мадугьаллис цӀакъ сим бахъун а’гашерлӀе:</p>
-         <p>«СукӀу, сукӀу шийо нысар мə; быза гьеə’лен кьодо ə’кьен ло, бедо судийал тӀанде эчекӀенло. -Пикру буво мə, хӀал чӀахъайав судийа, сысəр гӀакълу лодер сукӀул жидер жогъикь лӀырə, сукӀуда гьə’счӀитӀ къуруш окро тӀутӀар эчера. - Мə тӀутӀари судийа?</p>
-         <p>- Мə хабар мийо дыбə жо нысолӀе нысəн ли судийал.</p>
-         <p>- Бедон бытӀар лӀе ныс.</p>
-         <p>- Бəи тӀацӀе, гьалмагъ судийалӀе, жу аллагьлиг гьардизи а’хъун гьə’счӀитӀ къуруш рокӀор, камураб рахъдо рокчойс но нысəн, əтӀелай əтӀелайтӀи икъа жинло гъечӀин кӀарлӀекӀен учӀинригно учӀин къуруш тӀутӀут зукъур, болъул рокчер.</p>
-         <p>Бедо ныс аллагь гӀадалав гачзалӀе, сыд къурушбос гъечӀин кӀарлӀекӀен жини учӀунригно учӀин тӀутӀун лилӀе. – Бедон тāцӀе мə, хӀал чӀахъайав судийа, сысəр гӀакъилав сукӀул нылӀар жинис сəрийо, олъу сукӀул жинкьос диван бувокӀчос. Же болъул бəд дə кьокъер серийон жинис бувар, дыбе ламус тӀагӀзи болоб бахъоб, əтӀелахъ, (мадугьаллилъдон ухен ныс Маллал).</p>
-         <p>- Нысар бəд, гьина нысойс, дидо шугулакьон кьокъен нəйси мə бəи сым бахъун агашерлӀе мадугьал.</p>
-         <p>- НацӀай, мə тӀацӀе судийа, бəл сукӀу гӀадал а’хъун лолӀен дə нысиси, мə божчо зукъис. Дагьаб мугъалӀ болъул диго кьодо лъичӀен лидер чохъан жинис лилӀе нысāрлӀе маллал.</p>
-         <p>- Дийə гачен сайс рахъарлӀе акьен агаш мадугьал.</p>
-         <p>- Судли əкьечдийа Малла нухъилӀ гулун бахъ гьə’с герду гамачӀ, нагагь судийал жинибатла хӀукму бувид, олъу мотӀоли тӀутӀа нысəн. Огу гамачӀ лодер маче Маллал мацӀа мухелерлӀе. Судийа нацӀарлӀ, Маллал нацӀа нухелер жо. Судийа гичӀен ли жинидийа Маллал сайгчан бакъунлолӀен. Малла ныс:</p>
-         <p>- ХӀал чӀахъайав, адаб лодер, а’ртӀон тухъун зукъур дии, мə цӀакъ битӀраблъи рувочос сукӀу судийа лолӀен, гьарзи рувоч дуго законликь чаха илус суд бувон хӀукму буволӀен, илу къани балӀлӀе. Маллал Нухъилъ э’дус жойлкъон тацӀен, жини бāкъур ришватлӀен гичӀен, судийал Малла Насрудин битӀраб лолӀен хӀукму буворлӀе.</p>
-         <p>- Бэл окрон мə тӀутӀун гāч, шугурно, чохъан Маллас ли, мə этӀелахъ зукъкн лолӀен нысəн ли мадугьаллиг. Рəхəлен къамно, рува жон шоон, сым бахъун мадугьално гишокерлӀе, баркалан бувон лъеэн Малла гишокчода судийал нысəн ли: - Малла мə эчахалӀелӀен нысəн ли судийал. Г’ьəрəн нацӀакӀ дудо нухъилӀ лидер жо, дии нылӀа ракъур жо нылӀо.</p>
-         <p>- Рара гулур судийад а’ртӀо гамачӀ кьав тӀтӀур лӀе.</p>
-         <p>Гьос диби гамачӀ, нагагь дии батӀа’ хӀукму бувискъə диби боду мыйач зукъурлӀе. КӀоно эче судийагон нысəн, кьокъен экугулакьон лъичӀен чохъан Маллано экьерлӀе.</p>
-         <p>Russӏsch:</p>
-      </body>
-   </text>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="gnd:1154734161">
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+            <persName key="gnd:133557154">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </persName>
+        </person>
+        <person role="translator">
+          <name>
+            <persName key="gnd:1154734161">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_huz_huz_2">
+    <body>
+      <head>Малла Расанно бечедав мадугьално</head>
+      <p>Гьə’с зукъунло, зукъунло сыд забанли Малла Расанно ийуно сыд риэр хохо гӀумру бувон бечерар. Нухъ-хулӀа жон гачен, цӀакъ мискинлъилан, йазихълилан гӀумру бувоч зукъунло. Рува жон шоон гьосун хишакь Малла Расан ухерлӀе гьаса нийэн корон къилмалилъдон ухен аллагьлиг гьардези а’хъа:</p>
+      <p>- Йā бетӀергьан аллагь, жек-чор дугос дə шийон гьарзи рувон рокӀон зукъис, же дии рāхъдо ратӀан ли мə икъекъадийа, дагьабдəн дикьо гурхӀези а’хъчо зегъдо, гьə’с гьə’счӀитӀ къуруш окро тӀутӀо дии мə, цӀакъ мискинлъилāн йазихълъилāн дə же а’хъолъ.</p>
+      <p>- Гьə’счӀитӀ рāхъидон рахъарлӀе нысəн ли ийул.</p>
+      <p>- РахъатӀлӀе, гьынлагь, биллагь рокчос гьə’с кӀапӀекӀ камураб рāхъдолӀе нысəн ли Маллал.</p>
+      <p>НылӀчос лий, нылӀоб əг гьə’счӀитӀ къурушлӀə. Малласно ийусно хабар тухъун ло бечедав мадугьали и чо лодеру. Болъул хӀукму бувон ло Маллакь лъеадийа əг махсарали увадийа. УчӀинригно учӀин къуруш əду гулун былалъцеда, бедо хишо хишакь мадугьаллил хъохъод артӀодо тӀутӀурлӀе əг окро шошен гулур былалӀцə. Жиндо хъохъод артӀодо жо рекчос няцӀанли Малла. Хехлъилкьо (ылӀлӀə) э’кьен рокчен ли əг былалӀцə əду жо лидер Рокчолъ əду лилӀе окро гьə’счӀитӀ-бокьос гьə’c къуруш камураб.</p>
+      <p>- ВахӀ, аллагьно гӀабдал а’хъилъ. НацӀай камураб къурушбо мича былалъцəн нийэн ли дии. ЦӀакъ рахъунлилӀəн жингож жу а’гатенло Малла Болъул нысəр жо тухъун ли мадугьалли.</p>
+      <p>Гьээ, вахӀ, əг дие окро жини речанийадийа пикру зегъар Маллас.</p>
+      <p>(Əгис э’кьерлӀе мадугьан олъудəр) Āкъечос āцӀолъ Мадугьал Маллал окро рара нуцурлӀе, жун āцӀис āхъун булӀи э’кьерлӀе. Олъуд мугъалӀ булӀин э’кьен мадугьаллил нысəрлӀе:</p>
+      <p>- Малла Расан, гьей Малла, əгакь гьə’cчӀитӀ къуруш окро нылӀо нысəн аллаглиго мə гьардези а’хъчодийа дə тӀəтӀрикь агъатухълен əчен зукъур дуго. Мə нысиси гьə’cчӀитӀ къурушлийа гьə’c къуруш камураб рахъдон жинло рокчойслӀəн окро.</p>
+      <p>Əг тухъолъ, мə икъекӀадийа, мах сарали дə тӀутӀун зукъур гъечӀилан кӀарлӀекӀен учӀинригно учӀин къуруш тӀутӀун зукъур. Олъу окрос хазаин дə ло, əг окро дено рāкъо, дено рāкъо.</p>
+      <p>Дуго нысчо рāкъо бəи.</p>
+      <p>- Гьинлагь, биллагь дии дыбə окрон нацӀис, мəн ацӀис, йа рикъатӀ. Мə тӀутӀур окро дии ныхъен гач. Ассалам, вассалам. Мə шийо хабар мийар.</p>
+      <p>- Дийо окро нылӀолӀе мадугьал, йа дыбə окро рикъатӀ, йа мə икъатӀлӀə нысен ли Малла Расанло. ОцӀа икьеакьенло Малла. Əга дагӀбалкь зукъун ло.</p>
+      <p>Мадугьаллил нысəн бахъолъ мекьа нуцӀулӀе судли судийадор. Ахирно судликь мекьерлӀе хӀукму. Гьə’с вəдə мадугьал а’къерлӀə судли Малла э’квадийа.</p>
+      <p>- Судлисə дə э’кьа зукъур, рахъурожба, кьокъа жо гайлъ дие, гьакьо э’кьен а’хъатӀ ичиллен ло дəлӀе нысэрлӀе Маллал. Мадугьаллил олъу кьокъа шугур нылӀерлӀе.</p>
+      <p>- Гьул дийэ лъичӀечос чухъа зукъур нызадийа нылӀен, жегьə’сун əг хъохъонно гāч, рахъатӀи. дыбə нылӀа дии лъичӀа нысəрлӀе Маллал. Мадугьаллил олъу лъичӀа ыцӀцӀу чухъан нылӀерлӀе.</p>
+      <p>ЛъичӀен ыцӀцӀу чухъан, кьокъен шугулакьон маллано мадугьално мекьерлӀе шагьарли судлидийа. Макъолъдийа къэреэченлолӀе судийа истӀоллигъур шебла, истӀилликь кьодо лолӀе пӀапӀкӀа, нухъилӀ рохон тӀехьно лилӀе, жун ачкӀийан нехелен лолӀе. Əгра макъолъ судийал сухӀан бувон, къерен бечекӀен гьахар миже же нысолӀе мижус мурад.</p>
+      <p>Мадугьаллил беда э’къен судийа кāдно, гьадно нысен рувон. Хабар мийен рахъур, руворшинаб жойлос бичӀчӀи руворлӀе. Малла Расадан, же мə нысо дуго рахълӀслӀе нысəн ли судийал. ХӀал чӀахъайаб, битӀраблъи рувоч судийалӀе нысен ли Маллал.</p>
+      <p>Бэл əгас əтӀəлахъ ло, болъул цӀедил жо гьалдукӀан, гьалду цӀедилкӀāр.</p>
+      <p>Мə болъуг ныскӀо гӀадал ā’хъун гачзалӀе. Мадугьаллис цӀакъ сим бахъун а’гашерлӀе:</p>
+      <p>«СукӀу, сукӀу шийо нысар мə; быза гьеə’лен кьодо ə’кьен ло, бедо судийал тӀанде эчекӀенло. -Пикру буво мə, хӀал чӀахъайав судийа, сысəр гӀакълу лодер сукӀул жидер жогъикь лӀырə, сукӀуда гьə’счӀитӀ къуруш окро тӀутӀар эчера. - Мə тӀутӀари судийа?</p>
+      <p>- Мə хабар мийо дыбə жо нысолӀе нысəн ли судийал.</p>
+      <p>- Бедон бытӀар лӀе ныс.</p>
+      <p>- Бəи тӀацӀе, гьалмагъ судийалӀе, жу аллагьлиг гьардизи а’хъун гьə’счӀитӀ къуруш рокӀор, камураб рахъдо рокчойс но нысəн, əтӀелай əтӀелайтӀи икъа жинло гъечӀин кӀарлӀекӀен учӀинригно учӀин къуруш тӀутӀут зукъур, болъул рокчер.</p>
+      <p>Бедо ныс аллагь гӀадалав гачзалӀе, сыд къурушбос гъечӀин кӀарлӀекӀен жини учӀунригно учӀин тӀутӀун лилӀе. – Бедон тāцӀе мə, хӀал чӀахъайав судийа, сысəр гӀакъилав сукӀул нылӀар жинис сəрийо, олъу сукӀул жинкьос диван бувокӀчос. Же болъул бəд дə кьокъер серийон жинис бувар, дыбе ламус тӀагӀзи болоб бахъоб, əтӀелахъ, (мадугьаллилъдон ухен ныс Маллал).</p>
+      <p>- Нысар бəд, гьина нысойс, дидо шугулакьон кьокъен нəйси мə бəи сым бахъун агашерлӀе мадугьал.</p>
+      <p>- НацӀай, мə тӀацӀе судийа, бəл сукӀу гӀадал а’хъун лолӀен дə нысиси, мə божчо зукъис. Дагьаб мугъалӀ болъул диго кьодо лъичӀен лидер чохъан жинис лилӀе нысāрлӀе маллал.</p>
+      <p>- Дийə гачен сайс рахъарлӀе акьен агаш мадугьал.</p>
+      <p>- Судли əкьечдийа Малла нухъилӀ гулун бахъ гьə’с герду гамачӀ, нагагь судийал жинибатла хӀукму бувид, олъу мотӀоли тӀутӀа нысəн. Огу гамачӀ лодер маче Маллал мацӀа мухелерлӀе. Судийа нацӀарлӀ, Маллал нацӀа нухелер жо. Судийа гичӀен ли жинидийа Маллал сайгчан бакъунлолӀен. Малла ныс:</p>
+      <p>- ХӀал чӀахъайав, адаб лодер, а’ртӀон тухъун зукъур дии, мə цӀакъ битӀраблъи рувочос сукӀу судийа лолӀен, гьарзи рувоч дуго законликь чаха илус суд бувон хӀукму буволӀен, илу къани балӀлӀе. Маллал Нухъилъ э’дус жойлкъон тацӀен, жини бāкъур ришватлӀен гичӀен, судийал Малла Насрудин битӀраб лолӀен хӀукму буворлӀе.</p>
+      <p>- Бэл окрон мə тӀутӀун гāч, шугурно, чохъан Маллас ли, мə этӀелахъ зукъкн лолӀен нысəн ли мадугьаллиг. Рəхəлен къамно, рува жон шоон, сым бахъун мадугьално гишокерлӀе, баркалан бувон лъеэн Малла гишокчода судийал нысəн ли: - Малла мə эчахалӀелӀен нысəн ли судийал. Г’ьəрəн нацӀакӀ дудо нухъилӀ лидер жо, дии нылӀа ракъур жо нылӀо.</p>
+      <p>- Рара гулур судийад а’ртӀо гамачӀ кьав тӀтӀур лӀе.</p>
+      <p>Гьос диби гамачӀ, нагагь дии батӀа’ хӀукму бувискъə диби боду мыйач зукъурлӀе. КӀоно эче судийагон нысəн, кьокъен экугулакьон лъичӀен чохъан Маллано экьерлӀе.</p>
+      <p>Russӏsch:</p>
+    </body>
+  </text>
 </TEI>

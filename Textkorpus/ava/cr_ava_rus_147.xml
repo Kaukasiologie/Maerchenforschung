@@ -1,129 +1,154 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательство &quot;Художественная литература&quot;. Маскжа 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Саидова</surname>
-       </persName>
-       <persName>
-        <forename xml:lang="rus">У.</forename>
-        <surname xml:lang="rus">Далгат</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName/>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Саидова</surname>
+          </persName>
+          <persName>
+            <forename xml:lang="rus">У.</forename>
+            <surname xml:lang="rus">Далгат</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_147">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_147">
     <body>
-     <head>БРАТ И СЕСТРА</head>
-     <p>жили брат сестра смерти отца матери остались одни белом свете очень привязаны друг другу</p><p>выросли брат женилея красивой девушке</p><p>проптло немного времени возненавидела сестру своего мужа хотелось видеть золов</p><p>ку своем доме стала делать разные пакости однажды мужа дома опа изрезала куски бурку муж пришел расплакалась</p><p>наделала твоя сестра изрезала твою бурку</p><p>муж однако сестре сказал сестра знала бурку изрезала невестка поссорить братом сказала слова хотелось нарушить счастливую жизнь</p><p>женщина бросила огонь серебряный кинжал пояс мужа муж сидел очага невзначай выгребла золы серебряный слиток стала громко плакать н причитать</p><p>скажи твоя сестра делает это отругал бурку бросила огонь кинжал</p><p>брат смолчал ескоре супругов родился сын мальчик здоровый веселый отец очень любил ненависти золовне мать зарезала сына колыбели сказала мужу это сделала сестра</p><p>брат браня своей сестры сказал</p><p>можем жить вместе возьми свои вещи уходи нае девушка ушла лес набрела пещеру возле родника прожила года</p><p>однажды лес пришел молодой охотник увидел девушку лохмотьях понравилась привез своим родителям очень полюбилась старикам эта кроткая девушка вскоре</p><p>сын женился пришло время молодой муж должен уехать войну уезжая попросил отца матушкой написать жены родится мальчик войне встретился братом своей жены подружились подозревали свойственники временем охотника родился мальчик здоровый красивый з лотой шарик старики тотчае послали сыну гонца радостной вестью</p><p>случилось гонец заночевал селе жены брата девушки злая женщина выведала гонца заполучила письмо побежала н молле дала денег попросила напибать другое письмо дескать родился мальчик щенок родители просят сына разрешить выгнать безродную бродягу опозорившую семью</p><p>вместо радостного письма гонец повез дурную весть прочитал молодой воин письмо сильно опечалился долго думал написал отцу матерью просит обижать жену пусть родила щенка поросенка подождать возвращения обратном пути гонец снова заночевал злой женщины спова выпросила письмо пошла молле дала денег нанисал другое убейте мою жену ребенка моего приезда иначе буду считать моими родителями</p><p>старики прочитав это очень удивились опечалились пили ели плакали горько</p><p>расставаться любимой невесткой время боялись ослушаться сына пришло время вернуться сыну войны позвали старики невестку сказали пусть возьмет весе нужно уходит муж дескать задумал погубить ребенка кенщина взяла стала ходить сыном аула аул просить милостыню ло время однажды попала родной аул дом жила раньше</p><p>невестка узнала позволила переночевать подвале случилось ночью приехал е войны муж злой женщины вместе новый друг</p><p>пришел молла приветствовать воинов жозяин дома стал расспрашивать нового произошло время отсутствия молла хозяйка могли рассказать хозяйка сказала заночевала нищенка наверное знает новости ходит побираетея белу свету</p><p>муж велел позвать хозяйка пошла подвал попросила нищенку подняться рассказать мужчинам новости долго соглашалась нишенка настойчивых просьб поднялась наверх вместе своим маленьким сыном</p><p>исхудала никто признал</p><p>мужчины попросили рассказать новости какие знает ответила расскажет одну историю которая очень известна начала</p><p>кили брат сестра очень любили друг друга</p><p>рассказала брату мужу печальную историю</p><p>оба брат муж выхватили кинжалы убили злую женщину продажного моллу муж взял жену сыном поехал домой захватив своего нового друга</p><p>очень обрадовались старики возвращению сына любимой невестке внуку хорошая невеста нашлась гостя</p><p>устроили пир весь мир продолжается н пировал вместе всеми</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>БРАТ И СЕСТРА</head>
+      <p>жили брат сестра смерти отца матери остались одни белом свете очень привязаны друг другу</p>
+      <p>выросли брат женилея красивой девушке</p>
+      <p>проптло немного времени возненавидела сестру своего мужа хотелось видеть золов</p>
+      <p>ку своем доме стала делать разные пакости однажды мужа дома опа изрезала куски бурку муж пришел расплакалась</p>
+      <p>наделала твоя сестра изрезала твою бурку</p>
+      <p>муж однако сестре сказал сестра знала бурку изрезала невестка поссорить братом сказала слова хотелось нарушить счастливую жизнь</p>
+      <p>женщина бросила огонь серебряный кинжал пояс мужа муж сидел очага невзначай выгребла золы серебряный слиток стала громко плакать н причитать</p>
+      <p>скажи твоя сестра делает это отругал бурку бросила огонь кинжал</p>
+      <p>брат смолчал ескоре супругов родился сын мальчик здоровый веселый отец очень любил ненависти золовне мать зарезала сына колыбели сказала мужу это сделала сестра</p>
+      <p>брат браня своей сестры сказал</p>
+      <p>можем жить вместе возьми свои вещи уходи нае девушка ушла лес набрела пещеру возле родника прожила года</p>
+      <p>однажды лес пришел молодой охотник увидел девушку лохмотьях понравилась привез своим родителям очень полюбилась старикам эта кроткая девушка вскоре</p>
+      <p>сын женился пришло время молодой муж должен уехать войну уезжая попросил отца матушкой написать жены родится мальчик войне встретился братом своей жены подружились подозревали свойственники временем охотника родился мальчик здоровый красивый з лотой шарик старики тотчае послали сыну гонца радостной вестью</p>
+      <p>случилось гонец заночевал селе жены брата девушки злая женщина выведала гонца заполучила письмо побежала н молле дала денег попросила напибать другое письмо дескать родился мальчик щенок родители просят сына разрешить выгнать безродную бродягу опозорившую семью</p>
+      <p>вместо радостного письма гонец повез дурную весть прочитал молодой воин письмо сильно опечалился долго думал написал отцу матерью просит обижать жену пусть родила щенка поросенка подождать возвращения обратном пути гонец снова заночевал злой женщины спова выпросила письмо пошла молле дала денег нанисал другое убейте мою жену ребенка моего приезда иначе буду считать моими родителями</p>
+      <p>старики прочитав это очень удивились опечалились пили ели плакали горько</p>
+      <p>расставаться любимой невесткой время боялись ослушаться сына пришло время вернуться сыну войны позвали старики невестку сказали пусть возьмет весе нужно уходит муж дескать задумал погубить ребенка кенщина взяла стала ходить сыном аула аул просить милостыню ло время однажды попала родной аул дом жила раньше</p>
+      <p>невестка узнала позволила переночевать подвале случилось ночью приехал е войны муж злой женщины вместе новый друг</p>
+      <p>пришел молла приветствовать воинов жозяин дома стал расспрашивать нового произошло время отсутствия молла хозяйка могли рассказать хозяйка сказала заночевала нищенка наверное знает новости ходит побираетея белу свету</p>
+      <p>муж велел позвать хозяйка пошла подвал попросила нищенку подняться рассказать мужчинам новости долго соглашалась нишенка настойчивых просьб поднялась наверх вместе своим маленьким сыном</p>
+      <p>исхудала никто признал</p>
+      <p>мужчины попросили рассказать новости какие знает ответила расскажет одну историю которая очень известна начала</p>
+      <p>кили брат сестра очень любили друг друга</p>
+      <p>рассказала брату мужу печальную историю</p>
+      <p>оба брат муж выхватили кинжалы убили злую женщину продажного моллу муж взял жену сыном поехал домой захватив своего нового друга</p>
+      <p>очень обрадовались старики возвращению сына любимой невестке внуку хорошая невеста нашлась гостя</p>
+      <p>устроили пир весь мир продолжается н пировал вместе всеми</p>
+    </body>
+  </text>
+</TEI>

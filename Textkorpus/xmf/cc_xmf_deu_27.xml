@@ -1,259 +1,275 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">22. Der kinderlose Herrscher</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_27.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-     <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-     <district/>
-     <settlement ref="https://www.geonames.org/612533/pakhulani.html">Pakhulani</settlement>
-     <geo/>
-    </placeName>
-    <date when="1923">1923</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Vasili (Tigura)</forename>
-      <surname>Shania</surname>
-     </persName>
-     <age/>
-     <birth>
-      <date when="1873">1973</date>
-      <placeName>
-       <country/>
-       <region/>
-       <district/>
-       <settlement/>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename>Makar</forename>
-      <surname>Khubua</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_27">
-  <body>
-   <head>Der kinderlose Herrscher</head>
-   <p>Es war einmal ein Herrscher. Weder er noch sein Wesir hatten ein Kind.</p>
-   <p>Der Herrscher sprach zu seinem Wesir: "Laß uns beide aufbrechen und uns ein Mittel beschaffen, das uns ein Kind beschert."</p>
-   <p>"Gut”, sagte der Wesir.</p>
-   <p>Sie machten sich auf den Weg und zogen los. Sie nahmen sich Geld mit,das für drei, vier Monate reichte, und brachen auf. Sie ritten und ritten:heute, morgen, übermorgen... Zwei Monate waren sie unterwegs, Im dritten Monat gelangten sie zu einer Wiese, Dort gerieten sie in eine Schafherde.</p>
-   <p>Drei Tage und drei Nächte lang ritten sie, ohne an das Ende der Herde zukommen. Am vierten Abend kamen sie hin. Sie erblickten einen Mann, der eine große Schaffellmütze auf dem Kopf trug, in einen Schafpelz gekleidet war und eine Keule trug. Dieser Mann musterte sie, und er erkannte, daß es ein Herrscher war, der da kam.</p>
-   <p>"Gib mir etwas zu rauchen”, sagte der Herrscher zu ihm.</p>
-   <p>"Junge, Junge!" rief der Schäfer.</p>
-   <p>"Ja, mein Herr”, sagte der Junge.</p>
-   <p>"Bring mir das Zigarettenetui her."</p>
-   <p>Man brachte dem Herrscher das Zigarettenetui, Er betrachtete es, es war ein sehr kostbares Etui. Das verwunderte den Herrscher natürlich,</p>
-   <p>An jenem Abend lud sie der Mann zu sich ein, "Kommt in mein Haus",sagte er.</p>
-   <p>Als sie an das Tor kamen, waren viele Leute da. Sie hielten die Gewänder des Herrschers in der Hand. Als der Herrscher das sah, rief er: "Ihr seid der Herrscher, und ich bin gestorben?"</p>
-   <p>"Nein, damals war ich Schäfer, und jetzt werde ich Herrscher sein", gab <pb n="132"/> der andere zur Antwort.</p>
-   <p>Man erwies ihm große Ehre. Nach dem Abendbrot erhob sich der Mann,ging in sein Zimmer und brachte zwei Apfel heraus: "Wenn du heimkommst, schneide den Apfel in der Mitte durch, iß die eine Hälfte und gib die andere deiner Frau zu essen." So sagte er es auch dem Wesir, gab beiden einen Apfel in die Hand und sprach: "Legt euch beide an dem Abend zu eurer Frau."</p>
-   <p>Sie brachen auf und kamen nach Hause. Sie schnitten den Apfel durch und aßen ihn, wie es jener Herrscher gesagt hatte. Unterwegs vereinbarten sie: "Wenn unsere Kinder ein Mädchen und ein Junge werden, wollen wir sie als Frau und Mann betrachten."</p>
-   <p>Die Zeit verging. Die Frau des Herrschers gebar ihm einen Sohn, die des Wesirs ein Mädchen, Man stellte für beide Kinder einen Lehrer an und begann sie zu unterrichten. Sie wuchsen heran, aber wie sie sich entwickelten! Zum Erstaunen für alle Welt. Der Junge hieß Aleksandre. Als sie achtzehn Jahre alt wurden, starb der Herrscher.</p>
-   <p>Hier floß ein großer Fluß entlang, und dieser Fluß mündete ins Meer.</p>
-   <p>Der Bursche kam an den Fluß, es war ein ungewöhnlich schöner Fluß. Der Bursche trug das Bild dieses Mädchens bei sich. Es glitt ihm aus der Tasche und fiel in den Fluß. Das Wasser schwemmte es fort und trug es ins Meer.</p>
-   <p>Entdeckten die Fischer, die im Meer standen, nicht dieses Bild?! Sie betrachteten es, es war ein wunderschönes Mädchen!</p>
-   <p>"Wozu brauchen wir das. Wir wollen es dem Sohn des Herrschers bringen", sagten sie, "er wird es uns danken."</p>
-   <p>Der Sohn des Herrschers brach wirklich auf und begab sich zum Vater dieses Mädchens. Er sprach: "Gib mir deine Tochter zur Frau, sonst muß ich mich mit dir anlegen."</p>
-   <p>Was sollte der Wesir tun? "Gib mir ein wenig Zeit", sagte er zu dem jungen Mann und dachte: Ich will den Sohn meines Herrschers verschwinden lassen. Er ließ ihn zu sich kommen und sprach: "Komm mit, Junge, ich will dir meinen Wald zeigen.”</p>
-   <p>"Gut", sagte Aleksandre.</p>
-   <p>Sie gingen in den Wald und liefen und wurden müde. Es war die Mittagszeit, und sobald sie sich ausruhten, schlief der junge Mann ein. Der Wesir machte sich auf und kehrte nach Hause zurück. Den Burschen ließ er im Wald liegen.</p>
-   <p>Am nächsten Tag stand der junge Mann auf und folgte dem Weg durch den Wald. Lange lief er und lief, aber er verirrte sich und fand nicht mehr heraus.</p>
-   <p>Hier hatten Arbeiter einer Köhlerei ihren Standort, auf die stieß er. Die Arbeiter hielten ihn fest und brachten ihn zum Besitzer der Köhlerei, <pb n="133"/> einem Armenier. Sie musterten ihn, erkannten ihn aber nicht und fragten:"Wer bist du?”</p>
-   <p>"Ich weiß nicht, wer ich bin", antwortete Aleksandre. Der Armenier nahm ihn an Kindes statt an, Er hatte nur eine Tochter und wollte ihn als ihren Bräutigam. Er machte ihn zum Vorarbeiter, und so lebten sie eine Zeitlang.</p>
-   <p>Eines Tages machten sich die Arbeiter alle auf und gingen zur Arbeit. Nur einer stand nicht auf, ein kahlköpfiger Arbeiter.</p>
-   <p>"Steh auf", sagte Aleksandre zu ihm.</p>
-   <p>"Ich stehe nicht auf”, erwiderte der andere.</p>
-   <p>Aleksandre gab ihm einen Tritt und sagte: "Steh auf!"</p>
-   <p>Da sagte der Arbeiter: "Wenn du so stolz bist, weshalb bist du hier, wenn sie morgen abend deine Braut holen?"</p>
-   <p>"Daß mein Bruder stürbe! Was hat mir dieser Mann da gesagt?" rief erund fragte: "Wovon hast du gesprochen?"</p>
-   <p>"Deine Braut, die Tochter des Wesirs, wird man morgen abend holen."</p>
-   <p>"Wenn du das weißt, wirst du auch etwas wissen, wie dem abzuhelfen ist",meinte der junge Mann.</p>
-   <p>"Das weiß ich schon. Aber ob du das zu tun vermagst? Weißt du, was du machen mußt?"</p>
-   <p>"Ja", sagte der junge Mann.</p>
-   <p>"Geh zu deinem Lehrer und bitte ihn um ein Pferd. Wenn er es dir gibt,wird es dir helfen."</p>
-   <p>"Natürlich wird er es mir geben", sagte Aleksandre und ging nach dem Pferd. Betrübt kam er nach Hause.</p>
-   <p>"Was ist los?" fragte der Lehrer.</p>
-   <p>“Nichts weiter, die Arbeiter arbeiten."</p>
-   <p>"Warum bist du so traurig?"</p>
-   <p>"So steht es um meine Sache. Wenn du mir das Pferd nicht gibst, bringe ich mich um."</p>
-   <p>"Das Pferd will ich dir geben, aber was soll ich machen, wenn du umkommst?"</p>
-   <p>Am nächsten Morgen nahm Aleksandre das Pferd und ritt los.</p>
-   <p>"Hat er es dir gegeben?" fragte der Kahlköpfige.</p>
-   <p>"Ja.”</p>
-   <p>"Jetzt steht es gut um deine Sache. Weißt du, was du tun mußt?"</p>
-   <p>"Ja.”</p>
-   <p>"Unterwegs im Feld steht eine Platane, lege dich dort unter den Baum"”,sprach der Kahlköpfige. "Zwölf Kutschen werden dort vorbeifahren. Vorn sitzt der Herrscher, und das Mädchen sitzt an seiner Seite. He, Aleksandre,wo begegne ich dir, bring Abhilfe, wird sie sagen. Wer ist Aleksandre? wird der Herrscher fragen. Das ist mein Kousin, und als er erfahren hat, daß ich <pb n="134"/> zur Hochzeit fahre, hat er hier auf uns gewartet, ich will ihn mitnehmen,wird sie sagen. Der Herrscher wird sagen: Gut, aber sage ihm, er soll das Pferd an meine Kutsche binden.”</p>
-   <p>Der junge Mann ritt davon, und tatsächlich geschah alles so. Sie nahmen den jungen Mann mit und fuhren alle weiter. Weiter hatte der Kahlköpfige ihn gelehrt: "Sage dem Herrscher unterwegs: Wo du dein Roß anbindest,dort laß auch mein Pferd anbinden. Sie werden es da anbinden." Er sagte es dem Herrscher, und als sie zum Haus des Herrschers kamen, band man wirklich das Pferd dieses jungen Mannes bei dem Roß des Herrschers an.</p>
-   <p>"Geh gleich darauf zu dem Stallwärter", hatte der Kahlköpfige geraten,"und sage ihm: Gib mir den Schlüssel, ich will mein Pferd selbst versorgen.</p>
-   <p>Der Sattel hängt dort. Dann führe das Mädchen heraus, setze sie auf das Pferd und reite los."</p>
-   <p>Er kam hin, richtete alles so ein, brachte das Mädchen heraus, setzte sie auf das Pferd, schwang sich selbst auf das andere und rief: "Meine Frau ist sie, und ich nehme sie mit mir!"</p>
-   <p>Sie kamen nach Hause. Der Armenier freute sich.</p>
-   <p>Aleksandre selbst machte sich auf und ging zu dem Wesir: "Du hast mich im Wald zurückgelassen... Du hattest keine Kraft, und was hättest du anderes tun sollen."</p>
-   <p>Der Wesir ließ ein Fest richten, ein großes Gelage, weil der Verschwundene zurückgekehrt war, Viele Leute gingen bei ihnen ein und aus, und sie führten ein ehrenvolles Leben.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">22. Der kinderlose Herrscher</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_27.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/612533/pakhulani.html">Pakhulani</settlement>
+          <geo/>
+        </placeName>
+        <date when="1923">1923</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Vasili (Tigura)</forename>
+            <surname>Shania</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date when="1873">1973</date>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_27">
+    <body>
+      <head>Der kinderlose Herrscher</head>
+      <p>Es war einmal ein Herrscher. Weder er noch sein Wesir hatten ein Kind.</p>
+      <p>Der Herrscher sprach zu seinem Wesir: &quot;Laß uns beide aufbrechen und uns ein Mittel beschaffen, das uns ein Kind beschert.&quot;</p>
+      <p>&quot;Gut”, sagte der Wesir.</p>
+      <p>Sie machten sich auf den Weg und zogen los. Sie nahmen sich Geld mit,das für drei, vier Monate reichte, und brachen auf. Sie ritten und ritten:heute, morgen, übermorgen... Zwei Monate waren sie unterwegs, Im dritten Monat gelangten sie zu einer Wiese, Dort gerieten sie in eine Schafherde.</p>
+      <p>Drei Tage und drei Nächte lang ritten sie, ohne an das Ende der Herde zukommen. Am vierten Abend kamen sie hin. Sie erblickten einen Mann, der eine große Schaffellmütze auf dem Kopf trug, in einen Schafpelz gekleidet war und eine Keule trug. Dieser Mann musterte sie, und er erkannte, daß es ein Herrscher war, der da kam.</p>
+      <p>&quot;Gib mir etwas zu rauchen”, sagte der Herrscher zu ihm.</p>
+      <p>&quot;Junge, Junge!&quot; rief der Schäfer.</p>
+      <p>&quot;Ja, mein Herr”, sagte der Junge.</p>
+      <p>&quot;Bring mir das Zigarettenetui her.&quot;</p>
+      <p>Man brachte dem Herrscher das Zigarettenetui, Er betrachtete es, es war ein sehr kostbares Etui. Das verwunderte den Herrscher natürlich,</p>
+      <p>An jenem Abend lud sie der Mann zu sich ein, &quot;Kommt in mein Haus&quot;,sagte er.</p>
+      <p>Als sie an das Tor kamen, waren viele Leute da. Sie hielten die Gewänder des Herrschers in der Hand. Als der Herrscher das sah, rief er: &quot;Ihr seid der Herrscher, und ich bin gestorben?&quot;</p>
+      <p>
+        &quot;Nein, damals war ich Schäfer, und jetzt werde ich Herrscher sein&quot;, gab 
+        <pb n="132"/>
+         der andere zur Antwort.
+      </p>
+      <p>Man erwies ihm große Ehre. Nach dem Abendbrot erhob sich der Mann,ging in sein Zimmer und brachte zwei Apfel heraus: &quot;Wenn du heimkommst, schneide den Apfel in der Mitte durch, iß die eine Hälfte und gib die andere deiner Frau zu essen.&quot; So sagte er es auch dem Wesir, gab beiden einen Apfel in die Hand und sprach: &quot;Legt euch beide an dem Abend zu eurer Frau.&quot;</p>
+      <p>Sie brachen auf und kamen nach Hause. Sie schnitten den Apfel durch und aßen ihn, wie es jener Herrscher gesagt hatte. Unterwegs vereinbarten sie: &quot;Wenn unsere Kinder ein Mädchen und ein Junge werden, wollen wir sie als Frau und Mann betrachten.&quot;</p>
+      <p>Die Zeit verging. Die Frau des Herrschers gebar ihm einen Sohn, die des Wesirs ein Mädchen, Man stellte für beide Kinder einen Lehrer an und begann sie zu unterrichten. Sie wuchsen heran, aber wie sie sich entwickelten! Zum Erstaunen für alle Welt. Der Junge hieß Aleksandre. Als sie achtzehn Jahre alt wurden, starb der Herrscher.</p>
+      <p>Hier floß ein großer Fluß entlang, und dieser Fluß mündete ins Meer.</p>
+      <p>Der Bursche kam an den Fluß, es war ein ungewöhnlich schöner Fluß. Der Bursche trug das Bild dieses Mädchens bei sich. Es glitt ihm aus der Tasche und fiel in den Fluß. Das Wasser schwemmte es fort und trug es ins Meer.</p>
+      <p>Entdeckten die Fischer, die im Meer standen, nicht dieses Bild?! Sie betrachteten es, es war ein wunderschönes Mädchen!</p>
+      <p>&quot;Wozu brauchen wir das. Wir wollen es dem Sohn des Herrschers bringen&quot;, sagten sie, &quot;er wird es uns danken.&quot;</p>
+      <p>Der Sohn des Herrschers brach wirklich auf und begab sich zum Vater dieses Mädchens. Er sprach: &quot;Gib mir deine Tochter zur Frau, sonst muß ich mich mit dir anlegen.&quot;</p>
+      <p>Was sollte der Wesir tun? &quot;Gib mir ein wenig Zeit&quot;, sagte er zu dem jungen Mann und dachte: Ich will den Sohn meines Herrschers verschwinden lassen. Er ließ ihn zu sich kommen und sprach: &quot;Komm mit, Junge, ich will dir meinen Wald zeigen.”</p>
+      <p>&quot;Gut&quot;, sagte Aleksandre.</p>
+      <p>Sie gingen in den Wald und liefen und wurden müde. Es war die Mittagszeit, und sobald sie sich ausruhten, schlief der junge Mann ein. Der Wesir machte sich auf und kehrte nach Hause zurück. Den Burschen ließ er im Wald liegen.</p>
+      <p>Am nächsten Tag stand der junge Mann auf und folgte dem Weg durch den Wald. Lange lief er und lief, aber er verirrte sich und fand nicht mehr heraus.</p>
+      <p>
+        Hier hatten Arbeiter einer Köhlerei ihren Standort, auf die stieß er. Die Arbeiter hielten ihn fest und brachten ihn zum Besitzer der Köhlerei, 
+        <pb n="133"/>
+         einem Armenier. Sie musterten ihn, erkannten ihn aber nicht und fragten:&quot;Wer bist du?”
+      </p>
+      <p>&quot;Ich weiß nicht, wer ich bin&quot;, antwortete Aleksandre. Der Armenier nahm ihn an Kindes statt an, Er hatte nur eine Tochter und wollte ihn als ihren Bräutigam. Er machte ihn zum Vorarbeiter, und so lebten sie eine Zeitlang.</p>
+      <p>Eines Tages machten sich die Arbeiter alle auf und gingen zur Arbeit. Nur einer stand nicht auf, ein kahlköpfiger Arbeiter.</p>
+      <p>&quot;Steh auf&quot;, sagte Aleksandre zu ihm.</p>
+      <p>&quot;Ich stehe nicht auf”, erwiderte der andere.</p>
+      <p>Aleksandre gab ihm einen Tritt und sagte: &quot;Steh auf!&quot;</p>
+      <p>Da sagte der Arbeiter: &quot;Wenn du so stolz bist, weshalb bist du hier, wenn sie morgen abend deine Braut holen?&quot;</p>
+      <p>&quot;Daß mein Bruder stürbe! Was hat mir dieser Mann da gesagt?&quot; rief erund fragte: &quot;Wovon hast du gesprochen?&quot;</p>
+      <p>&quot;Deine Braut, die Tochter des Wesirs, wird man morgen abend holen.&quot;</p>
+      <p>&quot;Wenn du das weißt, wirst du auch etwas wissen, wie dem abzuhelfen ist&quot;,meinte der junge Mann.</p>
+      <p>&quot;Das weiß ich schon. Aber ob du das zu tun vermagst? Weißt du, was du machen mußt?&quot;</p>
+      <p>&quot;Ja&quot;, sagte der junge Mann.</p>
+      <p>&quot;Geh zu deinem Lehrer und bitte ihn um ein Pferd. Wenn er es dir gibt,wird es dir helfen.&quot;</p>
+      <p>&quot;Natürlich wird er es mir geben&quot;, sagte Aleksandre und ging nach dem Pferd. Betrübt kam er nach Hause.</p>
+      <p>&quot;Was ist los?&quot; fragte der Lehrer.</p>
+      <p>“Nichts weiter, die Arbeiter arbeiten.&quot;</p>
+      <p>&quot;Warum bist du so traurig?&quot;</p>
+      <p>&quot;So steht es um meine Sache. Wenn du mir das Pferd nicht gibst, bringe ich mich um.&quot;</p>
+      <p>&quot;Das Pferd will ich dir geben, aber was soll ich machen, wenn du umkommst?&quot;</p>
+      <p>Am nächsten Morgen nahm Aleksandre das Pferd und ritt los.</p>
+      <p>&quot;Hat er es dir gegeben?&quot; fragte der Kahlköpfige.</p>
+      <p>&quot;Ja.”</p>
+      <p>&quot;Jetzt steht es gut um deine Sache. Weißt du, was du tun mußt?&quot;</p>
+      <p>&quot;Ja.”</p>
+      <p>
+        &quot;Unterwegs im Feld steht eine Platane, lege dich dort unter den Baum&quot;”,sprach der Kahlköpfige. &quot;Zwölf Kutschen werden dort vorbeifahren. Vorn sitzt der Herrscher, und das Mädchen sitzt an seiner Seite. He, Aleksandre,wo begegne ich dir, bring Abhilfe, wird sie sagen. Wer ist Aleksandre? wird der Herrscher fragen. Das ist mein Kousin, und als er erfahren hat, daß ich 
+        <pb n="134"/>
+         zur Hochzeit fahre, hat er hier auf uns gewartet, ich will ihn mitnehmen,wird sie sagen. Der Herrscher wird sagen: Gut, aber sage ihm, er soll das Pferd an meine Kutsche binden.”
+      </p>
+      <p>Der junge Mann ritt davon, und tatsächlich geschah alles so. Sie nahmen den jungen Mann mit und fuhren alle weiter. Weiter hatte der Kahlköpfige ihn gelehrt: &quot;Sage dem Herrscher unterwegs: Wo du dein Roß anbindest,dort laß auch mein Pferd anbinden. Sie werden es da anbinden.&quot; Er sagte es dem Herrscher, und als sie zum Haus des Herrschers kamen, band man wirklich das Pferd dieses jungen Mannes bei dem Roß des Herrschers an.</p>
+      <p>&quot;Geh gleich darauf zu dem Stallwärter&quot;, hatte der Kahlköpfige geraten,&quot;und sage ihm: Gib mir den Schlüssel, ich will mein Pferd selbst versorgen.</p>
+      <p>Der Sattel hängt dort. Dann führe das Mädchen heraus, setze sie auf das Pferd und reite los.&quot;</p>
+      <p>Er kam hin, richtete alles so ein, brachte das Mädchen heraus, setzte sie auf das Pferd, schwang sich selbst auf das andere und rief: &quot;Meine Frau ist sie, und ich nehme sie mit mir!&quot;</p>
+      <p>Sie kamen nach Hause. Der Armenier freute sich.</p>
+      <p>Aleksandre selbst machte sich auf und ging zu dem Wesir: &quot;Du hast mich im Wald zurückgelassen... Du hattest keine Kraft, und was hättest du anderes tun sollen.&quot;</p>
+      <p>Der Wesir ließ ein Fest richten, ein großes Gelage, weil der Verschwundene zurückgekehrt war, Viele Leute gingen bei ihnen ein und aus, und sie führten ein ehrenvolles Leben.</p>
+    </body>
+  </text>
 </TEI>

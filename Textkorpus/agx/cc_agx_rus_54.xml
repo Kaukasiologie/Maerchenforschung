@@ -1,182 +1,184 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">1. (Был голод в Дагестане...)</title>
-    <author>
-     <name xml:id="AD">
-      <persName>
-       <forename>Adolf</forename>
-       <surname>Dirr</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-       <sourceDesc>
-      <biblStruct>
-        <analytic>
-          <title xml:lang="ru">Агулзский языкъ. Граматический очеркъ, тексты, сборникъ агульскихъ слобъ съ русскумъ къ нему указателемъ</title>
-          <author>
-            <persName ref="#AD">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">1. (Был голод в Дагестане...)</title>
+        <author>
+          <name xml:id="AD">
+            <persName>
               <forename>Adolf</forename>
               <surname>Dirr</surname>
             </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
-          <imprint>
-            <pubPlace>Tiflis</pubPlace>
-            <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
-            <date when="1907">1907</date>
-          </imprint>
-          <biblScope unit="volume">37</biblScope>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a122Z Weitere Listen, um vor dem Gefressenwerden zu entkommen</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_agx_rus_54.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item>Warnung vor Gewalt und Missbrauch</item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-    </placeName>
-    <date notAfter="1907">1907</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename> </forename>
-      <surname> </surname>
-     </persName>
-     <age/>
-     <birth>
-      <date/>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district/>
-       <settlement/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_agx_rus_54">
-  <body>
-   <pb n="71"/>
-   <head>1.</head>
-   <p>Был голод в Дагестане. В это время жила-была лисица, которой нечего было есть. "Вот," думала лисица, "что мне здесь делать? Пойду лучше в Ширван." Отправилась она в дорогу. Ей пути встретился волк, который спросил ее: "Куда ты?" — "В Ширван!" — "Зачем?" спросил волк снова. "Ого," сказала лисица, "там бараны есть без пастухов; сколько хочешь, ешь, гуляй: никто не мешает. Я иду туда, есть, пить, гулять." — "Я тоже пойду с тобою!" сказал волк. Встретили они катера. Катер спросил: "Куда вы?" — "Мы в Ширван." — "Что там?" спросил катер снова: "Там? Там есть трава, такая высокая трава, что не стоит нагибаться: стоя можно есть." — "Хорошо, я тоже пойду с вами!" сказал катер.</p>
-   <p>Когда они приблизились к Ширвану, они поднялись на холм. "Ого," сказала лисица, "до Ширвана еще 10 суток, что нам делать теперь? Надо съесть младшего из нас; скажите каждый, сколько кому лет." — "Я," сказал волк; "родился во время пророка Ноя." — "Врешь," сказала лисица, "но от этого тебе пользы не будет! Что касается меня, я была уже белобородая, когда Бог создал человека." А катер сказал: "Я не знаю, сколько мне лет. Но посмотрите, на подкове моей задней ноги мой хозяин написал год моего рождения." — "Я не могу," сказала лисица, "я плохо вижу: смотри ты, волк!" Волк подошел, но когда он хотел посмотреть, катер ударил его ногой так сильно, что тот упал, потеряв сознание. "А что, не говорила ли я тебе, что бесполезно лгать?" сказала лисица. Волк околел. Потом лисица обратилась к катеру: "Вот все эти дикие места пусть будут твои, а тело этого волка мое!"</p>
-  </body>
- </text>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">Агулзский языкъ. Граматический очеркъ, тексты, сборникъ агульскихъ слобъ съ русскумъ къ нему указателемъ</title>
+            <author>
+              <persName ref="#AD">
+                <forename>Adolf</forename>
+                <surname>Dirr</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+            <imprint>
+              <pubPlace>Tiflis</pubPlace>
+              <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+              <date when="1907">1907</date>
+            </imprint>
+            <biblScope unit="volume">37</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a122Z Weitere Listen, um vor dem Gefressenwerden zu entkommen</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_agx_rus_54.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor Gewalt und Missbrauch</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1907">1907</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename> </forename>
+            <surname> </surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_agx_rus_54">
+    <body>
+      <pb n="71"/>
+      <head>1.</head>
+      <p>Был голод в Дагестане. В это время жила-была лисица, которой нечего было есть. &quot;Вот,&quot; думала лисица, &quot;что мне здесь делать? Пойду лучше в Ширван.&quot; Отправилась она в дорогу. Ей пути встретился волк, который спросил ее: &quot;Куда ты?&quot; — &quot;В Ширван!&quot; — &quot;Зачем?&quot; спросил волк снова. &quot;Ого,&quot; сказала лисица, &quot;там бараны есть без пастухов; сколько хочешь, ешь, гуляй: никто не мешает. Я иду туда, есть, пить, гулять.&quot; — &quot;Я тоже пойду с тобою!&quot; сказал волк. Встретили они катера. Катер спросил: &quot;Куда вы?&quot; — &quot;Мы в Ширван.&quot; — &quot;Что там?&quot; спросил катер снова: &quot;Там? Там есть трава, такая высокая трава, что не стоит нагибаться: стоя можно есть.&quot; — &quot;Хорошо, я тоже пойду с вами!&quot; сказал катер.</p>
+      <p>Когда они приблизились к Ширвану, они поднялись на холм. &quot;Ого,&quot; сказала лисица, &quot;до Ширвана еще 10 суток, что нам делать теперь? Надо съесть младшего из нас; скажите каждый, сколько кому лет.&quot; — &quot;Я,&quot; сказал волк; &quot;родился во время пророка Ноя.&quot; — &quot;Врешь,&quot; сказала лисица, &quot;но от этого тебе пользы не будет! Что касается меня, я была уже белобородая, когда Бог создал человека.&quot; А катер сказал: &quot;Я не знаю, сколько мне лет. Но посмотрите, на подкове моей задней ноги мой хозяин написал год моего рождения.&quot; — &quot;Я не могу,&quot; сказала лисица, &quot;я плохо вижу: смотри ты, волк!&quot; Волк подошел, но когда он хотел посмотреть, катер ударил его ногой так сильно, что тот упал, потеряв сознание. &quot;А что, не говорила ли я тебе, что бесполезно лгать?&quot; сказала лисица. Волк околел. Потом лисица обратилась к катеру: &quot;Вот все эти дикие места пусть будут твои, а тело этого волка мое!&quot;</p>
+    </body>
+  </text>
 </TEI>

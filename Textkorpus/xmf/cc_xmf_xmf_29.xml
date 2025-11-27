@@ -1,196 +1,202 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="xmf">24. სქვამი ჩხომი</title>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
-     <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
-     <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
-     <distributor/>
-     <date when="1991">The year 1991</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="xmf">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_29.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
-      <forename>Iosif Alekseevich</forename>
-      <surname>Kipshidze</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_xmf_29">
-  <body>
-   <head>24. სქვამი ჩხომი</head>
-   <p>რდჷ ართი რჩინ კოჩი. თის ჸუნდჷ ართი სქუა მეჩხომე. ართიშახ მეჩხომექ მიდართჷ ჩხომიში ოჭოფუშა; გილართჷ ბრელი, მარა ჩხომქ ვააჭოფუ. ბოლოს ოჭოფუ ართი ჭიჭე, მარა ძალამი სქვამი ჩხომი. მეჩხომეს შეეცოდჷ ე ჩხომქ დო ქიდნახუნუ წყარს კონი. ჸუდეშა ქუმორთჷნი, მუმაქ კითხჷ:</p>
-   <p>- ჩხომი ვაგიჭოფუნიავო? სქუაქ უწუ̄:</p>
-   <p>- ართი ჩხომი ოფჭოფი, მარა ძალამი სქვამი რდჷ, შემეცოდჷ დო კონი გუ̄ტევა.</p>
-   <p> მუმაქ გოლახჷ სქუა დო გეგნაჸოთ ჸუდუშე დო უწუ̄:</p>
-   <p>- მუშენი მიჸოთი ღორონთიში ჭყოლოფუა?</p>
-   <p>მეჩხომექ მიდართჷ. შარას ქაუხვადჷ ხარაზიქჷ დო იდეს, მიდართეს წორო. ენეფს ქაუხვადჷ მეწამალექ. მეჩხომექ, ხარაზიქ დო მეწამალექ დეემოჯგირეს ართიანსჷ დო პიჯი ქიმეჩეს ართი-მაჟირას, მუთი იშუანი მუშმუში ხელუათჷნი, ართი-მაჟირაწკჷმა შქაშა გიირთანი.</p>
-   <p>ათე დროს ართი მაფას ჸუნდჷ ოსურისქუა ლეხი. მაფაქ ბრელი ეცადჷ, მარა სქუაშა მუთაქ მაახვარინჷ. უკულინეშე მაფაქ გამაცხადჷ: "მით დაასქილიდუანს ჩქიმი ოსურისქუასჷნი, თის ჩქიმი ოსურისქუას ჩილო ქეკუხუნუანქ".</p>
-   <p>მეწამალექ მიდართჷ მაფაში სქუაში ოწამალუშა. მუჟანსით ქუმორთუ მაფაშანი, მეწამალექ გოლასირუ̄ ლეკური, ლეხის დუს ქიგიოდირთჷ, ხეს ლეკური უკინებუდუნი, დო თეში თქუ: "გვერშაპი, მა გიზოჯჷქ ლეხის დეთხუე, ვარა დუს მერკვათჷნქ".</p>
-   <p>გვერშაპიქ ეშეელჷ ლეხიში ქვარაშე დო გიმილჷ გალე. მაფაში ოსურისქუაქ დოსქიდჷ დო მაფაქ ქიმეჩჷ თინა მეწამალეს ჩილო. მეწამალექ მოლეჸონჷ ჩილი დო დიიშაყარეს სუმიხოლო თაბუნენქ. გირთეს, მუთი ნაში̄ბი უღუდესჷნი. მეწამალექ მუში ჩილი დო მუქით ქოხვადჷნი, ირიფელი მეჩხომეს ქიმეჩუ დო უწუ̄:</p>
-   <p>- ჩხომი, ნამუთი შიიცოდე დო გუ̄ტენი, მა ვორდი.</p>
-   <p>მუქ ათენა ქოთქუ დო უძირაფუო გორთჷ. <pb n="264"/></p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf">24. სქვამი ჩხომი</title>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
+          <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
+          <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
+          <distributor/>
+          <date when="1991">The year 1991</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_29.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">
+            133697460&gt;
+            <forename>Iosif Alekseevich</forename>
+            <surname>Kipshidze</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_29">
+    <body>
+      <head>24. სქვამი ჩხომი</head>
+      <p>რდჷ ართი რჩინ კოჩი. თის ჸუნდჷ ართი სქუა მეჩხომე. ართიშახ მეჩხომექ მიდართჷ ჩხომიში ოჭოფუშა; გილართჷ ბრელი, მარა ჩხომქ ვააჭოფუ. ბოლოს ოჭოფუ ართი ჭიჭე, მარა ძალამი სქვამი ჩხომი. მეჩხომეს შეეცოდჷ ე ჩხომქ დო ქიდნახუნუ წყარს კონი. ჸუდეშა ქუმორთჷნი, მუმაქ კითხჷ:</p>
+      <p>- ჩხომი ვაგიჭოფუნიავო? სქუაქ უწუ̄:</p>
+      <p>- ართი ჩხომი ოფჭოფი, მარა ძალამი სქვამი რდჷ, შემეცოდჷ დო კონი გუ̄ტევა.</p>
+      <p> მუმაქ გოლახჷ სქუა დო გეგნაჸოთ ჸუდუშე დო უწუ̄:</p>
+      <p>- მუშენი მიჸოთი ღორონთიში ჭყოლოფუა?</p>
+      <p>მეჩხომექ მიდართჷ. შარას ქაუხვადჷ ხარაზიქჷ დო იდეს, მიდართეს წორო. ენეფს ქაუხვადჷ მეწამალექ. მეჩხომექ, ხარაზიქ დო მეწამალექ დეემოჯგირეს ართიანსჷ დო პიჯი ქიმეჩეს ართი-მაჟირას, მუთი იშუანი მუშმუში ხელუათჷნი, ართი-მაჟირაწკჷმა შქაშა გიირთანი.</p>
+      <p>ათე დროს ართი მაფას ჸუნდჷ ოსურისქუა ლეხი. მაფაქ ბრელი ეცადჷ, მარა სქუაშა მუთაქ მაახვარინჷ. უკულინეშე მაფაქ გამაცხადჷ: &quot;მით დაასქილიდუანს ჩქიმი ოსურისქუასჷნი, თის ჩქიმი ოსურისქუას ჩილო ქეკუხუნუანქ&quot;.</p>
+      <p>მეწამალექ მიდართჷ მაფაში სქუაში ოწამალუშა. მუჟანსით ქუმორთუ მაფაშანი, მეწამალექ გოლასირუ̄ ლეკური, ლეხის დუს ქიგიოდირთჷ, ხეს ლეკური უკინებუდუნი, დო თეში თქუ: &quot;გვერშაპი, მა გიზოჯჷქ ლეხის დეთხუე, ვარა დუს მერკვათჷნქ&quot;.</p>
+      <p>გვერშაპიქ ეშეელჷ ლეხიში ქვარაშე დო გიმილჷ გალე. მაფაში ოსურისქუაქ დოსქიდჷ დო მაფაქ ქიმეჩჷ თინა მეწამალეს ჩილო. მეწამალექ მოლეჸონჷ ჩილი დო დიიშაყარეს სუმიხოლო თაბუნენქ. გირთეს, მუთი ნაში̄ბი უღუდესჷნი. მეწამალექ მუში ჩილი დო მუქით ქოხვადჷნი, ირიფელი მეჩხომეს ქიმეჩუ დო უწუ̄:</p>
+      <p>- ჩხომი, ნამუთი შიიცოდე დო გუ̄ტენი, მა ვორდი.</p>
+      <p>
+        მუქ ათენა ქოთქუ დო უძირაფუო გორთჷ. 
+        <pb n="264"/>
+      </p>
+    </body>
+  </text>
 </TEI>

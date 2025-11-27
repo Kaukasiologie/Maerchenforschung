@@ -1,189 +1,191 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">ВЫМЯ</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a560 Zauberring</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_57.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_57">
-  <body>
-   <head>ВЫМЯ</head>
-   <p>Были мать и сын. Они жили очень бедно. Каждый день сын ходил в лес, заготовлял дрова и продавал, вот так они выживали. Однажды, когда сын пошел в лес, чтобы заготовитъ дрова, он увидел змею, поднимающуюся по дереву к птенцам. Юноша ударом топора убил змею, выбросил ее и хотел уйти, но птенцы остановили его: подожди, мол, пока мама не прилетит.</p>
-   <p>Прилетела мама и набросилась на юношу, хотела его убитъ. Птенцы запищали: «Мама, оставь его, он убил змею, которая хотела напасть па нас». Матъ птенцов спросила юношу: «Что ты хочешь?», а он стаял молча. Потом птица дала ему вымя. Объяснила ему, как надо сказать вымени: «Ну-ка, вымя, тебе, мне имаме выкладывай еды вдоволь».</p>
-   <p>Потом этот юноша пошел домой. Пришел домой, нашел там голодную матъ: последняя еда кончилась, когда она положила ему в дорогу в лес. Сын сказал вымени: «Ну-ка, вымя, тебе, мне и маме выкладывай еды вдоволь». Как только он это сказал, стол оказался полностью накрытым всем необходимым съестным. Потом сын сказал вымени, чтобы для него и матери было пошито много новой одежды.</p>
-   <p>Сын решил послать матъ засватать дочъ хана. Матъ пыталась объяснить сыну: «За тебя, бедного, дочь богатого хана не выйдет». Каким-то образом сын убедил мать пойти засватать дочъ хана. Мама постеснялась и дальше двора не смогла зайти в дом хана. Подошел дворовый, проводил ее к хану, и она рассказала о своей цели: «Ей богу, я пришла засватать за сына твою дочь». Хан вдруг ответил: «Выдам, если построите дом, наподобие моего дома, и стеклянный мост». Мать пошла домой и рассказала сыну, что ей сказал хан.</p>
-   <p>Завтра же сын начал копать фундамент. Подошедший туда старый человек с тростью в руках спросил у юноши: «Что тут делаешь с утра?» Юноша объяснил старику, что строит дом, а вымени сказал: «Пусть будет дом, как у хана, и стеклянный мост!» Старик был ошеломлен. «Ты дай мне вымя, а я тебе дам трастъ», - упрашивал старый человек. Эта трость была способна по приказу убивать любого человека. Они поменялись выменем и тростью. Но юноша не рассказал, что надо сказать вымени.</p>
-   <p>Прошло немного времени, как вымя вернулось обратно. Когда сын окончил строительство дома и стеклянного моста, он снова отправил мать к хану, чтобы засватать ханскую дочъ. Хан еще раз развернул мать со двора: «Пустъ вырастит во дворе дерево, подобное моему!» Сын сказал вымени, и выросло во дворе дерево, подобное царскому. Потом хан сказал еще: «Накорми мое войско». Юноша приказал вымени и накормил их. После этого пошли сватать дочъ, но хан решительно отказался ее выдавитъ. Тогда юноша послал трость: «Уничтожъ все царское войско». Когда трость уничтожила все царское войско, хан стал проситъ: «Если ты оживишь мое войско, все мое царство и дочь будут твоими». Тогда юноша еще раз послал трость, оживил царское войско и отправил вместе с ханом домой.</p>
-   <p>Вот так юноша, выросший одиноко с матерью в бедноте и сиротстве, покорил хана, женился на его дочери и сыграл большую свадьбу. Они привели к себе мать, и жили они счастливо. Но тот юноша, не согласился бытъ ханом.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">ВЫМЯ</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a560 Zauberring</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_57.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_57">
+    <body>
+      <head>ВЫМЯ</head>
+      <p>Были мать и сын. Они жили очень бедно. Каждый день сын ходил в лес, заготовлял дрова и продавал, вот так они выживали. Однажды, когда сын пошел в лес, чтобы заготовитъ дрова, он увидел змею, поднимающуюся по дереву к птенцам. Юноша ударом топора убил змею, выбросил ее и хотел уйти, но птенцы остановили его: подожди, мол, пока мама не прилетит.</p>
+      <p>Прилетела мама и набросилась на юношу, хотела его убитъ. Птенцы запищали: «Мама, оставь его, он убил змею, которая хотела напасть па нас». Матъ птенцов спросила юношу: «Что ты хочешь?», а он стаял молча. Потом птица дала ему вымя. Объяснила ему, как надо сказать вымени: «Ну-ка, вымя, тебе, мне имаме выкладывай еды вдоволь».</p>
+      <p>Потом этот юноша пошел домой. Пришел домой, нашел там голодную матъ: последняя еда кончилась, когда она положила ему в дорогу в лес. Сын сказал вымени: «Ну-ка, вымя, тебе, мне и маме выкладывай еды вдоволь». Как только он это сказал, стол оказался полностью накрытым всем необходимым съестным. Потом сын сказал вымени, чтобы для него и матери было пошито много новой одежды.</p>
+      <p>Сын решил послать матъ засватать дочъ хана. Матъ пыталась объяснить сыну: «За тебя, бедного, дочь богатого хана не выйдет». Каким-то образом сын убедил мать пойти засватать дочъ хана. Мама постеснялась и дальше двора не смогла зайти в дом хана. Подошел дворовый, проводил ее к хану, и она рассказала о своей цели: «Ей богу, я пришла засватать за сына твою дочь». Хан вдруг ответил: «Выдам, если построите дом, наподобие моего дома, и стеклянный мост». Мать пошла домой и рассказала сыну, что ей сказал хан.</p>
+      <p>Завтра же сын начал копать фундамент. Подошедший туда старый человек с тростью в руках спросил у юноши: «Что тут делаешь с утра?» Юноша объяснил старику, что строит дом, а вымени сказал: «Пусть будет дом, как у хана, и стеклянный мост!» Старик был ошеломлен. «Ты дай мне вымя, а я тебе дам трастъ», - упрашивал старый человек. Эта трость была способна по приказу убивать любого человека. Они поменялись выменем и тростью. Но юноша не рассказал, что надо сказать вымени.</p>
+      <p>Прошло немного времени, как вымя вернулось обратно. Когда сын окончил строительство дома и стеклянного моста, он снова отправил мать к хану, чтобы засватать ханскую дочъ. Хан еще раз развернул мать со двора: «Пустъ вырастит во дворе дерево, подобное моему!» Сын сказал вымени, и выросло во дворе дерево, подобное царскому. Потом хан сказал еще: «Накорми мое войско». Юноша приказал вымени и накормил их. После этого пошли сватать дочъ, но хан решительно отказался ее выдавитъ. Тогда юноша послал трость: «Уничтожъ все царское войско». Когда трость уничтожила все царское войско, хан стал проситъ: «Если ты оживишь мое войско, все мое царство и дочь будут твоими». Тогда юноша еще раз послал трость, оживил царское войско и отправил вместе с ханом домой.</p>
+      <p>Вот так юноша, выросший одиноко с матерью в бедноте и сиротстве, покорил хана, женился на его дочери и сыграл большую свадьбу. Они привели к себе мать, и жили они счастливо. Но тот юноша, не согласился бытъ ханом.</p>
+    </body>
+  </text>
 </TEI>

@@ -1,168 +1,170 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="kap">лъана энкъаб</title>
-    <author>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref target="https://doi.org/10.25362/lazar.84d6478a-04c7-4685-9c77-d40089485d09">Audioquelle</ref>
-     <availability>
-      <p>
-       <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-      </p>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="kap">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a1698 Schwerhörig Schwerhörigkeit</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_kap_rus_2.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
-     <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
-     <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
-     <settlement ref="https://www.geonames.org/824940/chant-lisq-ure.html">Chant’lisq’ure</settlement>
-    </placeName>
-    <date when="2023">2023</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Isa</forename>
-      <surname>Rmazanov</surname>
-     </persName>
-     <age/>
-     <birth>
-      <date when="1992">1992</date>
-      <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
-       <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
-       <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
-       <settlement ref="https://www.geonames.org/824940/chant-lisq-ure.html">Chant’lisq’ure</settlement>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="gnd:1154734161">
-      <forename>Diana</forename>
-      <surname>Forker</surname>
-      <persName key="gnd:133557154">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </persName>
-    </person>
-    <person role="translator">
-     <name>
-      <persName key="gnd:1154734161">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change/>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_kap_kap_2">
-  <body>
-   <head>лъана энкъаб</head>
-   <p>зукъона лъана энкъаб. ид энкъаблис зукъона боцӏи.майданли боцӏина богъона зукъоро гьуги. лъобакьа боцӏина букилна жуна утӏна. дена тӏотӏлъол шело йишеро боцӏи боына. бета гьуги экьена боиро боцӏи гьаклал.</p>
-   <p>гьоклъол эгаро маче болъоцас тракторист. гьоклъока нисолло дие шело йишеро боцӏи беганад дул. гьуди трактористна зукъона энкъаб. трактористли нисоро: вагьдо мачена болъона бета лъиродаас болъоц. гьолъо боцӏилахълил гицӏна гьинис боцӏи галъиро маче бегалца.</p>
-   <p>гьугии экьена гьоклъол гьинис боцӏи михъона. бета гьуди трактористлигъорна экьена нисоц. вагьдо дие шело йишеро боцӏи михъолас до дул нилъца. гьолъо трактористли нисоц: до шело гаа йшелна. бахъиро гьодлос спор.</p>
-   <p>мекьеро гьодрол гъурделигъор битӏараблъи роолал. гъурделина зукъона энкъаб. гъуди гъурделина билъогъа дагӏабана бахъна бисакиро зукъона. боцӏилахъли нисоц: дие боцӏи боына зукъоро. валъо трактористли михъолна. же до гьоклъол нилъца шело йшеро боцӏи а гьоклъо бокчаа. же нисоц трактористли: до маче болъоц зукъоро окъона боцӏилахъли нисоц суд диела боцӏилас шело йшелна. до шело йшелна гаа. гъурделия нисоц: мижелъиро окъенариг сукӏо окъодана билъора рекъел боваа до.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kap">лъана энкъаб</title>
+        <author>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.84d6478a-04c7-4685-9c77-d40089485d09">Audioquelle</ref>
+          <availability>
+            <p>
+              <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+            </p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kap">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a1698 Schwerhörig Schwerhörigkeit</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_kap_rus_2.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
+          <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+          <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+          <settlement ref="https://www.geonames.org/824940/chant-lisq-ure.html">Chant’lisq’ure</settlement>
+        </placeName>
+        <date when="2023">2023</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Isa</forename>
+            <surname>Rmazanov</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date when="1992">1992</date>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
+              <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+              <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+              <settlement ref="https://www.geonames.org/824940/chant-lisq-ure.html">Chant’lisq’ure</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="gnd:1154734161">
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+            <persName key="gnd:133557154">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </persName>
+        </person>
+        <person role="translator">
+          <name>
+            <persName key="gnd:1154734161">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_kap_kap_2">
+    <body>
+      <head>лъана энкъаб</head>
+      <p>зукъона лъана энкъаб. ид энкъаблис зукъона боцӏи.майданли боцӏина богъона зукъоро гьуги. лъобакьа боцӏина букилна жуна утӏна. дена тӏотӏлъол шело йишеро боцӏи боына. бета гьуги экьена боиро боцӏи гьаклал.</p>
+      <p>гьоклъол эгаро маче болъоцас тракторист. гьоклъока нисолло дие шело йишеро боцӏи беганад дул. гьуди трактористна зукъона энкъаб. трактористли нисоро: вагьдо мачена болъона бета лъиродаас болъоц. гьолъо боцӏилахълил гицӏна гьинис боцӏи галъиро маче бегалца.</p>
+      <p>гьугии экьена гьоклъол гьинис боцӏи михъона. бета гьуди трактористлигъорна экьена нисоц. вагьдо дие шело йишеро боцӏи михъолас до дул нилъца. гьолъо трактористли нисоц: до шело гаа йшелна. бахъиро гьодлос спор.</p>
+      <p>мекьеро гьодрол гъурделигъор битӏараблъи роолал. гъурделина зукъона энкъаб. гъуди гъурделина билъогъа дагӏабана бахъна бисакиро зукъона. боцӏилахъли нисоц: дие боцӏи боына зукъоро. валъо трактористли михъолна. же до гьоклъол нилъца шело йшеро боцӏи а гьоклъо бокчаа. же нисоц трактористли: до маче болъоц зукъоро окъона боцӏилахъли нисоц суд диела боцӏилас шело йшелна. до шело йшелна гаа. гъурделия нисоц: мижелъиро окъенариг сукӏо окъодана билъора рекъел боваа до.</p>
+    </body>
+  </text>
 </TEI>

@@ -1,128 +1,152 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>д. 216</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>д. 216</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1886—1887</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Б.</forename>
-        <surname xml:lang="rus">Далгат</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo/>
+        </placeName>
+        <date>1886—1887</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Б.</forename>
+            <surname xml:lang="rus">Далгат</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_108">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_108">
     <body>
-     <head>ДОСОЧКА, ВСТАНЬКА И НЕЗНАЙКА</head>
-     <p>жила ослица сынка первого звали досочкой второго встанькой третьего незнайкой</p><p>пошла однажды речку воду набрала воды кувшины взвалила спину зашагала домой тихонько напевая пос какую песенку вырос пей голодный волк</p><p>попалась старая карга зарычал волк бросился ослица сказала</p><p>повелитель тебе мои старые кости пойдем мной бери любого моих ослят какого захочешь</p><p>волка слюпкп потекли представил молодого жирного осленка</p><p>согласился волк пойдем</p><p>говорит хитрая ослица</p><p>дорогой надоест тебе плестись бок бок мной старухой это дотащимся беги ка вон той блияшом дорогой прямо моему дому вызови имени любого осленка досочку встаньку незнайку забирай</p><p>л дорога которой отправился волк пе ближ ой самой дальней ослица побежала самым коротким путем вбежала свой дом заперлась вместе своими детьми</p><p>прошло немало времени домом появился запыхавшийся волк голоден сильнее прежнего волк толкнулся дверь увидел заперта стал звать</p><p>эй досочка</p><p>ослица изнутри</p><p>дверь тобой сделана чек тебе</p><p>волк постучал крикнул</p><p>эй тальк</p><p>задвижка встала свое место вновь ответила ослица</p><p>волк постучал третий</p><p>эй незнайка зарычал</p><p>это снаружи знаешь мыто доме знаем хором ответили ому мать дети</p><p>знал обманешь ух тобой разделался стал кричать волк</p><p>бесновался бесновался запертой дверью злости досады лопнул лопнул издох ослица дети вышли дома содрали волка шкуру сшили всем шубы одному рукавов другому воротпика третьему подола четвертому спилки зато всем шубе вышло нарядились свои обновки стали плясать напевать веселую песенку</p><p>сшили ту бейки</p><p>олушубки душегрейки</p><p>росту рукава</p><p>шкура волчья мала траля ля траля ля ля</p><p>песенка пляшут сюда пришел сказку рассказать</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>ДОСОЧКА, ВСТАНЬКА И НЕЗНАЙКА</head>
+      <p>жила ослица сынка первого звали досочкой второго встанькой третьего незнайкой</p>
+      <p>пошла однажды речку воду набрала воды кувшины взвалила спину зашагала домой тихонько напевая пос какую песенку вырос пей голодный волк</p>
+      <p>попалась старая карга зарычал волк бросился ослица сказала</p>
+      <p>повелитель тебе мои старые кости пойдем мной бери любого моих ослят какого захочешь</p>
+      <p>волка слюпкп потекли представил молодого жирного осленка</p>
+      <p>согласился волк пойдем</p>
+      <p>говорит хитрая ослица</p>
+      <p>дорогой надоест тебе плестись бок бок мной старухой это дотащимся беги ка вон той блияшом дорогой прямо моему дому вызови имени любого осленка досочку встаньку незнайку забирай</p>
+      <p>л дорога которой отправился волк пе ближ ой самой дальней ослица побежала самым коротким путем вбежала свой дом заперлась вместе своими детьми</p>
+      <p>прошло немало времени домом появился запыхавшийся волк голоден сильнее прежнего волк толкнулся дверь увидел заперта стал звать</p>
+      <p>эй досочка</p>
+      <p>ослица изнутри</p>
+      <p>дверь тобой сделана чек тебе</p>
+      <p>волк постучал крикнул</p>
+      <p>эй тальк</p>
+      <p>задвижка встала свое место вновь ответила ослица</p>
+      <p>волк постучал третий</p>
+      <p>эй незнайка зарычал</p>
+      <p>это снаружи знаешь мыто доме знаем хором ответили ому мать дети</p>
+      <p>знал обманешь ух тобой разделался стал кричать волк</p>
+      <p>бесновался бесновался запертой дверью злости досады лопнул лопнул издох ослица дети вышли дома содрали волка шкуру сшили всем шубы одному рукавов другому воротпика третьему подола четвертому спилки зато всем шубе вышло нарядились свои обновки стали плясать напевать веселую песенку</p>
+      <p>сшили ту бейки</p>
+      <p>олушубки душегрейки</p>
+      <p>росту рукава</p>
+      <p>шкура волчья мала траля ля траля ля ля</p>
+      <p>песенка пляшут сюда пришел сказку рассказать</p>
+    </body>
+  </text>
+</TEI>

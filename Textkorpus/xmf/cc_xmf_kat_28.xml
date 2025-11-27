@@ -1,209 +1,219 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="kat">23. ბეჟანისა და მანიჟარის ზღაპარი</title>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
-     <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
-     <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
-     <distributor/>
-     <date when="1991">The year 1991</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="kat">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_28.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
-      <forename>Iosif Alekseevich</forename>
-      <surname>Kipshidze</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_kat_28">
-  <body>
-   <head>23. ბეჟანისა და მანიჟარის ზღაპარი</head>
-   <p>იყო ერთი ხელმწიფე. ჰყავდა სამი გმირი(„ტარიელი“): გივი, როსტომი და გურგენი. გივის ჰყავდა შვილი ბეჟანი, რომელიც იყო თერთმეტი წლისა. ეს ხალხი ისეთი ძლიერი იყვნენ, რომ სხვა სახელმწიფოსთან ბრძოლისას ყოველთვის გამარჯვებული გამოდიოდნენ („იყვნენ“). ამ ხელმწიფეს ჰქონდა ერთი სარკე: ყოველ აღდგომას შევიდოდა ოთახში და რომ დახედავდა სარკეს, ერთ წელიწადში რაც იქნებოდა, ყველაფერს იქ ნახავდა.</p>
-   <p>ერთხელ სამივე გმირები(!) („ტარიელები") წავიდნენ საყაჩაღოდ („სააბრაგოდ"). ესენი რომ მიდიოდნენ მაშინ ("იმასთან") ბეჟანმაც მოინდომა წასვლა.</p>
-   <p>-ჯერ („ცოტა ხანს“) ვერ გაგიყოლვბთო — უთხრეს, იმიტომ რომ პატარა იყო, მაგრამ ბეჟანმა არ დაიჯერა და გაიყოლეს. </p>
-   <p>ამ ყაჩაღობისას („აბრაგობის დროს“) ბეჟანმა სამივეზე უმეტესი საქმე ქნა. სახლში რომ მოვიდნენ, მაშინ მოვიდა ერთი თავმოტვლეპილი კაცი და თქვა: „დავიღუპეთო („დავიკარგეთო“)! აწი ჩვენი ყოფნა არაფრად არ ღირსო! საიდანღაც მოვიდნენ გარეული ტყიური ღორები და ჩვენი ყანები („მამული“) ამოაგდესო, ამოძირკვესო, არასდროს რომ არაფერი ეშველება, ისე“.</p>
-   <p>ამ დროს უთხრეს გურგენს: „წადიო შენ და გაწყვიტეო ის ღორები“. მაგრამ ბეჟანმა თქვა: „არაო, მე გამიშვითო, ოღონდ თქვენს ლახტზე თორმეტი ფუთით უმძიმესი რომ იყოს, ისეთი გამიჭედვინეთო“.</p>
-   <p>მისცეს ნება. ჩააცვეს თორნი ("ჯაჭვი“). ბიჭი წავიდა და წაჰყვა გურგენიც. რომ დაინახეს ღორები, ბიჭი შიგ გაერია. ერთხანს ღორებმა ვერ დაინახეს, მაგრამ მერმე რომ გაჰხედეს, ნახეს, რომ ბიჭი შუაში გასული დგას.</p>
-   <p>ერთმა ღორმა ეშვი გაკრა („აუქნია“) და ჯაჭვის ჩასაცმელი გაჭრა. მაშინ ბიჭს გული მოუვიდა და ყველა ერთად დაწყვიტა, ყველას ეშვი დააძრო, დააწყო, თორმეტი საჟენი შეიქნა. მერმე ("ახლა“) ჰკითხა გურგენს:</p>
-   <p>-ჩემისთანა ბიჭი არისო სადმე?</p>
-   <p>-შენისთანა ბიჭი არსად არ არისო, მაგრამ...</p>
-   <p>-„მაგრამ“-ს რომ ამბობ, რა არისო?</p>
-   <p>-რა არისო-და, ამა და ამ ადგილას არისო ერთი ირანის (!) („ქურანის“) ხელმწიფე. მას ქალიშვილი ჰყავსო მხზეთუნახავი, სახელი ჰქვიაო მანიჟარი და ცოლად ის გკუთნებია შენო.</p>
-   <p>ეს რომ გაიგონა ბეჟანმა, გამოვარდა და წავიდა. გურგენი შემოიქცა და სახლში მოვიღა და ბეჟანის ჯიბრზე ტყუილი თქვა, ვითომ ის ღორს დაეგლიჯოს. ძალიან შეწუხდნენ და ბევრი იტირეს, მაგრამ რა ექნათ?</p>
-   <p>ბეჟანი მივიდა ირანში, მოძებნა ხელმწიფის სახლ—კარი და შევიდა შიგ <pb n="261"/> ეზოში. ქალიშვილმა რომ გამოიხედა? დაინახა ბიჭი რომ მოდის. კაცი შეაგება და ამოიყვანა თავის ბინამი. ამან [ბეჟანმა] თავისი მშვილდი და ისარი იქ დადო. მეფემ რომ გაიგო ეს ამბავი, დაიბარა, მაგრამ ბიჭი. არ მივიდა, ხელმწიფის თავ-კაცები მივიდნენ და სთხოვეს, რომ წამოსულიყო. ბიჭმა წამოსვლა დააპირა იარაღიანად, მაგრამ „ხელმწიფესთან იარაღიანად არ მიისვლებაო“, — უთხრეს. დაუჯერა და წავიდა უიარაღოდ, მაგრამ რომ მივიდა, დაიჭირეს და გადაუწყვიტეს ჩანგალზე წამოგება. ამ დროს ერთი უფროსი ვეზირი არ იყო [სასახლეში]. ბიჭი მოსაკლავად რომ მიჰყავდათ, მაშინ („ისე“) მოუსწრო. იცნო ბიჭი და დაიწყო ხმამაღალი ჩხუბი: „ეს მოსაკლავი არ არისო“, და გააშვებინა. მაგრამ მაინც არ დაიჯერეს და სამოცი ადლი სიღრმის ორმოში ("თხრილ მიწაში“) ჩასვეს. ამას ზევით მოაჭედეს, სამ უღელ კამეჩს რომ არ შეეძლო წამოეღო, იმხელა ("[იმ] ფერი“) რკინა. თავზე ცოტა ნახვრეტი დატოვეს („მისცეს“) საჭმლის ჩასაშვებად, ხელმწიფის გოგო მსახურად დაუყენეს. ეს გოგო არჩენდა ბიჭს ნათხოვარი საჭმლით. </p>
-   <p>ამასობაში („იმდენ ხანს“) მოაწია აღდგომამ. რომ დახედა ხელმწიფემ სარკეს, ქე არ ნახა ბეჟანი, ორმოში („თხრილში“) რომ ზის. დაუძახა გივის: „გახარებო: შენი ბიჭი ცოცხალი ყოფილაო“ და თავისი თვალით დაანახვა. გაიხარა გივიმ და თქვა: აწი არაფერი მიჭირსო („არაფერიაო“).</p>
-   <p>გამოეწყვნენ გივი, როსტომი და გურგენი. წაიყვანეს ბიჭები, წაიღეს თორმეტი ჯორის დატვირთვა საჭმელი, სასმელი, იარაღი და წავიდნენ. მივიდნენ ირანის ხელმწიფის სამოსახლოში: „ვაჭრები ვართო და შეგვიშვითო“. ხელმწიფეს [ეს] მოახსენეს; შეუშვეს. რომ შევიდნენ, ქალიშვილს დაუწყეს ბიჭისთვის საჭმელების მიცემა („ძლევა“). ბიჭმა გაიკვირვა და ჰკითხა:</p>
-   <p>-ვინ მოგცა ამგვარი საჭმელები?</p>
-   <p>-ასეთი და ასეთი კაცები მოვიდნენო: — უთხრა ქალიშვილმა.</p>
-   <p>ბიჭი მიხვდა, თუ ვინ იყვნენ („იყო“) ისინი და თქვა: ,აწი არა მიშავსო („არაფერიო“). </p>
-   <p>როცა ბიჭს ღონე მიეცა, სამივე გმირებმა (!) („ტარიელებმა“) გადააგდეს ორმოს სახურავი („საფარავი“). ბიჭმა ისკუპა და ზევით დახტა; ხელი მოჰკიდა გოგოს, მამას ჩააბარა და თვით გაიქცა თავის მშვილდისა და ისისკენ. ის იქ დებულიყო თურმე: ისეთი მძიმე ყოფილიყო, რომ კაცს ვერ აეღო, სტაცა ხელი ამას, დაერია ხელმწიფესა და მის ჯარს. ყველა ერთად გაწყვიტა, დატოვა მარტო ის ვეზირი, რომელიც მოეხმარა, და სახელმწიფო მას აჩუქა. მან და მისმა გმირებმა („ტარიელებმა“) ქალიშვილი წამოიყვანეს და თავიანთ სახლში წამოვიდნენ. სახლში რომ მოვიდნენ, შეიქნა მხიარულობა, ნადიმი და ლხინი.</p>
-   <p>როცა დაწყნარდნენ, გურგენს მოსთხოვა ბეჟანმა პასუხი: „შენ ტყუილი რატომ თქვიო ჩემზე: „ღორმა დაგლიჯაო“?</p>
-   <p>მომრიგებლებმა ჩხუბი დაუშალეს, მაგრამ მაინც ითხთვა ბეჟანმა: <pb n="263"/></p>
-   <p>"სამი ვაშლი მომეცითო და მას მაინც ვესვრიო“.</p>
-   <p>მისცეს ვაშლები, დააყენეს გურგენი შორს. მოიქნია და ესროლა ვაშლი, მოხვდა გურგენს გულში და მეორე მხარეს გავიდა. მოკვდა გურგენი, აიღეს და დაფლეს: —„ამის ღირსი ყოფილხარ, თორემ ვაშლმა რატომ მოგკლაო!" - თქვეს.</p>
-   <p>წუხელ იქ ვიყავი და დღეს აქ მოვედი.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">23. ბეჟანისა და მანიჟარის ზღაპარი</title>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
+          <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
+          <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
+          <distributor/>
+          <date when="1991">The year 1991</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_28.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">
+            133697460&gt;
+            <forename>Iosif Alekseevich</forename>
+            <surname>Kipshidze</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_kat_28">
+    <body>
+      <head>23. ბეჟანისა და მანიჟარის ზღაპარი</head>
+      <p>იყო ერთი ხელმწიფე. ჰყავდა სამი გმირი(„ტარიელი“): გივი, როსტომი და გურგენი. გივის ჰყავდა შვილი ბეჟანი, რომელიც იყო თერთმეტი წლისა. ეს ხალხი ისეთი ძლიერი იყვნენ, რომ სხვა სახელმწიფოსთან ბრძოლისას ყოველთვის გამარჯვებული გამოდიოდნენ („იყვნენ“). ამ ხელმწიფეს ჰქონდა ერთი სარკე: ყოველ აღდგომას შევიდოდა ოთახში და რომ დახედავდა სარკეს, ერთ წელიწადში რაც იქნებოდა, ყველაფერს იქ ნახავდა.</p>
+      <p>ერთხელ სამივე გმირები(!) („ტარიელები&quot;) წავიდნენ საყაჩაღოდ („სააბრაგოდ&quot;). ესენი რომ მიდიოდნენ მაშინ (&quot;იმასთან&quot;) ბეჟანმაც მოინდომა წასვლა.</p>
+      <p>-ჯერ („ცოტა ხანს“) ვერ გაგიყოლვბთო — უთხრეს, იმიტომ რომ პატარა იყო, მაგრამ ბეჟანმა არ დაიჯერა და გაიყოლეს. </p>
+      <p>ამ ყაჩაღობისას („აბრაგობის დროს“) ბეჟანმა სამივეზე უმეტესი საქმე ქნა. სახლში რომ მოვიდნენ, მაშინ მოვიდა ერთი თავმოტვლეპილი კაცი და თქვა: „დავიღუპეთო („დავიკარგეთო“)! აწი ჩვენი ყოფნა არაფრად არ ღირსო! საიდანღაც მოვიდნენ გარეული ტყიური ღორები და ჩვენი ყანები („მამული“) ამოაგდესო, ამოძირკვესო, არასდროს რომ არაფერი ეშველება, ისე“.</p>
+      <p>ამ დროს უთხრეს გურგენს: „წადიო შენ და გაწყვიტეო ის ღორები“. მაგრამ ბეჟანმა თქვა: „არაო, მე გამიშვითო, ოღონდ თქვენს ლახტზე თორმეტი ფუთით უმძიმესი რომ იყოს, ისეთი გამიჭედვინეთო“.</p>
+      <p>მისცეს ნება. ჩააცვეს თორნი (&quot;ჯაჭვი“). ბიჭი წავიდა და წაჰყვა გურგენიც. რომ დაინახეს ღორები, ბიჭი შიგ გაერია. ერთხანს ღორებმა ვერ დაინახეს, მაგრამ მერმე რომ გაჰხედეს, ნახეს, რომ ბიჭი შუაში გასული დგას.</p>
+      <p>ერთმა ღორმა ეშვი გაკრა („აუქნია“) და ჯაჭვის ჩასაცმელი გაჭრა. მაშინ ბიჭს გული მოუვიდა და ყველა ერთად დაწყვიტა, ყველას ეშვი დააძრო, დააწყო, თორმეტი საჟენი შეიქნა. მერმე (&quot;ახლა“) ჰკითხა გურგენს:</p>
+      <p>-ჩემისთანა ბიჭი არისო სადმე?</p>
+      <p>-შენისთანა ბიჭი არსად არ არისო, მაგრამ...</p>
+      <p>-„მაგრამ“-ს რომ ამბობ, რა არისო?</p>
+      <p>-რა არისო-და, ამა და ამ ადგილას არისო ერთი ირანის (!) („ქურანის“) ხელმწიფე. მას ქალიშვილი ჰყავსო მხზეთუნახავი, სახელი ჰქვიაო მანიჟარი და ცოლად ის გკუთნებია შენო.</p>
+      <p>ეს რომ გაიგონა ბეჟანმა, გამოვარდა და წავიდა. გურგენი შემოიქცა და სახლში მოვიღა და ბეჟანის ჯიბრზე ტყუილი თქვა, ვითომ ის ღორს დაეგლიჯოს. ძალიან შეწუხდნენ და ბევრი იტირეს, მაგრამ რა ექნათ?</p>
+      <p>
+        ბეჟანი მივიდა ირანში, მოძებნა ხელმწიფის სახლ—კარი და შევიდა შიგ 
+        <pb n="261"/>
+         ეზოში. ქალიშვილმა რომ გამოიხედა? დაინახა ბიჭი რომ მოდის. კაცი შეაგება და ამოიყვანა თავის ბინამი. ამან [ბეჟანმა] თავისი მშვილდი და ისარი იქ დადო. მეფემ რომ გაიგო ეს ამბავი, დაიბარა, მაგრამ ბიჭი. არ მივიდა, ხელმწიფის თავ-კაცები მივიდნენ და სთხოვეს, რომ წამოსულიყო. ბიჭმა წამოსვლა დააპირა იარაღიანად, მაგრამ „ხელმწიფესთან იარაღიანად არ მიისვლებაო“, — უთხრეს. დაუჯერა და წავიდა უიარაღოდ, მაგრამ რომ მივიდა, დაიჭირეს და გადაუწყვიტეს ჩანგალზე წამოგება. ამ დროს ერთი უფროსი ვეზირი არ იყო [სასახლეში]. ბიჭი მოსაკლავად რომ მიჰყავდათ, მაშინ („ისე“) მოუსწრო. იცნო ბიჭი და დაიწყო ხმამაღალი ჩხუბი: „ეს მოსაკლავი არ არისო“, და გააშვებინა. მაგრამ მაინც არ დაიჯერეს და სამოცი ადლი სიღრმის ორმოში (&quot;თხრილ მიწაში“) ჩასვეს. ამას ზევით მოაჭედეს, სამ უღელ კამეჩს რომ არ შეეძლო წამოეღო, იმხელა (&quot;[იმ] ფერი“) რკინა. თავზე ცოტა ნახვრეტი დატოვეს („მისცეს“) საჭმლის ჩასაშვებად, ხელმწიფის გოგო მსახურად დაუყენეს. ეს გოგო არჩენდა ბიჭს ნათხოვარი საჭმლით. 
+      </p>
+      <p>ამასობაში („იმდენ ხანს“) მოაწია აღდგომამ. რომ დახედა ხელმწიფემ სარკეს, ქე არ ნახა ბეჟანი, ორმოში („თხრილში“) რომ ზის. დაუძახა გივის: „გახარებო: შენი ბიჭი ცოცხალი ყოფილაო“ და თავისი თვალით დაანახვა. გაიხარა გივიმ და თქვა: აწი არაფერი მიჭირსო („არაფერიაო“).</p>
+      <p>გამოეწყვნენ გივი, როსტომი და გურგენი. წაიყვანეს ბიჭები, წაიღეს თორმეტი ჯორის დატვირთვა საჭმელი, სასმელი, იარაღი და წავიდნენ. მივიდნენ ირანის ხელმწიფის სამოსახლოში: „ვაჭრები ვართო და შეგვიშვითო“. ხელმწიფეს [ეს] მოახსენეს; შეუშვეს. რომ შევიდნენ, ქალიშვილს დაუწყეს ბიჭისთვის საჭმელების მიცემა („ძლევა“). ბიჭმა გაიკვირვა და ჰკითხა:</p>
+      <p>-ვინ მოგცა ამგვარი საჭმელები?</p>
+      <p>-ასეთი და ასეთი კაცები მოვიდნენო: — უთხრა ქალიშვილმა.</p>
+      <p>ბიჭი მიხვდა, თუ ვინ იყვნენ („იყო“) ისინი და თქვა: ,აწი არა მიშავსო („არაფერიო“). </p>
+      <p>როცა ბიჭს ღონე მიეცა, სამივე გმირებმა (!) („ტარიელებმა“) გადააგდეს ორმოს სახურავი („საფარავი“). ბიჭმა ისკუპა და ზევით დახტა; ხელი მოჰკიდა გოგოს, მამას ჩააბარა და თვით გაიქცა თავის მშვილდისა და ისისკენ. ის იქ დებულიყო თურმე: ისეთი მძიმე ყოფილიყო, რომ კაცს ვერ აეღო, სტაცა ხელი ამას, დაერია ხელმწიფესა და მის ჯარს. ყველა ერთად გაწყვიტა, დატოვა მარტო ის ვეზირი, რომელიც მოეხმარა, და სახელმწიფო მას აჩუქა. მან და მისმა გმირებმა („ტარიელებმა“) ქალიშვილი წამოიყვანეს და თავიანთ სახლში წამოვიდნენ. სახლში რომ მოვიდნენ, შეიქნა მხიარულობა, ნადიმი და ლხინი.</p>
+      <p>როცა დაწყნარდნენ, გურგენს მოსთხოვა ბეჟანმა პასუხი: „შენ ტყუილი რატომ თქვიო ჩემზე: „ღორმა დაგლიჯაო“?</p>
+      <p>
+        მომრიგებლებმა ჩხუბი დაუშალეს, მაგრამ მაინც ითხთვა ბეჟანმა: 
+        <pb n="263"/>
+      </p>
+      <p>&quot;სამი ვაშლი მომეცითო და მას მაინც ვესვრიო“.</p>
+      <p>მისცეს ვაშლები, დააყენეს გურგენი შორს. მოიქნია და ესროლა ვაშლი, მოხვდა გურგენს გულში და მეორე მხარეს გავიდა. მოკვდა გურგენი, აიღეს და დაფლეს: —„ამის ღირსი ყოფილხარ, თორემ ვაშლმა რატომ მოგკლაო!&quot; - თქვეს.</p>
+      <p>წუხელ იქ ვიყავი და დღეს აქ მოვედი.</p>
+    </body>
+  </text>
 </TEI>

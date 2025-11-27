@@ -1,128 +1,145 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/573115/bol-shoy-gotsatl.html"> Gotsatl’ </settlement>
-       <geo />
-      </placeName>
-      <date>1952</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Патиналаев</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Д.</forename>
-        <surname xml:lang="rus">Атаев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/573115/bol-shoy-gotsatl.html"> Gotsatl’ </settlement>
+          <geo/>
+        </placeName>
+        <date>1952</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Патиналаев</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Д.</forename>
+            <surname xml:lang="rus">Атаев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_118">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_118">
     <body>
-     <head>86. Девушка и нарты</head>
-     <p>давным давно одном городов дагестана жил известный бахарчи слава подвигах гремела далеко пределами страны городе начали исчезать другим самые удалые джигиты оставалось никаких следов человек исчезал струйка кизячного дыма</p><p>многие удальцы всполошились каждый ожидал своей очереди</p><p>тревожно сердце нашего бахарчи хотя храбрость испытана</p><p>однажды глубокой ночью ворота дома громко постучали раздался чей голос выходи бахарчи хотел выйти жена сказала</p><p>покидает дом полуодетым джигит должен выйти полной готовности оседлаю коня временем оденься вооружись</p><p>вскоре бахарчи полном вооружении вышел ворота ведя собой оседланного коня темноте увидел всадника который знаком предлагал следовать собой бахарчи повиновался</p><p>выбрались город молча поехали впереди незнакомец бахарчи</p><p>приблизились какому замку незнакомец сказал</p><p>оставайся около коней жди</p><p>бахарчи молча повиновался</p><p>незнакомец перелез стену исчез скоро дворца послышались ужасные крики звон шашек кони рванулись разные стороны бахарчи удержал ободрав кожу обеих рук стеной стихло незнакомец вернулся вытер саблю прыгнул седло</p><p>готов задумчиво сказал тронул поводья бахарчи последовал сказав слова</p><p>подъезжали двум замкам каждый повторялось незнакомец молча перелезал стену затем раздавались ужасные вопли сабельный звон третьего замка незнакомец вышел шатаясь трудом взобрался коня</p><p>кончено сказал повернул обратно городу</p><p>стало светать всадники добрались города незнакомец поехал кладбищенской дороге слез около свежевырытой могилы подошел четырем стоящим рядом могильным плитам снял шапку длинные золотистые волосы рассыпались плечам бахарчи изумлением увидел это девушка</p><p>слушай джигит начала свой рассказ недавно счастливо жила своими тремя братьями ночь моей свадьбой нарта слугами предательски напали умертвили моих братьев моего жениха знала этих нартов несколько сватали получали отказ</p><p>давно собиралась отомстить подлым нартам нужен надежный помощник отправилась самым прославленным джигитам встретила достойного зов одни выходили оружия другие рубашки третьи просто нижнем белье поняла всем городе осталось настоящего джигита гневе поубивала этих недостойных людей слава которых похожа призрак выбор остановился тебе явился зов достойно знаю чья это заслуга твоя твоей жены последнем замке челядь младшего нарта смертельно ранила прошу исполнить мою просьбу похоронить могиле рядом братьями</p><p>говори таких слов закричал бахарчи вызову самых лучших лекарей будешь долго жить буду твоим братом жена сестрой</p><p>ранена равно должна умереть жить любимого близких девушка упала замертво</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>86. Девушка и нарты</head>
+      <p>давным давно одном городов дагестана жил известный бахарчи слава подвигах гремела далеко пределами страны городе начали исчезать другим самые удалые джигиты оставалось никаких следов человек исчезал струйка кизячного дыма</p>
+      <p>многие удальцы всполошились каждый ожидал своей очереди</p>
+      <p>тревожно сердце нашего бахарчи хотя храбрость испытана</p>
+      <p>однажды глубокой ночью ворота дома громко постучали раздался чей голос выходи бахарчи хотел выйти жена сказала</p>
+      <p>покидает дом полуодетым джигит должен выйти полной готовности оседлаю коня временем оденься вооружись</p>
+      <p>вскоре бахарчи полном вооружении вышел ворота ведя собой оседланного коня темноте увидел всадника который знаком предлагал следовать собой бахарчи повиновался</p>
+      <p>выбрались город молча поехали впереди незнакомец бахарчи</p>
+      <p>приблизились какому замку незнакомец сказал</p>
+      <p>оставайся около коней жди</p>
+      <p>бахарчи молча повиновался</p>
+      <p>незнакомец перелез стену исчез скоро дворца послышались ужасные крики звон шашек кони рванулись разные стороны бахарчи удержал ободрав кожу обеих рук стеной стихло незнакомец вернулся вытер саблю прыгнул седло</p>
+      <p>готов задумчиво сказал тронул поводья бахарчи последовал сказав слова</p>
+      <p>подъезжали двум замкам каждый повторялось незнакомец молча перелезал стену затем раздавались ужасные вопли сабельный звон третьего замка незнакомец вышел шатаясь трудом взобрался коня</p>
+      <p>кончено сказал повернул обратно городу</p>
+      <p>стало светать всадники добрались города незнакомец поехал кладбищенской дороге слез около свежевырытой могилы подошел четырем стоящим рядом могильным плитам снял шапку длинные золотистые волосы рассыпались плечам бахарчи изумлением увидел это девушка</p>
+      <p>слушай джигит начала свой рассказ недавно счастливо жила своими тремя братьями ночь моей свадьбой нарта слугами предательски напали умертвили моих братьев моего жениха знала этих нартов несколько сватали получали отказ</p>
+      <p>давно собиралась отомстить подлым нартам нужен надежный помощник отправилась самым прославленным джигитам встретила достойного зов одни выходили оружия другие рубашки третьи просто нижнем белье поняла всем городе осталось настоящего джигита гневе поубивала этих недостойных людей слава которых похожа призрак выбор остановился тебе явился зов достойно знаю чья это заслуга твоя твоей жены последнем замке челядь младшего нарта смертельно ранила прошу исполнить мою просьбу похоронить могиле рядом братьями</p>
+      <p>говори таких слов закричал бахарчи вызову самых лучших лекарей будешь долго жить буду твоим братом жена сестрой</p>
+      <p>ранена равно должна умереть жить любимого близких девушка упала замертво</p>
+    </body>
+  </text>
+</TEI>

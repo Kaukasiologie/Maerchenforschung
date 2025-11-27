@@ -1,212 +1,223 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="kat">18. სამი ძმისა და დევის ზღაპარი</title>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
-     <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
-     <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
-     <distributor/>
-     <date when="1991">The year 1991</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="kat">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_23.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
-      <forename>Iosif Alekseevich</forename>
-      <surname>Kipshidze</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_kat_23">
-  <body>
-   <head>18. სამი ძმისა და დევის ზღაპარი</head>
-   <p>ყოფილა, ყოფილა ერთი ხელმწიფე და ჰყოლია სამი შვილი, სამივე ერთიმეორეზე უკეთესი შესახედავად. ხელმწიფემ იგრძნო სიკვდილის მოახლოვება, დაუძახა თავის სამივე შვილს და, უთხრა: „მე რომ ვკვდები, ამას</p>
-   <p>თქვენც ხედავთ; მაგრამ სიკვდილამდე („სიკვდილის დღემდე”) ერთი რაღაცა („რაღაც რომ არის”) მაქვს თქვენთვის დასაბარები და კარგად დაიმახსოვრეთ, რასაც დაგიბარებთ: ჩემი სახელმწიფო დიდი არის და ვრცელი</p>
-   <p>(„ფართო“), მინდორი და ტყე ერთმანეთისხელა, მთა და ბარი — თანასწორი. ყველგან („ყველა მიწაზე“) იარეთ, ყველა ქვეყანა მოიარეთ, ყველაფერი ნახეთ, მაგრამ არ გაგიწყრეთ ღმერთი და ჩემს სახლ–კართან რო ტყე არის,</p>
-   <p>იმ ტყეში სანადიროდ არ წახვიდეთ. პატივი ეცით ერთმანეთს, გიყვარდეთ ერთმანეთი; გაჭირვების დროს ეხმარებოდეთ ერთი–მეორეს და სიცოცხლე არ დაზოგოთ კარგი საქმისათვის. ჩემს ქონებას ერთად, გაუყოფლად გიტოვებთ და აბა, შვულებო, თქვენ იცით, თქვენი გლახა საქმით მე სულს თუ არ წარმიწყმედთ („წამიხდენთ“) და სიყვარულით თუ იცხოვრებთო“. თქვა ეს და ხელმწიფე მოკვდა. შვილებმა, როგორც შეეფერებოდა, ისე დაიტირეს და ისე დაასაფლავეს მამა. გავიდა ბევრი ხანი. შვილებმა მამა გამოიგლოვეს. ცხოვრობდნენ, როგორც დაბარებული ჰქონდა მამას და რაიმე ცუდი („გლახა“) მათ არ შემთხვევიათ.</p>
-   <p>ერთ დღეს უფროსი ძმა სანადიროდ წავიდა. წასვლის დროს შუათანა და უმცროსმა ძმებმა მამის ნათქვამი გაახსენეს. უფროსმა ძმამ შეკაზმა რაში და წავიდა. გავიდა ერთი დღე, ორი, მაგრამ უფროსი ძმა არ გამოჩნდა.</p>
-   <p>ჯერ კიდევ იმედს არ კარგავდნენ ხელმწიფის შვილები და ყოველ დღე ელოდნენ, მაგრამ არ იქნა [და არა] მისი მოსვლა. მაშინ შუათანა ძმა გამოუდგა [მას], სახლში მარტო უმცროსი დარჩა. ამანაც უცადა („უყურა“) რამდენიმე დღეს და, როცა არც ერთი მოვიდა და არც მეორე, გადაწყვიტა ძმების მოძებნა. მიალაგა სახლში ყველაფერი, დაადგა რაშს უნაგირი, მოტრიალდა მარჯვნივ და წავიდა. ის მაშინვე მიხვდა თუ საით წავიდოდნენ</p>
-   <p>მისი ძმები და ტყისკენ გაქუსლა რაში. ახლოს რომ მივიდა, რაშის ფლოქვის ნადგამი იცნო. მაშინვე იცნო თავის ძმების რაშების ფეხის ნადგამი. სტკიცა რაშს მათრახი და თვალის დახამხამებისას ტყის შუაგულში გაჩნდა. ისეთი ბნელი („უკუნი“) იყო ტყის [შუა] გულში, რომ თვალთან თითს ვერ მიიტანდა [კაცი]. მაგრამ ისეთ რაშზე იჯდა ეს ბიჭი, რომ თვალებიდან ნაკვერცხლებს („ცეცხლს“) ყრიდა და იმის სინათლით გზას ინათებდა</p>
-   <p>(„ინახვებდა“) ხელმწიფის შვილი. იარა ერთი დღე, იარა მეორე, ბევრი იარა და აჰა, ბოლოს სამი წლის შემდეგ შორს, თვალის მისაწვდომზე, ყვავის თავის ხელა (“სიმსხო“) სინათლე დაინახა. ბიჭს იმედი მიეცა. სტკიცა</p>
-   <p>მათრახი რაშს და ქარის სისწრაფით („სიმალით”) ერთ დიდ მინდორში შევარდა („შეირბინა“). ამ მინდორზე ისეთი სინათლე იყო, ისეთი, რომ ჯერ თვალი ვერ გაახილა. მაგრამ როცა შეაჩვია თვალი, სასწაული („სა–</p>
-   <p>არაკო“) რაღაც ნახა: ამ მინდორში რომ ერთი ოდა  <pb n="237"/> დგას, ხედავს სინათლე იქიდან არის, რომ ყველაფვრს ანათებს. კარებში შევიდა. ეზოში, ჰეი, მასპინძელოო: დიაიძახა ერთხელ, ორჯერ, სამჯერ, მაგრამ, შენი თავი არ მომიკვდეს მეტად, არავინ ძე ხორციელმა სამაგიერო პასუხი არ გასცა. მაშინ ჩამოხტა რაშიდან, მიაბა ხეს და ავიდა აივანზე; გაიხედა, გამოიხედა იქით-აქით, ვერავინ ნახა. დაიარა ყველა ოთახი და ბოლოს ერთ დაკეტილ ოთახს მიადგა. დააკაკუნა: მაგრამ პასუხი არავინ არ გასცა. რომ მიაწვა კარს, არ გაიღო. მოუვიდა გული, მოიქნია ფეხი ("ქუსლი") და ჰკრა მაგრად კარებს. კარი ფიჩხივით დაამტვრია („გადააქცია“) და შევიდა. რომ შევიდა და გაიხედა, ერთი ზღაპრულად („საარაკოდ“) ლამაზი, მზეთუნახავივით ქალიშვილი რომ ზის და ტირის, დაინახა. ბიჭმა მიიწია ახლოს. ქალიშვილმა რომ ნახა ხელმწიფის შვილი, ტირილი მიატოვა. ცოტა ხანს ასე მუნჯივით უცქეროდნენ ერთმანეთს და ბოლოს ბიჭმა ჰკითხა:</p>
-   <p>—ვინ ხარ შენო?</p>
-   <p>მე ზღვის ხელმწიფის ქალიშვილი ვარ და ახლა დევს ვყავარ დაჭერილიო.</p>
-   <p>-სად არის ის დევიო?  -ჰკითხა ბიჭმა</p>
-   <p>—ახლა სანადიროდ წავიდა, ალბათ, მალე დაბრუნდება და ცუდ დღეს დაგაყენებს შენო, -უთხოა ქალიშვილმა.</p>
-   <p>—არ შეგეშინდეს, ის მე („ჩემთვის“) ვერაფერს მიზამს, მაგის თვალის სეირს განახვებო, -უთხრა ბიჭმა.</p>
-   <p>-ვაი, მეტი რა გითხრა, („იმის მეტი“) შენ მაგას ვერაფერი უქნა; ამ დღეებში ვიღაც ("ვიღაც რომ იყო") ორი ბიჭი მოვიდა დევმა ორივე მოკლა და სახლში ქვემოთ უსვენია. შენი მოსვლაც არ გაუხაოდება იმ წყეულს და</p>
-   <p>გთხოვ: ან დაიმალე, ანდა გასწი იქითო, — სთხოვა ქალიშვილმა.</p>
-   <p>-თუ შენ ჩემს ცოლობაზე უარს არ იტყვი, აქიდანაც წაგიყვან დევსაც მოვკლავ და ჩემს ძმებსაც გავაცოცხლებინებ შენს მომტაცებელ დევსო. ქალიშვილი თანახმა გახდა. ძალიან ეწყინა, როცა გაიგო, რომ ის მკვდრები ამ ბიჭის ძმები იყვნენ. უმცროსმა ძმამ აასვენა თავისი ძმები ზემოთ ოდაში, ლოგინზე დაასვენა და აივანზე გავიდნვნ ორივე ცოლი და ქმარი. უცებ, როცა ერთმანეთს ეხვეოდნენ და ეხუტებოდნენ, გაიხედეს, დევი რომ ქვეყანას („მიწა-შავს") აქცევს და მოდის, დაინახეს. შევიდა დევი ეზოში და რაში რომ დაინახა, შეჭმა მოუნდომა. ბიჭმა დაუძახა აივნიდან:</p>
-   <p>-არ გაგიწყრეს ღმერთი და რაში არ შეჭამოო.</p>
-   <p>დევმა აიხედა ზევით და ხვლმწიფის შვილი რომ მზეთუნახავთან დაინახა ერთი უშნოდ დაიღრიალა და დაუძახა ბიჭს:</p>
-   <p>-როგორ გაბედე, შე გლახა, და უჩემოდ როგორ გატეხე ჩემი ოთახის კარიო!</p>
-   <p>-ეს შენი საქმე არ არის და, თუ როგორ გავბედე, ამას ახლავე დაგანახვებო, დაუძახა ბიჭმა და ჩავიდა ძირს.</p>
-   <p>დევი პირიდან ნაკვერცხლებს ("ცეცხლს") ყრიდა, ისეთი გულმოსული <pb n="239"/> იყო,მაგრამ ხელმწიფის ბიჭმა ბევრი აცალა, [მძლავრად] ეკვეთნენ ერთმანეთს. სამ დღე [...] მიწაში ჩაასო. მოიხსნა („მოიგლიჯა“) ხმალი და, რომ უნდოდა თავი წაეცალა დევისთვის მაშინ დევი შეეხვეწა: </p>
-   <p>-არ მომკლა და რაც გინდა შეგისრულებო.</p>
-   <p>-აბა ჩემი ძმები გამიცოცხლე („გამიმრთელე“) და მერმე ამ მხარეს შენი ფეხი („ბუნდღა") არ ვნახოო, – უთხრა.</p>
-   <p>ამოიყვანა დევი მიწიდან და მკვდარ ძმებთან მიიყვანა. დევმა დააფურთხა ორივეს და გააცოცხლა: "უჰ, ·ღმერთო ჩემო, რამდენ ხანს გვძინებიაო“,-თქვა ორივემ. გაიხედეს და თავიანთი უმცროსი ძმა დაინახეს. გადაეხვივნენ ერთმანეთს და როცა ყველაფერი გაიგეს, კიდევ უფრო გაუხარდათ. დევი იმწამსვე გადაიკარგა და მერმე მისი კვალი არ უნახავს არც ერთ სულდგმულს („სულდგმულ კაცს"). ბევრი დრო გაატარეს ერთად მხიარულად და ბოლოს უფროსი და შუათანა ძმები თავიანთ სახელმწიფოში წავიდნენ. უმცროსი [კი] აქ დარჩა. იმის („იმ ჟამის“) შემდეგ სამივე ძმა ბედნიერად ცხოვრობდა. ვერავინ ვერ ბედვადა მათზე თავდასხმას და ისე დააშინეს ყველა („ყველა კაცი“), რომ მათ სახელმწიფოში მიწაზე ფეხის დადგმისაც კი ეშინოდათ. ზევით ჩიტს არ გადაიფრენდნენ [უკითხავად] და ქვემოთ ჭიანჭველა ვერ გაივლიდა („იხოხებდა').</p>
-   <p>წუხელ იქ ვიყავი და დღეს აქ გეახელით.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">18. სამი ძმისა და დევის ზღაპარი</title>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
+          <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
+          <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
+          <distributor/>
+          <date when="1991">The year 1991</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_23.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">
+            133697460&gt;
+            <forename>Iosif Alekseevich</forename>
+            <surname>Kipshidze</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_kat_23">
+    <body>
+      <head>18. სამი ძმისა და დევის ზღაპარი</head>
+      <p>ყოფილა, ყოფილა ერთი ხელმწიფე და ჰყოლია სამი შვილი, სამივე ერთიმეორეზე უკეთესი შესახედავად. ხელმწიფემ იგრძნო სიკვდილის მოახლოვება, დაუძახა თავის სამივე შვილს და, უთხრა: „მე რომ ვკვდები, ამას</p>
+      <p>თქვენც ხედავთ; მაგრამ სიკვდილამდე („სიკვდილის დღემდე”) ერთი რაღაცა („რაღაც რომ არის”) მაქვს თქვენთვის დასაბარები და კარგად დაიმახსოვრეთ, რასაც დაგიბარებთ: ჩემი სახელმწიფო დიდი არის და ვრცელი</p>
+      <p>(„ფართო“), მინდორი და ტყე ერთმანეთისხელა, მთა და ბარი — თანასწორი. ყველგან („ყველა მიწაზე“) იარეთ, ყველა ქვეყანა მოიარეთ, ყველაფერი ნახეთ, მაგრამ არ გაგიწყრეთ ღმერთი და ჩემს სახლ–კართან რო ტყე არის,</p>
+      <p>იმ ტყეში სანადიროდ არ წახვიდეთ. პატივი ეცით ერთმანეთს, გიყვარდეთ ერთმანეთი; გაჭირვების დროს ეხმარებოდეთ ერთი–მეორეს და სიცოცხლე არ დაზოგოთ კარგი საქმისათვის. ჩემს ქონებას ერთად, გაუყოფლად გიტოვებთ და აბა, შვულებო, თქვენ იცით, თქვენი გლახა საქმით მე სულს თუ არ წარმიწყმედთ („წამიხდენთ“) და სიყვარულით თუ იცხოვრებთო“. თქვა ეს და ხელმწიფე მოკვდა. შვილებმა, როგორც შეეფერებოდა, ისე დაიტირეს და ისე დაასაფლავეს მამა. გავიდა ბევრი ხანი. შვილებმა მამა გამოიგლოვეს. ცხოვრობდნენ, როგორც დაბარებული ჰქონდა მამას და რაიმე ცუდი („გლახა“) მათ არ შემთხვევიათ.</p>
+      <p>ერთ დღეს უფროსი ძმა სანადიროდ წავიდა. წასვლის დროს შუათანა და უმცროსმა ძმებმა მამის ნათქვამი გაახსენეს. უფროსმა ძმამ შეკაზმა რაში და წავიდა. გავიდა ერთი დღე, ორი, მაგრამ უფროსი ძმა არ გამოჩნდა.</p>
+      <p>ჯერ კიდევ იმედს არ კარგავდნენ ხელმწიფის შვილები და ყოველ დღე ელოდნენ, მაგრამ არ იქნა [და არა] მისი მოსვლა. მაშინ შუათანა ძმა გამოუდგა [მას], სახლში მარტო უმცროსი დარჩა. ამანაც უცადა („უყურა“) რამდენიმე დღეს და, როცა არც ერთი მოვიდა და არც მეორე, გადაწყვიტა ძმების მოძებნა. მიალაგა სახლში ყველაფერი, დაადგა რაშს უნაგირი, მოტრიალდა მარჯვნივ და წავიდა. ის მაშინვე მიხვდა თუ საით წავიდოდნენ</p>
+      <p>მისი ძმები და ტყისკენ გაქუსლა რაში. ახლოს რომ მივიდა, რაშის ფლოქვის ნადგამი იცნო. მაშინვე იცნო თავის ძმების რაშების ფეხის ნადგამი. სტკიცა რაშს მათრახი და თვალის დახამხამებისას ტყის შუაგულში გაჩნდა. ისეთი ბნელი („უკუნი“) იყო ტყის [შუა] გულში, რომ თვალთან თითს ვერ მიიტანდა [კაცი]. მაგრამ ისეთ რაშზე იჯდა ეს ბიჭი, რომ თვალებიდან ნაკვერცხლებს („ცეცხლს“) ყრიდა და იმის სინათლით გზას ინათებდა</p>
+      <p>(„ინახვებდა“) ხელმწიფის შვილი. იარა ერთი დღე, იარა მეორე, ბევრი იარა და აჰა, ბოლოს სამი წლის შემდეგ შორს, თვალის მისაწვდომზე, ყვავის თავის ხელა (“სიმსხო“) სინათლე დაინახა. ბიჭს იმედი მიეცა. სტკიცა</p>
+      <p>მათრახი რაშს და ქარის სისწრაფით („სიმალით”) ერთ დიდ მინდორში შევარდა („შეირბინა“). ამ მინდორზე ისეთი სინათლე იყო, ისეთი, რომ ჯერ თვალი ვერ გაახილა. მაგრამ როცა შეაჩვია თვალი, სასწაული („სა–</p>
+      <p>
+        არაკო“) რაღაც ნახა: ამ მინდორში რომ ერთი ოდა  
+        <pb n="237"/>
+         დგას, ხედავს სინათლე იქიდან არის, რომ ყველაფვრს ანათებს. კარებში შევიდა. ეზოში, ჰეი, მასპინძელოო: დიაიძახა ერთხელ, ორჯერ, სამჯერ, მაგრამ, შენი თავი არ მომიკვდეს მეტად, არავინ ძე ხორციელმა სამაგიერო პასუხი არ გასცა. მაშინ ჩამოხტა რაშიდან, მიაბა ხეს და ავიდა აივანზე; გაიხედა, გამოიხედა იქით-აქით, ვერავინ ნახა. დაიარა ყველა ოთახი და ბოლოს ერთ დაკეტილ ოთახს მიადგა. დააკაკუნა: მაგრამ პასუხი არავინ არ გასცა. რომ მიაწვა კარს, არ გაიღო. მოუვიდა გული, მოიქნია ფეხი (&quot;ქუსლი&quot;) და ჰკრა მაგრად კარებს. კარი ფიჩხივით დაამტვრია („გადააქცია“) და შევიდა. რომ შევიდა და გაიხედა, ერთი ზღაპრულად („საარაკოდ“) ლამაზი, მზეთუნახავივით ქალიშვილი რომ ზის და ტირის, დაინახა. ბიჭმა მიიწია ახლოს. ქალიშვილმა რომ ნახა ხელმწიფის შვილი, ტირილი მიატოვა. ცოტა ხანს ასე მუნჯივით უცქეროდნენ ერთმანეთს და ბოლოს ბიჭმა ჰკითხა:
+      </p>
+      <p>—ვინ ხარ შენო?</p>
+      <p>მე ზღვის ხელმწიფის ქალიშვილი ვარ და ახლა დევს ვყავარ დაჭერილიო.</p>
+      <p>-სად არის ის დევიო?  -ჰკითხა ბიჭმა</p>
+      <p>—ახლა სანადიროდ წავიდა, ალბათ, მალე დაბრუნდება და ცუდ დღეს დაგაყენებს შენო, -უთხოა ქალიშვილმა.</p>
+      <p>—არ შეგეშინდეს, ის მე („ჩემთვის“) ვერაფერს მიზამს, მაგის თვალის სეირს განახვებო, -უთხრა ბიჭმა.</p>
+      <p>-ვაი, მეტი რა გითხრა, („იმის მეტი“) შენ მაგას ვერაფერი უქნა; ამ დღეებში ვიღაც (&quot;ვიღაც რომ იყო&quot;) ორი ბიჭი მოვიდა დევმა ორივე მოკლა და სახლში ქვემოთ უსვენია. შენი მოსვლაც არ გაუხაოდება იმ წყეულს და</p>
+      <p>გთხოვ: ან დაიმალე, ანდა გასწი იქითო, — სთხოვა ქალიშვილმა.</p>
+      <p>-თუ შენ ჩემს ცოლობაზე უარს არ იტყვი, აქიდანაც წაგიყვან დევსაც მოვკლავ და ჩემს ძმებსაც გავაცოცხლებინებ შენს მომტაცებელ დევსო. ქალიშვილი თანახმა გახდა. ძალიან ეწყინა, როცა გაიგო, რომ ის მკვდრები ამ ბიჭის ძმები იყვნენ. უმცროსმა ძმამ აასვენა თავისი ძმები ზემოთ ოდაში, ლოგინზე დაასვენა და აივანზე გავიდნვნ ორივე ცოლი და ქმარი. უცებ, როცა ერთმანეთს ეხვეოდნენ და ეხუტებოდნენ, გაიხედეს, დევი რომ ქვეყანას („მიწა-შავს&quot;) აქცევს და მოდის, დაინახეს. შევიდა დევი ეზოში და რაში რომ დაინახა, შეჭმა მოუნდომა. ბიჭმა დაუძახა აივნიდან:</p>
+      <p>-არ გაგიწყრეს ღმერთი და რაში არ შეჭამოო.</p>
+      <p>დევმა აიხედა ზევით და ხვლმწიფის შვილი რომ მზეთუნახავთან დაინახა ერთი უშნოდ დაიღრიალა და დაუძახა ბიჭს:</p>
+      <p>-როგორ გაბედე, შე გლახა, და უჩემოდ როგორ გატეხე ჩემი ოთახის კარიო!</p>
+      <p>-ეს შენი საქმე არ არის და, თუ როგორ გავბედე, ამას ახლავე დაგანახვებო, დაუძახა ბიჭმა და ჩავიდა ძირს.</p>
+      <p>
+        დევი პირიდან ნაკვერცხლებს (&quot;ცეცხლს&quot;) ყრიდა, ისეთი გულმოსული 
+        <pb n="239"/>
+         იყო,მაგრამ ხელმწიფის ბიჭმა ბევრი აცალა, [მძლავრად] ეკვეთნენ ერთმანეთს. სამ დღე [...] მიწაში ჩაასო. მოიხსნა („მოიგლიჯა“) ხმალი და, რომ უნდოდა თავი წაეცალა დევისთვის მაშინ დევი შეეხვეწა: 
+      </p>
+      <p>-არ მომკლა და რაც გინდა შეგისრულებო.</p>
+      <p>-აბა ჩემი ძმები გამიცოცხლე („გამიმრთელე“) და მერმე ამ მხარეს შენი ფეხი („ბუნდღა&quot;) არ ვნახოო, – უთხრა.</p>
+      <p>ამოიყვანა დევი მიწიდან და მკვდარ ძმებთან მიიყვანა. დევმა დააფურთხა ორივეს და გააცოცხლა: &quot;უჰ, ·ღმერთო ჩემო, რამდენ ხანს გვძინებიაო“,-თქვა ორივემ. გაიხედეს და თავიანთი უმცროსი ძმა დაინახეს. გადაეხვივნენ ერთმანეთს და როცა ყველაფერი გაიგეს, კიდევ უფრო გაუხარდათ. დევი იმწამსვე გადაიკარგა და მერმე მისი კვალი არ უნახავს არც ერთ სულდგმულს („სულდგმულ კაცს&quot;). ბევრი დრო გაატარეს ერთად მხიარულად და ბოლოს უფროსი და შუათანა ძმები თავიანთ სახელმწიფოში წავიდნენ. უმცროსი [კი] აქ დარჩა. იმის („იმ ჟამის“) შემდეგ სამივე ძმა ბედნიერად ცხოვრობდა. ვერავინ ვერ ბედვადა მათზე თავდასხმას და ისე დააშინეს ყველა („ყველა კაცი“), რომ მათ სახელმწიფოში მიწაზე ფეხის დადგმისაც კი ეშინოდათ. ზევით ჩიტს არ გადაიფრენდნენ [უკითხავად] და ქვემოთ ჭიანჭველა ვერ გაივლიდა („იხოხებდა').</p>
+      <p>წუხელ იქ ვიყავი და დღეს აქ გეახელით.</p>
+    </body>
+  </text>
 </TEI>

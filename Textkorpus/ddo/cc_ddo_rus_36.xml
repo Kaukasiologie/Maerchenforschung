@@ -1,190 +1,190 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">ЕСТ ТОГ, КТО РАБОТАЕТ</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a901B* Wie das Essen, so die Arbeit</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_36.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
-   <text xml:id="cc_ddo_rus_36">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">ЕСТ ТОГ, КТО РАБОТАЕТ</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a901B* Wie das Essen, so die Arbeit</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_36.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_36">
     <body>
-     <head>ЕСТ ТОГ, КТО РАБОТАЕТ</head>
-     <p>Был, говорят, не был один богатый человек. У него было два быка. До восьми лет он іи не приучал к работе и оставлял свободными. Однажды этот человек попытался заставить быков тянутъ бревна и пахать землю. Никак они не подчинялись, как только клали па них ярмо, всячески сопротивлялись.</p>
-     <p>Тогда богатый человек послал во все концы весть: мол, кто приучит быков к работе, тому он даст одного быка. Никак не объявлялся такой человек. Через некоторое время к нему пришел один юноша из бедной семьи и сказал: «Я приучу быков, если вы отправите их со мной». Богатый человек отправил с ним обоих быков. Юноша, забрал их к себе и в течение пяти дней не давал им еды, оставлял их голодными, загнав в хлев. На шестой день юноша взял с собой немного сена и пошел. Вывел их из хлева на улицу, положил на них ярмо, прицепил сзади плуг и повел на поле. А там впереди, показывая быкам охапку сена, шла мать, а сзади пахал юноша. Юноша быстро вспахал и свой, и богатого человека участок, уже начали пахать даже у соседей. Тогда до богатого человека дошла весть о том, что юноша приучил быков к работе и кончает пахать. Он пригласил юношу к себе на торжественное застолье, выразил ему большую благодарность, дал быка и отпустил.</p>
-     <p>Потом тот же богатый человек разослал во все концы вестъ: мол, кто приучит мою дочь к работе, за того я ее выдам. Долго не объявлялся, человек, который мог бы взять на себя такую ношу. Через некоторое, время появляется тот же самый бедный человек: «Я приучу ее. к работе». Юноша привел эту девушку домой. Когда утром все. встали, он сказал: «Мама, ты иди картошку полоть, она по дому работу будет делать, а я пойду в лес». К вечеру все работы закончили, пришли домой и рассказывали друг другу о сделанном.</p>
-     <p>Мать сказала, что прополола картошку, сын рассказал, что он на зиму заготовил дрова, девушка же не знала, что рассказать, потому что она ничего не сделала. Тогда юноша сказал: «Мама, раз мы сегодня, работали, нам полагается по половинке хинкала, а этой девушке ничего не положено. Ест только тот, кто работает». На следующий день, опять оставив девушку работать дома, мать и сын пошли на свои работы. Пока они к вечеру не вернулись домой, девушка убрала, подмела, приготовила хорошую еду и стала ждать их прихода. Он убедился, что теперь опа научилась работать, и послал человека за отцом девушки. Открыв дверь, отец хотел зайти в дом, а. в этот момент с полным тазом во двор выходила его дочь. Тут же она отдала отцу таз, чтобы вылитъ во дворе, и сказала: «Отец, в этом доме ест только тот, кто работает». Отец очень обрадовался тому, что его дочери привили любовь к труду.</p>
-     <p>На следующий день сыграли свадьбу, как и обещал, тот человек выдал свою дочь за бедного, но мудрого юношу.</p>
-     <p>Куруч, бусина, да прояснится день и солнце светит!</p>
+      <head>ЕСТ ТОГ, КТО РАБОТАЕТ</head>
+      <p>Был, говорят, не был один богатый человек. У него было два быка. До восьми лет он іи не приучал к работе и оставлял свободными. Однажды этот человек попытался заставить быков тянутъ бревна и пахать землю. Никак они не подчинялись, как только клали па них ярмо, всячески сопротивлялись.</p>
+      <p>Тогда богатый человек послал во все концы весть: мол, кто приучит быков к работе, тому он даст одного быка. Никак не объявлялся такой человек. Через некоторое время к нему пришел один юноша из бедной семьи и сказал: «Я приучу быков, если вы отправите их со мной». Богатый человек отправил с ним обоих быков. Юноша, забрал их к себе и в течение пяти дней не давал им еды, оставлял их голодными, загнав в хлев. На шестой день юноша взял с собой немного сена и пошел. Вывел их из хлева на улицу, положил на них ярмо, прицепил сзади плуг и повел на поле. А там впереди, показывая быкам охапку сена, шла мать, а сзади пахал юноша. Юноша быстро вспахал и свой, и богатого человека участок, уже начали пахать даже у соседей. Тогда до богатого человека дошла весть о том, что юноша приучил быков к работе и кончает пахать. Он пригласил юношу к себе на торжественное застолье, выразил ему большую благодарность, дал быка и отпустил.</p>
+      <p>Потом тот же богатый человек разослал во все концы вестъ: мол, кто приучит мою дочь к работе, за того я ее выдам. Долго не объявлялся, человек, который мог бы взять на себя такую ношу. Через некоторое, время появляется тот же самый бедный человек: «Я приучу ее. к работе». Юноша привел эту девушку домой. Когда утром все. встали, он сказал: «Мама, ты иди картошку полоть, она по дому работу будет делать, а я пойду в лес». К вечеру все работы закончили, пришли домой и рассказывали друг другу о сделанном.</p>
+      <p>Мать сказала, что прополола картошку, сын рассказал, что он на зиму заготовил дрова, девушка же не знала, что рассказать, потому что она ничего не сделала. Тогда юноша сказал: «Мама, раз мы сегодня, работали, нам полагается по половинке хинкала, а этой девушке ничего не положено. Ест только тот, кто работает». На следующий день, опять оставив девушку работать дома, мать и сын пошли на свои работы. Пока они к вечеру не вернулись домой, девушка убрала, подмела, приготовила хорошую еду и стала ждать их прихода. Он убедился, что теперь опа научилась работать, и послал человека за отцом девушки. Открыв дверь, отец хотел зайти в дом, а. в этот момент с полным тазом во двор выходила его дочь. Тут же она отдала отцу таз, чтобы вылитъ во дворе, и сказала: «Отец, в этом доме ест только тот, кто работает». Отец очень обрадовался тому, что его дочери привили любовь к труду.</p>
+      <p>На следующий день сыграли свадьбу, как и обещал, тот человек выдал свою дочь за бедного, но мудрого юношу.</p>
+      <p>Куруч, бусина, да прояснится день и солнце светит!</p>
     </body>
-   </text>
-  </TEI>
-
-  
+  </text>
+</TEI>

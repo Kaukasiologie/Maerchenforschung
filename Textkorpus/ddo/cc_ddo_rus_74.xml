@@ -1,217 +1,218 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Мудрая девушка</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>aTMJ1545_4 The exiled wife's dearest possession</item>
-      <item>a875 Die kluge Bauertochter</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_74.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="zyx_cc_ddo_rus_74">
-  <body>
-   <head>Мудрая девушка</head>
-   <p>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Мудрая девушка</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>aTMJ1545_4 The exiled wife's dearest possession</item>
+            <item>a875 Die kluge Bauertochter</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_74.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="zyx_cc_ddo_rus_74">
+    <body>
+      <head>Мудрая девушка</head>
+      <p>
       Был, говорят, или не был в одном селе мусульманский хан. В каждую пятницу он собирал всех людей своего ханства. В этот день туда же приходил праведный человек по имени Мухаммед, живущий в другом ханстве. У него была красивая, умная и мудрая дочь по имени Патимат.  Однажды в пятницу хан задал всем загадку: «Что это за вещь: самая черная, самая мягкая и самая быстрая?» Там, на пятничной молитве, не нашлось человека, который мог бы ответить на этот вопрос. 
      </p>
-   <p>
+      <p>
        В тот день там был и Мухаммед. Когда он возвратился с пятничной молитвы, Патимат увидела, что отец огорчен, и поэтому спросила его, почему он такой грустный. Сначала он пытался не говорить, но потом дочь не отставала, и он рассказал, так, мол, и так, хан на пятничной молитве задал вопрос, самая черная, самая мягкая и самая быстрая вещь, что это такое. Я никак не мог отгадать эту загадку, поэтому я такой печальный. «Эх-эх, - сказала дочь, - ты задумался, не найдя ответ на такой простой вопрос?» «А ты знаешь ответ?» - спросил отец у дочери. «Знаю, это человеческое сердце», - ответила дочь, - в состоянии злобы оно становится черным, когда человек откликается на зов, оно становится резвым, а когда человек радуется, оно становится мягким». 
      </p>
-   <p>
+      <p>
        На следующей пятничной молитве хан опять спросил: «Нашли ли вы ответ на тот мой вопрос?» Все молча стояли, только Мухаммед встал и сказал так, как ответила дочь. Тогда хан спросил его: «На прошлой пятничной молитве ты не говорил этого, а теперь кто тебе это сказал?» Мухаммед долго не говорил ему, но потом, раз хан так настаивал, сказал: «Дочь сказала». 
      </p>
-   <p>
+      <p>
        «Твоя дочь, наверное, очень умная, у меня к тебе одна просьба и ты должен ее выполнить, - сказал хан Мухаммеду, - Возьми с собой домой яйца вот этой курицы, до утра выведи из яиц цыплят и принеси мне». Пришел отец домой сильно озадаченный. Дочь спросила, что случилось, почему он так огорчен. Отец рассказал, какое обязательство хан вынудил его взять на себя. «Где находятся эти яйца?» - спросила Патимат. Отец взял и отдал яйца дочери. Она приготовила из них яичницу и поставила перед отцом: «Возьми, ешь». Отец отругал свою дочь: он не знал, куда себя девать, что, мол, он теперь хану скажет. Дочь объяснила ему: «Ты скажи хану, что если ты привезешь ему цыплят, выведенных из тех яиц, они помрут с голоду, поэтому попроси его превратить эти камешки в зерно, чтобы дать им, тогда ты их накормишь, они наберут силы, и ты их привезешь». 
      </p>
-   <p>
+      <p>
        Теперь хан понял, что он проиграл. Он отправил Мухаммеда с быком: «Зарежь его, дозволенное мясо ешьте сами, а недозволенное мясо принесите мне». 
      </p>
-   <p>
+      <p>
        Загнал он быка во двор и рассказал дочери: «На этот раз хан поручил мне вот такую вещь». «Это простая вещь», - заметила дочь и отправила отца резать быка. Кинули мясо в большие котлы и снизу разожгли огонь. Недоваренное мясо вынули из котла. Собрали все население села и поставили перед ними полные мясом подносы. Перед каждым девушка положила лоскуток: «Сложите сюда кусочки мяса, застрявшие в зубах». После того, как все съели и вышли, Патимат собрала эти кусочки мяса. Завернула в носовой платок и послала хану: вот, мол, это и есть недозволенное мясо. 
      </p>
-   <p>Хан поразился уму и мудрости той девушки. Он сказал Мухаммеду: «Эту девушку надо выдать за меня». «Не выдам», - отказался он вначале. Хан настаивал, и тогда он дал слово. Хан поставил перед ним задачу: «Свадьбу будем сыграть не в день бракосочетания, а в день расторжения брака, если такое случится». С этим отец тоже согласился и выдал Патимат за хана, не сыграв свадьбу. 
+      <p>Хан поразился уму и мудрости той девушки. Он сказал Мухаммеду: «Эту девушку надо выдать за меня». «Не выдам», - отказался он вначале. Хан настаивал, и тогда он дал слово. Хан поставил перед ним задачу: «Свадьбу будем сыграть не в день бракосочетания, а в день расторжения брака, если такое случится». С этим отец тоже согласился и выдал Патимат за хана, не сыграв свадьбу. 
      </p>
-   <p>
+      <p>
       Хан забрал ее к себе домой и предупредил, вдруг, если к тебе придут люди, поспорив между собой, не разбирай их дело, а если разберешь, я тебя выгоню. 
      </p>
-   <p>
+      <p>
        С тех пор прошло три дня, а на четвертый день к ней пришли два человека, поспорившие между собой. Патимат осведомилась, из-за чего они ссорятся. Один сказал: «Он у меня во сне взял в долг тысячу рублей, а теперь не возвращает». Другой заметил: «Я у него даже копейки не взял». Она сказала им: «Один из вас пусть сядет на коня, а другой пойдет пешком, а после захода солнца приходите ко мне с тенью. Пошли они за тенью и к сумеркам вернулись обратно: не смогли, мол, поймать тень. «Вот также мы не можем получить и то, что видим во сне», - с такими словами отпустила их Патимат. 
      </p>
-   <p>
+      <p>
        Потом хан узнал, что она разобрала спор двух человек. Хан, как и сказал, сыграл свадьбу в день развода с ней и сказал ей: «Забери все, что ты хочешь, и иди к себе домой». На свадьбе хан ел-пил и напился. 
      </p>
-   <p>
+      <p>
       Тогда она наполнила телегу всем необходимым домашним имуществом и сказала визирям: «Положите хана на телегу». Они взяли и положили пьяного хана на телеге. Патимат погнала быков и поехала в сторону отцовского села.  Вот так она ехала, одолевая горы и реки, и, когда приехали к одному оврагу, чуть было телега не перевернулась. Хан вздрогнул и проснулся. Видит: рядом с женой едет на телеге. «Ты куда меня везешь?» - спросил он. «У нас же был договор, что дашь мне забрать с собой все, что мне нужно, я и загрузила телегу всем тем, что мне необходимо». «В таком случае, поверни телегу обратно», - сказал хан. Вернулся он обратно в свое село, забрав с собой Патимат, отдал он ей ханство, мол, умнее и мудрее его оказалась, и стал жить безмятежной жизнью. 
      </p>
-   <p>Куруч, бусинка, да прояснится день, да будет солнце!</p>
-  </body>
- </text>
+      <p>Куруч, бусинка, да прояснится день, да будет солнце!</p>
+    </body>
+  </text>
 </TEI>

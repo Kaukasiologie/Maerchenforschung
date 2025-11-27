@@ -1,250 +1,251 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Арабузан</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>aE3 Epos: Shah Ismayil (Dastan)</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_79.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item>Warnung vor Gewalt und Missbrauch</item>
-      <item>Warnung vor religiöser Diskriminierung oder Stereotypen</item>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="zyx_cc_ddo_rus_79">
-  <body>
-   <head>Арабузан</head>
-   <p n="cr_ddo_rus_79">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Арабузан</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>aE3 Epos: Shah Ismayil (Dastan)</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_79.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor Gewalt und Missbrauch</item>
+            <item>Warnung vor religiöser Diskriminierung oder Stereotypen</item>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="zyx_cc_ddo_rus_79">
+    <body>
+      <head>Арабузан</head>
+      <p n="cr_ddo_rus_79">
        Был, говорят, или не был один хан. У него был один единственный сын. Его звали Исмаил. Когда сыну исполнилось три года, хан пригласил домой учителя и обучал сына науке. Он не выпускал из дома даже учителя, чтобы тот беспрерывно обучал сына. 
      </p>
-   <p>
+      <p>
        Когда Исмаилу было восемнадцать, учитель предупредил хана: «Не давайте ему мясо с костью». Когда ему исполнилось двадцать лет, ему нечаянно досталось мясо с костью. Исмаил извлек изо рта кость и выбросил на улицу, пробив насквозь занавеску и окно. Сквозь те щели, которые образовались от кости, пробивались лучи солнца. «Что это за столь красивая вещь?» - пытался он поймать лучи солнца. Разве сможет он поймать луч солнца? Исмаил потерял сознание и упал с пеной во рту. Повсюду пошел слух, что сын хана заболел. Вдруг появился учитель ханского сына. Он укорял: «Почему вы оставили кость в мясе, которое давали сыну?» 
      </p>
-   <p>
+      <p>
        Затем повсюду сообщили, написали письма и пригласили докторов. Но никто не смог толком объяснить, что с ним случилось, и какое лекарство ему выписать. И вот примчалась одна вдова и сказала: «Оставьте юношу в покое в течение недели». Оказывается, он и одна девушка пили напиток любви, и его кольцо оказалось на ее пальце, а ее кольцо - на пальце Исмаила. 
      </p>
-   <p>
+      <p>
        Через неделю Исмаил выздоровел, и учитель снова пришел, чтобы обучать его. Но разве может учиться молодой человек, одержимый страстной любовью? Через некоторое время Исмаил оседлал своего коня по кличке Камардай, бросил на плечо ружье и поскакал за той девушкой. Оставил он одну гору, вторую, третью и очутился в другом ханстве. В полночь пришел он в одно село и зашел в первый попавшийся дом. Когда он зашел внутрь, увидел там красивую девушку с большими глазами. Исмаил попросил ее, можно ли ему остаться на ночлег. Можно, мол, она подала ему скамейку и усадила. 
      </p>
-   <p>
+      <p>
        Он спросил, есть ли у нее родители. Девушка ответила: «У меня нет ни отца, ни матери, но есть семеро братьев». Когда он спросил, где они находятся, сначала она не хотела отвечать, но потом рассказала, что они отправились сражаться с войском соседнего ханства, которое приходило ее похитить. 
      </p>
-   <p>
+      <p>
        Исмаил переночевал там, утром оседлал и подготовил коня, а перед уходом девушка попросила: «Если ты встретишь моих братьев, помоги им». 
      </p>
-   <p>
+      <p>
        Поехал, оставил позади большое расстояние и попал туда, где сражались те братья. Исмаил подумал: «Если я помогу семерым братьям, то те, что воюют против них, подумают, какой он гордый человек, а если помогу тем, братья подумают, какой он гнусный человек». Он решил: «Подойду ближе и помогу тем, кто ответит на мое приветствие». Добрался до места сражения, и на его приветствие ответили семеро братьев, а те, кто воевал с ними, сделали вид, будто не слышали. После этого Исмаил сказал тем братьям; «Теперь немного отойдите назад и дайте одному мне воевать против них». И тут же Исмаил вступил в бой с войском, и стал его будто косой косить. Увидев большие потери, оставшиеся спаслись бегством. Затем те братья пришли к такому выводу: «Если бы этот юноша нам не помог, мы бы в этом сражении потерпели бы поражение, поэтому давайте выдадим за него свою сестру». Старший брат сказал Исмаилу: «Если ты не против, мы выдадим за тебя свою сестру». «Можно», - согласился он. Оттуда они пошли домой, сыграли свадьбу и братья выдали свою сестру за Исмаила. 
      </p>
-   <p>
+      <p>
        Когда вечером Исмаил лег спать вместе с невестой, он положил посреди кинжал и предупредил ее: «Если твое платье окажется на моей стороне, я отрежу тебе голову». «Почему?» - удивилась она. Исмаил объяснил ей, что, пока не достанет девушку, которую видел во сне, он не намерен касаться рукой других женщин. 
      </p>
-   <p>
+      <p>
        Исмаил оставил эту девушку с братьями, накинул оружие на плечо, сел на коня, помчался и приехал в одно село. Там в одном дворце он встретил человека, который варил кукурузу в огромной кастрюле, поставив ее на огонь. Сильно проголодавший Исмаил, слез с коня, вытащил из кастрюли кукурузу и досыта поел. Через некоторое время там появилась женщина по имени Арабузан: «Что это за человек поедает мою кукурузу?» «Ест человек наподобие меня», - вскочил Исмаил перед ней. Она позвала коня по кличке Алайбулай, взяла семипудовую кувалду и пошла на Исмаила. Он тоже схватил восьмипудовую кувалду и вскочил на коня. От грохота двух кувалд Исмаил и Арабузан потеряли сознание и упали с коней. Когда Исмаил пришел в себя, он подошел к ней ближе. «Ты, правда, жив?» - удивленно спросила его Арабузан, когда он подошел. «Ты тоже что ли жива? - осведомился у нее Исмаил тоже, - если ты живая, то я женюсь на тебе». «Можно», - она тут же выразила свое согласие. Пригласили муллу, свидетелей, и в тот же вечер Исмаил женился на Арабузан. Когда вечером легли в постель, Исмаил положил посреди кинжал и предупредил ее: «Если твое платье коснется этого, то твоя шея, а мой кинжал». Когда Арабузан спросила, в чем причина того, что он ей так заявил, он пояснил ей, что, пока не достану девушку, которую видел во сне, он не намерен касаться других женщин. 
      </p>
-   <p>
+      <p>
        Арабузан увидела, что Исмаил готовится отправиться в путь, и сказала, что тоже едет вместе с ним. Они сели, помчались на конях и очутились в другом ханстве. Прошло много времени, и они оказались в одном городе. Там подошли к первому попавшемуся дому, постучались в дверь, и оттуда вышла старая женщина. Когда спросили, есть ли возможность остановиться на ночлег, она ответила, что место есть, но нет матраса, чтобы постелить для них. Тогда Арабузан дала ей полную горсть денег: «На это купи все, что нам нужно». Встала старуха, пошла, купила и принесла матрасы, еду и сено для коней. Вот так они остались там до утра. Через некоторое время они услышали звуки зурны и барабана. Исмаил спросил, откуда это он слышит звук зурны и барабана. «Ой, мой сыночек, - обратилась к нему старуха, - у дочери нашего хана играют свадьбу вот уже в течение недели, а она решительно отказывается выйти за этого жениха. Исмаил снял со своего пальца кольцо, отдал той старухе: «Сможешь ли ты вот это передать ханской дочери?» «Смогу, почему бы нет», - старуха взяла кольцо и пошла к хану во двор. Нукер не пускал ее внутрь. «Я мать дочери хана, поэтому я хочу видеться с ней, до того как она выйдет замуж», - говоря так, она зашагала вперед. Услышав их разговоры, ханская дочь вышла на улицу: «Какая же она моя мама?» Как только она там показалась, старуха подняла руку, чтобы она могла видеть. Девушка увидела и сразу поняла, что это ее кольцо. «Эта моя мама, пусти ее в дом», - попросила ханская дочь нукера. Затем девушка спросила, где находится тот юноша, что он за человек. Потом еще добавила, что до конца свадьбы остается еще один день. «Я выйду гулять с девушками в сад, если он способен оттуда меня похитить, то его желание исполнится», - с этой вестью старуха вернулась домой и рассказала обо всем Исмаилу. Он поблагодарил старуху, и они пошли спать. 
      </p>
-   <p>
+      <p>
        На следующий день на рассвете Исмаил и Арабузан оседлали коней и подготовились. Чтобы охранять ханскую дочь, приехало целое войско, за ним появилось еще одно. Через некоторое время ханская дочь вышла в сад вместе с девушками. Арабузан знаком спросила, какая она. Средняя, та, которая самая красивая, показал Исмаил. В тот момент Арабузан ветром понеслась к ней, забрала с собой и посадила на коня Исмаила. «Теперь ты можешь идти вперед», - с этими словами она начала воевать с войском. Она валила всех подряд, оставшиеся же спаслись бегством. 
      </p>
-   <p>
+      <p>
        После этого Арабузан отправилась вслед за Исмаилом и ханской дочерью. Она застала их спящих под одним деревом. Арабузан разбудила их и забрала к себе домой. На следующий день они отправились к девушке, у которой семеро братьев, чтобы забрать ее тоже. Затем Исмаил со своими тремя женами отправился прямо в село. Тех жен Исмаил не повел к отцу, а спрятал в крепости. А сам пошел к нему и побыл у него несколько дней. Тогда один нукер увидел в крепости жен, которых спрятал ханский сына. Примчался он и наговаривал хану: «Ты разве хан, выходит, ханом является твой сын, иди, посмотри на жен, которых он спрятал в крепости». Хан испугался, что сын отбирает у него престол хана. Он решил убить своего единственного сына. 
      </p>
-   <p>
+      <p>
        Однажды приготовили хорошую еду, и отец пригласил Исмаила домой. Арабузан его предупредила, что отец хочет устроить ему западню, но нельзя было не пойти туда, куда его пригласили. «Если нельзя не пойти, на, возьми это кольцо, ты его три раза покрути над едой, отправив отца за водой». Когда сын зашел в дом, отец поставил перед ним отравленную еду. «Сходи за водой», - попросил Исмаил отца и три раза покрутил над едой кольцо, которое дала Арабузан. После этого, когда ел, с ним ничего не было. 
      </p>
-   <p>
+      <p>
        Хан придумал затем еще одну хитрость. Он приказал нукерам убить своего сына и принести его одежду, испачканную кровью. Нукеры взяли Исмаила в лес, но не смогли убить. Выкололи ему глаза, привязали к дереву и оставили там же. Запачкали его одежду кровью лесных птиц, вернулись обратно и показали хану: «Вот одежда твоего сына». 
      </p>
-   <p>
+      <p>
        После этого хан начал выдавать жен Исмаила за других. Чтобы взять их в жены в крепость пошло целое войско. Тем не менее, Арабузан их близко не подпускала. 
      </p>
-   <p>
+      <p>
        На то дерево, где был привязан Исмаил, сели голубь и его птенцы. Птенец сказал своей матери: «Ой, мама, как мучается этот юноша, отец выколол ему глаза и оставил его здесь». Голубица сказала: «Когда мы отсюда улетим и будем махать крыльями, одно перо упадет. Если он проведет этим пером по глазу, то у него зрение восстановится». Исмаил услышал их разговор. 
      </p>
-   <p>
+      <p>
        Размахивая крыльями, голуби улетели отсюда. Перо, опустившись сверху, упало прямо ему в руки. Исмаил провел им по глазу и начал видеть, но все-таки его глаза стали косыми, так что было невозможно его узнать. 
      </p>
-   <p>
+      <p>
        Пошел он оттуда и по пути он встретил одного человека, который пахал землю. Исмаил попросил у него: «Я голоден, дай мне немного поесть». Старик заметил: «Что-то твой разговор похож на разговор Исмаила». Он ответил: «Кости Исмаила давным-давно сгнили». Старик усыновил его. 
      </p>
-   <p>
+      <p>
        Через некоторое время Исмаил услышал весть, что хан набирает в свое войско людей. «Я тоже пойду», - сказал Исмаил, пошел к хану и попросил хана назначить его нукером. Хан не догадался, что он его сын. Потом сын сказал отцу: «Если дашь мне коня и оружие Исмаила, я положу на землю Арабузан и дам тебе ее зарезать». Хан сказал: «После смерти Исмаила не объявился такой человек, который мог бы подойти к его коню, ты тоже не сможешь». «Посмотрим, смогу ли я подойти», - Исмаил молча подошел к своему коню, оседлал его и накинул оружие на плечо. Помчался он на коне к своим женам прямо в крепость. Исмаил остановил коня перед крепостью и крикнул: «Арабузан, выходи на улицу, увидишь твою самую желанную вещь». «Это голос Исмаила!» - все три жены выскочили на улицу. Арабузан вышла и всстала перед Исмаилом. Он ей сказал: «Завтра я с утра приду с семипудовой кувалдой, а ты приходи с восьмипудовой. Когда мы их столкнемся друг с другом, потеряем сознание и свалимся с коней. Потом я встану, подойду к тебе и скажу отцу, чтобы шел отрезать тебе голову. А что делать дальше, ты сама знаешь». 
      </p>
-   <p>
+      <p>
        После этого разговора с Арабузан Исмаил вернулся к старику. На следующий день вместе с войском хана он отправился к крепости. Арабузан тоже села на своего коня Алайбулай и вышла из крепости. Отведя в сторону войско, Исмаил пошел на Арабузан с семипудовой кувалдой, а у нее была восьмипудовая. От грохота кувалд они оба потеряли сознание и свалились на землю. Когда Исмаил пришел в себя, он подошел к Арабузан и предложил хану: «Теперь иди, отрежь ей голову». Как хан начал приближаться, Арабузан вскочила, ударила восьмипудовой кувалдой, после чего хан потерял сознание и упал. Больше он не смог встать, подобно сдохнувшему цыпленку. 
      </p>
-   <p>
+      <p>
        «Убили нашего хана!» - с криком народ и войско начали разбежаться. Тут с одной стороны подбежал Исмаил, с другой стороны - Арабузан, собрали всех людей и выбрали ханом Арабузан, а Исмаил остался визирем. 
      </p>
-   <p>
-      
+      <p>
        Я тоже был на их свадьбе, но не смог танцевать, болели ноги. 
      </p>
-  </body>
- </text>
+    </body>
+  </text>
 </TEI>

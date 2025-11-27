@@ -1,138 +1,158 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Tatische Folklore</title>
-      <title xml:lang="eng">Tat Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Tatische Folklore</title>
+        <title xml:lang="eng">Tat Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ttt">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-       <geo />
-      </placeName>
-      <date>1939</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Хизгиё-Эми</forename>
-        <surname xml:lang="rus">Дадашев</surname>
-       </persName>
-       <age />
-       <birth>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ttt">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
         <placeName>
-         <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-         <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-         <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
-         <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
-         <geo />
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+          <geo/>
         </placeName>
-        <date>1854</date>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Амалдан</forename>
-        <surname xml:lang="rus">Кукуллу</surname>
-       </persName>
-      </person>
-     </particDesc>
+        <date>1939</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Хизгиё-Эми</forename>
+            <surname xml:lang="rus">Дадашев</surname>
+          </persName>
+          <age/>
+          <birth>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
+              <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
+              <geo/>
+            </placeName>
+            <date>1854</date>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName/>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Амалдан</forename>
+            <surname xml:lang="rus">Кукуллу</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ttt_rus_43">
+  </teiHeader>
+  <text xml:id="cr_ttt_rus_43">
     <body>
-     <head>27. Всему на свете приходит конец</head>
-     <p>проходили полю двое странников видят пахарь идет плугом плуг запряжены огромный бык хилый человек жалко стало странникам человека подошли пахарю говорят</p><p>грешно взваливать человека такую работу тебе деньги купи быка человека отпусти</p><p>пахарь согласился запряженный человек сказал</p><p>всему свете приходит конец</p><p>странники пошли своей дорогой</p><p>прошло семь лет странникам довелось проходить мимо места смотрят верят собственным глазам месте поля стоят дома вокруг разбиты сады виноградники странники попросились ночлег дом оказалось хозяин дома самый человек которого пахарь запрягал свой плуг обрадовались странники встрече спрашивают</p><p>плуг тянул стал таким богатым</p><p>хозяин отвечает</p><p>всему свете приходит конец жадного пахаря никого умер добро досталось</p><p>странники переночевали утром тронулись путь</p><p>прошло семь лет снова дороги привели кэтим местам странников говорит своему товарищу</p><p>давно видели доброго хорошего человека которого пахарь запрягал плуг давай зайдем проведаем</p><p>вошли нему дом бедного человека узнать люди избрали правителем города странники поздравили хозяина говорит</p><p>всему свете приходит конец</p><p>переночевали странники утром отправились путь</p><p>прошло лет оказались этих местах хотели странники проведать своего старого знакомого живых пошли могилу увидели надгробном камне написано всему свете приходит конец</p><p>странники сняли шапки почтили покойника пошли своей дорогой</p><p>прошли годы странникам случилось проходить самый город говорит</p><p>нужно проведать могилу нашего старого знакомого хороший человек</p><p>направились кладбище видят надгробного камня могилы месте дорога едут арбы идут караваны верблюдов люди странников сказал</p><p>правду говорил бедный человек свете имеет свой конец вечного славы богатства могилы приходит уйти</p><p>странники пошли своей дорогой</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>27. Всему на свете приходит конец</head>
+      <p>проходили полю двое странников видят пахарь идет плугом плуг запряжены огромный бык хилый человек жалко стало странникам человека подошли пахарю говорят</p>
+      <p>грешно взваливать человека такую работу тебе деньги купи быка человека отпусти</p>
+      <p>пахарь согласился запряженный человек сказал</p>
+      <p>всему свете приходит конец</p>
+      <p>странники пошли своей дорогой</p>
+      <p>прошло семь лет странникам довелось проходить мимо места смотрят верят собственным глазам месте поля стоят дома вокруг разбиты сады виноградники странники попросились ночлег дом оказалось хозяин дома самый человек которого пахарь запрягал свой плуг обрадовались странники встрече спрашивают</p>
+      <p>плуг тянул стал таким богатым</p>
+      <p>хозяин отвечает</p>
+      <p>всему свете приходит конец жадного пахаря никого умер добро досталось</p>
+      <p>странники переночевали утром тронулись путь</p>
+      <p>прошло семь лет снова дороги привели кэтим местам странников говорит своему товарищу</p>
+      <p>давно видели доброго хорошего человека которого пахарь запрягал плуг давай зайдем проведаем</p>
+      <p>вошли нему дом бедного человека узнать люди избрали правителем города странники поздравили хозяина говорит</p>
+      <p>всему свете приходит конец</p>
+      <p>переночевали странники утром отправились путь</p>
+      <p>прошло лет оказались этих местах хотели странники проведать своего старого знакомого живых пошли могилу увидели надгробном камне написано всему свете приходит конец</p>
+      <p>странники сняли шапки почтили покойника пошли своей дорогой</p>
+      <p>прошли годы странникам случилось проходить самый город говорит</p>
+      <p>нужно проведать могилу нашего старого знакомого хороший человек</p>
+      <p>направились кладбище видят надгробного камня могилы месте дорога едут арбы идут караваны верблюдов люди странников сказал</p>
+      <p>правду говорил бедный человек свете имеет свой конец вечного славы богатства могилы приходит уйти</p>
+      <p>странники пошли своей дорогой</p>
+    </body>
+  </text>
+</TEI>

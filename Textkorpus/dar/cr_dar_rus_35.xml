@@ -1,128 +1,137 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
-       <geo />
-      </placeName>
-      <date>1975</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">И.</forename>
-        <surname xml:lang="rus">Ширпаевa</surname>
-       </persName>
-       <age>80</age>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Ф.О.</forename>
-        <surname xml:lang="rus">Абакарова</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
+          <geo/>
+        </placeName>
+        <date>1975</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">И.</forename>
+            <surname xml:lang="rus">Ширпаевa</surname>
+          </persName>
+          <age>80</age>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Ф.О.</forename>
+            <surname xml:lang="rus">Абакарова</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_35">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_35">
     <body>
-     <head>116 Мужчина в домашнем хозяйстве (дарг. (куб.)</head>
-     <p>придирчивый муж вечно недоволен женой ворчал</p><p>делаешь хозяйство</p><p>однажды сказала жена оставайся дома занимайся домашним хозяйством вместо пойду сенокос</p><p>валлах останусь домашние дела пустяки буду спать отдыхать подумав согласился обрадованный муж</p><p>рассвело жена собралась сенокос сказала проснувшемуся мужу</p><p>ухожу вставай смотри забудь подоить корову отогнать стадо проследи цыплята целы замеси тесто испеки хлеб кулбикане сметана взбей масло мучалы пустые сходи водой</p><p>дав мужу наставления жена ушла косить сено жена ушла лежа постели размышлял встать встать решив это сделать час продолжал нежиться постели снова уснул</p><p>наступил полдень нехотя встал засуетился выпустить корову стадо ушло стал думать делать вспомнив передней крыше немного травы затащил туда корову принялся месить тесто хлеба вспомнив цыплятах оставил тесто выбежал двор цыплята потерялись привязал друг другу вернулся продолжил месить тесто затем положил печь хлеб подгорел</p><p>опозорился женой смог сделать масло взобью подумав взял кулбикан вспомнил корове пошел крышу испугавшись корова свалиться крыши муж конец веревки спустил дымоход привязал стал взбивать масло</p><p>гуляя крыше корова свалилась повисла веревке мужчина схватившись веревку согнувшись вдвое застрял дымоходе кувшин который руках упал разбился увидев корову свисающую веревке крыши соседи пожалели обрезали ножом веревку корова упала землю мужчина прямо очаг</p><p>боже скажу жене слова выйти положения сердцах думал муж ожидании жены</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>116 Мужчина в домашнем хозяйстве (дарг. (куб.)</head>
+      <p>придирчивый муж вечно недоволен женой ворчал</p>
+      <p>делаешь хозяйство</p>
+      <p>однажды сказала жена оставайся дома занимайся домашним хозяйством вместо пойду сенокос</p>
+      <p>валлах останусь домашние дела пустяки буду спать отдыхать подумав согласился обрадованный муж</p>
+      <p>рассвело жена собралась сенокос сказала проснувшемуся мужу</p>
+      <p>ухожу вставай смотри забудь подоить корову отогнать стадо проследи цыплята целы замеси тесто испеки хлеб кулбикане сметана взбей масло мучалы пустые сходи водой</p>
+      <p>дав мужу наставления жена ушла косить сено жена ушла лежа постели размышлял встать встать решив это сделать час продолжал нежиться постели снова уснул</p>
+      <p>наступил полдень нехотя встал засуетился выпустить корову стадо ушло стал думать делать вспомнив передней крыше немного травы затащил туда корову принялся месить тесто хлеба вспомнив цыплятах оставил тесто выбежал двор цыплята потерялись привязал друг другу вернулся продолжил месить тесто затем положил печь хлеб подгорел</p>
+      <p>опозорился женой смог сделать масло взобью подумав взял кулбикан вспомнил корове пошел крышу испугавшись корова свалиться крыши муж конец веревки спустил дымоход привязал стал взбивать масло</p>
+      <p>гуляя крыше корова свалилась повисла веревке мужчина схватившись веревку согнувшись вдвое застрял дымоходе кувшин который руках упал разбился увидев корову свисающую веревке крыши соседи пожалели обрезали ножом веревку корова упала землю мужчина прямо очаг</p>
+      <p>боже скажу жене слова выйти положения сердцах думал муж ожидании жены</p>
+    </body>
+  </text>
+</TEI>

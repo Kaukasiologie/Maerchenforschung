@@ -1,235 +1,249 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">20. Der Herrscher und sein Sohn</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_25.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement ref="https://www.geonames.org/612533/pakhulani.html">Pakhulani</settlement>
-       <geo/>
-      </placeName>
-    <date when="1923">1923</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Vasili (Tigura)</forename>
-      <surname>Shania</surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date when="1873">1973</date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename>Makar</forename>
-      <surname>Khubua</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_25">
-  <body>
-   <head>Der Herrscher und sein Sohn</head>
-   <p>Es war einmal ein Herrscher, der hatte drei Söhne, Der Herrscher wurde blind, er rief seine Söhne zu sich und sprach: "Wenn ihr mir etwas aus einem Land bringt, das ich noch nicht gesehen habe, wird es mich heilen.”</p>
-   <p>Der älteste Sohn setzte sich zu Pferde und ritt an einen Ort. Er kam zu einem Gehöft, dessen Tor verschlossen war. Kein Mensch war zu sehen,doch die Tafel war gedeckt. Er nahm eine Serviette vom Tisch. "Hier wird <pb n="126"/> mein Vater nicht hergekommen sein”, sagte er, aß die Speisen auf und ritt nach Hause. Er brachte die Serviette zu seinem Vater. Als er ihm das Tuch zeigte, meinte der Vater: "Ach, Mann, das ist meine Serviette. Habe ich euch nicht gesagt, daß ihr kein solches Land finden werdet, wo ich noch nicht hingekommen bin!”</p>
-   <p>Da setzte sich der mittlere Sohn auf sein Pferd und ritt los. Auch er gelangte so in ein anderes Haus. Nach drei Monaten gelangte er dorthin,fand einen eben solchen Tisch gedeckt, aß die Speisen, nahm eine Serviette und ritt davon. Als er sie zum Vater brachte, sagte der zu ihm: "Ach, du Unglücklicher, solche Tafeln stehen drei an der Zahl für mich bereit. An der einen pflegte ich zu frühstücken, an der zweiten Mittag zu essen und an der dritten das Abendbrot einzunehmen." ;</p>
-   <p>Der jüngste Sohn sagte zum Vater: "Gib mir ein Pferd, und ich will ausreiten und etwas aus einem Land bringen, wo du noch niemals gewesen bist."</p>
-   <p>"Du kannst das Pferd erstens nicht einfangen, und zweitens wird es dich töten", meinte der Vater.</p>
-   <p>"Doch, ich werde es einfangen”, sagte der Sohn, "gib mir nur deine Erlaubnis."</p>
-   <p>Der junge Mann fing das Pferd ein, legte ihm den Sattel auf und saß auf.</p>
-   <p>Das Pferd sprach zu ihm: "Bursche, taugst du denn für mich?"</p>
-   <p>"Ja, ich tauge für dich", sagte der junge Mann. Er setzte sich auf das Pferd, spornte es an und ritt davon. Unterwegs sagten alle zu ihm: "Gott lasse es unserem Herrscher nicht an Segen fehlen, Gott lasse es unserem Herrscher nicht an Segen fehlen!"</p>
-   <p>Sie kennen dieses Pferd, wahrscheinlich ist dies das Land meines Vaters,dachte der Bursche. Er gelangte in eine Stadt, ritt hindurch, sprengte davon und ritt weiter. Er stürmte in einen dichten Wald hinein. Es war Nacht, als er ritt, und irgendetwas leuchtete in dem Wald. "Was ist das, das muß ich sehen”, sagte er. Als er hinkam, erblickte er einen Flügel, von dem dieses Licht ausging. Inzwischen hatte man Wächter hier aufgestellt. Der Ort lag an der Meeresküste. Als der junge Mann herzukam und das wunderbare Ding mitnahm, nahm man ihn gefangen. Er wehrte sich und zeterte: "Ich bin der und der”, aber sie ließen ihm den Flügel nicht und sprachen zu ihm:"Mach dich davon, wenn du willst.”</p>
-   <p>Die Wesire dieses Landes erklärten dem Herrscher: "Dies ist der Flügel eines Vogels. Wenn du diesen Vogel hättest, hättest du nicht deinesgleichen."</p>
-   <p>Der Herrscher ließ den jungen Mann zu sich kommen und sprach: "Du mußt mir diesen Vogel beschaffen!"</p>
-   <p>"Herr, der Vogel nistet im Wald. Wie soll ich ihn denn hierherholen?" <pb n="127"/></p>
-   <p>"Nein", beharrte der Herrscher, "du mußt ihn herbringen."</p>
-   <p>Der Sohn des Wesirs, ein junger Bursche, sah das alles, was man mitdiesem jungen Mann machte.</p>
-   <p>"Die Vögel haben morgen eine Versammlung”", sagte er zu ihm, "und sie werden herbeiflattern. Laß dir von den Wesiren einen Fünfzigpudsack geben und ihn mit Weizen füllen. Wenn er sich auf den Baum setzt, so will ich dir sagen, was du zu tun hast: Du wirst noch vor Mittag dort hingehen.</p>
-   <p>Da steht eine große Linde, streue den Weizen unter den Baum und häufe ihn auf."</p>
-   <p>Sie statteten ihn mit allem aus, warfen den Sack auf das Pferd, er selbst saß auf und ritt davon. Er kam hin und streute den Weizen unter den Baum, formte ihn zu einem Haufen und setzte sich selbst oben darauf.</p>
-   <p>Viele Vögel flogen herbei, aber dieser war noch nicht gekommen. Der junge Mann saß da. Der Vogel kam geflogen und setzte sich auf den Ast.</p>
-   <p>Der junge Mann versuchte es einmal, zweimal, und beim dritten Mal packte er ihn am Fuß. Die anderen Vögel fielen über ihn her, doch er sprang auf sein Pferd und ritt davon. Am Abend kam er zurück. Man nahm ihm den Vogel ab und sperrte ihn in einen Käfig. Jetzt wollte der junge Mann die Stadt verlassen, doch er konnte nichts mitnehmen.</p>
-   <p>Drei Tage lang war der Vogel so in dem Käfig, und am dritten Tag wurde er schwarz. "Was ist das?" fragte man die Wesire.</p>
-   <p>"Der Vogel gehört einem Mädchen, und weil er nicht bei ihr sein kann,ist er schwarz geworden.”</p>
-   <p>"Wer soll dieses Mädchen hierherbringen? Er muß sie herbringen!"sagten die Wesire.</p>
-   <p>Der Sohn des Wesirs sprach zu dem jungen Mann: "Laß dir einen solchen Sack, wie du ihn hattest, vom Herrscher aus dem Vermögen aller Wesire mit Gold und Silber füllen. Tun sie das nicht, so lehne es ab. Dann komm zu mir, und ich will dir sagen, was du zu tun hast. Bis morgen mittag soll alles bereit sein, und wenn du dich auf den Weg begibst, so streue es überall auf die Erde."</p>
-   <p>Man lud den Sack voll Gold und Silber auf das Pferd, und der Bursche ritt los. Als er ein Stück geritten war, streute er Gold aus,</p>
-   <p>Der Sohn des Wesirs sagte: "Wenn du zu ihnen in den Hof kommst, so hat sie zwölf Brüder. Sie steht auf dem Balkon, die Brüder stehen als Wächter bei ihr, sechs auf der einen Seite und sechs auf der anderen. Ein Riese bedrängt sie und will sie entführen. Geh um die Mittagszeit hin,wenn sie schlafen, schleiche dich zu ihr hinein. "Warum hast du meine Brüder erschlagen”, wird sie zu dir sagen, "was bist du für ein Mann?" Sage ihr: Das ist nicht deine Sache, sprich kein Wort, sonst kann dir nichts helfen.” <pb n="128"/></p>
-   <p>Der junge Mann spornte sein Pferd an und ritt hin. Er schlich sich, wieder Sohn des Wesirs es ihm geaten hatte, durch sie hindurch zu dem Mädchen. Das Mädchen sprach zu ihm: "Was bist du für ein Mann, daß du meinen hünenhaften Brüdern das Genick abgeschlagen hast?"</p>
-   <p>"Das ist nicht deine Sache, sprich kein Wort, sonst schlage ich dir den Kopf ab", sagte der junge Mann. Er packte sie am Haar und zog sie mit:"Sag keinen Ton, sonst töte ich dich." Er führte sie hinaus und nahm sie hinter sich auf das Pferd. Das Mädchen weinte bitterlich, doch der Junge Mann trieb sein Pferd an und ritt heimwärts.</p>
-   <p>"Zu wem bringst du mich?" fragte das Mädchen.</p>
-   <p>"Zu mir."</p>
-   <p>"Du belügst mich", sagte das Mädchen.</p>
-   <p>Er schlug das Pferd mit der Peitsche, und es stob davon. Der Sohn des Wesirs gab ihm auch den Vogel, der in dem Käfig saß, und so kam der junge Mann zu seinem Vater.</p>
-   <p>Alle freuten sich, und der Herrscher gewann sein Augenlicht zurück. Es wurde ein großes Fest veranstaltet. Auch der Sohn des Wesirs kam mit und blieb bei dem jungen Mann wohnen.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">20. Der Herrscher und sein Sohn</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_25.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/612533/pakhulani.html">Pakhulani</settlement>
+          <geo/>
+        </placeName>
+        <date when="1923">1923</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Vasili (Tigura)</forename>
+            <surname>Shania</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date when="1873">1973</date>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_25">
+    <body>
+      <head>Der Herrscher und sein Sohn</head>
+      <p>Es war einmal ein Herrscher, der hatte drei Söhne, Der Herrscher wurde blind, er rief seine Söhne zu sich und sprach: &quot;Wenn ihr mir etwas aus einem Land bringt, das ich noch nicht gesehen habe, wird es mich heilen.”</p>
+      <p>
+        Der älteste Sohn setzte sich zu Pferde und ritt an einen Ort. Er kam zu einem Gehöft, dessen Tor verschlossen war. Kein Mensch war zu sehen,doch die Tafel war gedeckt. Er nahm eine Serviette vom Tisch. &quot;Hier wird 
+        <pb n="126"/>
+         mein Vater nicht hergekommen sein”, sagte er, aß die Speisen auf und ritt nach Hause. Er brachte die Serviette zu seinem Vater. Als er ihm das Tuch zeigte, meinte der Vater: &quot;Ach, Mann, das ist meine Serviette. Habe ich euch nicht gesagt, daß ihr kein solches Land finden werdet, wo ich noch nicht hingekommen bin!”
+      </p>
+      <p>Da setzte sich der mittlere Sohn auf sein Pferd und ritt los. Auch er gelangte so in ein anderes Haus. Nach drei Monaten gelangte er dorthin,fand einen eben solchen Tisch gedeckt, aß die Speisen, nahm eine Serviette und ritt davon. Als er sie zum Vater brachte, sagte der zu ihm: &quot;Ach, du Unglücklicher, solche Tafeln stehen drei an der Zahl für mich bereit. An der einen pflegte ich zu frühstücken, an der zweiten Mittag zu essen und an der dritten das Abendbrot einzunehmen.&quot; ;</p>
+      <p>Der jüngste Sohn sagte zum Vater: &quot;Gib mir ein Pferd, und ich will ausreiten und etwas aus einem Land bringen, wo du noch niemals gewesen bist.&quot;</p>
+      <p>&quot;Du kannst das Pferd erstens nicht einfangen, und zweitens wird es dich töten&quot;, meinte der Vater.</p>
+      <p>&quot;Doch, ich werde es einfangen”, sagte der Sohn, &quot;gib mir nur deine Erlaubnis.&quot;</p>
+      <p>Der junge Mann fing das Pferd ein, legte ihm den Sattel auf und saß auf.</p>
+      <p>Das Pferd sprach zu ihm: &quot;Bursche, taugst du denn für mich?&quot;</p>
+      <p>&quot;Ja, ich tauge für dich&quot;, sagte der junge Mann. Er setzte sich auf das Pferd, spornte es an und ritt davon. Unterwegs sagten alle zu ihm: &quot;Gott lasse es unserem Herrscher nicht an Segen fehlen, Gott lasse es unserem Herrscher nicht an Segen fehlen!&quot;</p>
+      <p>Sie kennen dieses Pferd, wahrscheinlich ist dies das Land meines Vaters,dachte der Bursche. Er gelangte in eine Stadt, ritt hindurch, sprengte davon und ritt weiter. Er stürmte in einen dichten Wald hinein. Es war Nacht, als er ritt, und irgendetwas leuchtete in dem Wald. &quot;Was ist das, das muß ich sehen”, sagte er. Als er hinkam, erblickte er einen Flügel, von dem dieses Licht ausging. Inzwischen hatte man Wächter hier aufgestellt. Der Ort lag an der Meeresküste. Als der junge Mann herzukam und das wunderbare Ding mitnahm, nahm man ihn gefangen. Er wehrte sich und zeterte: &quot;Ich bin der und der”, aber sie ließen ihm den Flügel nicht und sprachen zu ihm:&quot;Mach dich davon, wenn du willst.”</p>
+      <p>Die Wesire dieses Landes erklärten dem Herrscher: &quot;Dies ist der Flügel eines Vogels. Wenn du diesen Vogel hättest, hättest du nicht deinesgleichen.&quot;</p>
+      <p>Der Herrscher ließ den jungen Mann zu sich kommen und sprach: &quot;Du mußt mir diesen Vogel beschaffen!&quot;</p>
+      <p>
+        &quot;Herr, der Vogel nistet im Wald. Wie soll ich ihn denn hierherholen?&quot; 
+        <pb n="127"/>
+      </p>
+      <p>&quot;Nein&quot;, beharrte der Herrscher, &quot;du mußt ihn herbringen.&quot;</p>
+      <p>Der Sohn des Wesirs, ein junger Bursche, sah das alles, was man mitdiesem jungen Mann machte.</p>
+      <p>&quot;Die Vögel haben morgen eine Versammlung”&quot;, sagte er zu ihm, &quot;und sie werden herbeiflattern. Laß dir von den Wesiren einen Fünfzigpudsack geben und ihn mit Weizen füllen. Wenn er sich auf den Baum setzt, so will ich dir sagen, was du zu tun hast: Du wirst noch vor Mittag dort hingehen.</p>
+      <p>Da steht eine große Linde, streue den Weizen unter den Baum und häufe ihn auf.&quot;</p>
+      <p>Sie statteten ihn mit allem aus, warfen den Sack auf das Pferd, er selbst saß auf und ritt davon. Er kam hin und streute den Weizen unter den Baum, formte ihn zu einem Haufen und setzte sich selbst oben darauf.</p>
+      <p>Viele Vögel flogen herbei, aber dieser war noch nicht gekommen. Der junge Mann saß da. Der Vogel kam geflogen und setzte sich auf den Ast.</p>
+      <p>Der junge Mann versuchte es einmal, zweimal, und beim dritten Mal packte er ihn am Fuß. Die anderen Vögel fielen über ihn her, doch er sprang auf sein Pferd und ritt davon. Am Abend kam er zurück. Man nahm ihm den Vogel ab und sperrte ihn in einen Käfig. Jetzt wollte der junge Mann die Stadt verlassen, doch er konnte nichts mitnehmen.</p>
+      <p>Drei Tage lang war der Vogel so in dem Käfig, und am dritten Tag wurde er schwarz. &quot;Was ist das?&quot; fragte man die Wesire.</p>
+      <p>&quot;Der Vogel gehört einem Mädchen, und weil er nicht bei ihr sein kann,ist er schwarz geworden.”</p>
+      <p>&quot;Wer soll dieses Mädchen hierherbringen? Er muß sie herbringen!&quot;sagten die Wesire.</p>
+      <p>Der Sohn des Wesirs sprach zu dem jungen Mann: &quot;Laß dir einen solchen Sack, wie du ihn hattest, vom Herrscher aus dem Vermögen aller Wesire mit Gold und Silber füllen. Tun sie das nicht, so lehne es ab. Dann komm zu mir, und ich will dir sagen, was du zu tun hast. Bis morgen mittag soll alles bereit sein, und wenn du dich auf den Weg begibst, so streue es überall auf die Erde.&quot;</p>
+      <p>Man lud den Sack voll Gold und Silber auf das Pferd, und der Bursche ritt los. Als er ein Stück geritten war, streute er Gold aus,</p>
+      <p>
+        Der Sohn des Wesirs sagte: &quot;Wenn du zu ihnen in den Hof kommst, so hat sie zwölf Brüder. Sie steht auf dem Balkon, die Brüder stehen als Wächter bei ihr, sechs auf der einen Seite und sechs auf der anderen. Ein Riese bedrängt sie und will sie entführen. Geh um die Mittagszeit hin,wenn sie schlafen, schleiche dich zu ihr hinein. &quot;Warum hast du meine Brüder erschlagen”, wird sie zu dir sagen, &quot;was bist du für ein Mann?&quot; Sage ihr: Das ist nicht deine Sache, sprich kein Wort, sonst kann dir nichts helfen.” 
+        <pb n="128"/>
+      </p>
+      <p>Der junge Mann spornte sein Pferd an und ritt hin. Er schlich sich, wieder Sohn des Wesirs es ihm geaten hatte, durch sie hindurch zu dem Mädchen. Das Mädchen sprach zu ihm: &quot;Was bist du für ein Mann, daß du meinen hünenhaften Brüdern das Genick abgeschlagen hast?&quot;</p>
+      <p>&quot;Das ist nicht deine Sache, sprich kein Wort, sonst schlage ich dir den Kopf ab&quot;, sagte der junge Mann. Er packte sie am Haar und zog sie mit:&quot;Sag keinen Ton, sonst töte ich dich.&quot; Er führte sie hinaus und nahm sie hinter sich auf das Pferd. Das Mädchen weinte bitterlich, doch der Junge Mann trieb sein Pferd an und ritt heimwärts.</p>
+      <p>&quot;Zu wem bringst du mich?&quot; fragte das Mädchen.</p>
+      <p>&quot;Zu mir.&quot;</p>
+      <p>&quot;Du belügst mich&quot;, sagte das Mädchen.</p>
+      <p>Er schlug das Pferd mit der Peitsche, und es stob davon. Der Sohn des Wesirs gab ihm auch den Vogel, der in dem Käfig saß, und so kam der junge Mann zu seinem Vater.</p>
+      <p>Alle freuten sich, und der Herrscher gewann sein Augenlicht zurück. Es wurde ein großes Fest veranstaltet. Auch der Sohn des Wesirs kam mit und blieb bei dem jungen Mann wohnen.</p>
+    </body>
+  </text>
 </TEI>

@@ -1,191 +1,193 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">БАРАН</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a467Kau Die drei Zauberinnenschwestern</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_50.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_50">
-  <body>
-   <head>БАРАН</head>
-   <p>Что рассказать, что не рассказывать? Был, говорят, не был один человек. У него было два сына. Отец сыновьям сказал: «После смерти похороните меня во дворце и сверху засыпьте солью». Сыновья исполнили завещание отца и, как он сказал, засыпали его могилу солью.</p>
-   <p>Каждый день на кладбище приходил крупный баран, чтобы лизатъ солъ. Однажды старший сын пытался его поймать, но тот вырвался и убежал. На следующий день подготовил коня, пошел на могилу отца и стал ждать: «Как только появится, поймаю». Появился баран, старший сын вскочил на коня и помчался за ним. Баран бежал, вслед за ним мчались они, по, когда дошли до молочной реки, баран исчез с глаз. Когда, баран исчез, конь вдруг выпил молока из этой реки, и тотчас конь и юноша превратились в камни.</p>
-   <p>На следующий день баран опятъ пришел на могилу лизатъ солъ. Младший брат также попытался его поймать, но тот и от него тоже сбежал. На следующий день встал рано утром, оседлал койя и стал ждать. Как только пришел баран, младший брат сел на коня и бросился за ним. Он мчался на коне за бегущим, бараном и при переходе моста через молочную реку убил его и бросил в реку. Младший брат поехал оттуда дальше и приехал в одно село. Там он встретил людей в шкурах на голом теле вместо одежды. Он спросил их: «Почему вы так одеты?» Они ему ответили: «Корабль с нашей одеждой затонул посреди моря».</p>
-   <p>На следующий день они посадили этого юношу на лодку и поплыли по молочной реке. Младший брат плыл, оглядываясь вокруг. Когда достигли середины, он увидел, девушку, которая тянула их лодку в воду. Тут же он подбежал и схватил ее за волосы. Младший брат никак не мог побороть ее, но упорно не отпускал ее волосы. Через некоторое, время волосы порвались, а она отцепилась от лодки и нырнула в море. Лодка приплыла к берегу, и все жители села успокоились. Они настолько обрадовались, что там же решили выдать за юношу самую красивую девушку в селе. Он сказал: «Мне от вас много вещей не. нужно, дайте мне коня, одежду, ружье, и отпустите меня». Оседлал коня, взял ружье и отправился в путъ в ту сторону, откуда восходит солнце.</p>
-   <p>Оставил позади семь гор и семъ рек, пришел в одно село. Когда там был в гостях у одной женщины, он увидел, что жители села собрались вместе. Видя, что они сильно опечалены, младший брат спросил у той старой женщины: «Чем они так удручены?» Она ответила: «У самого богатого человека похитили единственного сына». Потом старая женщина пошла туда, где собрались жители села, и сказала: «Ко мне домой пришел один юноша, если бы у него не было способностей, он не попал бы сюда. Наверное, там он убил барана». Богатый человек пригласил его домой и спросил: «Сможешь ли ты найти моего сына?» «Если смогу, найду», — ответил он.</p>
-   <p>Когда он отправлялся в путь, люди предупреждали его: «Не ходи туда, тебя тоже похитят». По пути он натолкнулся на одну яму. Когда он забрался внутрь, увидел стеклянный дом. Увидев его, какая-то девушка хотела ускользнуть, но он бросился за ней и успел схватитъ ее обувь. Когда он с обувью ходил по дому, он нашел сына богатого человеки. Младший брат вернулся с ним, и все жители села обрадовались. Жители села выдали за него красивую девушку. Он на это не согласился, и по дополнительной договоренности ему дали коня и ружье.</p>
-   <p>Взяв ружье, он поехал на коне в сторону восхода солнца и приехал в одно село. Он увидел там людей, просивших Аллаха с протянутыми к небу руками, чтобы он дал им дождь. Он спросил: «О чем вы просите?»Жители рассказали ему о том, какое горе их постигло: «Наступила засуха, высохли поля, и погиб наш скот». Младший брат раздвинул людей в стороны, выстрелил в небо, и на землю упали палец и кольцо. Он взял, положил их в карман, и полил дождь. Жители того села хотели датъ ему денег, но младший брат сказал: «Мне ваше богатство не нужно. Вы мне дайте хорошего коня, новую одежду и проводите меня». Взял у них хорошего коня, сел на него и поехал, в сторону восхода солнца.</p>
-   <p>Одну гору оставил позади, вторую оставил позади и, когда оставил позади третью, очутился в темном лесу с узкой тропой. Пошел по этой тропинке и дошел до одной поляны. На краю тойполяны он увидел трехэтажный дом. Осматривая, младший брат походил там внутри, но никого не нашел. Когда он вышел на балкон третьего этажа, увидел под балконом трех красивых девушек, которые снимали с себя птичью одежду. Он услышал, как самая старшая сказала: «Я бы хотела выйти замуж за того юношу, который вырвал мои волосы, когда я топила корабль, груженный одеждой». Средняя девушка сказала: «Я бы хотела выйти за того юношу, который пришел за похищенным мною сыном богатого человека и отобрал у меня обувь». Самая младшая сказала: «Я держала облако и не давала идти дождю. Появился один юноша, выстрелил из ружья, оторвал мой палец с кольцом, и я не смогла удержать дождь. Я бы хотела выйти за того юношу». Через некоторое время младший брат все перечисленные ими вещи бросил к их ногам. Они подошли втроем, встали перед ним. и спросили: «Что ты от нас хочешь?» Юноша сказал: «Отвезите меня в родительский дом».Девушки принесли вещь с тремя сторонами и сказали: «Эта вещь сделает все, что ты. хочешь, и доставит, куда хочешь».</p>
-   <p>Сел на нее младший брат, приехал в село и сказал: «Найдите моего старшего брата». И сразу же пришел старший брат и привел коня. С тех пор никто не. был на могиле отца. Оба брата построили хорошие дома и жили спокойной жизнью.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">БАРАН</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a467Kau Die drei Zauberinnenschwestern</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_50.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_50">
+    <body>
+      <head>БАРАН</head>
+      <p>Что рассказать, что не рассказывать? Был, говорят, не был один человек. У него было два сына. Отец сыновьям сказал: «После смерти похороните меня во дворце и сверху засыпьте солью». Сыновья исполнили завещание отца и, как он сказал, засыпали его могилу солью.</p>
+      <p>Каждый день на кладбище приходил крупный баран, чтобы лизатъ солъ. Однажды старший сын пытался его поймать, но тот вырвался и убежал. На следующий день подготовил коня, пошел на могилу отца и стал ждать: «Как только появится, поймаю». Появился баран, старший сын вскочил на коня и помчался за ним. Баран бежал, вслед за ним мчались они, по, когда дошли до молочной реки, баран исчез с глаз. Когда, баран исчез, конь вдруг выпил молока из этой реки, и тотчас конь и юноша превратились в камни.</p>
+      <p>На следующий день баран опятъ пришел на могилу лизатъ солъ. Младший брат также попытался его поймать, но тот и от него тоже сбежал. На следующий день встал рано утром, оседлал койя и стал ждать. Как только пришел баран, младший брат сел на коня и бросился за ним. Он мчался на коне за бегущим, бараном и при переходе моста через молочную реку убил его и бросил в реку. Младший брат поехал оттуда дальше и приехал в одно село. Там он встретил людей в шкурах на голом теле вместо одежды. Он спросил их: «Почему вы так одеты?» Они ему ответили: «Корабль с нашей одеждой затонул посреди моря».</p>
+      <p>На следующий день они посадили этого юношу на лодку и поплыли по молочной реке. Младший брат плыл, оглядываясь вокруг. Когда достигли середины, он увидел, девушку, которая тянула их лодку в воду. Тут же он подбежал и схватил ее за волосы. Младший брат никак не мог побороть ее, но упорно не отпускал ее волосы. Через некоторое, время волосы порвались, а она отцепилась от лодки и нырнула в море. Лодка приплыла к берегу, и все жители села успокоились. Они настолько обрадовались, что там же решили выдать за юношу самую красивую девушку в селе. Он сказал: «Мне от вас много вещей не. нужно, дайте мне коня, одежду, ружье, и отпустите меня». Оседлал коня, взял ружье и отправился в путъ в ту сторону, откуда восходит солнце.</p>
+      <p>Оставил позади семь гор и семъ рек, пришел в одно село. Когда там был в гостях у одной женщины, он увидел, что жители села собрались вместе. Видя, что они сильно опечалены, младший брат спросил у той старой женщины: «Чем они так удручены?» Она ответила: «У самого богатого человека похитили единственного сына». Потом старая женщина пошла туда, где собрались жители села, и сказала: «Ко мне домой пришел один юноша, если бы у него не было способностей, он не попал бы сюда. Наверное, там он убил барана». Богатый человек пригласил его домой и спросил: «Сможешь ли ты найти моего сына?» «Если смогу, найду», — ответил он.</p>
+      <p>Когда он отправлялся в путь, люди предупреждали его: «Не ходи туда, тебя тоже похитят». По пути он натолкнулся на одну яму. Когда он забрался внутрь, увидел стеклянный дом. Увидев его, какая-то девушка хотела ускользнуть, но он бросился за ней и успел схватитъ ее обувь. Когда он с обувью ходил по дому, он нашел сына богатого человеки. Младший брат вернулся с ним, и все жители села обрадовались. Жители села выдали за него красивую девушку. Он на это не согласился, и по дополнительной договоренности ему дали коня и ружье.</p>
+      <p>Взяв ружье, он поехал на коне в сторону восхода солнца и приехал в одно село. Он увидел там людей, просивших Аллаха с протянутыми к небу руками, чтобы он дал им дождь. Он спросил: «О чем вы просите?»Жители рассказали ему о том, какое горе их постигло: «Наступила засуха, высохли поля, и погиб наш скот». Младший брат раздвинул людей в стороны, выстрелил в небо, и на землю упали палец и кольцо. Он взял, положил их в карман, и полил дождь. Жители того села хотели датъ ему денег, но младший брат сказал: «Мне ваше богатство не нужно. Вы мне дайте хорошего коня, новую одежду и проводите меня». Взял у них хорошего коня, сел на него и поехал, в сторону восхода солнца.</p>
+      <p>Одну гору оставил позади, вторую оставил позади и, когда оставил позади третью, очутился в темном лесу с узкой тропой. Пошел по этой тропинке и дошел до одной поляны. На краю тойполяны он увидел трехэтажный дом. Осматривая, младший брат походил там внутри, но никого не нашел. Когда он вышел на балкон третьего этажа, увидел под балконом трех красивых девушек, которые снимали с себя птичью одежду. Он услышал, как самая старшая сказала: «Я бы хотела выйти замуж за того юношу, который вырвал мои волосы, когда я топила корабль, груженный одеждой». Средняя девушка сказала: «Я бы хотела выйти за того юношу, который пришел за похищенным мною сыном богатого человека и отобрал у меня обувь». Самая младшая сказала: «Я держала облако и не давала идти дождю. Появился один юноша, выстрелил из ружья, оторвал мой палец с кольцом, и я не смогла удержать дождь. Я бы хотела выйти за того юношу». Через некоторое время младший брат все перечисленные ими вещи бросил к их ногам. Они подошли втроем, встали перед ним. и спросили: «Что ты от нас хочешь?» Юноша сказал: «Отвезите меня в родительский дом».Девушки принесли вещь с тремя сторонами и сказали: «Эта вещь сделает все, что ты. хочешь, и доставит, куда хочешь».</p>
+      <p>Сел на нее младший брат, приехал в село и сказал: «Найдите моего старшего брата». И сразу же пришел старший брат и привел коня. С тех пор никто не. был на могиле отца. Оба брата построили хорошие дома и жили спокойной жизнью.</p>
+    </body>
+  </text>
 </TEI>

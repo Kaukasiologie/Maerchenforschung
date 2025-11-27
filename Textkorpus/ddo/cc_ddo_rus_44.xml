@@ -1,195 +1,197 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">ТЕТКА</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a402 Maus als Braut</item>
-      <item>a471 Brücke zur anderen Welt</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_44.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_44">
-  <body>
-   <head>ТЕТКА</head>
-   <p>Был, говорят, не был один богатый человек. У него было три сына. Когда сыновья стали взрослыми, отец сказал: «Теперь настало время вам жениться, поднимайтесь па ту горку и стреляйте из лука. На чью крышу стрела упадет, из того дома и девушку возьмем». Поднялись трое братьев на горку и выстрелили из лука. У старших братьев стрела попала на крышу таких же богатых людей, как и они. Стрелу младшего брата никак не могли найти. Отец спрашивал: «Еще не нашел стрелу?» Дней пять искали, и наконец сам младший брат нашел ее возле камня на. берегу моря.</p>
-   <p>Когда он шел со стрелой, глядь: позади скачет лягушка. «Что же. это здесь происходит?» - удивился он. Отец спросил младшего сына: «Не нашел, что ли, еще?» «На берегу моря нашел стрелу, а позади лягушка прыгала», - ответил сын отцу. «Теперь делать нечего, мы должны согласиться с тем, что нам дал Аллах», - сказал отец.</p>
-   <p>Младший брат и лягушка начали вместе жить. Однажды, когда он вернулся с улицы, все дома было прибранным. Младший брат удивился, мол, кто же тут дома навел такую красоту. На второй день, вернувшись, он обнаружил на столе яства - лучшие из лучших. «Надо узнать, кто же приготовил эту еду», -решил юноша.</p>
-   <p>Притворился, что вышел на улицу, а сам подсматривал из-за двери. Из-под кровати выскочила лягушка, перед ним же скинула с себя кожу, и появилась красивая девушка. Увидев такое чудо, он открыл дверь, зашел в дом и бросил кожу лягушки в печь. Тогда девушка сказала: «Во вред себе ты бросил кожу в печь». С этого времени младший сын и красивая девушка, в которую превратилась .лягушка, стали житъ вместе.</p>
-   <p>Однажды, к ним зашел отец. Увидев жену сына, отец стал завидовать сыну. Однажды отец пригласил сына домой и сказал: «Я тебя убью, если ты не достанешь столько винограда, чтобы было достаточно для села». Когда муж пришел домой с опущенной головой, жена спросила: «Что случилось? Почему ты такой печальный?» Муж сказал: «Отец поставил передо мной трудную задачу. Мне надо достать столько винограда, чтобы было достаточно для села». «Не расстраивайся, - сказала жена, - пойди к берегу моря и крикни один раз, а дальше сам узнаешь, что нужно делать».</p>
-   <p>Пошел к берегу моря младший сын и закричал, вдруг появилась одна женщина. Она спросила: «Что тебе надо?» Младший сын рассказал о том, что его мучает. Женщина нырнула в море, вынесла оттуда горсть зерна и сказала: «На окне каждого человека положи ио одному зерну, а дальше не твоя забота». Он пошел и положил на окне каждого человека по зерну, что дала ему женщина, появившаяся. из моря. К рассвету, начиная с дома его отца во всех домах в селе нашли достаточно винограда.</p>
-   <p>На следующий день отец сказал: «Если завтра не достанешь риса, чтобы хватило на всех, убью». В тот день он опятъ пришел домой грустный, поэтому жена спросила: «Почему сегодня ты опять такой грустный?» Он рассказал, какую задачу отец поставил перед ним. Жена сказала: «Пойди сегодня опятъ к берегу моря и так же крикни. Она тебе поможет». На следующий день младший брат опять пошел к берегу моря. Как только крикнул, опятъ появилась женщина и спросила младшего брата: « Что тебе надо?» Он рассказал ей, какое горе его постигло. Как и раньше, отдала ему зерна и сказала: «Положи их у каждого на окне». Вечером младший брат положил зерна, которые дала та женщина, на окне каждого дома и пошел домой.</p>
-   <p>На третий день отец опять позвал его и сказал: «Ты выполнил два моих условия. На третий раз пойди к своей умершей матери и спроси у нее, где находятся золотые сабля, ружье и пояс, и сама она где - в раю или в аду». В третий раз спросила жена мужа, почему он такой грустный. Муж рассказал, что ему сказал отец. Жена опятъ отправила мужа к берегу моря. Когда, он крикнул, появилась та же самая женщина. Она сказала юноше: «Когда пойдешь отсюда, увидишь пастуха с овцами. Овцы будут ходить</p>
-   <p>туда-сюда и не есть траву, какая бы рослая она ни была, а пастух, хотъ и есть за спиной еда, не будет успевать ее есть. Когда пойдешь оттуда дальше, увидишь одного человека, который не может питъ священную воду, хотя она находится в его руках. Еще дальше пойдешь оттуда и увидишь белый камень. Отодвинешь его в сторону, сойдешь вниз, увидишь большую яму и зайдешь туда внутрь, а там найдешь сидящую мать». Юноша пошел так, как сказала морская женщина. Он увидел отару овец, которые ходят туда-сюда и не могут есть траву, какая бы рослая она ни была, и пастуха, который не успевал есть, хотя еда у него была. Чуть дальше, пошел и нашел человека, который не успевает пить воду, хотя она находится за его спиной. Юноша дошел до белого камня, отодвинул его в сторону, зашел в пещеру и нашел матъ. Мать быстро встала и спросила: «Откуда ты. сюда пришел?» Его мать, оказывается, умерла, несколько лет. тому назад. Сын рассказал, для чего отец его отправил к ней. Матъ сказала: «Скажи отцу, что я в раю. Золотая сабля, ружье и пояс находятся там, где спрятал отец. Пусть сабля, разрубит шею, ружье стреляет в сердце, пояс посередине разрежет». Сказав это, матъ исчезла с глаз.</p>
-   <p>Когда юноша шел обратно, он увидел того же пастуха и овец, которые ходили туда-сюда и не ели, хотя там было очень много травы. Юноша спросил, почему овцы, просто так бродят, хотя имеется много травы. Пастух сказал: «Раньше я пускал овец на чужое поле, поэтому теперь не успеваю поесть, хотя еда находится за спиной». А человек, который не может питъ воду, хотя она и. находится у него за спиной, сказал: «В своей жизни я никому не давал воды. Поэтому теперь я дошел до такого состояния». Возвращаясь, этот юноша дошел до берега моря, из воды появилась та женщина и спросила: «Что случилось, сын моей сестры?» Рассказал он, что случилось, и пошел домой.</p>
-   <p>Пришел отец, и сьм рассказал ему, как матъ сказала: «Ей богу, мама находится в раю. Эта золотая сабля, ружье и пояс находятся там, где ты спрятал. Пустъ сабля перережет шею, ружье стреляет в сердце, пояс посередине разрежет». Как. только сьм это сказал, сабля отсекла голову отцу, ружье выстрелило ему в сердце, а пояс разрезал посередине. Отец сильно мучил мать, когда она была жива.</p>
-   <p>С тех пор юноша и его жена жили спокойной жизнью.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">ТЕТКА</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a402 Maus als Braut</item>
+            <item>a471 Brücke zur anderen Welt</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_44.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_44">
+    <body>
+      <head>ТЕТКА</head>
+      <p>Был, говорят, не был один богатый человек. У него было три сына. Когда сыновья стали взрослыми, отец сказал: «Теперь настало время вам жениться, поднимайтесь па ту горку и стреляйте из лука. На чью крышу стрела упадет, из того дома и девушку возьмем». Поднялись трое братьев на горку и выстрелили из лука. У старших братьев стрела попала на крышу таких же богатых людей, как и они. Стрелу младшего брата никак не могли найти. Отец спрашивал: «Еще не нашел стрелу?» Дней пять искали, и наконец сам младший брат нашел ее возле камня на. берегу моря.</p>
+      <p>Когда он шел со стрелой, глядь: позади скачет лягушка. «Что же. это здесь происходит?» - удивился он. Отец спросил младшего сына: «Не нашел, что ли, еще?» «На берегу моря нашел стрелу, а позади лягушка прыгала», - ответил сын отцу. «Теперь делать нечего, мы должны согласиться с тем, что нам дал Аллах», - сказал отец.</p>
+      <p>Младший брат и лягушка начали вместе жить. Однажды, когда он вернулся с улицы, все дома было прибранным. Младший брат удивился, мол, кто же тут дома навел такую красоту. На второй день, вернувшись, он обнаружил на столе яства - лучшие из лучших. «Надо узнать, кто же приготовил эту еду», -решил юноша.</p>
+      <p>Притворился, что вышел на улицу, а сам подсматривал из-за двери. Из-под кровати выскочила лягушка, перед ним же скинула с себя кожу, и появилась красивая девушка. Увидев такое чудо, он открыл дверь, зашел в дом и бросил кожу лягушки в печь. Тогда девушка сказала: «Во вред себе ты бросил кожу в печь». С этого времени младший сын и красивая девушка, в которую превратилась .лягушка, стали житъ вместе.</p>
+      <p>Однажды, к ним зашел отец. Увидев жену сына, отец стал завидовать сыну. Однажды отец пригласил сына домой и сказал: «Я тебя убью, если ты не достанешь столько винограда, чтобы было достаточно для села». Когда муж пришел домой с опущенной головой, жена спросила: «Что случилось? Почему ты такой печальный?» Муж сказал: «Отец поставил передо мной трудную задачу. Мне надо достать столько винограда, чтобы было достаточно для села». «Не расстраивайся, - сказала жена, - пойди к берегу моря и крикни один раз, а дальше сам узнаешь, что нужно делать».</p>
+      <p>Пошел к берегу моря младший сын и закричал, вдруг появилась одна женщина. Она спросила: «Что тебе надо?» Младший сын рассказал о том, что его мучает. Женщина нырнула в море, вынесла оттуда горсть зерна и сказала: «На окне каждого человека положи ио одному зерну, а дальше не твоя забота». Он пошел и положил на окне каждого человека по зерну, что дала ему женщина, появившаяся. из моря. К рассвету, начиная с дома его отца во всех домах в селе нашли достаточно винограда.</p>
+      <p>На следующий день отец сказал: «Если завтра не достанешь риса, чтобы хватило на всех, убью». В тот день он опятъ пришел домой грустный, поэтому жена спросила: «Почему сегодня ты опять такой грустный?» Он рассказал, какую задачу отец поставил перед ним. Жена сказала: «Пойди сегодня опятъ к берегу моря и так же крикни. Она тебе поможет». На следующий день младший брат опять пошел к берегу моря. Как только крикнул, опятъ появилась женщина и спросила младшего брата: « Что тебе надо?» Он рассказал ей, какое горе его постигло. Как и раньше, отдала ему зерна и сказала: «Положи их у каждого на окне». Вечером младший брат положил зерна, которые дала та женщина, на окне каждого дома и пошел домой.</p>
+      <p>На третий день отец опять позвал его и сказал: «Ты выполнил два моих условия. На третий раз пойди к своей умершей матери и спроси у нее, где находятся золотые сабля, ружье и пояс, и сама она где - в раю или в аду». В третий раз спросила жена мужа, почему он такой грустный. Муж рассказал, что ему сказал отец. Жена опятъ отправила мужа к берегу моря. Когда, он крикнул, появилась та же самая женщина. Она сказала юноше: «Когда пойдешь отсюда, увидишь пастуха с овцами. Овцы будут ходить</p>
+      <p>туда-сюда и не есть траву, какая бы рослая она ни была, а пастух, хотъ и есть за спиной еда, не будет успевать ее есть. Когда пойдешь оттуда дальше, увидишь одного человека, который не может питъ священную воду, хотя она находится в его руках. Еще дальше пойдешь оттуда и увидишь белый камень. Отодвинешь его в сторону, сойдешь вниз, увидишь большую яму и зайдешь туда внутрь, а там найдешь сидящую мать». Юноша пошел так, как сказала морская женщина. Он увидел отару овец, которые ходят туда-сюда и не могут есть траву, какая бы рослая она ни была, и пастуха, который не успевал есть, хотя еда у него была. Чуть дальше, пошел и нашел человека, который не успевает пить воду, хотя она находится за его спиной. Юноша дошел до белого камня, отодвинул его в сторону, зашел в пещеру и нашел матъ. Мать быстро встала и спросила: «Откуда ты. сюда пришел?» Его мать, оказывается, умерла, несколько лет. тому назад. Сын рассказал, для чего отец его отправил к ней. Матъ сказала: «Скажи отцу, что я в раю. Золотая сабля, ружье и пояс находятся там, где спрятал отец. Пусть сабля, разрубит шею, ружье стреляет в сердце, пояс посередине разрежет». Сказав это, матъ исчезла с глаз.</p>
+      <p>Когда юноша шел обратно, он увидел того же пастуха и овец, которые ходили туда-сюда и не ели, хотя там было очень много травы. Юноша спросил, почему овцы, просто так бродят, хотя имеется много травы. Пастух сказал: «Раньше я пускал овец на чужое поле, поэтому теперь не успеваю поесть, хотя еда находится за спиной». А человек, который не может питъ воду, хотя она и. находится у него за спиной, сказал: «В своей жизни я никому не давал воды. Поэтому теперь я дошел до такого состояния». Возвращаясь, этот юноша дошел до берега моря, из воды появилась та женщина и спросила: «Что случилось, сын моей сестры?» Рассказал он, что случилось, и пошел домой.</p>
+      <p>Пришел отец, и сьм рассказал ему, как матъ сказала: «Ей богу, мама находится в раю. Эта золотая сабля, ружье и пояс находятся там, где ты спрятал. Пустъ сабля перережет шею, ружье стреляет в сердце, пояс посередине разрежет». Как. только сьм это сказал, сабля отсекла голову отцу, ружье выстрелило ему в сердце, а пояс разрезал посередине. Отец сильно мучил мать, когда она была жива.</p>
+      <p>С тех пор юноша и его жена жили спокойной жизнью.</p>
+    </body>
+  </text>
 </TEI>

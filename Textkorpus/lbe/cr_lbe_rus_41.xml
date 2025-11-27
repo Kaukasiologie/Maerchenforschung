@@ -1,128 +1,165 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Lakische Folklore</title>
-      <title xml:lang="eng">Lak Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Lakische Folklore</title>
+        <title xml:lang="eng">Lak Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="lbe">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-       <geo />
-      </placeName>
-      <date>1956</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Халилов</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">X. М.</forename>
-        <surname xml:lang="rus">Халилов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="lbe">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+          <geo/>
+        </placeName>
+        <date>1956</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Халилов</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">X. М.</forename>
+            <surname xml:lang="rus">Халилов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_lbe_rus_41">
+  </teiHeader>
+  <text xml:id="cr_lbe_rus_41">
     <body>
-     <head>61. Герой </head>
-     <p>выгнав пастбище кунзунтту своего верблюда напоив черном море иса возвращался домой принимался бить жену приговаривая</p><p>свете герой сильнее</p><p>хотя жена кричала свете героя продолжал бить однажды жена исы зашла соседке хадижат соседка увидев измученное лицо встревожилась</p><p>тобою соседка отчего худеешь</p><p>жена исы рассказала бьет муж хадижат посоветовала</p><p>муж примется бить скажи пусть идет восток ту сторону кунзунтту узнает люди сильнее свете</p><p>иса верблюдом которого пас кунзунтту поил черном море вернулся домой стал бить жену приговаривая</p><p>свете герой сильнее</p><p>хочешь узнать иди восток ту сторону кунзунтту сказала жена</p><p>поколотив жену иса навьючил верблюда сел поехал восток боку гремела сабля колчан стрелами висел спиной лук держал руках ехал пса ехал очень долго ехал подъехал горе остановился стал готовиться отдыху увидел гора зашевелилась</p><p>недолго думая иса натянул лук выстрелил гору окаывается это пе гора дев лежал животе шевелил ногами казалось гора шевелится стрела псы причинила никакого вреда иса выстрелил второй</p><p>дев потер одной ногой другую иса выстрелил третий</p><p>неужели комар даст покоя воскликнул дев встал весь рост исой оказалась огромная круча иса испугавшись побежал дев погнался</p><p>пса прибежал одному пахарю которого звали ярмагомед стал просить</p><p>дядя ради аллаха спрячь век забуду твоей услуги ярмагомед поднял ису положил рот гал пахать успел сделать бброзды прибежал запыхавшийся дев стал спрашивать</p><p>эй пахарь видел бегущего сопляка знаешь делся</p><p>ярмагомед ответил</p><p>утра брал рот голоден жена запаздывает сегодня знаю делать</p><p>дев свое</p><p>видел сопляка спрятался</p><p>ярмагомед ответ</p><p>время послеобеденное знаю делает жена пор несет еду</p><p>дев снова раздражением спросил</p><p>эй тупоум спрашиваю жену думаю твоей еде спрашиваю спрятался сопляк</p><p>ярмагомед разозлился оп подумал дев отстанет поднял соху вместе быком ударил дева голове</p><p>оставив убитого дева поле ярмагомед пошел домой</p><p>дома поругал жену опоздание потребовал еды жена приготовила большой таз толокна поставила около кувшин бузой успел сделать трех глотков послышались крики</p><p>иди посмотри ругаются соседи сказал ярмагомед жене</p><p>жена вернулась говорит</p><p>богу властелин улице происходит никого</p><p>ярмагомед начал послышались крики снова послал жену па улицу вернулась сказала никого улице видела третий раздались крики ярмагомед прислушался оказалось крики несутся рта вспомнил исе вытащил иса весь измазан слюной толокном женщина вымыла посадила рядом мужем поели ярмагомед спросил ису</p><p>расскажи случилось тобой попал такую беду</p><p>иса рассказал пас верблюда кунзунтту поил черном море избивал жену ока надоумила отправиться иа восток встретился девом</p><p>ярмагомед сказал</p><p>послушай дружок сорок человек караваном сто верблюдов возвращались заработков</p><p>целый день ехали нигде видели подходящего места ночлега стемнело вдали показалась пещера сорок человек сто верблюдов уместились утром пришел чабан своими овцами наткнулся человеческий череп поддел посохом забросил далекодалеко оказывается пещера который разместились человеческим черепом успели проснуться погибли исключением моего товарища</p><p>падая упали мягкие тюки разбились выбит зуб товарища переломаны нос нога</p><p>подумай какие люди земле герой</p><p>вернувшись домой иса бил жену пас верблюда вацилу поил озере кунбяр</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>61. Герой </head>
+      <p>выгнав пастбище кунзунтту своего верблюда напоив черном море иса возвращался домой принимался бить жену приговаривая</p>
+      <p>свете герой сильнее</p>
+      <p>хотя жена кричала свете героя продолжал бить однажды жена исы зашла соседке хадижат соседка увидев измученное лицо встревожилась</p>
+      <p>тобою соседка отчего худеешь</p>
+      <p>жена исы рассказала бьет муж хадижат посоветовала</p>
+      <p>муж примется бить скажи пусть идет восток ту сторону кунзунтту узнает люди сильнее свете</p>
+      <p>иса верблюдом которого пас кунзунтту поил черном море вернулся домой стал бить жену приговаривая</p>
+      <p>свете герой сильнее</p>
+      <p>хочешь узнать иди восток ту сторону кунзунтту сказала жена</p>
+      <p>поколотив жену иса навьючил верблюда сел поехал восток боку гремела сабля колчан стрелами висел спиной лук держал руках ехал пса ехал очень долго ехал подъехал горе остановился стал готовиться отдыху увидел гора зашевелилась</p>
+      <p>недолго думая иса натянул лук выстрелил гору окаывается это пе гора дев лежал животе шевелил ногами казалось гора шевелится стрела псы причинила никакого вреда иса выстрелил второй</p>
+      <p>дев потер одной ногой другую иса выстрелил третий</p>
+      <p>неужели комар даст покоя воскликнул дев встал весь рост исой оказалась огромная круча иса испугавшись побежал дев погнался</p>
+      <p>пса прибежал одному пахарю которого звали ярмагомед стал просить</p>
+      <p>дядя ради аллаха спрячь век забуду твоей услуги ярмагомед поднял ису положил рот гал пахать успел сделать бброзды прибежал запыхавшийся дев стал спрашивать</p>
+      <p>эй пахарь видел бегущего сопляка знаешь делся</p>
+      <p>ярмагомед ответил</p>
+      <p>утра брал рот голоден жена запаздывает сегодня знаю делать</p>
+      <p>дев свое</p>
+      <p>видел сопляка спрятался</p>
+      <p>ярмагомед ответ</p>
+      <p>время послеобеденное знаю делает жена пор несет еду</p>
+      <p>дев снова раздражением спросил</p>
+      <p>эй тупоум спрашиваю жену думаю твоей еде спрашиваю спрятался сопляк</p>
+      <p>ярмагомед разозлился оп подумал дев отстанет поднял соху вместе быком ударил дева голове</p>
+      <p>оставив убитого дева поле ярмагомед пошел домой</p>
+      <p>дома поругал жену опоздание потребовал еды жена приготовила большой таз толокна поставила около кувшин бузой успел сделать трех глотков послышались крики</p>
+      <p>иди посмотри ругаются соседи сказал ярмагомед жене</p>
+      <p>жена вернулась говорит</p>
+      <p>богу властелин улице происходит никого</p>
+      <p>ярмагомед начал послышались крики снова послал жену па улицу вернулась сказала никого улице видела третий раздались крики ярмагомед прислушался оказалось крики несутся рта вспомнил исе вытащил иса весь измазан слюной толокном женщина вымыла посадила рядом мужем поели ярмагомед спросил ису</p>
+      <p>расскажи случилось тобой попал такую беду</p>
+      <p>иса рассказал пас верблюда кунзунтту поил черном море избивал жену ока надоумила отправиться иа восток встретился девом</p>
+      <p>ярмагомед сказал</p>
+      <p>послушай дружок сорок человек караваном сто верблюдов возвращались заработков</p>
+      <p>целый день ехали нигде видели подходящего места ночлега стемнело вдали показалась пещера сорок человек сто верблюдов уместились утром пришел чабан своими овцами наткнулся человеческий череп поддел посохом забросил далекодалеко оказывается пещера который разместились человеческим черепом успели проснуться погибли исключением моего товарища</p>
+      <p>падая упали мягкие тюки разбились выбит зуб товарища переломаны нос нога</p>
+      <p>подумай какие люди земле герой</p>
+      <p>вернувшись домой иса бил жену пас верблюда вацилу поил озере кунбяр</p>
+    </body>
+  </text>
+</TEI>

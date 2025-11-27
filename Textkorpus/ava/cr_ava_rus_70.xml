@@ -1,125 +1,146 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-       <geo />
-      </placeName>
-      <date>1959</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Д.</forename>
-        <surname xml:lang="rus">Дибиров</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+          <geo/>
+        </placeName>
+        <date>1959</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Д.</forename>
+            <surname xml:lang="rus">Дибиров</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName/>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_70">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_70">
     <body>
-     <head>40. Кто ловчее?</head>
-     <p>жили вора молодой постарше отправились побродить свету первом привале оказалось обоих числе прочих припасов половинке чурека запеченными яйцами</p><p>чурек испекла любовница признался младший вор</p><p>воскликнул старший</p><p>куски сложили обе половинки сошлись поняли воры одна любовница двоих</p><p>нам сказал младший вор любовницу разделишь чурек</p><p>пусть достанется самому ловкому предложил старший младший согласился</p><p>трапезы заметили дереве птичье гнездо</p><p>смогу незаметно птицы выкрасть яйцо сказал старший вор полез дерево</p><p>младший это время незаметно снял штаны</p><p>ловчее спросил старший вор слез дерева показал приятелю яйцо</p><p>засмеялся младший показал штаны</p><p>ловчее спросил старший вор слез дерева показал приятелю яйцо</p><p>засмеялся младший показал штаны</p><p>выиграл признался старший впереди</p><p>вскоре добрались большого города зашагали ханскому дворцу младший вор убил привратника отрезал голову двинулся внутренние покои старший шел следом бросился лев младший сунул голову мертвеца львиную пасть ударом кинжала прикончил зверя затем воры вошли кухню разожгли очаг положили разделанную баранью тушу которая висела стене</p><p>следи огнем скоро вернусь сказал младший вор вошел ханскую опочивальню</p><p>задушил ханского сказителя лег постель вскоре пришел хан улегся</p><p>эй сказитель спится расскажи какую сказку потребовал</p><p>слушай хан сказка особенно интересной ответил вор начал рассказывать случилось товарищем тех пор покинули родной город вор закончил сказку словами утром воры благополучно вышли дворца спросил хана</p><p>ловчее</p><p>младший ответил хан заснул</p><p>слышал сказал хан громко слышал старший вор закричал младший справедливо рассудил</p><p>старший признал побежденным затем воры отведали мяса ханского барашка разошлись младший родной город жениться любовнице старший искать счастья другом месте</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>40. Кто ловчее?</head>
+      <p>жили вора молодой постарше отправились побродить свету первом привале оказалось обоих числе прочих припасов половинке чурека запеченными яйцами</p>
+      <p>чурек испекла любовница признался младший вор</p>
+      <p>воскликнул старший</p>
+      <p>куски сложили обе половинки сошлись поняли воры одна любовница двоих</p>
+      <p>нам сказал младший вор любовницу разделишь чурек</p>
+      <p>пусть достанется самому ловкому предложил старший младший согласился</p>
+      <p>трапезы заметили дереве птичье гнездо</p>
+      <p>смогу незаметно птицы выкрасть яйцо сказал старший вор полез дерево</p>
+      <p>младший это время незаметно снял штаны</p>
+      <p>ловчее спросил старший вор слез дерева показал приятелю яйцо</p>
+      <p>засмеялся младший показал штаны</p>
+      <p>ловчее спросил старший вор слез дерева показал приятелю яйцо</p>
+      <p>засмеялся младший показал штаны</p>
+      <p>выиграл признался старший впереди</p>
+      <p>вскоре добрались большого города зашагали ханскому дворцу младший вор убил привратника отрезал голову двинулся внутренние покои старший шел следом бросился лев младший сунул голову мертвеца львиную пасть ударом кинжала прикончил зверя затем воры вошли кухню разожгли очаг положили разделанную баранью тушу которая висела стене</p>
+      <p>следи огнем скоро вернусь сказал младший вор вошел ханскую опочивальню</p>
+      <p>задушил ханского сказителя лег постель вскоре пришел хан улегся</p>
+      <p>эй сказитель спится расскажи какую сказку потребовал</p>
+      <p>слушай хан сказка особенно интересной ответил вор начал рассказывать случилось товарищем тех пор покинули родной город вор закончил сказку словами утром воры благополучно вышли дворца спросил хана</p>
+      <p>ловчее</p>
+      <p>младший ответил хан заснул</p>
+      <p>слышал сказал хан громко слышал старший вор закричал младший справедливо рассудил</p>
+      <p>старший признал побежденным затем воры отведали мяса ханского барашка разошлись младший родной город жениться любовнице старший искать счастья другом месте</p>
+    </body>
+  </text>
+</TEI>

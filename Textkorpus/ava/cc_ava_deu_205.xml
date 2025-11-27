@@ -1,220 +1,314 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title xml:lang="deu">II. Das edle Mädchen</title>
-<author>
-<name xml:id="WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
-</author>
-<author>
-<name xml:id="EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
-</author>
-<author>
-<name xml:id="JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
-</author>
-<respStmt>
-<resp>Annotated according to the ATU system</resp>
-<name xml:id="ED">
-<persName>
-<forename>Elguja</forename>
-<surname>Dadunashvili</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-</name>
-<name xml:id="DF">
-<persName>
-<forename>Diana</forename>
-<surname>Forker</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<publisher>
-<name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-</publisher>
-<pubPlace>
-<genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-</pubPlace>
-<date>2024</date>
-<distributor>
-<addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-<ref target="https://github.com/edadunashvili">Software und Texte</ref>
-</distributor>
-<availability>
-<p>
-<ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-</p>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="collection">
-<title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">II. Das edle Mädchen</title>
+        <author>
+          <name xml:id="WB">
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <author>
+          <name xml:id="EL">
+            <persName>
+              <forename>Ernst</forename>
+              <surname>Lewy</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
+        </author>
+        <author>
+          <name xml:id="JB">
+            <persName>
+              <forename>Johannes</forename>
+              <surname>Bechert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
        Johannes Bechert† and M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova and S. Šaxtamanov</title>
-<title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
+          <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
        Johannes Bechert† sowie von M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova und S. Šaxtamanov</title>
-<author role="author">
-<name ref="#WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-</author>
-<respStmt>
-<resp/>
-<name/>
-</respStmt>
-<extent>
-<measure unit="words"/>
-<measure unit="pages"/>
-</extent>
-<publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
-<distributor><ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
-</distributor>
-<date when="2007">The year 2007</date>
-<availability>
-<licence/>
-</availability>
-</bibl>
-<bibl type="digitalSource">
-               <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
-            </bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="deu">
-<index indexName="iso639-3"/>
-<ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-</language>
-</langUsage>
-<textClass>
-<keywords>
-<term type="writingSystem">utf-8</term>
-</keywords>
-<keywords scheme="http://uri.gbv.de/terminology/bk/">
-<term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-<term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-</keywords>
-<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-<term>prose</term>
-</keywords>
-<keywords scheme="https://d-nb.info/gnd/">
-<term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-<list>
-<item>a882 Die Wette auf die Treue der Ehefrau</item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-<list>
-<item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_205.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-<list>
-<item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
-<item>Warnung vor sozialer Diskriminierung</item>
-<item>Warnung vor Gewalt und Missbrauch</item>
-<item>Warnung vor ethnischen oder kulturellen Stereotypen</item>
-<item>Warnung vor Schönheitsnormen und Körperidealen</item>
-<item>Warnung vor diskriminierenden Darstellungen von Familienkonstellationen</item>
-<item>Warnung vor der Idealisierung von Kriminalität</item>
-</list>
-</keywords>
-</textClass>
-<creation>
-<placeName>
-<country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
-<region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
-<district/>
-<settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
-<geo/>
-</placeName>
-<date when="1918">1918</date>
-</creation>
-<particDesc>
-<person role="speaker">
-<persName>
-<forename>Nazmuddin</forename>
-<surname>Sajpudin</surname>
-</persName>
-<age>31</age>
-<birth>
-<date when="1887">1887</date>
-<placeName>
-<country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-<region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-<district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
-<settlement>Gunib</settlement>
-</placeName>
-</birth>
-</person>
-<person role="researcher">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-<person role="translator">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-</particDesc>
-</profileDesc>
-<revisionDesc>
-<listChange>
-<change>
-<name/>
-<date/>
-</change>
-</listChange>
-</revisionDesc>
-</teiHeader>
- <text xml:id="cc_ava_deu_205">
-  <body>
-   <head>II. Das edle Mädchen</head>
-   <p><cb n="9"/> Es waren einmal zwei Kameraden, die einander sehr ergeben waren. Von den beiden hieß der eine Ali, der andere Omar (“die beiden Namen waren...”). Eines Nachts gingen sie alle beide zu eines Mannes Hochzeit. Alle Mädchen mussten zu dieser Hochzeit tanzen kommen. Alis Schwester kam nicht dorthin. Dass sie nicht kam, erfuhren die Leute. Die Leute sagten: “Schickt jemanden, sie zu rufen.” Ali sagte zu Omar: “Mein Freund, gehe meine Schwester rufen.” Sogleich brach er auf. <cb n="10"/> Nachdem er in Alis Haus gegangen war (“in A.s Haus gegangen seiend”), weckte er Alis Schwester. Als er sie geweckt hat­te, sagte er: “Mach dich bereit, zur Hochzeit zu gehen.” Patimat stand  <pb n="171"/>sogleich auf, die Kleider anziehend machte sie sich fertig. Omar sagte zu Patimat: “Noch sind nicht alle versammelt. Lass uns beide ein we­nig spazieren (“herumstreifen”) gehen.” Omar führte sie, Patimat ver­ließ das Dorf, nach draußen, fern vom Dorfe <cb n="11"/> führte er sie. Omar sagte zu Patimat: “Hier musst du dich mit mir hinlegen.” Patimat sagte zu Omar: “Schämst du dich nicht, mir ein solches Wort zu sagen? Weil du das vorhattest (“im Herzen hattest”), hast du mich hierher ge­führt?” Omar sagte zu Patimat: “Ohne viel zu reden, lege dich auf den Boden.” Patimat bat Omar: “Aus Achtung für deinen Freund, meinen Bruder Ali, lass du mich.” <cb n="12"/> Ohne irgendwie mit dieser Bitte Pati­mats einverstanden zu sein, drängte er sie mit Gewalt auf den Boden. Patimat zog Omars Pistole aus dem Futteral und schoss Omar in die Stirn. Sogleich, ohne etwas zu sagen (“ohne zu finden den Mund zu sprechen”), starb Omar. Patimat ließ ihn dort und floh nach Hause. Patimat fand Ali noch nicht zurückgekehrt. Sie lag auf dem Bett und weinte. Nach nicht langer Zwischenzeit <cb n="13"/> kam Ali nach Hause. Ali fand Patimat weinend. Ali fragte Patimat: “Warum weinst du? Warum bist du nicht zur Hochzeit gekommen? Omar wurde doch von mir ge­schickt, dich zu rufen! (“wurde Omar nicht geschickt...?”)” Da schrie Patimat sehr laut und begann zu weinen. Ali sagte: “Was dir gesche­hen ist, erzähle mir schnell.” Patimat erzählte ihrem Bruder Ali alles, was mit Omar und ihr selbst geschehen war. <cb n="14"/> Da stand Ali auf und ging zu der Stelle, wo das geschehen war. Von dort ging er nach Hause und beruhigte die Weinende und dankte seiner Schwester sehr. Da erhellte sich die Nacht. Allen Leuten wurde Patimats Verhalten bekannt. Alle Leute verfluchten Omar, und dankten Patimat. Nachdem die Leute nachdacht hatten, begruben sie Omar an der Landstraße (“auf dem Weg, wo Leute entlang gingen”). <cb n="15"/> Auf den Grabstein hatte man geschrieben, was mit Patimat geschehen war. Wer immer es las, verfluchte Omar. Patimat sagte: “Einem Mann glaube ich nicht mehr.” Sie war eine berühmte Schönheit. Ein Königssohn reiste um­her. Er sah Omars Grab. Er kam zu ihm und las das auf dem Grabmal Geschriebene. Er schwor an dieser Stelle: <cb n="16"/> “Außer diesem Mädchen werde ich keine Frau heiraten,” [sagte er zu seinem Vater]. Der Name dieses Jünglings war Ezer. Ezer sagte seinem Vater, als er nach Hause kam: “An einem Ort habe ich ein Grab gefunden. Auf der Steinplatte war geschrieben, was geschehen war dem (“jenem”) toten Manne und einem Mädchen. Außer diesem Mädchen (“Tochter, junge Frau”)<pb n="172"/>werde ich kein anderes zur Frau nehmen,” sagte er zu seinem Vater. Der Vater sagte zu Ezer: “Meinetwegen werde ich dich mit ihr verheiraten, aber du wirst nicht mit ihr auskommen<note place="bottom">1215 A.K.: hal ‘Zustand’, raq ‘Herz’, re9eze ‘sich anpassen, übereinstimmen, Frieden schließen’, abize ‘sagen’, valre9ez-abize ‘in Eintracht leben’ </note> können.” <cb n="17"/> Ezer heiratete Patimat. Alle Freunde und Verwandten eingeladen, feierten sie eine schöne Hochzeit. Nach der Hochzeit ließen sie die Jungvermählten sich niederlegen. Ezer sagte zu Patimat: “Zieh’ mir bitte die Stiefel aus.” Patimat sagte zu Ezer: “Das ist keine Sache, die ich dir tun werde. Rufe die Dienerin, (mir) die Stiefel auszuziehen.” Da stand Ezer auf und sagte: “Danke, <cb n="18"/> meine Freundin, dir werde ich jetzt meine Fähigkeit an dir zeigen.” Patimat sagte: “Nachdem ich deine Fähigkeit gesehen haben werde, werde ich alles tun, was du auch sagst.” Ezer stand dann auf, zog sich an, bestieg ein gutes Pferd und ging weg. Zu (seiner) Frau sagte Ezer: “Ohne dir meine Fähigkeit gezeigt zu haben, werde ich nicht zurückkehren.” Als Ezer gegangen war, schloss Patimat das Zimmer, wo ihr Gespräch <cb n="19"/> stattgefunden hatte, zu. “Solange Ezer nicht zurückkehrt, wird es nicht geöffnet werden,” sagte sie. Ezer gelangte nach einer Woche zu einem großen Dorf. Da er in diesem Dorf keine Gastfreunde<note place="bottom">1216 Awarisch hobol ‘Freund’ wird hier und im Folgenden mit ‘Gastfreund’ übersetzt (siehe Bechert 1966)</note> hatte, stieg Ezer bei einer Witwe ab. Die Witwe sagte zu Ezer: “Ich bin eine arme Frau. Für einen so reichen Mann wie dich gibt es reiche Leute, warum steigst du nicht bei ihnen ab?” Ezer sagte zu der Witwe: “Ich bin ein Wanderer.” Die Witwe sagte zu Ezer: <cb n="20"/> “Bei einem König wird ein Fest<note place="bottom">1217 Im Folgenden wird züvmat (St.: ssuxmat ‘vesel´e, prazdnik; Lustbarkeit’ mit ‘Fest’ übersetzt. S. Anm. 188, 1057 </note> stattfinden. Bei diesem Fest werden alle Leute sein. Der König wird drei Trinkhörner<note place="bottom">1218 Das Wort 6ar ‘Horn’ wird im Folgenden mit ‘Trinkhorn’ übersetzt.</note> aufstellen. Wenn der, der alle diese drei Trinkhörner austrinkt, in drei Fähigkeiten gegen ihn selbst nicht gewinnt, tötet ihn der König. Wenn er gewinnt, muss der König ihm seine eigene Tochter geben.” Da dachte Ezer: “Geh’ ich, geh’ ich nicht zu diesem Fest?” Ezer ging zu dem Fest, was auch passieren mochte. <cb n="21"/> Als Ezer als Gast kam, standen alle Leute auf und bezeugten ihm Achtung und ließen ihn sitzen. Ezer sieht: Der König stellt ein Trinkhorn hin. Niemand nahm es von dem König. Ezer <pb n="173"/>fragte die Leute: “Was ist das für ein Trinkhorn? Warum nimmt es niemand?” Die Leute erzählten Ezer: “Dieses Horn wird auf das Wohl des Pferds des Königs selbst getrunken (“dieses Horn ist bezüglich des Pferds des Königs selbst”). Wer denkt: «Mein Pferd wird gewinnen», trinkt den Becher.” <cb n="22"/> Ezer nahm ihn und trank das Trinkhorn. Dann sah Ezer ebenso ein Trinkhorn, das alle Leute nicht trinken konnten. Ezer fragte: “Was ist das für ein Trinkhorn?” Die Leute erzählten Ezer: “Diesen Becher trinkt der Mann, der denkt: «Ich gewinne gegen den König beim Steinwurf.»” Auf sich selbst vertrauend (“Herz setzend”<note place="bottom">1219 s. Anm. 1045</note>), trank Ezer. Das dritte Mal sah Ezer: Ebenso kreisend kehrt das Trinkhorn zum König zurück. <cb n="23"/> Wieder fragte Ezer: “Was ist das für ein Trinkhorn?” Die Leute erzählten ihm: “Dieses Trink­horn trinkt der Mann, der seiner Frau vertraut.” Ezer trank auch das dritte Trinkhorn; er vertraute doch seiner Frau. Da sagten die Leute: “Getrunken hast du alles, nun werden wir sehen, wie du alle Dinge vollführst.” Der König sagte zu Ezer: “Mach dein Pferd bereit, dass es morgen mit meinem zusammen rennt.” <cb n="24"/> Ezer machte sein Pferd bereit, führte früh sein Pferd heraus, und kam zu dem König. Man ließ des Königs und sein Pferd rennen. Ezers Pferd gewann. Beim zweiten Male sagte der König zu Ezer: “Jetzt mach dich zum Steinwurf mit mir bereit.” Ezer sagte: “Ich bin bereit.” Dann warf der König einen Stein. Auch Ezer warf, Ezer gewann auch im Steinwurf gegen den König. <cb n="24"/> Dann nahm der König Ezer mit zu einem Pfosten.<note place="bottom">1220 oder, wenn die Lesung wuxun statt wu6un richtig ist: “Dann nahm der König Ezer mit und band ihn an einen Pfosten” (s. 38). </note> Der König schickte die beiden Söhne seines Wesirs, um Ezers Frau zu täuschen. Die beiden kamen nach fünf Tagen zu Ezers Dorf. Sie stie­gen an Ezers Wohnstätte ab. Ezers Frau, Patimat, empfing die Gast­freunde, ihnen Achtung bezeigend. Sie stellte den Gastfreunden das Essen hin, sorgte dafür, dass sie äßen, und zeigte ihnen das Bett zum Schlafen. Die Gastfreunde sagten zu Patimat: “Du hast alles gut gemacht, <cb n="26"/> aber einfach nur eine gute Nacht wünschen solltest du nicht. Du solltest dich zu uns legen.” Patimat sagte zu den Gast­freunden: “Auch das ist keine unmögliche Sache. Ich komme gleich und lege mich zu euch.” Patimat ging in ihr Zimmer. Patimat sagte zu ihrer Dienerin: “Zieh dir meine Kleider an und lege dich zu den <pb n="174"/>Gastfreunden schlafen.” Die Dienerin zog Patimats Kleider an und ging, sich zu den Gastfreunden zu legen. <cb n="27"/> Die Gastfreunde wussten nicht, dass es nicht Patimat war. Patimat hatte zu der Dienerin gesagt: “Was auch immer von den Gastfreunden getan wird, verbiete es nicht.” Sie hatten beliebiges Vergnügen mit ihr, nahmen ihr vom Finger einen Ring und schnitten ihr den Zopf vom Kopf. Indessen wurde die Nacht hell. Zu dieser Stunde stand sie (sc. die Dienerin) auf und kam weinend zu Patimat. Patimat erzählte sie alles, was man ihr angetan hatte. <cb n="28"/> Patimat sagte: “Das ist ohne Bedeutung, was sie auch getan haben; mach dir keine Sorgen (“es ist keine Notwen­digkeit”).” Zu der Stunde kochte Patimat für die Gastfreunde (das Wasser im) Ssamowar und stellte ihn den Gastfreunden hin. Sie goss ihnen den Tee ein und wandte sich zurück. Patimat hörte die Gast­freunde zueinander sagen: “Jetzt wird man doch sehen, welches Ding wir Ezer antun werden!<note place="bottom">1221 d.h.: jetzt werden wir es Ezer zeigen</note>” Das hörte Patimat in ihrem eigenen Zim­mer sitzend und sagte bei sich selbst: ”Das werden wir noch sehen, was ihr tun werdet.” Nach dem Tee fingen die Gastfreunde an, sich bereit zu machen, um ihres Weges zu gehen. <cb n="29"/> Patimat sagte zu den Gastfreunden: “Wohin eilt ihr? Bleibt heute Nacht noch hier.” Die Gastfreunde gingen, indem sie Patimat dankten. Als sie gegangen waren, zog Patimat gute Männerkleider an, bestieg ein gutes Pferd und ritt ihnen nach. Eines schönen Tages stiegen die Gäste zu Mittag auf einer Ebene ab, um zu essen. Als die Gastfreunde aßen, erreichte sie Patimat. Nachdem sie vom Pferde abgestiegen war, die Satteldecke (“Filz, Filzmantel (Burka)”) und das Reitzeug abgenommen hatte, 30 das Pferd fressen ließ und die Decke unterlegt hatte, setzte sich Patimat obendrauf zum Essen nieder. Patimat fragte die Gastfreunde: “Woher, wohin geht ihr?” Die Gastfreunde erzählten Patimat alles, was ihnen und Ezer geschehen war und alles, was mit Ezers Frau geschehen war. Patimat sagte dann: “Lasst uns gegen die Langeweile (“Herz an etwas festmachend”) einzeln (nacheinander) mit dem Ge­wehr nach einem Ziele schießen.” Die jungen Leute waren einver­standen, nach dem Ziele zu schießen. “Um welche Sache wetten wir (“welche Wett–Sache legen wir”)?” fragte Patimat. “Wette, <cb n="31"/> worum du willst,” sagten jene. Patimat sagte: “Wenn ich gewinne, werde ich euch mein Siegel auf die Wirbelsäule drücken. Wenn ihr gewinnt, <pb n="175"/>werde ich tun, was ihr wollt.” Sie stimmten dieser Vereinbarung zu, schossen nach dem Ziel, zuerst die Gastfreunde, dann Patimat. Patimat gewann gegen sie beim Schießen. Sie drückte ihr Siegel auf ihre Wirbelsäule. Dann gingen die Gäste ihres Weges. Patimat machte sich ohne Verzug fertig, <cb n="32"/> ihres Weges zu gehen. Sie band die Decke auf dem Pferde fest und bestieg das Pferd, und bewegte sich hinter ihnen her. An diesem Tage gelangte sie abends zu ihrem Dorf. Sie stieg ab in einem Hause am Rande des Dorfes. Dieses Haus war das derselben Witwe, bei der Ezer abgestiegen war. Als sie ins Haus eintrat und den Gruß gab, gab die Witwe den Gruß zurück und empfing den Gast­freund. <cb n="33"/> Diese Nacht verbrachte sie dort irgendwie. Am Morgen aufgestanden, hörte der Mann (sc. die als Mann verkleidete Patimat), der hinausging (“auf die Straße”), den Lärmen (“Stimme, Laut”<note place="bottom">1222 Cf. J.B. in Lewys Übersetzung: ‘Lärm, Festivität, Rummel’; s. Anm. 1057</note>) des Festes. Er (sie) fragte die Witwe: “Was ist das für ein Lärmen?” Die Witwe erzählte ihm (ihr): “Dieses Lärmen ist an der Heimstätte des Königs. Irgendein Mann war zu mir gekommen. Zu der Zeit war bei dem König <cb n="34"/> ein Festvergnügen.<note place="bottom">1223 Hier und im Folgenden wird kep mit ‘Festvergnügen’ übersetzt; s. Anm. 224.</note> Der zu diesem Festver­gnügen gegangene Mann stritt mit dem König, um den König zu besiegen und trank die drei Trinkhörner des Königs. In zwei Fähig­keiten schlug er den König. In der dritten verlor er gegen den König. Heute wird er getötet. Aus diesem freudigen Anlass ist dieses Fest.” Patimat sagte zu der Witwe: “Jetzt werde ich zu des Königs Heim­stätte gehen.” <cb n="35"/> Von dort ging er (sie) zu des Königs Heimstätte. Dort fand er (sie) für sich ein fröhliches Fest. Dort sagte er (sie) zu den Leuten: “Ich will den König sehen.” Da brachten die Leute ihn (sie) zu dem König hin. Der König fragte: “Was wünschst du (“Wunsch ist was”)?” Er (sie) sagte zu dem König: “Zwei von meinen Sklaven sind verlorengegangen. Sie sollen an deiner Heimstätte sein, habe ich gehört, und ich bin gekommen.” <cb n="36"/> Der König, nachdem er alle Leute versammelt hatte, sagte zu dem Gastfreund: “Sieh nach, ob sich unter denen da nicht deine Sklaven befinden.” Der Gastfreund sagte: “Da sind sie nicht.” Der König sagte: “Außer meinen beiden Wesirssöhnen habe ich keine Leute mehr.” Der Gast sagte: “Ich möchte diese deine beiden Wesirssöhne sehen.” Sogleich ließ der König sie rufen. <cb n="37"/> Der Gastfreund sagte: “Jene sind sie.” Der König <pb n="176"/>sagte: “Wie sollen sie deine Sklaven sein? Jene sind meine Wesirs-söhne.” “Wessen Söhne sie auch sein mögen, mein Siegel ist auf ihnen. Sie sind meine Sklaven.” “Zeige dein Siegel,” sagte der König. Nachdem man sie die Kleider ausziehen ließ (“sie die Kleider aus­ziehen lassend”), sollte der König ihre Wirbelsäule sehen, und es fand sich an ihnen das Siegel <cb n="38"/> des Gastfreundes. Dann erzählte der Gast: “Ich bin kein Mann; ich bin die Frau des Mannes, der an den Pfosten gebunden ist, um von euch getötet zu werden. Weder haben diese von dir gesandten Männer mir den Ring genommen, noch haben sie mir den Zopf vom Kopf abgeschnitten. Ob er abgeschnitten ist, sieh nach.” Indem sie ihre Mütze abnahm, zeigte Patimat ihren Kopf dem Volk: <cb n="39"/> “Die Person, der sie den Zopf abgeschnitten haben und den Ring weggenommen haben, ist meine Dienerin.” Da ließ der König den angebundenen Ezer frei: Von Neuem ein Fest veranstaltend, gab er seine Tochter dem Ezer. Nachdem man alles noch Nötige gegeben hatte, gingen die Gastfreunde ihres Weges. Ezer sagte da zu Patimat: “Deine Fähigkeit hat meine Fähigkeit besiegt, 40 ich bin dir ergeben (“ich bin dir untertan”).” Auf diese Weise in Freude brachten sie ihr Leben hin.</p>
-  </body>
- </text>
+          <author role="author">
+            <name ref="#WB">
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#JB">
+              <persName>
+                <forename>Johannes</forename>
+                <surname>Bechert</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#EL">
+              <persName>
+                <forename>Ernst</forename>
+                <surname>Lewy</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
+          <distributor>
+            <ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
+          </distributor>
+          <date when="2007">The year 2007</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+        <bibl type="digitalSource">
+          <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a882 Die Wette auf die Treue der Ehefrau</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_205.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+            <item>Warnung vor sozialer Diskriminierung</item>
+            <item>Warnung vor Gewalt und Missbrauch</item>
+            <item>Warnung vor ethnischen oder kulturellen Stereotypen</item>
+            <item>Warnung vor Schönheitsnormen und Körperidealen</item>
+            <item>Warnung vor diskriminierenden Darstellungen von Familienkonstellationen</item>
+            <item>Warnung vor der Idealisierung von Kriminalität</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
+          <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
+          <geo/>
+        </placeName>
+        <date when="1918">1918</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Nazmuddin</forename>
+            <surname>Sajpudin</surname>
+          </persName>
+          <age>31</age>
+          <birth>
+            <date when="1887">1887</date>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
+              <settlement>Gunib</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ava_deu_205">
+    <body>
+      <head>II. Das edle Mädchen</head>
+      <p>
+        <cb n="9"/>
+         Es waren einmal zwei Kameraden, die einander sehr ergeben waren. Von den beiden hieß der eine Ali, der andere Omar (“die beiden Namen waren...”). Eines Nachts gingen sie alle beide zu eines Mannes Hochzeit. Alle Mädchen mussten zu dieser Hochzeit tanzen kommen. Alis Schwester kam nicht dorthin. Dass sie nicht kam, erfuhren die Leute. Die Leute sagten: “Schickt jemanden, sie zu rufen.” Ali sagte zu Omar: “Mein Freund, gehe meine Schwester rufen.” Sogleich brach er auf. 
+        <cb n="10"/>
+         Nachdem er in Alis Haus gegangen war (“in A.s Haus gegangen seiend”), weckte er Alis Schwester. Als er sie geweckt hat­te, sagte er: “Mach dich bereit, zur Hochzeit zu gehen.” Patimat stand  
+        <pb n="171"/>
+        sogleich auf, die Kleider anziehend machte sie sich fertig. Omar sagte zu Patimat: “Noch sind nicht alle versammelt. Lass uns beide ein we­nig spazieren (“herumstreifen”) gehen.” Omar führte sie, Patimat ver­ließ das Dorf, nach draußen, fern vom Dorfe 
+        <cb n="11"/>
+         führte er sie. Omar sagte zu Patimat: “Hier musst du dich mit mir hinlegen.” Patimat sagte zu Omar: “Schämst du dich nicht, mir ein solches Wort zu sagen? Weil du das vorhattest (“im Herzen hattest”), hast du mich hierher ge­führt?” Omar sagte zu Patimat: “Ohne viel zu reden, lege dich auf den Boden.” Patimat bat Omar: “Aus Achtung für deinen Freund, meinen Bruder Ali, lass du mich.” 
+        <cb n="12"/>
+         Ohne irgendwie mit dieser Bitte Pati­mats einverstanden zu sein, drängte er sie mit Gewalt auf den Boden. Patimat zog Omars Pistole aus dem Futteral und schoss Omar in die Stirn. Sogleich, ohne etwas zu sagen (“ohne zu finden den Mund zu sprechen”), starb Omar. Patimat ließ ihn dort und floh nach Hause. Patimat fand Ali noch nicht zurückgekehrt. Sie lag auf dem Bett und weinte. Nach nicht langer Zwischenzeit 
+        <cb n="13"/>
+         kam Ali nach Hause. Ali fand Patimat weinend. Ali fragte Patimat: “Warum weinst du? Warum bist du nicht zur Hochzeit gekommen? Omar wurde doch von mir ge­schickt, dich zu rufen! (“wurde Omar nicht geschickt...?”)” Da schrie Patimat sehr laut und begann zu weinen. Ali sagte: “Was dir gesche­hen ist, erzähle mir schnell.” Patimat erzählte ihrem Bruder Ali alles, was mit Omar und ihr selbst geschehen war. 
+        <cb n="14"/>
+         Da stand Ali auf und ging zu der Stelle, wo das geschehen war. Von dort ging er nach Hause und beruhigte die Weinende und dankte seiner Schwester sehr. Da erhellte sich die Nacht. Allen Leuten wurde Patimats Verhalten bekannt. Alle Leute verfluchten Omar, und dankten Patimat. Nachdem die Leute nachdacht hatten, begruben sie Omar an der Landstraße (“auf dem Weg, wo Leute entlang gingen”). 
+        <cb n="15"/>
+         Auf den Grabstein hatte man geschrieben, was mit Patimat geschehen war. Wer immer es las, verfluchte Omar. Patimat sagte: “Einem Mann glaube ich nicht mehr.” Sie war eine berühmte Schönheit. Ein Königssohn reiste um­her. Er sah Omars Grab. Er kam zu ihm und las das auf dem Grabmal Geschriebene. Er schwor an dieser Stelle: 
+        <cb n="16"/>
+         “Außer diesem Mädchen werde ich keine Frau heiraten,” [sagte er zu seinem Vater]. Der Name dieses Jünglings war Ezer. Ezer sagte seinem Vater, als er nach Hause kam: “An einem Ort habe ich ein Grab gefunden. Auf der Steinplatte war geschrieben, was geschehen war dem (“jenem”) toten Manne und einem Mädchen. Außer diesem Mädchen (“Tochter, junge Frau”)
+        <pb n="172"/>
+        werde ich kein anderes zur Frau nehmen,” sagte er zu seinem Vater. Der Vater sagte zu Ezer: “Meinetwegen werde ich dich mit ihr verheiraten, aber du wirst nicht mit ihr auskommen
+        <note place="bottom">1215 A.K.: hal ‘Zustand’, raq ‘Herz’, re9eze ‘sich anpassen, übereinstimmen, Frieden schließen’, abize ‘sagen’, valre9ez-abize ‘in Eintracht leben’ </note>
+         können.” 
+        <cb n="17"/>
+         Ezer heiratete Patimat. Alle Freunde und Verwandten eingeladen, feierten sie eine schöne Hochzeit. Nach der Hochzeit ließen sie die Jungvermählten sich niederlegen. Ezer sagte zu Patimat: “Zieh’ mir bitte die Stiefel aus.” Patimat sagte zu Ezer: “Das ist keine Sache, die ich dir tun werde. Rufe die Dienerin, (mir) die Stiefel auszuziehen.” Da stand Ezer auf und sagte: “Danke, 
+        <cb n="18"/>
+         meine Freundin, dir werde ich jetzt meine Fähigkeit an dir zeigen.” Patimat sagte: “Nachdem ich deine Fähigkeit gesehen haben werde, werde ich alles tun, was du auch sagst.” Ezer stand dann auf, zog sich an, bestieg ein gutes Pferd und ging weg. Zu (seiner) Frau sagte Ezer: “Ohne dir meine Fähigkeit gezeigt zu haben, werde ich nicht zurückkehren.” Als Ezer gegangen war, schloss Patimat das Zimmer, wo ihr Gespräch 
+        <cb n="19"/>
+         stattgefunden hatte, zu. “Solange Ezer nicht zurückkehrt, wird es nicht geöffnet werden,” sagte sie. Ezer gelangte nach einer Woche zu einem großen Dorf. Da er in diesem Dorf keine Gastfreunde
+        <note place="bottom">1216 Awarisch hobol ‘Freund’ wird hier und im Folgenden mit ‘Gastfreund’ übersetzt (siehe Bechert 1966)</note>
+         hatte, stieg Ezer bei einer Witwe ab. Die Witwe sagte zu Ezer: “Ich bin eine arme Frau. Für einen so reichen Mann wie dich gibt es reiche Leute, warum steigst du nicht bei ihnen ab?” Ezer sagte zu der Witwe: “Ich bin ein Wanderer.” Die Witwe sagte zu Ezer: 
+        <cb n="20"/>
+         “Bei einem König wird ein Fest
+        <note place="bottom">1217 Im Folgenden wird züvmat (St.: ssuxmat ‘vesel´e, prazdnik; Lustbarkeit’ mit ‘Fest’ übersetzt. S. Anm. 188, 1057 </note>
+         stattfinden. Bei diesem Fest werden alle Leute sein. Der König wird drei Trinkhörner
+        <note place="bottom">1218 Das Wort 6ar ‘Horn’ wird im Folgenden mit ‘Trinkhorn’ übersetzt.</note>
+         aufstellen. Wenn der, der alle diese drei Trinkhörner austrinkt, in drei Fähigkeiten gegen ihn selbst nicht gewinnt, tötet ihn der König. Wenn er gewinnt, muss der König ihm seine eigene Tochter geben.” Da dachte Ezer: “Geh’ ich, geh’ ich nicht zu diesem Fest?” Ezer ging zu dem Fest, was auch passieren mochte. 
+        <cb n="21"/>
+         Als Ezer als Gast kam, standen alle Leute auf und bezeugten ihm Achtung und ließen ihn sitzen. Ezer sieht: Der König stellt ein Trinkhorn hin. Niemand nahm es von dem König. Ezer 
+        <pb n="173"/>
+        fragte die Leute: “Was ist das für ein Trinkhorn? Warum nimmt es niemand?” Die Leute erzählten Ezer: “Dieses Horn wird auf das Wohl des Pferds des Königs selbst getrunken (“dieses Horn ist bezüglich des Pferds des Königs selbst”). Wer denkt: «Mein Pferd wird gewinnen», trinkt den Becher.” 
+        <cb n="22"/>
+         Ezer nahm ihn und trank das Trinkhorn. Dann sah Ezer ebenso ein Trinkhorn, das alle Leute nicht trinken konnten. Ezer fragte: “Was ist das für ein Trinkhorn?” Die Leute erzählten Ezer: “Diesen Becher trinkt der Mann, der denkt: «Ich gewinne gegen den König beim Steinwurf.»” Auf sich selbst vertrauend (“Herz setzend”
+        <note place="bottom">1219 s. Anm. 1045</note>
+        ), trank Ezer. Das dritte Mal sah Ezer: Ebenso kreisend kehrt das Trinkhorn zum König zurück. 
+        <cb n="23"/>
+         Wieder fragte Ezer: “Was ist das für ein Trinkhorn?” Die Leute erzählten ihm: “Dieses Trink­horn trinkt der Mann, der seiner Frau vertraut.” Ezer trank auch das dritte Trinkhorn; er vertraute doch seiner Frau. Da sagten die Leute: “Getrunken hast du alles, nun werden wir sehen, wie du alle Dinge vollführst.” Der König sagte zu Ezer: “Mach dein Pferd bereit, dass es morgen mit meinem zusammen rennt.” 
+        <cb n="24"/>
+         Ezer machte sein Pferd bereit, führte früh sein Pferd heraus, und kam zu dem König. Man ließ des Königs und sein Pferd rennen. Ezers Pferd gewann. Beim zweiten Male sagte der König zu Ezer: “Jetzt mach dich zum Steinwurf mit mir bereit.” Ezer sagte: “Ich bin bereit.” Dann warf der König einen Stein. Auch Ezer warf, Ezer gewann auch im Steinwurf gegen den König. 
+        <cb n="24"/>
+         Dann nahm der König Ezer mit zu einem Pfosten.
+        <note place="bottom">1220 oder, wenn die Lesung wuxun statt wu6un richtig ist: “Dann nahm der König Ezer mit und band ihn an einen Pfosten” (s. 38). </note>
+         Der König schickte die beiden Söhne seines Wesirs, um Ezers Frau zu täuschen. Die beiden kamen nach fünf Tagen zu Ezers Dorf. Sie stie­gen an Ezers Wohnstätte ab. Ezers Frau, Patimat, empfing die Gast­freunde, ihnen Achtung bezeigend. Sie stellte den Gastfreunden das Essen hin, sorgte dafür, dass sie äßen, und zeigte ihnen das Bett zum Schlafen. Die Gastfreunde sagten zu Patimat: “Du hast alles gut gemacht, 
+        <cb n="26"/>
+         aber einfach nur eine gute Nacht wünschen solltest du nicht. Du solltest dich zu uns legen.” Patimat sagte zu den Gast­freunden: “Auch das ist keine unmögliche Sache. Ich komme gleich und lege mich zu euch.” Patimat ging in ihr Zimmer. Patimat sagte zu ihrer Dienerin: “Zieh dir meine Kleider an und lege dich zu den 
+        <pb n="174"/>
+        Gastfreunden schlafen.” Die Dienerin zog Patimats Kleider an und ging, sich zu den Gastfreunden zu legen. 
+        <cb n="27"/>
+         Die Gastfreunde wussten nicht, dass es nicht Patimat war. Patimat hatte zu der Dienerin gesagt: “Was auch immer von den Gastfreunden getan wird, verbiete es nicht.” Sie hatten beliebiges Vergnügen mit ihr, nahmen ihr vom Finger einen Ring und schnitten ihr den Zopf vom Kopf. Indessen wurde die Nacht hell. Zu dieser Stunde stand sie (sc. die Dienerin) auf und kam weinend zu Patimat. Patimat erzählte sie alles, was man ihr angetan hatte. 
+        <cb n="28"/>
+         Patimat sagte: “Das ist ohne Bedeutung, was sie auch getan haben; mach dir keine Sorgen (“es ist keine Notwen­digkeit”).” Zu der Stunde kochte Patimat für die Gastfreunde (das Wasser im) Ssamowar und stellte ihn den Gastfreunden hin. Sie goss ihnen den Tee ein und wandte sich zurück. Patimat hörte die Gast­freunde zueinander sagen: “Jetzt wird man doch sehen, welches Ding wir Ezer antun werden!
+        <note place="bottom">1221 d.h.: jetzt werden wir es Ezer zeigen</note>
+        ” Das hörte Patimat in ihrem eigenen Zim­mer sitzend und sagte bei sich selbst: ”Das werden wir noch sehen, was ihr tun werdet.” Nach dem Tee fingen die Gastfreunde an, sich bereit zu machen, um ihres Weges zu gehen. 
+        <cb n="29"/>
+         Patimat sagte zu den Gastfreunden: “Wohin eilt ihr? Bleibt heute Nacht noch hier.” Die Gastfreunde gingen, indem sie Patimat dankten. Als sie gegangen waren, zog Patimat gute Männerkleider an, bestieg ein gutes Pferd und ritt ihnen nach. Eines schönen Tages stiegen die Gäste zu Mittag auf einer Ebene ab, um zu essen. Als die Gastfreunde aßen, erreichte sie Patimat. Nachdem sie vom Pferde abgestiegen war, die Satteldecke (“Filz, Filzmantel (Burka)”) und das Reitzeug abgenommen hatte, 30 das Pferd fressen ließ und die Decke unterlegt hatte, setzte sich Patimat obendrauf zum Essen nieder. Patimat fragte die Gastfreunde: “Woher, wohin geht ihr?” Die Gastfreunde erzählten Patimat alles, was ihnen und Ezer geschehen war und alles, was mit Ezers Frau geschehen war. Patimat sagte dann: “Lasst uns gegen die Langeweile (“Herz an etwas festmachend”) einzeln (nacheinander) mit dem Ge­wehr nach einem Ziele schießen.” Die jungen Leute waren einver­standen, nach dem Ziele zu schießen. “Um welche Sache wetten wir (“welche Wett–Sache legen wir”)?” fragte Patimat. “Wette, 
+        <cb n="31"/>
+         worum du willst,” sagten jene. Patimat sagte: “Wenn ich gewinne, werde ich euch mein Siegel auf die Wirbelsäule drücken. Wenn ihr gewinnt, 
+        <pb n="175"/>
+        werde ich tun, was ihr wollt.” Sie stimmten dieser Vereinbarung zu, schossen nach dem Ziel, zuerst die Gastfreunde, dann Patimat. Patimat gewann gegen sie beim Schießen. Sie drückte ihr Siegel auf ihre Wirbelsäule. Dann gingen die Gäste ihres Weges. Patimat machte sich ohne Verzug fertig, 
+        <cb n="32"/>
+         ihres Weges zu gehen. Sie band die Decke auf dem Pferde fest und bestieg das Pferd, und bewegte sich hinter ihnen her. An diesem Tage gelangte sie abends zu ihrem Dorf. Sie stieg ab in einem Hause am Rande des Dorfes. Dieses Haus war das derselben Witwe, bei der Ezer abgestiegen war. Als sie ins Haus eintrat und den Gruß gab, gab die Witwe den Gruß zurück und empfing den Gast­freund. 
+        <cb n="33"/>
+         Diese Nacht verbrachte sie dort irgendwie. Am Morgen aufgestanden, hörte der Mann (sc. die als Mann verkleidete Patimat), der hinausging (“auf die Straße”), den Lärmen (“Stimme, Laut”
+        <note place="bottom">1222 Cf. J.B. in Lewys Übersetzung: ‘Lärm, Festivität, Rummel’; s. Anm. 1057</note>
+        ) des Festes. Er (sie) fragte die Witwe: “Was ist das für ein Lärmen?” Die Witwe erzählte ihm (ihr): “Dieses Lärmen ist an der Heimstätte des Königs. Irgendein Mann war zu mir gekommen. Zu der Zeit war bei dem König 
+        <cb n="34"/>
+         ein Festvergnügen.
+        <note place="bottom">1223 Hier und im Folgenden wird kep mit ‘Festvergnügen’ übersetzt; s. Anm. 224.</note>
+         Der zu diesem Festver­gnügen gegangene Mann stritt mit dem König, um den König zu besiegen und trank die drei Trinkhörner des Königs. In zwei Fähig­keiten schlug er den König. In der dritten verlor er gegen den König. Heute wird er getötet. Aus diesem freudigen Anlass ist dieses Fest.” Patimat sagte zu der Witwe: “Jetzt werde ich zu des Königs Heim­stätte gehen.” 
+        <cb n="35"/>
+         Von dort ging er (sie) zu des Königs Heimstätte. Dort fand er (sie) für sich ein fröhliches Fest. Dort sagte er (sie) zu den Leuten: “Ich will den König sehen.” Da brachten die Leute ihn (sie) zu dem König hin. Der König fragte: “Was wünschst du (“Wunsch ist was”)?” Er (sie) sagte zu dem König: “Zwei von meinen Sklaven sind verlorengegangen. Sie sollen an deiner Heimstätte sein, habe ich gehört, und ich bin gekommen.” 
+        <cb n="36"/>
+         Der König, nachdem er alle Leute versammelt hatte, sagte zu dem Gastfreund: “Sieh nach, ob sich unter denen da nicht deine Sklaven befinden.” Der Gastfreund sagte: “Da sind sie nicht.” Der König sagte: “Außer meinen beiden Wesirssöhnen habe ich keine Leute mehr.” Der Gast sagte: “Ich möchte diese deine beiden Wesirssöhne sehen.” Sogleich ließ der König sie rufen. 
+        <cb n="37"/>
+         Der Gastfreund sagte: “Jene sind sie.” Der König 
+        <pb n="176"/>
+        sagte: “Wie sollen sie deine Sklaven sein? Jene sind meine Wesirs-söhne.” “Wessen Söhne sie auch sein mögen, mein Siegel ist auf ihnen. Sie sind meine Sklaven.” “Zeige dein Siegel,” sagte der König. Nachdem man sie die Kleider ausziehen ließ (“sie die Kleider aus­ziehen lassend”), sollte der König ihre Wirbelsäule sehen, und es fand sich an ihnen das Siegel 
+        <cb n="38"/>
+         des Gastfreundes. Dann erzählte der Gast: “Ich bin kein Mann; ich bin die Frau des Mannes, der an den Pfosten gebunden ist, um von euch getötet zu werden. Weder haben diese von dir gesandten Männer mir den Ring genommen, noch haben sie mir den Zopf vom Kopf abgeschnitten. Ob er abgeschnitten ist, sieh nach.” Indem sie ihre Mütze abnahm, zeigte Patimat ihren Kopf dem Volk: 
+        <cb n="39"/>
+         “Die Person, der sie den Zopf abgeschnitten haben und den Ring weggenommen haben, ist meine Dienerin.” Da ließ der König den angebundenen Ezer frei: Von Neuem ein Fest veranstaltend, gab er seine Tochter dem Ezer. Nachdem man alles noch Nötige gegeben hatte, gingen die Gastfreunde ihres Weges. Ezer sagte da zu Patimat: “Deine Fähigkeit hat meine Fähigkeit besiegt, 40 ich bin dir ergeben (“ich bin dir untertan”).” Auf diese Weise in Freude brachten sie ihr Leben hin.
+      </p>
+    </body>
+  </text>
 </TEI>

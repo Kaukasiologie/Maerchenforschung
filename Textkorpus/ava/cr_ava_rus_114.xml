@@ -1,128 +1,171 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/573115/bol-shoy-gotsatl.html"> Gotsatl’ </settlement>
-       <geo />
-      </placeName>
-      <date>1953</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Патиналаев</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Д.</forename>
-        <surname xml:lang="rus">Атаев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/573115/bol-shoy-gotsatl.html"> Gotsatl’ </settlement>
+          <geo/>
+        </placeName>
+        <date>1953</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Патиналаев</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Д.</forename>
+            <surname xml:lang="rus">Атаев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_114">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_114">
     <body>
-     <head>79. О сыне бедняка, его сестре - ужасной харт и маленьких аждахах</head>
-     <p>жил жил бедняк женой сыном жена умерла бедняк женился вторая жена родила дочь такую большую такую горластую такую прожорливую аульчане дивились восклицали вах вах</p><p>сын немного подрос отправили горы пасти овец</p><p>неделю сестра приносила еду дороге съедала половину стала съедать последней крошки</p><p>пастух долго терпел голод решил выяснить дело погнал отару вниз дому увидел сестра которая тому времени стала огромной схватила ягненка проглотила понял пастух сестра становится харт дома встретил отец спросил</p><p>пришел пригнал отару</p><p>пастух обо всем рассказал отцу мачехе попросил прогнать молодую харт пока наделала бед</p><p>видимо стал обжорой сказал отец каждую неделю посылали тебе пищу</p><p>пастух обо всем рассказал отцу мачехе попросил прогнать молодую харт пока наделала бед</p><p>видимо стал обжорой сказал отец каждую неделю посылали тебе пищу</p><p>станешь чудовищем заголосила мачеха ступай прочь нашего дома несчастный</p><p>хотел отец заступиться сына известно старики бедные слушаются молодых жен</p><p>юноша стал бездомным захотел оставаться родном ауле пошел глаза глядят</p><p>шел долго высоким горам глубоким ущельям дремучим лесам перешел ин дин прошел расстояние носа рта однажды увидел зеленый луг котором паслось множество овец пастуха начал пасти этих овец наступили сумерки пошел вслед ними</p><p>овцы привели пещере жили слепые старик старуха юноша рассказал своих злоключениях</p><p>оставайся нами будешь нашим сыном предложили старики</p><p>юноша согласился стал жить ними утром выгонял овец вечером возвращался домой ждали приветливые дед бабка</p><p>прошло некоторое время</p><p>юноша спросил своих названых родителей</p><p>это случилось потеряли зрение</p><p>сын ответили самой высокой горе виднеется отсюда живет страшный аждаха ослепил вздумай пасти овец</p><p>юноша последовал совету хотя той горе лучшие пастбища чистая вода</p><p>задумал отомстить чудовищу стал пригонять отару ближе ближе опасной горе</p><p>однажды вершине горы раздался громоподобный рев земля разверзлась появился страшный аждаха</p><p>осмелился ничтожество ступить мои владения должен ослепнуть закричал аждаха бросился пастуха</p><p>юноша обнажил кинжал смело пошел навстречу чудовищу</p><p>долго бились бездыханный аждаха упал землю юноша отрубил голову распорол брюхо оказались маленьких аждахи которые стали ласкаться пастуху юноша взял малышей начал выкармливать овечьим молоком аждахи быстро подросли оставались ручными пастух дал имена тавус хавус</p><p>оба аждахи всюду сопровождали своего хозяина помогали пасти овец веселили грустил</p><p>юноша тосковал дому тревожился отца</p><p>сказал старику</p><p>отец спас голода усыновил слов которыми выразить мою благодарность судьба моего родного отца беспокоит разреши съездить родину</p><p>согласился старик снарядил приемного сына далекий путь дал хлеба корок мяса костей разных подарков родителей юноша захватил собой тавуса хауса особых приключений добрался своего родного дома</p><p>странно выглядел родной аул слышно людских голосов блеяния овец кудахтанья кур вился саклями дымок дымохода отчего дома валил густой дым</p><p>удивился юноша такому запустению почуял недоброе поборол страх зашел родной дом поздоровался</p><p>салам алейкум</p><p>ваалейкум ассалам заходи закричала сестра юноша увидел превратилась огромную харт</p><p>понял брат уничтожила ауле живое своих родителей</p><p>харт вышла оторвала лошади юноши ногу сказала брату</p><p>это братец приехал лошади тремя ногами</p><p>трижды выходила сестра отрывала лошади ногу жадностью проглатывала вышла проглотила туловище коня</p><p>ба вижу пришел пешком сказала сестра</p><p>пешком ответил брат бросился бежать харт</p><p>брат добежал окраины аула харт начала догонять</p><p>тавус хавус закричал брат помощь</p><p>выскочили аждахи набросились харт разорвали куски пришел конец самой кровожадной харт которая могла уничтожить живое аварии</p><p>юноша вместе тавусом хавусом вернулся старикам зажил спокойно счастливо</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>79. О сыне бедняка, его сестре - ужасной харт и маленьких аждахах</head>
+      <p>жил жил бедняк женой сыном жена умерла бедняк женился вторая жена родила дочь такую большую такую горластую такую прожорливую аульчане дивились восклицали вах вах</p>
+      <p>сын немного подрос отправили горы пасти овец</p>
+      <p>неделю сестра приносила еду дороге съедала половину стала съедать последней крошки</p>
+      <p>пастух долго терпел голод решил выяснить дело погнал отару вниз дому увидел сестра которая тому времени стала огромной схватила ягненка проглотила понял пастух сестра становится харт дома встретил отец спросил</p>
+      <p>пришел пригнал отару</p>
+      <p>пастух обо всем рассказал отцу мачехе попросил прогнать молодую харт пока наделала бед</p>
+      <p>видимо стал обжорой сказал отец каждую неделю посылали тебе пищу</p>
+      <p>пастух обо всем рассказал отцу мачехе попросил прогнать молодую харт пока наделала бед</p>
+      <p>видимо стал обжорой сказал отец каждую неделю посылали тебе пищу</p>
+      <p>станешь чудовищем заголосила мачеха ступай прочь нашего дома несчастный</p>
+      <p>хотел отец заступиться сына известно старики бедные слушаются молодых жен</p>
+      <p>юноша стал бездомным захотел оставаться родном ауле пошел глаза глядят</p>
+      <p>шел долго высоким горам глубоким ущельям дремучим лесам перешел ин дин прошел расстояние носа рта однажды увидел зеленый луг котором паслось множество овец пастуха начал пасти этих овец наступили сумерки пошел вслед ними</p>
+      <p>овцы привели пещере жили слепые старик старуха юноша рассказал своих злоключениях</p>
+      <p>оставайся нами будешь нашим сыном предложили старики</p>
+      <p>юноша согласился стал жить ними утром выгонял овец вечером возвращался домой ждали приветливые дед бабка</p>
+      <p>прошло некоторое время</p>
+      <p>юноша спросил своих названых родителей</p>
+      <p>это случилось потеряли зрение</p>
+      <p>сын ответили самой высокой горе виднеется отсюда живет страшный аждаха ослепил вздумай пасти овец</p>
+      <p>юноша последовал совету хотя той горе лучшие пастбища чистая вода</p>
+      <p>задумал отомстить чудовищу стал пригонять отару ближе ближе опасной горе</p>
+      <p>однажды вершине горы раздался громоподобный рев земля разверзлась появился страшный аждаха</p>
+      <p>осмелился ничтожество ступить мои владения должен ослепнуть закричал аждаха бросился пастуха</p>
+      <p>юноша обнажил кинжал смело пошел навстречу чудовищу</p>
+      <p>долго бились бездыханный аждаха упал землю юноша отрубил голову распорол брюхо оказались маленьких аждахи которые стали ласкаться пастуху юноша взял малышей начал выкармливать овечьим молоком аждахи быстро подросли оставались ручными пастух дал имена тавус хавус</p>
+      <p>оба аждахи всюду сопровождали своего хозяина помогали пасти овец веселили грустил</p>
+      <p>юноша тосковал дому тревожился отца</p>
+      <p>сказал старику</p>
+      <p>отец спас голода усыновил слов которыми выразить мою благодарность судьба моего родного отца беспокоит разреши съездить родину</p>
+      <p>согласился старик снарядил приемного сына далекий путь дал хлеба корок мяса костей разных подарков родителей юноша захватил собой тавуса хауса особых приключений добрался своего родного дома</p>
+      <p>странно выглядел родной аул слышно людских голосов блеяния овец кудахтанья кур вился саклями дымок дымохода отчего дома валил густой дым</p>
+      <p>удивился юноша такому запустению почуял недоброе поборол страх зашел родной дом поздоровался</p>
+      <p>салам алейкум</p>
+      <p>ваалейкум ассалам заходи закричала сестра юноша увидел превратилась огромную харт</p>
+      <p>понял брат уничтожила ауле живое своих родителей</p>
+      <p>харт вышла оторвала лошади юноши ногу сказала брату</p>
+      <p>это братец приехал лошади тремя ногами</p>
+      <p>трижды выходила сестра отрывала лошади ногу жадностью проглатывала вышла проглотила туловище коня</p>
+      <p>ба вижу пришел пешком сказала сестра</p>
+      <p>пешком ответил брат бросился бежать харт</p>
+      <p>брат добежал окраины аула харт начала догонять</p>
+      <p>тавус хавус закричал брат помощь</p>
+      <p>выскочили аждахи набросились харт разорвали куски пришел конец самой кровожадной харт которая могла уничтожить живое аварии</p>
+      <p>юноша вместе тавусом хавусом вернулся старикам зажил спокойно счастливо</p>
+    </body>
+  </text>
+</TEI>

@@ -1,227 +1,240 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">23. Beshan und Manishar</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_28.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-<creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
-      <forename>Iosif Alekseevich</forename>
-      <surname>Kipshidze</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_28">
-  <body>
-   <head>Beshan und Manishar</head>
-   <p>Es war einmal ein Herrscher. Er hatte drei heldenhafte Kämpfer: Giwi, Rostom und Gurgen. Giwi hatte einen Sohn Beshan, der elf Jahre alt war.</p>
-   <p>Diese Männer waren so stark, daß sie aus einem Kampf mit einem anderen Staat stets siegreich hervorgingen. Dieser Herrscher besaß einen Spiegel.</p>
-   <p>Jedes Jahr zu Ostern pflegte er in ein Zimmer zu gehen, und wenn er dort in den Spiegel blickte, sah er alles, was in dem einen Jahr geschehen sollte.</p>
-   <p>Einmal unternahmen alle drei Helden einen Beutezug. Als sie aufbrachen, wollte Beshan mitkommen. "Wir können dich noch nicht mitnehmen“",sagten sie, weil er noch klein war, aber Beshan hörte nicht auf sie, und so nahmen sie ihn mit.</p>
-   <p>Bei diesem Beutezug vollbrachte Beshan größere Taten als die drei anderen., Als sie nach Hause zurückkehrten, kam ein glatzköpfiger Mann und sprach: "Wir sind verloren! Jetzt lohnt es nicht mehr, hier zu leben!</p>
-   <p>Von irgendwoher sind Wildschweine eingedrungen und haben unsere Äcker <pb n="135"/> so verwüstet und zerwühlt, daß ihnen nicht mehr zu helfen ist.”</p>
-   <p>Da sprachen sie zu Gurgen: "Ziehe aus und töte die Schweine.“ Aber Beshan sagte: "Nein, laßt mich ziehen, nur schmiedet mir einen Spieß, der zwölf Pud schwerer ist als eurer.”</p>
-   <p>Sie erlaubten es ihm, kleideten ihn in eine Rüstung, und er zog los.</p>
-   <p>Gurgen begleitete ihn. Als sie die Schweine sahen, mischte sich der junge Mann unter sie, Eine Zeitlang konnten ihn die Schweine nicht sehen, aber als sie dann Ausschau hielten, sahen sie, daß er mitten unter ihnen stand.</p>
-   <p>Ein Schwein stieß ihn mit dem Hauer und schlitzte ihm das Kettenhemd auf. Da geriet der junge Mann in Zorn und tötete alle zusammen. Er riß ihnen die Stoßzähne aus, reihte sie aneinander, und es ergab fünfundzwanzig Meter, Dann fragte er Gurgen: "Gibt es irgendwo einen Burschen meinesgleichen?"</p>
-   <p>"Deinesgleichen Kämpfer gibt es nirgends, aber..."</p>
-   <p>"Warum sagst du: aber?"</p>
-   <p>"An dem und dem Ort lebt ein Herrscher von Kuran, der hat eine wunderschöne Tochter. Sie heißt Manishar, und sie gebührt dir zur Frau."</p>
-   <p>Als Beshan das vernahm, sprang er auf und stürmte davon. Gurgen kehrte um und kam nach Hause, Aus Rivalität zu Beshan log er, die Schweine hätten ihn zerrissen. Man war sehr betrübt und weinte viel, doch was hätte man tun sollen?</p>
-   <p>Beshan kam nach Kuran, fand das Haus des Herrschers und trat in den Hof. Als das Mädchen hinausschaute, sah sie den jungen Mann kommen.</p>
-   <p>Sie empfing ihn und führte ihn in ihre Wohnung. Dort legte Beshan seinen Pfeil und Bogen ab. Als der König davon erfuhr, rief er ihn zu sich, doch der Bursche ging nicht hin. Die Vornehmen des Herrschers gingen zu ihm und baten ihn mitzukommen. Beshan wollte mit seinen Waffen hingehen,doch man sagte ihm: "Zum Herrscher kann man nicht bewaffnet gehen." Erhörte auf sie und ging ohne Waffen, aber als er hin kam, nahmen sie ihn gefangen und beschlossen, ihn auf Eisenhaken aufzuspießen. Zu dieser Zeit war ein Oberwesir nicht anwesend. Als man den jungen Mann fortbrachte,um ihn zu töten, kam er hinzu. Er erkannte ihn und begann laut zu streiten: "Der darf nicht getötet werden." Und er erreichte, daß man von ihm abließ. Trotzdem hörten sie nicht auf ihn und ließen ihn in eine sechzig Adli tiefe Erdgrube hinab. Darüber schmiedeten sie ein Eisen, das selbstdrei Joch Büffel nicht wegzuziehen vermochten. Oben ließ man ein kleines Loch, um Essen hinabzureichen. Als Diener stellte man ihm die Tochter des Herrschers zur Verfügung. Das Mädchen ernährte den jungen Mann mit erbettelten Speisen.</p>
-   <p>Inzwischen kam das Osterfest heran. Als der Herrscher in seinen Spiegel blickte, sah er da nicht Beshan in der Grube sitzen? Er rief Giwi herbei: <pb n="136"/> "Ich will dir eine freudige Mitteilung machen: Dein Sohn ist am Leben." Und er ließ ihn ihn mit eigenen Augen sehen. Da freute sich Giwi und sprach: "Jetzt fehlt mir nichts weiter."</p>
-   <p>Giwi, Rostom und Gurgen rüsteten sich. Sie nahmen Männer mit und zwölf Maultierladungen Lebensmittel, Getränke und Waffen und zogen los. Sie kamen zum Anwesen des Herrschers von Kuran. "Wir sind Kaufleute”",sagten sie, "laßt uns ein." Man berichtete es dem Herrscher und ließ sie herein. Als sie einzogen, begannen sie dem Mädchen Nahrung für den jungen Mann zu geben. Beshan wunderte sich und fragte: "Wer hat dir solche Speisen gegeben?”</p>
-   <p>“"Solche und solche Männer sind gekommen", sagte das Mädchen.</p>
-   <p>Der junge Mann begriff, wer sie waren, und sprach: "Von nun an habe ich keine Sorge mehr."</p>
-   <p>Als Beshan zu Kräften gekommen war, warfen die drei Helden den Eisendeckel der Grube zur Seite. Der junge Mann machte einen Sprung und hüpfte heraus. Er nahm das Mädchen bei der Hand und gab sie in die Obhut seines Vaters, Er selbst eilte davon, um seinen Pfeil und Bogen zuholen. Die lagen noch immer dort, denn sie waren so schwer, daß kein Mensch sie heben konnte. Er ergriff sie und wandte sich gegen den Herrscher und dessen Heer. Er tötete alle und ließ nur den Wesir am Leben,der ihm geholfen hatte, und schenkte ihm das Reich. Er und seine Helden nahmen das Mädchen mit und kehrten nach Hause zurück. Als sie heimkamen, herrschte großer Jubel, man feierte und schmauste.</p>
-   <p>Als sich alles beruhigt hatte, verlangte Beshan von Gurgen eine Antwort:"Warum hast du über mich die Lüge verbreitet, die Schweine hätten mich zerrissen?"</p>
-   <p>Die Schlichter verhinderten einen Streit, doch Beshan verlangte: "Gebt mir drei Äpfel, ich will wenigstens auf ihn werfen."</p>
-   <p>Man gab ihm die Äpfel und stellte Gurgen weit entfernt hin. Beshan holte aus und warf den Apfel. Er traf Gurgen ins Herz und fuhr ihm aufder anderen Seite heraus. So starb Gurgen. Man hob ihn auf und bestattete ihn. "Das hast du verdient", sagten sie, "denn warum hat ein Apfel dich getötet!”</p>
-   <p>Gestern abend war ich dort, und heute bin ich hier.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">23. Beshan und Manishar</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_28.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">
+            133697460&gt;
+            <forename>Iosif Alekseevich</forename>
+            <surname>Kipshidze</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_28">
+    <body>
+      <head>Beshan und Manishar</head>
+      <p>Es war einmal ein Herrscher. Er hatte drei heldenhafte Kämpfer: Giwi, Rostom und Gurgen. Giwi hatte einen Sohn Beshan, der elf Jahre alt war.</p>
+      <p>Diese Männer waren so stark, daß sie aus einem Kampf mit einem anderen Staat stets siegreich hervorgingen. Dieser Herrscher besaß einen Spiegel.</p>
+      <p>Jedes Jahr zu Ostern pflegte er in ein Zimmer zu gehen, und wenn er dort in den Spiegel blickte, sah er alles, was in dem einen Jahr geschehen sollte.</p>
+      <p>Einmal unternahmen alle drei Helden einen Beutezug. Als sie aufbrachen, wollte Beshan mitkommen. &quot;Wir können dich noch nicht mitnehmen“&quot;,sagten sie, weil er noch klein war, aber Beshan hörte nicht auf sie, und so nahmen sie ihn mit.</p>
+      <p>Bei diesem Beutezug vollbrachte Beshan größere Taten als die drei anderen., Als sie nach Hause zurückkehrten, kam ein glatzköpfiger Mann und sprach: &quot;Wir sind verloren! Jetzt lohnt es nicht mehr, hier zu leben!</p>
+      <p>
+        Von irgendwoher sind Wildschweine eingedrungen und haben unsere Äcker 
+        <pb n="135"/>
+         so verwüstet und zerwühlt, daß ihnen nicht mehr zu helfen ist.”
+      </p>
+      <p>Da sprachen sie zu Gurgen: &quot;Ziehe aus und töte die Schweine.“ Aber Beshan sagte: &quot;Nein, laßt mich ziehen, nur schmiedet mir einen Spieß, der zwölf Pud schwerer ist als eurer.”</p>
+      <p>Sie erlaubten es ihm, kleideten ihn in eine Rüstung, und er zog los.</p>
+      <p>Gurgen begleitete ihn. Als sie die Schweine sahen, mischte sich der junge Mann unter sie, Eine Zeitlang konnten ihn die Schweine nicht sehen, aber als sie dann Ausschau hielten, sahen sie, daß er mitten unter ihnen stand.</p>
+      <p>Ein Schwein stieß ihn mit dem Hauer und schlitzte ihm das Kettenhemd auf. Da geriet der junge Mann in Zorn und tötete alle zusammen. Er riß ihnen die Stoßzähne aus, reihte sie aneinander, und es ergab fünfundzwanzig Meter, Dann fragte er Gurgen: &quot;Gibt es irgendwo einen Burschen meinesgleichen?&quot;</p>
+      <p>&quot;Deinesgleichen Kämpfer gibt es nirgends, aber...&quot;</p>
+      <p>&quot;Warum sagst du: aber?&quot;</p>
+      <p>&quot;An dem und dem Ort lebt ein Herrscher von Kuran, der hat eine wunderschöne Tochter. Sie heißt Manishar, und sie gebührt dir zur Frau.&quot;</p>
+      <p>Als Beshan das vernahm, sprang er auf und stürmte davon. Gurgen kehrte um und kam nach Hause, Aus Rivalität zu Beshan log er, die Schweine hätten ihn zerrissen. Man war sehr betrübt und weinte viel, doch was hätte man tun sollen?</p>
+      <p>Beshan kam nach Kuran, fand das Haus des Herrschers und trat in den Hof. Als das Mädchen hinausschaute, sah sie den jungen Mann kommen.</p>
+      <p>Sie empfing ihn und führte ihn in ihre Wohnung. Dort legte Beshan seinen Pfeil und Bogen ab. Als der König davon erfuhr, rief er ihn zu sich, doch der Bursche ging nicht hin. Die Vornehmen des Herrschers gingen zu ihm und baten ihn mitzukommen. Beshan wollte mit seinen Waffen hingehen,doch man sagte ihm: &quot;Zum Herrscher kann man nicht bewaffnet gehen.&quot; Erhörte auf sie und ging ohne Waffen, aber als er hin kam, nahmen sie ihn gefangen und beschlossen, ihn auf Eisenhaken aufzuspießen. Zu dieser Zeit war ein Oberwesir nicht anwesend. Als man den jungen Mann fortbrachte,um ihn zu töten, kam er hinzu. Er erkannte ihn und begann laut zu streiten: &quot;Der darf nicht getötet werden.&quot; Und er erreichte, daß man von ihm abließ. Trotzdem hörten sie nicht auf ihn und ließen ihn in eine sechzig Adli tiefe Erdgrube hinab. Darüber schmiedeten sie ein Eisen, das selbstdrei Joch Büffel nicht wegzuziehen vermochten. Oben ließ man ein kleines Loch, um Essen hinabzureichen. Als Diener stellte man ihm die Tochter des Herrschers zur Verfügung. Das Mädchen ernährte den jungen Mann mit erbettelten Speisen.</p>
+      <p>
+        Inzwischen kam das Osterfest heran. Als der Herrscher in seinen Spiegel blickte, sah er da nicht Beshan in der Grube sitzen? Er rief Giwi herbei: 
+        <pb n="136"/>
+         &quot;Ich will dir eine freudige Mitteilung machen: Dein Sohn ist am Leben.&quot; Und er ließ ihn ihn mit eigenen Augen sehen. Da freute sich Giwi und sprach: &quot;Jetzt fehlt mir nichts weiter.&quot;
+      </p>
+      <p>Giwi, Rostom und Gurgen rüsteten sich. Sie nahmen Männer mit und zwölf Maultierladungen Lebensmittel, Getränke und Waffen und zogen los. Sie kamen zum Anwesen des Herrschers von Kuran. &quot;Wir sind Kaufleute”&quot;,sagten sie, &quot;laßt uns ein.&quot; Man berichtete es dem Herrscher und ließ sie herein. Als sie einzogen, begannen sie dem Mädchen Nahrung für den jungen Mann zu geben. Beshan wunderte sich und fragte: &quot;Wer hat dir solche Speisen gegeben?”</p>
+      <p>“&quot;Solche und solche Männer sind gekommen&quot;, sagte das Mädchen.</p>
+      <p>Der junge Mann begriff, wer sie waren, und sprach: &quot;Von nun an habe ich keine Sorge mehr.&quot;</p>
+      <p>Als Beshan zu Kräften gekommen war, warfen die drei Helden den Eisendeckel der Grube zur Seite. Der junge Mann machte einen Sprung und hüpfte heraus. Er nahm das Mädchen bei der Hand und gab sie in die Obhut seines Vaters, Er selbst eilte davon, um seinen Pfeil und Bogen zuholen. Die lagen noch immer dort, denn sie waren so schwer, daß kein Mensch sie heben konnte. Er ergriff sie und wandte sich gegen den Herrscher und dessen Heer. Er tötete alle und ließ nur den Wesir am Leben,der ihm geholfen hatte, und schenkte ihm das Reich. Er und seine Helden nahmen das Mädchen mit und kehrten nach Hause zurück. Als sie heimkamen, herrschte großer Jubel, man feierte und schmauste.</p>
+      <p>Als sich alles beruhigt hatte, verlangte Beshan von Gurgen eine Antwort:&quot;Warum hast du über mich die Lüge verbreitet, die Schweine hätten mich zerrissen?&quot;</p>
+      <p>Die Schlichter verhinderten einen Streit, doch Beshan verlangte: &quot;Gebt mir drei Äpfel, ich will wenigstens auf ihn werfen.&quot;</p>
+      <p>Man gab ihm die Äpfel und stellte Gurgen weit entfernt hin. Beshan holte aus und warf den Apfel. Er traf Gurgen ins Herz und fuhr ihm aufder anderen Seite heraus. So starb Gurgen. Man hob ihn auf und bestattete ihn. &quot;Das hast du verdient&quot;, sagten sie, &quot;denn warum hat ein Apfel dich getötet!”</p>
+      <p>Gestern abend war ich dort, und heute bin ich hier.</p>
+    </body>
+  </text>
 </TEI>

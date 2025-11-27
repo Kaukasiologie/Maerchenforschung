@@ -1,184 +1,194 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">15. (Жил-был один бедняк...)</title>
-    <author>
-     <name xml:id="AD">
-      <persName>
-       <forename>Adolf</forename>
-       <surname>Dirr</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <biblStruct>
-     <analytic>
-      <title xml:lang="ru">Арчинский языкъ. Граматический очеркъ, тексты, сборникъ арчинскихъ слобъ съ русскумъ къ нему указателемъ</title>
-      <author>
-       <persName ref="#AD">
-        <forename>Adolf</forename>
-        <surname>Dirr</surname>
-       </persName>
-      </author>
-     </analytic>
-     <monogr>
-      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
-      <imprint>
-       <pubPlace>Tiflis</pubPlace>
-       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
-       <date when="1908">1908</date>
-      </imprint>
-      <biblScope unit="volume">39</biblScope>
-     </monogr>
-    </biblStruct>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"></index>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a425A Das Ungeheuer (Tier) als Bräutigam</item>
-      <item>a563 Tischleindeckdich</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_aqc_rus_31.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district></district>
-     <settlement></settlement>
-    </placeName>
-    <date notAfter="1908">1908</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename> </forename>
-      <surname> </surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district></district>
-       <settlement></settlement>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_aqc_rus_31">
-  <body>
-   <head>15.</head>
-   <p> Жил-был один бедняк, у которого была жена и дочь. Но работы и пищи не было у него. Он ходил в лес, собирал дрова, продавал их, и так кормил самого себя и семью. Однажды он пошел в лес, набрал вьюков дров, лег и заснул в тени своего вьюка. Когда он проснулся, встал и хотел <pb n="119"/>взять свои дрова, но на них лежала змея. "Вставай", сказал бедняк: "я хочу идти домой!" — "Не встану", ответила змея: "если не дашь мне свою дочь; даже не пущу тебя собирать дрова!" — "Хорошо", сказал человек: "я спрошу семью; если она согласна, я приведу завтра свою дочь; если не согласится, я больше не приду дрова собирать". Потом взял свой вьюк, продал на базаре, купил хлеба и пошел домой. Когда пришел, он плакал. "Зачем ты плачешь?" спросили его. Он им объяснил, что произошло между ним и змеей: его жена не соглашалась отдать дочь; но дочь сама согласилась пойти к змее.</p>
-   <p>Пошли оба вместе в лес. Отец там для себя и для дочери набрал по вьюку дров. Потом легли спать и когда проснулись, нашли змею. "Вот, я привел свою дочь", сказал. Змея сказала им идти за ней, и так они достигли места. Там было так много этих животных, что даже дороги не было. Змея закричала, и другие змеи дали им дорогу. Дошли каким-то образом до скалы, в которой была дыра. Змея вошла, за ней девочка. Отцу же этой последней змея сказала: "Подожди!" Скоро она явилась опять, принесла простой поднос и дала его ему и прибавила: "пока ты не придешь домой, ни говори: во имя Бога!" Бедняк ушел. Когда пришел на место, он поставил поднос перед собой и сказал: "Во имя Бога!" И вот, поднос наполнился разной пищей. Ел наш бедняк и когда насытился, сказал: "Слава Богу!" Потом пошел домой. "У нас теперь казна!" кричал он жене. В доме поставил поднос и сказал: "во имя Бога". Вместе благодарили Бога и спрятали поднос.</p>
-   <p>Много прошло времени после этого. Раз бедняк сказал жене: "Я призову хана в гости". — "Не надо", сказала жена, но он не слушался ее. С ханом много гостей пришло. Хозяин их посадил, поставил поднос перед ними и сказал: "Во имя Божье". Ели разговаривали. "У нас тоже есть такой поднос, как этот", сказал хан своему слуге, "принеси его сюда, а этот возьми с собою!" Так разделили. Гости ушли.</p>
-   <p>Но когда хозяин сам стал голодным и поставил перед собой поднос, говоря при этом "во имя Божье", никакой пищи <pb n="120"/>не явилось в нем. Понял бедняк, что хан сделал, пошел к нему и попросил назад свой поднос. Хан, однако, рассердился и выгнал его. Таким образом, он стал таким же бедным, как и раньше.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">15. (Жил-был один бедняк...)</title>
+        <author>
+          <name xml:id="AD">
+            <persName>
+              <forename>Adolf</forename>
+              <surname>Dirr</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">Арчинский языкъ. Граматический очеркъ, тексты, сборникъ арчинскихъ слобъ съ русскумъ къ нему указателемъ</title>
+            <author>
+              <persName ref="#AD">
+                <forename>Adolf</forename>
+                <surname>Dirr</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+            <imprint>
+              <pubPlace>Tiflis</pubPlace>
+              <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+              <date when="1908">1908</date>
+            </imprint>
+            <biblScope unit="volume">39</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a425A Das Ungeheuer (Tier) als Bräutigam</item>
+            <item>a563 Tischleindeckdich</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_aqc_rus_31.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1908">1908</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename> </forename>
+            <surname> </surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_aqc_rus_31">
+    <body>
+      <head>15.</head>
+      <p>
+         Жил-был один бедняк, у которого была жена и дочь. Но работы и пищи не было у него. Он ходил в лес, собирал дрова, продавал их, и так кормил самого себя и семью. Однажды он пошел в лес, набрал вьюков дров, лег и заснул в тени своего вьюка. Когда он проснулся, встал и хотел 
+        <pb n="119"/>
+        взять свои дрова, но на них лежала змея. &quot;Вставай&quot;, сказал бедняк: &quot;я хочу идти домой!&quot; — &quot;Не встану&quot;, ответила змея: &quot;если не дашь мне свою дочь; даже не пущу тебя собирать дрова!&quot; — &quot;Хорошо&quot;, сказал человек: &quot;я спрошу семью; если она согласна, я приведу завтра свою дочь; если не согласится, я больше не приду дрова собирать&quot;. Потом взял свой вьюк, продал на базаре, купил хлеба и пошел домой. Когда пришел, он плакал. &quot;Зачем ты плачешь?&quot; спросили его. Он им объяснил, что произошло между ним и змеей: его жена не соглашалась отдать дочь; но дочь сама согласилась пойти к змее.
+      </p>
+      <p>Пошли оба вместе в лес. Отец там для себя и для дочери набрал по вьюку дров. Потом легли спать и когда проснулись, нашли змею. &quot;Вот, я привел свою дочь&quot;, сказал. Змея сказала им идти за ней, и так они достигли места. Там было так много этих животных, что даже дороги не было. Змея закричала, и другие змеи дали им дорогу. Дошли каким-то образом до скалы, в которой была дыра. Змея вошла, за ней девочка. Отцу же этой последней змея сказала: &quot;Подожди!&quot; Скоро она явилась опять, принесла простой поднос и дала его ему и прибавила: &quot;пока ты не придешь домой, ни говори: во имя Бога!&quot; Бедняк ушел. Когда пришел на место, он поставил поднос перед собой и сказал: &quot;Во имя Бога!&quot; И вот, поднос наполнился разной пищей. Ел наш бедняк и когда насытился, сказал: &quot;Слава Богу!&quot; Потом пошел домой. &quot;У нас теперь казна!&quot; кричал он жене. В доме поставил поднос и сказал: &quot;во имя Бога&quot;. Вместе благодарили Бога и спрятали поднос.</p>
+      <p>Много прошло времени после этого. Раз бедняк сказал жене: &quot;Я призову хана в гости&quot;. — &quot;Не надо&quot;, сказала жена, но он не слушался ее. С ханом много гостей пришло. Хозяин их посадил, поставил поднос перед ними и сказал: &quot;Во имя Божье&quot;. Ели разговаривали. &quot;У нас тоже есть такой поднос, как этот&quot;, сказал хан своему слуге, &quot;принеси его сюда, а этот возьми с собою!&quot; Так разделили. Гости ушли.</p>
+      <p>
+        Но когда хозяин сам стал голодным и поставил перед собой поднос, говоря при этом &quot;во имя Божье&quot;, никакой пищи 
+        <pb n="120"/>
+        не явилось в нем. Понял бедняк, что хан сделал, пошел к нему и попросил назад свой поднос. Хан, однако, рассердился и выгнал его. Таким образом, он стал таким же бедным, как и раньше.
+      </p>
+    </body>
+  </text>
 </TEI>

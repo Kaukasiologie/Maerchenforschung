@@ -1,218 +1,271 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title xml:lang="deu">VIII. Der fromme Sohn</title>
-<author>
-<name xml:id="WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
-</author>
-<author>
-<name xml:id="EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
-</author>
-<author>
-<name xml:id="JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
-</author>
-<respStmt>
-<resp>Annotated according to the ATU system</resp>
-<name xml:id="ED">
-<persName>
-<forename>Elguja</forename>
-<surname>Dadunashvili</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-</name>
-<name xml:id="DF">
-<persName>
-<forename>Diana</forename>
-<surname>Forker</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<publisher>
-<name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-</publisher>
-<pubPlace>
-<genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-</pubPlace>
-<date>2024</date>
-<distributor>
-<addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-<ref target="https://github.com/edadunashvili">Software und Texte</ref>
-</distributor>
-<availability>
-<p>
-<ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-</p>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="collection">
-<title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">VIII. Der fromme Sohn</title>
+        <author>
+          <name xml:id="WB">
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <author>
+          <name xml:id="EL">
+            <persName>
+              <forename>Ernst</forename>
+              <surname>Lewy</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
+        </author>
+        <author>
+          <name xml:id="JB">
+            <persName>
+              <forename>Johannes</forename>
+              <surname>Bechert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
        Johannes Bechert† and M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova and S. Šaxtamanov</title>
-<title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
+          <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
        Johannes Bechert† sowie von M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova und S. Šaxtamanov</title>
-<author role="author">
-<name ref="#WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-</author>
-<respStmt>
-<resp/>
-<name/>
-</respStmt>
-<extent>
-<measure unit="words"/>
-<measure unit="pages"/>
-</extent>
-<publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
-<distributor><ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
-</distributor>
-<date when="2007">The year 2007</date>
-<availability>
-<licence/>
-</availability>
-</bibl>
-<bibl type="digitalSource">
-               <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
-            </bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="deu">
-<index indexName="iso639-3"/>
-<ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-</language>
-</langUsage>
-<textClass>
-<keywords>
-<term type="writingSystem">utf-8</term>
-</keywords>
-<keywords scheme="http://uri.gbv.de/terminology/bk/">
-<term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-<term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-</keywords>
-<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-<term>prose</term>
-</keywords>
-<keywords scheme="https://d-nb.info/gnd/">
-<term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-<list>
-<item>a726 Die drei Alten</item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-<list>
-<item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_212.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-<list>
-<item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
-<item>	Warnung vor sozialer Diskriminierung</item>
-<item>Warnung vor körperbezogener Diskriminierung</item>
-<item>	Warnung vor Gewalt und Missbrauch</item>
-<item>Warnung vor Schönheitsnormen und Körperidealen</item>
-</list>
-</keywords>
-</textClass>
-<creation>
-<placeName>
-<country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
-<region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
-<district/>
-<settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
-<geo/>
-</placeName>
-<date when="1918">1918</date>
-</creation>
-<particDesc>
-<person role="speaker">
-<persName>
-<forename>Nazmuddin</forename>
-<surname>Sajpudin</surname>
-</persName>
-<age>31</age>
-<birth>
-<date when="1887">1887</date>
-<placeName>
-<country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-<region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-<district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
-<settlement>Gunib</settlement>
-</placeName>
-</birth>
-</person>
-<person role="researcher">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-<person role="translator">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-</particDesc>
-</profileDesc>
-<revisionDesc>
-<listChange>
-<change>
-<name/>
-<date/>
-</change>
-</listChange>
-</revisionDesc>
-</teiHeader>
- <text xml:id="cc_ava_deu_212">
-  <body>
-   <head>VIII. Der fromme Sohn</head>
-   <p><cb n="185"/> Geschichte. Eine Witwe hatte einen guten und gelehrten Sohn.<note place="bottom">1236 Im Folgenden wird was gelegentlich mit ‘Bursche’ übersetzt. E.L. übersetzt manchmal mit: ‘junger Mann’. </note> Immer am Freitag hielt er die Freitagspredigt (“machte er die Chutma”). Immer wenn er die Predigt hielt, weinten alle Leute. Da an einem Tage ging er am Ufer eines Flusse entlang. Einen Apfel, den der Fluss brachte, fand der gelehrte Sohn. Der Apfel war zur Hälfte rot, zur Hälfte weiß. Da nahm der Sohn diesen Apfel <cb n="186"/> und aß ihn. Nachdem er den Apfel gegessen hatte, wenn er die Gebete las, weinten die Leute nicht. Da wurde der Sohn sehr traurig. Er ging und erzählte seiner Mutter: “Früher, wenn ich die Gebete las, weinten die Leute immer; jetzt, wenn ich die Gebete lese, weinen die Leute nicht mehr. Was das bedeutet, weiß ich nicht.” <cb n="187"/> Da sagte die Mutter zu dem Sohne: “Du musst irgend etwas Verbotenes<note place="bottom">1237 Hier und im Folgenden wird haram mit Verbotenes statt mit Unehrenhaftes übersetzt. </note> getan haben.” Da sagte der Sohn: “Ich bin mir dessen nicht bewusst, dass ich irgend etwas Verbotenes getan habe.” Dann sagte die Mutter zu ihm: “Denke nach, du hast wahrscheinlich irgend etwas getan.” Da dachte der Sohn lange nach. Er erinnerte sich, dass er jenen Apfel gegessen hatte. Da erzählte er der Mutter: <cb n="188"/> “Dieser unser Fluss brachte einen schönen Apfel, ich fand ihn und aß ihn. Mehr habe ich nicht getan.” Da sagte die Mutter zu dem Sohne: “Geh schnell los den Fluss entlang auf­<pb n="194"/>wärts. Suche den Herrn dieses Apfels, wo auch immer er sich findet. Dann bitte diesen Mann um Einverständnis für diesen Apfel.”<note place="bottom">1238 valal ‘erlaubt’ (s. Anm. 230) wird hier und im Folgenden mit ‘Einverständnis (dass jemand etwas hat bzw. bekommt)’ übersetzt.</note> Nachdem sie ihn so belehrt hatte, schickte die Mutter den <cb n="189"/> Sohn. Da ging er den Fluss entlang aufwärts. Er fand einen alten Mann mit weißem Bart, der viele Äpfel hatte. Da sagte er zu dem Manne: “Hast du einen Apfel von solcher Farbe?” Der alte Mann sagte zu diesem Burschen: “Einen solchen Apfel habe ich nicht. Von mir aus weiter aufwärts befindet sich mein älterer Bruder. Bei ihm wird es möglich sein, einen solchen Apfel zu finden. Gehe zu ihm.” <cb n="190"/> So beraten, wurde der Bursche von dem Manne geschickt. Da fand der Bursche einen Mann, der keinen weißen, sondern einen grauen Bart hatte. Zu ihm sagte dieser Sohn: “Hast du einen derartigen Apfel?” Da sagte der Mann zu dem Sohne: “Ich habe keinen derartigen Apfel. Unser ältester Bruder da weiter aufwärts hat einen derartigen Apfel.” Da ging der Sohn von dort weg, <cb n="191"/> zu dem am weitesten aufwärts leben­den Manne. Während er dorthin ging, dachte der Sohn: “Der weiß-bärtige Mann hat mir gesagt: «Mein älterer Bruder lebt weiter aufwärts.» Der weiter aufwärts Lebende ist doch jünger (“kleiner”) als er. Warum wohl hat er mir das so gesagt?” Viel dachte der Sohn nach. Da gelangte dieser Sohn zu dem am weitesten aufwärts lebenden Mann. <cb n="192"/> Diesen Mann fand er als einen sehr schönen trefflichen Mann mit einem schwarzen Bart. Da sagte der Sohn zu ihm: “He, Freund, hast du einen Apfel von solcher Farbe?” Da sagte der Mann zu dem Sohne: “Ich habe einen solchen Apfel.” Da sagte der Sohn zu ihm: “Gib mir dein Einverständnis für jenen Apfel.” Da sagte der Mann: <cb n="193"/> “Für was für einen Apfel soll ich dir mein Einverständnis geben?” Da sagte der Sohn: “Ich habe einen solchen Apfel gefunden, den der Fluss gebracht hatte. Da habe ich den Apfel gegessen. Jetzt will ich, dass du mir dein Einverständnis dafür gibst.” Da sagte der Mann zu dem Burschen: “Ich habe eine Tochter, beide Hände hat sie nicht, beide Beine hat sie nicht, beide Augen hat sie nicht, beide Ohren hat sie nicht. Solch <cb n="194"/> eine Tochter ohne alles habe ich. Wenn du diese Tochter heiratest, werde ich dir mein Einverständnis für diesen Apfel geben. Wenn du sie nicht heiratest, werde ich dir diesen Apfel nicht geben.” Da dachte der Sohn lange: “Ein solches Mädchen, <pb n="194"/>das beide Hände nicht hat, beide Beine nicht hat, beide Augen nicht hat, beide Ohren nicht hat, wie (soll ich es) heiraten? Wenn ich sie nicht heirate, wird mir das Einverständnis für den Apfel <cb n="195"/> nicht gegeben.” Dies sagte der Sohn und kehrte von dort zurück zu seiner Mutter. Er erzählte seiner Mutter das, was der Mann ihm selbst gesagt hatte. Da sagte die Mutter zu dem Sohne: “Gehe schnell, ohne dich aufzuhalten, und heirate jene seine Tochter.” Da ging der Sohn zurück zu dem Manne und sagte ihm: “Ich werde diese deine Tochter heiraten, (nur) gib mir dein Einverständnis für diesen Apfel.” <cb n="196"/> Da sagte der Mann zu dem Sohne: “Komm ins Haus, ich gebe dir mein Einverständnis für den Apfel.” Da kam der Sohn in dessen Haus und setzte sich nieder. Da sagte der Mann zu seiner Frau, als sie fertig gegessen hatten: “Geh los und bringe eine Melone für uns.” Sie ging und brachte eine kleine Melone. Da sagte der Mann zu der Frau: <cb n="197"/> “Nicht diese, jene sollst du bringen.” Sie ging und brachte dieselbe Melone noch einmal, und der Mann sagte zu der Frau: “Nicht diese, jene sollst du bringen.” Da brachte sie zum dritten Male dieselbe Melone. Da zerschnitten sie und aßen jene Melone. Jetzt als der Geistliche gekommen war, wurde die Trauung jenes Sohns und jenes Mädchens vollzogen (“wurde dem jungen Mann das Brautgeld (mahari) des Mädchens gegeben”). Da wurde der Sohn nahe zu dem Mädchen in ein anderes <cb n="198"/> Zimmer geschickt. Da fand er jenes Mädchen, ein sehr schönes und treffliches Mädchen fand er. Er betrachtete sie und dachte: “Und ihr Vater hat mir gesagt: «Sie ist ein Mädchen, das keine Hände, Beine, Augen, Ohren hat.» Diese hat alles.” Da machte sich der Sohn daran, zu ihr zu gehen. Sie sagte: “Bleibe einen Augenblick stehen.” <cb n="199"/> Da blieb der Sohn stehen. Da bat sie Gott: “Wenn es mir nicht gelingen wird, für ihn zu sorgen (“wenn es sich nicht erweist, dass es geschieht, dass ich für ihn Dienst tue”), wie diese meine Mutter für diesen meinen Vater, möge mich Gott von ihm trennen.” Da starb dieses Mädchen dort. Da ging der Sohn und erzählte ihrem Vater, dass die Tochter gestorben war. Da sagte ihr Vater zu dem Burschen: <cb n="200"/> “Der von dir zuerst angetroffene alte Mann war unser jüngster Bruder, durch die Schlech­tigkeit seiner Frau ist er so alt geworden. Der zweite von dir angetroffene Mann ist unser mittlerer Bruder. Seine Frau war ein wenig gut. Deshalb ist jener ein wenig jung geblieben. Ich bin der älteste Bruder von ihnen. In meinem Hause war gestern Abend <pb n="196"/><cb n="201"/> außer der einen Melone, die wir aßen, keine andere da. Ich habe die Frau dreimal mit den Worten: «Nicht diese, sondern jene» fortge­schickt. Sie hat nicht zu mir gesagt: «Wir haben doch keine andere mehr», sondern dreimal dieselbe Melone gebracht. So, was auch immer ich sage, sie gibt keine Widerrede. Da sie solch eine Frau <cb n="202"/> ist, bin ich nicht weißbärtig geworden. Jetzt bat das Mädchen: “Wenn es mir nicht gelingen wird, für ihn zu sorgen, wie diese meine Mutter für diesen meinen Vater, möge ich von ihm getrennt werden.” Danach starb sie. Etwas Böses zu tun, hatte sie beide Hände nicht. Auf einen bösen Ort zu schauen, hatte sie beide <cb n="203"/> Augen nicht. An einen verbotenen Ort zu gehen, hatte sie beide Beine nicht. Etwas Verbotenes zu hören, hatte sie beide Ohren nicht. Dir habe ich sie gegeben, sprechend: «Ein Mann, der geeigneter wäre als du, um sie ihm zu geben, gibt es nicht». Gott hat sie dir nicht gelassen. Was kann man da tun?” sagte der Vater. Der Sohn wurde sehr traurig und ging heim.</p>
-  </body>
- </text>
+          <author role="author">
+            <name ref="#WB">
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#JB">
+              <persName>
+                <forename>Johannes</forename>
+                <surname>Bechert</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#EL">
+              <persName>
+                <forename>Ernst</forename>
+                <surname>Lewy</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
+          <distributor>
+            <ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
+          </distributor>
+          <date when="2007">The year 2007</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+        <bibl type="digitalSource">
+          <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a726 Die drei Alten</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_212.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+            <item>	Warnung vor sozialer Diskriminierung</item>
+            <item>Warnung vor körperbezogener Diskriminierung</item>
+            <item>	Warnung vor Gewalt und Missbrauch</item>
+            <item>Warnung vor Schönheitsnormen und Körperidealen</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
+          <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
+          <geo/>
+        </placeName>
+        <date when="1918">1918</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Nazmuddin</forename>
+            <surname>Sajpudin</surname>
+          </persName>
+          <age>31</age>
+          <birth>
+            <date when="1887">1887</date>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
+              <settlement>Gunib</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ava_deu_212">
+    <body>
+      <head>VIII. Der fromme Sohn</head>
+      <p>
+        <cb n="185"/>
+         Geschichte. Eine Witwe hatte einen guten und gelehrten Sohn.
+        <note place="bottom">1236 Im Folgenden wird was gelegentlich mit ‘Bursche’ übersetzt. E.L. übersetzt manchmal mit: ‘junger Mann’. </note>
+         Immer am Freitag hielt er die Freitagspredigt (“machte er die Chutma”). Immer wenn er die Predigt hielt, weinten alle Leute. Da an einem Tage ging er am Ufer eines Flusse entlang. Einen Apfel, den der Fluss brachte, fand der gelehrte Sohn. Der Apfel war zur Hälfte rot, zur Hälfte weiß. Da nahm der Sohn diesen Apfel 
+        <cb n="186"/>
+         und aß ihn. Nachdem er den Apfel gegessen hatte, wenn er die Gebete las, weinten die Leute nicht. Da wurde der Sohn sehr traurig. Er ging und erzählte seiner Mutter: “Früher, wenn ich die Gebete las, weinten die Leute immer; jetzt, wenn ich die Gebete lese, weinen die Leute nicht mehr. Was das bedeutet, weiß ich nicht.” 
+        <cb n="187"/>
+         Da sagte die Mutter zu dem Sohne: “Du musst irgend etwas Verbotenes
+        <note place="bottom">1237 Hier und im Folgenden wird haram mit Verbotenes statt mit Unehrenhaftes übersetzt. </note>
+         getan haben.” Da sagte der Sohn: “Ich bin mir dessen nicht bewusst, dass ich irgend etwas Verbotenes getan habe.” Dann sagte die Mutter zu ihm: “Denke nach, du hast wahrscheinlich irgend etwas getan.” Da dachte der Sohn lange nach. Er erinnerte sich, dass er jenen Apfel gegessen hatte. Da erzählte er der Mutter: 
+        <cb n="188"/>
+         “Dieser unser Fluss brachte einen schönen Apfel, ich fand ihn und aß ihn. Mehr habe ich nicht getan.” Da sagte die Mutter zu dem Sohne: “Geh schnell los den Fluss entlang auf­
+        <pb n="194"/>
+        wärts. Suche den Herrn dieses Apfels, wo auch immer er sich findet. Dann bitte diesen Mann um Einverständnis für diesen Apfel.”
+        <note place="bottom">1238 valal ‘erlaubt’ (s. Anm. 230) wird hier und im Folgenden mit ‘Einverständnis (dass jemand etwas hat bzw. bekommt)’ übersetzt.</note>
+         Nachdem sie ihn so belehrt hatte, schickte die Mutter den 
+        <cb n="189"/>
+         Sohn. Da ging er den Fluss entlang aufwärts. Er fand einen alten Mann mit weißem Bart, der viele Äpfel hatte. Da sagte er zu dem Manne: “Hast du einen Apfel von solcher Farbe?” Der alte Mann sagte zu diesem Burschen: “Einen solchen Apfel habe ich nicht. Von mir aus weiter aufwärts befindet sich mein älterer Bruder. Bei ihm wird es möglich sein, einen solchen Apfel zu finden. Gehe zu ihm.” 
+        <cb n="190"/>
+         So beraten, wurde der Bursche von dem Manne geschickt. Da fand der Bursche einen Mann, der keinen weißen, sondern einen grauen Bart hatte. Zu ihm sagte dieser Sohn: “Hast du einen derartigen Apfel?” Da sagte der Mann zu dem Sohne: “Ich habe keinen derartigen Apfel. Unser ältester Bruder da weiter aufwärts hat einen derartigen Apfel.” Da ging der Sohn von dort weg, 
+        <cb n="191"/>
+         zu dem am weitesten aufwärts leben­den Manne. Während er dorthin ging, dachte der Sohn: “Der weiß-bärtige Mann hat mir gesagt: «Mein älterer Bruder lebt weiter aufwärts.» Der weiter aufwärts Lebende ist doch jünger (“kleiner”) als er. Warum wohl hat er mir das so gesagt?” Viel dachte der Sohn nach. Da gelangte dieser Sohn zu dem am weitesten aufwärts lebenden Mann. 
+        <cb n="192"/>
+         Diesen Mann fand er als einen sehr schönen trefflichen Mann mit einem schwarzen Bart. Da sagte der Sohn zu ihm: “He, Freund, hast du einen Apfel von solcher Farbe?” Da sagte der Mann zu dem Sohne: “Ich habe einen solchen Apfel.” Da sagte der Sohn zu ihm: “Gib mir dein Einverständnis für jenen Apfel.” Da sagte der Mann: 
+        <cb n="193"/>
+         “Für was für einen Apfel soll ich dir mein Einverständnis geben?” Da sagte der Sohn: “Ich habe einen solchen Apfel gefunden, den der Fluss gebracht hatte. Da habe ich den Apfel gegessen. Jetzt will ich, dass du mir dein Einverständnis dafür gibst.” Da sagte der Mann zu dem Burschen: “Ich habe eine Tochter, beide Hände hat sie nicht, beide Beine hat sie nicht, beide Augen hat sie nicht, beide Ohren hat sie nicht. Solch 
+        <cb n="194"/>
+         eine Tochter ohne alles habe ich. Wenn du diese Tochter heiratest, werde ich dir mein Einverständnis für diesen Apfel geben. Wenn du sie nicht heiratest, werde ich dir diesen Apfel nicht geben.” Da dachte der Sohn lange: “Ein solches Mädchen, 
+        <pb n="194"/>
+        das beide Hände nicht hat, beide Beine nicht hat, beide Augen nicht hat, beide Ohren nicht hat, wie (soll ich es) heiraten? Wenn ich sie nicht heirate, wird mir das Einverständnis für den Apfel 
+        <cb n="195"/>
+         nicht gegeben.” Dies sagte der Sohn und kehrte von dort zurück zu seiner Mutter. Er erzählte seiner Mutter das, was der Mann ihm selbst gesagt hatte. Da sagte die Mutter zu dem Sohne: “Gehe schnell, ohne dich aufzuhalten, und heirate jene seine Tochter.” Da ging der Sohn zurück zu dem Manne und sagte ihm: “Ich werde diese deine Tochter heiraten, (nur) gib mir dein Einverständnis für diesen Apfel.” 
+        <cb n="196"/>
+         Da sagte der Mann zu dem Sohne: “Komm ins Haus, ich gebe dir mein Einverständnis für den Apfel.” Da kam der Sohn in dessen Haus und setzte sich nieder. Da sagte der Mann zu seiner Frau, als sie fertig gegessen hatten: “Geh los und bringe eine Melone für uns.” Sie ging und brachte eine kleine Melone. Da sagte der Mann zu der Frau: 
+        <cb n="197"/>
+         “Nicht diese, jene sollst du bringen.” Sie ging und brachte dieselbe Melone noch einmal, und der Mann sagte zu der Frau: “Nicht diese, jene sollst du bringen.” Da brachte sie zum dritten Male dieselbe Melone. Da zerschnitten sie und aßen jene Melone. Jetzt als der Geistliche gekommen war, wurde die Trauung jenes Sohns und jenes Mädchens vollzogen (“wurde dem jungen Mann das Brautgeld (mahari) des Mädchens gegeben”). Da wurde der Sohn nahe zu dem Mädchen in ein anderes 
+        <cb n="198"/>
+         Zimmer geschickt. Da fand er jenes Mädchen, ein sehr schönes und treffliches Mädchen fand er. Er betrachtete sie und dachte: “Und ihr Vater hat mir gesagt: «Sie ist ein Mädchen, das keine Hände, Beine, Augen, Ohren hat.» Diese hat alles.” Da machte sich der Sohn daran, zu ihr zu gehen. Sie sagte: “Bleibe einen Augenblick stehen.” 
+        <cb n="199"/>
+         Da blieb der Sohn stehen. Da bat sie Gott: “Wenn es mir nicht gelingen wird, für ihn zu sorgen (“wenn es sich nicht erweist, dass es geschieht, dass ich für ihn Dienst tue”), wie diese meine Mutter für diesen meinen Vater, möge mich Gott von ihm trennen.” Da starb dieses Mädchen dort. Da ging der Sohn und erzählte ihrem Vater, dass die Tochter gestorben war. Da sagte ihr Vater zu dem Burschen: 
+        <cb n="200"/>
+         “Der von dir zuerst angetroffene alte Mann war unser jüngster Bruder, durch die Schlech­tigkeit seiner Frau ist er so alt geworden. Der zweite von dir angetroffene Mann ist unser mittlerer Bruder. Seine Frau war ein wenig gut. Deshalb ist jener ein wenig jung geblieben. Ich bin der älteste Bruder von ihnen. In meinem Hause war gestern Abend 
+        <pb n="196"/>
+        <cb n="201"/>
+         außer der einen Melone, die wir aßen, keine andere da. Ich habe die Frau dreimal mit den Worten: «Nicht diese, sondern jene» fortge­schickt. Sie hat nicht zu mir gesagt: «Wir haben doch keine andere mehr», sondern dreimal dieselbe Melone gebracht. So, was auch immer ich sage, sie gibt keine Widerrede. Da sie solch eine Frau 
+        <cb n="202"/>
+         ist, bin ich nicht weißbärtig geworden. Jetzt bat das Mädchen: “Wenn es mir nicht gelingen wird, für ihn zu sorgen, wie diese meine Mutter für diesen meinen Vater, möge ich von ihm getrennt werden.” Danach starb sie. Etwas Böses zu tun, hatte sie beide Hände nicht. Auf einen bösen Ort zu schauen, hatte sie beide 
+        <cb n="203"/>
+         Augen nicht. An einen verbotenen Ort zu gehen, hatte sie beide Beine nicht. Etwas Verbotenes zu hören, hatte sie beide Ohren nicht. Dir habe ich sie gegeben, sprechend: «Ein Mann, der geeigneter wäre als du, um sie ihm zu geben, gibt es nicht». Gott hat sie dir nicht gelassen. Was kann man da tun?” sagte der Vater. Der Sohn wurde sehr traurig und ging heim.
+      </p>
+    </body>
+  </text>
 </TEI>

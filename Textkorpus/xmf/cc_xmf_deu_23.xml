@@ -1,222 +1,239 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">18. Die drei Brüder und der Riese</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_23.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
-      <forename>Iosif Alekseevich</forename>
-      <surname>Kipshidze</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_23">
-  <body>
-   <head>Die drei Brüder und der Riese</head>
-   <p>Es war einmal ein Herrscher, der hatte drei Söhne, einer prächtiger anzusehen als der andere. Der Herrscher fühlte den Tod herankommen. Er rief seine drei Söhne zu sich und sprach: "Daß ich sterbe, seht auch ihr. <pb n="121"/> Aber vor meinem Todestag habe ich euch noch etwas zu sagen, und merkt euch gut, was ich euch auftrage: Mein Reich ist groß und weit, es hat gleichermaßen Feld und Wald und gleichermaßen Berge und Täler. Durchstreift alle Gegenden, bereist alle Länder, seht euch alles an, aber daß Gott euch nicht zürne: Geht nicht in den Wald jagen, der bei meinem Haus und Hof steht. Achtet einander und liebt euch. Helft einander in der Not, und schont euer Leben nicht für eine gute Sache! Meinen Besitz hinterlasse ich euch gemeinsam ungeteilt, bringt meine Seele nicht durch Untaten in Verdammnis und führt ein Leben in Liebe!" Das sagte der Herrscher und starb. Die Söhne beweinten und bestatteten den Vater, wie es ihm gebührte. Eine lange Zeit verging. Die Söhne beendeten die Trauer um den Vater, Sie lebten, wie der Vater es ihnen aufgetragen hatte, und es geschah ihnen nichts Böses.</p>
-   <p>Eines Tages zog der älteste Sohn auf die Jagd. Beim Abschied erinnerten ihn der mittlere und der jüngste Bruder an die Worte des Vaters, Der älteste Bruder zäumte sein Pferd und ritt davon. Ein Tag verging, aber er kam nicht wieder. Noch gaben die Söhne des Herrschers die Hoffnung nicht auf und warteten jeden Tag auf ihn, doch er kam nicht nach Hause.</p>
-   <p>Da machte sich der mittlere Bruder auf die Suche, im Haus blieb nur der jüngste. Auch er wartete mehrere Tage, und als weder der eine noch der andere zurückkam, beschloß er, die Brüder zu suchen. Er richtete im Haus alles ordentlich her, legte seinem Roß den Sattel auf, wandte sich nach rechts und ritt los. Er hatte sofort begriffen, wohin seine Brüder geritten waren, und lenkte das Roß zum Wald. Als er näher kam, sah er Hufspuren.</p>
-   <p>Sogleich erkannte er, daß es die Spuren seiner Brüder waren. Er schlug sein Roß mit der Peitsche und war im Handumdrehen mitten im Wald. Es war so dunkel in dem Wald, daß man die Hand nicht vor Augen sehen konnte.</p>
-   <p>Aber der junge Mann saß auf einem Roß, aus dessen Augen Funken sprühten, und mit ihrem Licht beleuchtete sich der Sohn des Herrschers den Weg. Er ritt einen Tag lang, er ritt einen zweiten, viele Tage ritt er,und nach drei Jahren erblickte er endlich in Sichtweite ein krähenkopfgroßes Licht. Der junge Mann schöpfte Hoffnung. Er schlug sein Pferd mit der Peitsche und stürmte schnell wie der Wind auf ein großes Feld. Auf diesem Feld war ein so starkes Licht, daß er anfangs die Augen nicht zuöffnen vermochte. Aber als er sein Auge daran gewöhnt hatte, sah er etwas Merkwürdiges: Auf diesem Feld stand ein Haus, und aus diesem Haus drang das Licht, das alles erhellte. Er trat durch das Tor. Im Hof rief er:"He, Gastgeber!" Er rief es einmal, zweimal, dreimal, doch kein Mensch gab ihm Antwort. Da sprang er von seinem Roß, band es an einen Baum und stieg auf den Balkon hinauf. Er blickte umher, konnte aber niemanden sehen. Er streifte durch alle Räume und gelangte schließlich zu einem <pb n="122"/> verschlossenen Zimmer. Er klopfte an, aber niemand gab ihm Antwort. Als er sich gegen die Tür stemmte, ging sie nicht auf, Da geriet er in Zorn und trat kräftig mit dem Fuß zu. Er zertrümmerte die Tür wie dürres Geäst und ging hinein. Und wie er eintrat und sich umsah, saß da ein märchenhaft schönes, reizendes Mädchen und weinte. Der junge Mann trat näher. Als das Mädchen den Sohn des Herrschers sah, hörte sie auf zu weinen. Eine Weile blickten sie sich stumm an, schließlich fragte der junge Mann: "Wer bist du?”</p>
-   <p>“Ich bin die Tochter des Herrschers des Meeres, und ein Riese hält mich jetzt gefangen.”</p>
-   <p>"Wo ist der Riese?" fragte der junge Mann.</p>
-   <p>"Jetzt ist er wahrscheinlich auf die Jagd gegangen. Bald wird er zurückkommen und dir einen schlimmen Empfang bereiten“, sagte das Mädchen.</p>
-   <p>"Hab keine Angst, er kann mir nichts anhaben. Ich werde dir ein ergötzliches Schauspiel vorführen", meinte der junge Mann.</p>
-   <p>"Weh, was soll ich dir weiter sagen, du kannst nicht mit ihm fertig werden. In diesen Tagen sind zwei junge Burschen hergekommen, der Riese hat beide getötet, sie liegen unten im Haus. Dein Kommen wird dem Verfluchten keine Freude bereiten, und ich bitte dich: Verstecke dich oder verlaß diesen Ort", bat das Mädchen.</p>
-   <p>"Wenn du dich nicht weigerst, meine Frau zu werden, will ich dich von hier fortbringen und den Riesen töten. Und ich will den Riesen, der dich entführt hat, auch meine Brüder wieder lebendig machen lassen."</p>
-   <p>Das Mädchen war einverstanden. Sie war sehr traurig, als sie erfuhr, daßdie Toten die Brüder dieses jungen Mannes waren. Der jüngste Bruder trug seine Brüder im Haus nach oben und legte sie in das Bett, und die beiden, Frau und Mann, gingen auf den Balkon hinaus. Plötzlich, als sie sich umarmten und aneinanderschmiegten, blickten sie auf und sahen, daß der Riese herankam und das Land erbeben ließ. Der Riese kam in den Hof,und als er das Roß erblickte, wollte er es fressen. Der junge Mann rief ihm vom Balkon zu: "Daß Gott dir nicht zürnt, friß mein Roß nicht!”</p>
-   <p>Der Riese blickte empor, und als er den Sohn des Herrschers bei dem schönen Mädchen sah, brüllte er gräßlich auf und rief dem Burschen zu:"Wie konntest du Elender es wagen, ohne meine Erlaubnis die Tür meines Zimmers aufzubrechen!"</p>
-   <p>"Das geht dich nichts an. Und wie ich es gewagt habe, werde ich dirgleich zeigen”, rief der junge Mann und lief hinab.</p>
-   <p>Der Riese war so außer sich, daß er Feuer aus dem Mund spie, aber der Sohn des Herrschers wehrte es ab. Unbändig drangen sie aufeinander ein.</p>
-   <p>Drei Tage und drei Nächte kämpften sie. Schließlich gewann der junge Mann die Oberhand und stieß den Riesen bis zum Genick in die Erde. Er <pb n="123"/> löste sein Schwert, und als er dem Riesen den Kopf abschlagen wollte,flehte der ihn an: "Töte mich nicht, und ich will dir erfüllen, was du willst.”</p>
-   <p>"Mach meine Brüder wieder lebendig, und dann will ich dich in dieser Gegend nicht wieder sehen”, sagte der junge Mann,</p>
-   <p>Er zog den Riesen aus dem Boden und führte ihn zu seinen toten Brüdern. Der Riese spuckte beide an und machte sie wieder lebendig. "O, mein Gott, wie lange wir geschlafen haben”, sagten beide. Sie sahen sich um und erblickten ihren jüngsten Bruder. Sie umarmten sich, und als sie alles erfuhren, freuten sie sich noch mehr.</p>
-   <p>Der Riese machte sich auf der Stelle davon, und dann hat kein Mensch mehr von ihm etwas gehört. Lange Zeit verbrachten die Brüder in Freude zusammen, und schließlich reisten der älteste und der mittlere Bruder in ihr Reich. Der jüngste blieb da. Seit dieser Zeit lebten alle drei Brüder im Glück. Niemand konnte es wagen, sie anzugreifen, und sie flößten allen solche Furcht ein, daß jedermann Angst hatte, auch nur den Fuß in ihr Reich zu setzen. Sie ließen keinen Vogel oben darüber fliegen, und unten konnte keine Ameise kriechen.</p>
-   <p>Gestern bin ich dort gewesen, und heute bin ich hier.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">18. Die drei Brüder und der Riese</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_23.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">
+            133697460&gt;
+            <forename>Iosif Alekseevich</forename>
+            <surname>Kipshidze</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_23">
+    <body>
+      <head>Die drei Brüder und der Riese</head>
+      <p>
+        Es war einmal ein Herrscher, der hatte drei Söhne, einer prächtiger anzusehen als der andere. Der Herrscher fühlte den Tod herankommen. Er rief seine drei Söhne zu sich und sprach: &quot;Daß ich sterbe, seht auch ihr. 
+        <pb n="121"/>
+         Aber vor meinem Todestag habe ich euch noch etwas zu sagen, und merkt euch gut, was ich euch auftrage: Mein Reich ist groß und weit, es hat gleichermaßen Feld und Wald und gleichermaßen Berge und Täler. Durchstreift alle Gegenden, bereist alle Länder, seht euch alles an, aber daß Gott euch nicht zürne: Geht nicht in den Wald jagen, der bei meinem Haus und Hof steht. Achtet einander und liebt euch. Helft einander in der Not, und schont euer Leben nicht für eine gute Sache! Meinen Besitz hinterlasse ich euch gemeinsam ungeteilt, bringt meine Seele nicht durch Untaten in Verdammnis und führt ein Leben in Liebe!&quot; Das sagte der Herrscher und starb. Die Söhne beweinten und bestatteten den Vater, wie es ihm gebührte. Eine lange Zeit verging. Die Söhne beendeten die Trauer um den Vater, Sie lebten, wie der Vater es ihnen aufgetragen hatte, und es geschah ihnen nichts Böses.
+      </p>
+      <p>Eines Tages zog der älteste Sohn auf die Jagd. Beim Abschied erinnerten ihn der mittlere und der jüngste Bruder an die Worte des Vaters, Der älteste Bruder zäumte sein Pferd und ritt davon. Ein Tag verging, aber er kam nicht wieder. Noch gaben die Söhne des Herrschers die Hoffnung nicht auf und warteten jeden Tag auf ihn, doch er kam nicht nach Hause.</p>
+      <p>Da machte sich der mittlere Bruder auf die Suche, im Haus blieb nur der jüngste. Auch er wartete mehrere Tage, und als weder der eine noch der andere zurückkam, beschloß er, die Brüder zu suchen. Er richtete im Haus alles ordentlich her, legte seinem Roß den Sattel auf, wandte sich nach rechts und ritt los. Er hatte sofort begriffen, wohin seine Brüder geritten waren, und lenkte das Roß zum Wald. Als er näher kam, sah er Hufspuren.</p>
+      <p>Sogleich erkannte er, daß es die Spuren seiner Brüder waren. Er schlug sein Roß mit der Peitsche und war im Handumdrehen mitten im Wald. Es war so dunkel in dem Wald, daß man die Hand nicht vor Augen sehen konnte.</p>
+      <p>
+        Aber der junge Mann saß auf einem Roß, aus dessen Augen Funken sprühten, und mit ihrem Licht beleuchtete sich der Sohn des Herrschers den Weg. Er ritt einen Tag lang, er ritt einen zweiten, viele Tage ritt er,und nach drei Jahren erblickte er endlich in Sichtweite ein krähenkopfgroßes Licht. Der junge Mann schöpfte Hoffnung. Er schlug sein Pferd mit der Peitsche und stürmte schnell wie der Wind auf ein großes Feld. Auf diesem Feld war ein so starkes Licht, daß er anfangs die Augen nicht zuöffnen vermochte. Aber als er sein Auge daran gewöhnt hatte, sah er etwas Merkwürdiges: Auf diesem Feld stand ein Haus, und aus diesem Haus drang das Licht, das alles erhellte. Er trat durch das Tor. Im Hof rief er:&quot;He, Gastgeber!&quot; Er rief es einmal, zweimal, dreimal, doch kein Mensch gab ihm Antwort. Da sprang er von seinem Roß, band es an einen Baum und stieg auf den Balkon hinauf. Er blickte umher, konnte aber niemanden sehen. Er streifte durch alle Räume und gelangte schließlich zu einem 
+        <pb n="122"/>
+         verschlossenen Zimmer. Er klopfte an, aber niemand gab ihm Antwort. Als er sich gegen die Tür stemmte, ging sie nicht auf, Da geriet er in Zorn und trat kräftig mit dem Fuß zu. Er zertrümmerte die Tür wie dürres Geäst und ging hinein. Und wie er eintrat und sich umsah, saß da ein märchenhaft schönes, reizendes Mädchen und weinte. Der junge Mann trat näher. Als das Mädchen den Sohn des Herrschers sah, hörte sie auf zu weinen. Eine Weile blickten sie sich stumm an, schließlich fragte der junge Mann: &quot;Wer bist du?”
+      </p>
+      <p>“Ich bin die Tochter des Herrschers des Meeres, und ein Riese hält mich jetzt gefangen.”</p>
+      <p>&quot;Wo ist der Riese?&quot; fragte der junge Mann.</p>
+      <p>&quot;Jetzt ist er wahrscheinlich auf die Jagd gegangen. Bald wird er zurückkommen und dir einen schlimmen Empfang bereiten“, sagte das Mädchen.</p>
+      <p>&quot;Hab keine Angst, er kann mir nichts anhaben. Ich werde dir ein ergötzliches Schauspiel vorführen&quot;, meinte der junge Mann.</p>
+      <p>&quot;Weh, was soll ich dir weiter sagen, du kannst nicht mit ihm fertig werden. In diesen Tagen sind zwei junge Burschen hergekommen, der Riese hat beide getötet, sie liegen unten im Haus. Dein Kommen wird dem Verfluchten keine Freude bereiten, und ich bitte dich: Verstecke dich oder verlaß diesen Ort&quot;, bat das Mädchen.</p>
+      <p>&quot;Wenn du dich nicht weigerst, meine Frau zu werden, will ich dich von hier fortbringen und den Riesen töten. Und ich will den Riesen, der dich entführt hat, auch meine Brüder wieder lebendig machen lassen.&quot;</p>
+      <p>Das Mädchen war einverstanden. Sie war sehr traurig, als sie erfuhr, daßdie Toten die Brüder dieses jungen Mannes waren. Der jüngste Bruder trug seine Brüder im Haus nach oben und legte sie in das Bett, und die beiden, Frau und Mann, gingen auf den Balkon hinaus. Plötzlich, als sie sich umarmten und aneinanderschmiegten, blickten sie auf und sahen, daß der Riese herankam und das Land erbeben ließ. Der Riese kam in den Hof,und als er das Roß erblickte, wollte er es fressen. Der junge Mann rief ihm vom Balkon zu: &quot;Daß Gott dir nicht zürnt, friß mein Roß nicht!”</p>
+      <p>Der Riese blickte empor, und als er den Sohn des Herrschers bei dem schönen Mädchen sah, brüllte er gräßlich auf und rief dem Burschen zu:&quot;Wie konntest du Elender es wagen, ohne meine Erlaubnis die Tür meines Zimmers aufzubrechen!&quot;</p>
+      <p>&quot;Das geht dich nichts an. Und wie ich es gewagt habe, werde ich dirgleich zeigen”, rief der junge Mann und lief hinab.</p>
+      <p>Der Riese war so außer sich, daß er Feuer aus dem Mund spie, aber der Sohn des Herrschers wehrte es ab. Unbändig drangen sie aufeinander ein.</p>
+      <p>
+        Drei Tage und drei Nächte kämpften sie. Schließlich gewann der junge Mann die Oberhand und stieß den Riesen bis zum Genick in die Erde. Er 
+        <pb n="123"/>
+         löste sein Schwert, und als er dem Riesen den Kopf abschlagen wollte,flehte der ihn an: &quot;Töte mich nicht, und ich will dir erfüllen, was du willst.”
+      </p>
+      <p>&quot;Mach meine Brüder wieder lebendig, und dann will ich dich in dieser Gegend nicht wieder sehen”, sagte der junge Mann,</p>
+      <p>Er zog den Riesen aus dem Boden und führte ihn zu seinen toten Brüdern. Der Riese spuckte beide an und machte sie wieder lebendig. &quot;O, mein Gott, wie lange wir geschlafen haben”, sagten beide. Sie sahen sich um und erblickten ihren jüngsten Bruder. Sie umarmten sich, und als sie alles erfuhren, freuten sie sich noch mehr.</p>
+      <p>Der Riese machte sich auf der Stelle davon, und dann hat kein Mensch mehr von ihm etwas gehört. Lange Zeit verbrachten die Brüder in Freude zusammen, und schließlich reisten der älteste und der mittlere Bruder in ihr Reich. Der jüngste blieb da. Seit dieser Zeit lebten alle drei Brüder im Glück. Niemand konnte es wagen, sie anzugreifen, und sie flößten allen solche Furcht ein, daß jedermann Angst hatte, auch nur den Fuß in ihr Reich zu setzen. Sie ließen keinen Vogel oben darüber fliegen, und unten konnte keine Ameise kriechen.</p>
+      <p>Gestern bin ich dort gewesen, und heute bin ich hier.</p>
+    </body>
+  </text>
 </TEI>

@@ -1,124 +1,140 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Agulische Folklore</title>
-      <title xml:lang="eng">Agul Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <bibl>
-         <title>Магометов А. А. Агульский язык: Исследования и тексты. Тбилиси: Мецниереба, 1970а.</title>
-        </bibl>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      <titleStmt>
+        <title xml:lang="deu">Agulische Folklore</title>
+        <title xml:lang="eng">Agul Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <bibl>
+              <title>Магометов А. А. Агульский язык: Исследования и тексты. Тбилиси: Мецниереба, 1970а.</title>
+            </bibl>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="agx">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date>1965</date>
-     </creation>
-     <particDesc>
-      <person role="InformatorIn">
-       <persName xml:lang="rus">Гаджи Мазаев</persName>
-       <persName xml:lang="agx">ʜaǯi mazajew</persName>
-       <age>65</age>
-       <birth>
-        <address>
-         <district />
-         <settlement ref="https://www.geonames.org/477790/usug.html">Usug</settlement>
-        </address>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А. А.</forename>
-        <surname xml:lang="rus">МАГОМЕТОВ</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Т. А.</forename>
-        <surname xml:lang="rus">Майсак</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="agx">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date>1965</date>
+      </creation>
+      <particDesc>
+        <person role="InformatorIn">
+          <persName xml:lang="rus">Гаджи Мазаев</persName>
+          <persName xml:lang="agx">ʜaǯi mazajew</persName>
+          <age>65</age>
+          <birth>
+            <address>
+              <district/>
+              <settlement ref="https://www.geonames.org/477790/usug.html">Usug</settlement>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А. А.</forename>
+            <surname xml:lang="rus">МАГОМЕТОВ</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Т. А.</forename>
+            <surname xml:lang="rus">Майсак</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_agx_rus_21">
+  </teiHeader>
+  <text xml:id="cr_agx_rus_21">
     <body>
-     <head>М18. Царь и мальчик</head>
-     <p>говорят говорят царь царь ут рам приходил садился свой трон говорил своим визирям умнееменя никого свете говорил года</p><p>однажды старый визирь сказал царь почему тывсегда говоришь найдется человек умнее</p><p>визирь сказал царь рассердился царь сказал те чение трех дней приведи сюда человека умнее приве дешь убью вернешься убью твоих детей сказавтакие слова прогнал визиря своей канцелярии визирь переоделсяи отправился путь</p><p>день шел второй день обеденное времяшел дороге спросил паренек сидящий краю канавы эй де душка почему задумался идешь</p><p>визирь прошел ответив визирь подумал полтора дня прошло обратный путь</p><p>полтора дня уйдет вернусь моих детей убьют вернул назад</p><p>снова парень сидевший возле канавы встал подошел визи рю сказал визирю печалишься визирь сказал тыне сможешь избавить печали парень отставал визирь сказал наш царь говорит умнее никого парень сказал дурак ваш царь дам ответ ночью ос тановились одном месте утром отправились путь</p><p>это время царь своей крепости смотрел возвращается ви зирь царь увидел визирь идет каким парнем царь звал своих нукеров сказал визирь идет каким парнем пойдитеи посреди дороги выкопайте озеро водой визирь неувидел нукеры пошли выполнили приказ царя вернулись обратно</p><p>визирь парнем дошли озера парень сказал визирю</p><p>шел это озеро визирь сказал па рень взял палочку поднял небу бросил озеро</p><p>царь это увидел сказал мою первую задачу парень ре шил царь сказал своему нукеру пойди дорогу брось железо пошел бросил визирь парень нашли это железо па рень взял железо поднял небу сделал знаки пальцем</p><p>ах сказал царь вторую задачу решил царь звал нукера сказал брось дороге сталь бросил па рень нашел сталь нашел вынул кармана кременьи чиркнул сталь брызнули искры обрадовался</p><p>царь сказал третью мою задачу решил скажи пустьпридет</p><p>приходу царь созвал свой совет</p><p>первым зашел визирь парень парень вошел поздоровал ся царь приняв приветствие погладил рукой бороде протянул ру ку показал парня парень провел рукой своей бороде показал младший провел рукой голове</p><p>царь сказал мои задачи парень решил умнееменя</p><p>спросили услышав это царь сказал показалему море сказав мной сможешь спорить море сказал море плывущий сверху пароход второй задаче показал железо сказал железо показал гвоздь сказал гвоздь который проходитсквозь железо показал сталь показал кремень отогнива сказал этим камнем изотру прикончу</p><p>показал бороду сказал маленький аксакал сомной тягаться можешь сказал ум аксакале вребенке ум голове должен этими словами мальчик ме ня опроверг сегодняшнего дня скажу умный мальчик пусть моим советником конец</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>М18. Царь и мальчик</head>
+      <p>говорят говорят царь царь ут рам приходил садился свой трон говорил своим визирям умнееменя никого свете говорил года</p>
+      <p>однажды старый визирь сказал царь почему тывсегда говоришь найдется человек умнее</p>
+      <p>визирь сказал царь рассердился царь сказал те чение трех дней приведи сюда человека умнее приве дешь убью вернешься убью твоих детей сказавтакие слова прогнал визиря своей канцелярии визирь переоделсяи отправился путь</p>
+      <p>день шел второй день обеденное времяшел дороге спросил паренек сидящий краю канавы эй де душка почему задумался идешь</p>
+      <p>визирь прошел ответив визирь подумал полтора дня прошло обратный путь</p>
+      <p>полтора дня уйдет вернусь моих детей убьют вернул назад</p>
+      <p>снова парень сидевший возле канавы встал подошел визи рю сказал визирю печалишься визирь сказал тыне сможешь избавить печали парень отставал визирь сказал наш царь говорит умнее никого парень сказал дурак ваш царь дам ответ ночью ос тановились одном месте утром отправились путь</p>
+      <p>это время царь своей крепости смотрел возвращается ви зирь царь увидел визирь идет каким парнем царь звал своих нукеров сказал визирь идет каким парнем пойдитеи посреди дороги выкопайте озеро водой визирь неувидел нукеры пошли выполнили приказ царя вернулись обратно</p>
+      <p>визирь парнем дошли озера парень сказал визирю</p>
+      <p>шел это озеро визирь сказал па рень взял палочку поднял небу бросил озеро</p>
+      <p>царь это увидел сказал мою первую задачу парень ре шил царь сказал своему нукеру пойди дорогу брось железо пошел бросил визирь парень нашли это железо па рень взял железо поднял небу сделал знаки пальцем</p>
+      <p>ах сказал царь вторую задачу решил царь звал нукера сказал брось дороге сталь бросил па рень нашел сталь нашел вынул кармана кременьи чиркнул сталь брызнули искры обрадовался</p>
+      <p>царь сказал третью мою задачу решил скажи пустьпридет</p>
+      <p>приходу царь созвал свой совет</p>
+      <p>первым зашел визирь парень парень вошел поздоровал ся царь приняв приветствие погладил рукой бороде протянул ру ку показал парня парень провел рукой своей бороде показал младший провел рукой голове</p>
+      <p>царь сказал мои задачи парень решил умнееменя</p>
+      <p>спросили услышав это царь сказал показалему море сказав мной сможешь спорить море сказал море плывущий сверху пароход второй задаче показал железо сказал железо показал гвоздь сказал гвоздь который проходитсквозь железо показал сталь показал кремень отогнива сказал этим камнем изотру прикончу</p>
+      <p>показал бороду сказал маленький аксакал сомной тягаться можешь сказал ум аксакале вребенке ум голове должен этими словами мальчик ме ня опроверг сегодняшнего дня скажу умный мальчик пусть моим советником конец</p>
+    </body>
+  </text>
+</TEI>

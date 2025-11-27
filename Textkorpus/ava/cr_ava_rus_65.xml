@@ -1,132 +1,171 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>д. 2556</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>д. 2556</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/490022/sovetskiy-rayon.html">Sovetskiy Rayon</district>
-       <settlement />
-       <geo />
-      </placeName>
-      <date>1960</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Магомедов</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">К.</forename>
-        <surname xml:lang="rus">Казиев</surname>
-       </persName>
-       <persName>
-        <forename xml:lang="rus">И.</forename>
-        <surname xml:lang="rus">Алиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/490022/sovetskiy-rayon.html">Sovetskiy Rayon</district>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date>1960</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Магомедов</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">К.</forename>
+            <surname xml:lang="rus">Казиев</surname>
+          </persName>
+          <persName>
+            <forename xml:lang="rus">И.</forename>
+            <surname xml:lang="rus">Алиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_65">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_65">
     <body>
-     <head>32. Верная жена</head>
-     <p>жил жил славный бахарчи женился первую ночь пошел невесте второй день велел собрать дорогу удивилась невеста молча повиновалась бахарчи уехал вскоре попал большой аул ханском дворце играли пышную свадьбу улицах глашатаи выкрикивали ханский указ придет свадьбу убит бахарчи вместе всеми отправился пир дороге встретил одного старика который дал совет пить первый рог</p><p>ожидает последую твоему совету спросил бахарчи</p><p>первый должен будешь побороть самого сильного нукера иначе тебе отрубят голову второй осмелишься выпить первый рог должен будешь победить джигитовке иначе тебе отрубят голову самое плохое случится первым осушишь рог третий испытают верность твоей жены изменит тебе сносить головы</p><p>поблагодарил бахарчи старика пошел свадьбу круг молодежи</p><p>вскоре тамада налил полный рог вина предложил выпить никто осмелился принять долго длилось неловкое молчание бахарчи встал залпом осушил рог</p><p>повеселели начался пир</p><p>пира бахарчи пошел ночевать старику</p><p>сынок послушался моего совета спросил</p><p>отец мог отказаться чести выпить первый рот ответил бахарчи</p><p>пожурил старик долго уговаривал следующий вечер поднимать рога первым</p><p>второй день бахарчи оказался единственным смельчаком первым принял рог</p><p>второй день бахарчи оказался единственным смельчаком первым принял рог</p><p>узнав старик огорчился долго уговаривал бахарчи третий совершать безрассудного поступка третий выдержал бахарчи первым осушил рог сразу взяли стражу</p><p>следующее утро базарной площади собралась большая толпа привели бахарчи самого сильного ханского нукера стали бороться успели сойтись бахарчи высоко подбросил нукера уложил лопатки</p><p>затем начались скачки бахарчи своем коне обогнал лучшего джигита который выехал самом резвом ханском аргамаке</p><p>бахарчи взяли стражу жене отправили ханского сына везира известного красавца гуляку</p><p>приехали жене бахарчи выдали кунаков мужа передали привет попросились ночлег</p><p>входите кунаки сказано дня гостя приветствовала гостей</p><p>жена бахарчи накормила уложила спать самой лучшей комнате заметила гости шушукались почувствовала недоброе поэтому легла постель служанки служанку уложила постель</p><p>ночью гости подкрались служанке сорвали пальца кольцо отрезали косу убежали прибежавшая шум хозяйка увидела плачущую служанку поняла хотели обесчестить тотчас оседлала коня оделась одежду мужа взяла оружие поскакала вдогонку</p><p>вскоре достигла беглецов напала шашкой руках заставила сдаться угрозой смерти приказала раздеться голыми погнала хану возле родного аула оба упали колени слезах попросили вернуть одежду</p><p>согласны молили верни нам одежду входим свой аул</p><p>ладно ответила жена бахарчи поставлю свое клеймо</p><p>ханский сын соглашался везир стал уговаривать</p><p>узнает клейме нам идти домой голыми согласиться</p><p>девушка накалила свое клеймо заклеймила ханского сына везира обычно клеймят рабов пришлось обоим нести домой метку позора</p><p>услыхав сын хана везир вернулись народ начал собираться базарную площадь вскоре стражники привели бахарчи вышел хан своими приближенными начал расспрашивать сына везира</p><p>можете поведать нам благочестии жены молодца спросил хан</p><p>ответ сын везир вытащили отрезанную косу перстень сказали</p><p>это вещи жены наш хан</p><p>отрубить голову смельчаку приказал хан собрался покинуть площадь</p><p>это время ханом предстал красивый юноша</p><p>выслушай хан прежде казнить человека</p><p>говори короче некогда недовольно проворчал хан</p><p>ищу двух беглых рабов сказал юноша находятся</p><p>укажи</p><p>юноша указал сына хана везира</p><p>поднялась суматоха воспользовавшись которой везир сын хана хотели убежать схватили вытолкнули середину</p><p>хотелось хану всем народе раздевать сына везира пришлось уступить требованиям джамаата увидели ягодицах везира ханского сына клеймо</p><p>жалких лгуна вовсе соблазнили жену бахарчи сказал юноша навсего воровски отрезали косу служанке похитили кольцо настоящая жена вами мое кольцо этими словами юноша снял папаху увидели золотистые косы</p><p>бахарчи бросился обнимать жену нукеры стражники смогли удержать хан быстро увел своего опозоренного сына везира дворец</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>32. Верная жена</head>
+      <p>жил жил славный бахарчи женился первую ночь пошел невесте второй день велел собрать дорогу удивилась невеста молча повиновалась бахарчи уехал вскоре попал большой аул ханском дворце играли пышную свадьбу улицах глашатаи выкрикивали ханский указ придет свадьбу убит бахарчи вместе всеми отправился пир дороге встретил одного старика который дал совет пить первый рог</p>
+      <p>ожидает последую твоему совету спросил бахарчи</p>
+      <p>первый должен будешь побороть самого сильного нукера иначе тебе отрубят голову второй осмелишься выпить первый рог должен будешь победить джигитовке иначе тебе отрубят голову самое плохое случится первым осушишь рог третий испытают верность твоей жены изменит тебе сносить головы</p>
+      <p>поблагодарил бахарчи старика пошел свадьбу круг молодежи</p>
+      <p>вскоре тамада налил полный рог вина предложил выпить никто осмелился принять долго длилось неловкое молчание бахарчи встал залпом осушил рог</p>
+      <p>повеселели начался пир</p>
+      <p>пира бахарчи пошел ночевать старику</p>
+      <p>сынок послушался моего совета спросил</p>
+      <p>отец мог отказаться чести выпить первый рот ответил бахарчи</p>
+      <p>пожурил старик долго уговаривал следующий вечер поднимать рога первым</p>
+      <p>второй день бахарчи оказался единственным смельчаком первым принял рог</p>
+      <p>второй день бахарчи оказался единственным смельчаком первым принял рог</p>
+      <p>узнав старик огорчился долго уговаривал бахарчи третий совершать безрассудного поступка третий выдержал бахарчи первым осушил рог сразу взяли стражу</p>
+      <p>следующее утро базарной площади собралась большая толпа привели бахарчи самого сильного ханского нукера стали бороться успели сойтись бахарчи высоко подбросил нукера уложил лопатки</p>
+      <p>затем начались скачки бахарчи своем коне обогнал лучшего джигита который выехал самом резвом ханском аргамаке</p>
+      <p>бахарчи взяли стражу жене отправили ханского сына везира известного красавца гуляку</p>
+      <p>приехали жене бахарчи выдали кунаков мужа передали привет попросились ночлег</p>
+      <p>входите кунаки сказано дня гостя приветствовала гостей</p>
+      <p>жена бахарчи накормила уложила спать самой лучшей комнате заметила гости шушукались почувствовала недоброе поэтому легла постель служанки служанку уложила постель</p>
+      <p>ночью гости подкрались служанке сорвали пальца кольцо отрезали косу убежали прибежавшая шум хозяйка увидела плачущую служанку поняла хотели обесчестить тотчас оседлала коня оделась одежду мужа взяла оружие поскакала вдогонку</p>
+      <p>вскоре достигла беглецов напала шашкой руках заставила сдаться угрозой смерти приказала раздеться голыми погнала хану возле родного аула оба упали колени слезах попросили вернуть одежду</p>
+      <p>согласны молили верни нам одежду входим свой аул</p>
+      <p>ладно ответила жена бахарчи поставлю свое клеймо</p>
+      <p>ханский сын соглашался везир стал уговаривать</p>
+      <p>узнает клейме нам идти домой голыми согласиться</p>
+      <p>девушка накалила свое клеймо заклеймила ханского сына везира обычно клеймят рабов пришлось обоим нести домой метку позора</p>
+      <p>услыхав сын хана везир вернулись народ начал собираться базарную площадь вскоре стражники привели бахарчи вышел хан своими приближенными начал расспрашивать сына везира</p>
+      <p>можете поведать нам благочестии жены молодца спросил хан</p>
+      <p>ответ сын везир вытащили отрезанную косу перстень сказали</p>
+      <p>это вещи жены наш хан</p>
+      <p>отрубить голову смельчаку приказал хан собрался покинуть площадь</p>
+      <p>это время ханом предстал красивый юноша</p>
+      <p>выслушай хан прежде казнить человека</p>
+      <p>говори короче некогда недовольно проворчал хан</p>
+      <p>ищу двух беглых рабов сказал юноша находятся</p>
+      <p>укажи</p>
+      <p>юноша указал сына хана везира</p>
+      <p>поднялась суматоха воспользовавшись которой везир сын хана хотели убежать схватили вытолкнули середину</p>
+      <p>хотелось хану всем народе раздевать сына везира пришлось уступить требованиям джамаата увидели ягодицах везира ханского сына клеймо</p>
+      <p>жалких лгуна вовсе соблазнили жену бахарчи сказал юноша навсего воровски отрезали косу служанке похитили кольцо настоящая жена вами мое кольцо этими словами юноша снял папаху увидели золотистые косы</p>
+      <p>бахарчи бросился обнимать жену нукеры стражники смогли удержать хан быстро увел своего опозоренного сына везира дворец</p>
+    </body>
+  </text>
+</TEI>

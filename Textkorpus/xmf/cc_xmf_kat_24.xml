@@ -1,216 +1,226 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="kat">19. სამი ძმის ზღაპარი</title>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
-     <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
-     <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
-     <distributor/>
-     <date when="1991">The year 1991</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="kat">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_24.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement ref="https://www.geonames.org/613614/k-urzu.html">Kurzu</settlement>
-       <geo/>
-      </placeName>
-    <date when="1923">1923</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Zoko</forename>
-      <surname>Akhalaia</surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename>Makar</forename>
-      <surname>Khubua</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_kat_24">
-  <body>
-   <head>19. სამი ძმის ზღაპარი</head>
-   <p>იყო („იყვნენ“) სამი ძმა („ძმა კაცი“). ორი იყო მთოხნელი, მესამე იყო მონადირე, ნადირის მკვლელი. სამივე ცოლიანი, შვილიანი იყვნენ, რა საკვირველია. ეს ორი ძმა მუშაობდა ყანაში, მესავე ძმა ნადირის ხორცით არჩენდა ოჯახს („ჯალაბს“). ერთ დღეს ეს კაცი სანადიროდაა [წასული] და ისეთ ადგილას წავიდა, არასოდეს [რომ] არ წასულა (აქით). ერთ დიდ მდინარეს („წყალს“) მიადგა. გამოღმა რომ ვერაფერი იშოვა მოსაკლავად,</p>
-   <p>იფიქრა:</p>
-   <p>—მოდი, გადავალ გაღმა, ეგების რამე ვნახოო.</p>
-   <p>ჩავიდა მდინარეში და გაღმა ქვეყანაში ამოვიდა როგორც კი ამოვიდა ნაპირზე და, მზეთუნახავად გადაიქცა ეს მონადირე, ისეთ მზეთუნახავად, რომ კაცის თვალი მის უკეთესს ვერაფერს ნახავს. რა ქნას ამ კაცმა? იწრიალა, მაგრამ გადაქცეულია ქალიშვილად და რა ქნას („არის“).</p>
-   <p>ამ გაღმა ქვეყანაში სანადიროდ არის გადასული ხელმწიფის შვილი. ტყეში იპოვა მზეთუნახავივით ქალიშვილი ამ ბიჭმა, მოეწონა ეს ქალიშვილი, წაიყვანა თავის სახლში და გვირგვინი დაიდგა [მასზე]. გაუჩნდა ერთი ვაჟიშვილი, მეორე ვაჟიშვილიც გაუჩნდა, დრო და ხანი რომ გავიდა.</p>
-   <p>წუხს ძალიან ეს ქალიშვილი თავისთვის, ედარდება („ენაღვლის“) აქ <pb n="241"/> შვილების გაჩენა და იქ თავის სახლში ცოლისა და შვილების დატოვება.</p>
-   <p>იფიქრა ერთხელ:</p>
-   <p>—მოდი, წავალ ჩემს ქვეყანაში და ვნახავ ჩემს ცოლსა და შვილებს („შვილს“ ) შორიდან მაინც,აბა, როგორ არიან და როგორ არაო.</p>
-   <p>გამოიპარა დღისით და წამოვიდა. მოვიდა და ამ მდინარემდე („წყლამდე“), გადავიდა და იქცა ჭაკ ცხენად. შეწუხდა ძალიან: — მზეთუნახავი ვიყავი და ჭაკ ცხენად ვიქეციო. </p>
-   <p>ისევ გაღმა გადავიდა — მაინც ჭაკი ცხენი დარჩა („იქნა“). წავიდა და ხელმწიფის ცხენებს შეერია. ავიდა ულაყი („ვარყა“) და ჭაკმა კვიცი ფაშატი მოიგო („დასცა“). მეორეჯერაც კვიცი ფაშატი ეყოლა („იქნა“) და გაზარდა ესეც. გავიდა დრო და ხანი, იფიქრა:</p>
-   <p>—წავალ კიდევ და იმ მდინარვს გადავალო.</p>
-   <p>გავიდა გაღმა და ფინია ძაღლად გადაიქცა, ძუ ძაღლად. იწრიალა, იწვალა: — რა ღმერთი გამიწყრა, როგორ ვიქეცი ძაღლადო, მაგრამ არაფერმა უშველა („მოეხმარა“). გადავიდა გაღმა და მოვიდა თავისი ხელმწიფის სახლში. ისეთი ლამაზი არის ეს ძაღლი შესახედავად, რომ კაცი უკეთესს ვერაფერს ნახავს. არის ხელმწიფის სახლში ეს ძაღლი და ორი ლეკვი ეყოლა, ორივე მამალი. გაზარდა ესენი კიდევ.</p>
-   <p>ახლა კიდევ იმ აზრამდე მივიდა ("აზრში შევიდა“), ისევ გადავალ იმ მდინარეს და წავალ სახლშიო. </p>
-   <p>წამოვიდა უკან („აქით“) და გადმოვიდა ეს მდინარე. როგორც კი ამოვიდა და, კვლავ როგორც იყო მონადირე, ისეთად არ იქცა?! დაიწყო სვლა და წამოვიდა თავის სახლში. შეიქნა დიდი მხიარულვბა (+ერთმანეთთან).</p>
-   <p>გავიდა დრო და ხანი.ამ ქვეყანაში არის ერთი ხელმწიფე, მეტი შვილი არა ჰყავს (+ არაფერი), ერთი გოგოს მეტი. ამ ხელმწიფემ ყველა სახელმწიფოში გამოაცხადა („გადასცა განცხადებები“):</p>
-   <p>-ერთ ქვაბ რძეს მინდორში დავდგამ და ვინც იმას ლაპარაკით აადუღებსო, მას ცოლად მივსცემ ჩემს ქალიშვილსო.</p>
-   <p>მიდის ქვეყანა ხალხი („კაცი“), მაგრამ ვერავის სიტყვამ ვერ აადუღა რძე. ეს მონადირე კაცი რომ არის, ამან იფიქრა:</p>
-   <p>-მე წავალ და მოვუყვები ყველაფერ ჩემს გაჭირვებას იმ რძეს და არ შეიძლება, რომ გაიგოსო? </p>
-   <p>გავიდა ეს კაცი [სახლიდან] და მიდის დღეს ხელმწიფის სახლში, რომ გაიხედა, [დაინახა]: თავისი შვილები — ორი ბიჭი — სხედან თავის შვილ ცხენებზე და თავისივე შვილები – ორი ძაღლი გველეშაპი –მოსდევენ უკან. წამოეწიენ ეს ბიჭები ამ მონადირეს გზაზე. უფროსი შვილი (+მისი) მიდის წინ და მას უთხრა (მონადირემ):</p>
-   <p>-თქვენ სადაც მიდიხართ, იქ მივდივარ მეც, ცოტა (+ მიწა) წამიყვანე და სიკეთე („მადლი“) შეგვხვდება („გერგება“), ბაბა!</p>
-   <p>-ეს როგორ გამიბედე მე შენო,—თქვა ბიჭმა, დასცხო მათრახი და მაგრად გალახა ეს კაცი. უმცროსი ძმა მოსდევს უკან, ამასობაში ამან <pb n="243"/> მოუსწრო და გაუწყრა თავის ძმას: მოხუცებული კაცი როგორ გალახე შენო?</p>
-   <p>გაიგო ამ უმცროსმა ბიჭმა, რაში იყო საქმე. შემოიჯინა ეს კაცი ცხენზე და მივიდა ხელმწიფის სახლში. მინდორში ქვაბი დგას რძით სავსე. შემოსდგომიან ირგვლივ ყველა სახელმწიფოდან მოსული ბიჭები და ყვებიან თავიანთ ამბავს და სათქმელს, მაგრამ რძე არ დუღს, არის გაჩერებული. მივიდა ხელმწიფესთან ეს მოხუცებული კაცი და სთხოვა:</p>
-   <p>-მე მაქვს [თუ არა] ნება, ვუამბო რძეს ყველაფერი ჩემი გაჭირვება და რძე რომ ადუღდეს, ცოლად მომცემთ თქვენს შვილს თუ არა?</p>
-   <p>-გადაწყვეტილებით გადაწყვეტილი მაქვს, -უთხრა ხელმწიფემ, -ვისი სიტყვა და ლაპარაკი აადუღებს რძეს, მას უნდა მივსცე ჩემი ქალიშვილი. უნდა, თვითონ იყოლიოს, უნდა სხვას აჩუქოს, ის არაა ჩემი საქმე.</p>
-   <p>-აბა კარგიო, -თქვა მოხუცმა კაცმა. წამოვიდა და მიადგა რძით სავსე ქვაბს. ყველას გაუკვირდა: -"ამ მოხუცებულს რად უნდა ესო, ანდა ამის თქმამ რა უნდა გაჭრასო".</p>
-   <p>დაიწყო ამ კაცმა თავიდან თავისი გაჭირვება და ყველაფერი ერთად თქვა. გაათავა ლაპარაკი და ადუღდა რძე.</p>
-   <p>ამგვარი სასწაული ("საარაკო") არ უნახავს კაცს და უკვირს ყველას. ეს ბიჭები რომ არიან აქ, (+მათ) იციან აწი, რაში არის საქმე.</p>
-   <p>ხელმწიფემ მოიყვანა თავისი ქალიშვილი და ხელში მისცა ("დააკავებინა") მოხუცს. მოხუცი კაცი მიუბრუნდა თავის შვილებს და უთხრა:</p>
-   <p>-თქვენც დარწმუნდით ("იქენით დარწმუნებული"), რომ ("როგორ") მე თქვენი მამა ვარ. უფროს შვილს ეკუთვნოდა ეს ქალიშვილი, მაგრამ, რადგან შენ გამლახე და უმადური ხარ ჩემთან, ამიტომ უმცროსს ვაძლევ მე ამას, რადგან ("როგორც") ჭკვიანი და მადლიერი ყოფილა ის (+ისე).</p>
-   <p>ადგა ("ასწია") და უმცროს შვილს გადაულოცა ცოლად ეს ქალიშვილი. ეს ყველასთვის სასიხარულო შეიქნა, თავად ხელმწიფისათვის, რა საკვირველია, და მერმე სხვისთვის.</p>
-   <p>ხელმწიფემ ხელმწიფობაზე უარი თქვა ("მოიხსნა") და თავის სიძეს გადაულოცა, რადგან ის ღირსეული ბიჭი ყოფილა. ბიჭმა წამოიყვანა ყველა - მოხუცის სახლეულნი და აცხოვრებდა თავისთან ტკბილად ("გემოიანად").</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">19. სამი ძმის ზღაპარი</title>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
+          <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
+          <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
+          <distributor/>
+          <date when="1991">The year 1991</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_24.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/613614/k-urzu.html">Kurzu</settlement>
+          <geo/>
+        </placeName>
+        <date when="1923">1923</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Zoko</forename>
+            <surname>Akhalaia</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_kat_24">
+    <body>
+      <head>19. სამი ძმის ზღაპარი</head>
+      <p>იყო („იყვნენ“) სამი ძმა („ძმა კაცი“). ორი იყო მთოხნელი, მესამე იყო მონადირე, ნადირის მკვლელი. სამივე ცოლიანი, შვილიანი იყვნენ, რა საკვირველია. ეს ორი ძმა მუშაობდა ყანაში, მესავე ძმა ნადირის ხორცით არჩენდა ოჯახს („ჯალაბს“). ერთ დღეს ეს კაცი სანადიროდაა [წასული] და ისეთ ადგილას წავიდა, არასოდეს [რომ] არ წასულა (აქით). ერთ დიდ მდინარეს („წყალს“) მიადგა. გამოღმა რომ ვერაფერი იშოვა მოსაკლავად,</p>
+      <p>იფიქრა:</p>
+      <p>—მოდი, გადავალ გაღმა, ეგების რამე ვნახოო.</p>
+      <p>ჩავიდა მდინარეში და გაღმა ქვეყანაში ამოვიდა როგორც კი ამოვიდა ნაპირზე და, მზეთუნახავად გადაიქცა ეს მონადირე, ისეთ მზეთუნახავად, რომ კაცის თვალი მის უკეთესს ვერაფერს ნახავს. რა ქნას ამ კაცმა? იწრიალა, მაგრამ გადაქცეულია ქალიშვილად და რა ქნას („არის“).</p>
+      <p>ამ გაღმა ქვეყანაში სანადიროდ არის გადასული ხელმწიფის შვილი. ტყეში იპოვა მზეთუნახავივით ქალიშვილი ამ ბიჭმა, მოეწონა ეს ქალიშვილი, წაიყვანა თავის სახლში და გვირგვინი დაიდგა [მასზე]. გაუჩნდა ერთი ვაჟიშვილი, მეორე ვაჟიშვილიც გაუჩნდა, დრო და ხანი რომ გავიდა.</p>
+      <p>
+        წუხს ძალიან ეს ქალიშვილი თავისთვის, ედარდება („ენაღვლის“) აქ 
+        <pb n="241"/>
+         შვილების გაჩენა და იქ თავის სახლში ცოლისა და შვილების დატოვება.
+      </p>
+      <p>იფიქრა ერთხელ:</p>
+      <p>—მოდი, წავალ ჩემს ქვეყანაში და ვნახავ ჩემს ცოლსა და შვილებს („შვილს“ ) შორიდან მაინც,აბა, როგორ არიან და როგორ არაო.</p>
+      <p>გამოიპარა დღისით და წამოვიდა. მოვიდა და ამ მდინარემდე („წყლამდე“), გადავიდა და იქცა ჭაკ ცხენად. შეწუხდა ძალიან: — მზეთუნახავი ვიყავი და ჭაკ ცხენად ვიქეციო. </p>
+      <p>ისევ გაღმა გადავიდა — მაინც ჭაკი ცხენი დარჩა („იქნა“). წავიდა და ხელმწიფის ცხენებს შეერია. ავიდა ულაყი („ვარყა“) და ჭაკმა კვიცი ფაშატი მოიგო („დასცა“). მეორეჯერაც კვიცი ფაშატი ეყოლა („იქნა“) და გაზარდა ესეც. გავიდა დრო და ხანი, იფიქრა:</p>
+      <p>—წავალ კიდევ და იმ მდინარვს გადავალო.</p>
+      <p>გავიდა გაღმა და ფინია ძაღლად გადაიქცა, ძუ ძაღლად. იწრიალა, იწვალა: — რა ღმერთი გამიწყრა, როგორ ვიქეცი ძაღლადო, მაგრამ არაფერმა უშველა („მოეხმარა“). გადავიდა გაღმა და მოვიდა თავისი ხელმწიფის სახლში. ისეთი ლამაზი არის ეს ძაღლი შესახედავად, რომ კაცი უკეთესს ვერაფერს ნახავს. არის ხელმწიფის სახლში ეს ძაღლი და ორი ლეკვი ეყოლა, ორივე მამალი. გაზარდა ესენი კიდევ.</p>
+      <p>ახლა კიდევ იმ აზრამდე მივიდა (&quot;აზრში შევიდა“), ისევ გადავალ იმ მდინარეს და წავალ სახლშიო. </p>
+      <p>წამოვიდა უკან („აქით“) და გადმოვიდა ეს მდინარე. როგორც კი ამოვიდა და, კვლავ როგორც იყო მონადირე, ისეთად არ იქცა?! დაიწყო სვლა და წამოვიდა თავის სახლში. შეიქნა დიდი მხიარულვბა (+ერთმანეთთან).</p>
+      <p>გავიდა დრო და ხანი.ამ ქვეყანაში არის ერთი ხელმწიფე, მეტი შვილი არა ჰყავს (+ არაფერი), ერთი გოგოს მეტი. ამ ხელმწიფემ ყველა სახელმწიფოში გამოაცხადა („გადასცა განცხადებები“):</p>
+      <p>-ერთ ქვაბ რძეს მინდორში დავდგამ და ვინც იმას ლაპარაკით აადუღებსო, მას ცოლად მივსცემ ჩემს ქალიშვილსო.</p>
+      <p>მიდის ქვეყანა ხალხი („კაცი“), მაგრამ ვერავის სიტყვამ ვერ აადუღა რძე. ეს მონადირე კაცი რომ არის, ამან იფიქრა:</p>
+      <p>-მე წავალ და მოვუყვები ყველაფერ ჩემს გაჭირვებას იმ რძეს და არ შეიძლება, რომ გაიგოსო? </p>
+      <p>გავიდა ეს კაცი [სახლიდან] და მიდის დღეს ხელმწიფის სახლში, რომ გაიხედა, [დაინახა]: თავისი შვილები — ორი ბიჭი — სხედან თავის შვილ ცხენებზე და თავისივე შვილები – ორი ძაღლი გველეშაპი –მოსდევენ უკან. წამოეწიენ ეს ბიჭები ამ მონადირეს გზაზე. უფროსი შვილი (+მისი) მიდის წინ და მას უთხრა (მონადირემ):</p>
+      <p>-თქვენ სადაც მიდიხართ, იქ მივდივარ მეც, ცოტა (+ მიწა) წამიყვანე და სიკეთე („მადლი“) შეგვხვდება („გერგება“), ბაბა!</p>
+      <p>
+        -ეს როგორ გამიბედე მე შენო,—თქვა ბიჭმა, დასცხო მათრახი და მაგრად გალახა ეს კაცი. უმცროსი ძმა მოსდევს უკან, ამასობაში ამან 
+        <pb n="243"/>
+         მოუსწრო და გაუწყრა თავის ძმას: მოხუცებული კაცი როგორ გალახე შენო?
+      </p>
+      <p>გაიგო ამ უმცროსმა ბიჭმა, რაში იყო საქმე. შემოიჯინა ეს კაცი ცხენზე და მივიდა ხელმწიფის სახლში. მინდორში ქვაბი დგას რძით სავსე. შემოსდგომიან ირგვლივ ყველა სახელმწიფოდან მოსული ბიჭები და ყვებიან თავიანთ ამბავს და სათქმელს, მაგრამ რძე არ დუღს, არის გაჩერებული. მივიდა ხელმწიფესთან ეს მოხუცებული კაცი და სთხოვა:</p>
+      <p>-მე მაქვს [თუ არა] ნება, ვუამბო რძეს ყველაფერი ჩემი გაჭირვება და რძე რომ ადუღდეს, ცოლად მომცემთ თქვენს შვილს თუ არა?</p>
+      <p>-გადაწყვეტილებით გადაწყვეტილი მაქვს, -უთხრა ხელმწიფემ, -ვისი სიტყვა და ლაპარაკი აადუღებს რძეს, მას უნდა მივსცე ჩემი ქალიშვილი. უნდა, თვითონ იყოლიოს, უნდა სხვას აჩუქოს, ის არაა ჩემი საქმე.</p>
+      <p>-აბა კარგიო, -თქვა მოხუცმა კაცმა. წამოვიდა და მიადგა რძით სავსე ქვაბს. ყველას გაუკვირდა: -&quot;ამ მოხუცებულს რად უნდა ესო, ანდა ამის თქმამ რა უნდა გაჭრასო&quot;.</p>
+      <p>დაიწყო ამ კაცმა თავიდან თავისი გაჭირვება და ყველაფერი ერთად თქვა. გაათავა ლაპარაკი და ადუღდა რძე.</p>
+      <p>ამგვარი სასწაული (&quot;საარაკო&quot;) არ უნახავს კაცს და უკვირს ყველას. ეს ბიჭები რომ არიან აქ, (+მათ) იციან აწი, რაში არის საქმე.</p>
+      <p>ხელმწიფემ მოიყვანა თავისი ქალიშვილი და ხელში მისცა (&quot;დააკავებინა&quot;) მოხუცს. მოხუცი კაცი მიუბრუნდა თავის შვილებს და უთხრა:</p>
+      <p>-თქვენც დარწმუნდით (&quot;იქენით დარწმუნებული&quot;), რომ (&quot;როგორ&quot;) მე თქვენი მამა ვარ. უფროს შვილს ეკუთვნოდა ეს ქალიშვილი, მაგრამ, რადგან შენ გამლახე და უმადური ხარ ჩემთან, ამიტომ უმცროსს ვაძლევ მე ამას, რადგან (&quot;როგორც&quot;) ჭკვიანი და მადლიერი ყოფილა ის (+ისე).</p>
+      <p>ადგა (&quot;ასწია&quot;) და უმცროს შვილს გადაულოცა ცოლად ეს ქალიშვილი. ეს ყველასთვის სასიხარულო შეიქნა, თავად ხელმწიფისათვის, რა საკვირველია, და მერმე სხვისთვის.</p>
+      <p>ხელმწიფემ ხელმწიფობაზე უარი თქვა (&quot;მოიხსნა&quot;) და თავის სიძეს გადაულოცა, რადგან ის ღირსეული ბიჭი ყოფილა. ბიჭმა წამოიყვანა ყველა - მოხუცის სახლეულნი და აცხოვრებდა თავისთან ტკბილად (&quot;გემოიანად&quot;).</p>
+    </body>
+  </text>
 </TEI>

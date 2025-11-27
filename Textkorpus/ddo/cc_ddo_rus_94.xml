@@ -1,244 +1,246 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Три коня</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a530 Prinzessin auf dem Glasberg</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_94.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item>Warnung vor diskriminierenden Darstellungen von Familienkonstellationen</item>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_94">
-  <body>
-   <head>Три коня</head>
-   <p>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Три коня</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a530 Prinzessin auf dem Glasberg</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_94.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor diskriminierenden Darstellungen von Familienkonstellationen</item>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_94">
+    <body>
+      <head>Три коня</head>
+      <p>
        Что сказать, чего не рассказывать? Были, говорят, отец и три сына. Перед смертью отец завещал сыновьям: «После смерти похороните меня в нашем же саду». «Похороним», - дали слово сыновья. Затем он сказал: «После похорон по вечерам в течение трех дней побудьте у моей могилы, вдруг кто-то туда придет». «Побудем», - обещали сыновья. Как завещал отец, сыновья похоронили его в саду. 
      </p>
-   <p>
+      <p>
        В первый день самый старший брат, который должен был быть у могилы, зашел на гумно и там спал. Когда младший брат пошел посмотреть, что же он там делает, увидел, что старший брат спит на гумне.
      </p>
-   <p>Младший брат его не разбудил, а сам остался у надгробного камня отца. Через некоторое время, озарив вечерний сумрак, прискакал туда черный конь. Он начал копытами раскапывать могилу отца. Юноша тотчас вскочил на коня и крепко схватил его за шею. Черный конь подпрыгивал, ржал, вставал на дыбы, тем не менее, тот юноша не свалился на землю. После этого конь примирился с этим: «Что бы я ни делал, не смог тебя свалить, теперь ты можешь делать, что хочешь, я стал твоим». Юноша в тот же вечер взял и загнал коня в хлев.
+      <p>Младший брат его не разбудил, а сам остался у надгробного камня отца. Через некоторое время, озарив вечерний сумрак, прискакал туда черный конь. Он начал копытами раскапывать могилу отца. Юноша тотчас вскочил на коня и крепко схватил его за шею. Черный конь подпрыгивал, ржал, вставал на дыбы, тем не менее, тот юноша не свалился на землю. После этого конь примирился с этим: «Что бы я ни делал, не смог тебя свалить, теперь ты можешь делать, что хочешь, я стал твоим». Юноша в тот же вечер взял и загнал коня в хлев.
       Старший брат утром вернулся домой, и младший брат спросил его, что он видел вечером. «А что я должен был видеть, ничего не увидел», - ответил старший брат. 
      </p>
-   <p>
+      <p>
        На второй день средний брат пошел в сад, чтобы провести ночь на могиле отца. Однако он тоже пошел на гумно и лег спать. 
      </p>
-   <p>
+      <p>
        В тот вечер тоже младший брат пошел на могилу отца, чтобы выяснить, кто же сегодня придет туда. Через некоторое время, озарив вечерний сумрак, прискакал туда красный конь. Тотчас юноша вскочил на коня и крепко схватил его за шею. После этого красный конь встал на дыбы, перескочил с одной горы на другую, но никак он не смог свалить младшего брата на землю. Тогда красный конь примирился с этим: «Теперь я твой, делай то, что хочешь». Младший брат тайком привел оттуда коня и загнал его в хлев, привязав рядом с черным конем.
        Когда средний брат утром вернулся домой, младший брат спросил его, что он видел вечером. «А что я должен был видеть, ничего не увидел», - ответил средний брат. 
      </p>
-   <p>
+      <p>
        На третий день младший брат пошел, чтобы провести ночь на могиле отца. Перед рассветом, озарив весь свет, прискакал белый конь. Когда он начал разрушать могилу, младший брат вскочил на него и ухватился за шею. После этого конь подпрыгивал, поднимался в воздух, прыгал через море. Тем не менее, он никак не смог его свалить на землю. Тогда белый конь смирился с этим: «Теперь я твой, делай то, что хочешь». Он тайком повел белого коня домой и привязал в хлеву рядом с теми двумя конями.
        Потом пошел и лег спать в своей постели. Утром средний брат подошел к младшему и спросил: «Что видел? Что там случилось?» «Ничего не случилось, и никто не приходил к могиле отца», - ответил младший брат. 
      </p>
-   <p>
+      <p>
        Однажды братья услышали, что хан выдает свою старшую дочь за того, кто сможет перескочить на коне через ограду перед его домом. 
      </p>
-   <p>
+      <p>
        Старшие братья сели на своих коней и вышли с надеждой: «Может, нам достанется дочь хана?» «Возьмите меня», - попросил младший брат. «Таким людям, как ты, ханская дочь не достанется», - не приняли во внимание они его просьбу.
      </p>
-   <p>
+      <p>
        Не прошло много времени после того, как вышли на улицу старшие братья, младший брат вывел из хлева на улицу черного коня, понесся ветром по воздуху и очутился возле ограды перед домом хана. Там он увидел много людей. Никто не смог перескочить на коне через тот забор. А младший брат всего лишь один раз ударил плетью, перескочил через забор, похитил ханскую дочь, которая смотрела с балкона, и поскакал домой. Привязал коня там же в хлеву, повесил на двери замок, спрятал ханскую дочь в одной комнате и, пока не приехали старшие братья, занимался дома своими делами. 
      </p>
-   <p>
+      <p>
        Когда приехали братья, он спросил у них, что случилось. «А что должно случиться? Ханская дочь досталась тому, кому она должна была достаться», - ответил средний брат. А старший брат поругал его: «Ты-то что так беспокоишься об этом?» 
      </p>
-   <p>
+      <p>
        Через два дня опять он услышал, что хан выдает замуж свою среднюю дочь за того, кто сможет перепрыгнуть на коне через забор перед его домом. 
      </p>
-   <p>
+      <p>
        Когда старшие братья выезжали на своих конях, младший брат попросил их взять его тоже вместе с ними. «У тебя, что ли, больше способностей?» - упрекнули его старшие братья и отправились своей дорогой, думая, может, им достанется хотя бы средняя дочь хана. 
      </p>
-   <p>
+      <p>
        Младший брат дал им уйти вперед, вывел на улицу красного коня и прискакал к ханской ограде. На этот раз он опять увидел там много людей. Младший брат ударил плетью, перескочил через забор, похитил среднюю дочь хана и поскакал домой. Привязал красного коня там же в хлеву, спрятал ханскую дочь вместе с ее старшей сестрой и, пока не приехали старшие братья, спокойно отдыхал дома. 
      </p>
-   <p>
+      <p>
        Когда приехали братья, он спросил у них, что случилось. Старшие братья ответили: «А что должно случиться? Ханская дочь досталась тому, кто ее заслуживал: «Ее похитил человек на красном коне». 
      </p>
-   <p>
+      <p>
        Через три дня опять услышали такую же новость: хан выдает младшую дочь за того, кто сможет перепрыгнуть на коне через забор хана. 
      </p>
-   <p>
+      <p>
        Старшие братья, не обращая внимания на младшего брата, сели на своих коней и двинулись. 
      </p>
-   <p>
+      <p>
       Не прошло много времени, как они ушли, а следом за ними же поехал и младший брат. В тот день снова там, возле забора хана, собралось много народу. Как только младший брат приехал туда, перескочил через забор, посадил младшую дочь хана на коня и вернулся домой. Привязал белого коня в хлеву, спрятал младшую дочь хана со своими старшими сестрами, повесил на дверях замок и стал ждать приезда братьев. 
      </p>
-   <p>
+      <p>
        Когда они зашли в дом, младший брат спросил у старших, кто достал младшую дочь хана. «Досталась тому, кто ее заслуживал», - ответили старшие братья. 
      </p>
-   <p>
+      <p>
        После этого младший брат пригласил к себе старших братьев. Он начал рассказать: «Это я на этих трех конях перепрыгнул через забор хана, и всех трех дочерей хана тоже я похитил». Старшему брату он отдал черного коня и старшую дочь хана. Среднему отдал красного коня и среднюю дочь. А себе оставил белого коня и младшую дочь. Пригласив муллу, отца невест, все трое братьев совершили обряд бракосочетания и втроем сыграли большую свадьбу. 
      </p>
-   <p>
+      <p>
        Я тоже участвовал в их свадьбе, но долго там не пробыл, пошел искать другую сказку. 
      </p>
-  </body>
- </text>
+    </body>
+  </text>
 </TEI>

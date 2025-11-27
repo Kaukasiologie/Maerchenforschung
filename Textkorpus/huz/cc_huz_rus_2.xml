@@ -1,203 +1,205 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Молла Насреддин и богатый сосед</title>
-    <author>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref target="https://doi.org/10.25362/lazar.113a4d5a-8c5e-4937-bb4a-64b9714152b1">LaZAR Repositorium</ref>
-     <availability>
-      <p>
-       <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-      </p>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a1543 Keinen Pfennig weniger</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_huz_rus_2.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
-     <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
-     <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
-     <settlement ref="https://www.geonames.org/12109830/shorokhi.html">Shorokhi</settlement>
-    </placeName>
-    <date when="2023">2023</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Magomed</forename>
-      <surname>Rasulov</surname>
-     </persName>
-     <age/>
-     <birth>
-      <date when="1947">1947</date>
-      <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
-       <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
-       <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
-       <settlement ref="https://www.geonames.org/12109830/shorokhi.html">Shorokhi</settlement>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="gnd:1154734161">
-      <forename>Diana</forename>
-      <surname>Forker</surname>
-      <persName key="gnd:133557154">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </persName>
-    </person>
-    <person role="translator">
-     <name>
-      <persName key="gnd:1154734161">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_huz_rus_2">
-  <body>
-   <head>Молла Насреддин и богатый сосед</head>
-   <p>Жили-были Молла Насреддин и мать бедные. Все время в бедноте, (что) им уже надоело. Мать говорит: </p>
-   <p>- Молла, иди хоть раз проси у Аллаха, хоть сто рублей денег, пускай пошлет нам.</p>
-   <p>Молла согласился. Просил Бога, руки (вознеся): </p>
-   <p>- Мой любимый Бог, вышли мне сто рублей. Если меньше будет, я не возьму.</p>
-   <p>Мать говорит: </p>
-   <p>- Возьми сколько бы не было.</p>
-   <p>- Нет, не возьму.</p>
-   <p>В это время рядом жил богатый этот сосед.</p>
-   <p>- Давай над Молла Насреддином посмеемся. Я ему брошу девяносто девять рублей и заверну в сверток и выброшу. Что же он будет делать?</p>
-   <p>Рано утром встал и бросил около его дома. Вышел (Молла) на улицу, увидел этот сверток. Взял он, пошел домой. Посчитал – девяносто девять рублей. Разозлился. Мать говорит:</p>
-   <p>- Я же сказала тебе. Почему не берешь?</p>
-   <p>- Нет, здесь же меньше.</p>
-   <p>Потом пришел сосед богатый:</p>
-   <p>- Молла Насреддин, я кинул мои деньги, девяносто девять рублей, ты взял их?</p>
-   <p>- Нет, -говорит, -не взял.</p>
-   <p>- Как не взял? Там были не сто рублей, а девяносто девять рублей.</p>
-   <p>Он (Молла) говорит:</p>
-   <p>- А, это завернутый сверток один рубль стоит.</p>
-   <p>Поссорились тогда и говорят: «К судье пошли!»</p>
-   <p>Поехали. Суд был в городе, далеко.</p>
-   <p>- Послезавтра, - говорит поедем. Молла Насреддин говорит: </p>
-   <p>- Мы-то поедем, я старик, не могу идти, мне нужно лошадь. На чем же я буду ехать? </p>
-   <p>- Ну хорошо, -взял и отдал лошадь.</p>
-   <p>Потом привязал эту лошадь, говорит:</p>
-   <p>- Не могу я (так) - чуха старая. Новую надо, помытую, к судье же идем.</p>
-   <p>Отдал он (сосед) новую чуху тоже. И пошли они в город, к судье. Богатый рассказал судье «так было, так было». Потом Молла Насреддин говорит:</p>
-   <p>- Судья, он с ума сошел. Вот послушай, что он скажет. Ту, что я надел, чуху, скажет он, моя. </p>
-   <p>- Как не моя? Я же тебе ее отдал.</p>
-   <p>- Ну, пускай так будет. А конь чей?</p>
-   <p>- Мой, мой конь, - говорит.</p>
-   <p>- Нет, не твой, эта лошадь тоже моя.</p>
-   <p>Что же теперь делать, не знал (сосед) и теперь говорит Молла Насреддин:</p>
-   <p>- Ты хороший судья, умный. Вот как хочешь, вот так суди и решай.</p>
-   <p>Когда они вышли обратно на дорогу, он положил большой камень к груди. Пока он рассказывал, он показывал на камень. И судья думал, что тот ему деньги принес. И суд решил, как и хотел Молла Насреддин. И эту чуху тоже Молла Насреддину, коня тоже Молла Насреддину. </p>
-   <p>Разозленный богатый вышел на улицу, домой ушел. Судья говорит Молле Насреддину:</p>
-   <p>- Подожди. Ты что мне показал? Ну-ка, теперь положи. </p>
-   <p>Молла взял камень:</p>
-   <p>- Если бы ты (по-другому) решил, то я бы тебе по голове им дал.</p>
-   <p>Сел на коня, взял чуху и ушел Молла Насреддин.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Молла Насреддин и богатый сосед</title>
+        <author>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.113a4d5a-8c5e-4937-bb4a-64b9714152b1">LaZAR Repositorium</ref>
+          <availability>
+            <p>
+              <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+            </p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a1543 Keinen Pfennig weniger</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_huz_rus_2.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
+          <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+          <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+          <settlement ref="https://www.geonames.org/12109830/shorokhi.html">Shorokhi</settlement>
+        </placeName>
+        <date when="2023">2023</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Magomed</forename>
+            <surname>Rasulov</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date when="1947">1947</date>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgien</country>
+              <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+              <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+              <settlement ref="https://www.geonames.org/12109830/shorokhi.html">Shorokhi</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="gnd:1154734161">
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+            <persName key="gnd:133557154">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </persName>
+        </person>
+        <person role="translator">
+          <name>
+            <persName key="gnd:1154734161">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_huz_rus_2">
+    <body>
+      <head>Молла Насреддин и богатый сосед</head>
+      <p>Жили-были Молла Насреддин и мать бедные. Все время в бедноте, (что) им уже надоело. Мать говорит: </p>
+      <p>- Молла, иди хоть раз проси у Аллаха, хоть сто рублей денег, пускай пошлет нам.</p>
+      <p>Молла согласился. Просил Бога, руки (вознеся): </p>
+      <p>- Мой любимый Бог, вышли мне сто рублей. Если меньше будет, я не возьму.</p>
+      <p>Мать говорит: </p>
+      <p>- Возьми сколько бы не было.</p>
+      <p>- Нет, не возьму.</p>
+      <p>В это время рядом жил богатый этот сосед.</p>
+      <p>- Давай над Молла Насреддином посмеемся. Я ему брошу девяносто девять рублей и заверну в сверток и выброшу. Что же он будет делать?</p>
+      <p>Рано утром встал и бросил около его дома. Вышел (Молла) на улицу, увидел этот сверток. Взял он, пошел домой. Посчитал – девяносто девять рублей. Разозлился. Мать говорит:</p>
+      <p>- Я же сказала тебе. Почему не берешь?</p>
+      <p>- Нет, здесь же меньше.</p>
+      <p>Потом пришел сосед богатый:</p>
+      <p>- Молла Насреддин, я кинул мои деньги, девяносто девять рублей, ты взял их?</p>
+      <p>- Нет, -говорит, -не взял.</p>
+      <p>- Как не взял? Там были не сто рублей, а девяносто девять рублей.</p>
+      <p>Он (Молла) говорит:</p>
+      <p>- А, это завернутый сверток один рубль стоит.</p>
+      <p>Поссорились тогда и говорят: «К судье пошли!»</p>
+      <p>Поехали. Суд был в городе, далеко.</p>
+      <p>- Послезавтра, - говорит поедем. Молла Насреддин говорит: </p>
+      <p>- Мы-то поедем, я старик, не могу идти, мне нужно лошадь. На чем же я буду ехать? </p>
+      <p>- Ну хорошо, -взял и отдал лошадь.</p>
+      <p>Потом привязал эту лошадь, говорит:</p>
+      <p>- Не могу я (так) - чуха старая. Новую надо, помытую, к судье же идем.</p>
+      <p>Отдал он (сосед) новую чуху тоже. И пошли они в город, к судье. Богатый рассказал судье «так было, так было». Потом Молла Насреддин говорит:</p>
+      <p>- Судья, он с ума сошел. Вот послушай, что он скажет. Ту, что я надел, чуху, скажет он, моя. </p>
+      <p>- Как не моя? Я же тебе ее отдал.</p>
+      <p>- Ну, пускай так будет. А конь чей?</p>
+      <p>- Мой, мой конь, - говорит.</p>
+      <p>- Нет, не твой, эта лошадь тоже моя.</p>
+      <p>Что же теперь делать, не знал (сосед) и теперь говорит Молла Насреддин:</p>
+      <p>- Ты хороший судья, умный. Вот как хочешь, вот так суди и решай.</p>
+      <p>Когда они вышли обратно на дорогу, он положил большой камень к груди. Пока он рассказывал, он показывал на камень. И судья думал, что тот ему деньги принес. И суд решил, как и хотел Молла Насреддин. И эту чуху тоже Молла Насреддину, коня тоже Молла Насреддину. </p>
+      <p>Разозленный богатый вышел на улицу, домой ушел. Судья говорит Молле Насреддину:</p>
+      <p>- Подожди. Ты что мне показал? Ну-ка, теперь положи. </p>
+      <p>Молла взял камень:</p>
+      <p>- Если бы ты (по-другому) решил, то я бы тебе по голове им дал.</p>
+      <p>Сел на коня, взял чуху и ушел Молла Насреддин.</p>
+    </body>
+  </text>
 </TEI>

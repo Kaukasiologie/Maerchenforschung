@@ -1,217 +1,279 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title xml:lang="ava">III. (ЦӀодорай яс)</title>
-<author>
-<name xml:id="WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
-</author>
-<author>
-<name xml:id="EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
-</author>
-<author>
-<name xml:id="JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-<idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
-</author>
-<respStmt>
-<resp>Annotated according to the ATU system</resp>
-<name xml:id="ED">
-<persName>
-<forename>Elguja</forename>
-<surname>Dadunashvili</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-</name>
-<name xml:id="DF">
-<persName>
-<forename>Diana</forename>
-<surname>Forker</surname>
-</persName>
-<idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<publisher>
-<name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-</publisher>
-<pubPlace>
-<genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-</pubPlace>
-<date>2024</date>
-<distributor>
-<addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-<ref target="https://github.com/edadunashvili">Software und Texte</ref>
-</distributor>
-<availability>
-<p>
-<ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-</p>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<bibl type="collection">
-<title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="ava">III. (ЦӀодорай яс)</title>
+        <author>
+          <name xml:id="WB">
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <author>
+          <name xml:id="EL">
+            <persName>
+              <forename>Ernst</forename>
+              <surname>Lewy</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
+        </author>
+        <author>
+          <name xml:id="JB">
+            <persName>
+              <forename>Johannes</forename>
+              <surname>Bechert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
        Johannes Bechert† and M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova and S. Šaxtamanov</title>
-<title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
+          <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
        Johannes Bechert† sowie von M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova und S. Šaxtamanov</title>
-<author role="author">
-<name ref="#WB">
-<persName>
-<forename>Winfried</forename>
-<surname>Boeder</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#JB">
-<persName>
-<forename>Johannes</forename>
-<surname>Bechert</surname>
-</persName>
-</name>
-</author>
-<author role="author">
-<name ref="#EL">
-<persName>
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</name>
-</author>
-<respStmt>
-<resp/>
-<name/>
-</respStmt>
-<extent>
-<measure unit="words"/>
-<measure unit="pages"/>
-</extent>
-<publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
-<distributor><ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
-</distributor>
-<date when="2007">The year 2007</date>
-<availability>
-<licence/>
-</availability>
-</bibl>
-<bibl type="digitalSource">
-               <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
-            </bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="ava">
-<index indexName="iso639-3"/>
-<ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-</language>
-</langUsage>
-<textClass>
-<keywords>
-<term type="writingSystem">utf-8</term>
-</keywords>
-<keywords scheme="http://uri.gbv.de/terminology/bk/">
-<term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-<term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-</keywords>
-<keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-<term>prose</term>
-</keywords>
-<keywords scheme="https://d-nb.info/gnd/">
-<term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-<list>
-<item>a875 Die kluge Bauertochter</item>
-<item>a875E The Unjust Decision: The Oil Press Given Birth to a Foal</item>
-<item>aTMJ1545_4 The exiled wife's dearest possession</item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-<list>
-<item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_207.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-</list>
-</keywords>
-<keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-<list>
-<item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
-</list>
-</keywords>
-</textClass>
-<creation>
-<placeName>
-<country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
-<region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
-<district/>
-<settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
-<geo/>
-</placeName>
-<date when="1918">1918</date>
-</creation>
-<particDesc>
-<person role="speaker">
-<persName>
-<forename>Nazmuddin</forename>
-<surname>Sajpudin</surname>
-</persName>
-<age>31</age>
-<birth>
-<date when="1887">1887</date>
-<placeName>
-<country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-<region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-<district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
-<settlement>Gunib</settlement>
-</placeName>
-</birth>
-</person>
-<person role="researcher">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-<person role="translator">
-<persName ref="#EL">
-<forename>Ernst</forename>
-<surname>Lewy</surname>
-</persName>
-</person>
-</particDesc>
-</profileDesc>
-<revisionDesc>
-<listChange>
-<change>
-<name/>
-<date/>
-</change>
-</listChange>
-</revisionDesc>
-</teiHeader>
- <text xml:id="cc_ava_ava_207">
-  <body>
-   <head>III. (ЦӀодорай яс)</head>
-   <p>
-    <cb n="48"/> Цо хан вукӀана. Ханасул цо васги вукӀана. Дов ханасул васасе цо мискинчиясул яс ёкьун йикӀана ячине. Мискинчиясул яс йигелъул, ячине чӀухӀун, дос, хӀал бихьизе дой ясалъул, витӀана жиндирго хӀалтӀи гьабулев чи, турарал лулбиги росун, “дол лулбузул жиндие гужгат гьабе”, - абун. “жакъа, хамиз къо<note place="bottom">989 &lt;гъо&gt;</note> тӀаде бачӀилелде<note place="bottom">990 &lt;бачинелде&gt;</note>, доб гужгат жиндие лъугӀизе гьабун битӀе”, - абун. Ана дов хӀалтӀи гьабулев чи дой ясалъухъе. Гьелъ абуна досда: “Щибизе вачӀарав?” “Дун витӀана <cb n="49"/> ханасул васас, «Жиндие гьал<note place="bottom">991 &lt;хаб&gt;</note> лъулбузул гужгат гьабе дуца» абун.” “Башуста, лъикӀ буго, гьабила, босизе <pb n="112"/>вачӀа”, - абун. Дов чи долъ витӀана рукъове. Гьанже дой яс ургъана доб гужгат гьабизе. Дой ана лъадае цо тaprгьaги босун. Дораса долъ таргьа цӀун росана гургинал гӀисинал ганчӀал. Доб хамиз гъо бачӀана, дов чи витӀана гужгат <cb n="50"/> босизе. Гьай яс, лъугӀанищ гужгат”, - абун, “витӀана дун ханасул васас.” “ЛъугӀичӀо.” “Щай?”, - абун. “Кун гьечӀого. Ма, гьаб таргьа кье досухъе, «гьалъул кун гьабун битӀе» абе.” Босун дос доб таргьа кьуна ханасул васасухъе. “Гужгат лъугӀун гӀечӀо, кун тӀагӀун. Гьалъул кун гьабун, хехго битӀе”, - абун, абуна гъолъ. Дов балагьаиа доб таргьихъ, <cb n="51"/> кӀалги бичун, досда батана ганчӀазул цӀураб таргьа. Дос абуна: Гъой гӀабдалиш? «ГанчӀазул кун гьабе»” абун “абулей?” Дов хӀалтӀухъанас досда абуна: ГанчӀазул кун гьаби, дуе захӀматаб гуро, турарал лулбузул гужгат гъолъ гьабулеб мехалъ.” Дов къезе гьавуна дой ясалъ. Нахъеги дос битӀана анкьго куй, микьабизе цо дегӀен. <cb n="52"/> Гьал къинлъизе мех щун руго, гьазухъ лъикӀ балагье”, - абун, абе гъолда, гъой ясалда.” Ана дов мискинчи, куйдул рачун гъой ясалъухъе. Гъолъ абуна: “Щибизе вачӀарав? Гьал куйдул кинал?”, - абун. Дос абуна: “Дун витӀаиа ханасул васас духъе. Гьал къиплъизе мех щун pyro, мун гьазухъ лъикӀ балагье”, - абун, “цо анкьица.” Гьеб анкь гӀедал, рачинеги <cb n="53"/> дун вачӀина” абун. Долъ абуна: “Бащуста, лъикӀ буто”. Гьебгиабун, дов рукъове витӀана. Дов ингун, дой ясалъ жиндийго вокьаравги вачун, хъун дол куйдул кванана. Доб анкь индал<note place="bottom">992 &lt;гӀедал&gt;</note>, дов мискинчи ханасул васас витӀана: “А мун гъой ясалухъе, куйдул рачине<note place="bottom">993 &lt;рачӀизе&gt;</note>.” Ана дов мискинчи дой ясалъухъе: “Дун витӀана куйдул рачине, къинлъун лъугӀаниш” <cb n="54"/> абун. Долъ абуна: “ЛъугӀичӀо. Дун эзухъ балагьизе жакъа регӀуларо, дир жакъа эмен къинлъулев вуго. ЦӀакъ захӀматго унтунги вуго. Инсухъ балагьизе ккола дун жакъайилан.” ВитӀана дов долъ рукъове. Дос абуна ханасул васасда: “Къинлъун лъугӀичӀо дур куйдул. Жакъа жиндер эмсн къинлъулев вугин, «Жий эзухъ балагьизе регӀуларин» абуна <cb n="55"/> дида гъолъ.” Дов ханасул васас цинги досда абуна. “Гъойги гӀабдалищ? Гъолда бихьинчи къинлъулев кив вихьарав?”, - абун. Дов мискинчияс ханасул васасда абуна: <pb n="113"/>“Микьго, анкьго куй дур къинлъидал, цо эмен къинлъизе гъолъулги бегьила”, - абун. Дов ханасул вас элъиеги къезавуна гъой ясалъ. Гьанже дос ячана гъой яс. ЧӀужулъун ячун, <cb n="56"/> цо анкь гӀураб мехалъ, радал яхъун гьеи къватӀие балагьун йикӀана. Гъолда вихьана<note place="bottom">994 *цо*</note> нухда цо гӀалагун, хадуб тагьигун, эххеде унев цо чи, цӀулал цӀун цо гьокогун эххеде вачӀунев цоги чи. Гъов кӀиявго данделъана. Гъосул тагьи гьасул гьакидаса хӀинкъун, нахъе-нахъе лъутана. Гъов гӀаладул бетӀергьанчи ахӀдана: “Ле! Гьеб тагьи дида хадуб балагьизе <cb n="57"/> гьаби”, - абун, гъов гьакихъанас гъасда ахӀана: Гьаб щай дуда хадуб балагьизе гьабулеб! Дир гьакица гьабуна гьаниб гьаб тагьи.” Гъов кӀиясулго дагӀба лъугьана гъоб бакӀалда. Гъов гьакихъанас гъосда абуна: “Вилълъаха нилъ ине ханасухъе диван гьабизе<note place="bottom">993 &lt;диваналъ&gt;</note>.” Гъой ясалда аскӀоре щвана гъов кӀиялго: “Ле яс, хан вугищ рукъов?”, - абун, гьакихъанас гъой ясалда цӀехана. Гъолъ абуна: “ГьечӀо”, - <cb n="58"/> абун. Гъоз абуна: “Киве арав?”, - абун. Гъолъ абуна: “Пазул мугӀрузда цӀа рекӀун буго”, - абун, цӀалкӀиниб тӀун лъимги босун, доб цӀа свине гьабизе ана”, - абун. Дов гьакихъанас дой ясалда абуна: “Мун гӀабдалиш? ГӀазул мугӀрузда цӀа кин рекӀунеб? РекӀун бугониги, цӀалкӀиниб тӀураб лъим гьениб щвезегӀан кин букӀунеб?” Долъ абуна гьакихъанасда: “Пазул <cb n="59"/> мугӀрузда цӀа рекӀунгутӀи лъалеб буго дуда; рекӀун бугониги, цӀалкӀиниб тӀураб лъим гӀениб щвезегӀан букӀунгутӀиги лъалеб буго дуда. Дур цӀулал гьакица гьанал тагьи гьабун гутӀи, щай дуда лъалареб? Тагьиги бетӀергьанасда хадуб балагьизе гьабе, мунги гьокоги бачун, рукъове а”, - абун, абуна гъой ясалъ гъосда. Гъоб кинабго хабаралъухъ гӀенеккун <cb n="60"/> дов ханги вукӀана. Дос ургъана: Гьай ясалъ ахирги диеги лъикӀаб жо гьабиларо. Гьай гьаниса нахъе йитӀун лъикӀ”, - абун. АхӀана дос жиндирго вас жиндаго аскӀове: “Дуца гьай дур чӀужу нахъе йитӀе” абун, абуна дов васасда. Дос абуна: “ЛъикӀ, йитӀила”, - абун. Гьанже дов вас цӀакъ пашманлъана: “Инсуца абураб гьабичӀугу кин телеб, гьадигӀан ёкьарай чӀужу <cb n="61"/> нахъе кин къотӀилей?”, - абун, ургъелалада вукӀана дов вас. Дой чӀужуялъ досда абуна: “Щай <pb n="114"/>мун пашманлъарав? Щиб дуе лъугьараб?”, - абун, дос абуна: “Дида инсуца гьадин абулеб буго. Дица щиб гьабилеб”, - абун, “вуго дун пашманлъун. Дой ясалъ абуна: “КӀваричӀо, йитӀе дун нухда”, - абун. Цинги дос абуна чӀужуялда: “Ахха мун <cb n="62"/> гьаб дир рукъоса. Дуе бокьараб лъабго жоги босе дуего.” Цинги дой ургъана. Долъ гьадин гьабуна: Къаси кьижун ругеб мехалъ, яхъун, долъ пайтун къачӀана. Дов хан гулаяталъ вахъулеб мехалъ гуруни, къватӀире риччаларел чуял рукӀана. Гъол чуялги рана долъ пайтуналда. Дов ханасул васги, жиндирго караватки<note place="bottom">996 *ваччун*</note> долъ пайтуналда нахъа<note place="bottom">997 &lt;hadu&gt;</note> <cb n="63"/> рухьана. Дов вас кьижун вукӀана. Хъамун пайтунгун дой яс унеб мехалъ, дов вас ворчӀана: “Вай гьаб щиб дуца гьабулеб жо?”, - абун, дос долда абуна. Долъ абуна: “Дуца дида «лъабго жо дур рукъоса босе», абун, абичӀиш? Дудасаги, гьал чуядасаги, гьаб караваталдасаги дие бокьулеб жо дур рукъоб букӀинчӀо. Дун инегӀан, <cb n="64"/> цин нуж дирго рукъоре щвезе гьаризе уней йиго дун”, - абун. Бе гьичӀо добги досул. “Рилълъа нилъ, нахъруссинин рукъоре”, - ян, абуна гьес. Гьанже  радалиса ханас ахӀун дов васгун, досда абуна: “Щай нахъе йитӀичӀей дуца чӀужу? Щиб лъугьараб нужер?”, - абун. Дос абуна: Гьадин лъугьана нижер”, - абун. Гьанже дов хан ракӀ кьабун хвана. <cb n="65"/> Ханлъун цинги дой яс ккана, рос-лъадиги батӀалъичӀо, паракъатго хутӀана.</p>
-  </body>
- </text>
+          <author role="author">
+            <name ref="#WB">
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#JB">
+              <persName>
+                <forename>Johannes</forename>
+                <surname>Bechert</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#EL">
+              <persName>
+                <forename>Ernst</forename>
+                <surname>Lewy</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
+          <distributor>
+            <ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
+          </distributor>
+          <date when="2007">The year 2007</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+        <bibl type="digitalSource">
+          <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ava">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a875 Die kluge Bauertochter</item>
+            <item>a875E The Unjust Decision: The Oil Press Given Birth to a Foal</item>
+            <item>aTMJ1545_4 The exiled wife's dearest possession</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_207.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
+          <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
+          <geo/>
+        </placeName>
+        <date when="1918">1918</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Nazmuddin</forename>
+            <surname>Sajpudin</surname>
+          </persName>
+          <age>31</age>
+          <birth>
+            <date when="1887">1887</date>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
+              <settlement>Gunib</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ava_ava_207">
+    <body>
+      <head>III. (ЦӀодорай яс)</head>
+      <p>
+        <cb n="48"/>
+         Цо хан вукӀана. Ханасул цо васги вукӀана. Дов ханасул васасе цо мискинчиясул яс ёкьун йикӀана ячине. Мискинчиясул яс йигелъул, ячине чӀухӀун, дос, хӀал бихьизе дой ясалъул, витӀана жиндирго хӀалтӀи гьабулев чи, турарал лулбиги росун, “дол лулбузул жиндие гужгат гьабе”, - абун. “жакъа, хамиз къо
+        <note place="bottom">989 &lt;гъо&gt;</note>
+         тӀаде бачӀилелде
+        <note place="bottom">990 &lt;бачинелде&gt;</note>
+        , доб гужгат жиндие лъугӀизе гьабун битӀе”, - абун. Ана дов хӀалтӀи гьабулев чи дой ясалъухъе. Гьелъ абуна досда: “Щибизе вачӀарав?” “Дун витӀана 
+        <cb n="49"/>
+         ханасул васас, «Жиндие гьал
+        <note place="bottom">991 &lt;хаб&gt;</note>
+         лъулбузул гужгат гьабе дуца» абун.” “Башуста, лъикӀ буго, гьабила, босизе 
+        <pb n="112"/>
+        вачӀа”, - абун. Дов чи долъ витӀана рукъове. Гьанже дой яс ургъана доб гужгат гьабизе. Дой ана лъадае цо тaprгьaги босун. Дораса долъ таргьа цӀун росана гургинал гӀисинал ганчӀал. Доб хамиз гъо бачӀана, дов чи витӀана гужгат 
+        <cb n="50"/>
+         босизе. Гьай яс, лъугӀанищ гужгат”, - абун, “витӀана дун ханасул васас.” “ЛъугӀичӀо.” “Щай?”, - абун. “Кун гьечӀого. Ма, гьаб таргьа кье досухъе, «гьалъул кун гьабун битӀе» абе.” Босун дос доб таргьа кьуна ханасул васасухъе. “Гужгат лъугӀун гӀечӀо, кун тӀагӀун. Гьалъул кун гьабун, хехго битӀе”, - абун, абуна гъолъ. Дов балагьаиа доб таргьихъ, 
+        <cb n="51"/>
+         кӀалги бичун, досда батана ганчӀазул цӀураб таргьа. Дос абуна: Гъой гӀабдалиш? «ГанчӀазул кун гьабе»” абун “абулей?” Дов хӀалтӀухъанас досда абуна: ГанчӀазул кун гьаби, дуе захӀматаб гуро, турарал лулбузул гужгат гъолъ гьабулеб мехалъ.” Дов къезе гьавуна дой ясалъ. Нахъеги дос битӀана анкьго куй, микьабизе цо дегӀен. 
+        <cb n="52"/>
+         Гьал къинлъизе мех щун руго, гьазухъ лъикӀ балагье”, - абун, абе гъолда, гъой ясалда.” Ана дов мискинчи, куйдул рачун гъой ясалъухъе. Гъолъ абуна: “Щибизе вачӀарав? Гьал куйдул кинал?”, - абун. Дос абуна: “Дун витӀаиа ханасул васас духъе. Гьал къиплъизе мех щун pyro, мун гьазухъ лъикӀ балагье”, - абун, “цо анкьица.” Гьеб анкь гӀедал, рачинеги 
+        <cb n="53"/>
+         дун вачӀина” абун. Долъ абуна: “Бащуста, лъикӀ буто”. Гьебгиабун, дов рукъове витӀана. Дов ингун, дой ясалъ жиндийго вокьаравги вачун, хъун дол куйдул кванана. Доб анкь индал
+        <note place="bottom">992 &lt;гӀедал&gt;</note>
+        , дов мискинчи ханасул васас витӀана: “А мун гъой ясалухъе, куйдул рачине
+        <note place="bottom">993 &lt;рачӀизе&gt;</note>
+        .” Ана дов мискинчи дой ясалъухъе: “Дун витӀана куйдул рачине, къинлъун лъугӀаниш” 
+        <cb n="54"/>
+         абун. Долъ абуна: “ЛъугӀичӀо. Дун эзухъ балагьизе жакъа регӀуларо, дир жакъа эмен къинлъулев вуго. ЦӀакъ захӀматго унтунги вуго. Инсухъ балагьизе ккола дун жакъайилан.” ВитӀана дов долъ рукъове. Дос абуна ханасул васасда: “Къинлъун лъугӀичӀо дур куйдул. Жакъа жиндер эмсн къинлъулев вугин, «Жий эзухъ балагьизе регӀуларин» абуна 
+        <cb n="55"/>
+         дида гъолъ.” Дов ханасул васас цинги досда абуна. “Гъойги гӀабдалищ? Гъолда бихьинчи къинлъулев кив вихьарав?”, - абун. Дов мискинчияс ханасул васасда абуна: 
+        <pb n="113"/>
+        “Микьго, анкьго куй дур къинлъидал, цо эмен къинлъизе гъолъулги бегьила”, - абун. Дов ханасул вас элъиеги къезавуна гъой ясалъ. Гьанже дос ячана гъой яс. ЧӀужулъун ячун, 
+        <cb n="56"/>
+         цо анкь гӀураб мехалъ, радал яхъун гьеи къватӀие балагьун йикӀана. Гъолда вихьана
+        <note place="bottom">994 *цо*</note>
+         нухда цо гӀалагун, хадуб тагьигун, эххеде унев цо чи, цӀулал цӀун цо гьокогун эххеде вачӀунев цоги чи. Гъов кӀиявго данделъана. Гъосул тагьи гьасул гьакидаса хӀинкъун, нахъе-нахъе лъутана. Гъов гӀаладул бетӀергьанчи ахӀдана: “Ле! Гьеб тагьи дида хадуб балагьизе 
+        <cb n="57"/>
+         гьаби”, - абун, гъов гьакихъанас гъасда ахӀана: Гьаб щай дуда хадуб балагьизе гьабулеб! Дир гьакица гьабуна гьаниб гьаб тагьи.” Гъов кӀиясулго дагӀба лъугьана гъоб бакӀалда. Гъов гьакихъанас гъосда абуна: “Вилълъаха нилъ ине ханасухъе диван гьабизе
+        <note place="bottom">993 &lt;диваналъ&gt;</note>
+        .” Гъой ясалда аскӀоре щвана гъов кӀиялго: “Ле яс, хан вугищ рукъов?”, - абун, гьакихъанас гъой ясалда цӀехана. Гъолъ абуна: “ГьечӀо”, - 
+        <cb n="58"/>
+         абун. Гъоз абуна: “Киве арав?”, - абун. Гъолъ абуна: “Пазул мугӀрузда цӀа рекӀун буго”, - абун, цӀалкӀиниб тӀун лъимги босун, доб цӀа свине гьабизе ана”, - абун. Дов гьакихъанас дой ясалда абуна: “Мун гӀабдалиш? ГӀазул мугӀрузда цӀа кин рекӀунеб? РекӀун бугониги, цӀалкӀиниб тӀураб лъим гьениб щвезегӀан кин букӀунеб?” Долъ абуна гьакихъанасда: “Пазул 
+        <cb n="59"/>
+         мугӀрузда цӀа рекӀунгутӀи лъалеб буго дуда; рекӀун бугониги, цӀалкӀиниб тӀураб лъим гӀениб щвезегӀан букӀунгутӀиги лъалеб буго дуда. Дур цӀулал гьакица гьанал тагьи гьабун гутӀи, щай дуда лъалареб? Тагьиги бетӀергьанасда хадуб балагьизе гьабе, мунги гьокоги бачун, рукъове а”, - абун, абуна гъой ясалъ гъосда. Гъоб кинабго хабаралъухъ гӀенеккун 
+        <cb n="60"/>
+         дов ханги вукӀана. Дос ургъана: Гьай ясалъ ахирги диеги лъикӀаб жо гьабиларо. Гьай гьаниса нахъе йитӀун лъикӀ”, - абун. АхӀана дос жиндирго вас жиндаго аскӀове: “Дуца гьай дур чӀужу нахъе йитӀе” абун, абуна дов васасда. Дос абуна: “ЛъикӀ, йитӀила”, - абун. Гьанже дов вас цӀакъ пашманлъана: “Инсуца абураб гьабичӀугу кин телеб, гьадигӀан ёкьарай чӀужу 
+        <cb n="61"/>
+         нахъе кин къотӀилей?”, - абун, ургъелалада вукӀана дов вас. Дой чӀужуялъ досда абуна: “Щай 
+        <pb n="114"/>
+        мун пашманлъарав? Щиб дуе лъугьараб?”, - абун, дос абуна: “Дида инсуца гьадин абулеб буго. Дица щиб гьабилеб”, - абун, “вуго дун пашманлъун. Дой ясалъ абуна: “КӀваричӀо, йитӀе дун нухда”, - абун. Цинги дос абуна чӀужуялда: “Ахха мун 
+        <cb n="62"/>
+         гьаб дир рукъоса. Дуе бокьараб лъабго жоги босе дуего.” Цинги дой ургъана. Долъ гьадин гьабуна: Къаси кьижун ругеб мехалъ, яхъун, долъ пайтун къачӀана. Дов хан гулаяталъ вахъулеб мехалъ гуруни, къватӀире риччаларел чуял рукӀана. Гъол чуялги рана долъ пайтуналда. Дов ханасул васги, жиндирго караватки
+        <note place="bottom">996 *ваччун*</note>
+         долъ пайтуналда нахъа
+        <note place="bottom">997 &lt;hadu&gt;</note>
+        <cb n="63"/>
+         рухьана. Дов вас кьижун вукӀана. Хъамун пайтунгун дой яс унеб мехалъ, дов вас ворчӀана: “Вай гьаб щиб дуца гьабулеб жо?”, - абун, дос долда абуна. Долъ абуна: “Дуца дида «лъабго жо дур рукъоса босе», абун, абичӀиш? Дудасаги, гьал чуядасаги, гьаб караваталдасаги дие бокьулеб жо дур рукъоб букӀинчӀо. Дун инегӀан, 
+        <cb n="64"/>
+         цин нуж дирго рукъоре щвезе гьаризе уней йиго дун”, - абун. Бе гьичӀо добги досул. “Рилълъа нилъ, нахъруссинин рукъоре”, - ян, абуна гьес. Гьанже  радалиса ханас ахӀун дов васгун, досда абуна: “Щай нахъе йитӀичӀей дуца чӀужу? Щиб лъугьараб нужер?”, - абун. Дос абуна: Гьадин лъугьана нижер”, - абун. Гьанже дов хан ракӀ кьабун хвана. 
+        <cb n="65"/>
+         Ханлъун цинги дой яс ккана, рос-лъадиги батӀалъичӀо, паракъатго хутӀана.
+      </p>
+    </body>
+  </text>
 </TEI>

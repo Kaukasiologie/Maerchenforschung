@@ -1,187 +1,197 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">7.(Один царь имел двух жен...)</title>
-    <author>
-     <name xml:id="AD">
-      <persName>
-       <forename>Adolf</forename>
-       <surname>Dirr</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <biblStruct>
-     <analytic>
-      <title xml:lang="ru">Граматический очеркь Табасаранского языка</title>
-      <author>
-       <persName ref="#AD">
-        <forename>Adolf</forename>
-        <surname>Dirr</surname>
-       </persName>
-      </author>
-     </analytic>
-     <monogr>
-      <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
-      <imprint>
-       <pubPlace>Tiflis</pubPlace>
-       <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
-       <date when="1905">1905</date>
-      </imprint>
-      <biblScope unit="volume">35</biblScope>
-     </monogr>
-    </biblStruct>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a303A Brüder suchen Schwestern</item>
-      <item>a1525E Diebswette</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_tab_rus_50.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-    </placeName>
-    <date notAfter="1905">1905</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename> </forename>
-      <surname> </surname>
-     </persName>
-     <age/>
-     <birth>
-      <date/>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district/>
-       <settlement/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_tab_rus_50">
-  <body>
-   <head>7.</head>
-   <p>Один царь имел двух жен; у одной жены были два сына, у другой — десять. Царь отдал своих сыновей в школу, где они долго учились. Когда они окончили школу, царь сказал своим женам: "Пора женить наших сыновей". — "Пора!" — сказали его жены. Царь послал своим сыновьям письмо, в котором предложил им жениться. Сыновья прочли письмо, посоветовались между собой и ответили отцу следующее: "Если ты хочешь женить нас, то знай, что у какого-то царя есть двенадцать дочерей; жени нас на них!" Потом они вернулись домой. Прибывши домой, отец сказал им: "Ну, скажите мне, кого каждый из вас хочет!" Сыновья ответили: "Чужих мы не хотим; позволь нам жениться на двенадцати дочерях такого-то царя".</p>
-   <p>Получив согласие отца, юноши собрались в путь. "Слушайте," сказал им отец: "в таком-то лесу есть баран, не трогайте его. Потом вы встретите лошадь, ее тоже не трогайте! Потом есть еще одно заколдованное место, где вы не должны останавливаться!" Юноши ушли. По дороге они встретили барана. "Какой баран!" — сказали они: "давайте поймаем и зарежем его!" Младший брат сказал: "Отец запретил нам трогать <pb n="147"/>этого барана; идите, оставьте его!" Старший брат однако сказал: "Хотя отец нам запретил это, мы все-таки не пустим его!" — "Поймайте, если можете," сказал младший: "я его не буду трогать". Братья пошли на барана; младший наблюдал, отдалившись немного от других. Но когда баран увидел юношей, он их всех схватил и стал давить между своими рогами. Младший брат поспешил освободить своих братьев и убил барана, после чего они продолжили свое путешествие.</p>
-   <p>Скоро они наткнулись на лошадь. "Какая лошадь!" — сказали братья: "давайте поймаем и уведем ее!" — "Нет," сказал младший брат: "если вы забудете слова нашего отца, вы не уйдете живыми отсюда". — "Не пустим ее!" сказал старший брат. "Ну, ловите, я ее не буду трогать!" возразил младший. Братья собирались уже поймать лошадь; но она внезапно бросилась на них; они испугались и убежали, а половина из них лошадь погубила. Когда младший брат увидел, что случилось, он сел на лошадь, которая поднялась с ним в воздух, стараясь сбросить его. Увидев, что это ей не удастся, она покорилась, и братья, взяв с собой лошадь, пошли дальше.</p>
-   <p>Когда они достигли заколдованного места, они сказали: "Вот здесь мы проведем ночь". — "Здесь не останавливайтесь," сказал младший: "отсюда живыми не уйдете!" — "Нет," возразили братья, "мы этого места не покинем, не отдохнув в нем!" — "Сделайте, как вам угодно," ответил младший, "я здесь не буду отдыхать". Вот, они легли спать тут же, младший брат однако лег подальше от них. Когда они спали, вдруг поднялся шум, как от ветра. Младший брат встал, пошел в ту сторону, откуда несся этот шум, и увидел, что большое чудовище направляется к его братьям. Он убил его и лег спать, ничего не сказав братьям.</p>
-   <p>Утром они опять отправились в путь и скоро достигли города царя. Они наняли дом и легли отдохнуть. Когда они спали, младший брат пошел в то место (дом), где жили дочери царя. У ворот он встретил спящего караульщика, которого он убил. Потом он вошел в комнату дочерей царя и увидел, что они спят. Он снял у них у всех кольца и надел их на пальцы кольца своих братьев. Потом он вошел в комнату царя, которого он застал также спящим. Он снял с <pb n="147"/>него кинжал, привязал к нему свой собственный и вернулся к своим братьям.</p>
-   <p>Когда царь встал на следующий день, он увидел, что его караульщик убит. Он созвал народ своего города и спросил их, кто убил караульщика. Все сказали: "Мы этого не сделали". — "А кто же сделал это?" спросил царь опять. "Раз это сделано," сказали люди, "то, спроси этих двенадцать братьев, что живут в таком-то доме!" — "Идите, позовите их!" велел царь. Люди пошли и позвали их, остановившись у их ворот. Младший брат встал и пошел к царю. "Кто сделал это (то есть убил моего караульщика)?" спросил его царь. "Я" — ответил он. — "Зачем ты это сделал?" — "Я тебе скажу, зачем," ответил младший брат, "если ты исполнишь мое желание". — "Хорошо, я исполню твое желание," сказал царь, "до сих пор я не видел такого человека, как ты: ты молодец!" — "Посмотри на твой и на мой кинжал," сказал младший брат. Царь посмотрел, увидел, что его собственный кинжал висит на поясе молодого человека, и что кинжал этого молодого человека находится у него. "Какая у тебя служба (какая у тебя намерения)?" спросил царь. "Мы пришли жениться на твоих дочерях," ответил юноша. "Хорошо, я их вам дам," сказал царь.</p>
-   <p>Юноша привел своих братьев; разыграли свадьбу и все отправились в обратный путь. По прибытии их домой, отец молодых людей устроил вторичную свадьбу, которая продолжалась семь дней и семь ночей.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">7.(Один царь имел двух жен...)</title>
+        <author>
+          <name xml:id="AD">
+            <persName>
+              <forename>Adolf</forename>
+              <surname>Dirr</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">Граматический очеркь Табасаранского языка</title>
+            <author>
+              <persName ref="#AD">
+                <forename>Adolf</forename>
+                <surname>Dirr</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+            <imprint>
+              <pubPlace>Tiflis</pubPlace>
+              <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+              <date when="1905">1905</date>
+            </imprint>
+            <biblScope unit="volume">35</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a303A Brüder suchen Schwestern</item>
+            <item>a1525E Diebswette</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_tab_rus_50.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1905">1905</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename> </forename>
+            <surname> </surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_tab_rus_50">
+    <body>
+      <head>7.</head>
+      <p>Один царь имел двух жен; у одной жены были два сына, у другой — десять. Царь отдал своих сыновей в школу, где они долго учились. Когда они окончили школу, царь сказал своим женам: &quot;Пора женить наших сыновей&quot;. — &quot;Пора!&quot; — сказали его жены. Царь послал своим сыновьям письмо, в котором предложил им жениться. Сыновья прочли письмо, посоветовались между собой и ответили отцу следующее: &quot;Если ты хочешь женить нас, то знай, что у какого-то царя есть двенадцать дочерей; жени нас на них!&quot; Потом они вернулись домой. Прибывши домой, отец сказал им: &quot;Ну, скажите мне, кого каждый из вас хочет!&quot; Сыновья ответили: &quot;Чужих мы не хотим; позволь нам жениться на двенадцати дочерях такого-то царя&quot;.</p>
+      <p>
+        Получив согласие отца, юноши собрались в путь. &quot;Слушайте,&quot; сказал им отец: &quot;в таком-то лесу есть баран, не трогайте его. Потом вы встретите лошадь, ее тоже не трогайте! Потом есть еще одно заколдованное место, где вы не должны останавливаться!&quot; Юноши ушли. По дороге они встретили барана. &quot;Какой баран!&quot; — сказали они: &quot;давайте поймаем и зарежем его!&quot; Младший брат сказал: &quot;Отец запретил нам трогать 
+        <pb n="147"/>
+        этого барана; идите, оставьте его!&quot; Старший брат однако сказал: &quot;Хотя отец нам запретил это, мы все-таки не пустим его!&quot; — &quot;Поймайте, если можете,&quot; сказал младший: &quot;я его не буду трогать&quot;. Братья пошли на барана; младший наблюдал, отдалившись немного от других. Но когда баран увидел юношей, он их всех схватил и стал давить между своими рогами. Младший брат поспешил освободить своих братьев и убил барана, после чего они продолжили свое путешествие.
+      </p>
+      <p>Скоро они наткнулись на лошадь. &quot;Какая лошадь!&quot; — сказали братья: &quot;давайте поймаем и уведем ее!&quot; — &quot;Нет,&quot; сказал младший брат: &quot;если вы забудете слова нашего отца, вы не уйдете живыми отсюда&quot;. — &quot;Не пустим ее!&quot; сказал старший брат. &quot;Ну, ловите, я ее не буду трогать!&quot; возразил младший. Братья собирались уже поймать лошадь; но она внезапно бросилась на них; они испугались и убежали, а половина из них лошадь погубила. Когда младший брат увидел, что случилось, он сел на лошадь, которая поднялась с ним в воздух, стараясь сбросить его. Увидев, что это ей не удастся, она покорилась, и братья, взяв с собой лошадь, пошли дальше.</p>
+      <p>Когда они достигли заколдованного места, они сказали: &quot;Вот здесь мы проведем ночь&quot;. — &quot;Здесь не останавливайтесь,&quot; сказал младший: &quot;отсюда живыми не уйдете!&quot; — &quot;Нет,&quot; возразили братья, &quot;мы этого места не покинем, не отдохнув в нем!&quot; — &quot;Сделайте, как вам угодно,&quot; ответил младший, &quot;я здесь не буду отдыхать&quot;. Вот, они легли спать тут же, младший брат однако лег подальше от них. Когда они спали, вдруг поднялся шум, как от ветра. Младший брат встал, пошел в ту сторону, откуда несся этот шум, и увидел, что большое чудовище направляется к его братьям. Он убил его и лег спать, ничего не сказав братьям.</p>
+      <p>
+        Утром они опять отправились в путь и скоро достигли города царя. Они наняли дом и легли отдохнуть. Когда они спали, младший брат пошел в то место (дом), где жили дочери царя. У ворот он встретил спящего караульщика, которого он убил. Потом он вошел в комнату дочерей царя и увидел, что они спят. Он снял у них у всех кольца и надел их на пальцы кольца своих братьев. Потом он вошел в комнату царя, которого он застал также спящим. Он снял с 
+        <pb n="147"/>
+        него кинжал, привязал к нему свой собственный и вернулся к своим братьям.
+      </p>
+      <p>Когда царь встал на следующий день, он увидел, что его караульщик убит. Он созвал народ своего города и спросил их, кто убил караульщика. Все сказали: &quot;Мы этого не сделали&quot;. — &quot;А кто же сделал это?&quot; спросил царь опять. &quot;Раз это сделано,&quot; сказали люди, &quot;то, спроси этих двенадцать братьев, что живут в таком-то доме!&quot; — &quot;Идите, позовите их!&quot; велел царь. Люди пошли и позвали их, остановившись у их ворот. Младший брат встал и пошел к царю. &quot;Кто сделал это (то есть убил моего караульщика)?&quot; спросил его царь. &quot;Я&quot; — ответил он. — &quot;Зачем ты это сделал?&quot; — &quot;Я тебе скажу, зачем,&quot; ответил младший брат, &quot;если ты исполнишь мое желание&quot;. — &quot;Хорошо, я исполню твое желание,&quot; сказал царь, &quot;до сих пор я не видел такого человека, как ты: ты молодец!&quot; — &quot;Посмотри на твой и на мой кинжал,&quot; сказал младший брат. Царь посмотрел, увидел, что его собственный кинжал висит на поясе молодого человека, и что кинжал этого молодого человека находится у него. &quot;Какая у тебя служба (какая у тебя намерения)?&quot; спросил царь. &quot;Мы пришли жениться на твоих дочерях,&quot; ответил юноша. &quot;Хорошо, я их вам дам,&quot; сказал царь.</p>
+      <p>Юноша привел своих братьев; разыграли свадьбу и все отправились в обратный путь. По прибытии их домой, отец молодых людей устроил вторичную свадьбу, которая продолжалась семь дней и семь ночей.</p>
+    </body>
+  </text>
 </TEI>

@@ -1,134 +1,185 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Nogaische Folklore</title>
-      <title xml:lang="eng">Nogai Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Ногайские народные сказки</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Nogaische Folklore</title>
+        <title xml:lang="eng">Nogai Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="nog" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="nog" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Ногайские народные сказки</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="nog"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="nog"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="nog">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
-       <district />
-       <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
-       <geo />
-      </placeName>
-      <date>1972</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Ш. Р.</forename>
-        <surname xml:lang="rus">Найманова</surname>
-       </persName>
-       <age />
-       <birth>
-        <date>1903</date>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="nog">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
+          <geo/>
+        </placeName>
+        <date>1972</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Ш. Р.</forename>
+            <surname xml:lang="rus">Найманова</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date>1903</date>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_nog_rus_12">
+  </teiHeader>
+  <text xml:id="cr_nog_rus_12">
     <body>
-     <head>5. Коза и заяц </head>
-     <p>жили старик старухой дочери каждый день надоедали старику просьбой</p><p>отец купи нам козу</p><p>однажды старик поехал базар продавать картошку вспомнил просьбе дочерей купил козу</p><p>дочери обрадовались подарку старика стали ухаживать козой старик очереди посылал дочерей пасти козу</p><p>первой пошла пасти козу старшая дочь вечером вернулась козой домой старик спрашивает козу</p><p>коза сыта</p><p>сытой целый день гоняли лугу травинки рту</p><p>рассердился старик выгнал старшую дочь дому</p><p>следующий день пошла пасти козу средняя дочь вечером старик спрашивает козу</p><p>коза сыта</p><p>сытой целый день гоняли лугу травинки рту</p><p>услышав слова старик среднюю дочь выгнал дому</p><p>третий день пошла пасти козу младшая дочь</p><p>коза сыта спрашивает вечером старик</p><p>сытой целый день гоняли лугу травинки рту</p><p>старик прогнал младшую дочь</p><p>решил старик послать пасти козу старуху вечером спрашивает козу</p><p>коза сыта</p><p>сытой целый день гоняли лугу травинки рту</p><p>пришлось старику выгнать дому старуху</p><p>следующее утро старик отправился пасти козу вечером вернулись домой старик спрашивает</p><p>коза сыта</p><p>сытой целый день гоняли лугу травинки рту</p><p>ах паршивая коза рассердился старик прогнал дочерей старуху зарежу курман</p><p>привязал старик козу отправился искать дочерей старуху разыскал вернулся домой стал точить нож</p><p>коза временем оборвала веревку убежала лес лесу набрела дом зайца заяц это время ходил морковью коза заняла дом</p><p>заяц вернулся хотел войти дом коза выглянула подденет рогами отлетел бедный заяц дома еле поднялся ноги спрашивает</p><p>занял дом</p><p>коза жилы надорвавшая бок ободравшая рогами заколю ногами затопчу хвостом вымету</p><p>заяц испугался убежал бежит лесу плачет навстречу лиса</p><p>плачешь заяц спрашивает лиса</p><p>плакать дом коза заняла</p><p>пойдем вместе помогу тебе выгнать козу</p><p>пришли дому зайца</p><p>занял дом зайца крикнула лиса</p><p>коза жилы надорвавшая бок ободравшая рогами заколю ногами затопчу хвостом вымету</p><p>лиса испугалась убежала</p><p>идет лесу заяц плачет навстречу волк</p><p>плачешь заяц спрашивает волк</p><p>плакать дом коза заняла лиса хотела помочь испугалась козы убежала</p><p>плачь заяц помогу тебе выгнать козу</p><p>пришли дому зайца</p><p>занял дом зайца громко крикнул волк</p><p>коза жилы надорвавшая бок ободравшая рогами заколю ногами затопчу хвостом вымету</p><p>волк испугался убежал заяц идет лесу плачет навстречу комар</p><p>плачешь заяц</p><p>плакать дом коза заняла лиса волк хотели помочь испугались козы убежали</p><p>пойдем заяц вместе помогу тебе выгнать козу</p><p>пришли дому зайца комар закричит</p><p>занял дом зайца</p><p>коза жилы надорвавшая бок ободравшая рогами заколю ногами затопчу хвостом вымету</p><p>бок ободравшая это подходит этими словами комар влетел дом впился ободранный бок козы коза взвыла выскочила дома зайца пустилась бежать</p><p>комар храбрый</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>5. Коза и заяц </head>
+      <p>жили старик старухой дочери каждый день надоедали старику просьбой</p>
+      <p>отец купи нам козу</p>
+      <p>однажды старик поехал базар продавать картошку вспомнил просьбе дочерей купил козу</p>
+      <p>дочери обрадовались подарку старика стали ухаживать козой старик очереди посылал дочерей пасти козу</p>
+      <p>первой пошла пасти козу старшая дочь вечером вернулась козой домой старик спрашивает козу</p>
+      <p>коза сыта</p>
+      <p>сытой целый день гоняли лугу травинки рту</p>
+      <p>рассердился старик выгнал старшую дочь дому</p>
+      <p>следующий день пошла пасти козу средняя дочь вечером старик спрашивает козу</p>
+      <p>коза сыта</p>
+      <p>сытой целый день гоняли лугу травинки рту</p>
+      <p>услышав слова старик среднюю дочь выгнал дому</p>
+      <p>третий день пошла пасти козу младшая дочь</p>
+      <p>коза сыта спрашивает вечером старик</p>
+      <p>сытой целый день гоняли лугу травинки рту</p>
+      <p>старик прогнал младшую дочь</p>
+      <p>решил старик послать пасти козу старуху вечером спрашивает козу</p>
+      <p>коза сыта</p>
+      <p>сытой целый день гоняли лугу травинки рту</p>
+      <p>пришлось старику выгнать дому старуху</p>
+      <p>следующее утро старик отправился пасти козу вечером вернулись домой старик спрашивает</p>
+      <p>коза сыта</p>
+      <p>сытой целый день гоняли лугу травинки рту</p>
+      <p>ах паршивая коза рассердился старик прогнал дочерей старуху зарежу курман</p>
+      <p>привязал старик козу отправился искать дочерей старуху разыскал вернулся домой стал точить нож</p>
+      <p>коза временем оборвала веревку убежала лес лесу набрела дом зайца заяц это время ходил морковью коза заняла дом</p>
+      <p>заяц вернулся хотел войти дом коза выглянула подденет рогами отлетел бедный заяц дома еле поднялся ноги спрашивает</p>
+      <p>занял дом</p>
+      <p>коза жилы надорвавшая бок ободравшая рогами заколю ногами затопчу хвостом вымету</p>
+      <p>заяц испугался убежал бежит лесу плачет навстречу лиса</p>
+      <p>плачешь заяц спрашивает лиса</p>
+      <p>плакать дом коза заняла</p>
+      <p>пойдем вместе помогу тебе выгнать козу</p>
+      <p>пришли дому зайца</p>
+      <p>занял дом зайца крикнула лиса</p>
+      <p>коза жилы надорвавшая бок ободравшая рогами заколю ногами затопчу хвостом вымету</p>
+      <p>лиса испугалась убежала</p>
+      <p>идет лесу заяц плачет навстречу волк</p>
+      <p>плачешь заяц спрашивает волк</p>
+      <p>плакать дом коза заняла лиса хотела помочь испугалась козы убежала</p>
+      <p>плачь заяц помогу тебе выгнать козу</p>
+      <p>пришли дому зайца</p>
+      <p>занял дом зайца громко крикнул волк</p>
+      <p>коза жилы надорвавшая бок ободравшая рогами заколю ногами затопчу хвостом вымету</p>
+      <p>волк испугался убежал заяц идет лесу плачет навстречу комар</p>
+      <p>плачешь заяц</p>
+      <p>плакать дом коза заняла лиса волк хотели помочь испугались козы убежали</p>
+      <p>пойдем заяц вместе помогу тебе выгнать козу</p>
+      <p>пришли дому зайца комар закричит</p>
+      <p>занял дом зайца</p>
+      <p>коза жилы надорвавшая бок ободравшая рогами заколю ногами затопчу хвостом вымету</p>
+      <p>бок ободравшая это подходит этими словами комар влетел дом впился ободранный бок козы коза взвыла выскочила дома зайца пустилась бежать</p>
+      <p>комар храбрый</p>
+    </body>
+  </text>
+</TEI>

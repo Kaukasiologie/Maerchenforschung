@@ -1,267 +1,269 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Яйрангази</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>aE3 Epos: Shah Ismayil (Dastan)</item>
-      <item>a1545A Schlafenlernen</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_93.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_93">
-  <body>
-   <head>Яйрангази</head>
-   <p>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Яйрангази</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>aE3 Epos: Shah Ismayil (Dastan)</item>
+            <item>a1545A Schlafenlernen</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_93.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_93">
+    <body>
+      <head>Яйрангази</head>
+      <p>
        Был, говорят, или не был один хан, у него был один сын. Хан кормил сына мясом без костей и не выпускал из дому. 
      </p>
-   <p>
+      <p>
        Однажды, когда сын хана ел мясо, случайно мясо попало ему в зуб. «Что за твердая вещь?!» - взял он его и швырнул в окно, оно поломало стекло и упало вниз. За тем разбитым стеклом перед ханским сыном появился портрет красивой девушки и исчез. Ханский сын услышал, что в одном далеком селе живет очень красивая девушка по имени Яйрангази. Девушка, которая появилась и исчезла, это, наверное, Яйрангази, в таких размышлениях ему до утра не спалось, и днем он не находил себе места. 
      </p>
-   <p>
+      <p>
        Вот таким образом, думая о Яйрангази, ханский сын с каждым днем худел и стал как палка. Визирь обратил внимание хана: Этот твой сын в последние дни заметно худеет, не знаешь, что с ним случилось?» 
      </p>
-   <p>
+      <p>
        Хан пригласил к себе одну хитрую вдову и спросил ее, не сможет ли она узнать, что случилось с его сыном. «Смогу», - уверяла она. Затем она сказала: «В комнате, где он живет, на одной стороне двери на гвозде повесь худую утку, а на другой стороне повесь жирную, а там, в комнате, спрячьте меня». Как сказала вдова, ощипав уток, с одной стороны жирную, с другой - худую повесили с обеих сторон дверей комнаты, где живет сын, а в его комнате спрятали вдову. 
      </p>
-   <p>
+      <p>
        Когда юноша зашел домой, она услышала, как он говорил жирной утке: «Моя прежняя жирность теперь на тебя что ли перешла?» Худой утке он сказал: «Ты, видимо, тоже влюбилась в Яйрангази и из-за дум о ней так похудела?» Как только ханский сын вышел на улицу, вдова побежала к хану, чтобы передать ему: «От любви к Яйрангази твой сын худеет с каждым днем». Затем хан позвал к себе сына и сказал: «Яйрангази очень хитрая девушка, тебе тяжело будет, если пойдешь за ней, тебе лучше будет, если считать, что нет ее вообще». Сын ответил: «Я никак не могу житья, не думая о ней». 
      </p>
-   <p>
+      <p>
        После этого ханский сын оседлал коня, накинул на плечо ружье и поехал на поиски Яйрангази. Когда он добрался до одной большой поляны, увидел там старика, который спросил ханского сына: «Куда держишь путь?» Юноша объяснил: «Я ишу Яйрангази». Тогда старик сказал: «Я прихожусь ей отцом, на, возьми вот это кольцо, а твое дай мне, а через десять дней приходите со своими людьми на это же место на вашу свадьбу». Обменялись там кольцами, юноша выразил старику благодарность и радостный вернулся домой. 
      </p>
-   <p>
+      <p>
        Дома он рассказал отцу: «Я нашел Яйрангази, и ее отец сказал, чтобы через десять дней приходили на свадьбу». «Очень хорошо, если это так», - согласился хан. 
      </p>
-   <p>
+      <p>
        Как сказал старик, через десять дней юноша пошел и взял с собой на свадьбу много друзей. На том месте, где условились встретиться, он ни одного человека не нашел. Они расположились и решили отдохнуть, пока не пришли Яйрангази и ее люди. Прошел тот день, наступило вечернее время, но никто там не появился. На ночлег они остались там же. Когда он встал утром, увидел, что друзья оказались при смерти, с пеной во рту. Сам он тоже еле смог встать и чувствовал себя как с выпотрошенной душой. Как бы то ни было, ханский сын питал надежду, встал, сел на коня и отправился искать Яйрангази. Как бы ему ни было трудно, друзей ему пришлось там оставить. Подъехал он к одной реке. Привязал коня к дереву и пошел выпить воды, а когда вернулся обратно, обнаружил, что коня убил волк. 
      </p>
-   <p>
+      <p>
        Ханский сын довольно много бродил в тех местах, потерял силы и в полночь, когда все люди легли спать, добрался до одного села. Он зашел в один дом на краю села, где его встретила одна молодая женщина, и до утра остался там. Утром встал, и, когда он хотел уйти, та женщина его не отпускала: «Пока не будешь со мной бороться, дальше этой двери ни шагу не ступишь». Он оказался в безвыходном положении. Закатали рукава и начали бороться. Она оказалась сильной женщиной. Долго они боролись, наконец, ханский сын положил ее на землю и приложил к горлу кинжал. Тогда та женщина стала его умолять: «Не убивай меня, я дам тебе золотую мерку». Взял ханский сын у нее золотую мерку, оставил ее в покое и пошел своей дорогой. 
      </p>
-   <p>
+      <p>
        Он провел в дороге много времени и, когда вечером в темноте в одном селе он пошел туда, где горит свет, попал в дом одной женщины. Остался там до утра, а утром, когда он хотел выйти на улицу, она сказала ему: «Если не будешь бороться со мной, на улицу не отпущу». Она была такая же крепкая. Как бы то ни было, ханский сын положил ее на землю. И когда он приложил к ее горлу кинжал, она стала умолять: «Не убивай меня, я дам тебе ветряного коня». 
      </p>
-   <p>
+      <p>
        Ханский сын сел на ветряного коня, которого дала та женщина, и отправился искать Яйрангази. Он пришел в дом вдовы, которая живет в одном селе. Услышав звук зурны и барабана, он спросил у вдовы: «Сегодня в селе что ли свадьба?» «Да, сегодня выдают замуж Яйрангази», - ответила вдова. Он оказался в безвыходном положении и сказал: «Любым способом я должен ее видеть». «Ты не попадешь к ней, если не переоденешься в женскую одежду», - сказала вдова. Ханский сын отдал вдове целую горсть золота и отправил на базар за женской одеждой. Вдова переодела ханского сына в женскую одежду и взяла его на свадьбу. Когда пришли на свадьбу, та вдова сказала: «Это подруга Яйрангази, дайте ей пройти внутрь». 
      </p>
-   <p>
+      <p>
        Ханский сын подошел и показал Яйрангази ее же кольцо. Она поняла, что это тот самый сын хана. Она попросила своих подруг, которые были вместе с ней: «Дайте мне напоследок погулять в отцовском саду вместе с этой подругой». Те согласились и они ушли со свадьбы. Пошли к дому вдовы, оставили там в разбросанном виде золото, сели на ветряного коня и полетели. 
      </p>
-   <p>
+      <p>
        Невеста долго не возвращалась из сада, и людям, которые отправились ее искать, один человек подсказал: «Я видел, как Яйрангази с одной женщиной зашла в дом вдовы». Они пошли вслед за ней и заглянули в дом вдовы. Долго они собирали там на полу золото, прошло много времени, и они опоздали. 
      </p>
-   <p>
+      <p>
        Когда мчались на ветряном коне, Яйрангази взглянула назад и сказала ханскому сыну: «Посмотри, видишь ли ты черный туман?» «Вижу», - ответил он. «Теперь слезай и поставь огонь, - попросила она, - я пойду против войска и одолею их». Яйрангази пошла навстречу войску, которое шло вслед за ними, победила его и вернулась к ханскому сыну. 
      </p>
-   <p>
+      <p>
        После этого они сели на ветряного коня. Через некоторое время Яйрангази попросила ханского сына: «Посмотри назад, появился ли там белый туман?» Он сказал: «Вижу». Яйрангази ссадила с коня ханского сына и пошла крушить войско. 
      </p>
-   <p>
+      <p>
        В третий раз она спросила: «Видишь ли ты красный туман?» «Вижу», - ответил он. Яйрангази рассказала ему: «Теперь сила моя кончилась, если хочешь, отдай меня им, а если хочешь, иди и воюй с ними». Ханский сын, не глядя, пошел воевать против войска, которое преследовало их. Он их победил, и вернулся туда, где Яйрангази поставила огонь. 
      </p>
-   <p>
+      <p>
        Потом встали, сели на ветряного коня и вдвоем поехали к дому отца юноши. 
      </p>
-   <p>
+      <p>
        Отец жаловался на боль в глазах. Он сказал: «Если поймать в реке рыбу и провести ею по глазам, то они поправятся». Ханские нукеры пошли на реку ловить рыбу. Никто не мог поймать, но ханский сын потом поймал и вытащил ее. Потом тот сын сказал: «Наверное, отец над нами издевается, говоря, что у него болят глаза». Потом он выпустил рыбу обратно в воду, говоря: «Я бы не хотел, чтобы меня даже отец обманул». 
      </p>
-   <p>
+      <p>
        Когда нукеры вернулись, хан спросил, поймали ли они рыбу. Они ответили: «Твой сын поймал рыбу, но потом выпустил ее в реку, решив, что ты шутишь». 
      </p>
-   <p>
+      <p>
        Хан разозлился и приказал: «Заберите в лес этого моего сына и убейте, а его запачканную кровью одежду принесите и покажите мне». Взяли оружие, а когда, забрав ханского сына, нукеры шли по дороге, встретили зайца. Нукеры убили зайца, запачкали кровью одежду ханского сына и сказали ему: «Теперь иди куда хочешь и обратно в это же село не возвращайся». 
      </p>
-   <p>
+      <p>
        Пришли нукеры, показали хану одежду, запачканную заячьей кровью, и сказали, что убили ханского сына. Когда хан провел той одеждой по глазам, и глаза перестали болеть. 
      </p>
-   <p>
+      <p>
        Ханский сын шел по лесу. Через некоторое время он услышал крик: «Эй, юноша!» Не обращая на это внимание, он шел своей дорогой. Затем, неизвестно откуда, перед ним оказался старый человек. «Почему ты не откликнулся, когда я тебя позвал?» - спросил старик ханского сына. «А ты позвал меня по имени?» - в ответ сказал ханский сын старику. «Ты это правильно говоришь», - признался старик. Потом он сказал: «Счастливого тебе пути, куда решил пойти?» Юноша объяснил: «Отец выгнал меня на улицу, и я иду в поисках хлеба». Старик предложил: «Если будешь слушаться меня и работать вместе со мной, оставлю у себя, в противном случае делай, что хочешь». Сын согласился: «Сделаю, что ты скажешь, и буду работать вместе с тобой». «В таком случае, пошли со мной», старик взял ханского сына домой. 
      </p>
-   <p>
+      <p>
        Однажды они услышали, что хан выдает свою дочь за того, кто трижды сможет заставить его дочь разговаривать. Старик взял ханского сына в горы. Там они взяли одного большого барана, и повели, чтобы его зарезать там, откуда был виден балкон царского дома. Положили его на землю, и, когда ханский сын начал резать со стороны затылка, старик предупредил его: «Так не режут, со стороны горла обычно режут». Но ханский сын настаивал на своем: «Нет, ты не прав, режут со стороны затылка». После чего старик сцепился с ханским сыном. Положив на землю кинжал, ханский сын бросился к шее старика. Таким образом они долго дрались и били друг друга кулаками. Тогда ханская дочь появилась в окне и крикнула: «Младшие должны следовать мудрости старших». 
      </p>
-   <p>
+      <p>
        Потом ханский сын попытался резать того барана, повернув в сторону захода солнца. Старик советовал ему: «Животных обычно режут, повернув в южную сторону». Из-за этого они опять подрались. На этот раз опять ханская дочь появилась на балконе и крикнула: «Старик правильно говорит». 
      </p>
-   <p>
+      <p>
        После этого зарезали барана, и ханский сын попытался свежевать тушу со стороны спины. Старик подсказал ему: «Обычно шкуру животных снимают со стороны живота». И они подрались друг с другом. Ханская дочь, которая смотрела на них в окно, крикнула: «Старик правильно говорит». 
      </p>
-   <p>
+      <p>
        Аккуратно сняв шкуру, старик и ханский сын положили баранину в кастрюле. 
      </p>
-   <p>
+      <p>
        Хан выдал свою дочь за юношу, который трижды заставил ее разговаривать, и старика вместе с ханским сыном отпустили домой. Когда пришли домой, ханский сын у нее на пальце увидел свое кольцо. Тогда он показал ей кольцо, которое дал ему тот старый человек. Потом он понял, что она – Яйрангази, а тот старик был ее отцом. Он взял ее с собой и отправился к своему отцу. Там сыграли большую свадьбу. Вот так и объединились влюбленные ханский сын и Яйрангази. 
      </p>
-   <p>
+      <p>
        Оказывается, Яйрангази и ее отец путем разных хитростей совершили в этой сказке все хорошие и плохие деяния, чтобы проверить состояние хана и ханского сына. 
      </p>
-  </body>
- </text>
+    </body>
+  </text>
 </TEI>

@@ -1,184 +1,189 @@
-
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Дуракъ-мужъ</title>
-    <author>
-     <name xml:id="AO">
-      <persName>
-       <forename>Abdulla</forename>
-       <surname>Omarov</surname>
-      </persName>
-     </name>
-     <idno></idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <biblStruct>
-     <analytic>
-      <title xml:lang="ru">КАЗЙКУМУМУХСКІЯ (ЛАКСКІЯ) НАРОДНЫЯ СКАЗАНІЯ</title>
-      <author>
-       <persName ref="#AО">
-        <forename>Abdulla</forename>
-        <surname>Omarov</surname>
-       </persName>
-      </author>
-     </analytic>
-     <monogr>
-      <title level="j" xml:lang="ru">ССКГ; Сборник сведений о кавказских горцах</title>
-      <imprint>
-       <pubPlace>Тифлись</pubPlace>
-       <publisher>Кавказский отдел Императорского Русского географического общества</publisher>
-       <date when="1868">1868</date>
-      </imprint>
-      <biblScope unit="volume">1</biblScope>
-     </monogr>
-    </biblStruct>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"></index>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_lbe_rus_54.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district></district>
-     <settlement></settlement>
-    </placeName>
-    <date notAfter="1868">1868</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district></district>
-       <settlement></settlement>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AO">
-      <forename>Abdulla</forename>
-      <surname>Omarov</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AO">
-      <forename>Abdulla</forename>
-      <surname>Omarov</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change></change>
-    <change></change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_lbe_rus_54">
-  <body>
-   <head>Дуракъ-мужъ</head>
-   <p>Жили-были мужъ да жена. Богатства у нихъ только и было, что быкъ. Мужъ все пристаетъ: "пойду я продамъ быка," а жена ему въ ответь: "не продавай быка: онъ намъ нуженъ, безъ него намъ будетъ жизнь не въ жизнь." Вотъ однажды мужъ поилъ быка, а въ озере квакаетъ лягушка. "Ахъ, ты, проклятая!" говорить мужъ.— Продай быка, продай быка! квакаетъ лягушка. — "Продамъ, коли дашь 16 монетъ." А лягушка все квакаетъ. Разсердился мужъ, да и бросилъ въ нее камнемъ. Камень съ шумомъ пошелъ по-дну, лягушка скрылась, а мужу слышится, что кто-то говорить: "иди, возьми деньги!" Вотъ онъ разделся и пошелъ по озеру къ тому самому месту, где виделъ лягушку. И что-жъ? въ самомъ деле, стоить тамъ чашка съ серебромъ. Взялъ онъ оттуда 16 мопетъ, оставилъ быка на берегу лягушке, а самъ пошелъ домой. Быкъ, между темъ, по ближайшей дороге, прибежалъ домой прежде своего хозяина и жена успела загнать его въ хлевъ; какъ вотъ приходить мужъ и говорить жене: продалъ быка лягушке за 16 рублей: вотъ и деньги. Жена было накинулась съ ругнею на мужа, а какъ увидала деньги, тотчасъ пристала: это откуда? где взялъ?— "У лягушки взялъ; у ней целая чашка съ деньгами: хочешь, и тебе покажу?" говорить мужъ.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Дуракъ-мужъ</title>
+        <author>
+          <name xml:id="AO">
+            <persName>
+              <forename>Abdulla</forename>
+              <surname>Omarov</surname>
+            </persName>
+          </name>
+          <idno/>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">КАЗЙКУМУМУХСКІЯ (ЛАКСКІЯ) НАРОДНЫЯ СКАЗАНІЯ</title>
+            <author>
+              <persName ref="#AО">
+                <forename>Abdulla</forename>
+                <surname>Omarov</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">ССКГ; Сборник сведений о кавказских горцах</title>
+            <imprint>
+              <pubPlace>Тифлись</pubPlace>
+              <publisher>Кавказский отдел Императорского Русского географического общества</publisher>
+              <date when="1868">1868</date>
+            </imprint>
+            <biblScope unit="volume">1</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_lbe_rus_54.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1868">1868</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AO">
+            <forename>Abdulla</forename>
+            <surname>Omarov</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AO">
+            <forename>Abdulla</forename>
+            <surname>Omarov</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_lbe_rus_54">
+    <body>
+      <head>Дуракъ-мужъ</head>
+      <p>Жили-были мужъ да жена. Богатства у нихъ только и было, что быкъ. Мужъ все пристаетъ: &quot;пойду я продамъ быка,&quot; а жена ему въ ответь: &quot;не продавай быка: онъ намъ нуженъ, безъ него намъ будетъ жизнь не въ жизнь.&quot; Вотъ однажды мужъ поилъ быка, а въ озере квакаетъ лягушка. &quot;Ахъ, ты, проклятая!&quot; говорить мужъ.— Продай быка, продай быка! квакаетъ лягушка. — &quot;Продамъ, коли дашь 16 монетъ.&quot; А лягушка все квакаетъ. Разсердился мужъ, да и бросилъ въ нее камнемъ. Камень съ шумомъ пошелъ по-дну, лягушка скрылась, а мужу слышится, что кто-то говорить: &quot;иди, возьми деньги!&quot; Вотъ онъ разделся и пошелъ по озеру къ тому самому месту, где виделъ лягушку. И что-жъ? въ самомъ деле, стоить тамъ чашка съ серебромъ. Взялъ онъ оттуда 16 мопетъ, оставилъ быка на берегу лягушке, а самъ пошелъ домой. Быкъ, между темъ, по ближайшей дороге, прибежалъ домой прежде своего хозяина и жена успела загнать его въ хлевъ; какъ вотъ приходить мужъ и говорить жене: продалъ быка лягушке за 16 рублей: вотъ и деньги. Жена было накинулась съ ругнею на мужа, а какъ увидала деньги, тотчасъ пристала: это откуда? где взялъ?— &quot;У лягушки взялъ; у ней целая чашка съ деньгами: хочешь, и тебе покажу?&quot; говорить мужъ.
 </p>
-   <p>Вотъ ночью мужъ съ женою пошли на озеро; действительно: стоить тамъ чашка съ серебромъ. Жена, тайкомъ отъ мужа, захватила ее и закопала у себя въ доме. Потомъ приготовила она хороший ужинъ, накормила мужа-дурака, напоила его крепкою бузою и уложила пьянаго спать. Затѣмъ сварила сладкую халву, разложила ее кусками на крыше дома и будить мужа: "вставай, мужъ: изъ халвы дождь пошелъ, пойдемъ сбирать." — Изъ халвы дождь пошелъ? пойдемъ, пойемъ, жена! пойдемъ скорее, соберемъ ее! — и оба отправились на крышу и стали собирать ее. На утро пошелъ мужъ на площадь и давай хвастаться: нашелъ-де у лягушки чашку съ серебромъ. Люди слушали, слушали да и думаютъ: "а, можетъ, и въ <pb n="61"/> правду онъ нашелъ деньги." Слухъ объ этихъ деньгахъ дошелъ и до хана. Вотъ посылаѳтъ онъ нукеровъ въ домъ дурака-мужа, чтобы отобрать ихъ. "Да мужъ мой вретъ, говорить жена: онъ, дуракъ, обманулъ васъ, никакихъ денегъ не было." —Ты сама врешь, говорить мужъ. А помнишь, въ ту ночь еще халвовый дождь пошелъ?— Нукера, услышавъ это, посмеялись, да и говорятъ: въ самомъ дѣлѣ, онъ дуракъ; пошли и доложили хану: это дуракъ болталъ, что нашелъ деньги.
-</p>
-  </body>
- </text>
+      <p>
+        Вотъ ночью мужъ съ женою пошли на озеро; действительно: стоить тамъ чашка съ серебромъ. Жена, тайкомъ отъ мужа, захватила ее и закопала у себя въ доме. Потомъ приготовила она хороший ужинъ, накормила мужа-дурака, напоила его крепкою бузою и уложила пьянаго спать. Затѣмъ сварила сладкую халву, разложила ее кусками на крыше дома и будить мужа: &quot;вставай, мужъ: изъ халвы дождь пошелъ, пойдемъ сбирать.&quot; — Изъ халвы дождь пошелъ? пойдемъ, пойемъ, жена! пойдемъ скорее, соберемъ ее! — и оба отправились на крышу и стали собирать ее. На утро пошелъ мужъ на площадь и давай хвастаться: нашелъ-де у лягушки чашку съ серебромъ. Люди слушали, слушали да и думаютъ: &quot;а, можетъ, и въ 
+        <pb n="61"/>
+         правду онъ нашелъ деньги.&quot; Слухъ объ этихъ деньгахъ дошелъ и до хана. Вотъ посылаѳтъ онъ нукеровъ въ домъ дурака-мужа, чтобы отобрать ихъ. &quot;Да мужъ мой вретъ, говорить жена: онъ, дуракъ, обманулъ васъ, никакихъ денегъ не было.&quot; —Ты сама врешь, говорить мужъ. А помнишь, въ ту ночь еще халвовый дождь пошелъ?— Нукера, услышавъ это, посмеялись, да и говорятъ: въ самомъ дѣлѣ, онъ дуракъ; пошли и доложили хану: это дуракъ болталъ, что нашелъ деньги.
+      </p>
+    </body>
+  </text>
 </TEI>

@@ -1,131 +1,182 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Tatische Folklore</title>
-      <title xml:lang="eng">Tat Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личпый архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Tatische Folklore</title>
+        <title xml:lang="eng">Tat Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личпый архив</institution>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ttt">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
-       <geo />
-      </placeName>
-      <date>1964</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Евдит</forename>
-        <surname xml:lang="rus">Израилов</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Амалдан</forename>
-        <surname xml:lang="rus">Кукуллу</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Амалдан</forename>
-        <surname xml:lang="rus">Кукуллу</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ttt">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
+          <geo/>
+        </placeName>
+        <date>1964</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Евдит</forename>
+            <surname xml:lang="rus">Израилов</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Амалдан</forename>
+            <surname xml:lang="rus">Кукуллу</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Амалдан</forename>
+            <surname xml:lang="rus">Кукуллу</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ttt_rus_45">
+  </teiHeader>
+  <text xml:id="cr_ttt_rus_45">
     <body>
-     <head>29. Справедливая жена</head>
-     <p>далекие недалекие времена нашем каком другом городе ауле жили говорят брата жил очень бедно семеро детей другого меньше бедняк целыми днями работал богачей жил впроголодь говорится голове забот полно животе пусто касается одежды изодрана спереди прикрыть сзади голо сзади прикрыть спереди видно</p><p>зато богатый брат жил своя отара овец которую пасли бедняки работу делали хозяин жил живот отращивал детей имел зато достатке жена очень умная справедливая друзей н приятелей богатого брата каждый день утра вечера доме прекращалось веселье говорят поесть охотинки найдутся</p><p>умная справедливая жена говорила своему мужу</p><p>брата своего пиры приглашал муж отвечал</p><p>ровня моим друзьям</p><p>шли дни днями недели неделями месяцы месяцами дети бедного брата росли вместе ними родителей росли заботы раньше хватало семь горстей муки хлеб мало семь семь попробуй двумя руками заработать</p><p>брат прежнему жил свое удовольствие глаза даны людям видеть язык говорить говорили богачу</p><p>имел совесть помог своему брату дети голоду пухнут пьянствуешь</p><p>богач отвечал</p><p>плодил детей беден</p><p>дни шли каждый день бедного брата семерых детей днем ночью семья голодала люди советовали бедняку</p><p>сходил брату попросил помощи</p><p>сердце каменное куска хлеба даст отвечал бедняк</p><p>братья жили неподалеку друг друга могли видеться десять день шло время становились чужими друг другу говорится ходить дороге опа колючкой зарастет</p><p>жили жена богатого брата</p><p>однажды сказала мужу</p><p>дай бог тобой случится несчастье твои друзья выручат</p><p>говоришь собачья дочь воскликнул муж голову сложат</p><p>жена сказала следующий день друзья собрались вновь муж спросил</p><p>мной случится беда выручите</p><p>клянемся оставим беде закричали пьяные друзья</p><p>жена это время стояла дверью слышала весь разговор придумала</p><p>спустя несколько дней велела одному слуг зарезать жирную овцу снять шкуру принести дом хозяйка сказала слуга выполнил хозяйка достала епинжи мужа завернула зарезанную овцу положила тахту вечером пьяный муж решил прилечь отдохнуть испугался увидев свой епинжи</p><p>это испуганно спросил жену</p><p>каждому делу свое время скоро увидишь ответила жена позвала слуг</p><p>одному сказала</p><p>сходи али скажи муж заболел лихорадкой просит прийти нему</p><p>другому слуге сказала</p><p>сходи мамеду скажи самое</p><p>третьему слуге сказала</p><p>аты сходи вали</p><p>женщина разослала слуг ко всем приятелям мужа стала ждать</p><p>вскоре вернулся первый слуга передал слова али могу прийти хочу жить боюсь заразиться</p><p>сказал воскликнул богач</p><p>могилами предков клянусь сказал ответил слуга</p><p>вернулись другие слуги мамед вали гасан юсуф мешади почему пришли спрашивает богач</p><p>сказали боятся заразиться отвечают слуги</p><p>богач схватился голову стал кричать</p><p>никого никого</p><p>жена послала слугу бедному брату своего мужа</p><p>передай брат заболел лихорадкой лежит смерти сказала пошел слуга бедняку сообщил брат оченъ болен жена скорее вставай пойдем брату оп говорят заболел лихорадкой крикнул бедняк побежал дому своего брата следом побежали жена дети бегут замечают колючек которыми заросла дорога</p><p>вбежал бедняк дом своего брата бросился тахте лежала завернутая епинжи туша стал причитать</p><p>единственный брат оставляешь одного рано уходить ахи ахи ахи</p><p>рядом упав колени плакали жена дети бедняка</p><p>долго плакали хозяйка дома сказала</p><p>успокойтесь брат ваш дядя жив здоров</p><p>отодвинула занавеску бедняк увидел хозяина дома растерялся бедняк стоит слова вымолвить хозяйка дома говорит</p><p>дорогой деверь забирай барашка ешь здоровье</p><p>рассказала придумала затею</p><p>бедняк отблагодарил жену брата взвалил подарок спину пошел домой жена дети</p><p>ушли жена сказала богачу</p><p>узнал трудную минуту разделить тобой твое горе</p><p>муж ответил мог сказать ясно недаром говорят бедный брат сорока застольных друзей</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>29. Справедливая жена</head>
+      <p>далекие недалекие времена нашем каком другом городе ауле жили говорят брата жил очень бедно семеро детей другого меньше бедняк целыми днями работал богачей жил впроголодь говорится голове забот полно животе пусто касается одежды изодрана спереди прикрыть сзади голо сзади прикрыть спереди видно</p>
+      <p>зато богатый брат жил своя отара овец которую пасли бедняки работу делали хозяин жил живот отращивал детей имел зато достатке жена очень умная справедливая друзей н приятелей богатого брата каждый день утра вечера доме прекращалось веселье говорят поесть охотинки найдутся</p>
+      <p>умная справедливая жена говорила своему мужу</p>
+      <p>брата своего пиры приглашал муж отвечал</p>
+      <p>ровня моим друзьям</p>
+      <p>шли дни днями недели неделями месяцы месяцами дети бедного брата росли вместе ними родителей росли заботы раньше хватало семь горстей муки хлеб мало семь семь попробуй двумя руками заработать</p>
+      <p>брат прежнему жил свое удовольствие глаза даны людям видеть язык говорить говорили богачу</p>
+      <p>имел совесть помог своему брату дети голоду пухнут пьянствуешь</p>
+      <p>богач отвечал</p>
+      <p>плодил детей беден</p>
+      <p>дни шли каждый день бедного брата семерых детей днем ночью семья голодала люди советовали бедняку</p>
+      <p>сходил брату попросил помощи</p>
+      <p>сердце каменное куска хлеба даст отвечал бедняк</p>
+      <p>братья жили неподалеку друг друга могли видеться десять день шло время становились чужими друг другу говорится ходить дороге опа колючкой зарастет</p>
+      <p>жили жена богатого брата</p>
+      <p>однажды сказала мужу</p>
+      <p>дай бог тобой случится несчастье твои друзья выручат</p>
+      <p>говоришь собачья дочь воскликнул муж голову сложат</p>
+      <p>жена сказала следующий день друзья собрались вновь муж спросил</p>
+      <p>мной случится беда выручите</p>
+      <p>клянемся оставим беде закричали пьяные друзья</p>
+      <p>жена это время стояла дверью слышала весь разговор придумала</p>
+      <p>спустя несколько дней велела одному слуг зарезать жирную овцу снять шкуру принести дом хозяйка сказала слуга выполнил хозяйка достала епинжи мужа завернула зарезанную овцу положила тахту вечером пьяный муж решил прилечь отдохнуть испугался увидев свой епинжи</p>
+      <p>это испуганно спросил жену</p>
+      <p>каждому делу свое время скоро увидишь ответила жена позвала слуг</p>
+      <p>одному сказала</p>
+      <p>сходи али скажи муж заболел лихорадкой просит прийти нему</p>
+      <p>другому слуге сказала</p>
+      <p>сходи мамеду скажи самое</p>
+      <p>третьему слуге сказала</p>
+      <p>аты сходи вали</p>
+      <p>женщина разослала слуг ко всем приятелям мужа стала ждать</p>
+      <p>вскоре вернулся первый слуга передал слова али могу прийти хочу жить боюсь заразиться</p>
+      <p>сказал воскликнул богач</p>
+      <p>могилами предков клянусь сказал ответил слуга</p>
+      <p>вернулись другие слуги мамед вали гасан юсуф мешади почему пришли спрашивает богач</p>
+      <p>сказали боятся заразиться отвечают слуги</p>
+      <p>богач схватился голову стал кричать</p>
+      <p>никого никого</p>
+      <p>жена послала слугу бедному брату своего мужа</p>
+      <p>передай брат заболел лихорадкой лежит смерти сказала пошел слуга бедняку сообщил брат оченъ болен жена скорее вставай пойдем брату оп говорят заболел лихорадкой крикнул бедняк побежал дому своего брата следом побежали жена дети бегут замечают колючек которыми заросла дорога</p>
+      <p>вбежал бедняк дом своего брата бросился тахте лежала завернутая епинжи туша стал причитать</p>
+      <p>единственный брат оставляешь одного рано уходить ахи ахи ахи</p>
+      <p>рядом упав колени плакали жена дети бедняка</p>
+      <p>долго плакали хозяйка дома сказала</p>
+      <p>успокойтесь брат ваш дядя жив здоров</p>
+      <p>отодвинула занавеску бедняк увидел хозяина дома растерялся бедняк стоит слова вымолвить хозяйка дома говорит</p>
+      <p>дорогой деверь забирай барашка ешь здоровье</p>
+      <p>рассказала придумала затею</p>
+      <p>бедняк отблагодарил жену брата взвалил подарок спину пошел домой жена дети</p>
+      <p>ушли жена сказала богачу</p>
+      <p>узнал трудную минуту разделить тобой твое горе</p>
+      <p>муж ответил мог сказать ясно недаром говорят бедный брат сорока застольных друзей</p>
+    </body>
+  </text>
+</TEI>

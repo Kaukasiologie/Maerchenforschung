@@ -1,190 +1,190 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">ШЕЙХ</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a1380 Blindfüttern</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_52.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
-<text xml:id="cc_ddo_rus_52">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">ШЕЙХ</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a1380 Blindfüttern</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_52.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_52">
     <body>
-     <head>ШЕЙХ</head>
-     <p>Были, говорят, не были муж и жена.Жена не любила мужа. У нее был любовник. Они договорились во что бы то ни стало избавить ее от мужа. Муж догадался о замыслах жены и ее любовника. Однажды, когда муж пошел в лес, он увидел дерево, сломанное сверху и полое внутри. Это дерево было толще обхвата, поэтому сверху обойти его было легче.</p>
-     <p>Муж пришел домой и сказал жене: «Я в лесу нашел шейха, он все знает». «Где ты слышал, что в лесу бывают шейхи? А когда ты спросил у него, узнал ли он о том, что у тебя на сердце?» - сбольшим любопытством спросила жена. Муж ответил: «У меня были сухие лепешки, а он любит хорошую еду». Тем не менее жена ему не поверила. Она была в тревоге и с нетерпением ждала, когда же рассветет. Утром муж взял еду, сказал жене, что идет в другую сторону, а сам пошел в лес и спрятался в дереве. Как только муж пошел в лес, жена начала готовить хлеб с сыром. Приготовила, густо намазала маслом, положила в сумку и быстро пошла туда, где якобы находится шейх. Пришла к тому дереву и начала его звать: «Шейх, где ты? Покажись, я принесла твою самую любимую еду». Заставив жену достаточно долго кричать, муж, изменив свой голос, сказал: «Я здесь. Что ты хочешь?» Муж, надев бурку, превратился в клубок и так сидел в дупле. Жена подошла к дереву, бросила в дупло сумку лепешек с сыром и спросила шейха о своих заботах. Шейх рассказал ей о домашнем имуществе, скоте и в конце сказал: «У тебя есть любовник, и ты не любишь мужа». Когда он сказал это, оно высунула язык, подобно собаке. «Что мне нужно делать, чтобы я могла избавиться от мужа и выйти за любимого?» - спросила она шейха. «Ей богу, он любит тебя больше всего на свете и никогда не разведется с тобой», - сказал шейх. Она не отставала, и шейх сказал: «Я не пишу записки для талисманов, потому что меня мучают шайтаны, но у меня есть для этого одно средство». «Пу, скажи», - не отставала она. «Зарежьте вашу красную телку и, пока все ее мясо, исключая голову и ноги, не закончится, утром и вечером надо давать есть только мужу, но ни в коем случае нельзя давать другим. Когда закончится левая часть туши, он лишится зрения, а когда закончится правая, он умрет. Но я тебя предупреждаю, если хоть кусочек этого мяса достанется кому-нибудь другому, это средство не даст результата. Теперь хочешь, режь, хочешь, не режь», - сказал шейх про телку. «Спасибо тебе, шейх. Пусть после смерти ты попадешь в рай», - пожелала ему добра жена, взяла с собой немного дров и быстро пошла домой. Чуть позже, «шейх» вылез из дупла и тоже пошел домой. Как только муж пришел домой, жена стала настаивать: «Нам надо поскорей зарезать телку, потому что от нее нет пользы, только зря кормим». Муж пытался возражать: «Если не отелится, зарежем в следующем году, а в этомгоду оставим». Жена так сильно настаивала, что в конце концов муж дал согласие зарезать телку. В тот же день пригласили всех соседей, как велел «шейх», зарезали телку, но даже мясников кормили другим, мясом, а потом все разошлись по домам. После забоя телки жена начала давать «лекарство» мужу: утром, в обед и вечером жена варила мясо телки и кормила этим мясом мужа, никуда не отпуская. А он лежал на кровати, спал, вставал, ел, пил, приятно проводил время и жирел.</p>
-     <p>Однажды он тайком от жены взял ключ от кладовой, посмотрел, сколько, мол, осталось мяса от половины туши, и обнаружил, что осталось еще на один-два дня. Положил на место ключ и лег на кровать. Когда жена пришла, муж сказал: «Что-то мои глаза стали плохо видеть».</p>
-     <p>На другой день, когда взошло солнце, муж сказал: «Почему-то сегодня не рассветает». Жена очень обрадовалась: видно, он лишился зрения,</p>
-     <p>Прошло две недели, опятъ тайком взял ключи и, когда посмотрел, сколько осталось мяса, обнаружил, что мяса осталось на один день. Муж начал стонать в постели. Жена знала, что муж сегодня должен умереть. Вечером, когда стемнело, пришел человек с лопатой, и муж спросил у жены: «Кто это пришел? Жеиа, прими гостя, я ослаб». А любовник, как у себя дома лег спать на кровать в ожидании смерти мужа. Когда жена пошла с кувшином за водой, муж встал, взял последний кусок мяса из кастрюли, набрал в черпак горячего бульона и влил в рот любовнику. Сбросил его на пол, опрокинул на него кастрюлю с печи, пошел и лег в свою постель. Пришла жеиа с кувшином, наполненным водой, и подняла шум-гам: что, мол, здесь случилось? Что ли, гостъ умер? Муж сказал: «Был какой-то шум, я слепой, не смог разобраться, что тут к чему».Жена сильно расстроилась, что же, мол, теперь делать? Муж стал утешать ее и сказал: «Я слышал, если пером красного петуха прикоснуться, к слепому глазу, зрение восстанавливается». Пошла жена, принесла девять-десять перьев красного петуха, муж медленно провел по глазам, и зрение восстановилось. Потом муж ей же на спину положил любовника, а сам взял лопату и кирку. Они забрались далеко в лес, там он заставил жену копать могилу, куда и положили любовника. Ударом лопатой по голове повалил жену на тело любовника: мол, тебе тоже лучше здесь. Обоих засыпал землей, похоронил их и вернулся домой.</p>
-     <p>Взяв другую жену, говорят, «шейх» до сих пор бодр и живет себе спокойно.</p>
+      <head>ШЕЙХ</head>
+      <p>Были, говорят, не были муж и жена.Жена не любила мужа. У нее был любовник. Они договорились во что бы то ни стало избавить ее от мужа. Муж догадался о замыслах жены и ее любовника. Однажды, когда муж пошел в лес, он увидел дерево, сломанное сверху и полое внутри. Это дерево было толще обхвата, поэтому сверху обойти его было легче.</p>
+      <p>Муж пришел домой и сказал жене: «Я в лесу нашел шейха, он все знает». «Где ты слышал, что в лесу бывают шейхи? А когда ты спросил у него, узнал ли он о том, что у тебя на сердце?» - сбольшим любопытством спросила жена. Муж ответил: «У меня были сухие лепешки, а он любит хорошую еду». Тем не менее жена ему не поверила. Она была в тревоге и с нетерпением ждала, когда же рассветет. Утром муж взял еду, сказал жене, что идет в другую сторону, а сам пошел в лес и спрятался в дереве. Как только муж пошел в лес, жена начала готовить хлеб с сыром. Приготовила, густо намазала маслом, положила в сумку и быстро пошла туда, где якобы находится шейх. Пришла к тому дереву и начала его звать: «Шейх, где ты? Покажись, я принесла твою самую любимую еду». Заставив жену достаточно долго кричать, муж, изменив свой голос, сказал: «Я здесь. Что ты хочешь?» Муж, надев бурку, превратился в клубок и так сидел в дупле. Жена подошла к дереву, бросила в дупло сумку лепешек с сыром и спросила шейха о своих заботах. Шейх рассказал ей о домашнем имуществе, скоте и в конце сказал: «У тебя есть любовник, и ты не любишь мужа». Когда он сказал это, оно высунула язык, подобно собаке. «Что мне нужно делать, чтобы я могла избавиться от мужа и выйти за любимого?» - спросила она шейха. «Ей богу, он любит тебя больше всего на свете и никогда не разведется с тобой», - сказал шейх. Она не отставала, и шейх сказал: «Я не пишу записки для талисманов, потому что меня мучают шайтаны, но у меня есть для этого одно средство». «Пу, скажи», - не отставала она. «Зарежьте вашу красную телку и, пока все ее мясо, исключая голову и ноги, не закончится, утром и вечером надо давать есть только мужу, но ни в коем случае нельзя давать другим. Когда закончится левая часть туши, он лишится зрения, а когда закончится правая, он умрет. Но я тебя предупреждаю, если хоть кусочек этого мяса достанется кому-нибудь другому, это средство не даст результата. Теперь хочешь, режь, хочешь, не режь», - сказал шейх про телку. «Спасибо тебе, шейх. Пусть после смерти ты попадешь в рай», - пожелала ему добра жена, взяла с собой немного дров и быстро пошла домой. Чуть позже, «шейх» вылез из дупла и тоже пошел домой. Как только муж пришел домой, жена стала настаивать: «Нам надо поскорей зарезать телку, потому что от нее нет пользы, только зря кормим». Муж пытался возражать: «Если не отелится, зарежем в следующем году, а в этомгоду оставим». Жена так сильно настаивала, что в конце концов муж дал согласие зарезать телку. В тот же день пригласили всех соседей, как велел «шейх», зарезали телку, но даже мясников кормили другим, мясом, а потом все разошлись по домам. После забоя телки жена начала давать «лекарство» мужу: утром, в обед и вечером жена варила мясо телки и кормила этим мясом мужа, никуда не отпуская. А он лежал на кровати, спал, вставал, ел, пил, приятно проводил время и жирел.</p>
+      <p>Однажды он тайком от жены взял ключ от кладовой, посмотрел, сколько, мол, осталось мяса от половины туши, и обнаружил, что осталось еще на один-два дня. Положил на место ключ и лег на кровать. Когда жена пришла, муж сказал: «Что-то мои глаза стали плохо видеть».</p>
+      <p>На другой день, когда взошло солнце, муж сказал: «Почему-то сегодня не рассветает». Жена очень обрадовалась: видно, он лишился зрения,</p>
+      <p>Прошло две недели, опятъ тайком взял ключи и, когда посмотрел, сколько осталось мяса, обнаружил, что мяса осталось на один день. Муж начал стонать в постели. Жена знала, что муж сегодня должен умереть. Вечером, когда стемнело, пришел человек с лопатой, и муж спросил у жены: «Кто это пришел? Жеиа, прими гостя, я ослаб». А любовник, как у себя дома лег спать на кровать в ожидании смерти мужа. Когда жена пошла с кувшином за водой, муж встал, взял последний кусок мяса из кастрюли, набрал в черпак горячего бульона и влил в рот любовнику. Сбросил его на пол, опрокинул на него кастрюлю с печи, пошел и лег в свою постель. Пришла жеиа с кувшином, наполненным водой, и подняла шум-гам: что, мол, здесь случилось? Что ли, гостъ умер? Муж сказал: «Был какой-то шум, я слепой, не смог разобраться, что тут к чему».Жена сильно расстроилась, что же, мол, теперь делать? Муж стал утешать ее и сказал: «Я слышал, если пером красного петуха прикоснуться, к слепому глазу, зрение восстанавливается». Пошла жена, принесла девять-десять перьев красного петуха, муж медленно провел по глазам, и зрение восстановилось. Потом муж ей же на спину положил любовника, а сам взял лопату и кирку. Они забрались далеко в лес, там он заставил жену копать могилу, куда и положили любовника. Ударом лопатой по голове повалил жену на тело любовника: мол, тебе тоже лучше здесь. Обоих засыпал землей, похоронил их и вернулся домой.</p>
+      <p>Взяв другую жену, говорят, «шейх» до сих пор бодр и живет себе спокойно.</p>
     </body>
-   </text>
-  </TEI>
-
-  
+  </text>
+</TEI>

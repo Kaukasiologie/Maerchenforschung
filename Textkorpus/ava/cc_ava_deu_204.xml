@@ -1,219 +1,245 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">I. Bašir und das Mädchen</title>
-    <author>
-     <name xml:id="WB">
-      <persName>
-       <forename>Winfried</forename>
-       <surname>Boeder</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
-    </author>
-    <author>
-     <name xml:id="EL">
-      <persName>
-       <forename>Ernst</forename>
-       <surname>Lewy</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
-    </author>
-    <author>
-     <name xml:id="JB">
-      <persName>
-       <forename>Johannes</forename>
-       <surname>Bechert</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">I. Bašir und das Mädchen</title>
+        <author>
+          <name xml:id="WB">
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <author>
+          <name xml:id="EL">
+            <persName>
+              <forename>Ernst</forename>
+              <surname>Lewy</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116977795">116977795</idno>
+        </author>
+        <author>
+          <name xml:id="JB">
+            <persName>
+              <forename>Johannes</forename>
+              <surname>Bechert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/115823581">115823581</idno>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Ernst Lewy Avar texts with translation. With comments, corrections and contributions from
        Johannes Bechert† and M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova and S. Šaxtamanov</title>
-     <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
+          <title xml:lang="deu">Ernst Lewy Awarische Texte mit Übersetzung. Mit Kommentaren, Korrekturen und Beiträgen von
        Johannes Bechert† sowie von M.-K. M. Gimbatov, Aina Kazimagomedova, P. A. Saidova und S. Šaxtamanov</title>
-     <author role="author">
-      <name ref="#WB">
-       <persName>
-        <forename>Winfried</forename>
-        <surname>Boeder</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#JB">
-       <persName>
-        <forename>Johannes</forename>
-        <surname>Bechert</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#EL">
-       <persName>
-        <forename>Ernst</forename>
-        <surname>Lewy</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
-     <distributor><ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
-     </distributor>
-     <date when="2007">The year 2007</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-    <bibl type="digitalSource">
-     <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_204.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
-      <item>Warnung vor sozialer Diskriminierung</item>
-      <item>Warnung vor ethnischen oder kulturellen Stereotypen</item>
-      <item>Warnung vor Schönheitsnormen und Körperidealen</item>
-      <item>Warnung vor diskriminierenden Darstellungen von Familienkonstellationen</item>
-      <item>Warnung vor der Idealisierung von Kriminalität</item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
-     <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
-     <district/>
-     <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
-     <geo/>
-    </placeName>
-    <date when="1918">1918</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Nazmuddin</forename>
-      <surname>Sajpudin</surname>
-     </persName>
-     <age>31</age>
-     <birth>
-      <date when="1887">1887</date>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
-       <settlement>Gunib</settlement>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName ref="#EL">
-      <forename>Ernst</forename>
-      <surname>Lewy</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName ref="#EL">
-      <forename>Ernst</forename>
-      <surname>Lewy</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_ava_deu_204">
-  <body>
-   <head>I. Bašir und das Mädchen </head>
-   <p><cb n="1"/> Ein König hatte zwei Söhne. Der ältere hieß Omar, der jüngere Bašir. Der König liebte den Sohn, der Basir hieß, sehr. Der König wurde krank. Er rief seine beiden Söhne zu sich. “O ihr meine Kinder, wenn ich plötzlich sterbe, dann ist mein Vermächtnis für euch: «Lebt einig miteinander.» Teilt mein nachgebliebenes Erbe zu gleichen Teilen.” Der König starb. <cb n="2"/> Nach dem Tod des Vaters hielt sich Omar nicht lange an das Vermächtnis des Vaters. Er fing an, Basir zu be­nachteiligen. Er dachte nach, auf welche Weise er sich Basirs entle­digen könnte. Basir erriet, was Omar vorhatte (“in Omars Herz war”). Basir bat Omar: “O du mein älterer Bruder Omar, gib mir ein Pferd zum Besteigen und Waffen zum Überhängen.” Omar gab Basir Pferd und Waffen. Nachdem er das Pferd bestiegen hatte, ob zum Leben, ob zum Tode, ging Basirweg. <cb n="3"/> Basir war ein sehr schöner Mann. Basir gelangte in irgendein Dorf (Aul). Dort fragte Basir nach einem Mann, bei dem er bleiben könnte. Ein reicher Mann nahm Basir zu sich, damit er den Hof kehre. Der reiche Mann hatte eine Tochter, die niemals die Welt gesehen hatte.<note place="bottom">1213 [[Cf.. georgisch mze-t-u-naxav-i Sonne-Plural-Negation-gesehen-Nominativ ‘ein sehr schönes Mädchen’, wörtlich: ‘welches die Sonne nicht gesehen hat’ (Avtandil Arabuli, Sprachwissenschaftliches Institut Tbilisi); die Übersetzung des awarischen Ausdrucks ist: ‘welches die Welt nicht gesehen hat’ (Ajna Kazimagomedova; Levan Azmaiparasvili). Anders E. Lewys Übersetzung!]]</note> Eines schönen Tages stieg Basir ins obere Zimmer. Er sah dieses schöne Mädchen, und das Mädchen sah Basir. Da verliebten sich die beiden <cb n="4"/> ineinander. Das Mädchen hieß Asijat. Sie sagte zu ihrer Dienerin: “Diesen Jemand rufe (du) zu <pb n="170"/>mir.” Die Dienerin sagte zu Asijat: “Schämst du dich nicht zu sagen: «Rufe diesen Jemand»?” Asijat wurde sehr zornig auf die Dienerin. Sie schrieb einen Brief und schickte ihn an Basir: “Du Jemand, sehen will ich (dich) sehr. Komm <cb n="5"/> zu mir. Basir schrieb auf Asijats Brief die Antwort: “Dein Brief hat mich erreicht. Deinem Brief entspre­chend zu dir zu kommen ist mir nicht möglich in Anbetracht meiner Niedrigkeit.” Asijat schrieb die Antwort: “Wie niedrig du auch sein magst, außer dir liebe ich niemanden.” Basir glaubte nicht Asijats Brief. Basirs Zimmer war am Eingang der Pforte. Eines Nachts <cb n="6"/> ging Asijat zu Basir. Als er zur Tür hineinging, (um)fasste sie Basirs Hals und gab ihm drei Küsse. Dann fragte Asijat Basir: “Woher bist du? Wie bist du hierher geraten?” Basir erzählte alles, was ihm geschehen war. Da liebte Asijat Basir noch mehr. Dann sagte Asijat: “Ich nehme Geld mit, das für unser Leben reicht. <cb n="7"/> Wir fliehen beide und nehmen gute Pferde zum Reiten für uns beide mit.” Asijat nahm alles Nötige, gute Pferde zum Reiten nahmen sie und flohen von dort fort. Es gab keine Pferde, die sie hätten einholen können, es gab sie nicht hinter (ihren) Pferden. Nach drei Tagen kamen sie auf einen Berg. Auf die­sem Berge fanden sie eine Feste. Die Feste erblickend, sagte Asijat: “Einmal habe ich <cb n="8"/> gehört, dass in dieser Feste Qarte <note place="bottom"> 1214 qart, хъарт ‘ведьма, баба-яга (Z. s.v.), Zauberin, Hexe’</note> leben. Das könnte diese Feste sein. Komm, lass uns umkehren.” Basir sagte zu Asijat: “Ohne diese Qarten gesehen zu haben, werde ich nicht umkeh­ren.” Da umzingelten die Qarten sie und führten sie in die Feste. Sie warfen sie in einen Kessel und fraßen die beiden auf. </p>
-  </body>
- </text>
+          <author role="author">
+            <name ref="#WB">
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#JB">
+              <persName>
+                <forename>Johannes</forename>
+                <surname>Bechert</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#EL">
+              <persName>
+                <forename>Ernst</forename>
+                <surname>Lewy</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>BIS-Verlag der Carl von Ossietzky Universität Oldenburg</publisher>
+          <distributor>
+            <ref target="http://oops.uni-oldenburg.de/3182/">Verlag, kostenfrei zugänglich</ref>
+          </distributor>
+          <date when="2007">The year 2007</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+        <bibl type="digitalSource">
+          <ref target="http://oops.uni-oldenburg.de/3182/">PDF Volltext</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ava_deu_204.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+            <item>Warnung vor sozialer Diskriminierung</item>
+            <item>Warnung vor ethnischen oder kulturellen Stereotypen</item>
+            <item>Warnung vor Schönheitsnormen und Körperidealen</item>
+            <item>Warnung vor diskriminierenden Darstellungen von Familienkonstellationen</item>
+            <item>Warnung vor der Idealisierung von Kriminalität</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Germany</country>
+          <region ref="https://www.geonames.org/2842566/saxony.html">Saxony</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/2940130/chemnitz.html">Kriegsgefangenenlager Chemnitz</settlement>
+          <geo/>
+        </placeName>
+        <date when="1918">1918</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Nazmuddin</forename>
+            <surname>Sajpudin</surname>
+          </persName>
+          <age>31</age>
+          <birth>
+            <date when="1887">1887</date>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/557977/gunibskiy-rayon.html">Gunibskiy Rayon</district>
+              <settlement>Gunib</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName ref="#EL">
+            <forename>Ernst</forename>
+            <surname>Lewy</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_ava_deu_204">
+    <body>
+      <head>I. Bašir und das Mädchen </head>
+      <p>
+        <cb n="1"/>
+         Ein König hatte zwei Söhne. Der ältere hieß Omar, der jüngere Bašir. Der König liebte den Sohn, der Basir hieß, sehr. Der König wurde krank. Er rief seine beiden Söhne zu sich. “O ihr meine Kinder, wenn ich plötzlich sterbe, dann ist mein Vermächtnis für euch: «Lebt einig miteinander.» Teilt mein nachgebliebenes Erbe zu gleichen Teilen.” Der König starb. 
+        <cb n="2"/>
+         Nach dem Tod des Vaters hielt sich Omar nicht lange an das Vermächtnis des Vaters. Er fing an, Basir zu be­nachteiligen. Er dachte nach, auf welche Weise er sich Basirs entle­digen könnte. Basir erriet, was Omar vorhatte (“in Omars Herz war”). Basir bat Omar: “O du mein älterer Bruder Omar, gib mir ein Pferd zum Besteigen und Waffen zum Überhängen.” Omar gab Basir Pferd und Waffen. Nachdem er das Pferd bestiegen hatte, ob zum Leben, ob zum Tode, ging Basirweg. 
+        <cb n="3"/>
+         Basir war ein sehr schöner Mann. Basir gelangte in irgendein Dorf (Aul). Dort fragte Basir nach einem Mann, bei dem er bleiben könnte. Ein reicher Mann nahm Basir zu sich, damit er den Hof kehre. Der reiche Mann hatte eine Tochter, die niemals die Welt gesehen hatte.
+        <note place="bottom">1213 [[Cf.. georgisch mze-t-u-naxav-i Sonne-Plural-Negation-gesehen-Nominativ ‘ein sehr schönes Mädchen’, wörtlich: ‘welches die Sonne nicht gesehen hat’ (Avtandil Arabuli, Sprachwissenschaftliches Institut Tbilisi); die Übersetzung des awarischen Ausdrucks ist: ‘welches die Welt nicht gesehen hat’ (Ajna Kazimagomedova; Levan Azmaiparasvili). Anders E. Lewys Übersetzung!]]</note>
+         Eines schönen Tages stieg Basir ins obere Zimmer. Er sah dieses schöne Mädchen, und das Mädchen sah Basir. Da verliebten sich die beiden 
+        <cb n="4"/>
+         ineinander. Das Mädchen hieß Asijat. Sie sagte zu ihrer Dienerin: “Diesen Jemand rufe (du) zu 
+        <pb n="170"/>
+        mir.” Die Dienerin sagte zu Asijat: “Schämst du dich nicht zu sagen: «Rufe diesen Jemand»?” Asijat wurde sehr zornig auf die Dienerin. Sie schrieb einen Brief und schickte ihn an Basir: “Du Jemand, sehen will ich (dich) sehr. Komm 
+        <cb n="5"/>
+         zu mir. Basir schrieb auf Asijats Brief die Antwort: “Dein Brief hat mich erreicht. Deinem Brief entspre­chend zu dir zu kommen ist mir nicht möglich in Anbetracht meiner Niedrigkeit.” Asijat schrieb die Antwort: “Wie niedrig du auch sein magst, außer dir liebe ich niemanden.” Basir glaubte nicht Asijats Brief. Basirs Zimmer war am Eingang der Pforte. Eines Nachts 
+        <cb n="6"/>
+         ging Asijat zu Basir. Als er zur Tür hineinging, (um)fasste sie Basirs Hals und gab ihm drei Küsse. Dann fragte Asijat Basir: “Woher bist du? Wie bist du hierher geraten?” Basir erzählte alles, was ihm geschehen war. Da liebte Asijat Basir noch mehr. Dann sagte Asijat: “Ich nehme Geld mit, das für unser Leben reicht. 
+        <cb n="7"/>
+         Wir fliehen beide und nehmen gute Pferde zum Reiten für uns beide mit.” Asijat nahm alles Nötige, gute Pferde zum Reiten nahmen sie und flohen von dort fort. Es gab keine Pferde, die sie hätten einholen können, es gab sie nicht hinter (ihren) Pferden. Nach drei Tagen kamen sie auf einen Berg. Auf die­sem Berge fanden sie eine Feste. Die Feste erblickend, sagte Asijat: “Einmal habe ich 
+        <cb n="8"/>
+         gehört, dass in dieser Feste Qarte 
+        <note place="bottom"> 1214 qart, хъарт ‘ведьма, баба-яга (Z. s.v.), Zauberin, Hexe’</note>
+         leben. Das könnte diese Feste sein. Komm, lass uns umkehren.” Basir sagte zu Asijat: “Ohne diese Qarten gesehen zu haben, werde ich nicht umkeh­ren.” Da umzingelten die Qarten sie und führten sie in die Feste. Sie warfen sie in einen Kessel und fraßen die beiden auf. 
+      </p>
+    </body>
+  </text>
 </TEI>

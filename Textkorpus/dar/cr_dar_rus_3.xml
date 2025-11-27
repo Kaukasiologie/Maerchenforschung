@@ -1,131 +1,178 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФ ИЯЛИ</institution>
-          <collection>Ф. 9. Оп. 1. Д. 421</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФ ИЯЛИ</institution>
+                <collection>Ф. 9. Оп. 1. Д. 421</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/551590/kaytagskiy-rayon.html">Kaytagskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/481675/trisanchi.html">Trisanchi</settlement>
-       <geo />
-      </placeName>
-      <date>1990</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">З.</forename>
-        <surname xml:lang="rus">Халиловой</surname>
-       </persName>
-       <age>86</age>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">С.</forename>
-        <surname xml:lang="rus">Темирбулатова</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Ф.А.</forename>
-        <surname xml:lang="rus">Алиева</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="dar">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/551590/kaytagskiy-rayon.html">Kaytagskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/481675/trisanchi.html">Trisanchi</settlement>
+          <geo/>
+        </placeName>
+        <date>1990</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">З.</forename>
+            <surname xml:lang="rus">Халиловой</surname>
+          </persName>
+          <age>86</age>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">С.</forename>
+            <surname xml:lang="rus">Темирбулатова</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Ф.А.</forename>
+            <surname xml:lang="rus">Алиева</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_3">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_3">
     <body>
-     <head> 22 Как сын талхана нашел невесту, унесенную тучей (дарг.) </head>
-     <p>жил талхан сына дочери талхан состарился заболел завещал сыновьям пришел сватать моих дочерей существо летающее воздуху ходящее земле выдайте сделав такое завещание умер прошло год года смерти отца</p><p>однажды ночью сотрясая вокруг землю явился беркут</p><p>валлах пришел сватать вашу старшую сестру сказал согласитесь выдать</p><p>сестры отдать беркута сказали старшие братья</p><p>будем нарушать завещание отца возразил младший брат отдадим сестру</p><p>отдали беркуту несколько дней пришел мельник сватать среднюю сестру</p><p>дочь талхана мельнику отдают спрашивают старшие братья</p><p>младший брат выполнил завещание отца</p><p>выдали среднюю сестру мельника младшую сестру прилетел сватать сокол отдали младшую сестру сокола</p><p>устроили сестер наверное нам жениться сказали старшие братья</p><p>сыграли пышные свадьбы женились братья дочерях визиря векила младший оставался неженатым однажды ночью увидел сне девушку братья сразу послали сватов девушке родители согласились привели</p><p>первую брачную ночь убранной комнате прилетела туча подхватила девушку унесла младший брат гневе зная делать</p><p>пусть погибну мире найду сказал отправился поиски</p><p>шел шел прошел довольно долгий путь издали увидел большой дворец который возвышался лесом наступала ночь направился прямо ко дворцу смотрит старшая сестра видит идет брат</p><p>умрет твоя сестра глухом уголке среди диких зверей заходи заходи сказала завела брата дом</p><p>хозяин дома спрашивает брат</p><p>хозяин охоте ответила сестра время возвращаться пока спрячься</p><p>внезапно поднялся сильный ветер взмахов крыльев беркута закачались верхушки деревьев вошел беркут</p><p>уф чувствую человеческий запах говорит</p><p>откуда человеческому запаху говорит сестра пропускаешь летающих воздуху ходящих земле братьев моих пощадил спрашивает</p><p>обоих старших пощадил пришел младший будь две души одну отдал</p><p>это этими словами брат вышел тайника поздоровались сели</p><p>пришел</p><p>валлах мою невесту украли найду умру говорит парень</p><p>умрет твоя сестра вокруг других невест пойдет любая искать погибнешь пропадешь</p><p>нужна жизнь ответил</p><p>рассвело юноша отправился путь шел шел очень устал проголодался добрался большой реки посмотрел вверх течению реки вершине одной горы увидел дворец краше вчерашнего пошел прямо этому дворцу окна дворца выглянула средняя сестра видит идет брат</p><p>ах умрет твоя сестра оказался говорит плача обнимая брата давно видела братьев соскучилась сестра привела дом приготовила вкусную еду накормила</p><p>обычно муж возвращается злой спрячься говорит спрячься</p><p>брат спрятался комнате</p><p>мельник возвратился сердитый раздраженный поясе висела косуля</p><p>уф чувствую человеческий запах говорит</p><p>откуда человеческому запаху удивилась сестра щадишь приходящего уходящего моих братьев пощадил</p><p>старших пощадил пришел младший будь две души одну отдал</p><p>сказав младший брат вышел комнаты</p><p>оказали гостю большое уважение оставили уложили самое хорошее место сестра присела рядом тревогой говорит</p><p>сможешь найти унесенную тучей ходи</p><p>прислушался словам сестры рано утром отправился поиски невесты</p><p>третью ночь увидел дворец красивее прежних дворец принадлежал младшей сестре мужу соколу младшая сестра спрятала брата возвращения мужа</p><p>чувствую запах человека говорит сокол</p><p>откуда человеку летающего воздуху ловишь ходящего земле пропускаешь моих братьев пощадил спрашивает</p><p>старших одним укусом съел одним глотком проглотил младшему двух душ одну отдал говорит</p><p>сказал вышел</p><p>встретили почестями накормили лучшей едой уложили лучшее место утром встал снова отправился путь солнце садилось добрался одного дворца окна увидел невесту захотел направиться увидел лежащего ворот аждаху вытащил кинжал аждаха опередил разрубил куски аждаха ушел дворца вышла девушка собрала куски завернула простыню отправилась старшей сестре</p><p>старшая сестра сложила сустав суставу сосуд сосуду собрала тело провела ранам лечебным листом сбрызнула лечебной водой части тела склеились тело парня соединилось затем пришел беркут отдал одну своих душ оживил</p><p>следующий день младший брат снова пошел аждахе аждаха спал разрубил куски невеста отправила куски средней сестре второй мельник отдал душу оживил пошел аждаху третий аждаха разрубил куски</p><p>сокол отдал душу оживил</p><p>парень пошел спящему аждахе разрубил куски забрал жену позвал трех сестер свадьбу пошел ними домой</p><p>сыграли большую свадьбу семь дней семь ночей играли музыканты рождались красивые мальчики девочки остались пришел сюда</p></body>
-   </text>
-  </TEI>
-
-  
+      <head> 22 Как сын талхана нашел невесту, унесенную тучей (дарг.) </head>
+      <p>жил талхан сына дочери талхан состарился заболел завещал сыновьям пришел сватать моих дочерей существо летающее воздуху ходящее земле выдайте сделав такое завещание умер прошло год года смерти отца</p>
+      <p>однажды ночью сотрясая вокруг землю явился беркут</p>
+      <p>валлах пришел сватать вашу старшую сестру сказал согласитесь выдать</p>
+      <p>сестры отдать беркута сказали старшие братья</p>
+      <p>будем нарушать завещание отца возразил младший брат отдадим сестру</p>
+      <p>отдали беркуту несколько дней пришел мельник сватать среднюю сестру</p>
+      <p>дочь талхана мельнику отдают спрашивают старшие братья</p>
+      <p>младший брат выполнил завещание отца</p>
+      <p>выдали среднюю сестру мельника младшую сестру прилетел сватать сокол отдали младшую сестру сокола</p>
+      <p>устроили сестер наверное нам жениться сказали старшие братья</p>
+      <p>сыграли пышные свадьбы женились братья дочерях визиря векила младший оставался неженатым однажды ночью увидел сне девушку братья сразу послали сватов девушке родители согласились привели</p>
+      <p>первую брачную ночь убранной комнате прилетела туча подхватила девушку унесла младший брат гневе зная делать</p>
+      <p>пусть погибну мире найду сказал отправился поиски</p>
+      <p>шел шел прошел довольно долгий путь издали увидел большой дворец который возвышался лесом наступала ночь направился прямо ко дворцу смотрит старшая сестра видит идет брат</p>
+      <p>умрет твоя сестра глухом уголке среди диких зверей заходи заходи сказала завела брата дом</p>
+      <p>хозяин дома спрашивает брат</p>
+      <p>хозяин охоте ответила сестра время возвращаться пока спрячься</p>
+      <p>внезапно поднялся сильный ветер взмахов крыльев беркута закачались верхушки деревьев вошел беркут</p>
+      <p>уф чувствую человеческий запах говорит</p>
+      <p>откуда человеческому запаху говорит сестра пропускаешь летающих воздуху ходящих земле братьев моих пощадил спрашивает</p>
+      <p>обоих старших пощадил пришел младший будь две души одну отдал</p>
+      <p>это этими словами брат вышел тайника поздоровались сели</p>
+      <p>пришел</p>
+      <p>валлах мою невесту украли найду умру говорит парень</p>
+      <p>умрет твоя сестра вокруг других невест пойдет любая искать погибнешь пропадешь</p>
+      <p>нужна жизнь ответил</p>
+      <p>рассвело юноша отправился путь шел шел очень устал проголодался добрался большой реки посмотрел вверх течению реки вершине одной горы увидел дворец краше вчерашнего пошел прямо этому дворцу окна дворца выглянула средняя сестра видит идет брат</p>
+      <p>ах умрет твоя сестра оказался говорит плача обнимая брата давно видела братьев соскучилась сестра привела дом приготовила вкусную еду накормила</p>
+      <p>обычно муж возвращается злой спрячься говорит спрячься</p>
+      <p>брат спрятался комнате</p>
+      <p>мельник возвратился сердитый раздраженный поясе висела косуля</p>
+      <p>уф чувствую человеческий запах говорит</p>
+      <p>откуда человеческому запаху удивилась сестра щадишь приходящего уходящего моих братьев пощадил</p>
+      <p>старших пощадил пришел младший будь две души одну отдал</p>
+      <p>сказав младший брат вышел комнаты</p>
+      <p>оказали гостю большое уважение оставили уложили самое хорошее место сестра присела рядом тревогой говорит</p>
+      <p>сможешь найти унесенную тучей ходи</p>
+      <p>прислушался словам сестры рано утром отправился поиски невесты</p>
+      <p>третью ночь увидел дворец красивее прежних дворец принадлежал младшей сестре мужу соколу младшая сестра спрятала брата возвращения мужа</p>
+      <p>чувствую запах человека говорит сокол</p>
+      <p>откуда человеку летающего воздуху ловишь ходящего земле пропускаешь моих братьев пощадил спрашивает</p>
+      <p>старших одним укусом съел одним глотком проглотил младшему двух душ одну отдал говорит</p>
+      <p>сказал вышел</p>
+      <p>встретили почестями накормили лучшей едой уложили лучшее место утром встал снова отправился путь солнце садилось добрался одного дворца окна увидел невесту захотел направиться увидел лежащего ворот аждаху вытащил кинжал аждаха опередил разрубил куски аждаха ушел дворца вышла девушка собрала куски завернула простыню отправилась старшей сестре</p>
+      <p>старшая сестра сложила сустав суставу сосуд сосуду собрала тело провела ранам лечебным листом сбрызнула лечебной водой части тела склеились тело парня соединилось затем пришел беркут отдал одну своих душ оживил</p>
+      <p>следующий день младший брат снова пошел аждахе аждаха спал разрубил куски невеста отправила куски средней сестре второй мельник отдал душу оживил пошел аждаху третий аждаха разрубил куски</p>
+      <p>сокол отдал душу оживил</p>
+      <p>парень пошел спящему аждахе разрубил куски забрал жену позвал трех сестер свадьбу пошел ними домой</p>
+      <p>сыграли большую свадьбу семь дней семь ночей играли музыканты рождались красивые мальчики девочки остались пришел сюда</p>
+    </body>
+  </text>
+</TEI>

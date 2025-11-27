@@ -1,239 +1,268 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">4. König Musarbii</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_9.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-     <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date notAfter="1880-12-31">notAfter 1914.05.31</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <date/>
-      <placeName>
-       <country/>
-       <region/>
-       <district/>
-       <settlement/>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">133697460>
-      <forename>Iosif Alekseevich</forename>
-      <surname>Kipshidze</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_9">
-  <body>
-   <head>König Musarbii</head>
-   <p>Es war einmal ein König Musarbii. Er hatte niemanden außer einer Tochter. Er besaß einen großen Burgturm, von dem aus er allabendlich laut in sein Reich rufen mußte, um die Riesen zu erschrecken, die das Volk dieses Herrschers überfielen und zugrunde richteten. Wenn Musarbii vom <pb n="17"/> Turm hinabrief, dann konnten es die Riesen in jener Nacht nicht wagen, in sein Reich einzudringen, um die Leute umzubringen. Auf diese Weise schützte Musarbii nachts mit seiner Stimme sein Reich, soweit sein Ruf reichte. Tagsüber trug er seinen Bogen und seine Pfeile umher. Stieß er irgendwo auf einen Riesen, so schlug er ihm wie einer Spaltzwiebel den Kopf ab. </p>
-   <p>Musarbii hatte eine Frau, der das Oberhaupt der Riesen, der zwölfköpfige Kashindem, gefiel. Inzwischen kam Musarbiis Tod heran. Musarbiis Tod erfreute seine Frau, denn schon lange gefiel ihr Kashindem, aber bis jetzt hatte sie nichts tun können. Was sie versucht hatte, hatte sie versucht, aber sie hatte ihr Verlangen ihrer Tochter nicht verheimlichen können. Die Tochter hatte doch bemerkt, daß ihre Mutter einen Riesen heiraten wollte. Die Frau gewahrte, daß sie schwanger war, und deshalb nahm sie Rücksicht auf ihre Tochter, denn wenn sie mit Gott das Kind zur Welt gebracht hätte, würde sie nicht mehr auf sie achten und dem Mann folgen, den sie sich erkoren hatte. Auch das müssen wir sagen: Die Frau wollte nicht, daß jemand sah, daß sie ein Kind bekam, sie wollte es heimlich verschwinden lassen. Auf Gottes Fügung erkannte die Tochter, daß ihre Mutter nicht wollte, daß jemand von ihrer Schwangerschaft erfuhr. </p>
-   <p>Die Tochter sprach: "Gott zürnt uns, das ist es. Was tut es jetzt, daß wir hier sind? Ohne meinen Vater werden uns die Riesen heute oder morgen auffressen. Es ist besser, in die Berge zu gehen und eine kurze Zeit dort zu verbringen.” </p>
-   <p>Das wies die Mutter von sich und sagte: "Ich bin alt, ob mich ein Riese verschleppt oder der Tod mitnimmt, ist mir alles gleich. Du, mein Kind, tu, was du willst, wohin soll ich mich denn noch in meinem Alter schleppen!"</p>
-   <p>"Es geht nicht an, daß du nicht fortgehst", sagte die Tochter. "Mach dich auf der Stelle fertig und folge mir, wohin ich gehe, sonst bringe ich mich hier vor dir um.”Die Mutter wunderte sich über diese Worte der Tochter. Sie trafen Vorbereitungen und zogen in die Berge. Die ganze Habe ließen sie dort und nahmen nur das mit, was sie zu fragen vermochten. In den Bergen fanden sie eine Höhle, und dort schlugen sie ihr Lager auf. Das machten sie heimlich: Niemand wußte, wohin Mutter und Kind gegangen waren. Sie rupften schmackhafte Kräuter, breiteten sie auf dem Felsen aus und ernährten sich davon. Die Zeit verging. Eines Morgens ging die Tochter der Frau, um Kräuter zu rupfen. Eine Weile blieb sie dort. Inzwischen bekam die Mutter Wehen und gebar ein Kind, halb aus Gold und halb aus Silber, Die Frau hob ihr Kind auf und legte es unter einen großen Stein. Als die Tochter kam, begriff sie sofort, was in ihrer Abwesenheit geschehen war, und sprach zur Mutter: "Was ist das, daß du so bleich bist, sag es mir, sonst <pb n="18"/> bringe ich mich vor dir um."</p>
-   <p>“Was soll schon mit mir sein, Kind? Ein armseliges Kind habe ich zur Welt gebracht und da unter dem Stein begraben." </p>
-   <p>Die Tochter stürzte zu dem Stein hin, hob ihn empor und brachte einen Jungen hervor, zur Hälfte aus Gold und zur Hälfte aus Silber, Vor Freude war das Mädchen außer sich. Sie sprach: "Was immer es ist, es ist Gottes Gnade.” </p>
-   <p>Ein Junge ist es, aber was für ein Junge: Morgen ist er besser als heute, übermorgen besser als morgen. Sein Gesicht leuchtet wie die Sonne, daß man es nicht ansehen kann. Mit drei Tagen sah er wie ein Dreijähriger aus. Er begann zu laufen. Als er zehn, zwölf Tage alt wurde, begann er zu jagen. Er ergriff einen Stock, warf ihn und trennte den Vögeln den Kopf ab. Eine Weile verging, und der Bruder sagte zu seiner Schwester: "Mach mir ein solches Ding, daß ich schießen kann." Die Schwester schnitt eine Rute ab, fertigte einen einfachen Bogen, riß sich ein Haar vom Kopf aus, zwirnte es und band es an den Bogen. Seither begann der Junge besser zu jagen. Morgens zog er aus, und abends kehrte er, mit Wildbret beladen, heim. So ließ er es der Schwester und der Mutter nicht an Nahrung fehlen. Die Mutter freute sich nicht sehr darüber. Je mehr Zeit verging, desto weiter zog der Junge auf die Jagd. Erst spät am Abend, wenn es dämmerte, kehrte er zurück, aber er hatte noch keines Menschen Behausung gesehen.</p>
-   <p>Eines Morgens sprang er mit der Dämmerung auf, er wollte an diesem Tag eine weitere Gegend durchstreifen. Er lief und gelangte zu einem Hügel mit ebener Oberfläche, und als er Ausschau hielt, sah er Schlösser und den Burgturm seines Vaters und andere Dinge. So etwas hatte der Junge sein Lebtag nicht gesehen, und er wunderte sich: "Was ist das, was ich da gesehen habe?" Und er wollte gern erfahren, was es damit für ein Bewenden hatte, aber er hatte niemanden, den er fragen konnte. Er fürchtete sich, allein von den Bergen hinabzusteigen und es sich anzusehen, weil er gegen Sonnenaufgang lief. Wenn er nicht zur Zeit nach Hause kam, würde die Schwester zu schreien beginnen. Was sollte er tun? "Ach”, sagte er, "geschehe, was geschehen soll." Er sprang auf und lief los. Mit der Schnelligkeit eines Augenblicks rannte er vom Beg herab und ging zu einem Haus hin, aber er begegnete niemandem, ebenso beim zweiten. Im dritten Haus sah er eine alte Frau sitzen. Sie saß an der Feuerstelle und jammerte. Als sie aufblickte, erkannte sie, daß an der Tür ein Junge von unvorstellbarer Schönheit stand. Sie sprach zu ihm: "Laß mich wie eine Mutter zu dir sein, du bist sicher der Sohn eines Christenmenschen. Warum hast du dir das angetan? Hier gehen die Riesen umher und bringen die Leute um. An diesem Ort ist niemand außer mir geblieben, und auch mich werden sie morgen holen. Dies ist das Schloß des Königs Musarbii, der <pb n="19"/> ohne Thronfolger aus dem Leben geschieden ist, Bei seinem Tod hat er eine Frau und eine Tochter hinterlassen, aber sie sind verschwunden, daß niemand weiß, wo sie sind." </p>
-   <p>Jetzt erfuhr der Junge alles, wer er war und wessen Sohn er war. Er freute sich darüber, Er fragte die Alte aus, wann die Riesen kamen. Dann sprang er auf und lief nach. Hause, Unterwegs erlegte er etwas Wild und nahm es mit. Beim Abendbrot fragte der Junge die Mutter: "Mutti, sag mir doch, woher wir gekommen sind!" </p>
-   <p>Die Mutter sagte: "Wir sind von nirgendwoher gekommen, Kind!" </p>
-   <p>Die Schwester wollte dem Bruder alles sagen, doch sie fürchtete sich vor der Mutter. Der Junge fragte die Mutter nichts weiter.</p>
-   <p>Kaum begann es am nächsten Tag zu dämmern, sprang der Junge auf und zog dorthin, wo er gestern gewesen war. Sobald die Alte ihn erblickte, erhob sie sich und lief ihm entgegen. Sie umarmte und küßte ihn und erzählte ihm alles, was sie gesehen hatte und was sie über den König Musarbii wußte. Als der Junge erfuhr, daß Pfeil und Bogen seines Vaters in dem Burgturm lagen, rannte er hinauf und brachte sie herunter. Zu der alten Frau sagte er: "Wenn der Riese kommt, darfst du dich dort, wo du sitzt, nicht rühren." </p>
-   <p>Er selbst ging und verbarg sich hinter der Tür. Als die Sonne sich neigte und der Junge sich umblickte, sah er, daß der Riese kam und alles zu Boden warf. Der Riese kam bis zur Tür, und als er die Alte verschlingen wollte, spannte der Junge den Bogen, traf den Riesen mit kräftigem Schuß und trennte ihm den Kopf ab. Er holte die Alte zu Hilfe und begrub den Toten in der Erde. Was hätte der armen Alten jetzt noch gefehlt, da Gott ihr so einen Retter gesandt hatte. Der Junge versteckte Pfeil und Bogen, die ihm sein Vater hinterlassen hatte, nahm seinen eigenen Pfeil und Bogen und ging nach Hause. Auf dem Rückweg erlegte er etwas Wild und brachte es nach Hause. Am nächsten Tag ging er wieder fort und lauerte dem auf, den er nach den Worten der Frau erwartete. Die alte Frau sagte: "Der zweite Riese kommt.” </p>
-   <p>Der Junge blickte auf und vernahm die Stimme des Riesen: "Komm her, Alte, und sage mir, wohin mein Bruder gegangen ist.” </p>
-   <p>Die alte Frau hörte nicht auf ihn. Da drang der Riese, außer sich vor Wut, bis zur Tür vor und wollte die Alte verschlingen. Der Junge schoß mit Pfeil und Bogen und riß ihm den Kopf ab. Sie halfen sich gegenseitig und begruben auch ihn. Auf diese Weise ließ der Junge am dritten Tag auch den dritten Riesen verschwinden. Das Oberhaupt der Riesen Kashindem blieb noch übrig. Dieser Kashindem hatte zwölf Köpfe. Es hieß, niemand vermochte ihn zu töten. </p>
-   <p>Am vierten Tag kam der Junge wieder und lauerte diesem vierten Riesen <pb n="20"/> auf. "Heute wird sich mein Schicksal entscheiden", sagte er. </p>
-   <p>Die Erde, das Haus, alles begann zu beben. Der Junge fragte: "Was ist los?"</p>
-   <p>"Kashindem kommt“, sagte die alte Frau. </p>
-   <p>Tatsächlich nahte der Riese und brüllte dabei: "Schere dich hierher, Alte, und sage mir, wohin meine Brüder gegangen sind, sonst ist deines Bleiben nicht länger.” </p>
-   <p>Die alte Frau tat, als hörte sie nicht. Der Riese stürzte zur Tür hin, er sperrte den Rachen weit auf, um die Alte zu verschlingen. Doch der Junge ließ ihm keine Zeit und schoß ihm mit Pfeil und Bogen alle zwölf Köpfe ab. Er blickte sich um und sah, daß alle zwölf Köpfe wieder nachwuchsen. Er lief um sie herum, nahm die Waffe und trennte ihm nochmals alle zwölf Köpfe ab. Sie wuchsen wieder, und wieder riß er sie ab. Doch nichts konnte ihm so helfen. Wenn er sie abschoß, wuchsen sie stets nach. Da kam ein Zaunkönig geflogen, setzte sich auf die Tür und begann zu wippen und rief dazu: "Asche, Asche." Eilig lief die Alte los, holte eine Tonpfanne, kratzte Asche zusammen, und wenn der Junge die Köpfe abtrennte, warf sie dem Riesen Asche darauf. Da wuchsen sie nicht wieder. So halfen sie sich wieder, hackten den Riesen in Stücke und begruben auch ihn. </p>
-   <p>Die alte Frau sagte dem Jungen, mehr gäbe es auf der Welt nicht zu fürchten. Weil sie soviel Angst ausgestanden hatte, vergaß sie vor Freude alles: Sie küßte den Jungen und liebkoste ihn. Als sie ihn genug geherzt hatte, kehrte der Junge müde nach Hause zurück. Kaum war er angekommen, legte er sich sogleich schlafen. </p>
-   <p>Die Schwester fragte ihn: "Was ist, daß du so müde und erschöpft bist?" </p>
-   <p>Der Junge sagte an jenem Tag nichts. Am nächsten Tag wollte er die Mutter nochmals prüfen und fragte: "Sage mir, wessen Sohn ich bin." </p>
-   <p>Die Mutter verheimlichte es ihm wieder. Schließlich verriet der Junge der Schwester und der Mutter, wo er in den vier Tagen gewesen war, wen er gesehen und was er getan hatte. Die Schwester konnte sich vor Freude nicht beherrschen und sagte: "Du bist der Sohn von jenem Musarbii, mit dessen Pfeil und Bogen du die Riesen ausgerottet hast." </p>
-   <p>Die Mutter rechtfertigte sich damit, daß sie nicht gewollt habe, daß ihr Sohn durch die Riesen zu Tode käme., Der Junge nahm seine Schwester und die Mutter und zog erfreut zum Wohnsitz seines Vaters. Als die Sonne aufging, stieg er wie sein Vater auf die Spitze des Burgturms hinauf und schrie so laut, daß er die Steine erbeben ließ. Als das Volk das hörte, wunderte es sich über das, was da vorging, und sprach: "Was sollte denn Musarbii wieder auf die Beine gebracht haben, wer ist da wohl an seiner Stelle hergekommen?" </p>
-   <p>Am nächsten Tag benachrichtigten sie sich gegenseitig. Wer oben wohnte <pb n="21"/> oder in einer Erdhütte saß, alle versammelten sich und liefen zum Schloß, um in Erfahrung zu bringen, wer gekommen war. Als sie erfuhren, daß Musarbiis Sohn gekommen war und alle Riesen vernichtet hatte, blieb ihnen vor Freude kein Fuß auf der Erde stehen. Sie beglückwünschten Musarbiis Sohn zu seiner Herrschaft und zerstreuten sich erfreut in ihre Häuser." </p>
-   <p>Die Mutter des Jungen empfand überhaupt keine Freude über Kashindems Tod. Als sie erfuhr, wo er begraben lag, ging sie jeden Morgen hin und ließ ihr Wasser über dem Riesen. Am dritten Tag hörte sie es unter der Erde sprechen: "Wer bist du Christenmensch, der mich mit Wasser übergießt, kannst du nicht eine Handvoll Erde von mir wegfegen?" </p>
-   <p>Die Frau entfernte tatsächlich die krümelige Erde, Da tat sich der Boden auf, und der Riese stieg heraus. Die Frau verwandelte den Riesen in eine Fliege und schloß ihn in einer Truhe ein. Als einige Zeit vergangen war, brachte die Mutter ihrem Sohn daumendicke Schuhe und sprach: "Du bist kein Mann wie dein Vater. Dein Vater hat solches Schuhwerk getragen." </p>
-   <p>Das kränkte den Jungen: Ich soll nicht wie mein Vater sein? Er nahm die Schuhe und sagte: "Ich werde sie anziehen.” Und er bog den Fuß, und brach er sich dabei nicht das rechte Bein?! Die Mutter sprang zur Truhe hin und ließ die Fliege heraus. Die Fliege verwandelte sich in den Riesen und fiel über den Jungen her. Beide begannen zu kämpfen. Wie sie miteinander rangen, hob der Junge den Riesen, auf einem Bein stehend, empor und stieß ihn wie einen Pfahl bis zu den Knien in die Erde. Die Mutter sah, daß der Junge dabei war, den Riesen zu bezwingen. Da ging sie hin und streute ihrem Sohn Hirsekörner unter den Fuß. Der Riese wandte sich zu dem Jungen um und warf ihn zu Boden, setzte ihm den Fuß auf die Brust und riß ihn in Stücke, Die Mutter und Kashindem stiegen in den Burgturm hinauf. Die Schwester kam herab und sah, daß ihr Bruder wie Zunder zerfetzt dalag. Blitzschnell las sie alles auf, warf es in einen Sack und floh zu dem Berg, wo sie vorher gewesen war. Kaum war sie in der Höhle angelangt, setzte sie sofort die zerfetzten Teile des Bruders zusammen und saß drei Tage und drei Nächte dabei, beweinte ihn und flehte Gott unter Tränen an. Am dritten Tag regte sich der Junge und erwachte wie ein Schlafender, Er sagte zur Schwester: "Ich werde jetzt nach Hause gehen., Folge mir kurze Zeit später."</p>
-   <p>Die Schwester hörte auf ihn. Der Junge lief heimlich nach Hause und sagte zu der alten Frau: "Geh hinaus und rufe: Musarbii ist auferstanden! Musarbii ist auferstanden!” </p>
-   <p>Die Alte hörte auf ihn und stürzte schreiend hinaus. Als die Frau und ihr Mann den Ruf vernahmen, eilten sie sofort ins Freie. Inzwischen sprang der Junge auf den Turm hinauf, holte rasch Pfeil und Bogen herbei, schoß auf <pb n="22"/> Kashindem und riß ihm alle zwölf Köpfe ab. Die Alte lief um ihn herum und streute dem Riesen Asche auf den Kopf. Der Junge wandte sich ihm zu und hieb den Riesen in Stücke. Er zündete ein riesiges Feuer an, verbrannte ihn und verwandelte ihn in Asche. Auch die Schwester kam herbei. Sie freute sich sehr, als sie sah, daß ihr Bruder gesiegt hatte.</p>
-   <p>Kaum hatte die Mutter erfahren, daß man den Riesen getötet hatte, flüchtete sie in den Turm hinauf und schloß sich dort ein. </p>
-   <p>Früher hatten die Schwester und diese alte Frau dem Jungen gesagt: "Bisher haben wir es nicht gewagt, dir zu sagen: Dein Vater besaß ein Pferd, das jetzt in dem und dem Gewölbe angebunden ist. Wenn es dir gelingt, dich auf dieses Pferd zu setzen, wird es dich an nichts fehlen lassen."</p>
-   <p>Sogleich führte Musarbiis Erbe das Pferd heraus und schwang sich wie ein Vogel darauf. Das Pferd stieg in die Höhe und wollte den Reiter am Himmel zerquetschen, doch der Junge drückte sich an seinen Bauch. Das</p>
-   <p>Pferd wollte ihn am Boden zerdrücken, doch der Junge klammerte sich an die Flanke. Als es ihn an einem Berg zerdrücken wollte, schwang er sich auf die andere Seite, So konnte ihm das Pferd nichts antun. Schließlich zerrte der Junge seine Mutter an den Haaren heraus, band sie an den Schweif des Pferdes und ließ sie an Ort und Stelle zerfetzen.</p>
-   <p>Mein Märchen habe ich zu Ende erzählt. Gestern war ich dort, heute bin ich hierhergekommen. Drei Äpfel, drei Granatäpfel, Gott wehre euch nicht, was ihr eigenhändig eingebracht habt.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">4. König Musarbii</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_9.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1914.05.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/133697460">
+            133697460&gt;
+            <forename>Iosif Alekseevich</forename>
+            <surname>Kipshidze</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_9">
+    <body>
+      <head>König Musarbii</head>
+      <p>
+        Es war einmal ein König Musarbii. Er hatte niemanden außer einer Tochter. Er besaß einen großen Burgturm, von dem aus er allabendlich laut in sein Reich rufen mußte, um die Riesen zu erschrecken, die das Volk dieses Herrschers überfielen und zugrunde richteten. Wenn Musarbii vom 
+        <pb n="17"/>
+         Turm hinabrief, dann konnten es die Riesen in jener Nacht nicht wagen, in sein Reich einzudringen, um die Leute umzubringen. Auf diese Weise schützte Musarbii nachts mit seiner Stimme sein Reich, soweit sein Ruf reichte. Tagsüber trug er seinen Bogen und seine Pfeile umher. Stieß er irgendwo auf einen Riesen, so schlug er ihm wie einer Spaltzwiebel den Kopf ab. 
+      </p>
+      <p>Musarbii hatte eine Frau, der das Oberhaupt der Riesen, der zwölfköpfige Kashindem, gefiel. Inzwischen kam Musarbiis Tod heran. Musarbiis Tod erfreute seine Frau, denn schon lange gefiel ihr Kashindem, aber bis jetzt hatte sie nichts tun können. Was sie versucht hatte, hatte sie versucht, aber sie hatte ihr Verlangen ihrer Tochter nicht verheimlichen können. Die Tochter hatte doch bemerkt, daß ihre Mutter einen Riesen heiraten wollte. Die Frau gewahrte, daß sie schwanger war, und deshalb nahm sie Rücksicht auf ihre Tochter, denn wenn sie mit Gott das Kind zur Welt gebracht hätte, würde sie nicht mehr auf sie achten und dem Mann folgen, den sie sich erkoren hatte. Auch das müssen wir sagen: Die Frau wollte nicht, daß jemand sah, daß sie ein Kind bekam, sie wollte es heimlich verschwinden lassen. Auf Gottes Fügung erkannte die Tochter, daß ihre Mutter nicht wollte, daß jemand von ihrer Schwangerschaft erfuhr. </p>
+      <p>Die Tochter sprach: &quot;Gott zürnt uns, das ist es. Was tut es jetzt, daß wir hier sind? Ohne meinen Vater werden uns die Riesen heute oder morgen auffressen. Es ist besser, in die Berge zu gehen und eine kurze Zeit dort zu verbringen.” </p>
+      <p>Das wies die Mutter von sich und sagte: &quot;Ich bin alt, ob mich ein Riese verschleppt oder der Tod mitnimmt, ist mir alles gleich. Du, mein Kind, tu, was du willst, wohin soll ich mich denn noch in meinem Alter schleppen!&quot;</p>
+      <p>
+        &quot;Es geht nicht an, daß du nicht fortgehst&quot;, sagte die Tochter. &quot;Mach dich auf der Stelle fertig und folge mir, wohin ich gehe, sonst bringe ich mich hier vor dir um.”Die Mutter wunderte sich über diese Worte der Tochter. Sie trafen Vorbereitungen und zogen in die Berge. Die ganze Habe ließen sie dort und nahmen nur das mit, was sie zu fragen vermochten. In den Bergen fanden sie eine Höhle, und dort schlugen sie ihr Lager auf. Das machten sie heimlich: Niemand wußte, wohin Mutter und Kind gegangen waren. Sie rupften schmackhafte Kräuter, breiteten sie auf dem Felsen aus und ernährten sich davon. Die Zeit verging. Eines Morgens ging die Tochter der Frau, um Kräuter zu rupfen. Eine Weile blieb sie dort. Inzwischen bekam die Mutter Wehen und gebar ein Kind, halb aus Gold und halb aus Silber, Die Frau hob ihr Kind auf und legte es unter einen großen Stein. Als die Tochter kam, begriff sie sofort, was in ihrer Abwesenheit geschehen war, und sprach zur Mutter: &quot;Was ist das, daß du so bleich bist, sag es mir, sonst 
+        <pb n="18"/>
+         bringe ich mich vor dir um.&quot;
+      </p>
+      <p>“Was soll schon mit mir sein, Kind? Ein armseliges Kind habe ich zur Welt gebracht und da unter dem Stein begraben.&quot; </p>
+      <p>Die Tochter stürzte zu dem Stein hin, hob ihn empor und brachte einen Jungen hervor, zur Hälfte aus Gold und zur Hälfte aus Silber, Vor Freude war das Mädchen außer sich. Sie sprach: &quot;Was immer es ist, es ist Gottes Gnade.” </p>
+      <p>Ein Junge ist es, aber was für ein Junge: Morgen ist er besser als heute, übermorgen besser als morgen. Sein Gesicht leuchtet wie die Sonne, daß man es nicht ansehen kann. Mit drei Tagen sah er wie ein Dreijähriger aus. Er begann zu laufen. Als er zehn, zwölf Tage alt wurde, begann er zu jagen. Er ergriff einen Stock, warf ihn und trennte den Vögeln den Kopf ab. Eine Weile verging, und der Bruder sagte zu seiner Schwester: &quot;Mach mir ein solches Ding, daß ich schießen kann.&quot; Die Schwester schnitt eine Rute ab, fertigte einen einfachen Bogen, riß sich ein Haar vom Kopf aus, zwirnte es und band es an den Bogen. Seither begann der Junge besser zu jagen. Morgens zog er aus, und abends kehrte er, mit Wildbret beladen, heim. So ließ er es der Schwester und der Mutter nicht an Nahrung fehlen. Die Mutter freute sich nicht sehr darüber. Je mehr Zeit verging, desto weiter zog der Junge auf die Jagd. Erst spät am Abend, wenn es dämmerte, kehrte er zurück, aber er hatte noch keines Menschen Behausung gesehen.</p>
+      <p>
+        Eines Morgens sprang er mit der Dämmerung auf, er wollte an diesem Tag eine weitere Gegend durchstreifen. Er lief und gelangte zu einem Hügel mit ebener Oberfläche, und als er Ausschau hielt, sah er Schlösser und den Burgturm seines Vaters und andere Dinge. So etwas hatte der Junge sein Lebtag nicht gesehen, und er wunderte sich: &quot;Was ist das, was ich da gesehen habe?&quot; Und er wollte gern erfahren, was es damit für ein Bewenden hatte, aber er hatte niemanden, den er fragen konnte. Er fürchtete sich, allein von den Bergen hinabzusteigen und es sich anzusehen, weil er gegen Sonnenaufgang lief. Wenn er nicht zur Zeit nach Hause kam, würde die Schwester zu schreien beginnen. Was sollte er tun? &quot;Ach”, sagte er, &quot;geschehe, was geschehen soll.&quot; Er sprang auf und lief los. Mit der Schnelligkeit eines Augenblicks rannte er vom Beg herab und ging zu einem Haus hin, aber er begegnete niemandem, ebenso beim zweiten. Im dritten Haus sah er eine alte Frau sitzen. Sie saß an der Feuerstelle und jammerte. Als sie aufblickte, erkannte sie, daß an der Tür ein Junge von unvorstellbarer Schönheit stand. Sie sprach zu ihm: &quot;Laß mich wie eine Mutter zu dir sein, du bist sicher der Sohn eines Christenmenschen. Warum hast du dir das angetan? Hier gehen die Riesen umher und bringen die Leute um. An diesem Ort ist niemand außer mir geblieben, und auch mich werden sie morgen holen. Dies ist das Schloß des Königs Musarbii, der 
+        <pb n="19"/>
+         ohne Thronfolger aus dem Leben geschieden ist, Bei seinem Tod hat er eine Frau und eine Tochter hinterlassen, aber sie sind verschwunden, daß niemand weiß, wo sie sind.&quot; 
+      </p>
+      <p>Jetzt erfuhr der Junge alles, wer er war und wessen Sohn er war. Er freute sich darüber, Er fragte die Alte aus, wann die Riesen kamen. Dann sprang er auf und lief nach. Hause, Unterwegs erlegte er etwas Wild und nahm es mit. Beim Abendbrot fragte der Junge die Mutter: &quot;Mutti, sag mir doch, woher wir gekommen sind!&quot; </p>
+      <p>Die Mutter sagte: &quot;Wir sind von nirgendwoher gekommen, Kind!&quot; </p>
+      <p>Die Schwester wollte dem Bruder alles sagen, doch sie fürchtete sich vor der Mutter. Der Junge fragte die Mutter nichts weiter.</p>
+      <p>Kaum begann es am nächsten Tag zu dämmern, sprang der Junge auf und zog dorthin, wo er gestern gewesen war. Sobald die Alte ihn erblickte, erhob sie sich und lief ihm entgegen. Sie umarmte und küßte ihn und erzählte ihm alles, was sie gesehen hatte und was sie über den König Musarbii wußte. Als der Junge erfuhr, daß Pfeil und Bogen seines Vaters in dem Burgturm lagen, rannte er hinauf und brachte sie herunter. Zu der alten Frau sagte er: &quot;Wenn der Riese kommt, darfst du dich dort, wo du sitzt, nicht rühren.&quot; </p>
+      <p>Er selbst ging und verbarg sich hinter der Tür. Als die Sonne sich neigte und der Junge sich umblickte, sah er, daß der Riese kam und alles zu Boden warf. Der Riese kam bis zur Tür, und als er die Alte verschlingen wollte, spannte der Junge den Bogen, traf den Riesen mit kräftigem Schuß und trennte ihm den Kopf ab. Er holte die Alte zu Hilfe und begrub den Toten in der Erde. Was hätte der armen Alten jetzt noch gefehlt, da Gott ihr so einen Retter gesandt hatte. Der Junge versteckte Pfeil und Bogen, die ihm sein Vater hinterlassen hatte, nahm seinen eigenen Pfeil und Bogen und ging nach Hause. Auf dem Rückweg erlegte er etwas Wild und brachte es nach Hause. Am nächsten Tag ging er wieder fort und lauerte dem auf, den er nach den Worten der Frau erwartete. Die alte Frau sagte: &quot;Der zweite Riese kommt.” </p>
+      <p>Der Junge blickte auf und vernahm die Stimme des Riesen: &quot;Komm her, Alte, und sage mir, wohin mein Bruder gegangen ist.” </p>
+      <p>Die alte Frau hörte nicht auf ihn. Da drang der Riese, außer sich vor Wut, bis zur Tür vor und wollte die Alte verschlingen. Der Junge schoß mit Pfeil und Bogen und riß ihm den Kopf ab. Sie halfen sich gegenseitig und begruben auch ihn. Auf diese Weise ließ der Junge am dritten Tag auch den dritten Riesen verschwinden. Das Oberhaupt der Riesen Kashindem blieb noch übrig. Dieser Kashindem hatte zwölf Köpfe. Es hieß, niemand vermochte ihn zu töten. </p>
+      <p>
+        Am vierten Tag kam der Junge wieder und lauerte diesem vierten Riesen 
+        <pb n="20"/>
+         auf. &quot;Heute wird sich mein Schicksal entscheiden&quot;, sagte er. 
+      </p>
+      <p>Die Erde, das Haus, alles begann zu beben. Der Junge fragte: &quot;Was ist los?&quot;</p>
+      <p>&quot;Kashindem kommt“, sagte die alte Frau. </p>
+      <p>Tatsächlich nahte der Riese und brüllte dabei: &quot;Schere dich hierher, Alte, und sage mir, wohin meine Brüder gegangen sind, sonst ist deines Bleiben nicht länger.” </p>
+      <p>Die alte Frau tat, als hörte sie nicht. Der Riese stürzte zur Tür hin, er sperrte den Rachen weit auf, um die Alte zu verschlingen. Doch der Junge ließ ihm keine Zeit und schoß ihm mit Pfeil und Bogen alle zwölf Köpfe ab. Er blickte sich um und sah, daß alle zwölf Köpfe wieder nachwuchsen. Er lief um sie herum, nahm die Waffe und trennte ihm nochmals alle zwölf Köpfe ab. Sie wuchsen wieder, und wieder riß er sie ab. Doch nichts konnte ihm so helfen. Wenn er sie abschoß, wuchsen sie stets nach. Da kam ein Zaunkönig geflogen, setzte sich auf die Tür und begann zu wippen und rief dazu: &quot;Asche, Asche.&quot; Eilig lief die Alte los, holte eine Tonpfanne, kratzte Asche zusammen, und wenn der Junge die Köpfe abtrennte, warf sie dem Riesen Asche darauf. Da wuchsen sie nicht wieder. So halfen sie sich wieder, hackten den Riesen in Stücke und begruben auch ihn. </p>
+      <p>Die alte Frau sagte dem Jungen, mehr gäbe es auf der Welt nicht zu fürchten. Weil sie soviel Angst ausgestanden hatte, vergaß sie vor Freude alles: Sie küßte den Jungen und liebkoste ihn. Als sie ihn genug geherzt hatte, kehrte der Junge müde nach Hause zurück. Kaum war er angekommen, legte er sich sogleich schlafen. </p>
+      <p>Die Schwester fragte ihn: &quot;Was ist, daß du so müde und erschöpft bist?&quot; </p>
+      <p>Der Junge sagte an jenem Tag nichts. Am nächsten Tag wollte er die Mutter nochmals prüfen und fragte: &quot;Sage mir, wessen Sohn ich bin.&quot; </p>
+      <p>Die Mutter verheimlichte es ihm wieder. Schließlich verriet der Junge der Schwester und der Mutter, wo er in den vier Tagen gewesen war, wen er gesehen und was er getan hatte. Die Schwester konnte sich vor Freude nicht beherrschen und sagte: &quot;Du bist der Sohn von jenem Musarbii, mit dessen Pfeil und Bogen du die Riesen ausgerottet hast.&quot; </p>
+      <p>Die Mutter rechtfertigte sich damit, daß sie nicht gewollt habe, daß ihr Sohn durch die Riesen zu Tode käme., Der Junge nahm seine Schwester und die Mutter und zog erfreut zum Wohnsitz seines Vaters. Als die Sonne aufging, stieg er wie sein Vater auf die Spitze des Burgturms hinauf und schrie so laut, daß er die Steine erbeben ließ. Als das Volk das hörte, wunderte es sich über das, was da vorging, und sprach: &quot;Was sollte denn Musarbii wieder auf die Beine gebracht haben, wer ist da wohl an seiner Stelle hergekommen?&quot; </p>
+      <p>
+        Am nächsten Tag benachrichtigten sie sich gegenseitig. Wer oben wohnte 
+        <pb n="21"/>
+         oder in einer Erdhütte saß, alle versammelten sich und liefen zum Schloß, um in Erfahrung zu bringen, wer gekommen war. Als sie erfuhren, daß Musarbiis Sohn gekommen war und alle Riesen vernichtet hatte, blieb ihnen vor Freude kein Fuß auf der Erde stehen. Sie beglückwünschten Musarbiis Sohn zu seiner Herrschaft und zerstreuten sich erfreut in ihre Häuser.&quot; 
+      </p>
+      <p>Die Mutter des Jungen empfand überhaupt keine Freude über Kashindems Tod. Als sie erfuhr, wo er begraben lag, ging sie jeden Morgen hin und ließ ihr Wasser über dem Riesen. Am dritten Tag hörte sie es unter der Erde sprechen: &quot;Wer bist du Christenmensch, der mich mit Wasser übergießt, kannst du nicht eine Handvoll Erde von mir wegfegen?&quot; </p>
+      <p>Die Frau entfernte tatsächlich die krümelige Erde, Da tat sich der Boden auf, und der Riese stieg heraus. Die Frau verwandelte den Riesen in eine Fliege und schloß ihn in einer Truhe ein. Als einige Zeit vergangen war, brachte die Mutter ihrem Sohn daumendicke Schuhe und sprach: &quot;Du bist kein Mann wie dein Vater. Dein Vater hat solches Schuhwerk getragen.&quot; </p>
+      <p>Das kränkte den Jungen: Ich soll nicht wie mein Vater sein? Er nahm die Schuhe und sagte: &quot;Ich werde sie anziehen.” Und er bog den Fuß, und brach er sich dabei nicht das rechte Bein?! Die Mutter sprang zur Truhe hin und ließ die Fliege heraus. Die Fliege verwandelte sich in den Riesen und fiel über den Jungen her. Beide begannen zu kämpfen. Wie sie miteinander rangen, hob der Junge den Riesen, auf einem Bein stehend, empor und stieß ihn wie einen Pfahl bis zu den Knien in die Erde. Die Mutter sah, daß der Junge dabei war, den Riesen zu bezwingen. Da ging sie hin und streute ihrem Sohn Hirsekörner unter den Fuß. Der Riese wandte sich zu dem Jungen um und warf ihn zu Boden, setzte ihm den Fuß auf die Brust und riß ihn in Stücke, Die Mutter und Kashindem stiegen in den Burgturm hinauf. Die Schwester kam herab und sah, daß ihr Bruder wie Zunder zerfetzt dalag. Blitzschnell las sie alles auf, warf es in einen Sack und floh zu dem Berg, wo sie vorher gewesen war. Kaum war sie in der Höhle angelangt, setzte sie sofort die zerfetzten Teile des Bruders zusammen und saß drei Tage und drei Nächte dabei, beweinte ihn und flehte Gott unter Tränen an. Am dritten Tag regte sich der Junge und erwachte wie ein Schlafender, Er sagte zur Schwester: &quot;Ich werde jetzt nach Hause gehen., Folge mir kurze Zeit später.&quot;</p>
+      <p>Die Schwester hörte auf ihn. Der Junge lief heimlich nach Hause und sagte zu der alten Frau: &quot;Geh hinaus und rufe: Musarbii ist auferstanden! Musarbii ist auferstanden!” </p>
+      <p>
+        Die Alte hörte auf ihn und stürzte schreiend hinaus. Als die Frau und ihr Mann den Ruf vernahmen, eilten sie sofort ins Freie. Inzwischen sprang der Junge auf den Turm hinauf, holte rasch Pfeil und Bogen herbei, schoß auf 
+        <pb n="22"/>
+         Kashindem und riß ihm alle zwölf Köpfe ab. Die Alte lief um ihn herum und streute dem Riesen Asche auf den Kopf. Der Junge wandte sich ihm zu und hieb den Riesen in Stücke. Er zündete ein riesiges Feuer an, verbrannte ihn und verwandelte ihn in Asche. Auch die Schwester kam herbei. Sie freute sich sehr, als sie sah, daß ihr Bruder gesiegt hatte.
+      </p>
+      <p>Kaum hatte die Mutter erfahren, daß man den Riesen getötet hatte, flüchtete sie in den Turm hinauf und schloß sich dort ein. </p>
+      <p>Früher hatten die Schwester und diese alte Frau dem Jungen gesagt: &quot;Bisher haben wir es nicht gewagt, dir zu sagen: Dein Vater besaß ein Pferd, das jetzt in dem und dem Gewölbe angebunden ist. Wenn es dir gelingt, dich auf dieses Pferd zu setzen, wird es dich an nichts fehlen lassen.&quot;</p>
+      <p>Sogleich führte Musarbiis Erbe das Pferd heraus und schwang sich wie ein Vogel darauf. Das Pferd stieg in die Höhe und wollte den Reiter am Himmel zerquetschen, doch der Junge drückte sich an seinen Bauch. Das</p>
+      <p>Pferd wollte ihn am Boden zerdrücken, doch der Junge klammerte sich an die Flanke. Als es ihn an einem Berg zerdrücken wollte, schwang er sich auf die andere Seite, So konnte ihm das Pferd nichts antun. Schließlich zerrte der Junge seine Mutter an den Haaren heraus, band sie an den Schweif des Pferdes und ließ sie an Ort und Stelle zerfetzen.</p>
+      <p>Mein Märchen habe ich zu Ende erzählt. Gestern war ich dort, heute bin ich hierhergekommen. Drei Äpfel, drei Granatäpfel, Gott wehre euch nicht, was ihr eigenhändig eingebracht habt.</p>
+    </body>
+  </text>
 </TEI>

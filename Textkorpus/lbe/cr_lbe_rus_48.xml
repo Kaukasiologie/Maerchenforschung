@@ -1,125 +1,187 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Lakische Folklore</title>
-      <title xml:lang="eng">Lak Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф. 9, on. I, д. № 19</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Lakische Folklore</title>
+        <title xml:lang="eng">Lak Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф. 9, on. I, д. № 19</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="lez">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/583791/akhtynskiy-rayon.html">Akhtynskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/554456/kaka.html">Kaka</settlement>
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Г.</forename>
-        <surname xml:lang="rus">Шайдабеков</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="lez">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/583791/akhtynskiy-rayon.html">Akhtynskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/554456/kaka.html">Kaka</settlement>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Г.</forename>
+            <surname xml:lang="rus">Шайдабеков</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_lbe_rus_48">
+  </teiHeader>
+  <text xml:id="cr_lbe_rus_48">
     <body>
-     <head>85. Три сестры </head>
-     <p>это жил бедный человек жена дочери однажды умерла мать этих девушек</p><p>соседству жила одна вдова каждый день стала звать дочерей бедного человека мыть головы дочери возвращаясь домой говорили отцу</p><p>отец женись женщине</p><p>бедняк послушался дочерей женился вдове</p><p>однажды женщина говорит мужу</p><p>муж выгони своих дочерей уйду</p><p>пристала нему бедный человек сказал</p><p>пойду базар купить янтарь пошли дочерей поле</p><p>сказав муж пошел базар купил янтарь оттуда отправился пашню вырыл яму прикрыл войлоком войлоке разложил янтарные бусы некоторое время пашню пришли дочери хлебом отца</p><p>милые дочери купил бусы сказал отец бегите той яме возьмите войлоке</p><p>дочери очень обрадовались побежали бусами упали яму отец сказал</p><p>вытащу ямы подайте бусы войлок</p><p>отдали бусы войлок отец заложил яму камнем вернулся жене</p><p>одна девушек воскликнула</p><p>пусть рука превратится заступ</p><p>пусть рука станет киркой воскликнула другая</p><p>пусть рука станет деревянной лопатой сказала третья</p><p>одной рука превратилась заступ кирку третьей лопату девушки начали копать землю копали копали добрались крыши конюшни</p><p>проделав щель увидели кошошне стоит лошадь ест финики девушки связали свои платья спустилась конюшню старшая сестра взяла финики вернулась сестрам день спустилась средняя сестра</p><p>вернулась финиками</p><p>ком пойдет сказ сказ царе приходит глядит лошадь</p><p>вах лошадь худеет худеет</p><p>говорит своим сыновьям</p><p>постарайтесь узнать отчего отощала лошадь</p><p>первым караульщиком стал старший сын выдержал заснул день караулить пошел средний сын</p><p>заснул третий день пошел караулить младший сын юноша порезал кончик пальца посыпал туда соли ы уснуть</p><p>некоторое время конюшню спустилась младшая сестра красива сказать</p><p>показывай солнцу луне затмит увидев красавицу юноша схватил объятия понес комнату</p><p>поставил еду воду девушка кусок ела клала карман</p><p>юноша спросил</p><p>эй сестра почему делаешь</p><p>девушка ответила</p><p>валлах брат одна сестры</p><p>иди позови</p><p>девушка пошла вернулась своими сестрами царь увидел этих красивых девушек решил женить сыновей семь ночей семь дней били барабан свадьбе этих девушек выданных царских сыновей</p><p>ком пойдет сказ сказ младшей сестре</p><p>младшая сестра жена младшего сына царя ждала ребенка</p><p>милые сестры рожают детей этих местах</p><p>спросила</p><p>сестры ответили</p><p>лезь крышу садись трубой внизу подставим сито</p><p>младшая сестра пошла села трубой родила девочку мальчика золотыми волосами</p><p>случилось день ощенилась собака царя сестры взяли щенят положили сито детей младшей сестры зависти положили сундук вынесли поле бросили</p><p>царь узнал невестка родила щенят приказал убить собаку надеть шкуру невестку привязать дверям девушку привязали дверям</p><p>ком сказ старухе ходила дровами нашла старуха сундук обрадовалась понесла сундук домой</p><p>открыла старуха сундук увидела нем прекрасных детей</p><p>девочку мальчика выпрашивая одного соседа молока другого хлеба старуха вырастила вынянчила детей исполнилось семь лет</p><p>это время младший сын царя решил взять другую жену девочка мальчик старухи захотели пойти посмотреть па свадьбу послушать музыку собрались идти старушка сказала</p><p>милые дети смотрите растеряйте своих голов смейтесь будете возвращаться захватите мяса кусок киньте собаке привязанной дверям царского дома</p><p>дети пошли свадьбу</p><p>возвращались домой мальчик кинул мясо собаке девочка вняла домой это заметил царский сын подумал бросают собаке кости дети бросили мясо распорядился день пригласили девочку мальчиком свадьбу танцевать</p><p>день очередь дошла детей начали танцевать затем мальчик золотым хохолком сказал</p><p>хинбина хай хинбина матери довольстве</p><p>наша мать собачьей шкуре</p><p>услышал слова царский сын спрашивает</p><p>чьи дети</p><p>дети старушки отвечают</p><p>позвали старушку спросили</p><p>эй бабушка это чьи дети</p><p>рассказала</p><p>милые сыновья дней пошла дровами нашла сундуке вырастила детей выпрашивая одного другого пищу</p><p>затем царь спросил</p><p>сундук сохранился наш нем имя моего сына</p><p>старушка принесла сундук отдала царю царь увидел сундук узнал наградив старушку полным сундуком золота царь отпустил младший сын стал жить своей прежней женой детьми</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>85. Три сестры </head>
+      <p>это жил бедный человек жена дочери однажды умерла мать этих девушек</p>
+      <p>соседству жила одна вдова каждый день стала звать дочерей бедного человека мыть головы дочери возвращаясь домой говорили отцу</p>
+      <p>отец женись женщине</p>
+      <p>бедняк послушался дочерей женился вдове</p>
+      <p>однажды женщина говорит мужу</p>
+      <p>муж выгони своих дочерей уйду</p>
+      <p>пристала нему бедный человек сказал</p>
+      <p>пойду базар купить янтарь пошли дочерей поле</p>
+      <p>сказав муж пошел базар купил янтарь оттуда отправился пашню вырыл яму прикрыл войлоком войлоке разложил янтарные бусы некоторое время пашню пришли дочери хлебом отца</p>
+      <p>милые дочери купил бусы сказал отец бегите той яме возьмите войлоке</p>
+      <p>дочери очень обрадовались побежали бусами упали яму отец сказал</p>
+      <p>вытащу ямы подайте бусы войлок</p>
+      <p>отдали бусы войлок отец заложил яму камнем вернулся жене</p>
+      <p>одна девушек воскликнула</p>
+      <p>пусть рука превратится заступ</p>
+      <p>пусть рука станет киркой воскликнула другая</p>
+      <p>пусть рука станет деревянной лопатой сказала третья</p>
+      <p>одной рука превратилась заступ кирку третьей лопату девушки начали копать землю копали копали добрались крыши конюшни</p>
+      <p>проделав щель увидели кошошне стоит лошадь ест финики девушки связали свои платья спустилась конюшню старшая сестра взяла финики вернулась сестрам день спустилась средняя сестра</p>
+      <p>вернулась финиками</p>
+      <p>ком пойдет сказ сказ царе приходит глядит лошадь</p>
+      <p>вах лошадь худеет худеет</p>
+      <p>говорит своим сыновьям</p>
+      <p>постарайтесь узнать отчего отощала лошадь</p>
+      <p>первым караульщиком стал старший сын выдержал заснул день караулить пошел средний сын</p>
+      <p>заснул третий день пошел караулить младший сын юноша порезал кончик пальца посыпал туда соли ы уснуть</p>
+      <p>некоторое время конюшню спустилась младшая сестра красива сказать</p>
+      <p>показывай солнцу луне затмит увидев красавицу юноша схватил объятия понес комнату</p>
+      <p>поставил еду воду девушка кусок ела клала карман</p>
+      <p>юноша спросил</p>
+      <p>эй сестра почему делаешь</p>
+      <p>девушка ответила</p>
+      <p>валлах брат одна сестры</p>
+      <p>иди позови</p>
+      <p>девушка пошла вернулась своими сестрами царь увидел этих красивых девушек решил женить сыновей семь ночей семь дней били барабан свадьбе этих девушек выданных царских сыновей</p>
+      <p>ком пойдет сказ сказ младшей сестре</p>
+      <p>младшая сестра жена младшего сына царя ждала ребенка</p>
+      <p>милые сестры рожают детей этих местах</p>
+      <p>спросила</p>
+      <p>сестры ответили</p>
+      <p>лезь крышу садись трубой внизу подставим сито</p>
+      <p>младшая сестра пошла села трубой родила девочку мальчика золотыми волосами</p>
+      <p>случилось день ощенилась собака царя сестры взяли щенят положили сито детей младшей сестры зависти положили сундук вынесли поле бросили</p>
+      <p>царь узнал невестка родила щенят приказал убить собаку надеть шкуру невестку привязать дверям девушку привязали дверям</p>
+      <p>ком сказ старухе ходила дровами нашла старуха сундук обрадовалась понесла сундук домой</p>
+      <p>открыла старуха сундук увидела нем прекрасных детей</p>
+      <p>девочку мальчика выпрашивая одного соседа молока другого хлеба старуха вырастила вынянчила детей исполнилось семь лет</p>
+      <p>это время младший сын царя решил взять другую жену девочка мальчик старухи захотели пойти посмотреть па свадьбу послушать музыку собрались идти старушка сказала</p>
+      <p>милые дети смотрите растеряйте своих голов смейтесь будете возвращаться захватите мяса кусок киньте собаке привязанной дверям царского дома</p>
+      <p>дети пошли свадьбу</p>
+      <p>возвращались домой мальчик кинул мясо собаке девочка вняла домой это заметил царский сын подумал бросают собаке кости дети бросили мясо распорядился день пригласили девочку мальчиком свадьбу танцевать</p>
+      <p>день очередь дошла детей начали танцевать затем мальчик золотым хохолком сказал</p>
+      <p>хинбина хай хинбина матери довольстве</p>
+      <p>наша мать собачьей шкуре</p>
+      <p>услышал слова царский сын спрашивает</p>
+      <p>чьи дети</p>
+      <p>дети старушки отвечают</p>
+      <p>позвали старушку спросили</p>
+      <p>эй бабушка это чьи дети</p>
+      <p>рассказала</p>
+      <p>милые сыновья дней пошла дровами нашла сундуке вырастила детей выпрашивая одного другого пищу</p>
+      <p>затем царь спросил</p>
+      <p>сундук сохранился наш нем имя моего сына</p>
+      <p>старушка принесла сундук отдала царю царь увидел сундук узнал наградив старушку полным сундуком золота царь отпустил младший сын стал жить своей прежней женой детьми</p>
+    </body>
+  </text>
+</TEI>

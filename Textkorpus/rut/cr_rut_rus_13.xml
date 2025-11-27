@@ -1,131 +1,153 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Rutulisch Folklore</title>
-      <title xml:lang="eng">Rutul Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Rutulisch Folklore</title>
+        <title xml:lang="eng">Rutul Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus">Опубл.: Мифологическая проза руту- лов. Махачкала, 2010. С. 94-95</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus">Опубл.: Мифологическая проза руту- лов. Махачкала, 2010. С. 94-95</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="rut">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
-       <settlement ref="https://www.geonames.org/500316/rutul.html">Rutul</settlement>
-       <geo />
-      </placeName>
-      <date>2001</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Б.А.</forename>
-        <surname xml:lang="rus">Рамазановa</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Э.Ш.</forename>
-        <surname xml:lang="rus">Ильдарова</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Ф.М.</forename>
-        <surname xml:lang="rus">Ибрагимовa</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rut">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
+          <settlement ref="https://www.geonames.org/500316/rutul.html">Rutul</settlement>
+          <geo/>
+        </placeName>
+        <date>2001</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Б.А.</forename>
+            <surname xml:lang="rus">Рамазановa</surname>
+          </persName>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Э.Ш.</forename>
+            <surname xml:lang="rus">Ильдарова</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Ф.М.</forename>
+            <surname xml:lang="rus">Ибрагимовa</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_rut_rus_13">
+  </teiHeader>
+  <text xml:id="cr_rut_rus_13">
     <body>
-     <head>120 Как жена чабана стала ткачихой (рут.) </head>
-     <p>давным давно говорят две женщины одна трудолюбивой умелой женщиной ткала хорошие ковры пользовалась уважением односельчан коврами восхищались дому выстраивались очереди заказать</p><p>соседка жена чабана наоборот умела делать дому никаким мастерством владела</p><p>приходит чабан домой говорит своей жене</p><p>дорогая жена наша соседка ткет такие красивые ковры неужели можешь соткать ковер нашего дома мог сказать жена соткала ковер</p><p>жена отвечает</p><p>дорогой муж соткала ковер жаль станка ниток</p><p>услышав ответ чабан обрадовался сказал жене</p><p>будут тебе дорогая станок шерсть нитки соткала ковер</p><p>сказав это тотчас принес отдал жене шерсть взял топор пошел лес срубить бревна смастерить станок</p><p>увидев это ленивая жена пошла вслед мужем лес спряталась деревьями поднимал топор срубить дерево слышал</p><p>чей таинственный голос смастеришь станок умрешь соткав ковер умрет твоя жена</p><p>послышалось дважды муж услышал слова третий бросил топор вернулся домой временем жена раньше мужа пришла домой стала ждать испуганный муж прибежав домой рассказал случившемся</p><p>жена очень обрадовалась взяла шерсть пошла водой всем приходил роднику стала раздавать шерсть оставила лишь немного</p><p>придя домой сказала мужу</p><p>помыла шерсть смотри сколько осталось шерсти сделаю пряжу свяжу носки</p><p>дней решила возвращению мужа подготовить нитки принялась работу кошка стала играть веретеном мешать разозлилась привязала хвосту кошки клубок словами</p><p>иди играй</p><p>кошка стала бегать комнате пытаясь сбросить клубок хвоста</p><p>оставим расскажу другом</p><p>селе жили тушед рышба говорят семеро единственный брат заболел горле появился нарыв отвлечь боли сестры вместе братом ходили плоским крышам домов заглядывая дымоход надеясь увидеть интересное</p><p>брат увидел доме кошка мечется комнате клубком привязанным хвосту громко рассмеялся нарыв горле лопнул стало легче сказал своим сестрам</p><p>ради аллаха помогите девушке выручите спасла смерти</p><p>сестры знак благодарности оставили доме красивый ковер сотканный ими увидев хозяйка очень удивилась вскоре вернулся домой муж жена показала постеленный полу ковер радости конца</p><p>тех пор говорят стало получаться стала ткать красивые ковры прославилась искусная ковровщица никто знал помогает</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>120 Как жена чабана стала ткачихой (рут.) </head>
+      <p>давным давно говорят две женщины одна трудолюбивой умелой женщиной ткала хорошие ковры пользовалась уважением односельчан коврами восхищались дому выстраивались очереди заказать</p>
+      <p>соседка жена чабана наоборот умела делать дому никаким мастерством владела</p>
+      <p>приходит чабан домой говорит своей жене</p>
+      <p>дорогая жена наша соседка ткет такие красивые ковры неужели можешь соткать ковер нашего дома мог сказать жена соткала ковер</p>
+      <p>жена отвечает</p>
+      <p>дорогой муж соткала ковер жаль станка ниток</p>
+      <p>услышав ответ чабан обрадовался сказал жене</p>
+      <p>будут тебе дорогая станок шерсть нитки соткала ковер</p>
+      <p>сказав это тотчас принес отдал жене шерсть взял топор пошел лес срубить бревна смастерить станок</p>
+      <p>увидев это ленивая жена пошла вслед мужем лес спряталась деревьями поднимал топор срубить дерево слышал</p>
+      <p>чей таинственный голос смастеришь станок умрешь соткав ковер умрет твоя жена</p>
+      <p>послышалось дважды муж услышал слова третий бросил топор вернулся домой временем жена раньше мужа пришла домой стала ждать испуганный муж прибежав домой рассказал случившемся</p>
+      <p>жена очень обрадовалась взяла шерсть пошла водой всем приходил роднику стала раздавать шерсть оставила лишь немного</p>
+      <p>придя домой сказала мужу</p>
+      <p>помыла шерсть смотри сколько осталось шерсти сделаю пряжу свяжу носки</p>
+      <p>дней решила возвращению мужа подготовить нитки принялась работу кошка стала играть веретеном мешать разозлилась привязала хвосту кошки клубок словами</p>
+      <p>иди играй</p>
+      <p>кошка стала бегать комнате пытаясь сбросить клубок хвоста</p>
+      <p>оставим расскажу другом</p>
+      <p>селе жили тушед рышба говорят семеро единственный брат заболел горле появился нарыв отвлечь боли сестры вместе братом ходили плоским крышам домов заглядывая дымоход надеясь увидеть интересное</p>
+      <p>брат увидел доме кошка мечется комнате клубком привязанным хвосту громко рассмеялся нарыв горле лопнул стало легче сказал своим сестрам</p>
+      <p>ради аллаха помогите девушке выручите спасла смерти</p>
+      <p>сестры знак благодарности оставили доме красивый ковер сотканный ими увидев хозяйка очень удивилась вскоре вернулся домой муж жена показала постеленный полу ковер радости конца</p>
+      <p>тех пор говорят стало получаться стала ткать красивые ковры прославилась искусная ковровщица никто знал помогает</p>
+    </body>
+  </text>
+</TEI>

@@ -1,235 +1,252 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">17. Der jüngste Sohn des Herrschers und die Tiere</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_22.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-    <date notAfter="1880-12-31">notAfter 1880.12.31</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename></forename>
-      <surname></surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName type="gnd" corresp="https://d-nb.info/gnd/173176518">173176518>
-      <forename>Alexandre</forename>
-      <surname>Zagareli</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_22">
-  <body>
-   <head>Der jüngste Sohn des Herrschers und die Tiere</head>
-   <p>Es war einmal ein Herrscher, der hatte drei Söhne. Einmal wurde erkrank, und beide Augen erblindeten ihm. Er schickte seine Söhne zu den Heilkundigen, und alle sagten: "Es gibt einen Fisch, wenn du den fängst,wirst du gesund." Sie malten ihm das Bild dieses Fisches auf und überließen es ihm.</p>
-   <p>Der Herrscher befahl seinem ältesten Sohn, an das Meer zu gehen, um den Fisch zu fangen, doch hundert Männer kamen samt ihrem Netz im Meer um, ohne einen derartigen Fisch zu Gesicht zu bekommen. Der älteste Sohn kam nach Hause und sagte zum Vater: "Ich habe nichts finden können."</p>
-   <p>Das verdroß den Herrscher, doch was sollte er tun? Dann zog der mittlere Bruder los, und auch er nahm hundert Männer mit Netzen mit, aber auch ihm ertranken alle, und er konnte nichts fangen.</p>
-   <p>Dann zog der jüngste los, aber der wandte eine List an: Er nahm hundert Pud Mehl und einen einzigen Mann mit. Als er ans Meer kam, streute er jeden Tag Mehl an die Ränder, solange es reichte. Als es ihm ausging,hörte er auf. Aber von seinem ausgestreuten Mehl waren die Fische sehr fett geworden und meinten: "Wir müssen diesem jungen Mann einen Diensterweisen, weil er uns dick gefüttert hat." Und als der Bursche sein Netz auswarf, zog er sofort einen solchen Fisch heraus. Diesen Fisch legte der junge Mann in einen Korb und machte sich auf den Heimweg. Wie er sich unterwegs ein wenig von seinem Reisebegleiter entfernte, vernahm er eine Stimme: "Hilf mir, Junge, ich sterbe!" Aber als sich der Bursche umsah,konnte er nichts sehen und sagte nichts. Als wieder einige Zeit vergangen <pb n="118"/> war, hörte er wieder: "Hilf mir, Junge, ich sterbe!" Jetzt blickte er sich noch aufmerksamer um, und da er nichts sehen konnte, schaute er in den Korb hinein. Da sah er, daß der Fisch den Mund aufgesperrt hatte und seine Seele aushauchte. Der Bursche fragte: "Was willst du?"</p>
-   <p>Der Fisch rief ihm zu: "Für dich ist es besser, wenn du mich frei läßt.</p>
-   <p>Eines Tages werde ich dir nützlich sein."</p>
-   <p>Der Bursche hob ihn empor und ließ ihn ins Wasser. Seinem Reisebegleiter sagte er: "Verrate mich nicht!” Und er kam nach Hause und sagte zu seinem Vater: "Ich konnte nichts fangen."</p>
-   <p>Die Zeit verging, und eines Tages geriet dieser Bursche mit seinem Reisekameraden in Streit. Der eilte zum Herrscher und berichtete ihm, wie ihn sein Sohn hintergangen hatte. Kaum hatte der Herrscher das vernommen, gab er sofort den Befehl: "Führt ihn fort und tötet ihn!"</p>
-   <p>Auf der Stelle brachten sie ihn weg, um ihn zu töten. Der junge Mann flehte sie an: "Was habt ihr davon, wenn ihr mich umbringt? Auch für euch ist es von Segen, wenn ihr mich laufen laßt und ich in einem anderen Land verschwinde.”</p>
-   <p>Er tat den Mördern leid, und sie ließen ihn frei. Er dankte ihnen und lief und lief und lief, er lief solange, wie kein Mensch gelaufen ist. Er erreichte einen Wald, und als er hineinging, sah er, daß sich ein Hirsch nur mit Mühe auf den Beinen hielt. Er blieb eine kleine Weile stehen und sah ihm zu, der Hirsch kam zu dem Burschen gelaufen und brach vor ihm zusammen.</p>
-   <p>"Was fehlt dir?" fragte der junge Mann.</p>
-   <p>"Was mir fehlt? Ein Königssohn verfolgt mich, schütze mich!"</p>
-   <p>Der Bursche nahm ihn mit, und als er weiterlief, stieß er auf diesen Jäger. Der Jäger fragte ihn: "Wohin bringst du diesen Hirsch?"</p>
-   <p>Er antwortete: "Der Herrscher hat ihn einem anderen Herrscher geschenkt, und dort bringe ich ihn hin."</p>
-   <p>So rettete der Bursche den Hirsch vor dem Tod. Der Hirsch sprach:"Eines Tages werde auch ich dir helfen."</p>
-   <p>Der junge Mann lief weiter und lief und lief, nicht einmal das Dreitagepferd ist soviel gelaufen. Und als er aufblickte, sah er, wie ein bedrängter Geier ihm auf die Schulter flog und zu ihm sprach: "Schütze mich, Bursche!"</p>
-   <p>Auch ihn schützte der junge Mann vor seinen Verfolgern, und der Geier sprach zu ihm: "Eines Tages werde auch ich dir helfen.”</p>
-   <p>Wieder machte sich der Bursche auf seinen Weg. Er lief durch diesen Wald, er lief und lief, er lief, soviel er konnte, eine Woche lang, zwei Wochen, fünfzehn Tage, ein ganzes Jahr und drei Monate lief er, da vernahm er einen gräßlichen Lärm. Es blitzte und donnerte, und etwas wütete <pb n="119"/> im Wald. Da tauchte ein riesengroßer Schakal Fuchs auf, kam zu ihm hingerannt und rief: "Rette mich, der Sohn des Herrschers verfolgt mich mit seinem Heer!"</p>
-   <p>Der Bursche beschützte ihn wie die anderen, und schließlich sagte der Fuchs zu ihm: "Auch ich werde dir eines Tages helfen.”</p>
-   <p>Der Bursche lief weiter, durchquerte den Wald und sah eine Stadt. Darin erblickte er einen Turm aus Kristall, und als er einen Blick in den Hof hineinwarf, erkannte er viele Tote und einige sterbende junge Männer. Erfragte: "Was ist hier 10s?"</p>
-   <p>Man erzählte ihm: "Der hiesige Herrscher hat eine wunderschöne Tochter, die hat erklärt: "Wer sich vor mir zu verbergen versteht, dessen Frau will ich werden.” Aber kein Mann ist imstande, sich vor ihr zu verstecken,und sie hat alle ums Leben gebracht, denn wer sich nicht vor ihr verstecken kann, den muß sie von ihrem Turm hinabstürzen."</p>
-   <p>Als der junge Mann das hörte, beeilte er sich, stieg empor und trat in das Zimmer des Mädchens. Sie verneigten sich voreinander, und das Mädchen fragte: "Weshalb seid Ihr gekommen?”</p>
-   <p>Der junge Mann erklärte: "Weswegen auch die anderen hierhergekommen sind."</p>
-   <p>"He!" rief sie sogleich die Wesire herbei, und sie schrieben einen Vertrag,wie es üblich war.</p>
-   <p>Der Bursche verließ die Stadt, kam an die Küste des Meeres und setzte sich hin. Wie er sehr bedrückt überlegte, platschte etwas im Wasser und verschluckte ihn, entführte ihn in das rote Meer und schlüpfte mit allem in eine Vertiefung am Strand. In jener Nacht blieb er dort. Am nächsten Tag stand das Mädchen auf, zog ihren Spiegel hervor und schaute hinein. Aber im Himmel konnte sie nichts sehen, und als sie auf die Erde schaute, fand sie nichts. Als sie auf das Meer blickte, sah sie da nicht, daß ein Fisch ihn in seinem Bauch hatte, der in einer Vertiefung am Strand lag? Als einige Zeit vergangen war, setzte der Fisch den jungen Mann wieder dort ab, wo er gesessen hatte. Hocherfreut brach der Bursche auf und kam zu dem Mädchen. Das Mädchen fragte ihn: ”Was hast du gemacht, hast du dich versteckt?"</p>
-   <p>"Ja, ich hatte mich versteckt."</p>
-   <p>Aber das Mädchen erklärte ihm ganz genau, wie und wo er sich befunden hatte. Schließlich sagte sie: "Den heutigen Tag will ich dir verzeihen,weil du dich so geschickt vor mir verborgen hast.”</p>
-   <p>Da ging der junge Mann wieder davon. Und als er sich auf eine Wiese setzte, stürzte sich etwas auf ihn, riß ihn in die Luft empor, entführte ihn,setzte ihn im Himme! ab und deckte ihn mit dem Flügel zu. Als das Mädchen am nächsten Morgen aufstand, sah sie in den Spiegel, schaute über <pb n="120"/> Berge und Täler, konnte ihn aber nicht sehen. Sie blickte auf das Meer,konnte ihn aber nicht sehen. Als sie zum Himmel hinaufblickte, sah sie, daß ihn ein Geier verborgen hatte. Der Geier setzte den Burschen wieder auf der Erde ab. Der Bursche freute sich sehr: "Sie hat mich nicht sehen können." Doch als er zu dem Mädchen kam, erzählte sie ihm alles. Jetzt verging der junge Mann fast vor Verdruß, aber auch das Mädchen staunte über sein Versteck, und sie sagte zu ihm: "Auch heute will ich dir verzeihen."</p>
-   <p>Da ging der Bursche davon, und wie er über das Feld lief, kam der Hirsch und sprach: "Setz dich auf mich." Er nahm ihn auf seinen Rücken und trug ihn fort. Er führte ihn weit fort hinter alle Berge und verbarg ihn dort in einem Versteck, Als das Mädchen am Morgen aufstand, erblickte sie natürlich auch das. Und als der Bursche zu ihr kam, sagte sie: "Junge,du hast gute Freunde, aber trotzdem ist es dir nicht gelungen, dich vor mir zu verbergen. Auch heute will ich dir verzeihen."</p>
-   <p>Da ging der Bursche betrübt davon. Er hatte keine Hoffnung mehr. Als er sich auf eine Wiese setzte, bebte die Erde. Die Stadt wurde erschüttert,es blitzte und donnerte, und bei einem Blitzschlag sprang sein Freund, der riesengroße Schakal Fuchs, hervor und rief: "Ach was, Junge, fürchte dich nicht!”</p>
-   <p>Der Schakal Fuchs griff zu einer List und begann die Erde aufzuwühlen.</p>
-   <p>Er grub und grub und grub und grub bis dorthin, wo sich der Sitz des Mädchens befand. Dann sagte er zu dem jungen Mann: "Bleib hier. Sie wird zum Himmel hinaufblicken, sie wird über die Berge schauen und das Meer absuchen, und wenn sie dich nicht finden kann, wird sie den Spiegel zerbrechen. Wenn du das vernimmst, so stoße mit dem Kopf oben an die Erde und komm heraus!”</p>
-   <p>Natürlich freute sich der junge Mann. Als das Mädchen am Morgen aufstand, schaute sie auf das Meer hinab, konnte ihn aber nicht sehen. Als sie über die Berge sah, fand sie ihn nicht. Als sie in den Himmel blickte,konnte sie ihn nicht sehen, und sie zerbrach den Spiegel. Da stieß der Bursche mit dem Kopf an die Erde und kam heraus, verneigte sich vor ihr und sprach: "Du bist mein und ich bin dein." Sie riefen die Wesire, benachrichtigten den Herrscher, und es gab ein großes Fest.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">17. Der jüngste Sohn des Herrschers und die Tiere</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_22.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date notAfter="1880-12-31">notAfter 1880.12.31</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName type="gnd" corresp="https://d-nb.info/gnd/173176518">
+            173176518&gt;
+            <forename>Alexandre</forename>
+            <surname>Zagareli</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_22">
+    <body>
+      <head>Der jüngste Sohn des Herrschers und die Tiere</head>
+      <p>Es war einmal ein Herrscher, der hatte drei Söhne. Einmal wurde erkrank, und beide Augen erblindeten ihm. Er schickte seine Söhne zu den Heilkundigen, und alle sagten: &quot;Es gibt einen Fisch, wenn du den fängst,wirst du gesund.&quot; Sie malten ihm das Bild dieses Fisches auf und überließen es ihm.</p>
+      <p>Der Herrscher befahl seinem ältesten Sohn, an das Meer zu gehen, um den Fisch zu fangen, doch hundert Männer kamen samt ihrem Netz im Meer um, ohne einen derartigen Fisch zu Gesicht zu bekommen. Der älteste Sohn kam nach Hause und sagte zum Vater: &quot;Ich habe nichts finden können.&quot;</p>
+      <p>Das verdroß den Herrscher, doch was sollte er tun? Dann zog der mittlere Bruder los, und auch er nahm hundert Männer mit Netzen mit, aber auch ihm ertranken alle, und er konnte nichts fangen.</p>
+      <p>
+        Dann zog der jüngste los, aber der wandte eine List an: Er nahm hundert Pud Mehl und einen einzigen Mann mit. Als er ans Meer kam, streute er jeden Tag Mehl an die Ränder, solange es reichte. Als es ihm ausging,hörte er auf. Aber von seinem ausgestreuten Mehl waren die Fische sehr fett geworden und meinten: &quot;Wir müssen diesem jungen Mann einen Diensterweisen, weil er uns dick gefüttert hat.&quot; Und als der Bursche sein Netz auswarf, zog er sofort einen solchen Fisch heraus. Diesen Fisch legte der junge Mann in einen Korb und machte sich auf den Heimweg. Wie er sich unterwegs ein wenig von seinem Reisebegleiter entfernte, vernahm er eine Stimme: &quot;Hilf mir, Junge, ich sterbe!&quot; Aber als sich der Bursche umsah,konnte er nichts sehen und sagte nichts. Als wieder einige Zeit vergangen 
+        <pb n="118"/>
+         war, hörte er wieder: &quot;Hilf mir, Junge, ich sterbe!&quot; Jetzt blickte er sich noch aufmerksamer um, und da er nichts sehen konnte, schaute er in den Korb hinein. Da sah er, daß der Fisch den Mund aufgesperrt hatte und seine Seele aushauchte. Der Bursche fragte: &quot;Was willst du?&quot;
+      </p>
+      <p>Der Fisch rief ihm zu: &quot;Für dich ist es besser, wenn du mich frei läßt.</p>
+      <p>Eines Tages werde ich dir nützlich sein.&quot;</p>
+      <p>Der Bursche hob ihn empor und ließ ihn ins Wasser. Seinem Reisebegleiter sagte er: &quot;Verrate mich nicht!” Und er kam nach Hause und sagte zu seinem Vater: &quot;Ich konnte nichts fangen.&quot;</p>
+      <p>Die Zeit verging, und eines Tages geriet dieser Bursche mit seinem Reisekameraden in Streit. Der eilte zum Herrscher und berichtete ihm, wie ihn sein Sohn hintergangen hatte. Kaum hatte der Herrscher das vernommen, gab er sofort den Befehl: &quot;Führt ihn fort und tötet ihn!&quot;</p>
+      <p>Auf der Stelle brachten sie ihn weg, um ihn zu töten. Der junge Mann flehte sie an: &quot;Was habt ihr davon, wenn ihr mich umbringt? Auch für euch ist es von Segen, wenn ihr mich laufen laßt und ich in einem anderen Land verschwinde.”</p>
+      <p>Er tat den Mördern leid, und sie ließen ihn frei. Er dankte ihnen und lief und lief und lief, er lief solange, wie kein Mensch gelaufen ist. Er erreichte einen Wald, und als er hineinging, sah er, daß sich ein Hirsch nur mit Mühe auf den Beinen hielt. Er blieb eine kleine Weile stehen und sah ihm zu, der Hirsch kam zu dem Burschen gelaufen und brach vor ihm zusammen.</p>
+      <p>&quot;Was fehlt dir?&quot; fragte der junge Mann.</p>
+      <p>&quot;Was mir fehlt? Ein Königssohn verfolgt mich, schütze mich!&quot;</p>
+      <p>Der Bursche nahm ihn mit, und als er weiterlief, stieß er auf diesen Jäger. Der Jäger fragte ihn: &quot;Wohin bringst du diesen Hirsch?&quot;</p>
+      <p>Er antwortete: &quot;Der Herrscher hat ihn einem anderen Herrscher geschenkt, und dort bringe ich ihn hin.&quot;</p>
+      <p>So rettete der Bursche den Hirsch vor dem Tod. Der Hirsch sprach:&quot;Eines Tages werde auch ich dir helfen.&quot;</p>
+      <p>Der junge Mann lief weiter und lief und lief, nicht einmal das Dreitagepferd ist soviel gelaufen. Und als er aufblickte, sah er, wie ein bedrängter Geier ihm auf die Schulter flog und zu ihm sprach: &quot;Schütze mich, Bursche!&quot;</p>
+      <p>Auch ihn schützte der junge Mann vor seinen Verfolgern, und der Geier sprach zu ihm: &quot;Eines Tages werde auch ich dir helfen.”</p>
+      <p>
+        Wieder machte sich der Bursche auf seinen Weg. Er lief durch diesen Wald, er lief und lief, er lief, soviel er konnte, eine Woche lang, zwei Wochen, fünfzehn Tage, ein ganzes Jahr und drei Monate lief er, da vernahm er einen gräßlichen Lärm. Es blitzte und donnerte, und etwas wütete 
+        <pb n="119"/>
+         im Wald. Da tauchte ein riesengroßer Schakal Fuchs auf, kam zu ihm hingerannt und rief: &quot;Rette mich, der Sohn des Herrschers verfolgt mich mit seinem Heer!&quot;
+      </p>
+      <p>Der Bursche beschützte ihn wie die anderen, und schließlich sagte der Fuchs zu ihm: &quot;Auch ich werde dir eines Tages helfen.”</p>
+      <p>Der Bursche lief weiter, durchquerte den Wald und sah eine Stadt. Darin erblickte er einen Turm aus Kristall, und als er einen Blick in den Hof hineinwarf, erkannte er viele Tote und einige sterbende junge Männer. Erfragte: &quot;Was ist hier 10s?&quot;</p>
+      <p>Man erzählte ihm: &quot;Der hiesige Herrscher hat eine wunderschöne Tochter, die hat erklärt: &quot;Wer sich vor mir zu verbergen versteht, dessen Frau will ich werden.” Aber kein Mann ist imstande, sich vor ihr zu verstecken,und sie hat alle ums Leben gebracht, denn wer sich nicht vor ihr verstecken kann, den muß sie von ihrem Turm hinabstürzen.&quot;</p>
+      <p>Als der junge Mann das hörte, beeilte er sich, stieg empor und trat in das Zimmer des Mädchens. Sie verneigten sich voreinander, und das Mädchen fragte: &quot;Weshalb seid Ihr gekommen?”</p>
+      <p>Der junge Mann erklärte: &quot;Weswegen auch die anderen hierhergekommen sind.&quot;</p>
+      <p>&quot;He!&quot; rief sie sogleich die Wesire herbei, und sie schrieben einen Vertrag,wie es üblich war.</p>
+      <p>Der Bursche verließ die Stadt, kam an die Küste des Meeres und setzte sich hin. Wie er sehr bedrückt überlegte, platschte etwas im Wasser und verschluckte ihn, entführte ihn in das rote Meer und schlüpfte mit allem in eine Vertiefung am Strand. In jener Nacht blieb er dort. Am nächsten Tag stand das Mädchen auf, zog ihren Spiegel hervor und schaute hinein. Aber im Himmel konnte sie nichts sehen, und als sie auf die Erde schaute, fand sie nichts. Als sie auf das Meer blickte, sah sie da nicht, daß ein Fisch ihn in seinem Bauch hatte, der in einer Vertiefung am Strand lag? Als einige Zeit vergangen war, setzte der Fisch den jungen Mann wieder dort ab, wo er gesessen hatte. Hocherfreut brach der Bursche auf und kam zu dem Mädchen. Das Mädchen fragte ihn: ”Was hast du gemacht, hast du dich versteckt?&quot;</p>
+      <p>&quot;Ja, ich hatte mich versteckt.&quot;</p>
+      <p>Aber das Mädchen erklärte ihm ganz genau, wie und wo er sich befunden hatte. Schließlich sagte sie: &quot;Den heutigen Tag will ich dir verzeihen,weil du dich so geschickt vor mir verborgen hast.”</p>
+      <p>
+        Da ging der junge Mann wieder davon. Und als er sich auf eine Wiese setzte, stürzte sich etwas auf ihn, riß ihn in die Luft empor, entführte ihn,setzte ihn im Himme! ab und deckte ihn mit dem Flügel zu. Als das Mädchen am nächsten Morgen aufstand, sah sie in den Spiegel, schaute über 
+        <pb n="120"/>
+         Berge und Täler, konnte ihn aber nicht sehen. Sie blickte auf das Meer,konnte ihn aber nicht sehen. Als sie zum Himmel hinaufblickte, sah sie, daß ihn ein Geier verborgen hatte. Der Geier setzte den Burschen wieder auf der Erde ab. Der Bursche freute sich sehr: &quot;Sie hat mich nicht sehen können.&quot; Doch als er zu dem Mädchen kam, erzählte sie ihm alles. Jetzt verging der junge Mann fast vor Verdruß, aber auch das Mädchen staunte über sein Versteck, und sie sagte zu ihm: &quot;Auch heute will ich dir verzeihen.&quot;
+      </p>
+      <p>Da ging der Bursche davon, und wie er über das Feld lief, kam der Hirsch und sprach: &quot;Setz dich auf mich.&quot; Er nahm ihn auf seinen Rücken und trug ihn fort. Er führte ihn weit fort hinter alle Berge und verbarg ihn dort in einem Versteck, Als das Mädchen am Morgen aufstand, erblickte sie natürlich auch das. Und als der Bursche zu ihr kam, sagte sie: &quot;Junge,du hast gute Freunde, aber trotzdem ist es dir nicht gelungen, dich vor mir zu verbergen. Auch heute will ich dir verzeihen.&quot;</p>
+      <p>Da ging der Bursche betrübt davon. Er hatte keine Hoffnung mehr. Als er sich auf eine Wiese setzte, bebte die Erde. Die Stadt wurde erschüttert,es blitzte und donnerte, und bei einem Blitzschlag sprang sein Freund, der riesengroße Schakal Fuchs, hervor und rief: &quot;Ach was, Junge, fürchte dich nicht!”</p>
+      <p>Der Schakal Fuchs griff zu einer List und begann die Erde aufzuwühlen.</p>
+      <p>Er grub und grub und grub und grub bis dorthin, wo sich der Sitz des Mädchens befand. Dann sagte er zu dem jungen Mann: &quot;Bleib hier. Sie wird zum Himmel hinaufblicken, sie wird über die Berge schauen und das Meer absuchen, und wenn sie dich nicht finden kann, wird sie den Spiegel zerbrechen. Wenn du das vernimmst, so stoße mit dem Kopf oben an die Erde und komm heraus!”</p>
+      <p>Natürlich freute sich der junge Mann. Als das Mädchen am Morgen aufstand, schaute sie auf das Meer hinab, konnte ihn aber nicht sehen. Als sie über die Berge sah, fand sie ihn nicht. Als sie in den Himmel blickte,konnte sie ihn nicht sehen, und sie zerbrach den Spiegel. Da stieß der Bursche mit dem Kopf an die Erde und kam heraus, verneigte sich vor ihr und sprach: &quot;Du bist mein und ich bin dein.&quot; Sie riefen die Wesire, benachrichtigten den Herrscher, und es gab ein großes Fest.</p>
+    </body>
+  </text>
 </TEI>

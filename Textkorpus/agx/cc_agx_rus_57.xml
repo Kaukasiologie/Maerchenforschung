@@ -1,188 +1,199 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">4. (Во время пророка Соломона жил человек по имени Зал...)</title>
-    <author>
-     <name xml:id="AD">
-      <persName>
-       <forename>Adolf</forename>
-       <surname>Dirr</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
-    </author>
-    <editor>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-    </editor>
-    <editor>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-     <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-    </editor>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName ref="#ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-     </name>
-     <name>
-      <persName ref="#DF">
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-       <sourceDesc>
-      <biblStruct>
-        <analytic>
-          <title xml:lang="ru">Агулзский языкъ. Граматический очеркъ, тексты, сборникъ агульскихъ слобъ съ русскумъ къ нему указателемъ</title>
-          <author>
-            <persName ref="#AD">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">4. (Во время пророка Соломона жил человек по имени Зал...)</title>
+        <author>
+          <name xml:id="AD">
+            <persName>
               <forename>Adolf</forename>
               <surname>Dirr</surname>
             </persName>
-          </author>
-        </analytic>
-        <monogr>
-          <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
-          <imprint>
-            <pubPlace>Tiflis</pubPlace>
-            <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
-            <date when="1907">1907</date>
-          </imprint>
-          <biblScope unit="volume">37</biblScope>
-        </monogr>
-      </biblStruct>
-    </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>aE2 Epos Rostam(Schāhnāme)</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_agx_rus_57.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
-      <item>Warnung vor Gewalt und Missbrauch</item>
-      
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-    </placeName>
-    <date notAfter="1907">1907</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename> </forename>
-      <surname> </surname>
-     </persName>
-     <age/>
-     <birth>
-      <date/>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district/>
-       <settlement/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName key="#AD">
-      <forename>Adolf</forename>
-      <surname>Dirr</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>Text recognized by OCR has been corrected by ChatGPT.</change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
-   <text xml:id="cc_agx_rus_57">
-      <body>
-         <head>4.</head>
-         <p>Во время пророка Соломона жил человек по имени Зал, у которого была жена, раз забеременела. Прошло всего три месяца, и настало для нея время родить, но она не могла. Спросили у врача, что это значит. Врач сказал: "Этот ребенок не родится". — "А что делать?" спросили опять. "Надо открыть живот матери и вырезать ребенка". Так он и сделал, и когда вынули ребенка, то кормили его. (Этот ребенок был Рустам).</p>
-         <p>Прошло семь лет. В это время случилось, что белый дэв, которого Кахруман привязал, оторвался и спустился. Тогда падишах сказал Заду: "Твой дед привязал его; теперь ты иди и поймай его; если не можешь поймать его живым, убей его!" Зал готовился к борьбе с дэвом и взял свое оружие. Тогда Рустам спросил его: "Отец, что ты делаешь?" — "Мой дед привязал белого дэва. Тот оторвался, и я готовлюсь с ним сражаться". Самого Рустама же не пускали из дома: его охраняли.</p>
-         <p>(Но Рустам не вытерпел и выдумал хитрость, чтобы сбежать из дому). "Я иду мочиться," сказал он раз и пошел в нужник. С балкона он услышал шум. "Что это такое?" сказал он. Когда он пригляделся, то увидел, что аждаха идет — большой аждаха и отрывает людям головы. Но тогда Рустам уже больше не смог удержаться, ударил ногой об стену, так что она свалилась, и выпрыгнул на улицу. Когда Зал (его отец) услышал шум падающей стены, он сразу сказал своей семье: "Скорее смотрите, где Рустам!" Вышли, увидели разбитую стену и догадались, что Рустам это сделал и выбежал на улицу. Сразу же предупредили Зала. "Ах," сказал тот и поспешил за сыном. Увидел, что тот уже около дэва (аждаха). "Ох, плохо," вздохнул отец, но Рустам схватил дэва за рог и ударил его своим кулаком по хобу. Так сильно он ударил, что дэв упал в обморок, разбил себе голову в куски и умер. "Да сохрани тебя Бог," сказали люди Рустаму, "если бы тебя не было, этот дэв разрушил бы весь <pb n="91"/>город". И все собрались вокруг него: отец, народ, и сам падишах пришел и обнял его.</p>
-         <p>Потом Рустам вернулся домой со своим отцом. Когда они были опять у себя дома, отец сказал: "Теперь мне это оружие и эта лошадь, полученные мною от отцов, уже не нужны; ВОЗЬМИ ИХ!" И оба сидели спокойно.</p>
-         <p>Вот, вздумалось раз Рустаму пойти на охоту. "Отец, я иду на охоту!" сказал он. "Иди!" Рустам взял свое копье, свой баллук, свой охотничий нож, сел на свою лошадь Рахша и отправился. На горе он наткнулся на бегущего джейрана, пустился за ним в погоню на своем Рахше, ударил джейрана копьем и убил его. Вдруг, сзади появился человек, который сказал: "Этот джейран был мой; ты лучше сделал бы, если бы ты принес голову своего деда, которая висит во дворце белых дьяволов, в их городе, чем отнимать собственность бедных людей!" Рустаму стало жаль этого человека. "Возьми!" сказал он, отдал ему джейрана и вернулся домой. Дома он спросил отца: "Кто был твой отец, твой дед и твой прадед? И где умер он? Кто убил его?" — "Мой отец был Нариман, мой дед — Кахруман. Его голова висит на стене замка белых дьяволов, в их городе, на острове." — "Хорошо!" ответил Рустам, "я пойду туда! Позволь мне это, а если не позволишь, я все равно пойду!" — "Нет," сказал отец, "так и иди; я тебя туда отправлю вместе с купцами." Зал спросил у этих последних, когда они отправляются. "Послезавтра," ответили ему. Зал дал им 1000 червонцев и сказал: "В пищу моему сыну давайте быка, пять кварт риса, девять рам масла и один бурдюк вина; меньше пе давайте ему! Дайте мне также знать, как идут дела и не возвращайтесь прежде, чем Рустам достигнет своей цели!" — "Хорошо!" сказали купцы и отправились в путь. С ними отправился также Рустам.</p>
-         <p>Спустя три дня они добрались туда. Пусть останутся там пока, а мы расскажем о белом дьяволе. Этот последний узнал, что Рустам идет, что он хочет унести голову и разрушить город. "Если это так," думал белый дьявол, "я должен поставить караульщиков." И он так и сделал. Люди в городе белого дьявола, однако, предупредили Рустама, говоря: "Нельзя таким образом; если они тебя увидят, то все узнают, кто ты, запрут двери и не впустят тебя. Ты же не похож на других, одна твоя <pb n="92"/>спина шириной в 12 аршин. Если не проберешься в город хитростью, совсем не сможешь войти!" — "А как мне это сделать?" спросил Рустам. "Вот так! Утром караульщики разойдутся, и тогда ты сможешь войти в город." — "А как я узнаю, когда они разойдутся?" спросил Рустам опять. "Мы здесь останемся около тебя и скажем тебе." — "Хорошо!" сказал Рустам. Они провели ночь с ним. И, когда настал момент, сказали: "Теперь пора идти." Рустам взял свое оружие и вошел в город. Караульщики, хотя и видели его, но так испугались, что ни одного слова не сказали. Издали Рустам увидел голову своего деда и закричал от ярости. Крик был такой сильный, что беременные женщины сделали выкидыши. Рустам дошел до ворот, снял голову деда и снова закричал. Дьяволы узнали о прибытии Рустама и дали об этом знать своему падишаху. "Постарайтесь задержать его, пока я приду!" сказал дьявол-падишах. Дьяволы пошли навстречу Рустаму и сказали ему: "Нас, слабых, ты конечно победишь, но если ты настоящий мужчина, то подожди, пока придет наш падишах!" — "Подожду, никуда не пойду!" ответил Рустам. "Я хочу отомстить за своего деда. Я только иду передать эту голову купцам. Скажите это вашему падишаху и потревожьте свой народ!" Сказав, вернулся к товарищам, отдал им голову деда, сел на свою лошадь Рахш и вернулся в крепость. Падишах дьяволов встречал его на колеснице, запряженной слонами. "Ну-ка," сказал Рустам Рахшу, "теперь помоги мне стянуть его вниз," схватил его и старался стащить его с колесницы. Рахш помогал ему, но ослаб, сломал себе поясницу и упал. Ужасно разгневился Рустам, схватил дьявола за рог, бросил его на землю и ударил его так сильно ногою, что сердце и внутренности дьявола выскочили из его тела. "Теперь к вам!" сказал Рустам дьяволам, которые, окружив его, напали на него; ужасными ударами он им отрубил головы. В крепости стоял громадный гвалт, шум и крик. Когда купцы услышали, что там происходит, они послали в свой город бить тревогу и сказать отцу Рустама и падишаху, как дела. Те сейчас прилетели на помощь, но когда они пришли, то Рустам уже перебил всех дьяволов в крепости и сам уже вернулся. Все отправились домой; у Рустама руки распухли на три дня. Когда они пришли домой, то спросили у Рустама: "Что с тобой? <pb n="93"/>Что ты сделал?" — "Я принес голову деда и перебил всех в крепости," ответил он. "Спасибо тебе," сказали все. Рустам отдохнул.</p>
-         <p>Прошло несколько дней. Заметили, что на берегу моря каждый день исчезает 100 человек из войска. Падишах велел сказать Залу: "Что это? Не Рустам ли поедает этих людей? Что с ними происходит?" — "Не знаю," ответил Зал, "спросите-ка самого Рустама!" Потом он пошел и сказал этому последнему: "Эй, сынок, вот эти люди пришли спросить тебя; они хотят знать, не ты ли поедаешь этих сто людей, которые ежедневно исчезают. Падишах подозревает тебя." Рустам сказал: "Сегодня я не могу ответить вам, но 'завтра'. " Ночью он пошел на берег моря и стал караулить. Видит, что из моря выходит лошадь, приближается к войскам, поедает сто человек и уходит обратно в море. Утром Рустам рассказал своему отцу, что он видел и добавил: "Сегодня я поймаю этого пожирателя наших войск." Отец Рустама, Зал, отправился к дарю и сообщил ему о наблюдениях своего сына. Тот сделал себе сеть и ночью отправился поймать лошадь. Он поймал ее и привел к царю. Падишах посмотрел и видит: седло есть, и сабля, на которой написано: «чахи чачби чатбахил бэхри; я — лошадь Рустама».</p>
-      </body>
-   </text>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/116138696">116138696</idno>
+        </author>
+        <editor>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <editor>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName ref="#ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <name>
+            <persName ref="#DF">
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title xml:lang="ru">Агулзский языкъ. Граматический очеркъ, тексты, сборникъ агульскихъ слобъ съ русскумъ къ нему указателемъ</title>
+            <author>
+              <persName ref="#AD">
+                <forename>Adolf</forename>
+                <surname>Dirr</surname>
+              </persName>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j" xml:lang="ru">СМОМПК; Сборникъ матеріалов для описанія мѣстностей и племенъ Кавказа</title>
+            <imprint>
+              <pubPlace>Tiflis</pubPlace>
+              <publisher>Типографія Канцеляріи Намѣстника Его Императорскаго Величества на Кавказѣ</publisher>
+              <date when="1907">1907</date>
+            </imprint>
+            <biblScope unit="volume">37</biblScope>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>aE2 Epos Rostam(Schāhnāme)</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_agx_rus_57.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item>Warnung vor genderbedingt diskriminierenden Aussagen</item>
+            <item>Warnung vor Gewalt und Missbrauch</item>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date notAfter="1907">1907</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename> </forename>
+            <surname> </surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName key="#AD">
+            <forename>Adolf</forename>
+            <surname>Dirr</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>Text recognized by OCR has been corrected by ChatGPT.</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_agx_rus_57">
+    <body>
+      <head>4.</head>
+      <p>Во время пророка Соломона жил человек по имени Зал, у которого была жена, раз забеременела. Прошло всего три месяца, и настало для нея время родить, но она не могла. Спросили у врача, что это значит. Врач сказал: &quot;Этот ребенок не родится&quot;. — &quot;А что делать?&quot; спросили опять. &quot;Надо открыть живот матери и вырезать ребенка&quot;. Так он и сделал, и когда вынули ребенка, то кормили его. (Этот ребенок был Рустам).</p>
+      <p>Прошло семь лет. В это время случилось, что белый дэв, которого Кахруман привязал, оторвался и спустился. Тогда падишах сказал Заду: &quot;Твой дед привязал его; теперь ты иди и поймай его; если не можешь поймать его живым, убей его!&quot; Зал готовился к борьбе с дэвом и взял свое оружие. Тогда Рустам спросил его: &quot;Отец, что ты делаешь?&quot; — &quot;Мой дед привязал белого дэва. Тот оторвался, и я готовлюсь с ним сражаться&quot;. Самого Рустама же не пускали из дома: его охраняли.</p>
+      <p>
+        (Но Рустам не вытерпел и выдумал хитрость, чтобы сбежать из дому). &quot;Я иду мочиться,&quot; сказал он раз и пошел в нужник. С балкона он услышал шум. &quot;Что это такое?&quot; сказал он. Когда он пригляделся, то увидел, что аждаха идет — большой аждаха и отрывает людям головы. Но тогда Рустам уже больше не смог удержаться, ударил ногой об стену, так что она свалилась, и выпрыгнул на улицу. Когда Зал (его отец) услышал шум падающей стены, он сразу сказал своей семье: &quot;Скорее смотрите, где Рустам!&quot; Вышли, увидели разбитую стену и догадались, что Рустам это сделал и выбежал на улицу. Сразу же предупредили Зала. &quot;Ах,&quot; сказал тот и поспешил за сыном. Увидел, что тот уже около дэва (аждаха). &quot;Ох, плохо,&quot; вздохнул отец, но Рустам схватил дэва за рог и ударил его своим кулаком по хобу. Так сильно он ударил, что дэв упал в обморок, разбил себе голову в куски и умер. &quot;Да сохрани тебя Бог,&quot; сказали люди Рустаму, &quot;если бы тебя не было, этот дэв разрушил бы весь 
+        <pb n="91"/>
+        город&quot;. И все собрались вокруг него: отец, народ, и сам падишах пришел и обнял его.
+      </p>
+      <p>Потом Рустам вернулся домой со своим отцом. Когда они были опять у себя дома, отец сказал: &quot;Теперь мне это оружие и эта лошадь, полученные мною от отцов, уже не нужны; ВОЗЬМИ ИХ!&quot; И оба сидели спокойно.</p>
+      <p>Вот, вздумалось раз Рустаму пойти на охоту. &quot;Отец, я иду на охоту!&quot; сказал он. &quot;Иди!&quot; Рустам взял свое копье, свой баллук, свой охотничий нож, сел на свою лошадь Рахша и отправился. На горе он наткнулся на бегущего джейрана, пустился за ним в погоню на своем Рахше, ударил джейрана копьем и убил его. Вдруг, сзади появился человек, который сказал: &quot;Этот джейран был мой; ты лучше сделал бы, если бы ты принес голову своего деда, которая висит во дворце белых дьяволов, в их городе, чем отнимать собственность бедных людей!&quot; Рустаму стало жаль этого человека. &quot;Возьми!&quot; сказал он, отдал ему джейрана и вернулся домой. Дома он спросил отца: &quot;Кто был твой отец, твой дед и твой прадед? И где умер он? Кто убил его?&quot; — &quot;Мой отец был Нариман, мой дед — Кахруман. Его голова висит на стене замка белых дьяволов, в их городе, на острове.&quot; — &quot;Хорошо!&quot; ответил Рустам, &quot;я пойду туда! Позволь мне это, а если не позволишь, я все равно пойду!&quot; — &quot;Нет,&quot; сказал отец, &quot;так и иди; я тебя туда отправлю вместе с купцами.&quot; Зал спросил у этих последних, когда они отправляются. &quot;Послезавтра,&quot; ответили ему. Зал дал им 1000 червонцев и сказал: &quot;В пищу моему сыну давайте быка, пять кварт риса, девять рам масла и один бурдюк вина; меньше пе давайте ему! Дайте мне также знать, как идут дела и не возвращайтесь прежде, чем Рустам достигнет своей цели!&quot; — &quot;Хорошо!&quot; сказали купцы и отправились в путь. С ними отправился также Рустам.</p>
+      <p>
+        Спустя три дня они добрались туда. Пусть останутся там пока, а мы расскажем о белом дьяволе. Этот последний узнал, что Рустам идет, что он хочет унести голову и разрушить город. &quot;Если это так,&quot; думал белый дьявол, &quot;я должен поставить караульщиков.&quot; И он так и сделал. Люди в городе белого дьявола, однако, предупредили Рустама, говоря: &quot;Нельзя таким образом; если они тебя увидят, то все узнают, кто ты, запрут двери и не впустят тебя. Ты же не похож на других, одна твоя 
+        <pb n="92"/>
+        спина шириной в 12 аршин. Если не проберешься в город хитростью, совсем не сможешь войти!&quot; — &quot;А как мне это сделать?&quot; спросил Рустам. &quot;Вот так! Утром караульщики разойдутся, и тогда ты сможешь войти в город.&quot; — &quot;А как я узнаю, когда они разойдутся?&quot; спросил Рустам опять. &quot;Мы здесь останемся около тебя и скажем тебе.&quot; — &quot;Хорошо!&quot; сказал Рустам. Они провели ночь с ним. И, когда настал момент, сказали: &quot;Теперь пора идти.&quot; Рустам взял свое оружие и вошел в город. Караульщики, хотя и видели его, но так испугались, что ни одного слова не сказали. Издали Рустам увидел голову своего деда и закричал от ярости. Крик был такой сильный, что беременные женщины сделали выкидыши. Рустам дошел до ворот, снял голову деда и снова закричал. Дьяволы узнали о прибытии Рустама и дали об этом знать своему падишаху. &quot;Постарайтесь задержать его, пока я приду!&quot; сказал дьявол-падишах. Дьяволы пошли навстречу Рустаму и сказали ему: &quot;Нас, слабых, ты конечно победишь, но если ты настоящий мужчина, то подожди, пока придет наш падишах!&quot; — &quot;Подожду, никуда не пойду!&quot; ответил Рустам. &quot;Я хочу отомстить за своего деда. Я только иду передать эту голову купцам. Скажите это вашему падишаху и потревожьте свой народ!&quot; Сказав, вернулся к товарищам, отдал им голову деда, сел на свою лошадь Рахш и вернулся в крепость. Падишах дьяволов встречал его на колеснице, запряженной слонами. &quot;Ну-ка,&quot; сказал Рустам Рахшу, &quot;теперь помоги мне стянуть его вниз,&quot; схватил его и старался стащить его с колесницы. Рахш помогал ему, но ослаб, сломал себе поясницу и упал. Ужасно разгневился Рустам, схватил дьявола за рог, бросил его на землю и ударил его так сильно ногою, что сердце и внутренности дьявола выскочили из его тела. &quot;Теперь к вам!&quot; сказал Рустам дьяволам, которые, окружив его, напали на него; ужасными ударами он им отрубил головы. В крепости стоял громадный гвалт, шум и крик. Когда купцы услышали, что там происходит, они послали в свой город бить тревогу и сказать отцу Рустама и падишаху, как дела. Те сейчас прилетели на помощь, но когда они пришли, то Рустам уже перебил всех дьяволов в крепости и сам уже вернулся. Все отправились домой; у Рустама руки распухли на три дня. Когда они пришли домой, то спросили у Рустама: &quot;Что с тобой? 
+        <pb n="93"/>
+        Что ты сделал?&quot; — &quot;Я принес голову деда и перебил всех в крепости,&quot; ответил он. &quot;Спасибо тебе,&quot; сказали все. Рустам отдохнул.
+      </p>
+      <p>Прошло несколько дней. Заметили, что на берегу моря каждый день исчезает 100 человек из войска. Падишах велел сказать Залу: &quot;Что это? Не Рустам ли поедает этих людей? Что с ними происходит?&quot; — &quot;Не знаю,&quot; ответил Зал, &quot;спросите-ка самого Рустама!&quot; Потом он пошел и сказал этому последнему: &quot;Эй, сынок, вот эти люди пришли спросить тебя; они хотят знать, не ты ли поедаешь этих сто людей, которые ежедневно исчезают. Падишах подозревает тебя.&quot; Рустам сказал: &quot;Сегодня я не могу ответить вам, но 'завтра'. &quot; Ночью он пошел на берег моря и стал караулить. Видит, что из моря выходит лошадь, приближается к войскам, поедает сто человек и уходит обратно в море. Утром Рустам рассказал своему отцу, что он видел и добавил: &quot;Сегодня я поймаю этого пожирателя наших войск.&quot; Отец Рустама, Зал, отправился к дарю и сообщил ему о наблюдениях своего сына. Тот сделал себе сеть и ночью отправился поймать лошадь. Он поймал ее и привел к царю. Падишах посмотрел и видит: седло есть, и сабля, на которой написано: «чахи чачби чатбахил бэхри; я — лошадь Рустама».</p>
+    </body>
+  </text>
 </TEI>

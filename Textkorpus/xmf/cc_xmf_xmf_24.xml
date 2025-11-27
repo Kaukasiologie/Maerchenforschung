@@ -1,214 +1,222 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="xmf">19. სუმი ჯიმაშ არიკი</title>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
-     <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
-     <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
-     <distributor/>
-     <date when="1991">The year 1991</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="xmf">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_24.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item></item>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement ref="https://www.geonames.org/613614/k-urzu.html">Kurzu</settlement>
-       <geo/>
-      </placeName>
-    <date when="1923">1923</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Zoko</forename>
-      <surname>Akhalaia</surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename>Makar</forename>
-      <surname>Khubua</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_xmf_24">
-  <body>
-   <head>19. სუმი ჯიმაშ არიკი</head>
-   <p>ორდეს სუმი ჯიმა კოჩი. ჟირი ორდჷ მახაჩქალი, მასჷმა ორდჷ მონადირე, ნადირიში მაჸვილარი. სუმიხოლო ჩილამისქუამი რდეს, მუ საკურელიე. ათე ჟირი ჯიმა მუშენდჷ ჸვანას, მასჷმა ჯიმა ნადირიში ხორცით ეთეიჯუმანდჷ ჯალაბის. ართ დღას ორე თე კოჩი ონადირუს დო ეფერი დიხაშა მიდართჷ, დღას ვაულ აურეშე. ართი დიდი წყარს ქიმიოდირთჷ. მოლე მუთუნქ ვა̄შუ̄ ოჸვილარონ, იფიქრჷ:</p>
-   <p>- მორთი, მინი̄ბლე მელე, ეგებ მუთუნი ბძირევე. </p>
-   <p>დინი̄ლჷ წყარიშა დო მელენ ქიანას ეკილჷ. მუჭო ეკილჷ ძგაშა დო ზისნახეთ გინი̄რთჷ თე მონადირექ. ეფერი ზისნახეთ ნამჷდა, კოჩიში თოლი ეში უჯგუშის მუთას ძირუნს. მუ ქიმინას ე კოჩქ? ირსიოლჷ; მარა გინორთელი რე ცირათ დო ქორე.</p>
-   <p>ათე მელენ ქიანას გინულირიე ონადირუშა ხენწჷფეში სქუა. ტყას ქაშახვილუ̄ ზისნახეჯგურა ცირა თე ბოშიქ. მეწონჷ თე ცირაქ, მიდეჸონჷ მუშ ჸუდეშა დო გურგინი ქიგიდგჷ. გეურჩქინდჷ ართი ქომოლსქუაქ, მაჟირა ქომოლსქუაქ ხოლო გეურჩქინდჷ, დრო დო ხანქ გიშელუნ. წუხენს ე ცირა ძალამს მუში დუდიშო, ონარღჷ აქ სქუალეფიში ერჩქინა დო ექ მუში ჸუდეს ჩილი დო სქუალეფიში დოტება. იფიქრჷ ართიშა:  <pb n="240"/></p>
-   <p>- მორთი, მიდურქ ჩქიმი ქიანაშა დო ქობძიოჷ ჩილი დო სქუას შორიშე იშენი, დაბა მუჭო რენან დო მუჭო ვარიე.</p>
-   <p>გეგმოტყობჷ დღაშით დო მოლართჷ. ქჷმორთ თე წყარიშა, მუნილჷ დო გინირთჷ ჭაკი ცხენო. შიწუხჷ ნაბეტანი: - ზისნახე ვორდი დო ჭაკი ცხენო გინიბრთია.</p>
-   <p>კინი მელე მინილჷ - იშენი ჭაკი ცხენქ იჸუ̄. მიდართუ დო ხენწჷფეში ცხენენს ქახოლჷ. ეშელჷ ვარყაქ დო კვიცი ფაშატი ქჷდაშქჷ. მაჟირაშა ხოლო კვიცი ფაშატიქ იჸუ̄ დო მორდჷ თენა ხოლო. გიშელჷ დრო დო ხან ქჷნ, იფიქრჷ:</p>
-   <p>- მიდურქ ხოლო დო თი წყარს მინიბლენქია.</p>
-   <p>მინილჷ მელე დო ფინია ჯოღორო გინირთჷ, ჯუა ჯოღორო. ისოფჷ, იკეკჷ, "მუ ღორონქ გუმაჭყორჷ, მუჭო ჯოღორო გინიფრთია", მარა მუთაქ მეხვარჷ. მინილჷ მელე დო ქიმერთჷ მუში ხენწჷფეში ჸუდეშა. ეფერი სქვამირე თე ჯოღორი მიოჯინალო, ნამჷდა კოჩი უჯგუშის მუთას ძირუნს. ქორე ხენწჷფეში დოხორეს თე ჯოღორი დო ჟირი ლაკვენქ ქაშუ̄, ჟირხოლო მუმულქ, მორდჷ ენეფი ხოლო.</p>
-   <p>ასე მიშელჷ კინი თი აზრიშა ნამჷდა, ხოლო მინი̄ბლე თი წყარს დო მიდურქ ჸუდეშავა.</p>
-   <p>მოლართჷ აშო დო მინი̄ლჷ თე წყარი. მუჭო ეკილჷ დო - კინი მუჭო ორდჷ მონადირენ, თინერო ვაგინირთუო! და̄ჭყჷ ულა დო მოლართჷ მუშ ჸუდეშა. იჸუ̄ ძალამი მხიარულებაქ ართიანწკჷმა. გიშელჷ დრო დო ხანქ. ათე ქიანას ორე ართი ხენწჷფე, მეტი სქუა ვაჸუნს მუთუნი აკა ძღაბიშ მეტი. გინოჩჷ თე ხენწჷფექ აბალენიეფი ირი სახენწიფოშა:</p>
-   <p>- ართი ქვაბი ბჯას მინდორს ქიმწობდგუნქ დო მიდგა თის რაგადით იოფუნუანსიე, თის ჩილო ქიმეფჩა ჩქიმი ოსურსქუასია.</p>
-   <p>მეურს ქიანაში კოჩი, მარა მითინიში სიტყვას ვეიაფუნუ̄ ბჯაქ.</p>
-   <p>ათე მონადირე კოჩი ვარენო რენი, თექ იფიქრჷ:</p>
-   <p>- მა მიდურქ დო ქვეჩიებუქ ირფელი ჩქიმი გაჭირებას თი ბჟას დო ვეშილებენო ქიგეგონუასიე?!</p>
-   <p>გინი̄ლჷ თე კოჩქ დო მეურს ამდღა ხენწჷფეში დოხორეშა. გაჯინჷნმუში სქუა ჟირი ბოშეფი ქიგეხენა მუში სქუა ცხენენს დო მუში სქუა ჟირი ჯოღორეფი გვერშაპეფი ქეკოჸუნა უკახალე. ქეკაჭიშეს თე ბოშენქ თე მონადირეს შარას. უჩაში სქუა მუში მეურს წოხოლე დო თეს უწუ̄:</p>
-   <p>- თქვა სიდე მეურთჷნ, თექ მეურქ მახოლო, ჭიჭე დიხა მიდამიჸონი დო მარდი გერგებუ, ბაბა!</p>
-   <p>- ენა მუჭო გამიბედი მა სია. - თქუ̄ ბოშიქ, მოუნჭჷ მართახი დო ძალამი გოლახჷ ე კოჩი. უკულაში ჯიმა გეჸუნს უკახალენ, თექ ქჷმაჭიშუ̄ ეზჷმა ხანს დო გაჭყორჷ მუში ჯიმას: - მოხუცებული კოჩი მუჭო ლახი სია?  <pb n="242"/></p>
-   <p>გეგუ ე უკულაში ბოშიქ, მუშა რდჷ საქმენ. ქიმკიხუნუ̄ ე კოჩი ცხენიშა დო ქიმერთჷ ხენწჷფეში დოხორეშა. მინდორს ქვაბი ქიგედგჷ ბჟაში ეფშა. ქუგურენა მუკ-მუკი ირი სახენწიფოშე მულირი ბოშეფი დო ქეჩიებუნა მუნეფიში ამბე დო საჩიარს, მარა ბჟა ვაფუნს, ქორე გაჩემებული. ქიმერთ ხენწჷფეშა თე მოხუცებული კოჩქ დო თხუ̄:</p>
-   <p>- მა ქომიღუნო ნება, ქევეჩიე ბჟას ირფელი ჩქიმი გაჭირება დო ქოფუას ბჟაქჷნ, ოსურო ქომუჩანთ თქვანი სქუას დო ვარი?</p>
-   <p>- განჩინებით გინოჭყვადილი მაფჷ, - უწუ̄ ხენწჷფექ, - მიგიდაში სიტყვა დო რაგადი ბჟას იოფუნუანსჷნ, თის ოკო ქიმეფჩე ჩქიმი ოსურსქუა; ოკონ, მუქ დეკინას, ოკონ, შხვას აჩუქას, ინა ვარე ჩქიმი საქმე.</p>
-   <p>- აბა ჯგირია, - თქუ ბადიდიქ.</p>
-   <p>მოლართჷ დო ქჷმკუდიოთჷ ბჟაში ეფშა ქვაბის ირ კოს გუკვიროდჷ: - თე მოხუცებულს მუოთ ოკო თენა დო ვარდა ეში რაგადიქ მუ ოკო ჭკიოასიე.</p>
-   <p>ქიდი̄ჭყჷ ე კოჩქ დუდი ე მუში გაჭირება დო ირფელი ართო ქოთქუ̄. გა̄თუ̄ რაგადი დო ქოფუ̄ ბჟაქ.</p>
-   <p>ეჯგურა სა̄რკო ვოუძირჷ კოს დო უკვენს არძას. ათე ბოშეფი რენა თაქჷნ, თენენს ქუჩქუ ანწი მუშა რე საქმენი.</p>
-   <p>ხენწჷფექ ქიმიჸონჷ მუში ოსურსქუა დო ხეს ქჷდა̄კინუ̄ ბადიდის, ბადიდიქ მიკა̄რთჷ მუში სქუალენს დო უწუ̄:</p>
-   <p>- თქვათ ქიჸით დარწმუნებული, მუჭო მა თქვანი მუმა ვორექჷსი. უჩაში სქუას ეკუთნებუდჷ ე ცირა, მარა, რადგანს სი გობლახი დო უმარდული რექ ჩქიმიწკჷმან, თეშენი უკულაშის ვარზენქ მა ეს, მუჭოთ ჭკვერი დო მარდიანი ჸოფე თინან თეში.</p>
-   <p>ეუკინჷ დო უკულაში სქუას ქჷდახვამჷ ოსურო რე ცირა. ექ იჸუ̄ ირკოჩიშო სახიოლოქ, დუდო ხენწჷფეშო, მუ საკურელიე, დო უკული შხვაშო.</p>
-   <p>ხენწჷფექ ხენწჷფალა გეგლენწყჷ დო მუში სინჯას ქჷდახვამუ, რადგანს თინა ღირსეული ბოში ჸოფენ. ბოშიქ მოლეჸონჷ არძა ბადიდიში ჸუდეშარეფი დო აცხოვრენდჷ მუწკჷმა გემუანო.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf">19. სუმი ჯიმაშ არიკი</title>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Georgian Folklore. Megrelian Texts</title>
+          <title xml:lang="kat">ქართული ხალხური სიტყვიერება. მეგრული ტექსტები</title>
+          <title xml:lang="deu">Georgische Folksdichtung. Mingrelische Texte</title>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>TBILISI STATE UNIVERSITY PRESS</publisher>
+          <distributor/>
+          <date when="1991">The year 1991</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_24.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/613614/k-urzu.html">Kurzu</settlement>
+          <geo/>
+        </placeName>
+        <date when="1923">1923</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Zoko</forename>
+            <surname>Akhalaia</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_24">
+    <body>
+      <head>19. სუმი ჯიმაშ არიკი</head>
+      <p>ორდეს სუმი ჯიმა კოჩი. ჟირი ორდჷ მახაჩქალი, მასჷმა ორდჷ მონადირე, ნადირიში მაჸვილარი. სუმიხოლო ჩილამისქუამი რდეს, მუ საკურელიე. ათე ჟირი ჯიმა მუშენდჷ ჸვანას, მასჷმა ჯიმა ნადირიში ხორცით ეთეიჯუმანდჷ ჯალაბის. ართ დღას ორე თე კოჩი ონადირუს დო ეფერი დიხაშა მიდართჷ, დღას ვაულ აურეშე. ართი დიდი წყარს ქიმიოდირთჷ. მოლე მუთუნქ ვა̄შუ̄ ოჸვილარონ, იფიქრჷ:</p>
+      <p>- მორთი, მინი̄ბლე მელე, ეგებ მუთუნი ბძირევე. </p>
+      <p>დინი̄ლჷ წყარიშა დო მელენ ქიანას ეკილჷ. მუჭო ეკილჷ ძგაშა დო ზისნახეთ გინი̄რთჷ თე მონადირექ. ეფერი ზისნახეთ ნამჷდა, კოჩიში თოლი ეში უჯგუშის მუთას ძირუნს. მუ ქიმინას ე კოჩქ? ირსიოლჷ; მარა გინორთელი რე ცირათ დო ქორე.</p>
+      <p>
+        ათე მელენ ქიანას გინულირიე ონადირუშა ხენწჷფეში სქუა. ტყას ქაშახვილუ̄ ზისნახეჯგურა ცირა თე ბოშიქ. მეწონჷ თე ცირაქ, მიდეჸონჷ მუშ ჸუდეშა დო გურგინი ქიგიდგჷ. გეურჩქინდჷ ართი ქომოლსქუაქ, მაჟირა ქომოლსქუაქ ხოლო გეურჩქინდჷ, დრო დო ხანქ გიშელუნ. წუხენს ე ცირა ძალამს მუში დუდიშო, ონარღჷ აქ სქუალეფიში ერჩქინა დო ექ მუში ჸუდეს ჩილი დო სქუალეფიში დოტება. იფიქრჷ ართიშა:  
+        <pb n="240"/>
+      </p>
+      <p>- მორთი, მიდურქ ჩქიმი ქიანაშა დო ქობძიოჷ ჩილი დო სქუას შორიშე იშენი, დაბა მუჭო რენან დო მუჭო ვარიე.</p>
+      <p>გეგმოტყობჷ დღაშით დო მოლართჷ. ქჷმორთ თე წყარიშა, მუნილჷ დო გინირთჷ ჭაკი ცხენო. შიწუხჷ ნაბეტანი: - ზისნახე ვორდი დო ჭაკი ცხენო გინიბრთია.</p>
+      <p>კინი მელე მინილჷ - იშენი ჭაკი ცხენქ იჸუ̄. მიდართუ დო ხენწჷფეში ცხენენს ქახოლჷ. ეშელჷ ვარყაქ დო კვიცი ფაშატი ქჷდაშქჷ. მაჟირაშა ხოლო კვიცი ფაშატიქ იჸუ̄ დო მორდჷ თენა ხოლო. გიშელჷ დრო დო ხან ქჷნ, იფიქრჷ:</p>
+      <p>- მიდურქ ხოლო დო თი წყარს მინიბლენქია.</p>
+      <p>მინილჷ მელე დო ფინია ჯოღორო გინირთჷ, ჯუა ჯოღორო. ისოფჷ, იკეკჷ, &quot;მუ ღორონქ გუმაჭყორჷ, მუჭო ჯოღორო გინიფრთია&quot;, მარა მუთაქ მეხვარჷ. მინილჷ მელე დო ქიმერთჷ მუში ხენწჷფეში ჸუდეშა. ეფერი სქვამირე თე ჯოღორი მიოჯინალო, ნამჷდა კოჩი უჯგუშის მუთას ძირუნს. ქორე ხენწჷფეში დოხორეს თე ჯოღორი დო ჟირი ლაკვენქ ქაშუ̄, ჟირხოლო მუმულქ, მორდჷ ენეფი ხოლო.</p>
+      <p>ასე მიშელჷ კინი თი აზრიშა ნამჷდა, ხოლო მინი̄ბლე თი წყარს დო მიდურქ ჸუდეშავა.</p>
+      <p>მოლართჷ აშო დო მინი̄ლჷ თე წყარი. მუჭო ეკილჷ დო - კინი მუჭო ორდჷ მონადირენ, თინერო ვაგინირთუო! და̄ჭყჷ ულა დო მოლართჷ მუშ ჸუდეშა. იჸუ̄ ძალამი მხიარულებაქ ართიანწკჷმა. გიშელჷ დრო დო ხანქ. ათე ქიანას ორე ართი ხენწჷფე, მეტი სქუა ვაჸუნს მუთუნი აკა ძღაბიშ მეტი. გინოჩჷ თე ხენწჷფექ აბალენიეფი ირი სახენწიფოშა:</p>
+      <p>- ართი ქვაბი ბჯას მინდორს ქიმწობდგუნქ დო მიდგა თის რაგადით იოფუნუანსიე, თის ჩილო ქიმეფჩა ჩქიმი ოსურსქუასია.</p>
+      <p>მეურს ქიანაში კოჩი, მარა მითინიში სიტყვას ვეიაფუნუ̄ ბჯაქ.</p>
+      <p>ათე მონადირე კოჩი ვარენო რენი, თექ იფიქრჷ:</p>
+      <p>- მა მიდურქ დო ქვეჩიებუქ ირფელი ჩქიმი გაჭირებას თი ბჟას დო ვეშილებენო ქიგეგონუასიე?!</p>
+      <p>გინი̄ლჷ თე კოჩქ დო მეურს ამდღა ხენწჷფეში დოხორეშა. გაჯინჷნმუში სქუა ჟირი ბოშეფი ქიგეხენა მუში სქუა ცხენენს დო მუში სქუა ჟირი ჯოღორეფი გვერშაპეფი ქეკოჸუნა უკახალე. ქეკაჭიშეს თე ბოშენქ თე მონადირეს შარას. უჩაში სქუა მუში მეურს წოხოლე დო თეს უწუ̄:</p>
+      <p>- თქვა სიდე მეურთჷნ, თექ მეურქ მახოლო, ჭიჭე დიხა მიდამიჸონი დო მარდი გერგებუ, ბაბა!</p>
+      <p>
+        - ენა მუჭო გამიბედი მა სია. - თქუ̄ ბოშიქ, მოუნჭჷ მართახი დო ძალამი გოლახჷ ე კოჩი. უკულაში ჯიმა გეჸუნს უკახალენ, თექ ქჷმაჭიშუ̄ ეზჷმა ხანს დო გაჭყორჷ მუში ჯიმას: - მოხუცებული კოჩი მუჭო ლახი სია?  
+        <pb n="242"/>
+      </p>
+      <p>გეგუ ე უკულაში ბოშიქ, მუშა რდჷ საქმენ. ქიმკიხუნუ̄ ე კოჩი ცხენიშა დო ქიმერთჷ ხენწჷფეში დოხორეშა. მინდორს ქვაბი ქიგედგჷ ბჟაში ეფშა. ქუგურენა მუკ-მუკი ირი სახენწიფოშე მულირი ბოშეფი დო ქეჩიებუნა მუნეფიში ამბე დო საჩიარს, მარა ბჟა ვაფუნს, ქორე გაჩემებული. ქიმერთ ხენწჷფეშა თე მოხუცებული კოჩქ დო თხუ̄:</p>
+      <p>- მა ქომიღუნო ნება, ქევეჩიე ბჟას ირფელი ჩქიმი გაჭირება დო ქოფუას ბჟაქჷნ, ოსურო ქომუჩანთ თქვანი სქუას დო ვარი?</p>
+      <p>- განჩინებით გინოჭყვადილი მაფჷ, - უწუ̄ ხენწჷფექ, - მიგიდაში სიტყვა დო რაგადი ბჟას იოფუნუანსჷნ, თის ოკო ქიმეფჩე ჩქიმი ოსურსქუა; ოკონ, მუქ დეკინას, ოკონ, შხვას აჩუქას, ინა ვარე ჩქიმი საქმე.</p>
+      <p>- აბა ჯგირია, - თქუ ბადიდიქ.</p>
+      <p>მოლართჷ დო ქჷმკუდიოთჷ ბჟაში ეფშა ქვაბის ირ კოს გუკვიროდჷ: - თე მოხუცებულს მუოთ ოკო თენა დო ვარდა ეში რაგადიქ მუ ოკო ჭკიოასიე.</p>
+      <p>ქიდი̄ჭყჷ ე კოჩქ დუდი ე მუში გაჭირება დო ირფელი ართო ქოთქუ̄. გა̄თუ̄ რაგადი დო ქოფუ̄ ბჟაქ.</p>
+      <p>ეჯგურა სა̄რკო ვოუძირჷ კოს დო უკვენს არძას. ათე ბოშეფი რენა თაქჷნ, თენენს ქუჩქუ ანწი მუშა რე საქმენი.</p>
+      <p>ხენწჷფექ ქიმიჸონჷ მუში ოსურსქუა დო ხეს ქჷდა̄კინუ̄ ბადიდის, ბადიდიქ მიკა̄რთჷ მუში სქუალენს დო უწუ̄:</p>
+      <p>- თქვათ ქიჸით დარწმუნებული, მუჭო მა თქვანი მუმა ვორექჷსი. უჩაში სქუას ეკუთნებუდჷ ე ცირა, მარა, რადგანს სი გობლახი დო უმარდული რექ ჩქიმიწკჷმან, თეშენი უკულაშის ვარზენქ მა ეს, მუჭოთ ჭკვერი დო მარდიანი ჸოფე თინან თეში.</p>
+      <p>ეუკინჷ დო უკულაში სქუას ქჷდახვამჷ ოსურო რე ცირა. ექ იჸუ̄ ირკოჩიშო სახიოლოქ, დუდო ხენწჷფეშო, მუ საკურელიე, დო უკული შხვაშო.</p>
+      <p>ხენწჷფექ ხენწჷფალა გეგლენწყჷ დო მუში სინჯას ქჷდახვამუ, რადგანს თინა ღირსეული ბოში ჸოფენ. ბოშიქ მოლეჸონჷ არძა ბადიდიში ჸუდეშარეფი დო აცხოვრენდჷ მუწკჷმა გემუანო.</p>
+    </body>
+  </text>
 </TEI>

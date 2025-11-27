@@ -1,187 +1,189 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">ОХОИО</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a325 Zauberer und Schueler</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_64.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_64">
-  <body>
-   <head>ОХОИО</head>
-   <p>Был, говорят, не был один старый человек по имени Хасан и его внук Омар, который остался без родителей. Этот Хасан одному строил стену, другому делал окна, двери и таким образом содержал своего внука. Хасан не брал много денег за работу, кроме как на один день.</p>
-   <p>Вот этот Хасан постарел, лишился здоровья и стал неработоспособным. Он решил пристроить внука на учебу, чтобы тот приобрел хотъ какую-нибудь специальность. Собрал в дорогу еду, и они отправились в путь. Шли они с утра до вечера и дошли до одного озера. Пришли туда, решили остановиться на привал. Хасан сказал: «Ох-хо-хой». Как только у него это вышло, появился, один старик: «Кто меня. звал?». «Тебя никто не звал», — сказал Хасан. «А кто сказал «охойо»?» - спросил их этот человек. «Я устал и поэтому сказал», - ответил Хасан. «Вот, дорогой человек, я и есть тот самый Охойо. Ну, теперь, если Аллах даст, куда вы направились?» - крайне вежливо спросил тот человек. «Этого моего внука отправляю на учебу», - рассказал. Хасан. «Если хочешь, отдай мне, я тоже обучаю науке о хитрости», - сказал Охойо. Хасан поверил его словам и, согласившись, отправил внука вместе с. Охойо. Хасан вернулся обратно в свое село. Охойо забрал Омара домой и начал обучать его науке о хитрости.</p>
-   <p>Он научил его превращаться в курицу, ягненка, козленка, оленя, овцу, корову и быка. Так прошло два года. Дома у Охойо была зрелая девушка, которая готовила еду. Та девушка страстно влюбилась в Омара. Однажды она рассказала Омару, что за человек Охойо. «Омар, по мере возможности ты скорее беги отсюда. Он тебя скоро обратит в животное и съест. Он человек, который ест людей, превращая их в животных», - советовала она ему.</p>
-   <p>Утром следующего дня, еще на рассвете, Омар встал и убежал. Узнав об этом., Охойо побежал за ним. Когда он пытался его догнать, Омар обратился в курицу и побежал. А тот превратился в сокола и побежал вслед. Потом Омар превратился в ягненка, а Охойо - в лису, Омар - в козленка, тот - в орла, он в овцу, а Охойо - в волка, Омар превратился в корову, а он - в медведя. Вот-вот поймает. Омар потерял всякую надежду и обратился в пшеницу. А тот превратился в курицу и начал клевать пшеницу. Из оставшегося. одного зерна Омар превратился в сокола, и налетел на Охойо, который обернулся в курицу. Сокол разорвал эту курицу и выбросил.</p>
-   <p>После, того как убил Охойо, этот Омар превратился в человека, женился на той девушке, забрал все найденные драгоценности Охойо и пошел к своему дедушке. Когда пришел в село, пригласили муллу, совершили обряд бракосочетания и сыграли большую свадь тот старый дедушка Хасан, говорят, до сих пор живет и в окружении детей Омара рассказывает, сказки. Я был у них в гостях, они меня здорово угостили, и я пришел рассказать вам эту сказку.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">ОХОИО</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a325 Zauberer und Schueler</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_64.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_64">
+    <body>
+      <head>ОХОИО</head>
+      <p>Был, говорят, не был один старый человек по имени Хасан и его внук Омар, который остался без родителей. Этот Хасан одному строил стену, другому делал окна, двери и таким образом содержал своего внука. Хасан не брал много денег за работу, кроме как на один день.</p>
+      <p>Вот этот Хасан постарел, лишился здоровья и стал неработоспособным. Он решил пристроить внука на учебу, чтобы тот приобрел хотъ какую-нибудь специальность. Собрал в дорогу еду, и они отправились в путь. Шли они с утра до вечера и дошли до одного озера. Пришли туда, решили остановиться на привал. Хасан сказал: «Ох-хо-хой». Как только у него это вышло, появился, один старик: «Кто меня. звал?». «Тебя никто не звал», — сказал Хасан. «А кто сказал «охойо»?» - спросил их этот человек. «Я устал и поэтому сказал», - ответил Хасан. «Вот, дорогой человек, я и есть тот самый Охойо. Ну, теперь, если Аллах даст, куда вы направились?» - крайне вежливо спросил тот человек. «Этого моего внука отправляю на учебу», - рассказал. Хасан. «Если хочешь, отдай мне, я тоже обучаю науке о хитрости», - сказал Охойо. Хасан поверил его словам и, согласившись, отправил внука вместе с. Охойо. Хасан вернулся обратно в свое село. Охойо забрал Омара домой и начал обучать его науке о хитрости.</p>
+      <p>Он научил его превращаться в курицу, ягненка, козленка, оленя, овцу, корову и быка. Так прошло два года. Дома у Охойо была зрелая девушка, которая готовила еду. Та девушка страстно влюбилась в Омара. Однажды она рассказала Омару, что за человек Охойо. «Омар, по мере возможности ты скорее беги отсюда. Он тебя скоро обратит в животное и съест. Он человек, который ест людей, превращая их в животных», - советовала она ему.</p>
+      <p>Утром следующего дня, еще на рассвете, Омар встал и убежал. Узнав об этом., Охойо побежал за ним. Когда он пытался его догнать, Омар обратился в курицу и побежал. А тот превратился в сокола и побежал вслед. Потом Омар превратился в ягненка, а Охойо - в лису, Омар - в козленка, тот - в орла, он в овцу, а Охойо - в волка, Омар превратился в корову, а он - в медведя. Вот-вот поймает. Омар потерял всякую надежду и обратился в пшеницу. А тот превратился в курицу и начал клевать пшеницу. Из оставшегося. одного зерна Омар превратился в сокола, и налетел на Охойо, который обернулся в курицу. Сокол разорвал эту курицу и выбросил.</p>
+      <p>После, того как убил Охойо, этот Омар превратился в человека, женился на той девушке, забрал все найденные драгоценности Охойо и пошел к своему дедушке. Когда пришел в село, пригласили муллу, совершили обряд бракосочетания и сыграли большую свадь тот старый дедушка Хасан, говорят, до сих пор живет и в окружении детей Омара рассказывает, сказки. Я был у них в гостях, они меня здорово угостили, и я пришел рассказать вам эту сказку.</p>
+    </body>
+  </text>
 </TEI>

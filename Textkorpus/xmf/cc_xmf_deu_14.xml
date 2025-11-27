@@ -1,279 +1,300 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="deu">9. Obola</title>
-    <author>
-     <name xml:id="HF">
-      <persName>
-       <forename>Heinz</forename>
-       <surname>Fähnrich</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="KD">
-      <persName>
-       <forename>Korneli</forename>
-       <surname>Danelia</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="AZ">
-      <persName>
-       <forename>Apolon</forename>
-       <surname>Zanava</surname>
-      </persName>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name xml:id="ED">
-      <persName>
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date>2024</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="collection">
-     <title xml:lang="eng">Mingrelian Fairy Tales</title>
-     <title xml:lang="kat">მეგრული ზღაპრები</title>
-     <title xml:lang="deu">Mingrelische Märchen</title>
-     <author role="author">
-      <name ref="#HF">
-       <persName>
-        <forename>Heinz</forename>
-        <surname>Fähnrich</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#KD">
-       <persName>
-        <forename>Korneli</forename>
-        <surname>Danelia</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#AZ">
-       <persName>
-        <forename>Apolon</forename>
-        <surname>Tsanava</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-     <distributor/>
-     <date when="2001">The year 2001</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <langUsage>
-    <language ident="deu">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_14.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <creation>
-    <placeName>
-       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-       <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-       <district></district>
-       <settlement ref="https://www.geonames.org/613614/k-urzu.html">Kurzu</settlement>
-       <geo/>
-      </placeName>
-    <date when="1923">1923</date>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename>Equtime</forename>
-      <surname>Akhalaia</surname>
-     </persName>
-     <age></age>
-     <birth>
-      <date></date>
-      <placeName>
-       <country></country>
-       <region></region>
-       <district></district>
-       <settlement></settlement>
-       <geo/>
-      </placeName>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename>Makar</forename>
-      <surname>Khubua</surname>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
-  <revisionDesc>
-   <listChange>
-    <change>
-     <name/>
-     <date/>
-    </change>
-   </listChange>
-  </revisionDesc>
- </teiHeader>
- <text xml:id="cc_xmf_deu_14">
-  <body>
-   <head>Obola</head>
-   <p>Es waren einmal eine alte Frau und ihr Mann. In diesem Alter wurde ihnen ein Kind geboren, ein Junge. Als dieses Kind drei Jahre alt war,starben Mutter und Vater. Die Leute zogen das Kind auf. Als es sieben Jahre alt wurde, brachte es eines Tages das Mittagessen zu seinem Onkel,der auf dem Feld arbeitete. Als es ihm das Essen hin trug, sagte der Onkel:"Hüte diese Ochsen hier, ich will unterdessen im Schatten Mittag essen.</p>
-   <p>Paß gut auf, daß dir niemand die Ochsen wegnimmt oder sie stiehlt.”</p>
-   <p>"Gut”, sagte das Kind, und der Mann ging fort, um zu Mittag zu essen.</p>
-   <p>Inzwischen wurde es dem Kind heiß, es legte sich in den Schatten eines Ochsen und schlief ein. Während es schlief, kam ein Dieb und trieb die Ochsen fort. Als der Onkel dann kam und die Ochsen nicht mehr vorfand,weckte er das Kind und schlug es.</p>
-   <p>"Was hast du mit den Ochsen gemacht?" fragte er das Kind.</p>
-   <p>Das Kind antwortete: "Ich weiß es nicht."</p>
-   <p>Der Onkel jagte das Kind nach Hause. Als es heimkam, fragte die Tante:"Warum weinst du, Kind?"</p>
-   <p>"Weil der Onkel mich geschlagen hat."</p>
-   <p>"Wieso hat er dich geschlagen?" fragte die Tante.</p>
-   <p>"Weil man mir die Ochsen gestohlen hat."</p>
-   <p>Kaum hatte der Junge das gesagt, verprügelte ihn die Tante, und er rannte ganz davon. i</p>
-   <p>Das Kind lief dahin, heute, morgen, übermorgen... Es lief allein durch den Wald. Als es nachts schlief, träumte es etwas. Am nächsten Morgen stand es auf, es hatte ja keinen Menschen, der ihm den Traum hätte deuten können. Es lief seines Weges und lief und gelangte zum Haus eines Herrschers.</p>
-   <p>Der Junge fragte den Mann am Tor: "Braucht ihr jemanden als Tagelöhner?”"</p>
-   <p>Man berichtete es dem Herrscher. Der ließ den Jungen zu sich kommen und fragte ihn: "Für wie viel nimmst du den Dienst auf?"</p>
-   <p>"Für wie viel? Für drei, aber ich kenne auch einen schönen Traum."</p>
-   <p>"Was soll ich mit einem Traum", meinte der Herrscher und stellte den Jungen für ein Jahr in seinen Dienst. Als das Jahr um war, ließ der Herrscher den Jungen rufen und sprach: "Da hast du dein Geld, aber sage mir,was das für ein Traum war."</p>
-   <p>"Dir will ich meinen Traum nicht sagen", erklärte das Kind.<pb n="64"/></p>
-   <p>Der Herrscher geriet in Zorn: "Wie, wen willst du denn Besseren als mich finden, um ihm etwas zu erzählen!" Und er ließ das Kind verprügeln.</p>
-   <p>Da riß das Kind aus und lief zum Haus eines anderen Herrschers. Auch mit ihm kam es überein, für drei Tumani im Jahr zu arbeiten.</p>
-   <p>"Ich habe einen guten Traum gesehen", sagte der Junge auch zu ihm und trat in seinen Dienst.</p>
-   <p>Als ein Jahr vergangen war, ließ der Herrscher den Jungen zu sich kommen und sprach: "Ich will dir dein Geld geben, doch sage mir, was für einen Traum du des Nachts gesehen hat.“</p>
-   <p>"Meinen Traum halte ich nicht einem Herrscher für erzählenswert.”</p>
-   <p>Auch dieser Herrscher wurde wütend, ließ das Kind von anderen Jungen verprügeln und jagte es fort.</p>
-   <p>Das Kind zog seines Weges und kam zum Haus eines dritten Herrschers.</p>
-   <p>Auch hier erging ihm alles so wie vorher. Doch beim Auszahlen des Geldes begnügte sich der Herrscher nicht wie die anderen damit, es zu schlagen,sondern er befahl den Höflingen: "Führt diesen widerspenstigen Jungen sofort weg und tötet ihn!"</p>
-   <p>Dieser Herrscher hatte eine Tochter und einen Sohn. Das Mädchen wollte nicht, daß die Höflinge den Jungen töteten, und als man ihn zum Tor hinausführte, trat sie ihnen entgegen und bat: "Laßt diesen Jungen in den ausgetrockneten Brunnen an dem und dem Ort hinab und totet ihn nicht zu eurem Seelenheil!"</p>
-   <p>Dem Mädchen zuliebe ließen die Männer, die ihn töten sollten, den Jungen in den Brunnen hinab. Dem Herrscher aber sagten sie: "Wir haben ihn fortgebracht und getötet."</p>
-   <p>Die Tochter des Herrschers fand Zeit und gab dem Jungen zu essen. Wieder Junge heute war, war er morgen noch besser, und wie er morgen war,war er übermorgen noch besser. So wuchs der Junge durch die Fürsorge des Mädchens heran. Als er zwanzig Jahre alt sein mochte, sandte der Herrscher, der der Vater der künftigen Braut des Sohnes dieses Herrschers war,diesem einen Boten und ließ ihm ausrichten: "Ich will dir meine Tochter geben, wenn du folgendes herausfindest: Ich werde dir zwei Pferde schicken, das eine ist das eines Fürsten, das andere das eines Bauern. Beide haben die gleiche Gestalt, und wenn du erkennst, welches von ihnen das Pferd des Bauern ist, dann könnt ihr das Mädchen sofort mitnehmen.” ;</p>
-   <p>Um diese Geschichte herauszufinden, beriet man sich in der Familie des Herrschers, und das Mädchen verspätete sich, dem Jungen das Essen zubringen. Endlich erinnerte sie sich und brachte dem Jungen die Speise.</p>
-   <p>Der Junge hieß Obola, weil er ein Waisenkind war. Obola machte dem Mädchen Vorwürfe: "Warum hast du mir solange kein Essen gebracht.”</p>
-   <p>Das Mädchen erzählte Obola all ihre Not. Da sagte Obola zu ihr: "Du <pb n="65"/> hast sehr viel für mich getan, und darum will ich dir sagen, wie man die Pferde unterscheiden kann. Räumt ein Haus leer, öffnet eine Tür, verstreut drinnen Heu und laßt die Pferde hinein, um das Heu zu fressen. Das Pferd,das das Haus betritt, sich sofort wälzt und dann zu fressen beginnt, ist das des Fürsten. Das andere Pferd wird hineingehen und sofort anfangen zufressen: Das ist das Pferd des Bauern."</p>
-   <p>Erfreut kam das Mädchen nach Hause und sagte zu ihrem Vater: "Ich werde die Pferde unterscheiden, laß sie herschicken.”</p>
-   <p>Tatsächlich machte das Mädchen alles so, wie der Junge es ihr geratenhatte, und behielt sie nicht recht?!</p>
-   <p>"Deswegen allein kann ich dir meine Tochter nicht geben", ließ der Herrscher ausrichten und schickte einen Mann hin: "Wenn du einen Mannin deinem Reich finden kannst, der von dort aus den Kamin meines Hauseszertrümmert, dann könnt ihr meine Tochter haben.”</p>
-   <p>Das Mädchen sagte zu ihrem Vater: "Wir können keinen anderen Mann finden, der das vermag, außer Obola. Wenn er uns das zuwege bringt,andernfalls ist unsere Sache verloren.”</p>
-   <p>"Was ist das für ein Mann, dieser Obola?" fragte der Herrscher.</p>
-   <p>"Das ist der, den du vor dreizehn Jahren fortgeschafft hast. Das ist der,der mich gelehrt hat, das Pferd herauszufinden, und auch in dieser Angelegenheit wird er uns sicher wieder retten", sagte das Mädchen.</p>
-   <p>"War das nicht der, den ich habe töten lassen? Wie ist er denn wiederlebendig geworden, wo ist er hergekommen?" wunderte sich der Herrscher,</p>
-   <p>"Ich hatte ihn in einem Brunnen unter der Erde, Von damals bis heute habe ich ihm heimlich Essen gegeben, und er hat uns schon aus einer Notlage befreit. Wenn er Euch auch aus der zweiten heraus hilft, so wißt Ihr, was Ihr zu tun habt, wenn nicht, so macht, was Ihr wollt", meinte das Mädchen,</p>
-   <p>"Wenn das so ist, so ist das sehr gut", sprach der Herrscher und ließ Obola herbringen.</p>
-   <p>"Los, zeig, was du kannst", sagte man zu ihm.</p>
-   <p>Obola ließ einen guten Pfeil und einen Bogen schmieden, Er nahm ihn in die Hand, zielte auf das Haus jenes Herrschers und schoß. Der Pfeil traf das Haus und zertrümmerte den Kamin.</p>
-   <p>"Kommt her, ihr Brautführer", ließ der andere Herrscher ihnen ausrichten.</p>
-   <p>Der hiesige Herrscher suchte Brautführer, doch Obola nahm keinen einzigen mit: "Ich will allein losziehen und deine Schwiegertochter herbringen.”</p>
-   <p>Der Herrscher sprach: "Du weißt schon, wie du heil zurückkommst.”</p>
-   <p>Obola traf Vorbereitungen, setzte sich auf sein Pferd und ritt davon. <pb n="66"/> Unterwegs traf er auf einen Fluß. Als er Ausschau hielt, hatte sich ein riesengroßer Mann an den Fluß gelegt und trank. Hinter diesem Mann floß kein einziger Schluck weiter, und dabei rief er immerzu: "Ich sterbe vor Durst."</p>
-   <p>Obola ging hin und sagte: "Bruder, was bist du für ein Mann, daß du soviel Wasser auf einmal trinkst und noch rufst: Ich sterbe vor Durst.”</p>
-   <p>"Was bin ich schon für ein Mann, ein richtiger Mann ist Obola", sprach der andere.</p>
-   <p>"Ich bin Obola, schließ mit mir Freundschaft", sagte er.</p>
-   <p>“Gut."</p>
-   <p>Sie wurden Freunde und zogen dahin. Als sie auf ein Feld gelangten,sahen sie etwas, das eines Menschen Auge noch nie erblickt hat: Vor einen Pflug waren sechzehn Joch Büffel gespannt und pflügten den Boden. Die Schollen, die beim Pflügen herabfielen, aß der Mann, der dem Pflug folgte,alle auf und rief dabei: "Weh mir Unglücklichem, ich sterbe vor Hunger."</p>
-   <p>“Bruder, was bist du für ein Mann?" fragte Obola.</p>
-   <p>"Was bin ich schon für ein Mann, ein richtiger Mann ist Obola."</p>
-   <p>“Ich bin Obola, 1aß uns Freundschaft schließen." Der Mann schloß mit ihm Freundschaft, und sie zogen zu dritt weiter. Wie sie unterwegs waren,trafen sie einen dritten Mann. An den Füßen trug er zweihundert Pud schwere Mühlsteine und rannte damit dahin.</p>
-   <p>"Was bist du für ein Mann, Bruder?" fragte Obola.</p>
-   <p>“Was bin ich schon für ein Mann, mein Lieber, ein richtiger Mann ist Obola."</p>
-   <p>"Ich bin Obola, laß uns Freunde werden."</p>
-   <p>Auch dieser Mann schloß mit ihm Freundschaft, und zu viert gelangtensie zum Haus des Herrschers. Unterwegs begegnete ihnen noch ein Mann,der stand auf einer Wiese und starrte in die Luft.</p>
-   <p>“Bruder, wonach hältst du denn unentwegt Ausschau?" fragte Obola.</p>
-   <p>"Ich war der Herr der Vögel. Eine Taube hat mich wütend gemacht, denn sie hat ihr Nest am Himmel gebaut. Ich habe von hier aus einen Pfahl hinauf geworfen, und im vergangenen Jahr ist das Nest herabgefallen, weil es schwer war. Jetzt beobachte ich die Taube, aber sie ist noch nicht in der Nähe", sprach der Mann.</p>
-   <p>"Du bist ein sehr starker Mann, Bruder", meinte Obola.</p>
-   <p>"Was bin ich schon für ein Mann, ein richtiger Mann ist Obola."</p>
-   <p>"Obola bin ich, laß uns Freundschaft schließen.” Auch dieser Mann wurde sein Freund, und sie zogen alle zusammen weiter und erreichten das Haus des Herrschers. Der hatte eine große Tafel gedeckt, man hatte tausend Ochsen geschlachtet und reichlich Speisen und Getränke zusammengetragen. <pb n="67"/> </p>
-   <p>"Wenn ihr das alles nicht austrinkt und aufeßt, gebe ich euch das Mädchen nicht, sondern entlasse euch mit leeren Händen”, sprach der Herrscher.</p>
-   <p>Während der Herrscher dies noch sagte, hatte der Wassertrinker schon den Wein ausgetrunken und der Erdesser das Brot und das Fleisch aufgegessen, bevor er Zeit fand, sich umzudrehen.</p>
-   <p>Als der Herrscher das sah, schämte er sich und sprach: "Dafür kann ich euch meine Tochter nicht geben. Schicken wir zwei Läufer los, einen von euch und einen von uns, um Meereswasser zu holen. Und dann wollen wir sehen, welcher es zuerst bringt. Wenn euer Mann das Wasser zuerst bringt,so möge Gott euch meine Tochter glücklich machen; wenn aber mein Läufer zuerst da ist, werde ich euch das Mädchen nicht geben."</p>
-   <p>Sie kamen überein und ließen die Läufer loslaufen. Der Herrscher ließ einen Teufel laufen und Obola den Mann, der mit den Mühlsteinen lief, Der Mann übertraf den Teufel im Laufen und ließ ihn unterwegs zurück.</p>
-   <p>Der Teufel dachte: Dem werde ich’s auf meine Art zeigen.</p>
-   <p>Er verwandelte sich in einen Mönch, deckte einen Tisch und stellte ihn voller Getränke. Als Obolas Mann das Wasser geholt hatte und zurückkam,empfing ihn der Mönch und lud ihn zum Trinken ein. Der Mann hatte Durst. Er setzte sich an den Tisch und betrank sich völlig. Als er betrunken war, schlief er ein. Der Mönch wurde wieder zum Teufel, ergriff die Flasche mit dem Wasser und rannte davon.</p>
-   <p>Als die Läufer sich mit dem Wasser verspäteten, sagte Obola zu dem weitsichtigen Mann: "Sieh doch einmal nach, ob sich jener Mann nicht etwa eine Teufelei ausgedacht hat!"</p>
-   <p>Als der Mann Ausschau hielt, sah er, daß der Teufel ihren Kameraden trunken gemacht hatte, dessen Flasche mit dem Wasser bei sich trug und mit großem Eifer hergerannt kam.</p>
-   <p>Da ergriff der weitsehende Mann einen Pfahl, warf ihn nach dem Tisch,an dem der Betrunkene schlief, und brach ihm die Beine ab. Der Betrunkene sprang auf, und als er das Wasser nicht finden konnte, begriff er alles,lief los, holte den Teufel ein, nahm ihm die Flasche weg und brachte das Wasser her.</p>
-   <p>Was hätte der Herrscher machen sollen? Er führte seine Tochter herbei und gab sie Obola. Der brachte sie in das Haus seines Herrschers. Es wurde ein Fest veranstaltet und war großer Trubel. Am dritten Tag schlief Obola ein. Der Herrscher gab seinem Koch den Auftrag: "Bereite mir am Abend ein gutes Essen zu Ehren von Obola."</p>
-   <p>Man bereitete das Essen zu, und Obola erwachte. Der Herrscher und seine Frau nahmen Obola in ihre Mitte und stellten ihre eigene Tochter als Mundschenk an. <pb n="68"/> </p>
-   <p>Als sie gut gegessen hatten, entschuldigte sich der Herrscher bei Obola und sprach: "Ich hoffe, daß du mir meinen Fehler nicht übel nimmst und mir sagst, was du in der Kindheit geträumt hast.”</p>
-   <p>Obola antwortete: "Im Traum saß ich zwischen Sonne und Mond, und ein Stern bediente mich.”</p>
-   <p>Der Herrscher erklärte ihm, daß Sonne und Mond sie selbst waren, Frau und Mann, und der Stern ihre Tochter. Er verheiratete seine Tochter mit Obola, segnete sie, behandelte Obola wie seinen jüngsten Sohn, und sie lebten im Glück.</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="deu">9. Obola</title>
+        <author>
+          <name xml:id="HF">
+            <persName>
+              <forename>Heinz</forename>
+              <surname>Fähnrich</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/120380099">120380099</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="KD">
+            <persName>
+              <forename>Korneli</forename>
+              <surname>Danelia</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1158005199">1158005199</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="AZ">
+            <persName>
+              <forename>Apolon</forename>
+              <surname>Zanava</surname>
+            </persName>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name xml:id="ED">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="collection">
+          <title xml:lang="eng">Mingrelian Fairy Tales</title>
+          <title xml:lang="kat">მეგრული ზღაპრები</title>
+          <title xml:lang="deu">Mingrelische Märchen</title>
+          <author role="author">
+            <name ref="#HF">
+              <persName>
+                <forename>Heinz</forename>
+                <surname>Fähnrich</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#KD">
+              <persName>
+                <forename>Korneli</forename>
+                <surname>Danelia</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#AZ">
+              <persName>
+                <forename>Apolon</forename>
+                <surname>Tsanava</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
+          <distributor/>
+          <date when="2001">The year 2001</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_xmf_kat_14.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/613614/k-urzu.html">Kurzu</settlement>
+          <geo/>
+        </placeName>
+        <date when="1923">1923</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Equtime</forename>
+            <surname>Akhalaia</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country/>
+              <region/>
+              <district/>
+              <settlement/>
+              <geo/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <name/>
+          <date/>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_deu_14">
+    <body>
+      <head>Obola</head>
+      <p>Es waren einmal eine alte Frau und ihr Mann. In diesem Alter wurde ihnen ein Kind geboren, ein Junge. Als dieses Kind drei Jahre alt war,starben Mutter und Vater. Die Leute zogen das Kind auf. Als es sieben Jahre alt wurde, brachte es eines Tages das Mittagessen zu seinem Onkel,der auf dem Feld arbeitete. Als es ihm das Essen hin trug, sagte der Onkel:&quot;Hüte diese Ochsen hier, ich will unterdessen im Schatten Mittag essen.</p>
+      <p>Paß gut auf, daß dir niemand die Ochsen wegnimmt oder sie stiehlt.”</p>
+      <p>&quot;Gut”, sagte das Kind, und der Mann ging fort, um zu Mittag zu essen.</p>
+      <p>Inzwischen wurde es dem Kind heiß, es legte sich in den Schatten eines Ochsen und schlief ein. Während es schlief, kam ein Dieb und trieb die Ochsen fort. Als der Onkel dann kam und die Ochsen nicht mehr vorfand,weckte er das Kind und schlug es.</p>
+      <p>&quot;Was hast du mit den Ochsen gemacht?&quot; fragte er das Kind.</p>
+      <p>Das Kind antwortete: &quot;Ich weiß es nicht.&quot;</p>
+      <p>Der Onkel jagte das Kind nach Hause. Als es heimkam, fragte die Tante:&quot;Warum weinst du, Kind?&quot;</p>
+      <p>&quot;Weil der Onkel mich geschlagen hat.&quot;</p>
+      <p>&quot;Wieso hat er dich geschlagen?&quot; fragte die Tante.</p>
+      <p>&quot;Weil man mir die Ochsen gestohlen hat.&quot;</p>
+      <p>Kaum hatte der Junge das gesagt, verprügelte ihn die Tante, und er rannte ganz davon. i</p>
+      <p>Das Kind lief dahin, heute, morgen, übermorgen... Es lief allein durch den Wald. Als es nachts schlief, träumte es etwas. Am nächsten Morgen stand es auf, es hatte ja keinen Menschen, der ihm den Traum hätte deuten können. Es lief seines Weges und lief und gelangte zum Haus eines Herrschers.</p>
+      <p>Der Junge fragte den Mann am Tor: &quot;Braucht ihr jemanden als Tagelöhner?”&quot;</p>
+      <p>Man berichtete es dem Herrscher. Der ließ den Jungen zu sich kommen und fragte ihn: &quot;Für wie viel nimmst du den Dienst auf?&quot;</p>
+      <p>&quot;Für wie viel? Für drei, aber ich kenne auch einen schönen Traum.&quot;</p>
+      <p>&quot;Was soll ich mit einem Traum&quot;, meinte der Herrscher und stellte den Jungen für ein Jahr in seinen Dienst. Als das Jahr um war, ließ der Herrscher den Jungen rufen und sprach: &quot;Da hast du dein Geld, aber sage mir,was das für ein Traum war.&quot;</p>
+      <p>
+        &quot;Dir will ich meinen Traum nicht sagen&quot;, erklärte das Kind.
+        <pb n="64"/>
+      </p>
+      <p>Der Herrscher geriet in Zorn: &quot;Wie, wen willst du denn Besseren als mich finden, um ihm etwas zu erzählen!&quot; Und er ließ das Kind verprügeln.</p>
+      <p>Da riß das Kind aus und lief zum Haus eines anderen Herrschers. Auch mit ihm kam es überein, für drei Tumani im Jahr zu arbeiten.</p>
+      <p>&quot;Ich habe einen guten Traum gesehen&quot;, sagte der Junge auch zu ihm und trat in seinen Dienst.</p>
+      <p>Als ein Jahr vergangen war, ließ der Herrscher den Jungen zu sich kommen und sprach: &quot;Ich will dir dein Geld geben, doch sage mir, was für einen Traum du des Nachts gesehen hat.“</p>
+      <p>&quot;Meinen Traum halte ich nicht einem Herrscher für erzählenswert.”</p>
+      <p>Auch dieser Herrscher wurde wütend, ließ das Kind von anderen Jungen verprügeln und jagte es fort.</p>
+      <p>Das Kind zog seines Weges und kam zum Haus eines dritten Herrschers.</p>
+      <p>Auch hier erging ihm alles so wie vorher. Doch beim Auszahlen des Geldes begnügte sich der Herrscher nicht wie die anderen damit, es zu schlagen,sondern er befahl den Höflingen: &quot;Führt diesen widerspenstigen Jungen sofort weg und tötet ihn!&quot;</p>
+      <p>Dieser Herrscher hatte eine Tochter und einen Sohn. Das Mädchen wollte nicht, daß die Höflinge den Jungen töteten, und als man ihn zum Tor hinausführte, trat sie ihnen entgegen und bat: &quot;Laßt diesen Jungen in den ausgetrockneten Brunnen an dem und dem Ort hinab und totet ihn nicht zu eurem Seelenheil!&quot;</p>
+      <p>Dem Mädchen zuliebe ließen die Männer, die ihn töten sollten, den Jungen in den Brunnen hinab. Dem Herrscher aber sagten sie: &quot;Wir haben ihn fortgebracht und getötet.&quot;</p>
+      <p>Die Tochter des Herrschers fand Zeit und gab dem Jungen zu essen. Wieder Junge heute war, war er morgen noch besser, und wie er morgen war,war er übermorgen noch besser. So wuchs der Junge durch die Fürsorge des Mädchens heran. Als er zwanzig Jahre alt sein mochte, sandte der Herrscher, der der Vater der künftigen Braut des Sohnes dieses Herrschers war,diesem einen Boten und ließ ihm ausrichten: &quot;Ich will dir meine Tochter geben, wenn du folgendes herausfindest: Ich werde dir zwei Pferde schicken, das eine ist das eines Fürsten, das andere das eines Bauern. Beide haben die gleiche Gestalt, und wenn du erkennst, welches von ihnen das Pferd des Bauern ist, dann könnt ihr das Mädchen sofort mitnehmen.” ;</p>
+      <p>Um diese Geschichte herauszufinden, beriet man sich in der Familie des Herrschers, und das Mädchen verspätete sich, dem Jungen das Essen zubringen. Endlich erinnerte sie sich und brachte dem Jungen die Speise.</p>
+      <p>Der Junge hieß Obola, weil er ein Waisenkind war. Obola machte dem Mädchen Vorwürfe: &quot;Warum hast du mir solange kein Essen gebracht.”</p>
+      <p>
+        Das Mädchen erzählte Obola all ihre Not. Da sagte Obola zu ihr: &quot;Du 
+        <pb n="65"/>
+         hast sehr viel für mich getan, und darum will ich dir sagen, wie man die Pferde unterscheiden kann. Räumt ein Haus leer, öffnet eine Tür, verstreut drinnen Heu und laßt die Pferde hinein, um das Heu zu fressen. Das Pferd,das das Haus betritt, sich sofort wälzt und dann zu fressen beginnt, ist das des Fürsten. Das andere Pferd wird hineingehen und sofort anfangen zufressen: Das ist das Pferd des Bauern.&quot;
+      </p>
+      <p>Erfreut kam das Mädchen nach Hause und sagte zu ihrem Vater: &quot;Ich werde die Pferde unterscheiden, laß sie herschicken.”</p>
+      <p>Tatsächlich machte das Mädchen alles so, wie der Junge es ihr geratenhatte, und behielt sie nicht recht?!</p>
+      <p>&quot;Deswegen allein kann ich dir meine Tochter nicht geben&quot;, ließ der Herrscher ausrichten und schickte einen Mann hin: &quot;Wenn du einen Mannin deinem Reich finden kannst, der von dort aus den Kamin meines Hauseszertrümmert, dann könnt ihr meine Tochter haben.”</p>
+      <p>Das Mädchen sagte zu ihrem Vater: &quot;Wir können keinen anderen Mann finden, der das vermag, außer Obola. Wenn er uns das zuwege bringt,andernfalls ist unsere Sache verloren.”</p>
+      <p>&quot;Was ist das für ein Mann, dieser Obola?&quot; fragte der Herrscher.</p>
+      <p>&quot;Das ist der, den du vor dreizehn Jahren fortgeschafft hast. Das ist der,der mich gelehrt hat, das Pferd herauszufinden, und auch in dieser Angelegenheit wird er uns sicher wieder retten&quot;, sagte das Mädchen.</p>
+      <p>&quot;War das nicht der, den ich habe töten lassen? Wie ist er denn wiederlebendig geworden, wo ist er hergekommen?&quot; wunderte sich der Herrscher,</p>
+      <p>&quot;Ich hatte ihn in einem Brunnen unter der Erde, Von damals bis heute habe ich ihm heimlich Essen gegeben, und er hat uns schon aus einer Notlage befreit. Wenn er Euch auch aus der zweiten heraus hilft, so wißt Ihr, was Ihr zu tun habt, wenn nicht, so macht, was Ihr wollt&quot;, meinte das Mädchen,</p>
+      <p>&quot;Wenn das so ist, so ist das sehr gut&quot;, sprach der Herrscher und ließ Obola herbringen.</p>
+      <p>&quot;Los, zeig, was du kannst&quot;, sagte man zu ihm.</p>
+      <p>Obola ließ einen guten Pfeil und einen Bogen schmieden, Er nahm ihn in die Hand, zielte auf das Haus jenes Herrschers und schoß. Der Pfeil traf das Haus und zertrümmerte den Kamin.</p>
+      <p>&quot;Kommt her, ihr Brautführer&quot;, ließ der andere Herrscher ihnen ausrichten.</p>
+      <p>Der hiesige Herrscher suchte Brautführer, doch Obola nahm keinen einzigen mit: &quot;Ich will allein losziehen und deine Schwiegertochter herbringen.”</p>
+      <p>Der Herrscher sprach: &quot;Du weißt schon, wie du heil zurückkommst.”</p>
+      <p>
+        Obola traf Vorbereitungen, setzte sich auf sein Pferd und ritt davon. 
+        <pb n="66"/>
+         Unterwegs traf er auf einen Fluß. Als er Ausschau hielt, hatte sich ein riesengroßer Mann an den Fluß gelegt und trank. Hinter diesem Mann floß kein einziger Schluck weiter, und dabei rief er immerzu: &quot;Ich sterbe vor Durst.&quot;
+      </p>
+      <p>Obola ging hin und sagte: &quot;Bruder, was bist du für ein Mann, daß du soviel Wasser auf einmal trinkst und noch rufst: Ich sterbe vor Durst.”</p>
+      <p>&quot;Was bin ich schon für ein Mann, ein richtiger Mann ist Obola&quot;, sprach der andere.</p>
+      <p>&quot;Ich bin Obola, schließ mit mir Freundschaft&quot;, sagte er.</p>
+      <p>“Gut.&quot;</p>
+      <p>Sie wurden Freunde und zogen dahin. Als sie auf ein Feld gelangten,sahen sie etwas, das eines Menschen Auge noch nie erblickt hat: Vor einen Pflug waren sechzehn Joch Büffel gespannt und pflügten den Boden. Die Schollen, die beim Pflügen herabfielen, aß der Mann, der dem Pflug folgte,alle auf und rief dabei: &quot;Weh mir Unglücklichem, ich sterbe vor Hunger.&quot;</p>
+      <p>“Bruder, was bist du für ein Mann?&quot; fragte Obola.</p>
+      <p>&quot;Was bin ich schon für ein Mann, ein richtiger Mann ist Obola.&quot;</p>
+      <p>“Ich bin Obola, 1aß uns Freundschaft schließen.&quot; Der Mann schloß mit ihm Freundschaft, und sie zogen zu dritt weiter. Wie sie unterwegs waren,trafen sie einen dritten Mann. An den Füßen trug er zweihundert Pud schwere Mühlsteine und rannte damit dahin.</p>
+      <p>&quot;Was bist du für ein Mann, Bruder?&quot; fragte Obola.</p>
+      <p>“Was bin ich schon für ein Mann, mein Lieber, ein richtiger Mann ist Obola.&quot;</p>
+      <p>&quot;Ich bin Obola, laß uns Freunde werden.&quot;</p>
+      <p>Auch dieser Mann schloß mit ihm Freundschaft, und zu viert gelangtensie zum Haus des Herrschers. Unterwegs begegnete ihnen noch ein Mann,der stand auf einer Wiese und starrte in die Luft.</p>
+      <p>“Bruder, wonach hältst du denn unentwegt Ausschau?&quot; fragte Obola.</p>
+      <p>&quot;Ich war der Herr der Vögel. Eine Taube hat mich wütend gemacht, denn sie hat ihr Nest am Himmel gebaut. Ich habe von hier aus einen Pfahl hinauf geworfen, und im vergangenen Jahr ist das Nest herabgefallen, weil es schwer war. Jetzt beobachte ich die Taube, aber sie ist noch nicht in der Nähe&quot;, sprach der Mann.</p>
+      <p>&quot;Du bist ein sehr starker Mann, Bruder&quot;, meinte Obola.</p>
+      <p>&quot;Was bin ich schon für ein Mann, ein richtiger Mann ist Obola.&quot;</p>
+      <p>
+        &quot;Obola bin ich, laß uns Freundschaft schließen.” Auch dieser Mann wurde sein Freund, und sie zogen alle zusammen weiter und erreichten das Haus des Herrschers. Der hatte eine große Tafel gedeckt, man hatte tausend Ochsen geschlachtet und reichlich Speisen und Getränke zusammengetragen. 
+        <pb n="67"/>
+      </p>
+      <p>&quot;Wenn ihr das alles nicht austrinkt und aufeßt, gebe ich euch das Mädchen nicht, sondern entlasse euch mit leeren Händen”, sprach der Herrscher.</p>
+      <p>Während der Herrscher dies noch sagte, hatte der Wassertrinker schon den Wein ausgetrunken und der Erdesser das Brot und das Fleisch aufgegessen, bevor er Zeit fand, sich umzudrehen.</p>
+      <p>Als der Herrscher das sah, schämte er sich und sprach: &quot;Dafür kann ich euch meine Tochter nicht geben. Schicken wir zwei Läufer los, einen von euch und einen von uns, um Meereswasser zu holen. Und dann wollen wir sehen, welcher es zuerst bringt. Wenn euer Mann das Wasser zuerst bringt,so möge Gott euch meine Tochter glücklich machen; wenn aber mein Läufer zuerst da ist, werde ich euch das Mädchen nicht geben.&quot;</p>
+      <p>Sie kamen überein und ließen die Läufer loslaufen. Der Herrscher ließ einen Teufel laufen und Obola den Mann, der mit den Mühlsteinen lief, Der Mann übertraf den Teufel im Laufen und ließ ihn unterwegs zurück.</p>
+      <p>Der Teufel dachte: Dem werde ich’s auf meine Art zeigen.</p>
+      <p>Er verwandelte sich in einen Mönch, deckte einen Tisch und stellte ihn voller Getränke. Als Obolas Mann das Wasser geholt hatte und zurückkam,empfing ihn der Mönch und lud ihn zum Trinken ein. Der Mann hatte Durst. Er setzte sich an den Tisch und betrank sich völlig. Als er betrunken war, schlief er ein. Der Mönch wurde wieder zum Teufel, ergriff die Flasche mit dem Wasser und rannte davon.</p>
+      <p>Als die Läufer sich mit dem Wasser verspäteten, sagte Obola zu dem weitsichtigen Mann: &quot;Sieh doch einmal nach, ob sich jener Mann nicht etwa eine Teufelei ausgedacht hat!&quot;</p>
+      <p>Als der Mann Ausschau hielt, sah er, daß der Teufel ihren Kameraden trunken gemacht hatte, dessen Flasche mit dem Wasser bei sich trug und mit großem Eifer hergerannt kam.</p>
+      <p>Da ergriff der weitsehende Mann einen Pfahl, warf ihn nach dem Tisch,an dem der Betrunkene schlief, und brach ihm die Beine ab. Der Betrunkene sprang auf, und als er das Wasser nicht finden konnte, begriff er alles,lief los, holte den Teufel ein, nahm ihm die Flasche weg und brachte das Wasser her.</p>
+      <p>Was hätte der Herrscher machen sollen? Er führte seine Tochter herbei und gab sie Obola. Der brachte sie in das Haus seines Herrschers. Es wurde ein Fest veranstaltet und war großer Trubel. Am dritten Tag schlief Obola ein. Der Herrscher gab seinem Koch den Auftrag: &quot;Bereite mir am Abend ein gutes Essen zu Ehren von Obola.&quot;</p>
+      <p>
+        Man bereitete das Essen zu, und Obola erwachte. Der Herrscher und seine Frau nahmen Obola in ihre Mitte und stellten ihre eigene Tochter als Mundschenk an. 
+        <pb n="68"/>
+      </p>
+      <p>Als sie gut gegessen hatten, entschuldigte sich der Herrscher bei Obola und sprach: &quot;Ich hoffe, daß du mir meinen Fehler nicht übel nimmst und mir sagst, was du in der Kindheit geträumt hast.”</p>
+      <p>Obola antwortete: &quot;Im Traum saß ich zwischen Sonne und Mond, und ein Stern bediente mich.”</p>
+      <p>Der Herrscher erklärte ihm, daß Sonne und Mond sie selbst waren, Frau und Mann, und der Stern ihre Tochter. Er verheiratete seine Tochter mit Obola, segnete sie, behandelte Obola wie seinen jüngsten Sohn, und sie lebten im Glück.</p>
+    </body>
+  </text>
 </TEI>

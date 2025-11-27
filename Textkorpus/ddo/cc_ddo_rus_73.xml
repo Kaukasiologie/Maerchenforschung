@@ -1,228 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">Девушка-сирота</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a510A Cinderella</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_73.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="zyx_cc_ddo_rus_73">
-  <body>
-   <head>Девушка-сирота</head>
-   <p>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">Девушка-сирота</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a510A Cinderella</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_73.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="zyx_cc_ddo_rus_73">
+    <body>
+      <head>Девушка-сирота</head>
+      <p>
        Был, говорят, один богатый человек, у него были две дочери. Одна была сирота, оставшаяся без матери, а другая была от второй жены. Мачеха клеветала на падчерицу, и отец обижал свою дочь, оставшуюся без матери. Часто они ее запирали в хлеву рядом с коровой. 
      </p>
-   <p>
+      <p>
        Однажды отец и мачеха отправили ее пасти сельский скот, дав половину лепешки на обед. Когда поднялась на гору, девушка села в тени одного дерева и начала петь песню с грустной мелодией. А за скотом следила собака, которая была вместе с ней. Когда наступило обеденное время, она отломила половину от хлеба и бросила собаке. К вечеру девушка, никого не потеряв, привела в село все стадо. Жители села остались очень довольны ею. 
      </p>
-   <p>
+      <p>
        На следующий день мачеха отправила пасти скот свою дочь. А дала на обед самую лучшую еду. С ней вместе тоже была собака. Хотя у нее было много еды, она ни одного куска не бросила ей. Собака же той девушке не помогла собрать скот. Поэтому к вечеру в село она привела меньше скота. Жители села обвиняли ее, говоря: «Девушка-сирота хорошо пасла скот, а ты потеряла». 
      </p>
-   <p>
+      <p>
        У девушки-сироты была корова. Это было очень умное животное. Девушке-сироте она сказала: «Завтра меня будут резать, ты положи мои кости в ясли, не дай им разбросать их». На следующий день ту корову зарезали. После того как съели мясо, она положила оставшиеся кости в ясли, куда ее привязывали. 
      </p>
-   <p>
+      <p>
        Однажды в том селе один богатый человек играл большую свадьбу. По приглашению отец, мачеха и сестра пошли на свадьбу, а девушка-сирота в одиночестве осталась дома. Пришла одна женщина и спросила ее: «Почему ты не идешь на свадьбу?» Девушка ответила: «У меня нет новой одежды, чтобы надеть на свадьбу». Старуха сказала ей: «Пойди и посмотри в яслях, где лежат кости той коровы». Она пошла и обнаружила новую, хорошую одежду. Девушка-сирота переоделась в эту одежду и пошла на свадьбу. Старая женщина напомнила ей: «Ты до конца свадьбы там не оставайся, скорее приходи домой, положи одежду в ясли, заходи и делай вид, что ты была дома». 
      </p>
-   <p>
+      <p>
        На свадьбе девушка-сирота сидела со своей сестрой. Та поразилась, откуда же эта девушка-сирота могла достать такую красивую и роскошную одежду. Через некоторое время девушку-сироту пригласил на танец сын подруги ее матери. Девушка наотрез отказалась: «Я не танцую». Она долго смотрела на танцующих и перед завершением свадьбы вспомнила то, что говорила ей старуха, и собралась уйти обратно. Перед уходом с ее ноги упала обувь. Ее нашел сын их кунака, тот, что хотел пригласить ее на танец. Когда девушка-сирота вернулась домой, пошла и легла спать в ясли, куда привязывали корову. 
      </p>
-   <p>
+      <p>
        Потом пришла домой ее сестра. Она сказала отцу, что ее сестру надо убить, пока сестра будет жива, она, мол, никогда не станет счастливой в этом мире. Так же уговаривала его и ее мать: «Если ты не убьешь эту дочь, я со своей дочерью уйду от тебя». 
      </p>
-   <p>
+      <p>
        Он не мог не исполнить желание дочери и жены. Как они сказали, он забрал ее в далекий лес. Там он выкопал глубокую яму, сделал моховую крышу, оставил там дочь и вернулся обратно домой. 
      </p>
-   <p>
+      <p>
        Когда пришел домой, для убедительности мать и дочь спросили: «Убил ты сироту?» «Убил», - ответил он. 
      </p>
-   <p>
+      <p>
        Не прошло много времени, как к сироте подошел один человек и сказал: «Открой окно». «Где я тут открою окно, если его здесь нет», - ответила девушка. Старик предложил: «Ударь здесь головой». Там, где ударила головой, появилось большое окно. Затем старик сказал: «Открой дверь». «Где я тут открою дверь, если ее здесь нет», - ответила девушка. Старик предложил: «Прислонись здесь спиной». Там, где прислонилась спиной, образовалась дверь. После этого он зашел в дверь и сказал девушке: «Приготовь еду». «Старец, как я приготовлю еду, если не из чего готовить еду», - сказала девушка. Старый человек отправил девушку к роднику, мол, она там найдет еду. Пошла она к роднику и нашла там достаточно еды. Она ее взяла с собой домой, поставила перед стариком, а после того, как закончили есть, старик сказал девушке: «Завтра встань на краю крыши, сверху вниз упадут два сундука, один со звуком «курун-каран», а другой «цурун-царан». Ты лови сундук, который спустится со звуком «цурун-царан», а другой, не трогая, пропусти. 
      </p>
-   <p>
+      <p>
        Завтра на рассвете девушка-сирота поднялась на крышу. Когда она встала на краю крыши, сверху вниз спустился сундук со звуком «курун-каран». Она его не стала трогать и дала ему упасть вниз. Потом появился сундук со звуком «цурун-царан». Девушка поймала его и взяла в дом. Когда открыла и посмотрела внутрь, обнаружила там свою мать. Дочь рассказала матери обо всем, что с ней случилось. 
      </p>
-   <p>
+      <p>
        Потом и отец вспомнил про эту дочь. Он пошел посмотреть, что же с ней случилось. На месте бывшего шалаша с моховой крышей он увидел там большой красивый дом. Когда отец зашел в дом, дочь захотела перед ним поставить полный поднос разнообразной еды. Мать ударила палкой и бросила его вниз. И туда на земляной пол стали падать масло, мед, финики и другая еда, что была на подносе. Отец собрал все в кучу и ушел в село. Когда пришел домой, он рассказал: «Вот так получилось, я оставил дочь в лесу. 
      </p>
-   <p>
+      <p>
        Их дочь захотела сравниться с сестрой, и она попросила отца: «Оставь меня тоже в лесу». Забрал он ее в дальний лес, так же выкопал яму, сверху сделал моховую крышу, оставил ее там и вернулся обратно. Вскоре, когда он пошел посмотреть, как, что случилось, увидел, что дочь убита драконом. Не поверив ему, пошла ее мать, и ее тоже убил дракон. 
      </p>
-   <p>
+      <p>
        Видя, что с ними случилось, отец пошел к девушке-сироте. И там он встретил ожившую мать своей дочери. Они втроем стали жить вместе и, говорят, до сих пор красиво и хорошо ведут свое хозяйство. 
      </p>
-   <p>
+      <p>
        Куруч, бусинка, да прояснится небо, да будет солнце! 
      </p>
-  </body>
- </text>
+    </body>
+  </text>
 </TEI>

@@ -1,122 +1,165 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Nogaische Folklore</title>
-      <title xml:lang="eng">Nogai Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Nogaische Folklore</title>
+        <title xml:lang="eng">Nogai Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus">Опубл, на ногайском яз.: АК, 85. На русском яз. публ. впервые</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus">Опубл, на ногайском яз.: АК, 85. На русском яз. публ. впервые</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="nog">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="nog">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName/>
+          <age/>
+        </person>
+        <person role="researcher">
+          <persName/>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_nog_rus_6">
+  </teiHeader>
+  <text xml:id="cr_nog_rus_6">
     <body>
-     <head>91 Верная спутница (ног.)</head>
-     <p>давние давние времена собаке отрезали хвост превращалась овцу имеющий сорок лошадей умер имеющий сорок друзей спасся матрас богача шили матрас бедняка соболиный молодых джигита гуляли степи дошли черного холма стая лебедей закрывала лучи солнца</p><p>эх этих лебедей сказал джигитов пожалел зарезал угостил бедняка слугу</p><p>пошли дальше трех деревьев увидели черно белых овец</p><p>этих овец сказал второй самым щедрым богачом мире</p><p>прошли мимо верблюдов лошадей сада бахчи третий молчал говорил юноши сели отдохнуть возле одного колодца подошел белобородый старик</p><p>дорогие мои видели пути сюда спросил белобородый старик</p><p>стаю лебедей видели сказал первый джигит</p><p>старик ударил посохом землю появились белые лебеди</p><p>забирай сказал старик</p><p>второй юношей вскочив места воскликнул</p><p>бесчисленное количество овец видел</p><p>старик ударил посохом землю появились овцы юноши виде засверкали глаза</p><p>тебе нужно сынок поглаживая лицо руками спросил старик третьего юноши</p><p>богатства ищу верную спутницу ответил третий</p><p>смотри сын воскликнул старик земле верных спутницы две замужем третьей завтра свадьба иди свадьбу скажи попало жених сын хана забеспокоится мансарды закричит слушайте щедрого слова чудака ешьте веселитесь нечего даешь людям грызть кости играл свадьбу гостей угощал фруктами скажи готов играть свадьбу отдам тебе жены невесту пообещает побледнев ханский сын</p><p>сын хана таких слов обычно говорит скажет обязательно сдержит свое слово это время ударю посохом землю глазах появятся фрукты</p><p>юноша сделал советовал белобородый старик взял верную спутницу вернулся домой</p><p>однажды спутница сшила шубу юноша обменял корову сорока телятами корову поменял коня седлом уздечкой это обменял бурку бурку кнут кнут койку койку моста ветер унес реку</p><p>наблюдавший этим купец сказал</p><p>сын басурмана жена убьет</p><p>слова скажет сказал юноша ответ</p><p>твоя жена скажет отдам арбу сказал купец</p><p>пришли домой юноша говорит жене</p><p>шубу обменял корову сорока телятами</p><p>молока ответила жена</p><p>обменял коня седлом уздечкой говорит</p><p>ездить коне ходить пешком спокойно ответила жена</p><p>коня бурку</p><p>промокнешь дождем ответила</p><p>бурку кнут</p><p>мужчине кнут необходим</p><p>кнут койку койку унесла река сказал юноша</p><p>горюй значит суждено ответила жена меняясь лице голосе</p><p>настоящая жена казна сказав купец ушел оставив арбу</p><p>юноши живут счастливо поживают лебеди вывели птенцов овцы окотились это время появился белобородый старик испытать приходит первому юноше которого лебеди поздоровался стариком</p><p>тебе свиньей сказал белобородый старик ударил посохом землю</p><p>отправился ко второму юноше ягненок молодой овцу резать жалко резать барана жалко подумав зарезал старика кота</p><p>тебе собакой сказал белобородый старик ударил посохом землю</p><p>отправился юноше верной спутницей те встретили старика радостью уважили утру старик бедный приболел</p><p>помочь вашей болезни спросил юноша</p><p>немного крови младенца ответил старик</p><p>это сложно</p><p>юноша взял своего ребенка жены собирался выйти старик сказал</p><p>видно материнским молоком вскормлен пусть твой ребенок покинет одно пусть станет тысячью множится старик ударил посохом землю исчез</p><p>тех пор говорят юноша верная спутница живут богато счастливо</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>91 Верная спутница (ног.)</head>
+      <p>давние давние времена собаке отрезали хвост превращалась овцу имеющий сорок лошадей умер имеющий сорок друзей спасся матрас богача шили матрас бедняка соболиный молодых джигита гуляли степи дошли черного холма стая лебедей закрывала лучи солнца</p>
+      <p>эх этих лебедей сказал джигитов пожалел зарезал угостил бедняка слугу</p>
+      <p>пошли дальше трех деревьев увидели черно белых овец</p>
+      <p>этих овец сказал второй самым щедрым богачом мире</p>
+      <p>прошли мимо верблюдов лошадей сада бахчи третий молчал говорил юноши сели отдохнуть возле одного колодца подошел белобородый старик</p>
+      <p>дорогие мои видели пути сюда спросил белобородый старик</p>
+      <p>стаю лебедей видели сказал первый джигит</p>
+      <p>старик ударил посохом землю появились белые лебеди</p>
+      <p>забирай сказал старик</p>
+      <p>второй юношей вскочив места воскликнул</p>
+      <p>бесчисленное количество овец видел</p>
+      <p>старик ударил посохом землю появились овцы юноши виде засверкали глаза</p>
+      <p>тебе нужно сынок поглаживая лицо руками спросил старик третьего юноши</p>
+      <p>богатства ищу верную спутницу ответил третий</p>
+      <p>смотри сын воскликнул старик земле верных спутницы две замужем третьей завтра свадьба иди свадьбу скажи попало жених сын хана забеспокоится мансарды закричит слушайте щедрого слова чудака ешьте веселитесь нечего даешь людям грызть кости играл свадьбу гостей угощал фруктами скажи готов играть свадьбу отдам тебе жены невесту пообещает побледнев ханский сын</p>
+      <p>сын хана таких слов обычно говорит скажет обязательно сдержит свое слово это время ударю посохом землю глазах появятся фрукты</p>
+      <p>юноша сделал советовал белобородый старик взял верную спутницу вернулся домой</p>
+      <p>однажды спутница сшила шубу юноша обменял корову сорока телятами корову поменял коня седлом уздечкой это обменял бурку бурку кнут кнут койку койку моста ветер унес реку</p>
+      <p>наблюдавший этим купец сказал</p>
+      <p>сын басурмана жена убьет</p>
+      <p>слова скажет сказал юноша ответ</p>
+      <p>твоя жена скажет отдам арбу сказал купец</p>
+      <p>пришли домой юноша говорит жене</p>
+      <p>шубу обменял корову сорока телятами</p>
+      <p>молока ответила жена</p>
+      <p>обменял коня седлом уздечкой говорит</p>
+      <p>ездить коне ходить пешком спокойно ответила жена</p>
+      <p>коня бурку</p>
+      <p>промокнешь дождем ответила</p>
+      <p>бурку кнут</p>
+      <p>мужчине кнут необходим</p>
+      <p>кнут койку койку унесла река сказал юноша</p>
+      <p>горюй значит суждено ответила жена меняясь лице голосе</p>
+      <p>настоящая жена казна сказав купец ушел оставив арбу</p>
+      <p>юноши живут счастливо поживают лебеди вывели птенцов овцы окотились это время появился белобородый старик испытать приходит первому юноше которого лебеди поздоровался стариком</p>
+      <p>тебе свиньей сказал белобородый старик ударил посохом землю</p>
+      <p>отправился ко второму юноше ягненок молодой овцу резать жалко резать барана жалко подумав зарезал старика кота</p>
+      <p>тебе собакой сказал белобородый старик ударил посохом землю</p>
+      <p>отправился юноше верной спутницей те встретили старика радостью уважили утру старик бедный приболел</p>
+      <p>помочь вашей болезни спросил юноша</p>
+      <p>немного крови младенца ответил старик</p>
+      <p>это сложно</p>
+      <p>юноша взял своего ребенка жены собирался выйти старик сказал</p>
+      <p>видно материнским молоком вскормлен пусть твой ребенок покинет одно пусть станет тысячью множится старик ударил посохом землю исчез</p>
+      <p>тех пор говорят юноша верная спутница живут богато счастливо</p>
+    </body>
+  </text>
+</TEI>

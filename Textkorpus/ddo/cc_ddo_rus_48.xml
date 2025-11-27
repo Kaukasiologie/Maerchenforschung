@@ -1,189 +1,191 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title xml:lang="rus">ЧЕЛОВЕК РОСТОМ С ПЯДЬ И СЕМЬ ОХОТНИКОВ</title>
-    <author>
-     <name xml:id="AA">
-      <persName>
-       <forename>Arsen Kurbanovič</forename>
-       <surname>Abdulaev</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
-     </name>
-    </author>
-    <author>
-     <name xml:id="IA">
-      <persName>
-       <forename>Isa Kurbanovič</forename>
-       <surname>Abdullaev</surname>
-      </persName>
-      <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
-     </name>
-    </author>
-    <respStmt>
-     <resp>Annotated according to the ATU system</resp>
-     <name>
-      <persName xml:id="ED">
-       <forename>Elguja</forename>
-       <surname>Dadunashvili</surname>
-       <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
-      </persName>
-     </name>
-     <name xml:id="DF">
-      <persName>
-       <forename>Diana</forename>
-       <surname>Forker</surname>
-      </persName>
-      <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
-     </name>
-    </respStmt>
-   </titleStmt>
-   <publicationStmt>
-    <publisher>
-     <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-    </publisher>
-    <pubPlace>
-     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-    </pubPlace>
-    <date when="2025">2025</date>
-    <distributor>
-     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-    </distributor>
-    <availability>
-     <p>
-      <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-     </p>
-    </availability>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="digitalSource">
-     <ref/>
-    </bibl>
-    <bibl type="collection">
-     <title xml:lang="eng">Dido (Tsez) Folklore</title>
-     <title xml:lang="rus">Дидойский (цезский) фольклор</title>
-     <author role="author">
-      <name ref="#AA">
-       <persName>
-        <forename>Arsen Kurbanovič</forename>
-        <surname>Abdulaev</surname>
-       </persName>
-      </name>
-     </author>
-     <author role="author">
-      <name ref="#IA">
-       <persName>
-        <forename>Isa Kurbanovič</forename>
-        <surname>Abdullaev</surname>
-       </persName>
-      </name>
-     </author>
-     <respStmt>
-      <resp/>
-      <name/>
-     </respStmt>
-     <extent>
-      <measure unit="words"/>
-      <measure unit="pages"/>
-     </extent>
-     <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
-     <distributor/>
-     <date when="2010">The year 2010</date>
-     <availability>
-      <licence/>
-     </availability>
-    </bibl>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <textClass>
-    <keywords>
-     <term type="writingSystem">utf-8</term>
-    </keywords>
-    <keywords scheme="http://uri.gbv.de/terminology/bk/">
-     <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-     <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
-    </keywords>
-    <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
-     <term>prose</term>
-    </keywords>
-    <keywords scheme="https://d-nb.info/gnd/">
-     <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
-     <list>
-      <item>a301 Die drei geraubten Prinzessinnen</item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
-     <list>
-      <item><ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_48.txt">Motiv-Index im GitHub-Repository ansehen</ref></item>
-     </list>
-    </keywords>
-    <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
-     <list>
-      <item/>
-     </list>
-    </keywords>
-   </textClass>
-   <langUsage>
-    <language ident="rus">
-     <index indexName="iso639-3"/>
-     <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-    </language>
-   </langUsage>
-   <creation>
-    <placeName>
-     <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-     <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-     <district/>
-     <settlement/>
-     <geo/>
-    </placeName>
-    <date/>
-   </creation>
-   <particDesc>
-    <person role="speaker">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-     <age/>
-     <birth>
-      <address>
-       <district/>
-       <settlement/>
-      </address>
-     </birth>
-    </person>
-    <person role="researcher">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-    <person role="translator">
-     <persName>
-      <forename/>
-      <surname/>
-     </persName>
-    </person>
-   </particDesc>
-  </profileDesc>
- </teiHeader>
- <text xml:id="cc_ddo_rus_48">
-  <body>
-   <head>ЧЕЛОВЕК РОСТОМ С ПЯДЬ И СЕМЬ ОХОТНИКОВ</head>
-   <p>Что рассказать и что не рассказывать? Были, говорят, семь охотников. Один из них оставался дома, чтобы готовить едѵ остальным охотникам. Однажды, оставив одного охотника дома готовить пищу, все ушли в лес. Когда он приготовил еду, появился один человек, ростом с пядь, с усами длиной в локоть, сидя на петухе, и поздоровался: «Здравствуй». «Здравствуй», - ответил охотник. Поздоровавшись, человек ростом с пядъ попросил еду. Охотник ему дал одну штуку хинкали и кусок мяса. Не удовлетворенный тем, что ему дали, человек ростом с пядь попросил еще еды: «Этим я не наелся». Всю еду для семерых охотников съел и пошел своей дорогой.</p>
-   <p>Когда охотники пришли и попросили есть, он рассказал о том, что случилось: «Вот так, сидя на петухе, человек ростом с пядь, с усами длиной в локоть пришел, съел всю еду, приготовленную для вас, и ушел». Охотники не поверили тому, что он рассказал: ты, мол, нас обманываешь.</p>
-   <p>На следующий день, чтобы готовитъ еду, дома остался другой охотник. После того как он приготовил еду, тот же самый человек ростом с пядь пришел, сидя па петухе, поздоровался, сел и попросил есть. Этот охотник достал из кастрюли и отдал одну штуку хинкала и кусок мяса. Как закончил то, что дали, чего ему не хватило, человек ростом с пядь принялся за еду, приготовленную для семерых охотников. Охотник хотел его прогнать, но человек ростом с пядъ, выдернув один волос из усов, привязал охотника к столбу, съел всю еду, прыгнул на петуха и уехал. Когда охотники пришли и попросили еды, он рассказал о том, что случилось: «Вот так, сидя на петухе, человек ростом с пядь, с усами длиной в локоть пришел. Когда он собрался съесть всю еду, я хотел его прогнать, а он, выдернув один волос из усов, привязал меня к дереву». Тут он показал волос.</p>
-   <p>На этот раз охотники оставили двух человек, чтобы приготовить пищу: хоть это, мол,- может быть, поможет. Когда они приготовили еду, пришел тот же человек ростом с пядь. Поздо-ровался с обоими, а когда попросил есть, охотники дали ему одну штуку хинкали и кусок мяса. Закончил есть это и молча подошел к котлу, чтобы съесть всю остальную еду. Один охотник попытался его отогнать, но человек ростом с пядь, выдернув волос из усов, привязал его к дереву. Никак не могли побороть его. Тогда другой охотник взял и выстрелил из ружья ему в колено. Когда пуля попала в ногу, истекающий кровью человек ростом с пядь сел на петуха и уехал.</p>
-   <p>Когда к вечеру пришли охотники, они рассказали о том, что случилось. Нашли семеро охотников готовую еду, наелись и пошли по следу крови, которая текла у человека ростом с пядь. Идя по пути, они нашли в земле глубокую яму. Они остановились и решили, что тот скрылся туда, привязали веревкой к поясу охотника, выстрелившего в человека ростом с пядь, и отправили его в яму. Он сказал: «Когда я дерну за веревку, вы меня поднимите». Опустили его в яму, но через некоторое время он дернул за веревку, и они его подняли наверх. Когда в следующий раз так же привязали к веревке и опустили, охотники, которые были наверху, договорились на этот раз, хотя он и будет дергать, его не поднимать. Хотя охотник дернул веревку, они, как заранее решили, не подняли его. Они его не подняли, а охотник пошел в глубь ямы. Там. он пришел во дворец человека ростом с пядь. Это был дворец с семью воротами. На том месте, куда он пришел, он нашел ключи от семи ворот. Никого вокруг не увидев, охотник начал открывать ворота. Открыл шесть ворот и за всеми нашел комнаты, полные имущества. Когда открыл седьмые ворота, охотник увидел внутри дворца красивую девушку. Эта девушка, как увидела его, влюбилась. Она спросила: «Откуда ты сюда пришел? Если придет человек ростом с пядь, он тебя убьет». Когда охотник спросил у нее, где тот человек находится и когда придет, она сказала: «Он пошел за добычей, нс» настало время ему прийти». Потом он еще спросил: «С человеком ростом с пядь что-нибудь случилось? Не был ли он ранен?» Она ответила: «Кто-то выстрелил ему в ногу, другой болезни у него нет». Охотник спросил у нее: «Ты ему дочь или жена?» «Я его дочъ», - сказала она. Охотник спросил: «А почему ты уже взрослая осталась незамужней?» Она ответила: «Человекростом с пядь нехочет меня выдавать». В конце концов она попросила его: «Если ты убьешь этого человека, то я буду твоей женой». Видя ее положение, этот охотник взял ружье и стал ждать появления человека ростом с пядъ. Как только тот появился на пороге, охотник выстрелил из ружья, убил его и спросил эту девушку: «Есть ли еще в мире что-нибудь, что тебе угрожает?» «Больше мне ничего не угрожает», - ответила она. Потом он рассказал девушке обо всем., в том числе и о том, как он его ранил в ногу.</p>
-   <p>Все состояние человека ростом с пядь досталось охотнику, он взял в жены его дочь и стал там же жить.</p>
-   <p>Чирин, блоха, да прояснится день и солнце светит!</p>
-  </body>
- </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="rus">ЧЕЛОВЕК РОСТОМ С ПЯДЬ И СЕМЬ ОХОТНИКОВ</title>
+        <author>
+          <name xml:id="AA">
+            <persName>
+              <forename>Arsen Kurbanovič</forename>
+              <surname>Abdulaev</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1076802486">1076802486</idno>
+          </name>
+        </author>
+        <author>
+          <name xml:id="IA">
+            <persName>
+              <forename>Isa Kurbanovič</forename>
+              <surname>Abdullaev</surname>
+            </persName>
+            <idno type="gnd" corresp="http://d-nb.info/gnd/1076802141">1076802141</idno>
+          </name>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName xml:id="ED">
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+              <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+            </persName>
+          </name>
+          <name xml:id="DF">
+            <persName>
+              <forename>Diana</forename>
+              <surname>Forker</surname>
+            </persName>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1154734161">1154734161</idno>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2025">2025</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
+        <bibl type="collection">
+          <title xml:lang="eng">Dido (Tsez) Folklore</title>
+          <title xml:lang="rus">Дидойский (цезский) фольклор</title>
+          <author role="author">
+            <name ref="#AA">
+              <persName>
+                <forename>Arsen Kurbanovič</forename>
+                <surname>Abdulaev</surname>
+              </persName>
+            </name>
+          </author>
+          <author role="author">
+            <name ref="#IA">
+              <persName>
+                <forename>Isa Kurbanovič</forename>
+                <surname>Abdullaev</surname>
+              </persName>
+            </name>
+          </author>
+          <respStmt>
+            <resp/>
+            <name/>
+          </respStmt>
+          <extent>
+            <measure unit="words"/>
+            <measure unit="pages"/>
+          </extent>
+          <publisher>Max Planck Institute for Evolutionary Antropology. Department of Linguistics</publisher>
+          <distributor/>
+          <date when="2010">The year 2010</date>
+          <availability>
+            <licence/>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item>a301 Die drei geraubten Prinzessinnen</item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/zyx_cc_ddo_rus_48.txt">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement/>
+          <geo/>
+        </placeName>
+        <date/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <address>
+              <district/>
+              <settlement/>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="cc_ddo_rus_48">
+    <body>
+      <head>ЧЕЛОВЕК РОСТОМ С ПЯДЬ И СЕМЬ ОХОТНИКОВ</head>
+      <p>Что рассказать и что не рассказывать? Были, говорят, семь охотников. Один из них оставался дома, чтобы готовить едѵ остальным охотникам. Однажды, оставив одного охотника дома готовить пищу, все ушли в лес. Когда он приготовил еду, появился один человек, ростом с пядь, с усами длиной в локоть, сидя на петухе, и поздоровался: «Здравствуй». «Здравствуй», - ответил охотник. Поздоровавшись, человек ростом с пядъ попросил еду. Охотник ему дал одну штуку хинкали и кусок мяса. Не удовлетворенный тем, что ему дали, человек ростом с пядь попросил еще еды: «Этим я не наелся». Всю еду для семерых охотников съел и пошел своей дорогой.</p>
+      <p>Когда охотники пришли и попросили есть, он рассказал о том, что случилось: «Вот так, сидя на петухе, человек ростом с пядь, с усами длиной в локоть пришел, съел всю еду, приготовленную для вас, и ушел». Охотники не поверили тому, что он рассказал: ты, мол, нас обманываешь.</p>
+      <p>На следующий день, чтобы готовитъ еду, дома остался другой охотник. После того как он приготовил еду, тот же самый человек ростом с пядь пришел, сидя па петухе, поздоровался, сел и попросил есть. Этот охотник достал из кастрюли и отдал одну штуку хинкала и кусок мяса. Как закончил то, что дали, чего ему не хватило, человек ростом с пядь принялся за еду, приготовленную для семерых охотников. Охотник хотел его прогнать, но человек ростом с пядъ, выдернув один волос из усов, привязал охотника к столбу, съел всю еду, прыгнул на петуха и уехал. Когда охотники пришли и попросили еды, он рассказал о том, что случилось: «Вот так, сидя на петухе, человек ростом с пядь, с усами длиной в локоть пришел. Когда он собрался съесть всю еду, я хотел его прогнать, а он, выдернув один волос из усов, привязал меня к дереву». Тут он показал волос.</p>
+      <p>На этот раз охотники оставили двух человек, чтобы приготовить пищу: хоть это, мол,- может быть, поможет. Когда они приготовили еду, пришел тот же человек ростом с пядь. Поздо-ровался с обоими, а когда попросил есть, охотники дали ему одну штуку хинкали и кусок мяса. Закончил есть это и молча подошел к котлу, чтобы съесть всю остальную еду. Один охотник попытался его отогнать, но человек ростом с пядь, выдернув волос из усов, привязал его к дереву. Никак не могли побороть его. Тогда другой охотник взял и выстрелил из ружья ему в колено. Когда пуля попала в ногу, истекающий кровью человек ростом с пядь сел на петуха и уехал.</p>
+      <p>Когда к вечеру пришли охотники, они рассказали о том, что случилось. Нашли семеро охотников готовую еду, наелись и пошли по следу крови, которая текла у человека ростом с пядь. Идя по пути, они нашли в земле глубокую яму. Они остановились и решили, что тот скрылся туда, привязали веревкой к поясу охотника, выстрелившего в человека ростом с пядь, и отправили его в яму. Он сказал: «Когда я дерну за веревку, вы меня поднимите». Опустили его в яму, но через некоторое время он дернул за веревку, и они его подняли наверх. Когда в следующий раз так же привязали к веревке и опустили, охотники, которые были наверху, договорились на этот раз, хотя он и будет дергать, его не поднимать. Хотя охотник дернул веревку, они, как заранее решили, не подняли его. Они его не подняли, а охотник пошел в глубь ямы. Там. он пришел во дворец человека ростом с пядь. Это был дворец с семью воротами. На том месте, куда он пришел, он нашел ключи от семи ворот. Никого вокруг не увидев, охотник начал открывать ворота. Открыл шесть ворот и за всеми нашел комнаты, полные имущества. Когда открыл седьмые ворота, охотник увидел внутри дворца красивую девушку. Эта девушка, как увидела его, влюбилась. Она спросила: «Откуда ты сюда пришел? Если придет человек ростом с пядь, он тебя убьет». Когда охотник спросил у нее, где тот человек находится и когда придет, она сказала: «Он пошел за добычей, нс» настало время ему прийти». Потом он еще спросил: «С человеком ростом с пядь что-нибудь случилось? Не был ли он ранен?» Она ответила: «Кто-то выстрелил ему в ногу, другой болезни у него нет». Охотник спросил у нее: «Ты ему дочь или жена?» «Я его дочъ», - сказала она. Охотник спросил: «А почему ты уже взрослая осталась незамужней?» Она ответила: «Человекростом с пядь нехочет меня выдавать». В конце концов она попросила его: «Если ты убьешь этого человека, то я буду твоей женой». Видя ее положение, этот охотник взял ружье и стал ждать появления человека ростом с пядъ. Как только тот появился на пороге, охотник выстрелил из ружья, убил его и спросил эту девушку: «Есть ли еще в мире что-нибудь, что тебе угрожает?» «Больше мне ничего не угрожает», - ответила она. Потом он рассказал девушке обо всем., в том числе и о том, как он его ранил в ногу.</p>
+      <p>Все состояние человека ростом с пядь досталось охотнику, он взял в жены его дочь и стал там же жить.</p>
+      <p>Чирин, блоха, да прояснится день и солнце светит!</p>
+    </body>
+  </text>
 </TEI>

@@ -1,132 +1,145 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Chwarschinische Folklore</title>
-      <title xml:lang="eng">Khvarshi Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>
-        <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-       </p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Chwarschinische Folklore</title>
+        <title xml:lang="eng">Khvarshi Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution/>
+                <collection/>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus"/>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus"/>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="khv">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement ref="https://www.geonames.org/556344/inkhokvari.html">Inkhokvari</settlement>
-       <geo />
-      </placeName>
-      <date>2010</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Заграт Дж.</forename>
-        <surname xml:lang="rus">Магомедова</surname>
-       </persName>
-       <age />
-       <birth>
-        <date>1954</date>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="khv">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/556344/inkhokvari.html">Inkhokvari</settlement>
+          <geo/>
+        </placeName>
+        <date>2010</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Заграт Дж.</forename>
+            <surname xml:lang="rus">Магомедова</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date>1954</date>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName/>
+        </person>
+        <person role="translator">
+          <persName/>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_khv_rus_89">
+  </teiHeader>
+  <text xml:id="cr_khv_rus_89">
     <body>
-     <head>ОБРАЗОВАНИЕ АУЛА ИНХОКВАРИ</head>
-     <p>аул инхоквари расположен выше подножия реки хваршинка место живописное вокруг горы холмы поля пастбища аулом растёт смешанный лес котором обитают звери дикие козы хваршинку впадает речка зуббинка речке семи водопадов устья реки изпод скалы выбивается минеральная вода которая является чудодейственным эликсиром желудочнокишечных заболеваний</p><p>дата официального образования аула инхоквари неизвестна году житель аула инхоквари исаев магомед г р хуторе чалала раскапывании ямы хранения картофеля обнаружил гроб гробу вместе костьми скелетом нашёл оружие геологи побывавшие время наших местах экспедиции установили ноже запись летней давности говорят предки рассказывали хуторе чалала жили около пятисот хозяйств это албанские христиане заселились хуторах пещерах сих пор сохранилось название места гьат ангьа церкви старики это место называют словом гьат анмик вара звону колокола христиане собирались церкви церковных камнях запись образования поселения ребята чабанившие гг чалала испортили т е разбили камни надписями это дивансудом посадили суток тинди</p><p>рассказам старожила бадрудинова хайрудина г р поселение хуторе сосугьо место названо честь сасии сасия очень богатой женщинойалбанкой х годах века раскопках люди находили бронзовые медали изображениями голов животных рассказам мудрецов села медали предназначались отличившимся чабанам пастухам конюхам доярам</p><p>около этих мест габилис гъудул габила поле могилы христиан абулмуслимшейх распространял ислам жители этих двух поселений сосугьо чалала переселились другие места переселении спрятали котёл драгоценностями местечке чалала отмычку оставили церкви думали вернуться обратно это удалось котёл оброс мхом никто обнаружил говорят человек увидел это место котёл пошёл отмычкой вернулся места нашёл говорят появились кровники инхо</p><p>гебек устроился холма учо нему присоединился гаджимагомед й прадед бадрудиновых сосланный тинди инхоквари похищение чужой невесты возлюбленная засватана другого парня убийство её жениха гаджимагомед ночью невесту сопровождали дом жениха похитил любимую убил жениха подружился гебеком оба обосновались амильго амали эцалалъ развалины этих домов свидетельствуют дома строились ровными рядами бутового камня</p><p>позже обосновались двух хуторах сосугьо гъвачугьо</p><p>появились грузины оттуда появились тухумы бох орибо махубо гирайбо миц ик илавба другие</p><p>выходцы села хут соседнего цунтинского района</p><p>хутор булъогьо принадлежал сторонникам имама шамиля участники газавата</p><p>абдурахман слов потомков похоронен селении гигатли урух</p><p>отец зирайлава муртазаали прадед расулова гаирбека</p><p>список высечен надмогильной плите старых кладбищ села инхоквари</p><p>году инхокваринцы вынужденно переселены дышне ведено веденского района чи асср рассказов магомедалиевой айкат мукутовны г р запомнилось женщина хасиба переселении несла прикованную постели мать спине заболела ревматизмом переходили андийское койсу мать умоляла хасибу бросить её реку нести чечни дорогато предстояла долгая видимо больной очень трудно каждом движении дочери невыносимо больно дочь донесла её натерла крови спину любовь матери превозмогла боль такими трудностями шли пешком наши люди чечню прожили года тринадцать лет переселили обратно</p><p>шли обратно многих переселении спинах люльки младенцами горах шёл дождь кочующие мокли люльки укутали тёплыми ватными одеялами вата пропитав влагу становилась тяжёлой пути проходило суток женщины носили люльки плакали изнемогая усталости слушаешь рассказы старожилов тягости прошлой жизни душа болит живших время перенёсших столько трудностей</p><p>наши сельчане дошли хваршинского моста нашли деревянного моста говорили женщина соседнего аула эчеда ночью шла мельницы нечаянно насыпала искры деревянный мост мост сгорел весь кроме железных сооружений поддерживания деревянных дощечек изза моста короткий путь стал невозможным переселенцы хвайнинский мост поднялись хвайни кунда ночью пришли инхоквари нашли разрушенные дома зиме построить дом сарай сеновал вновь взяться восстановление разрушенного аула</p></body>
-   </text>
-  </TEI>
-
-  
+      <head>ОБРАЗОВАНИЕ АУЛА ИНХОКВАРИ</head>
+      <p>аул инхоквари расположен выше подножия реки хваршинка место живописное вокруг горы холмы поля пастбища аулом растёт смешанный лес котором обитают звери дикие козы хваршинку впадает речка зуббинка речке семи водопадов устья реки изпод скалы выбивается минеральная вода которая является чудодейственным эликсиром желудочнокишечных заболеваний</p>
+      <p>дата официального образования аула инхоквари неизвестна году житель аула инхоквари исаев магомед г р хуторе чалала раскапывании ямы хранения картофеля обнаружил гроб гробу вместе костьми скелетом нашёл оружие геологи побывавшие время наших местах экспедиции установили ноже запись летней давности говорят предки рассказывали хуторе чалала жили около пятисот хозяйств это албанские христиане заселились хуторах пещерах сих пор сохранилось название места гьат ангьа церкви старики это место называют словом гьат анмик вара звону колокола христиане собирались церкви церковных камнях запись образования поселения ребята чабанившие гг чалала испортили т е разбили камни надписями это дивансудом посадили суток тинди</p>
+      <p>рассказам старожила бадрудинова хайрудина г р поселение хуторе сосугьо место названо честь сасии сасия очень богатой женщинойалбанкой х годах века раскопках люди находили бронзовые медали изображениями голов животных рассказам мудрецов села медали предназначались отличившимся чабанам пастухам конюхам доярам</p>
+      <p>около этих мест габилис гъудул габила поле могилы христиан абулмуслимшейх распространял ислам жители этих двух поселений сосугьо чалала переселились другие места переселении спрятали котёл драгоценностями местечке чалала отмычку оставили церкви думали вернуться обратно это удалось котёл оброс мхом никто обнаружил говорят человек увидел это место котёл пошёл отмычкой вернулся места нашёл говорят появились кровники инхо</p>
+      <p>гебек устроился холма учо нему присоединился гаджимагомед й прадед бадрудиновых сосланный тинди инхоквари похищение чужой невесты возлюбленная засватана другого парня убийство её жениха гаджимагомед ночью невесту сопровождали дом жениха похитил любимую убил жениха подружился гебеком оба обосновались амильго амали эцалалъ развалины этих домов свидетельствуют дома строились ровными рядами бутового камня</p>
+      <p>позже обосновались двух хуторах сосугьо гъвачугьо</p>
+      <p>появились грузины оттуда появились тухумы бох орибо махубо гирайбо миц ик илавба другие</p>
+      <p>выходцы села хут соседнего цунтинского района</p>
+      <p>хутор булъогьо принадлежал сторонникам имама шамиля участники газавата</p>
+      <p>абдурахман слов потомков похоронен селении гигатли урух</p>
+      <p>отец зирайлава муртазаали прадед расулова гаирбека</p>
+      <p>список высечен надмогильной плите старых кладбищ села инхоквари</p>
+      <p>году инхокваринцы вынужденно переселены дышне ведено веденского района чи асср рассказов магомедалиевой айкат мукутовны г р запомнилось женщина хасиба переселении несла прикованную постели мать спине заболела ревматизмом переходили андийское койсу мать умоляла хасибу бросить её реку нести чечни дорогато предстояла долгая видимо больной очень трудно каждом движении дочери невыносимо больно дочь донесла её натерла крови спину любовь матери превозмогла боль такими трудностями шли пешком наши люди чечню прожили года тринадцать лет переселили обратно</p>
+      <p>шли обратно многих переселении спинах люльки младенцами горах шёл дождь кочующие мокли люльки укутали тёплыми ватными одеялами вата пропитав влагу становилась тяжёлой пути проходило суток женщины носили люльки плакали изнемогая усталости слушаешь рассказы старожилов тягости прошлой жизни душа болит живших время перенёсших столько трудностей</p>
+      <p>наши сельчане дошли хваршинского моста нашли деревянного моста говорили женщина соседнего аула эчеда ночью шла мельницы нечаянно насыпала искры деревянный мост мост сгорел весь кроме железных сооружений поддерживания деревянных дощечек изза моста короткий путь стал невозможным переселенцы хвайнинский мост поднялись хвайни кунда ночью пришли инхоквари нашли разрушенные дома зиме построить дом сарай сеновал вновь взяться восстановление разрушенного аула</p>
+    </body>
+  </text>
+</TEI>
