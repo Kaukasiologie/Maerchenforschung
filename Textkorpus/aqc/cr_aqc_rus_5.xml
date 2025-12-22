@@ -1,139 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
-          </publicationStmt>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
+       </publicationStmt>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="2017"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement/>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date from="2017" />
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName />
+       <age />
+       <birth>
+        <address>
+         <district />
+         <settlement />
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_5">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_5">
     <body>
-      <head>Мать и сын</head>
-      <p>одна старая женщина сын онп бедные поесть люди которых встречали дороге давали копейки некоторое время хранили деньги</p>
-      <p>некоторое время мальчик взял деньги пошел базар доходил базара увидел детей удивления растерялся подумал делают подбежал этим детям увидел убивают кошку мальчик сказал убивали кошку продали деньги отдав деньги мальчик купил кошку держа руках кошку пошел домой дошел дома матери дома оказалось</p>
-      <p>некоторое время пришла мать</p>
-      <list rend="bulleted">
-        <item>Посмотри, мама, на купленную мной кошку, сказал. Потом мать заплакала, стала кричать.</item>
-        <item>Почему ты купил (кошку), больше денег не дам, сказала мать сыну.</item>
-      </list>
-      <p>мать собрала денег некоторое время денег стало мальчик поклялся зря тратить денег</p>
-      <p>мальчик держа деньги пошел базар дошел го места увидел убивают змею мальчик сказал убивайте змею продайте взяв змею пошел домой</p>
-      <p>дошел одного места змея начала бить хвостом мальчик спросил почему извиваешься змея сказала отпусти та нора дом сказала сюда приходи любое время тебе понадобится</p>
-      <p>мальчик пошел домой застал дома мать мать спросила еда</p>
-      <list rend="bulleted">
-        <item>Мама, сказал сын, принести для нас еду я могу пойти в любое время, не работая.</item>
-        <item>Уйди с глаз, сказала мать и побила его. Почему ты тратишь деньги на ненужные вещи? спросила мать.</item>
-      </list>
-      <p>некоторое время проголодались мать сказала сын пошел едой сын пошел едой умирая радости мальчик дошел места отпустил змею прошел дыру нору застал человека сидящего дверью мужчина чертей мужчина спросил приехал пришел попросить еду змеи сказал мальчик мужчина сказал мальчику змеи попросил платок</p>
-      <p>мальчик вошел внутрь дома увидел змей зашел бросились нему укусить среди одна большая змея эта змея сказала смотрите кусайте освободил змеи отошли эта большая змея спросила уму нужно мальчик сказал дала платок змея рассердилась напомнил тебе пусть сердце разорвется отдать платок нужно возьми</p>
-      <p>мальчик держа платок отправился домой нашел человека сказал мальчику спешил</p>
-      <list rend="bulleted">
-        <item>Ты опять вернись, сказал. Скажи этой змее, чтобы она дала тебе палку.</item>
-      </list>
-      <p>змеи ногам легли эта большая змея сказала подумал пусть язык отвалится палку нужно дать возьми</p>
-      <p>держа платок вышел наружу нашел нова мужчину чертей мужчина сказал платок бисмилла имя всевышнего сказав расстели собой тобой появится еда которой накормить весь народ</p>
-      <p>люди украдут платок позови людей посмотреть чудо соберутся отпусти палку вур вур вур сказав захочешь вернуть палку скажи назад назад назад эта палка назад вернется</p>
-      <p>мальчик пошел домой умирая радости дошел дома расстелив платок сели вокруг ними появилось еды мать обрадовалась решили пригласить пообедать пошел звать людей пригласив лю дей вернулся люди оказывается воры совершавшие самые дурные поступки</p>
-      <p>посадив этих людей расстелили ними платок люди поели решил украсть платок положить свой место люди взяв платок ушли домой</p>
-      <p>сын мать проголодались достали платок расстелили собой делали еда появлялась</p>
-      <p>мальчик вспомнил сказал мужчина собрал тех людей смотрите сказал покажу одно чудо</p>
-      <p>взяв ту палку мальчик пустил сказав вур вур палка начала колотить укравшего платок человека человек бросил вперед платок мальчик сказав назад назад назад вернул палку взяв палку платок пошел домой люди разошлись мать сыном разбогатели платок</p>
-    </body>
-  </text>
-</TEI>
+     <head>Мать и сын</head>
+     <p>бедные время встречали давали деньги дороге женщина копейки которых люди некоторое одна онп поесть старая сын хранили</p><p>базар базара взял время делают деньги деньги деньги держа детей детям дома дома домой доходил дошел кошку кошку кошку кошку купил мальчик мальчик мальчик матери некоторое оказалось отдав подбежал подумал пошел пошел продали растерялся руках сказал убивали убивают увидел увидел удивления этим</p><p>время мать некоторое пришла</p><list rend="bulleted">
+      <item>Посмотри, мама, на купленную мной кошку, сказал. Потом мать заплакала, стала кричать.</item>
+      <item>Почему ты купил (кошку), больше денег не дам, сказала мать сыну.</item>
+     </list>
+     <p>время денег денег денег зря мальчик мать некоторое поклялся собрала стало тратить</p><p>базар взяв го деньги держа домой дошел змею змею змею мальчик мальчик места пошел пошел продайте сказал убивайте убивают увидел</p><p>бить время дом дошел змея змея извиваешься любое мальчик места начала нора одного отпусти понадобится почему приходи сказала сказала спросил сюда та тебе хвостом</p><p>дома домой еда застал мальчик мать мать пошел спросила</p><list rend="bulleted">
+      <item>Мама, сказал сын, принести для нас еду я могу пойти в любое время, не работая.</item>
+      <item>Уйди с глаз, сказала мать и побила его. Почему ты тратишь деньги на ненужные вещи? спросила мать.</item>
+     </list>
+     <p>время дверью дошел дыру едой едой еду застал змеи змеи змею мальчик мальчик мальчику мать места мужчина мужчина мужчина некоторое нору отпустил платок попросил попросить пошел пошел приехал пришел проголодались прошел радости сидящего сказал сказал сказала спросил сын сын умирая человека чертей</p><p>большая большая бросились внутрь возьми вошел дала дома зашел змеи змей змея змея змея змея кусайте мальчик мальчик напомнил нему нужно нужно одна освободил отдать отошли платок платок пусть разорвется рассердилась сердце сказал сказала смотрите спросила среди тебе увидел укусить уму эта эта</p><p>держа домой мальчик мальчику нашел отправился платок сказал спешил человека</p><list rend="bulleted">
+      <item>Ты опять вернись, сказал. Скажи этой змее, чтобы она дала тебе палку.</item>
+     </list>
+     <p>большая возьми дать змеи змея легли ногам нужно отвалится палку подумал пусть сказала эта язык</p><p>бисмилла весь всевышнего вышел держа еда имя которой мужчина мужчину накормить народ наружу нашел нова платок платок появится расстели сказав сказал собой тобой чертей</p><p>вернется вернуть вур вур вур захочешь людей люди назад назад назад назад отпусти палка палку палку платок позови посмотреть скажи сказав соберутся украдут чудо эта</p><p>вернулся вокруг воры дей дома домой дошел дурные еды звать лю людей люди мальчик мать ними обрадовалась оказывается платок пообедать поступки пошел пошел появилось пригласив пригласить радости расстелив решили самые сели совершавшие умирая</p><p>взяв домой людей люди люди место ними платок платок платок поели положить посадив расстелили решил свой украсть ушли этих</p><p>делали достали еда мать платок появлялась проголодались расстелили собой сын</p><p>вспомнил людей мальчик мужчина одно покажу сказал сказал смотрите собрал тех чудо</p><p>бросил вернул взяв взяв вперед вур вур домой колотить люди мальчик мальчик мать назад назад назад начала палка палку палку палку платок платок платок платок пошел пустил разбогатели разошлись сказав сказав сыном ту укравшего человек человека</p></body>
+   </text>
+  </TEI>

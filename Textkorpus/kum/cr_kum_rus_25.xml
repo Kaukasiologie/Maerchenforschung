@@ -1,159 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Kumykische Folklore</title>
-        <title xml:lang="eng">Kumyk Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Kumykische Folklore</title>
+      <title xml:lang="eng">Kumyk Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФ ИЯЛИ</institution>
+          <collection>Ф. 9. Оп. 1. Д. 371. С. 62-66</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФ ИЯЛИ</institution>
-                <collection>Ф. 9. Оп. 1. Д. 371. С. 62-66</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="kum">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/578506/bayramaul.html">Bayramaul</settlement>
-          <geo/>
-        </placeName>
-        <date>1970</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">С.</forename>
-            <surname xml:lang="rus">Султановa</surname>
-          </persName>
-          <age>70</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Аджиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Аджиев</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="kum">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/578506/bayramaul.html">Bayramaul</settlement>
+       <geo />
+      </placeName>
+      <date>1970</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">С.</forename>
+        <surname xml:lang="rus">Султановa</surname>
+       </persName>
+       <age>70</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Аджиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Аджиев</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_kum_rus_25">
+   </teiHeader>
+   <text xml:id="cr_kum_rus_25">
     <body>
-      <head>82 Кульбай и его жена (кум.) </head>
-      <p>кульбая одна жена любовной связи кадием любыми средствами хотела умертвить кульбая кульбай подозревал никак это выказывал думая кого перехитрит</p>
-      <p>однажды жена кульбая спрашивает кадия</p>
-      <p>послушай надоел кульбай знаешь умертвить</p>
-      <p>микстуру добавь еду вскоре умрет сказал кадий дал</p>
-      <p>жена сходила базар купила другое необходимое приготовив вкусные блюда решила вечером умертвить кульбая ту ночь пригласила домой кадия вечером кульбай пришел домой жена показным уважением почетом положила еду</p>
-      <p>воллах это неспроста подумал кульбай притворившись ест еду выбросил окно сказал</p>
-      <p>воллах жена кажется нездоровится громким аханьем оханьем удалился лег внутренней комнате</p>
-      <p>случится выздоровеешь сказала жена подумала нездоровиться тебе вскоре довольная стала ждать кадия</p>
-      <p>прошло некоторое время пришел кадий женщина оказала большие почести подала другие блюда накормила хорошенько взбила постелила матрасы уложила сама вышла двор</p>
-      <p>кадий лежал постели глядя вверх раскрыв рот заснул кульбай быстро встал вылил рот кадия масло кипевшее сковородке пошел свое место лег кадий умер</p>
-      <p>женщина вернулась смотрит кадии жизнь теплится</p>
-      <p>уя умер избавлюсь остался жив хотя кульбай нашла нему подход зря муж придумал поступить кадием зря кульбай подумала вошла внутреннюю комнату кульбай спит</p>
-      <p>кульбай вставай вставай заболел позвала кадия вылечить взял умер сказала воскликнула женщина подняв крик заподозрят убийстве скорее кульбай найди способ нам избавиться покойника</p>
-      <p>воллах полегчало попробую придумать сказал кульбай подняв кадия пошел ток</p>
-      <p>одной пшеничной куче закрепил кадия стоя вернулся жене</p>
-      <p>сторож решил обойти ток вышел видит торчит пшеничной куче</p>
-      <p>гей говорит</p>
-      <p>ответа воллах это наверняка вор подумал сторож снова сказал крикнул</p>
-      <p>гей отвечай иначе выстрелю</p>
-      <p>ответа</p>
-      <p>сторож выстрелив упор подошел ближе смотрит кадий</p>
-      <p>ах беда пришла оказывается нечаянно убил кадия аула спастись стал сильно переживать сторож воллах человек кроме кульбая сможет спасти подумал</p>
-      <p>побежал кульбаю рассказал случившемся сказал готов отдать кульбай спасет</p>
-      <p>кульбай взял хорошую плату поднял покойника отнес джумамечети положил ковер котором кадий совершал намаз</p>
-      <p>наутро народ собрался намаз кадия ждут ждут совершать намаз опаздывают кадий идет смотрят ковра торчат ноги подняв ковер увидели кадия мог убить кульбай убьет</p>
-      <p>позвали кульбая спрашивают убил кадия говорит убивал</p>
-      <p>убил</p>
-      <p>знаю убил говорит кульбай женщине трусов та убила</p>
-      <p>собрали женщин аула смотрят проверяют подняв платья видят лишь жены кульбая трусов испугавшись переполоха кадия трусах подумала</p>
-      <p>убили жену кульбая таким образом кульбай избавился гулящей жены желавшей умертвить любовника кадия</p>
-    </body>
-  </text>
-</TEI>
+     <head>82 Кульбай и его жена (кум.) </head>
+     <p>выказывал думая жена кадием кого кульбай кульбая кульбая любовной любыми никак одна перехитрит подозревал связи средствами умертвить хотела это</p><p>жена кадия кульбая однажды спрашивает</p><p>знаешь кульбай надоел послушай умертвить</p><p>вскоре дал добавь еду кадий микстуру сказал умрет</p><p>базар блюда вечером вечером вкусные домой домой другое еду жена жена кадия кульбай кульбая купила необходимое ночь показным положила почетом пригласила приготовив пришел решила сходила ту уважением умертвить</p><p>воллах выбросил еду ест кульбай неспроста окно подумал притворившись сказал это</p><p>аханьем внутренней воллах громким жена кажется комнате лег нездоровится оханьем удалился</p><p>вскоре выздоровеешь довольная ждать жена кадия нездоровиться подумала сказала случится стала тебе</p><p>блюда большие взбила время вышла двор другие женщина кадий матрасы накормила некоторое оказала подала постелила почести пришел прошло сама уложила хорошенько</p><p>быстро вверх встал вылил глядя заснул кадий кадий кадия кипевшее кульбай лег лежал масло место постели пошел раскрыв рот рот свое сковородке умер</p><p>вернулась женщина жизнь кадии смотрит теплится</p><p>внутреннюю вошла жив зря зря избавлюсь кадием комнату кульбай кульбай кульбай муж нашла нему остался подумала подход поступить придумал спит умер уя хотя</p><p>взял воскликнула вставай вставай вылечить женщина заболел заподозрят избавиться кадия крик кульбай кульбай найди нам подняв позвала покойника сказала скорее способ убийстве умер</p><p>воллах кадия кульбай подняв полегчало попробую пошел придумать сказал ток</p><p>вернулся жене закрепил кадия куче одной пшеничной стоя</p><p>видит вышел куче обойти пшеничной решил сторож ток торчит</p><p>гей говорит</p><p>воллах вор крикнул наверняка ответа подумал сказал снова сторож это</p><p>выстрелю гей иначе отвечай</p><p>ответа</p><p>ближе выстрелив кадий подошел смотрит сторож упор</p><p>аула ах беда воллах кадия кроме кульбая нечаянно оказывается переживать подумал пришла сильно сможет спасти спастись стал сторож убил человек</p><p>готов кульбай кульбаю отдать побежал рассказал сказал случившемся спасет</p><p>взял джумамечети кадий ковер котором кульбай намаз отнес плату поднял покойника положил совершал хорошую</p><p>ждут ждут идет кадий кадия кадия ковер ковра кульбай мог намаз намаз народ наутро ноги опаздывают подняв смотрят собрался совершать торчат убить убьет увидели</p><p>говорит кадия кульбая позвали спрашивают убивал убил</p><p>убил</p><p>говорит женщине знаю кульбай та трусов убил убила</p><p>аула видят женщин жены испугавшись кадия кульбая лишь переполоха платья подняв подумала проверяют смотрят собрали трусах трусов</p><p>гулящей желавшей жену жены избавился кадия кульбай кульбая любовника образом таким убили умертвить</p></body>
+   </text>
+  </TEI>

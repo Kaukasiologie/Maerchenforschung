@@ -1,168 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-          <geo/>
-        </placeName>
-        <date>1958</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <surname xml:lang="rus">Чалиев</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+       <geo />
+      </placeName>
+      <date>1958</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <surname xml:lang="rus">Чалиев</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_17">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_17">
     <body>
-      <head>94 Верная жена (лак.) </head>
-      <p>жил жил жил сын одного хана хан решил женить приказал собрать девушек выстроить ряд сын мог проехать рядом ними лошади выбрать невесту</p>
-      <p>сын хана целый день приглядывался гарцуя коне одна понравилась повторилось второй день выбрал девушку жениться третий день увидел бедно одетую девушку выходящую дома готового развалиться лохмотьях красива юноша влюбился</p>
-      <p>хан послал сватов родителям девушки отец подумал издеваются бедностью выгнал сваты пришли второй день сумели убедить отца дал согласие</p>
-      <p>сын хана заказал самые красивые платья приодел девушку сыграв богатую свадьбу женился вскоре умер отец сын стал ханом</p>
-      <p>однажды нему обратились самые богатые купцы города просьбой поехать ними поторговать молодой хан решил посмотреть мир отправился вместе ними посетив многие места получив большую прибыль возвращались домой остановившись отдых поели разговорились купцов спрашивает хана</p>
-      <p>веришь своей жене осталась верна тебе твое отсутствие</p>
-      <p>верю самому ответил хан</p>
-      <p>сделаешь сумею провести твоей женой ночь спрашивает купец хана</p>
-      <p>сможешь это сделать это свое богатство оставлю тебе ответил хан</p>
-      <p>расставшись друзьями купец приехал город остановился одной старухи дал денег словами</p>
-      <p>пойди жене хана скажи тебе хочет прийти человек переночевать тобой случае согласия скажи хочет привезти тебе хорошие подарки гостинцы</p>
-      <p>старуха пошла жене хана передала просьбу постояльца жена хана попросила подождать затем нашла палку сильно избила старуху приговаривая осмелилась прийти сказать такое вернувшись домой старуха потребовала гостя покинуть дом</p>
-      <p>спеши говорит купец старухе тебе дам денег скажешь одета какое руке кольцо</p>
-      <p>старуха описала видела жены хана купец пошел мастеруювелиру заказал точно такое кольцо жены хана</p>
-      <p>этим кольцом купец вернулся своим друзьям рассказал хану одета жена руке это кольцо показал кольцо</p>
-      <p>хан сдержал свое слово оставил свое добро вернулся свой город остановился одного плотника заказал одну бочку затем вызвал жену спросив велел посадить бочку закрыть крышку стражники бросили реку</p>
-      <p>течение далеко унесло бочку одном месте вынесло берег взошло солнце бочка высохла появились щели женщина всей силой толкнула крышку бочки выбила выбралась наружу побрела надежде найти село шла вечера вечером уставшая взобралась дерево провести ночь полночь этим деревом собрались шайтаны докладывали главарю обо своих проделках утру пришел шайтан рассказал таком государстве украл огонь спрятал таком месте весь город сидит огня</p>
-      <p>девушка это услышала шайтаны ушли спустилась дерева пошла пачаху той страны весь город мерз голодал девушка рассказала пачаху припрятан огонь пачах говорит</p>
-      <p>потребуй хочешь</p>
-      <p>хотела говорит девушка стать губернатором такого города пачах назначил губернатором города золото подарил</p>
-      <p>переодевшись мужскую одежду приехала свой город вызвала стражников сказала</p>
-      <p>хан города лучшим другом моего отца поживает</p>
-      <p>поверил сплетням недругов бросил жену реку запил ответили</p>
-      <p>вызвала хана спросила почему бросил жену реку</p>
-      <p>очень любил верил оказалась коварной мое отсутствие изменила мог вынести бросил реку ответил хан</p>
-      <p>губернатор вызвал старуху увидев хана побледнела губернатор спросил</p>
-      <p>хочешь жить расскажи знаешь жене хана</p>
-      <p>старуха рассказала обо всем пришел купец послал жене хана сообщить желании провести ночь жена хана избила</p>
-      <p>вернулась домой дал деньги спросил одета какое кольцо поведала</p>
-      <p>хан волнением слушал рассказ старухи</p>
-      <p>губернатор обратился хану</p>
-      <p>какое кольцо принес тебе купец оно</p>
-      <p>сказав вытащил кармана кольцо показал</p>
-      <p>изготавливает такие кольца обратился губернатор присутствующим</p>
-      <p>назвали имя мастера вызвали мастера показали кольцо спросили сделал</p>
-      <p>это кольцо делал ответил мастер однажды пришел ко купец попросил сделать</p>
-      <p>это говорит губернатор хану сняв своего пальца кольцо настоящее кольцо твоей жены никто твоей жены руки снимал твоя жена раскрыла правду</p>
-      <p>обрадовался хан обнял любимую жену</p>
-      <p>вызвали обманщика купца приказали обезглавить</p>
-      <p>снова сыграли свадьбу хана жены губернатора той свадьбе той свадьбе слышал хавар пришел рассказать услышал</p>
-    </body>
-  </text>
-</TEI>
+     <head>94 Верная жена (лак.) </head>
+     <p>выбрать выстроить девушек женить жил жил жил лошади мог невесту ними одного приказал проехать решил ряд рядом собрать сын сын хан хана</p><p>бедно влюбился второй выбрал выходящую гарцуя готового девушку девушку день день день дома жениться коне красива лохмотьях одетую одна повторилось понравилась приглядывался развалиться сын третий увидел хана целый юноша</p><p>бедностью второй выгнал дал девушки день издеваются отец отца подумал послал пришли родителям сватов сваты согласие сумели убедить хан</p><p>богатую вскоре девушку женился заказал красивые отец платья приодел самые свадьбу стал сыграв сын сын умер хана ханом</p><p>богатые большую вместе возвращались города домой купцов купцы места мир многие молодой нему ними ними обратились однажды остановившись отдых отправился поели поехать получив посетив посмотреть поторговать прибыль просьбой разговорились решил самые спрашивает хан хана</p><p>веришь верна жене осталась отсутствие своей твое тебе</p><p>верю ответил самому хан</p><p>женой купец ночь провести сделаешь спрашивает сумею твоей хана</p><p>богатство оставлю ответил свое сделать сможешь тебе хан это это</p><p>город дал денег друзьями купец одной остановился приехал расставшись словами старухи</p><p>гостинцы жене переночевать подарки пойди привезти прийти скажи скажи случае согласия тебе тебе тобой хана хорошие хочет хочет человек</p><p>вернувшись гостя дом домой жена жене затем избила нашла осмелилась палку передала подождать покинуть попросила постояльца потребовала пошла приговаривая прийти просьбу сильно сказать старуха старуха старуху такое хана хана</p><p>говорит дам денег какое кольцо купец одета руке скажешь спеши старухе тебе</p><p>видела жены жены заказал кольцо купец мастеруювелиру описала пошел старуха такое точно хана хана</p><p>вернулся друзьям жена кольцо кольцо кольцом купец одета показал рассказал руке своим хану этим это</p><p>бочку бочку бросили велел вернулся вызвал город добро жену заказал закрыть затем крышку одного одну оставил остановился плотника посадить реку свое свое свой сдержал слово спросив стражники хан</p><p>берег бочка бочки бочку весь вечера вечером взобралась взошло всей выбила выбралась вынесло высохла главарю город государстве далеко дерево деревом докладывали женщина крышку месте месте надежде найти наружу ночь обо огня огонь одном побрела полночь появились пришел провести проделках рассказал своих село сидит силой собрались солнце спрятал таком таком течение толкнула украл унесло уставшая утру шайтан шайтаны шла щели этим</p><p>весь говорит голодал город девушка девушка дерева мерз огонь пачах пачаху пачаху пошла припрятан рассказала спустилась страны той услышала ушли шайтаны это</p><p>потребуй хочешь</p><p>говорит города города губернатором губернатором девушка золото назначил пачах подарил стать такого хотела</p><p>вызвала город мужскую одежду переодевшись приехала свой сказала стражников</p><p>города другом лучшим моего отца поживает хан</p><p>бросил жену запил недругов ответили поверил реку сплетням</p><p>бросил вызвала жену почему реку спросила хана</p><p>бросил верил вынести изменила коварной любил мог мое оказалась ответил отсутствие очень реку хан</p><p>вызвал губернатор губернатор побледнела спросил старуху увидев хана</p><p>жене жить знаешь расскажи хана хочешь</p><p>всем желании жена жене избила купец ночь обо послал пришел провести рассказала сообщить старуха хана хана</p><p>вернулась дал деньги домой какое кольцо одета поведала спросил</p><p>волнением рассказ слушал старухи хан</p><p>губернатор обратился хану</p><p>какое кольцо купец оно принес тебе</p><p>вытащил кармана кольцо показал сказав</p><p>губернатор изготавливает кольца обратился присутствующим такие</p><p>вызвали имя кольцо мастера мастера назвали показали сделал спросили</p><p>делал ко кольцо купец мастер однажды ответил попросил пришел сделать это</p><p>говорит губернатор жена жены жены кольцо кольцо настоящее никто пальца правду раскрыла руки своего снимал сняв твоей твоей твоя хану это</p><p>жену любимую обнял обрадовался хан</p><p>вызвали купца обезглавить обманщика приказали</p><p>губернатора жены пришел рассказать свадьбе свадьбе свадьбу слышал снова сыграли той той услышал хавар хана</p></body>
+   </text>
+  </TEI>

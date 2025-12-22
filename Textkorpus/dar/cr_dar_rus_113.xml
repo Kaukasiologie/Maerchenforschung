@@ -1,148 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>Д. 216</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>Д. 216</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-          <geo/>
-        </placeName>
-        <date>1886—1887</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Б.</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+       <geo />
+      </placeName>
+      <date>1886—1887</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Б.</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_113">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_113">
     <body>
-      <head>КУЗНЕЧИК</head>
-      <p>жил кузнечик однажды испачкал крылышки бежал былинке которая качалась ветру просит</p>
-      <p>былинна былинка почисти пожалуйста</p>
-      <p>былинка отвечает</p>
-      <p>чистить раскачиваться ветру туда сюда туда сюда</p>
-      <p>подошел козленок кузнечик говорит</p>
-      <p>козлик козленочек накажи пожалуйста былинку съетпг</p>
-      <p>козленок отвечает</p>
-      <p>сухую былинку зеленой травкой полакомлюсь</p>
-      <p>подходит волк кузнечик давай просить волк волчище серый дружище съешь пожалуйста козленка</p>
-      <p>серый отвечает</p>
-      <p>ягнятами буду питаться козлятины ле люблю</p>
-      <p>подходит чабан кузнечик просит</p>
-      <p>ь милый чабап убей пожалуйста волка серого разбойника твоего врага</p>
-      <p>чабан отвечает</p>
-      <p>возиться волком тени чанге поиграю</p>
-      <p>спустя немного времени прибегает мышь кузнечик</p>
-      <p>мышь дорогая острозубая перегрызи пожалуй ста струны чапга чабана</p>
-      <p>мышь отвечает</p>
-      <p>грызть сухие струны приятнее лакеи мигься зерном ларе</p>
-      <p>мышь свое пропищала кот приходит кузне чик просит</p>
-      <p>пушистый кот красивый кот смелый кот гроза мышей крыс съешь пожалуйста жирную мышь</p>
-      <p>бросился кот мышь та бросилась грызть струны чанга чабан кинулся убивать волка волк бросился козленка козленок бросился былинку былинка стренько начала чистить кузнечика</p>
-    </body>
-  </text>
-</TEI>
+     <head>КУЗНЕЧИК</head>
+     <p>бежал былинке ветру жил испачкал качалась которая крылышки кузнечик однажды просит</p><p>былинка былинна пожалуйста почисти</p><p>былинка отвечает</p><p>ветру раскачиваться сюда сюда туда туда чистить</p><p>говорит козленок кузнечик подошел</p><p>былинку козленочек козлик накажи пожалуйста съетпг</p><p>козленок отвечает</p><p>былинку зеленой полакомлюсь сухую травкой</p><p>волк волк волчище давай дружище козленка кузнечик подходит пожалуйста просить серый съешь</p><p>отвечает серый</p><p>буду козлятины ле люблю питаться ягнятами</p><p>кузнечик подходит просит чабан</p><p>волка врага милый пожалуйста разбойника серого твоего убей чабап ь</p><p>отвечает чабан</p><p>возиться волком поиграю тени чанге</p><p>времени кузнечик мышь немного прибегает спустя</p><p>дорогая мышь острозубая перегрызи пожалуй ста струны чабана чапга</p><p>мышь отвечает</p><p>грызть зерном лакеи ларе мигься приятнее струны сухие</p><p>кот кузне мышь приходит пропищала просит свое чик</p><p>гроза жирную кот кот кот красивый крыс мышей мышь пожалуйста пушистый смелый съешь</p><p>бросилась бросился бросился бросился былинка былинку волк волка грызть кинулся козленка козленок кот кузнечика мышь начала стренько струны та убивать чабан чанга чистить</p></body>
+   </text>
+  </TEI>

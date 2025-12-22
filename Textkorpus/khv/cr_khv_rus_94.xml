@@ -1,135 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/556344/inkhokvari.html">Inkhokvari</settlement>
-          <geo/>
-        </placeName>
-        <date>2011</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Заграт Дж.</forename>
-            <surname xml:lang="rus">Магомедова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1954</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/556344/inkhokvari.html">Inkhokvari</settlement>
+       <geo />
+      </placeName>
+      <date>2011</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Заграт Дж.</forename>
+        <surname xml:lang="rus">Магомедова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1954</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_94">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_94">
     <body>
-      <head>ДВЕ ПРОГЛОТИЛ НЕЗАМЕТНО</head>
-      <p>колько забавных случаев происходит жизни горцев анекдотичная история произошла работавшим недавние времена ауле инхоквари хваршинцембегавулом абуси царство небесное ныне покойным бухгалтером сельского совета инхокваринцем ахмеднаби</p>
-      <p>поздно завершив свои служебные дела райисполкоме агвали другасослуживца решили переночевать гостинице утром отправиться аул суматохе деловой бедняги забыли пообедать вечером столовые закрыты гостиницей приятелям повезло опоздали мест горах принято оставлять ночь улице человека сторож гостиницы пригласил пришельцев далёкого аула переночевать сторожке вкусно пахло творожным хинкалом абуси ахмеднаби ждали сторож пригласит вечерней трапезе утра ели хозяин думал угощать абуси ахмеднаби хинкалом уплетал одну хинкалину</p>
-      <p>горах обычна проблема электрическим светом часто гаснет появляется воспользовавшись минутной темнотой абуси заглотнул целых две творожных хинкалины</p>
-      <p/>
-      <p>свет зажёгся показав пальца похвастался своему другу ято две проглотил ахмеднаби лёг несолоно хлебавши такая случилась история грустная весёлая одновременно</p>
-    </body>
-  </text>
-</TEI>
+     <head>ДВЕ ПРОГЛОТИЛ НЕЗАМЕТНО</head>
+     <p>абуси анекдотичная ауле ахмеднаби бухгалтером времена горцев жизни забавных инхоквари инхокваринцем история колько небесное недавние ныне покойным произошла происходит работавшим сельского случаев совета хваршинцембегавулом царство</p><p>абуси абуси агвали аул аула ахмеднаби ахмеднаби бедняги вечерней вечером вкусно горах гостинице гостиницей гостиницы далёкого дела деловой другасослуживца думал ели ждали забыли завершив закрыты мест ночь одну опоздали оставлять отправиться пахло переночевать переночевать повезло поздно пообедать пригласил пригласит принято пришельцев приятелям райисполкоме решили свои служебные столовые сторож сторож сторожке суматохе творожным трапезе угощать улице уплетал утра утром хинкалину хинкалом хинкалом хозяин человека</p><p>абуси воспользовавшись гаснет горах две заглотнул минутной обычна появляется проблема светом творожных темнотой хинкалины целых часто электрическим</p><p /><p>ахмеднаби весёлая грустная две другу зажёгся история лёг несолоно одновременно пальца показав похвастался проглотил свет своему случилась такая хлебавши ято</p></body>
+   </text>
+  </TEI>

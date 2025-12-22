@@ -1,149 +1,134 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Didoische (Zesische) Folklore</title>
-        <title xml:lang="eng">Dido (Tsez) Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Didoische (Zesische) Folklore</title>
+      <title xml:lang="eng">Dido (Tsez) Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="kat">ელიზბარ ლომთაძე, დიდოური ენის ჰინუხური დიალექტი</title>
+        <title xml:lang="rus">Э.А. Ломтадзе, Гинухский диалект дидойского языка</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1963</publisher>
+        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="kat">ელიზბარ ლომთაძე, დიდოური ენის ჰინუხური დიალექტი</title>
-            <title xml:lang="rus">Э.А. Ломтадзе, Гинухский диалект дидойского языка</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა &quot;მეცნიერება&quot;. თბილისი, 1963</publisher>
-            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство &quot;Мецниереба&quot;. Тбилиси, 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ddo">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ddo">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+       <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
+       <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1961</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Магомед Гусейнович</forename>
+        <surname xml:lang="rus">Абакаров</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1936</date>
         <placeName>
-          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
-          <region ref="https://www.geonames.org/865537/kakheti.html">Kakheti</region>
-          <district ref="https://www.geonames.org/7667701/qvareli.html">Qvareli</district>
-          <settlement/>
-          <geo/>
+         <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+         <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+         <settlement ref="https://www.geonames.org/561464/genukh.html">Genukh</settlement>
         </placeName>
-        <date>1961</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Магомед Гусейнович</forename>
-            <surname xml:lang="rus">Абакаров</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1936</date>
-            <placeName>
-              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-              <settlement ref="https://www.geonames.org/561464/genukh.html">Genukh</settlement>
-            </placeName>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Э.А.</forename>
-            <surname xml:lang="rus">Ломтадзе</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Э.А.</forename>
+        <surname xml:lang="rus">Ломтадзе</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ddo_rus_3">
+   </teiHeader>
+   <text xml:id="cr_ddo_rus_3">
     <body>
-      <head>***</head>
-      <p>жили человека оказывается говорили сегодня будем идти завтра будем идти затем приготовили пищу па дорогу смогли пойти пища приготовленная ими целую неделю пролежала осталась второй пошел лих пошел остановился одной деревне второй отправился дорогу торговать осел оя шел шел подошел одной мельнице подошел мельнице поздно осла снял ношу остался вещами ночью мельнице развел огонь сел камина</p>
-      <p>появились пришли медведь волк лиса пришли человек испугался полез чал остался вошли внутрь медведь волк лиса вес окружили огонь п стали беседовать</p>
-      <p>человек прислушался разговору медведя волка лисы медведь сказал одном саду ручей воду поливки направили повернули назад ручей довернем обратно получим большую пользу волк сказал одной собаки вырвем глаза собачьи глаза вставим слепому безглазому человеку получим большую пользу па третий лиса сказала одном доме находится мышь утром разбрасывает деньги солнце вечером вносит собирает дом внутри убьем мыть денег соберем</p>
-      <p>человек подумал выполнит всё сказанное наполнит сумки деньгами рассветом медведь волк пошли лес ухода человек сидящий чане вышел оттуда встал запомнив сказанное медведем волком ручей воду повернул обратно получил многопользы затем й вырвал глаза собаки вставил слепому безглазому человеку получил большую пользу убив ту мышь этим получил денег получил выгоду затем собрался идти положил ношу осла дошел деревню придя цгдеревню поздоровался сказал здравствуй народом подошел гудекану пришел туда народ подал руку спросил</p>
-      <p/>
-      <p>богу ходил торговать дороге застала ночь стемнело время стало темно пришли волк медведь лиса пришли испугался встал полез чан спрашивали друг друга разные вести беседовали медведь сказал одном месте сад польем водой большую выгоду получим па второй волк сказал одной собаки вырвем глаза собачьи глаза вставим слепому безглазому человеку получим пользу третий лиса сказала одном месте находится мытпъ убьем ту мышь этим получим денег</p>
-      <p>сказали это встал выполнил сказанное ими получил большую пользу мешки полны деньгами</p>
-      <p>оставшийся деревце товарищ первый товарищ услышав весть приготовился идти туда пошел ходил ходил добрался пришел той мельницы которой пошел товарищ подобно развел огонь сел камина это время пришли медведь волк лиса пришли человек испугался полез чан медведь волк лиса сказали вчера сказанные нами слова оказывается слышал ю человек выгоды получил сделал па мельнице время нашей беседы оказывается человек</p>
-      <p>вставай посмотри чан</p>
-      <p>пет вставай сказал волк медведю</p>
-      <p>волк сказал лисе вставай посмотри</p>
-      <p>маленькая смогу подняться туда отвечала лиса волку</p>
-      <p>посмотрели чан медведь встал ударил своей лапой человека второго товарища вытащил двор разорвали сделали па части сожрали</p>
-    </body>
-  </text>
-</TEI>
+     <head>***</head>
+     <p>будем будем вещами второй второй говорили деревне дорогу дорогу жили завтра затем идти идти ими камина лих мельнице мельнице мельнице неделю ночью ношу огонь одной одной оказывается осел осла осталась остался остановился отправился оя па пища пищу подошел подошел поздно пойти пошел пошел приготовили приготовленная пролежала развел сегодня сел смогли снял торговать целую человека шел шел</p><p>беседовать вес внутрь волк волк вошли испугался лиса лиса медведь медведь огонь окружили остался п полез появились пришли пришли стали чал человек</p><p>безглазому большую большую вечером вносит внутри воду волк волка вставим вырвем глаза глаза денег деньги довернем дом доме лиса лисы медведь медведя мыть мышь назад направили находится обратно одной одном одном па повернули поливки получим получим пользу пользу прислушался разбрасывает разговору ручей ручей саду сказал сказал сказала слепому собаки собачьи соберем собирает солнце третий убьем утром человек человеку</p><p>безглазому большую воду волк волком вставил встал всё выгоду выполнит вырвал вышел глаза гудекану денег деньгами деревню дошел запомнив затем затем здравствуй идти й лес медведем медведь многопользы мышь наполнит народ народом ношу обратно осла оттуда повернул подал подошел подумал поздоровался положил получил получил получил получил пользу пошли придя пришел рассветом руку ручей сидящий сказал сказанное сказанное слепому собаки собрался спросил сумки ту туда убив ухода цгдеревню чане человек человек человеку этим</p><p /><p>безглазому беседовали богу большую вести водой волк волк время вставим встал второй выгоду вырвем глаза глаза денег дороге друг друга застала испугался лиса лиса медведь медведь месте месте мытпъ мышь находится ночь одной одном одном па полез получим получим получим польем пользу пришли пришли разные сад сказал сказал сказала слепому собаки собачьи спрашивали стало стемнело темно торговать третий ту убьем ходил чан человеку этим</p><p>большую встал выполнил деньгами ими мешки полны получил пользу сказали сказанное это</p><p>беседы весть волк волк время время вчера выгоды деревце добрался идти испугался камина которой лиса лиса медведь медведь мельнице мельницы нами нашей огонь оказывается оказывается оставшийся па первый подобно полез получил пошел пошел приготовился пришел пришли пришли развел сделал сел сказали сказанные слова слышал товарищ товарищ товарищ той туда услышав ходил ходил чан человек человек человек это ю</p><p>вставай посмотри чан</p><p>волк вставай медведю пет сказал</p><p>волк вставай лисе посмотри сказал</p><p>волку лиса маленькая отвечала подняться смогу туда</p><p>встал второго вытащил двор лапой медведь па посмотрели разорвали своей сделали сожрали товарища ударил чан части человека</p></body>
+   </text>
+  </TEI>

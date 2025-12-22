@@ -1,145 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
-          <geo/>
-        </placeName>
-        <date>2010</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Патимат А.</forename>
-            <surname xml:lang="rus">Абакарова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1935</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
+       <geo />
+      </placeName>
+      <date>2010</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Патимат А.</forename>
+        <surname xml:lang="rus">Абакарова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1935</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_109">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_109">
     <body>
-      <head>ДВЕ ПОДРУГИ</head>
-      <p>однажды пошла своей подруге патимат асадулаевой ё младший сын абдула жил волгограде время сахарный песок большой редкостью продавали талонам абдула купил мешок сахару отправил родителям бортовой машине машине видимо бочка бензина дорожный запас топлива заправлять машину раньше везде заправокто поэтому водители топливо держали запасе собой</p>
-      <p>поэтому друг мешок сахарного песка привезённый машине пропах бензином взяли патимат её муж магомед вынесли мешок двор прошёл запах</p>
-      <p>дватри дня оставили дворе запах прошёл убрали двора поставили навес</p>
-      <p>однажды придя гости патимат асадулаевой застала подругу сыпавшую песок мешка большой таз</p>
-      <p>здравствуй подруга здравствуй делаешь знаю этим сахарным песком никак запах бензина проходит ответила патимат научу убрать запах слушай</p>
-      <p>сыпь песок таз сверху налей воду дуршлагом таз быстренько переложи пошутила</p>
-      <p>сказав это вернулась домой прошло немного времени появилась патимат асадулаева ругая чём свет стоит подсказала сахар превратился мёд</p>
-      <p>пошутила знаешь песок тает налить воду посмеялась</p>
-      <p>забуду сделала сказала ушла обидевшись</p>
-      <p>некоторое время помирились забыла случае забыла зато подруга видимо помнила году абрикос высушив наполнила большой таз курагой день пошла своей подруге взяв немного кураги сидели вдвоём беседовали рассказывали своих домашних хлопотах</p>
-      <p>валлах подруга такая курага большом количестве имеется поведала думаю испортилась хочу сохранить её зиму каши готовить</p>
-      <p>знаю сохранить курагу испортилась стала учить курагу сыпь однудве горсти соли черви мухи трогали нарежь добавь чеснока заполнив банки закрой крышками</p>
-      <p>сказала пошла домой возиться своей курагой патимат асадулаева научила положила курагу банки банки закрыв крышками поставила кладовку</p>
-      <p>прекрасный день привезла базара кизил приготовить неё компот пошла кладовку пустыми банками это время глаза бросились банки курагой курага которую еле запихнула заполнив банки краев горлышка достаточно осела</p>
-      <p>интересно ворует мою курагу ключи вроде тому такое впечатление банок одинаково берут такое подумала подошла ближе заметила соли вся курага смякла пошла вниз открыла одну банок распространился чесночный запах дыши разозлившись пошла патимат асадулаевой отругать её души появилась воротах заметив моё обозленное лицо поняв пришла упала смеху отомстила подруга урон который когдато нанесла</p>
-    </body>
-  </text>
-</TEI>
+     <head>ДВЕ ПОДРУГИ</head>
+     <p>абдула абдула асадулаевой бензина большой бортовой бочка везде видимо водители волгограде время держали дорожный жил запас запасе заправлять заправокто купил машине машине машину мешок младший однажды отправил патимат песок подруге пошла поэтому продавали раньше редкостью родителям сахарный сахару своей собой сын талонам топлива топливо ё</p><p>бензином взяли вынесли двор друг её запах магомед машине мешок мешок муж патимат песка поэтому привезённый пропах прошёл сахарного</p><p>дватри двора дворе дня запах навес оставили поставили прошёл убрали</p><p>асадулаевой большой гости застала мешка однажды патимат песок подругу придя сыпавшую таз</p><p>бензина делаешь запах запах здравствуй здравствуй знаю научу никак ответила патимат песком подруга проходит сахарным слушай убрать этим</p><p>быстренько воду дуршлагом налей переложи песок пошутила сверху сыпь таз таз</p><p>асадулаева вернулась времени домой мёд немного патимат подсказала появилась превратился прошло ругая сахар свет сказав стоит чём это</p><p>воду знаешь налить песок посмеялась пошутила тает</p><p>забуду обидевшись сделала сказала ушла</p><p>абрикос беседовали большой вдвоём взяв видимо время высушив году день домашних забыла забыла зато кураги курагой наполнила некоторое немного подруга подруге помирились помнила пошла рассказывали своей своих сидели случае таз хлопотах</p><p>большом валлах готовить думаю её зиму имеется испортилась каши количестве курага поведала подруга сохранить такая хочу</p><p>банки горсти добавь закрой заполнив знаю испортилась крышками курагу курагу мухи нарежь однудве соли сохранить стала сыпь трогали учить черви чеснока</p><p>асадулаева банки банки возиться домой закрыв кладовку крышками курагой курагу научила патимат положила поставила пошла своей сказала</p><p>базара банками банки банки бросились время глаза горлышка день достаточно еле запихнула заполнив кизил кладовку компот которую краев курага курагой неё осела пошла прекрасный привезла приготовить пустыми это</p><p>асадулаевой банок банок берут ближе вниз воротах ворует впечатление вроде вся души дыши её заметив заметила запах интересно ключи когдато который курага курагу лицо мою моё нанесла обозленное одинаково одну открыла отомстила отругать патимат подошла подруга подумала поняв пошла пошла появилась пришла разозлившись распространился смеху смякла соли такое такое тому упала урон чесночный</p></body>
+   </text>
+  </TEI>

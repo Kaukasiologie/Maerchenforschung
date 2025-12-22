@@ -1,170 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/478711/urkarakh.html">Urkarakh</settlement>
-          <geo/>
-        </placeName>
-        <date>1970</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Г.</forename>
-            <surname xml:lang="rus">Бахмудов</surname>
-          </persName>
-          <age>60</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.О.</forename>
-            <surname xml:lang="rus">Абакарова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.О.</forename>
-            <surname xml:lang="rus">Абакарова</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/478711/urkarakh.html">Urkarakh</settlement>
+       <geo />
+      </placeName>
+      <date>1970</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Г.</forename>
+        <surname xml:lang="rus">Бахмудов</surname>
+       </persName>
+       <age>60</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.О.</forename>
+        <surname xml:lang="rus">Абакарова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.О.</forename>
+        <surname xml:lang="rus">Абакарова</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_27">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_27">
     <body>
-      <head>100 Кадир, Сабир и мулла (дарг.}</head>
-      <p>жили друга кадир сабир кадира дома осталось молока мяса муки денег кончилось жена стала ругать кадир задумался раздобыть деньги кадир пошел своему другу охотнику сабиру обратился нему просьбой</p>
-      <p>дай двух зайцев</p>
-      <p>сабир дал двух зайцев</p>
-      <p>кадир говорит жене</p>
-      <p>деньги вещь хорошая денег такая умная голова послушай тебе скажу пойди дочери возьми мясо муку приготовь хинкал возьму собой одного зайца дома приду мулле приглашу хинкал спросит приготовила такое хорошее угощение скажи заяц сообщил нам придет уважаемый гость мулла</p>
-      <p>посадив мешочек зайца кадир отправился мулле мулла принял недолгих расспросов кадир говорит мулле</p>
-      <p>пойдем ко хинкал согласен отправлю зайца жене поручением подготовилась тобой потихоньку пойдем</p>
-      <p>кого пошлешь жене ребенок спрашивает мулла</p>
-      <p>говорит кадир мной заяц</p>
-      <p>заяц спрашивает мулла</p>
-      <p>сидит мешке отвечает кадир</p>
-      <p>заяц делает усмехнулся мулла</p>
-      <p>смеешься знаешь умный заяц пошлю зайца домой жене поручением нам приготовила хинкал</p>
-      <p>этими словами кадир вытащил мешка зайца шепнул ухо</p>
-      <p>хотим хинкал иди скажи жене пусть нам хинкал приготовит</p>
-      <p>кадир выпустил зайца затем кадир мулла вдвоем отправились домой зайдя дом обратили внимание обилие еды удивленный мулла говорит</p>
-      <p>продай зайца заплачу десять рублей</p>
-      <p>какие деньги могу продать моего зайца сколько лет обучал говорит кадир</p>
-      <p>мулла сел обедать обеда снова предложил</p>
-      <p>продай зайца тебе мало десяти рублей заплачу двадцать</p>
-      <p>дело деньгах жаль продавать зайца</p>
-      <p>дам тридцать дам пятьдесят рублей говорит мулла</p>
-      <p>кадир нехотя отдал зайца довольный мулла взял руки зайца говорит</p>
-      <p>пошлю зайца жене приготовила нам ужин</p>
-      <p>сыт хочу сказал кадир</p>
-      <p>сыт говорит мулла прошептал ухо зайцу придем вместе кадиром приготовь нам ужин</p>
-      <p>пришли мулле домой</p>
-      <p>жена приготовила спрашивает мулла</p>
-      <p>откуда знала придешь ужинать кадира удивилась жена</p>
-      <p>говоришь заяц передал мою просьбу</p>
-      <p>дурной заяц удивилась жена</p>
-      <p>послал тебе умного зайца говорит мулла</p>
-      <p>видела никакого зайца отвечает жена</p>
-      <p>мулла посмотрел кадира возмутился</p>
-      <p>ах мной поступил обманул верни мои деньги</p>
-      <p>подожди мулла дай сказать шепнул зайцу ухо спрашивает кадир</p>
-      <p>сказал пусть нам приготовит ужин отвечает мулла</p>
-      <p>сказал спросил кадир</p>
-      <p>сказал говорит мулла</p>
-      <p>кадир громко засмеялся</p>
-      <p>почему обвиняешь мулла сказал находится твой дом бедный наш заяц поисках твоего дома пропал</p>
-    </body>
-  </text>
-</TEI>
+     <head>100 Кадир, Сабир и мулла (дарг.}</head>
+     <p>денег деньги дома друга другу жена жили задумался кадир кадир кадир кадира кончилось молока муки мяса нему обратился осталось охотнику пошел просьбой раздобыть ругать сабир сабиру своему стала</p><p>дай двух зайцев</p><p>дал двух зайцев сабир</p><p>говорит жене кадир</p><p>вещь возьми возьму голова гость денег деньги дома дочери зайца заяц муку мулла мулле мясо нам одного пойди послушай приглашу приготовила приготовь придет приду скажи скажу собой сообщил спросит такая такое тебе уважаемый угощение умная хинкал хинкал хорошая хорошее</p><p>говорит зайца кадир кадир мешочек мулла мулле мулле недолгих отправился посадив принял расспросов</p><p>жене зайца ко отправлю подготовилась пойдем пойдем поручением потихоньку согласен тобой хинкал</p><p>жене кого мулла пошлешь ребенок спрашивает</p><p>говорит заяц кадир мной</p><p>заяц мулла спрашивает</p><p>кадир мешке отвечает сидит</p><p>делает заяц мулла усмехнулся</p><p>домой жене зайца заяц знаешь нам поручением пошлю приготовила смеешься умный хинкал</p><p>вытащил зайца кадир мешка словами ухо шепнул этими</p><p>жене иди нам приготовит пусть скажи хинкал хинкал хотим</p><p>вдвоем внимание выпустил говорит дом домой еды зайдя зайца затем кадир кадир мулла мулла обилие обратили отправились удивленный</p><p>десять зайца заплачу продай рублей</p><p>говорит деньги зайца кадир какие лет могу моего обучал продать сколько</p><p>мулла обеда обедать предложил сел снова</p><p>двадцать десяти зайца заплачу мало продай рублей тебе</p><p>дело деньгах жаль зайца продавать</p><p>говорит дам дам мулла пятьдесят рублей тридцать</p><p>взял говорит довольный зайца зайца кадир мулла нехотя отдал руки</p><p>жене зайца нам пошлю приготовила ужин</p><p>кадир сказал сыт хочу</p><p>вместе говорит зайцу кадиром мулла нам приготовь придем прошептал сыт ужин ухо</p><p>домой мулле пришли</p><p>жена мулла приготовила спрашивает</p><p>жена знала кадира откуда придешь удивилась ужинать</p><p>говоришь заяц мою передал просьбу</p><p>дурной жена заяц удивилась</p><p>говорит зайца мулла послал тебе умного</p><p>видела жена зайца никакого отвечает</p><p>возмутился кадира мулла посмотрел</p><p>ах верни деньги мной мои обманул поступил</p><p>дай зайцу кадир мулла подожди сказать спрашивает ухо шепнул</p><p>мулла нам отвечает приготовит пусть сказал ужин</p><p>кадир сказал спросил</p><p>говорит мулла сказал</p><p>громко засмеялся кадир</p><p>бедный дом дома заяц мулла находится наш обвиняешь поисках почему пропал сказал твоего твой</p></body>
+   </text>
+  </TEI>

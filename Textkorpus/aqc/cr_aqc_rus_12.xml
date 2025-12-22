@@ -1,134 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
-          </publicationStmt>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
+       </publicationStmt>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="2017"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement/>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date from="2017" />
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName />
+       <age />
+       <birth>
+        <address>
+         <district />
+         <settlement />
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_12">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_12">
     <body>
-      <head>Волк и собака</head>
-      <p>одном полном травы цветов л угу паслась отара овец откуда возьмись появился волк волк очень голодный неделю поевший волк кружился вокруг стада баранов аж слюны текли стоило приблизиться стаду собака подымала громкий лай пастух хватался ружье таким неудовлетворенным желанием волк оставался долго однажды волк дороге встретил лису</p>
-      <list rend="bulleted">
-        <item>Пойдем, покажу на лугу красивое стадо баранов, сказал волк лисе. Ах, если бы удалось взять из этого стада хоть одного барана, потроха и ножки достались бы тебе.</item>
-      </list>
-      <p>очень захотелось лисе бараньих потрохов задумала перехитрить собаку пришла лиса собаке</p>
-      <list rend="bulleted">
-        <item>Очень тяжелая у тебя жизнь. Нет никакого отдыха, все время вперед прыгаешь лаешь, назад прыгаешь лаешь, говорит лиса собаке.</item>
-        <item>Все мои мучения из-за э того волка. Чтобы он не утащил барана, мне приходится лаять. Видишь, дремлет пастух, поэтому мне приходится быть начеку, ответила собака.</item>
-      </list>
-      <p>лиса решила дать совет собаке</p>
-      <p>моему волком подружиться признаете волка хозяином вами охранять например мои дети попечении лаешь пугаешь поэтому волк хочет навредить сказала лиса собаке</p>
-      <p>собаке лисы совет понравился пошли оба волку</p>
-      <list rend="bulleted">
-        <item>Вот, сказала лиса, наша собака хочет, чтобы ты стал их повелителем. Если согласишься, сам будешь охранять чабана, собаку и стадо.</item>
-      </list>
-      <p>царь имеющихся свете волков стану повелителем овец собаки пастуха будут моими возьму опеку одним условием собака должна лаять</p>
-      <p>собака дала слово лаять</p>
-      <p>дня волк собака стали вместе охранять стадо баранов однажды собака нечаянно залаяла волк отругал собаку</p>
-      <p>нарушил наше условие тебе доверять сказал волк</p>
-      <p>следующий день пустив стадо пастись незаметное людей место понадеявшись собаку пастух задремал волк спал волк напал собаку схватил шею</p>
-      <list rend="bulleted">
-        <item>Вчера т ы нарушил наш договор. Сегодня я то же нарушу, сказал волк.</item>
-      </list>
-      <p>убил собаку волк оставив единого барана уничтожил стадо проснулся пастух увидел бывает доверять врагу</p>
-    </body>
-  </text>
-</TEI>
+     <head>Волк и собака</head>
+     <p>аж баранов возьмись вокруг волк волк волк волк волк встретил голодный громкий долго дороге желанием кружился л лай лису неделю неудовлетворенным овец однажды одном оставался отара откуда очень паслась пастух подымала поевший полном появился приблизиться ружье слюны собака стада стаду стоило таким текли травы угу хватался цветов</p><list rend="bulleted">
+      <item>Пойдем, покажу на лугу красивое стадо баранов, сказал волк лисе. Ах, если бы удалось взять из этого стада хоть одного барана, потроха и ножки достались бы тебе.</item>
+     </list>
+     <p>бараньих задумала захотелось лиса лисе очень перехитрить потрохов пришла собаке собаку</p><list rend="bulleted">
+      <item>Очень тяжелая у тебя жизнь. Нет никакого отдыха, все время вперед прыгаешь лаешь, назад прыгаешь лаешь, говорит лиса собаке.</item>
+      <item>Все мои мучения из-за э того волка. Чтобы он не утащил барана, мне приходится лаять. Видишь, дремлет пастух, поэтому мне приходится быть начеку, ответила собака.</item>
+     </list>
+     <p>дать лиса решила собаке совет</p><p>вами волк волка волком дети лаешь лиса моему мои навредить например охранять подружиться попечении поэтому признаете пугаешь сказала собаке хозяином хочет</p><p>волку лисы оба понравился пошли собаке совет</p><list rend="bulleted">
+      <item>Вот, сказала лиса, наша собака хочет, чтобы ты стал их повелителем. Если согласишься, сам будешь охранять чабана, собаку и стадо.</item>
+     </list>
+     <p>будут возьму волков должна имеющихся лаять моими овец одним опеку пастуха повелителем свете собака собаки стану условием царь</p><p>дала лаять слово собака</p><p>баранов вместе волк волк дня залаяла нечаянно однажды отругал охранять собака собака собаку стадо стали</p><p>волк доверять нарушил наше сказал тебе условие</p><p>волк волк день задремал людей место напал незаметное пастись пастух понадеявшись пустив следующий собаку собаку спал стадо схватил шею</p><list rend="bulleted">
+      <item>Вчера т ы нарушил наш договор. Сегодня я то же нарушу, сказал волк.</item>
+     </list>
+     <p>барана бывает волк врагу доверять единого оставив пастух проснулся собаку стадо убил увидел уничтожил</p></body>
+   </text>
+  </TEI>

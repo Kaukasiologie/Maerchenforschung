@@ -1,132 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>д. 137</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>д. 137</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Опубл.: Саидов, стр. 207</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Опубл.: Саидов, стр. 207</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/802583/tsada.html">Tsada</settlement>
-          <geo/>
-        </placeName>
-        <date>1935</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Гамзат</forename>
-            <surname xml:lang="rus">Цадаса</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Алиханов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/802583/tsada.html">Tsada</settlement>
+       <geo />
+      </placeName>
+      <date>1935</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Гамзат</forename>
+        <surname xml:lang="rus">Цадаса</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Алиханов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_82">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_82">
     <body>
-      <head>47. Приговор кадия</head>
-      <p>затеял дровосек тяжбу богатеем хотя дровосек прав знал взятки обойтись взял самый лучший свой топор отнес кадию думает порядке прав взятку кадий принял</p>
-      <p>богатей дремал приказал слугам отвезти кадию молодого упитанного бычка спокойно стал ждать суда</p>
-      <p>собрался суд кадий надел очки разложил собой книги стал совещаться помощниками</p>
-      <p>эта задержка подумал бедняк решил кадий забыл топор дай ка напомню</p>
-      <p>задержка почтенный кадий сказал дровосек верши суд быстро топором разрубаю сучья</p>
-      <p>видел топор дворе бычок успел загадить ответил кадий решил дело пользу богача</p>
-    </body>
-  </text>
-</TEI>
+     <head>47. Приговор кадия</head>
+     <p>богатеем взял взятки взятку дровосек дровосек думает затеял знал кадий кадию лучший обойтись отнес порядке прав прав принял самый свой топор тяжбу хотя</p><p>богатей бычка дремал ждать кадию молодого отвезти приказал слугам спокойно стал суда упитанного</p><p>кадий книги надел очки помощниками разложил собой собрался совещаться стал суд</p><p>бедняк дай забыл задержка ка кадий напомню подумал решил топор эта</p><p>быстро верши дровосек задержка кадий почтенный разрубаю сказал суд сучья топором</p><p>богача бычок видел дворе дело загадить кадий ответил пользу решил топор успел</p></body>
+   </text>
+  </TEI>

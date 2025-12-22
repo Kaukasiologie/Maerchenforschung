@@ -1,139 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
-          <geo/>
-        </placeName>
-        <date>2011</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Зайнап М.</forename>
-            <surname xml:lang="rus">Магомедова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1962</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
+       <geo />
+      </placeName>
+      <date>2011</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Зайнап М.</forename>
+        <surname xml:lang="rus">Магомедова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1962</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_87">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_87">
     <body>
-      <head>КТО СПОСОБНЕЕ? </head>
-      <p>одних родителей сына выросли родители построили дома рядом поженили определили спокойную жизнь однажды родители сыновья жёнами собрались вместе отец матерью сказали смотрите дети наши брата относитесь друг другу пониманием дочки живите мире согласии прочность семейных отношений женщин зависит</p>
-      <p>любви уважении друг другу деля радость печаль жили братья обоих дети дети жили дружно братья хвастались такие хорошие умные могут семьи дружбе согласии держать</p>
-      <p>жена старшего пыталась убедить мужа это заслуга заслуга жён разговор тему заканчивался скандалом братья никак хотели признавать чём значит думаешь покажу тебе решила жена старшего брата</p>
-      <p>прошла неделя прошёл месяц забыл муж разговоре поводу которого женой спорил жена спокойно ждала удобного случая</p>
-      <p>както младший брат зарезал барана разделал отдал одну почку сыну брата другую почку своему сыну мальчики кидая вверх почки вышли двора улицу</p>
-      <p>младшем брате семье души чаем зарезали барана большую почку сыну отдали маленькую нашему сыну сказала жена старшего брата</p>
-      <p>решил старший брат пристыдить младшего брата жена наблюдая сценой подумала тебе твоё хвалёное терпение рассудительность немного погодя сказала мужу</p>
-      <p>глупи муж одного барана почки разные бывают спеши ругаться слушая бред жены</p>
-      <p>понял мир согласие доме зависят женщины</p>
-    </body>
-  </text>
-</TEI>
+     <head>КТО СПОСОБНЕЕ? </head>
+     <p>брата вместе выросли дети дома дочки друг другу женщин живите жизнь жёнами зависит матерью мире наши однажды одних определили отец относитесь отношений поженили пониманием построили прочность родителей родители родители рядом семейных сказали смотрите собрались согласии спокойную сына сыновья</p><p>братья братья деля держать дети дети друг другу дружбе дружно жили жили любви могут обоих печаль радость семьи согласии такие уважении умные хвастались хорошие</p><p>брата братья думаешь жена жена жён заканчивался заслуга заслуга значит мужа никак покажу признавать пыталась разговор решила скандалом старшего старшего тебе тему убедить хотели чём это</p><p>ждала жена женой забыл которого месяц муж неделя поводу прошла прошёл разговоре случая спокойно спорил удобного</p><p>барана брат брата вверх вышли двора другую зарезал както кидая мальчики младший одну отдал почки почку почку разделал своему сыну сыну улицу</p><p>барана большую брата брате души жена зарезали маленькую младшем нашему отдали почку семье сказала старшего сыну сыну чаем</p><p>брат брата жена младшего мужу наблюдая немного погодя подумала пристыдить рассудительность решил сказала старший сценой твоё тебе терпение хвалёное</p><p>барана бред бывают глупи жены муж одного почки разные ругаться слушая спеши</p><p>доме женщины зависят мир понял согласие</p></body>
+   </text>
+  </TEI>

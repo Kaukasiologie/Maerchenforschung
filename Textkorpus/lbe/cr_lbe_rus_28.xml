@@ -1,136 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">«Сборник сведений о кавказских горцах», вып. I, стр. 65</title>
-                <title xml:lang="lbe">«Лакрал агьалипал магьри», стр. 37</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">«Сборник сведений о кавказских горцах», вып. I, стр. 65</title>
+          <title xml:lang="lbe">«Лакрал агьалипал магьри», стр. 37</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_28">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_28">
     <body>
-      <head>23. Лисица и волк </head>
-      <p>однажды лев заболел звери пришли навестить</p>
-      <p>лисицы жила соседству</p>
-      <p>волк говорит льву</p>
-      <p>смотри ка негодница лисица сих пор явилась</p>
-      <p>лев страшно рассердился</p>
-      <p>клянусь увижу лисицу растерзаю</p>
-      <p>лисица проведала сама отправилась ко льву</p>
-      <p>смела сих пор навестить закричал лев</p>
-      <p>искала лекарство нашла сразу пришла сказать нем отвечала лисица</p>
-      <p>говори скорее лекарство обрадовался лев</p>
-      <p>нужно взять волчью могу высосать кости мозг</p>
-      <p>сказала лисица</p>
-      <p>лев тотчас бросился волка который стоял рядом отгрыз две моги</p>
-      <p>заскулил волк заковылял лес окровавленных огрызках лисица догнала сказала</p>
-      <p>говорит лишнее надевает такие расные чувяки</p>
-    </body>
-  </text>
-</TEI>
+     <head>23. Лисица и волк </head>
+     <p>заболел звери лев навестить однажды пришли</p><p>жила лисицы соседству</p><p>волк говорит льву</p><p>ка лисица негодница пор сих смотри явилась</p><p>лев рассердился страшно</p><p>клянусь лисицу растерзаю увижу</p><p>ко лисица льву отправилась проведала сама</p><p>закричал лев навестить пор сих смела</p><p>искала лекарство лисица нашла нем отвечала пришла сказать сразу</p><p>говори лев лекарство обрадовался скорее</p><p>взять волчью высосать кости могу мозг нужно</p><p>лисица сказала</p><p>бросился волка две который лев моги отгрыз рядом стоял тотчас</p><p>волк догнала заковылял заскулил лес лисица огрызках окровавленных сказала</p><p>говорит лишнее надевает расные такие чувяки</p></body>
+   </text>
+  </TEI>

@@ -1,149 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
-          <geo/>
-        </placeName>
-        <date>2011г</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Баху Дж.</forename>
-            <surname xml:lang="rus">Магомедова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1961</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
+       <geo />
+      </placeName>
+      <date>2011г</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Баху Дж.</forename>
+        <surname xml:lang="rus">Магомедова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1961</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_44">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_44">
     <body>
-      <head>ВДОВА И ЕЁ ДЕТИ</head>
-      <p>смерти мужа осталась одна вдова двумя детьми сыном дочерью сын пошёл работу мать дочерью отправились лес хворост собирать собирая хворост мать дочерью затеяли разговор сделали девушка выйдет замуж неё родится мальчик мальчик умрёт представив это горько заплакали мать дочь сидели удручённо плакали собрали целый день хворост начало темнеть вернулись домой вечеру пришли нашли вернувшегося работы сына который ждал понимая запропастились</p>
-      <p>увидев домой вернулись накинув руки пустые верёвки спросил сын</p>
-      <p>ходили верёвками валлах хворостом ходили ваш хворост валлах сын сказала мать дочерью целый день проплакали</p>
-      <p>вами случилось целый день плакать удивился сын</p>
-      <p>произойти сын дочка выйдет замуж неё родится сын умрёт похоронят подумав какое это несчастье плакали</p>
-      <p>поведав начали обливаться слезами мать дочь</p>
-      <p>найду людей глупее будете жить убью мать дочь сказал это сын вышел взял собой запас еды необходимое положил хурджуны коня</p>
-      <p>шёл шёл встретил такого возраста одного пешего человека</p>
-      <p>асаламу алейкум ва алейкум салам откуда кладбища покойных пришёл вышел могилы валлах находятся послали собирать деньги живущих земле детей родственников выдачи денег зависит отпустят домой первым встретил родственники первую очередь твоих приведу сказал человек</p>
-      <p>отец родственники мои ответил сын вдовы сколько нужно платить отпустили отца</p>
-      <p>можешь дать своего дома можешь разрешается сказал человек</p>
-      <p>пойдём сказал сын вдовы привёл домой деньги золото выложил хурджуны дал сверх коня своего дал быстро отцом возвратился</p>
-      <p>едва проводив пошёл сын загон матери которая ухаживала скотиной сказал</p>
-      <p>эй мать заканчивай хлопоты скотиной начинай готовить угощенье отец сегодня вечером пожалует</p>
-      <p>умалишённый сын откуда отец должен приходить сколько лет прошло умер твой отец забеспокоилась мать</p>
-      <p>рассказал сын мол случилось встретил человека который шёл света отдал деньги золото придачу коня своего поскорее отцом возвратился</p>
-      <p>ой дурной сын попроси когонибудь коня быстро догони забери всё дал бывает такое покойников отпускали обманул это человек запричитав отправила мать сына вслед мошенником</p>
-      <p>попросил сын коня соседа погнав поскакал вдогонку услышав сзади звук конских копыт человек быстро забежал мельницу которая находилась рядом обманул мельника предложив меняться одеждой отдал свой новый наряд вытащил всё хурджунов туда запихнул попало спрятался увидев коня мельницей заскочил сын вдовы внутрь подумав это человек посмотрев одежду взглянув лицо горячую руку насмерть избил мельника забрал свои хурджуны коня вернулся домой начал вытаскивать содержимое хурджунов вместо денег золота нашёл мусор</p>
-      <p>глупее оказался убью сказал сын вдовы взявшись руками голову сел прямо пол</p>
-    </body>
-  </text>
-</TEI>
+     <head>ВДОВА И ЕЁ ДЕТИ</head>
+     <p>вдова вернувшегося вернулись вечеру выйдет горько двумя девушка день детьми домой дочерью дочерью дочерью дочь ждал замуж заплакали запропастились затеяли который лес мальчик мальчик мать мать мать мужа начало нашли неё одна осталась отправились плакали понимая пошёл представив пришли работу работы разговор родится сделали сидели смерти собирать собирая собрали сын сына сыном темнеть удручённо умрёт хворост хворост хворост целый это</p><p>вернулись верёвки домой накинув пустые руки спросил сын увидев</p><p>валлах валлах ваш верёвками день дочерью мать проплакали сказала сын хворост хворостом ходили ходили целый</p><p>вами день плакать случилось сын удивился целый</p><p>выйдет дочка замуж какое несчастье неё плакали подумав похоронят произойти родится сын сын умрёт это</p><p>дочь мать начали обливаться поведав слезами</p><p>будете взял вышел глупее дочь еды жить запас коня людей мать найду необходимое положил сказал собой сын убью хурджуны это</p><p>возраста встретил одного пешего такого человека шёл шёл</p><p>алейкум алейкум асаламу ва валлах встретил выдачи вышел денег деньги детей домой живущих зависит земле кладбища могилы находятся откуда отпустят очередь первую первым покойных послали приведу пришёл родственники родственников салам сказал собирать твоих человек</p><p>вдовы мои нужно ответил отец отпустили отца платить родственники сколько сын</p><p>дать дома можешь можешь разрешается своего сказал человек</p><p>быстро вдовы возвратился выложил дал дал деньги домой золото коня отцом пойдём привёл сверх своего сказал сын хурджуны</p><p>едва загон которая матери пошёл проводив сказал скотиной сын ухаживала</p><p>вечером готовить заканчивай мать начинай отец пожалует сегодня скотиной угощенье хлопоты эй</p><p>должен забеспокоилась лет мать отец отец откуда приходить прошло сколько сын твой умалишённый умер</p><p>возвратился встретил деньги золото коня который мол отдал отцом поскорее придачу рассказал света своего случилось сын человека шёл</p><p>бывает быстро вслед всё дал догони дурной забери запричитав когонибудь коня мать мошенником обманул ой отправила отпускали покойников попроси сын сына такое человек это</p><p>быстро вдовы вдогонку вернулся взглянув вместо внутрь всё вытаскивать вытащил горячую денег домой забежал забрал запихнул заскочил звук золота избил конских коня коня коня копыт которая лицо мельника мельника мельницей мельницу меняться мусор наряд насмерть находилась начал нашёл новый обманул одеждой одежду отдал погнав подумав попало попросил поскакал посмотрев предложив руку рядом свои свой сзади содержимое соседа спрятался сын сын туда увидев услышав хурджунов хурджунов хурджуны человек человек это</p><p>вдовы взявшись глупее голову оказался пол прямо руками сел сказал сын убью</p></body>
+   </text>
+  </TEI>

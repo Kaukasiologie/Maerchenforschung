@@ -1,158 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/498796/santlada.html">Santlada</settlement>
-          <geo/>
-        </placeName>
-        <date>2010</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Айшат П.</forename>
-            <surname xml:lang="rus">Далгатова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1962</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/498796/santlada.html">Santlada</settlement>
+       <geo />
+      </placeName>
+      <date>2010</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Айшат П.</forename>
+        <surname xml:lang="rus">Далгатова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1962</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_16">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_16">
     <body>
-      <head>КОЛДУН И БЕДНЫЙ ЮНОША </head>
-      <p>жили одни бедняки отец сын хана округа красивая дочь девушку выдавать решили совершит подвига сын уговаривал отца пойти куданибудь поучиться совершать подвиги сын смог убедить отца пошли оставив гору оставив чужую долго шли далеко своего дома одном просторе грушевым деревом остановились отдохнуть поесть проголодались дереве росли груши сбили дерева груши каждый съел одной третью разделив пополам съели оба пока подошёл колдун</p>
-      <p>асаламу алейкум ва алейкум салам такие решившие прохлаждаться моим деревом спросил колдун валлах вышёл дому настоянию сына хочет научиться трём подвигам которых никто знает никто слышал зная идти проголодавшись устали сели отдохнуть сказал отец</p>
-      <p>почему сбили дерева груши груши съели каждый одной одну поделив собой сказал колдун</p>
-      <p>деревом сиди сказал колдун отцу юношу заберу учить одному подвигу некоторое время вернётся уходи отсюда</p>
-      <p>забрав юношу колдун ушёл колдуна жила девушка</p>
-      <p>поедим дня будем сказал колдун будем учить совершать подвиги</p>
-      <p>девушка хлопотавшая рядом отсутствии колдуна предупредила парня усвоил уроки всё время говорил понимает чему учит колдун</p>
-      <p>учил учил колдун поев поев учил юношу совершать подвиг спросил колдун</p>
-      <p>усвоил сказал юноша учил учил колдун прошли ещё одни сутки спросил юношу усвоил сказал юноша учил учил колдун прошло трое суток спросил усвоил сказал юноша усвоил тугодум сказал колдун отвёл отцу сказал колдун отцу сыну покиньте это место уходите отсюда собравшись ушли отец шёл впереди немного погодя сын отстал спрятавшись место которое отцу видно превратился красного коня учил колдун вышел отцу стал крутиться возле отец старался смог поймать позже вернув свой облик сын догнал отца</p>
-      <p>эх красивого коня видел рядом поймали оба верхом поехали пробовал поймать поймаю рядом бывает отчитал отец сына</p>
-      <p>печалься отец сказал сын вскоре отошёл превратился белого коня крутился конь прошлый около отца отец пробовал ловить коня поймал вскоре подошёл сын отец поругал говоря конь белый которого сыном могли поймать</p>
-      <p>почему ведёшь сначала красного коня упустили белого рядом оба верхом поехали сказал отец</p>
-      <p>печалься отец сказал сын дошли села сказал сын отцу завтра спозаранку встань иди базар продавать коня коня найдёшь утром дворе случилось продавай уздечку принеси обратно</p>
-      <p>встал отец спозаранку сказал сын нашёл коня дворе вах сказал отец взял коня узду пошёл базар вскоре продав коня купив вырученные деньги вернулся домой уздечку обещал сыну принёс обратно</p>
-      <p>некоторое время отправил сын отца коня продавать</p>
-      <p>смотри уздечку продавай напомнил сын бедняк начал продавать коня пришёл самый колдун который учил юношу узнал юношу спросил колдун отца юноши</p>
-      <p>продаётся скажи цену установили цену забрал колдун коня попросил уздечку отец отдавал уздечку всё посулив уздечку такую цену коня уговорил колдун отца ещё сооружу уздечку подумал отец взял отдал уздечку обрадованный предложили такую цену коня</p>
-      <p>забрал колдун юношу который превратился коня ушёл девушка жившая колдуна узнала коне юношу завязав коня дворе отрезать голову колдун зашёл дом кинжалом отошёл коня девушка развязала уздечку отпустила коня колдун вернулся спросил конь девушка ответила видела</p>
-      <p>оттуда аллах т двинулся колдун вслед юношей юноша превратился голубя улетел следом превратившись коршуна полетел колдун долетел голубь дворца хана который сидел дворе своей тахте увидев коршуна преследовавшего голубь залетел двор сел плечо хана следом залетел коршун голубь превратившись яблоко упал подол хана</p>
-      <p>красивое яблоко изумлением спросил хан рассматривая</p>
-      <p>колдун превратившись нищего подошёл хану стал просить яблоко хан предлагал деньги драгоценности нищий сулили брал прося яблоко</p>
-      <p>какоето неизвестно откуда взявшееся яблоко оно тебе спрашивал хан</p>
-      <p>нищий продолжал настойчиво просить приговаривая кроме яблока нужно далось это яблоко цепляться подумал хан передавая яблоко нищему успел нищий протянуть руку оно превратившись просо рассыпалось землю нищий вмиг превратился курицу пятью цыплятами хан удивлением наблюдал курица цыплятами клевали зерно ноги хана покатились зёрнышки</p>
-      <p>это одного зёрнышка хотят оставить размышлял хан пока хан думал изпод ног кошка пятью котятами появилась</p>
-      <p>кошка поймала курицу котята цыплят задушили разобравшись ними превратившись юношу сказал молодой человек хану</p>
-      <p>ещё каких трёх подвигов увидеть хочешь хан потеряв сознание упал поняв уклониться выполнения обещания выдал хан дочь бедного юношу</p>
-      <p>женившись дочери хана юноша пошёл жилище колдуна забрал оттуда имущество скот золото драгоценности ту молодую девушку которая учила всему назвал девушку своей сестрой обрадовав родителей приобретением дочери которую те имели хотели построив напротив хана дворец роскошнее ханского юноша стал житьпоживать добро наживать</p>
-      <p>хвайнинский говор</p>
-    </body>
-  </text>
-</TEI>
+     <head>КОЛДУН И БЕДНЫЙ ЮНОША </head>
+     <p>бедняки выдавать гору грушевым груши груши далеко девушку дерева дереве деревом долго дома дочь жили каждый колдун красивая куданибудь оба одни одной одном округа оставив оставив остановились отдохнуть отец отца отца подвига подвиги подошёл поесть пойти пока пополам поучиться пошли проголодались просторе разделив решили росли сбили своего смог совершать совершит съел съели сын сын сын третью убедить уговаривал хана чужую шли</p><p>алейкум алейкум асаламу ва валлах вышёл деревом дому знает зная идти колдун которых моим настоянию научиться никто никто отдохнуть отец подвигам проголодавшись прохлаждаться решившие салам сели сказал слышал спросил сына такие трём устали хочет</p><p>груши груши дерева каждый колдун одной одну поделив почему сбили сказал собой съели</p><p>вернётся время деревом заберу колдун некоторое одному отсюда отцу подвигу сиди сказал уходи учить юношу</p><p>девушка жила забрав колдун колдуна ушёл юношу</p><p>будем будем дня колдун подвиги поедим сказал совершать учить</p><p>время всё говорил девушка колдун колдуна отсутствии парня понимает предупредила рядом уроки усвоил учит хлопотавшая чему</p><p>колдун колдун подвиг поев поев совершать спросил учил учил учил юношу</p><p>вернув видно возле впереди вышел догнал ещё колдун колдун колдун колдун колдун коня которое красного крутиться место место немного облик одни отвёл отец отец отстал отсюда отца отцу отцу отцу отцу погодя позже поймать покиньте превратился прошли прошло свой сказал сказал сказал сказал сказал смог собравшись спросил спросил спрятавшись стал старался сутки суток сын сын сыну трое тугодум усвоил усвоил усвоил усвоил уходите учил учил учил учил учил ушли шёл это юноша юноша юноша юношу</p><p>бывает верхом видел коня красивого оба отец отчитал поехали поймали поймать поймаю пробовал рядом рядом сына эх</p><p>белого белый вскоре вскоре говоря конь конь коня коня которого крутился ловить могли около отец отец отец отошёл отца печалься подошёл поймал поймать поругал превратился пробовал прошлый сказал сын сын сыном</p><p>белого ведёшь верхом коня красного оба отец поехали почему рядом сказал сначала упустили</p><p>базар встань дворе дошли завтра иди коня коня найдёшь обратно отец отцу печалься принеси продавай продавать села сказал сказал случилось спозаранку сын сын уздечку утром</p><p>базар вах вернулся взял вскоре встал вырученные дворе деньги домой коня коня коня купив нашёл обещал обратно отец отец пошёл принёс продав сказал сказал спозаранку сын сыну уздечку узду</p><p>время коня некоторое отправил отца продавать сын</p><p>бедняк колдун колдун коня который напомнил начал отца пришёл продавай продавать самый смотри спросил сын уздечку узнал учил юноши юношу юношу</p><p>взял всё ещё забрал колдун колдун коня коня коня обрадованный отдавал отдал отец отец отца подумал попросил посулив предложили продаётся скажи сооружу такую такую уговорил уздечку уздечку уздечку уздечку уздечку установили цену цену цену цену</p><p>вернулся видела голову дворе девушка девушка девушка дом жившая забрал завязав зашёл кинжалом колдун колдун колдун колдуна коне конь коня коня коня коня который ответила отошёл отпустила отрезать превратился развязала спросил уздечку узнала ушёл юношу юношу</p><p>аллах вслед голубь голубь голубь голубя двинулся двор дворе дворца долетел залетел залетел колдун колдун коршун коршуна коршуна который оттуда плечо подол полетел превратившись превратившись превратился преследовавшего своей сел сидел следом следом т тахте увидев улетел упал хана хана хана юноша юношей яблоко</p><p>изумлением красивое рассматривая спросил хан яблоко</p><p>брал деньги драгоценности колдун нищего нищий подошёл превратившись предлагал просить прося стал сулили хан хану яблоко яблоко</p><p>взявшееся какоето неизвестно оно откуда спрашивал тебе хан яблоко</p><p>вмиг далось землю зерно зёрнышки клевали кроме курица курицу наблюдал настойчиво нищему нищий нищий нищий ноги нужно оно передавая подумал покатились превратившись превратился приговаривая продолжал просить просо протянуть пятью рассыпалось руку удивлением успел хан хан хана цепляться цыплятами цыплятами это яблока яблоко яблоко</p><p>думал зёрнышка изпод котятами кошка ног одного оставить пока появилась пятью размышлял хан хан хотят это</p><p>задушили котята кошка курицу молодой ними поймала превратившись разобравшись сказал хану цыплят человек юношу</p><p>бедного выдал выполнения дочь ещё каких обещания подвигов поняв потеряв сознание трёх увидеть уклониться упал хан хан хочешь юношу</p><p>всему дворец девушку девушку добро дочери дочери драгоценности женившись жилище житьпоживать забрал золото имели имущество колдуна которая которую молодую наживать назвал напротив обрадовав оттуда построив пошёл приобретением родителей роскошнее своей сестрой скот стал те ту учила хана хана ханского хотели юноша юноша</p><p>говор хвайнинский</p></body>
+   </text>
+  </TEI>

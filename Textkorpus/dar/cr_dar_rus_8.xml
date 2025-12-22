@@ -1,146 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_8">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_8">
     <body>
-      <head> 40 Три брата (дарг.) </head>
-      <p>жили жили одних родителей трое сыновей двое старших женаты жили богато младший очень силен жизни везло братья обращали никакого внимания</p>
-      <p>старшие братья желая разбогатеть собрались отправиться путешествие обидеть мать взяли собой младшего шли шли дошли развилки трех дорог одна дорога вела одну сторону другая другую средняя самая трудная вела прямо старшие братья послали средней дороге младшего</p>
-      <p>трудностей испытал своем пути младший брат усталый измученный встретил дороге одну бедную бабушку попросил дать поесть бабушка привела домой приготовилась замесить тесто моче юноша спросил</p>
-      <p>неужели воды месить тесто</p>
-      <p>аждаха сидит источника подпускает людей воде вся деревня мучается воды готовить пожаловалась старуха</p>
-      <p>парень встал взял собой шашку позвал бабушку кувшином пошел источнику смотрит источником лежит страшный аждаха джигит резко подпрыгнул вскочил спину аждахе долго упорно боролся победил вернул людям воду вернулся бабушке души отдохнул отблагодарить такого богатыря вышли местные сельчане жители соседних селений</p>
-      <p>прослушав весть таком удальце мольбой помощи пришли люди дальнего села оказывается одноглазые аждахи брат сестра воды оставили аждаха брат сидел одиннадцатью замками большом дворце ключ замка находился сестры которая жила лесу аждаха брат могучий кашля сотрясалось селение чихание подобно грому взгляд сверкал молния аждаха сестра сидела волшебном дереве которого одни листья смотрели одну сторону другие другую брала руки лист левой стороны люди превращались камень правой оживали узнав обо всем джигит отправился лес аждахе брату ключами замка</p>
-      <p>дороге встретил лису захотел убить лиса заговорила человеческим голосом попросила</p>
-      <p>оставь хороший убивай тебе помогу</p>
-      <p>лиса дала пучок своей шерсти сказала</p>
-      <p>буду тебе нужна сожги волосок момент окажусь рядом тобой</p>
-      <p>удалец нс убил лису взял пучок</p>
-      <p>шел шел встретился волк хотел убить волк заговорил человеческим голосом стал просить</p>
-      <p>оставь хороший тебе пригожусь</p>
-      <p>волк дал свои волоски</p>
-      <p>оставив волка джигит пошел дальше шел шел встретил медвежат стали просить убивать отдали свои волоски</p>
-      <p>джигит дошел волшебного дерева сжег волоски которые дали звери ту минуту появились лиса волк медвежата медвежата начали трясти дерево аждаха сестра упала лиса стала обманывать волк стоял наготове разорвать куски</p>
-      <p>джигит встал правую сторону волшебного дерева крикнул</p>
-      <p>дай нам ключи замка брата убьем</p>
-      <p>аждаха сестра проснулась вздрогнула говорит</p>
-      <p>джигит такого смельчака который решился ко подойти разговаривать таком тоне никто тех ко приходил живым возвращался посмотри камни это такие молодые люди прекрасные парни ляжешь рядом ними</p>
-      <p>джигит резко схватил левую ветку дерева руках остался лист дунул сторону аждахи сестры превратилась камень затем схватил ветку правой стороны кого превратила камни эта аждаха сестра ожили поднялись действительно оказались красивыми молодыми людьми стали благодарить джигита довольный ключами джигит молодыми людьми вернулся селение</p>
-      <p>оттуда дошел дворца сжег оставшиеся волоски своих друзей зверей лиса волк медвежата ту минуту появились вместе ними открыл дворец дошел одиннадцатого замка открыл дверь смотрит одноглазый аждаха лежит спокойно спит лиса волк медвежата напали разорвали куски юноша своей шашкой измельчил дворе куски части аждахи сжег люди довольны благодарны это избавил рабства великанов вечного страха</p>
-      <p>люди стали жить спокойно мирно собрали своего джигита освободителя очень богатства денег золота выбрали самую красивую девушку соседних деревень женили собрав караван богатствами сельчане проводили удальца</p>
-      <p>джигит вернулся свой дом</p>
-      <p>братья которые вернулись пустыми руками увидев младший брат стал богаче нашел свое счастье месте умерли зависти добрый джигит своей красавицей женой живет сих пор делая людям хорошее помогая трудностях желая добра такова судьба младшего брата</p>
-    </body>
-  </text>
-</TEI>
+     <head> 40 Три брата (дарг.) </head>
+     <p>богато братья везло внимания двое женаты жизни жили жили жили младший никакого обращали одних очень родителей силен старших сыновей трое</p><p>братья братья вела вела взяли дорог дорога дороге дошли другая другую желая мать младшего младшего обидеть одна одну отправиться послали прямо путешествие разбогатеть развилки самая собой собрались средней средняя старшие старшие сторону трех трудная шли шли</p><p>бабушка бабушку бедную брат встретил дать домой дороге замесить измученный испытал младший моче одну поесть попросил привела приготовилась пути своем спросил тесто трудностей усталый юноша</p><p>воды месить неужели тесто</p><p>аждаха воде воды вся готовить деревня источника людей мучается подпускает пожаловалась сидит старуха</p><p>аждаха аждахе бабушке бабушку богатыря боролся вернул вернулся взял воду вскочил встал вышли джигит долго души жители источником источнику кувшином лежит людям местные отблагодарить отдохнул парень победил подпрыгнул позвал пошел резко селений сельчане смотрит собой соседних спину страшный такого упорно шашку</p><p>аждаха аждаха аждаха аждахе аждахи большом брала брат брат брат брату весть взгляд воды волшебном всем грому дальнего дворце дереве джигит другие другую жила замка замка замками камень кашля ключ ключами которая которого левой лес лесу лист листья люди люди могучий молния мольбой находился обо одиннадцатью одни одноглазые одну оживали оказывается оставили отправился подобно помощи правой превращались пришли прослушав руки сверкал села селение сестра сестра сестры сидел сидела смотрели сотрясалось сторону стороны таком удальце узнав чихание</p><p>встретил голосом дороге заговорила захотел лиса лису попросила убить человеческим</p><p>оставь помогу тебе убивай хороший</p><p>дала лиса пучок своей сказала шерсти</p><p>буду волосок момент нужна окажусь рядом сожги тебе тобой</p><p>взял лису нс пучок убил удалец</p><p>волк волк встретился голосом заговорил просить стал убить хотел человеческим шел шел</p><p>оставь пригожусь тебе хороший</p><p>волк волоски дал свои</p><p>волка волоски встретил дальше джигит медвежат оставив отдали пошел просить свои стали убивать шел шел</p><p>аждаха волк волк волоски волшебного дали дерева дерево джигит дошел звери которые куски лиса лиса медвежата медвежата минуту наготове начали обманывать появились разорвать сестра сжег стала стоял трясти ту упала</p><p>волшебного встал дерева джигит крикнул правую сторону</p><p>брата дай замка ключи нам убьем</p><p>аждаха вздрогнула говорит проснулась сестра</p><p>возвращался джигит живым камни ко ко который люди ляжешь молодые никто ними парни подойти посмотри прекрасные приходил разговаривать решился рядом смельчака такие такого таком тех тоне это</p><p>аждаха аждахи благодарить вернулся ветку ветку действительно дерева джигит джигит джигита довольный дунул затем камень камни ключами кого красивыми левую лист людьми людьми молодыми молодыми ожили оказались остался поднялись правой превратила превратилась резко руках селение сестра сестры стали сторону стороны схватил схватил эта</p><p>аждаха аждахи благодарны великанов вечного вместе волк волк волоски дверь дворе дворец дворца довольны дошел дошел друзей замка зверей избавил измельчил куски куски лежит лиса лиса люди медвежата медвежата минуту напали ними одиннадцатого одноглазый оставшиеся открыл открыл оттуда появились рабства разорвали своей своих сжег сжег смотрит спит спокойно страха ту части шашкой это юноша</p><p>богатства богатствами выбрали девушку денег деревень джигита женили жить золота караван красивую люди мирно освободителя очень проводили самую своего сельчане собрав собрали соседних спокойно стали удальца</p><p>вернулся джигит дом свой</p><p>богаче брат брата братья вернулись делая джигит добра добрый желая женой живет зависти которые красавицей людям месте младшего младший нашел помогая пор пустыми руками свое своей сих стал судьба счастье такова трудностях увидев умерли хорошее</p></body>
+   </text>
+  </TEI>

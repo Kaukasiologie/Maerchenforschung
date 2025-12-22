@@ -1,149 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>д. 137</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>д. 137</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Саидов, стр. 199–201</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Саидов, стр. 199–201</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Алиханов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Алиханов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_75">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_75">
     <body>
-      <head>41. Три вора</head>
-      <p>жили жили вора кикуни гергебиля поспорили однажды искуснее</p>
-      <p>нам спорить сказал кикунинец сегодняшний день покажет</p>
-      <p>пошли втроем воровать месте решить спор вскоре увидели крестьянина который пахал поле</p>
-      <p>давайте украдем вола предложил кикунинец</p>
-      <p>почему двух засмеялись спутники думая затея напрасна украсть вола запряженного плуг хозяине</p>
-      <p>отвлеку хозяина уведете вола</p>
-      <p>кикунинец поднялся горку громко закричал</p>
-      <p>вижу чудо какое чудо</p>
-      <p>пахарь заинтересовался остановил быков стал спрашивать какое чудо видит кикунинец продолжал кричать</p>
-      <p>чудо какое чудо</p>
-      <p>пахарь поднялся нему спросил</p>
-      <p>какое чудо видишь почему раздираешь уши горло</p>
-      <p>чудо пашешь одним быком ответил кикунинец</p>
-      <p>пахарь обернулся увидел упряжке правда вол пока пахарь размышлял чудом кикувинец догнал своих дружков</p>
-      <p>вола кикунинец забрал</p>
-      <p>гергебильцы решили превзойти удачливого соперника задумали обворовать дом предвидя это кикунинец приказал жене запереть кладовую замок спрятать ключ надежном месте</p>
-      <p>ночью гергебильцы обнаружили замок тихонько подкрались постели хозяев воров прошептал ухо спящей женщине</p>
-      <p>надежно припрятала ключ кладовой</p>
-      <p>шнурке моих шаровар бесстыдник захихикала жена</p>
-      <p>дай сюда ключ шепнул гергебилец</p>
-      <p>воры отомкнули кладовую взяли самый большой курдюк скрылись</p>
-      <p>немного погодя кикунинец проснулся спросил жену</p>
-      <p>надежно спрятала ключ кладовой</p>
-      <p>сколько должна тебе объяснять шнурке рассердилась жена</p>
-      <p>сколько говоришь обчистили завопил кикунинец бросился погоню</p>
-      <p>гергебильцы несли тяжелый курдюк очереди кикунинец воспользовался темнотой сменил уставшего вора затем незаметно отстал спеша вернулся домой рассказывают гергебильцы ночь ждали друг друга дороге кикуни гергебиля</p>
-    </body>
-  </text>
-</TEI>
+     <head>41. Три вора</head>
+     <p>вора гергебиля жили жили искуснее кикуни однажды поспорили</p><p>день кикунинец нам покажет сегодняшний сказал спорить</p><p>воровать вскоре втроем который крестьянина месте пахал поле пошли решить спор увидели</p><p>вола давайте кикунинец предложил украдем</p><p>вола двух думая запряженного засмеялись затея напрасна плуг почему спутники украсть хозяине</p><p>вола отвлеку уведете хозяина</p><p>горку громко закричал кикунинец поднялся</p><p>вижу какое чудо чудо</p><p>быков видит заинтересовался какое кикунинец кричать остановил пахарь продолжал спрашивать стал чудо</p><p>какое чудо чудо</p><p>нему пахарь поднялся спросил</p><p>видишь горло какое почему раздираешь уши чудо</p><p>быком кикунинец одним ответил пашешь чудо</p><p>вол догнал дружков кикувинец обернулся пахарь пахарь пока правда размышлял своих увидел упряжке чудом</p><p>вола забрал кикунинец</p><p>гергебильцы дом жене задумали замок запереть кикунинец кладовую ключ месте надежном обворовать превзойти предвидя приказал решили соперника спрятать удачливого это</p><p>воров гергебильцы женщине замок ночью обнаружили подкрались постели прошептал спящей тихонько ухо хозяев</p><p>кладовой ключ надежно припрятала</p><p>бесстыдник жена захихикала моих шаровар шнурке</p><p>гергебилец дай ключ сюда шепнул</p><p>большой взяли воры кладовую курдюк отомкнули самый скрылись</p><p>жену кикунинец немного погодя проснулся спросил</p><p>кладовой ключ надежно спрятала</p><p>должна жена объяснять рассердилась сколько тебе шнурке</p><p>бросился говоришь завопил кикунинец обчистили погоню сколько</p><p>вернулся вора воспользовался гергебильцы гергебильцы гергебиля домой дороге друг друга ждали затем кикуни кикунинец курдюк незаметно несли ночь отстал очереди рассказывают сменил спеша темнотой тяжелый уставшего</p></body>
+   </text>
+  </TEI>

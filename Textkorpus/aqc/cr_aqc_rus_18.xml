@@ -1,131 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Микаилов К.Ш., Арчинский язик(Грамматичесский очерк с текстами и словарем)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Дагестанский филиал АН СССР. Институт истории, язика и литератури имени Г. Цадаси. Маьачкала, 1967 </publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Микаилов К.Ш., Арчинский язик(Грамматичесский очерк с текстами и словарем)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Дагестанский филиал АН СССР. Институт истории, язика и литератури имени Г. Цадаси. Маьачкала, 1967 </publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1962-1964</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">К.Ш.</forename>
-            <surname xml:lang="rus">Микаилов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1962-1964</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">К.Ш.</forename>
+        <surname xml:lang="rus">Микаилов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_18">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_18">
     <body>
-      <head>МОРСКОЙ КОНЬ</head>
-      <p>одного шаха сына приходили отцу узнать чувствует однажды нашли грустным дети спросили отца почему грустный случилось отец сказал ночью сне видел море белого снег коня миг трижды оборачивается вокруг света дети сказали узнаем это конь придём трое отправились верхом путь ехали ехали доехали места дорога расходилась стороны камень нем нашли надпись ушедший направо жив останется ушедший палево ушедший середину погибнет станет счастливым самый старший пошёл направо средний пошёл налево самый младший пошёл середину сказал вами иду мол уехал ехал ехал гору проехал чужих две проехал доехал одного большого леса копь подох голоду остался голодным нашёл следа человека пробыл десять дней самом конце обнаружил отт след человека</p>
-      <p>следа большого человека испугался</p>
-      <p>шел шел увидел одну сидящую ведьму сказал знаешь белого коня который море бывает говорит младший сын знает всё свете спрошу увидели спрячься ео дворе говорит спрятался это время возвращались троих чинаровое дерево нем олень висел мать поставила большой котёл детям пишу варить поели спрашивает знаете бывает морской конь младший сказал знаю мать говорит покажи это место оно показал оставив спать вышла двор показала живёт морской конь дойдя положил седло пойдя дальше увидел спавшего песке белого снег коня птица бросился морскому коню</p>
-      <p>схватив коня гриву отпускал делал конь покорился это конь которого отпустил шах около моря чинаровое дерево нем висело золотое седло положив коня уехал ночью отпустил лошадь положив седло голову уснул утром встал коня нашёл покричал прошла секунда конь прибежал нашёл золотое перо лошадь говорит это перо спрячь пера осталось придя забрал перо приказали найти птицу такими перьями лошадь сказала шаха младшая дочь каждый день приходит сюда скажи дай перо которое говорит делала это перо отдавай говорит пришла та девушка отдала перо это перо вернул принесла новую одежду поехала лошади ехали ехали доехали своего дома старшие братья взлюбили договорившись решили погубить младшему</p>
-      <p>брату говорят давайте наших лошадей пустим вскачь младший брат это согласился сказал знаете моей лошади аоя лошадь миг трижды оборачивается вокруг света</p>
-      <p>братья сказали ладно давай веселья поскачем согласившись ними сел па копя братья поставили середину пустили своих лошадей вскачь столкнув младшего брата лошади убили старшие братья решили поймать койя поймать смогли</p>
-      <p>говорят отцу младший брат послушался ушёл опасной дороге говорят</p>
-      <p>обманули ту девушку посадили внутрь заперли отец пошёл поискать своего сына нашёл однажды та девушка увидела коня неё красный платок бросила лошади попал лошадь копь седлом прибежал эта девушка села копя коне упал юноша положенное седло это сохранил девушка сказала лошади должны спасти юношу лошадь сказала привяжи красную нитку моей шее спрячу сев коня та девушка уехала нашли место упал конь махнул головой юноша вскочил лошадь уехал виде старший брат сбежал восток средний брат сбежал запад младший брат угощал гостей пришедших нему свадьбу</p>
-    </body>
-  </text>
-</TEI>
+     <head>МОРСКОЙ КОНЬ</head>
+     <p>белого большого вами верхом видел вокруг голодным голоду гору грустный грустным две десять дети дети дней доехал доехали дорога ехал ехал ехали ехали жив иду камень конце конь коня копь леса места миг младший мол море надпись налево направо направо нашли нашли нашёл нем ночью обнаружил оборачивается однажды одного одного остался останется отец отправились отт отца отцу палево погибнет подох почему пошёл пошёл пошёл придём приходили пробыл проехал проехал путь расходилась самом самый самый света середину середину сказал сказал сказали след следа случилось сне снег спросили средний станет старший стороны счастливым сына трижды трое уехал узнаем узнать ушедший ушедший ушедший человека человека чувствует чужих шаха это</p><p>большого испугался следа человека</p><p>белого белого большой бросился бывает бывает варить ведьму висел возвращались время всё вышла говорит говорит говорит дальше двор дворе дерево детям дойдя ео живёт знает знаете знаешь знаю конь конь коню коня коня который котёл мать мать место младший младший море морской морской морскому нем одну олень оно оставив песке пишу поели пойдя покажи показал показала положил поставила птица свете седло сидящую сказал сказал снег спавшего спать спрашивает спрошу спрятался спрячься сын троих увидел увидел увидели чинаровое шел шел это это</p><p>братья вернул взлюбили висело встал говорит говорит говорит голову гриву дай девушка делал делала день дерево договорившись доехали дома дочь ехали ехали забрал золотое золотое каждый конь конь конь коня коня коня которого которое лошади лошадь лошадь лошадь младшая младшему моря найти нашёл нашёл нем новую ночью одежду около осталось отдавай отдала отпускал отпустил отпустил пера перо перо перо перо перо перо перо перьями погубить поехала покорился покричал положив положив прибежал придя приказали принесла приходит пришла прошла птицу решили своего седло седло секунда скажи сказала спрячь старшие схватив сюда та такими уехал уснул утром чинаровое шах шаха это это это это</p><p>аоя брат брату вокруг вскачь говорят давайте знаете лошадей лошади лошадь миг младший моей наших оборачивается пустим света сказал согласился трижды это</p><p>брата братья братья братья веселья вскачь давай койя копя ладно лошадей лошади младшего ними па поймать поймать поскачем поставили пустили решили своих сел середину сказали смогли согласившись старшие столкнув убили</p><p>брат говорят говорят дороге младший опасной отцу послушался ушёл</p><p>брат брат брат бросила виде внутрь восток вскочил головой гостей девушка девушка девушка девушка девушку должны запад заперли коне конь коня коня копь копя красную красный лошади лошади лошадь лошадь лошадь махнул место младший моей нашли нашёл нему неё нитку обманули однажды отец платок поискать положенное попал посадили пошёл прибежал привяжи пришедших сбежал сбежал свадьбу своего сев седло седлом села сказала сказала сохранил спасти спрячу средний старший сына та та ту увидела угощал уехал уехала упал упал шее эта это юноша юноша юношу</p></body>
+   </text>
+  </TEI>

@@ -1,137 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Agulische Folklore</title>
-        <title xml:lang="eng">Agul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Agulische Folklore</title>
+      <title xml:lang="eng">Agul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="kat">ალ. მაჰომეტოვი, აღულური ენა (გამოკვლევა და ტექსტები)</title>
+        <title xml:lang="rus">А.А. Магометов, Агульский язкык (Исследование и тексты)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1970</publisher>
+        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1970, стр. 224-225.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="kat">ალ. მაჰომეტოვი, აღულური ენა (გამოკვლევა და ტექსტები)</title>
-            <title xml:lang="rus">А.А. Магометов, Агульский язкык (Исследование и тексты)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა &quot;მეცნიერება&quot;. თბილისი, 1970</publisher>
-            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство &quot;Мецниереба&quot;. Тбилиси, 1970, стр. 224-225.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="agx">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/480804/tsumadinskiy-rayon.html">Tsumadinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/549923/Khonokh.html">Khonokh</settlement>
-          <geo/>
-        </placeName>
-        <date>1965</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Ахмед</forename>
-            <surname xml:lang="rus">Рамазанов</surname>
-          </persName>
-          <age>59</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.А.</forename>
-            <surname xml:lang="rus">Магометож</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="agx">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/480804/tsumadinskiy-rayon.html">Tsumadinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/549923/Khonokh.html">Khonokh</settlement>
+       <geo />
+      </placeName>
+      <date>1965</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Ахмед</forename>
+        <surname xml:lang="rus">Рамазанов</surname>
+       </persName>
+       <age>59</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.А.</forename>
+        <surname xml:lang="rus">Магометож</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_agx_rus_47">
+   </teiHeader>
+   <text xml:id="cr_agx_rus_47">
     <body>
-      <head>«КОЗА» </head>
-      <p>старый человек писал камне судьбы людей встретил купец купец сказал пишешь судьбы пишу сказал твоя дочь достанется мальчику находящемуся животе жены одного бедняка сын родится</p>
-      <p>купец пошел село купил дав деньги ту женщину пошел лес ударив кинжалом живот женщину убил живота вышел мальчик нашел пастух пастух взял собой давал молоко козла молоко пил вырос имя стало коза стал юношей</p>
-      <p>купец пришел вновь овец купил пастух позвал эй коза овец приведи купец спросил почему зовешь козой мать лесу убита нашел лесу молоко давал вырос имя стало коза</p>
-      <p>этих купленных овец село отведи сказал письмо написав моей жене отнеси сказал мальчика убей сказал письмо край шапки положив отправил</p>
-      <p>овцами сад купца пошел загнав овец сад ю юша заснул</p>
-      <p>пришла девушка девушка посмотрела красивый юноша девушке понравился юноша вынула письмо шапки письме написано юношу убей девушка это письмо порвав выбросила написала другое письмо этому юноше дочь замуж выдай сказав написала</p>
-      <p>пришла мать девушки саду делаешь говоря отругала юноша сказал нате ваши овны шапки вынув письмо дал письмо дал женщина вместе юношей пошла домой позвала родственников</p>
-      <p>свадьбу делаем письмо юноше выдай дочь замуж сказала сделали свадьбу сделали свадьбу муж вернулся дома находящегося юношу бейте сказано конце концов эта девушка досталась</p>
-      <p>па камне пишущего слова оправдались</p>
-    </body>
-  </text>
-</TEI>
+     <head>«КОЗА» </head>
+     <p>бедняка встретил достанется дочь жены животе камне купец купец людей мальчику находящемуся одного писал пишешь пишу родится сказал сказал старый судьбы судьбы сын твоя человек</p><p>взял вырос вышел дав давал деньги женщину женщину живот живота имя кинжалом коза козла купец купил лес мальчик молоко молоко нашел пастух пастух пил пошел пошел село собой стал стало ту убил ударив юношей</p><p>вновь вырос давал зовешь имя коза коза козой купец купец купил лесу лесу мать молоко нашел овец овец пастух позвал почему приведи пришел спросил стало убита эй</p><p>жене край купленных мальчика моей написав овец отведи отнеси отправил письмо письмо положив село сказал сказал сказал убей шапки этих</p><p>загнав заснул купца овец овцами пошел сад сад ю юша</p><p>выбросила выдай вынула девушка девушка девушка девушке дочь другое замуж красивый написала написала написано письме письмо письмо письмо понравился порвав посмотрела пришла сказав убей шапки это этому юноша юноша юноше юношу</p><p>ваши вместе вынув говоря дал дал девушки делаешь домой женщина мать нате овны отругала письмо письмо позвала пошла пришла родственников саду сказал шапки юноша юношей</p><p>бейте вернулся выдай девушка делаем дома досталась дочь замуж конце концов муж находящегося письмо свадьбу свадьбу свадьбу сделали сделали сказала сказано эта юноше юношу</p><p>камне оправдались па пишущего слова</p></body>
+   </text>
+  </TEI>

@@ -1,164 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Опубл.: СЮНД на ногайском (с. 338-340) и русском (с. 351-353) яз.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Опубл.: СЮНД на ногайском (с. 338-340) и русском (с. 351-353) яз.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/520075/nogayskiy-rayon.html">Nogayskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/797118/kumli.html">Kumli</settlement>
-          <geo/>
-        </placeName>
-        <date>1960</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Д.</forename>
-            <surname xml:lang="rus">Черкесов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.Ш.</forename>
-            <surname xml:lang="rus">Джанибеков</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/520075/nogayskiy-rayon.html">Nogayskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/797118/kumli.html">Kumli</settlement>
+       <geo />
+      </placeName>
+      <date>1960</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Д.</forename>
+        <surname xml:lang="rus">Черкесов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.Ш.</forename>
+        <surname xml:lang="rus">Джанибеков</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_4">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_4">
     <body>
-      <head>41 Гадальщик Шегертки (ног.) </head>
-      <p>давным давно дочь хана судьей табуны хана паслись тысячами темный народ вел нищенскую жизнь баи бедные бедняк имени шегертки однажды украл бая акмака коня это самый любимый аргамак бая узнав краже бай акмак распространил весть аулу даст десять лошадей тому укажет вора найдет коня</p>
-      <p>бай акмак созвал гадальщиков стали гадать совещаться вместе ними пришел шегертки искусство гадальщиков помогло никто мог указать вора байского коня шегертки рассказал баю находится аргамак нашелся аргамак бай акмак отдал шегертки десять лошадей</p>
-      <p>тех дней которые созданы великим тангри бая акмака пропало золотое кольцо бай срочно вызвал шегертки</p>
-      <p>это кольцо осталось моих предков угадай украл найдешь дам тебе мешок золота сказал бай акмак</p>
-      <p>шегертки задумался отгадать попросил</p>
-      <p>хозяин бай будь немного терпелив дай собраться мыслями приду скажу обо всем сказал</p>
-      <p>запоет третий петух задумал убежать</p>
-      <p>бай акмак оставил шегертки одного вернулся юрту</p>
-      <p>весть приезде гадальщика шегертки быстро распространилась аулу нем узнали трое братьев которые украли кольцо решили подслушать разговор бая шегертки первым пришел младший братьев собрался подслушивать запел первый петух шегертки громко закричал</p>
-      <p>первый пришел</p>
-      <p>младший брат подумал шегертки говорит приходе встревоженный побежал своим братьям</p>
-      <p>братья мои узнал моем приходе верите сами пойдите подслушайте</p>
-      <p>пошел средний братьев приложил ухо подслушать запел второй петух</p>
-      <p>шегертки облегчением закричал</p>
-      <p>второй пришел</p>
-      <p>средний брат испугался быстро вернулся домой</p>
-      <p>давайте вместе пойдем подслушаем предложил старший</p>
-      <p>сделали</p>
-      <p>братья подкрались двери юрты запел третий петух</p>
-      <p>трое пришли крикнул радостно шегертки выбежал юрты увидев братья упали колени старший сказал</p>
-      <p>нам жизни ради аллаха рассказывай баю это украли кольцо</p>
-      <p>услышав это шегертки обрадовался</p>
-      <p>кольцо бая акмака сделайте дайте кольцо гусю сломайте ногу</p>
-      <p>спасибо шегертки пусть вознаградит великий тангри сделаем велел наш великий гадальщик</p>
-      <p>бедняки заставили гуся проглотить кольцо сломали ногу шегертки смело пошел баю сказал</p>
-      <p>хозяин бай кольцо твое проглотил ваш хромой гусь</p>
-      <p>получив свое кольцо обратно бай акмак отдал шегертки мешочек золота</p>
-      <p>однажды бай акмак пришел гости своему соседу баю койбагару рассказал великом гадальщике шегертки оба поспорили койбагар бай обещал дать половину своего богатства шегертки отгадает одну загадку</p>
-      <p>койбагар бай решил поймаю ка кузнечика преподнесу имя шегертки пусть попробует отгадать</p>
-      <p>койбагар наклонился поймать кузнечика прыгнул другое место наклонился второй поймал третий поймал завернул тряпку принес шегертки говорит</p>
-      <p>хороший гадальщик скажи это руке</p>
-      <p>буду вознагражден отгадаю спрашивает шегертки</p>
-      <p>половиной моего богатства сказал койбагар бай</p>
-      <p>шегертки затруднился еле слышно произнес</p>
-      <p>первый прыгнул спасся шегертки второй прыгнул спасся третий попался</p>
-      <p>койбагар поняв истинного смысла слов шегертки который говорил попался воскликнул</p>
-      <p>узнал действительно великий гадальщик отдал половину своего богатства</p>
-      <p>шегертки получил богатство стал жить поживать достатке</p>
-    </body>
-  </text>
-</TEI>
+     <head>41 Гадальщик Шегертки (ног.) </head>
+     <p>акмак акмака аргамак аулу баи бай бая бая бедные бедняк вел весть вора давно давным даст десять дочь жизнь имени коня коня краже лошадей любимый найдет народ нищенскую однажды паслись распространил самый судьей табуны темный тому тысячами узнав укажет украл хана хана шегертки это</p><p>акмак акмак аргамак аргамак бай бай байского баю вместе вора гадальщиков гадальщиков гадать десять искусство коня лошадей мог находится нашелся никто ними отдал помогло пришел рассказал совещаться созвал стали указать шегертки шегертки шегертки</p><p>акмака бай бая великим вызвал дней золотое кольцо которые пропало созданы срочно тангри тех шегертки</p><p>акмак бай дам золота кольцо мешок моих найдешь осталось предков сказал тебе угадай украл это</p><p>задумался отгадать попросил шегертки</p><p>бай будь всем дай мыслями немного обо приду скажу сказал собраться терпелив хозяин</p><p>задумал запоет петух третий убежать</p><p>акмак бай вернулся одного оставил шегертки юрту</p><p>аулу бая братьев братьев быстро весть гадальщика громко закричал запел кольцо которые младший нем первый первым петух подслушать подслушивать приезде пришел разговор распространилась решили собрался трое узнали украли шегертки шегертки шегертки</p><p>первый пришел</p><p>брат братьям встревоженный говорит младший побежал подумал приходе своим шегертки</p><p>братья верите моем мои подслушайте пойдите приходе сами узнал</p><p>братьев второй запел петух подслушать пошел приложил средний ухо</p><p>закричал облегчением шегертки</p><p>второй пришел</p><p>брат быстро вернулся домой испугался средний</p><p>вместе давайте подслушаем пойдем предложил старший</p><p>сделали</p><p>братья двери запел петух подкрались третий юрты</p><p>братья выбежал колени крикнул пришли радостно сказал старший трое увидев упали шегертки юрты</p><p>аллаха баю жизни кольцо нам ради рассказывай украли это</p><p>обрадовался услышав шегертки это</p><p>акмака бая гусю дайте кольцо кольцо ногу сделайте сломайте</p><p>велел великий великий вознаградит гадальщик наш пусть сделаем спасибо тангри шегертки</p><p>баю бедняки гуся заставили кольцо ногу пошел проглотить сказал сломали смело шегертки</p><p>бай ваш гусь кольцо проглотил твое хозяин хромой</p><p>акмак бай золота кольцо мешочек обратно отдал получив свое шегертки</p><p>акмак бай бай баю богатства великом гадальщике гости дать загадку койбагар койбагару оба обещал однажды одну отгадает половину поспорили пришел рассказал своего своему соседу шегертки шегертки</p><p>бай имя ка койбагар кузнечика отгадать поймаю попробует преподнесу пусть решил шегертки</p><p>второй говорит другое завернул койбагар кузнечика место наклонился наклонился поймал поймал поймать принес прыгнул третий тряпку шегертки</p><p>гадальщик руке скажи хороший это</p><p>буду вознагражден отгадаю спрашивает шегертки</p><p>бай богатства койбагар моего половиной сказал</p><p>еле затруднился произнес слышно шегертки</p><p>второй первый попался прыгнул прыгнул спасся спасся третий шегертки</p><p>воскликнул говорил истинного койбагар который поняв попался слов смысла шегертки</p><p>богатства великий гадальщик действительно отдал половину своего узнал</p><p>богатство достатке жить поживать получил стал шегертки</p></body>
+   </text>
+  </TEI>

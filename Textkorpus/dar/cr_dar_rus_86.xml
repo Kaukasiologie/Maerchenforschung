@@ -1,170 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>ф. 9, он. 1, д. № 6</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>ф. 9, он. 1, д. № 6</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-          <geo/>
-        </placeName>
-        <date>1936</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Загидат</forename>
-            <surname xml:lang="rus">Магомедкизи</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А. М.</forename>
-            <surname xml:lang="rus">Алиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+       <geo />
+      </placeName>
+      <date>1936</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Загидат</forename>
+        <surname xml:lang="rus">Магомедкизи</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А. М.</forename>
+        <surname xml:lang="rus">Алиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_86">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_86">
     <body>
-      <head>53. Предсказание гадалки </head>
-      <p>некогда жили муж женой единственная красайица дочь родители отправились гадалке просят се</p>
-      <p>скажи нам будущем нашей дочери</p>
-      <p>ваша дочь отвечает гадалка семь лет невестой мертвеца</p>
-      <p>испугались муж женой взяли дочь пошли глаза глядят долгих странствий оказались высокого дворца обнесенного железным забором отец мать стучали запертые ворота никто откликался девушка толкнула ворота сразу открылись едва девушка ступила двор ворота снова захлопнулись</p>
-      <p>напрасно рвались дочери отец мать напрасно девушка рвалась родителям ворота двигались</p>
-      <p>горько плача вернулись отец мать домой дочь осталась дворце стала осматривать дворец небольшой стеклянной комнате увидела мертвого джигита</p>
-      <p>возле головы стояла хрустальная ваза вазе написано разбей проснется прочла девушка надпись тронула вазу осталась жить рядом мертвецом прошло семь лет</p>
-      <p>однажды красавица стояла окна зто время железному забору подошла ведьма вместе своей дочерью</p>
-      <p>возьми мою дочь служанки попросила ведьма</p>
-      <p>девушка обрадовалась живой появится дворце согласилась ведьма перебросила забор дочь та стала служанкой красавицы вскоре дочь ведьмы начала обшаривать дворец попала стеклянную комнату</p>
-      <p>сразу разбила вазу мертвый джигит воскрес</p>
-      <p>такая попала сюда спрашивает дочь ведьмы</p>
-      <p>коварная служанка выдала госпожу л красавица узьав случившемся заперлась своей комнате никуда выходила</p>
-      <p>вскоре хозяин дворца собрался отъезд говорит дочери ведьмы</p>
-      <p>спроси служанку привезти подарок почему грустит</p>
-      <p>дочь ведьмы пошла красавице та сказала</p>
-      <p>подарок хочу говорящую куклу говорящую птичку н</p>
-      <p>вернулся джигит поездки отдал подарки мнимой служанке спрятался дверыо</p>
-      <p>расскажите просит девушка куклу птичку</p>
-      <p>те говорят</p>
-      <p>расскажи нам</p>
-      <p>красавица рассказала историю</p>
-      <p>услышав кукла умерла горя птичка упала ымертво красавица увидела лишилась последних друзей схватила нож покончить собой миг комнату вбежал джигит который слышал воскликнул</p>
-      <p>остановись красавица понял дочь ведьмы обманула скажи какого наказания заслуживает</p>
-      <p>привяжи злодейку хвосту дикой лошади пусти горы попросила девушка</p>
-      <p>джигит сделал женился красавице зажили счастливо</p>
-      <p>мать девушки умерла горя отец женился часто вспоминал дочь вторая жена возненавидела падчерицу хотя глаза видела муж говорит</p>
-      <p>схожу ка ко дворцу голос дочери услышать</p>
-      <p>отнеси подарок сказала махеча дала мужу кольцо ядом</p>
-      <p>подошел отец ко дворцу ворога стал разговаривать дочерыо муж это время охоте хотел отец огорчать дочь известием смерти матери просунул щель кольцо говорит</p>
-      <p>тебе подарок матери</p>
-      <p>надела красавица кольцо палец упала мертвая убитый горем отец пошел домой вскоре вернулся джигит увидел жену лежащую земле признаков жизни решился похоронить посадил седло привязал лошади пустил четыре стороны</p>
-      <p>ш</p>
-      <p>долгих блужданий горам долинам лошадь пристала одному табуну которым владел некий хан очень удивился хан увидев необычную всадницу велел снять лошади присмотрелся хан видит пальцы красавицы унизаны дорогими кольцами среди одно простои кольцо хаи снял это кольцо красавица сразу открыла глаза проснулась обрадовался хан взял поместил дворце вместе своими дочерьми</p>
-      <p>л муж красавицы очень тосковал захотел жить опустевшем замке поэтом отправился скитания одном селении старуха которой остановился рассказала</p>
-      <p>среди дочерей нашего хана живет одна девушкачужестранка попала нам спящей привязанной лошади проснулась</p>
-      <p>джигит догадался это жена говорит старухе</p>
-      <p>тебе рубаха иди дворец попробуй продать ханским дочерям</p>
-      <p>рубаху сшила джигиту жена</p>
-      <p>пошла старуха дворец давай кричать окнами ханских дочерей</p>
-      <p>купите хорошую рубаху купите хорошую рубаху</p>
-      <p>девушки вышли посмотреть рубаху красавица сразу узнала работу старуха отозвала сторонку рассказала</p>
-      <p>передай моему мужу попросила красавица сегодня ночью подъехал моему окну</p>
-      <p>джигит сделал забрал жену вернулся нею свой дворец тех пор жили счастливо</p>
-    </body>
-  </text>
-</TEI>
+     <head>53. Предсказание гадалки </head>
+     <p>гадалке дочь единственная женой жили красайица муж некогда отправились просят родители се</p><p>будущем дочери нам нашей скажи</p><p>ваша гадалка дочь лет мертвеца невестой отвечает семь</p><p>взяли ворота ворота ворота высокого глаза глядят двор дворца девушка девушка долгих дочь едва железным женой забором запертые захлопнулись испугались мать муж никто обнесенного оказались отец откликался открылись пошли снова сразу странствий ступила стучали толкнула</p><p>ворота двигались девушка дочери мать напрасно напрасно отец рвалась рвались родителям</p><p>вернулись горько дворец дворце джигита домой дочь комнате мать мертвого небольшой осматривать осталась отец плача стала стеклянной увидела</p><p>ваза вазе вазу возле головы девушка жить лет мертвецом надпись написано осталась проснется прочла прошло разбей рядом семь стояла тронула хрустальная</p><p>ведьма вместе время дочерью железному забору зто красавица однажды окна подошла своей стояла</p><p>ведьма возьми дочь мою попросила служанки</p><p>ведьма ведьмы вскоре дворец дворце девушка дочь дочь живой забор комнату красавицы начала обрадовалась обшаривать перебросила попала появится служанкой согласилась стала стеклянную та</p><p>вазу воскрес джигит мертвый разбила сразу</p><p>ведьмы дочь попала спрашивает сюда такая</p><p>выдала выходила госпожу заперлась коварная комнате красавица л никуда своей служанка случившемся узьав</p><p>ведьмы вскоре говорит дворца дочери отъезд собрался хозяин</p><p>грустит подарок почему привезти служанку спроси</p><p>ведьмы дочь красавице пошла сказала та</p><p>говорящую говорящую куклу н подарок птичку хочу</p><p>вернулся дверыо джигит мнимой отдал подарки поездки служанке спрятался</p><p>девушка куклу просит птичку расскажите</p><p>говорят те</p><p>нам расскажи</p><p>историю красавица рассказала</p><p>вбежал воскликнул горя джигит друзей комнату который красавица кукла лишилась миг нож покончить последних птичка слышал собой схватила увидела умерла упала услышав ымертво</p><p>ведьмы дочь заслуживает какого красавица наказания обманула остановись понял скажи</p><p>горы девушка дикой злодейку лошади попросила привяжи пусти хвосту</p><p>джигит женился зажили красавице сделал счастливо</p><p>видела возненавидела вспоминал вторая глаза говорит горя девушки дочь жена женился мать муж отец падчерицу умерла хотя часто</p><p>голос дворцу дочери ка ко схожу услышать</p><p>дала кольцо махеча мужу отнеси подарок сказала ядом</p><p>ворога время говорит дворцу дочерыо дочь известием ко кольцо матери муж огорчать отец отец охоте подошел просунул разговаривать смерти стал хотел щель это</p><p>матери подарок тебе</p><p>вернулся вскоре горем джигит домой жену жизни земле кольцо красавица лежащую лошади мертвая надела отец палец посадил похоронить пошел привязал признаков пустил решился седло стороны убитый увидел упала четыре</p><p>ш</p><p>блужданий велел взял видит владел вместе всадницу глаза горам дворце долгих долинам дорогими дочерьми кольцами кольцо кольцо которым красавица красавицы лошади лошадь некий необычную обрадовался одно одному открыла очень пальцы поместил присмотрелся пристала проснулась простои своими снял снять сразу среди табуну увидев удивился унизаны хаи хан хан хан хан это</p><p>жить замке захотел которой красавицы л муж одном опустевшем остановился отправился очень поэтом рассказала селении скитания старуха тосковал</p><p>девушкачужестранка дочерей живет лошади нам нашего одна попала привязанной проснулась спящей среди хана</p><p>говорит джигит догадался жена старухе это</p><p>дворец дочерям иди попробуй продать рубаха тебе ханским</p><p>джигиту жена рубаху сшила</p><p>давай дворец дочерей кричать окнами пошла старуха ханских</p><p>купите купите рубаху рубаху хорошую хорошую</p><p>вышли девушки красавица отозвала посмотреть работу рассказала рубаху сразу старуха сторонку узнала</p><p>красавица моему моему мужу ночью окну передай подъехал попросила сегодня</p><p>вернулся дворец джигит жену жили забрал нею пор свой сделал счастливо тех</p></body>
+   </text>
+  </TEI>

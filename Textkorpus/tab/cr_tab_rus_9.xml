@@ -1,163 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tabasaranisch Folklore</title>
-        <title xml:lang="eng">Tabasaran Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tabasaranisch Folklore</title>
+      <title xml:lang="eng">Tabasaran Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>ФЛ ДГПУ</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>ФЛ ДГПУ</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="tab">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/864098/dagni.html">Dagni</settlement>
-          <geo/>
-        </placeName>
-        <date>1984</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Г.</forename>
-            <surname xml:lang="rus">Агаевa</surname>
-          </persName>
-          <age>80</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М.М.</forename>
-            <surname xml:lang="rus">Курбанов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.М.</forename>
-            <surname xml:lang="rus">Курбанов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="tab">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/864098/dagni.html">Dagni</settlement>
+       <geo />
+      </placeName>
+      <date>1984</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Г.</forename>
+        <surname xml:lang="rus">Агаевa</surname>
+       </persName>
+       <age>80</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М.М.</forename>
+        <surname xml:lang="rus">Курбанов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.М.</forename>
+        <surname xml:lang="rus">Курбанов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_tab_rus_9">
+   </teiHeader>
+   <text xml:id="cr_tab_rus_9">
     <body>
-      <head>21 Котомка с яблоками (таб.) </head>
-      <p>старик старухой жили очень бедно кроме старого осла яблони дворе хотя бедны славились щедростью году осенью яблоня дала очень богатый урожай яблоки красивыми одно другого старик сказал старухе</p>
-      <p>старуха давай одну котомку яблоками отнесу падишаху говорят благородных кровей</p>
-      <p>иди старый примет скромный подарок сказала старуха отправила путь</p>
-      <p>котомкой отборных яблок старик погнал своего осла степь пути степи встретил такого бедно одетого путника ответил приветствие старика спросил</p>
-      <p>добрый путь путь держишь пожилой человек</p>
-      <p>валлах друг наших краях говорят падишахе благородных кровей единственного дерева выбрав самые лучшие яблоки несу пусть польза примет ответил старик</p>
-      <p>хочешь взамен эй мусульманин</p>
-      <p>валлах дарим ради либо выгоды человек должен делать добро просто сказав это старик продолжил осле путь</p>
-      <p>кого встретил старик оказался падишахом переодевшись нищего ходил свету смотрел живут подданные падишах другим путем вернулся город</p>
-      <p>некоторое время старик добрался дворца падишаха визирь сообщил падишаху нем падишах приказал пропустить старика</p>
-      <p>принял яблоки старика повелел визирю заполнить котомку золотом</p>
-      <p>старик поспешил выехать города дорогу преградил визирь стало хотел отобрать старика золото</p>
-      <p>старик сказал визирь это золото твое доля падишах приказал догнал взял половину</p>
-      <p>визирь поделим это золото золота старухой проживем</p>
-      <p>старик давай договоримся начал визирь задам тебе вопроса ответишь золото твое ответишь золото мое</p>
-      <p>договорились визирь задавай свои вопросы</p>
-      <p>первый скажи середина земли</p>
-      <p>стоит осел улыбкой ответил старик веришь измерь убедишься прав</p>
-      <p>пусть согласился визирь второй вопрос сколько звезд небе</p>
-      <p>столько сколько шерстинок моем ишаке</p>
-      <p>неправда старик разозлился визирь</p>
-      <p>веришь считай убедишься прав ответил мудрый старик</p>
-      <p>согласен сказал визирь</p>
-      <p>визирь хотел отпустить старика убедился старик знающий человек визирь сказал</p>
-      <p>ответишь правильно золото твое третий вопрос скажи ближе солнца звезд</p>
-      <p>солнца ближе солнцем звездами сорок тысяч метров</p>
-      <p>неправда старик золото давай</p>
-      <p>измерь расстояние ними короче метр отрежу мое ухо пришью твоим кожаным сапогам эй визирь постой ка послушай</p>
-      <p>визирь замер уставился небо никакого звука услышал</p>
-      <p>эй уважаемый неба зовет низкого осла плохо слышу ка слезай коня неба ближе</p>
-      <p>визирь уступил свое место старику старик котомкой золота сел скакуна ускакал глаза глядят визирь вдогонку кричал надорвал голос сел осла вернулся город увидев визиря возвращающегося осле падишах рассмеялся спросил случилось</p>
-      <p>визирь сказал</p>
-      <p>старик ускакал золотом моем скакуне</p>
-      <p>уговаривал ходил глупец такому смеясь сказал падишах</p>
-    </body>
-  </text>
-</TEI>
+     <head>21 Котомка с яблоками (таб.) </head>
+     <p>бедно бедны богатый году дала дворе другого жили красивыми кроме одно осенью осла очень очень сказал славились старик старик старого старухе старухой урожай хотя щедростью яблоки яблони яблоня</p><p>благородных говорят давай котомку кровей одну отнесу падишаху старуха яблоками</p><p>иди отправила подарок примет путь сказала скромный старуха старый</p><p>бедно встретил котомкой одетого осла отборных ответил погнал приветствие пути путника своего спросил старик старика степи степь такого яблок</p><p>держишь добрый пожилой путь путь человек</p><p>благородных валлах выбрав говорят дерева друг единственного краях кровей лучшие наших несу ответил падишахе польза примет пусть самые старик яблоки</p><p>взамен мусульманин хочешь эй</p><p>валлах выгоды дарим делать добро должен либо осле продолжил просто путь ради сказав старик человек это</p><p>вернулся встретил город другим живут кого нищего оказался падишах падишахом переодевшись подданные путем свету смотрел старик ходил</p><p>визирь время дворца добрался некоторое нем падишах падишаха падишаху приказал пропустить сообщил старик старика</p><p>визирю заполнить золотом котомку повелел принял старика яблоки</p><p>визирь выехать города дорогу золото отобрать поспешил преградил стало старик старика хотел</p><p>взял визирь догнал доля золото падишах половину приказал сказал старик твое это</p><p>визирь золота золото поделим проживем старухой это</p><p>визирь вопроса давай договоримся задам золото золото мое начал ответишь ответишь старик твое тебе</p><p>визирь вопросы договорились задавай свои</p><p>земли первый середина скажи</p><p>веришь измерь осел ответил прав старик стоит убедишься улыбкой</p><p>визирь вопрос второй звезд небе пусть сколько согласился</p><p>ишаке моем сколько столько шерстинок</p><p>визирь неправда разозлился старик</p><p>веришь мудрый ответил прав старик считай убедишься</p><p>визирь сказал согласен</p><p>визирь визирь знающий отпустить сказал старик старика убедился хотел человек</p><p>ближе вопрос звезд золото ответишь правильно скажи солнца твое третий</p><p>ближе звездами метров солнца солнцем сорок тысяч</p><p>давай золото неправда старик</p><p>визирь измерь ка кожаным короче метр мое ними отрежу послушай постой пришью расстояние сапогам твоим ухо эй</p><p>визирь замер звука небо никакого услышал уставился</p><p>ближе зовет ка коня неба неба низкого осла плохо слезай слышу уважаемый эй</p><p>вдогонку вернулся визирь визирь визиря возвращающегося глаза глядят голос город золота котомкой кричал место надорвал осла осле падишах рассмеялся свое сел сел скакуна случилось спросил старик старику увидев ускакал уступил</p><p>визирь сказал</p><p>золотом моем скакуне старик ускакал</p><p>глупец падишах сказал смеясь такому уговаривал ходил</p></body>
+   </text>
+  </TEI>

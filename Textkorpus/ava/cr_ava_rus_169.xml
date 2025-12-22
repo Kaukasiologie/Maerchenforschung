@@ -1,144 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательство &quot;Художественная литература&quot;. Маскжа 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Саидова</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">У.</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Саидова</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">У.</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_169">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_169">
     <body>
-      <head>ВОЛК И ОВЧАРКА </head>
-      <p>лугу паслось стадо овец волк поглядывал текли слюни стоило приблизиться стаду овчарка подымала громкий лай пастух хватался ружье</p>
-      <p>однажды волк сказал лисе</p>
-      <p>ах удалось взять одного барана потрошки ножки достались тебе</p>
-      <p>очень захотелось лисе бараньих потрохов дошла овчарке сказала</p>
-      <p>это тебе сидится месте беспокойная жизнь время лаять бегать взад вперед</p>
-      <p>волка сказала овчарка охраняю зубов стадо лаю время пастух зевал начеку</p>
-      <p>лиса говорит</p>
-      <p>почему подружиться волком признайте своим хозяином охранять доверие предательства мои дети например попечении лаеить пугаешь понятно веегда хочет тебе навредить</p>
-      <p>овчарка согласилась этим лиса повела волку сказала лиса наша овчарка хочет стал повелителем согласишься будешь охранять стадо пастуха овчарку царь волков ответил волки подчиняютея стану повелителем овец овчарки пастуха будут моими л возьму опеку одним условнем овчарка должна лаять овчарка дала слово молчать волк стал ходить овчаркой паре вместе стерегли стадо</p>
-      <p>однажды овчарка нечаянно залаяла волк отругал</p>
-      <p>варуптила условие тебе доверять</p>
-      <p>буду лай нечаянно вырвался оправдывалась овчарка</p>
-      <p>следующий день овцы паслись укромном месте пастух понадеявигяеь овчарку задремал</p>
-      <p>волк дремал мгновенье ока бросился овчарку схватив горло сказал</p>
-      <p>вчера нарушила наш договор сегодня позволь это сделать</p>
-      <p>овчаркой покончено волк принялся овец передушил одной</p>
-      <p>нроснулся пастух увидел глумится враг доверяют</p>
-    </body>
-  </text>
-</TEI>
+     <head>ВОЛК И ОВЧАРКА </head>
+     <p>волк громкий лай лугу овец овчарка паслось пастух поглядывал подымала приблизиться ружье слюни стадо стаду стоило текли хватался</p><p>волк лисе однажды сказал</p><p>ах барана взять достались ножки одного потрошки тебе удалось</p><p>бараньих дошла захотелось лисе овчарке очень потрохов сказала</p><p>бегать беспокойная взад вперед время жизнь лаять месте сидится тебе это</p><p>волка время зевал зубов лаю начеку овчарка охраняю пастух сказала стадо</p><p>говорит лиса</p><p>веегда волком дети доверие лаеить мои навредить например охранять подружиться понятно попечении почему предательства признайте пугаешь своим тебе хозяином хочет</p><p>будешь будут вместе возьму волк волки волков волку дала должна л лаять лиса лиса моими молчать наша овец овчарка овчарка овчарка овчарка овчарки овчаркой овчарку одним опеку ответил охранять паре пастуха пастуха повела повелителем повелителем подчиняютея сказала слово согласилась согласишься стадо стадо стал стал стану стерегли условнем ходить хочет царь этим</p><p>волк залаяла нечаянно овчарка однажды отругал</p><p>варуптила доверять тебе условие</p><p>буду вырвался лай нечаянно овчарка оправдывалась</p><p>день задремал месте овцы овчарку паслись пастух понадеявигяеь следующий укромном</p><p>бросился волк горло дремал мгновенье овчарку ока сказал схватив</p><p>вчера договор нарушила наш позволь сделать сегодня это</p><p>волк овец овчаркой одной передушил покончено принялся</p><p>враг глумится доверяют нроснулся пастух увидел</p></body>
+   </text>
+  </TEI>

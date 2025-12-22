@@ -1,162 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФ НИИФЛИ ДГУ</institution>
+          <collection>Д. 21</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФ НИИФЛИ ДГУ</institution>
-                <collection>Д. 21</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1959</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Магомедов</surname>
-          </persName>
-          <age>66</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Р.</forename>
-            <surname xml:lang="rus">Багомедо</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.А.</forename>
-            <surname xml:lang="rus">Алиевa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1959</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Магомедов</surname>
+       </persName>
+       <age>66</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Р.</forename>
+        <surname xml:lang="rus">Багомедо</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.А.</forename>
+        <surname xml:lang="rus">Алиевa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_4">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_4">
     <body>
-      <head> 24 Шахисмаил (дарг.) </head>
-      <p>говорят говорят одного падишаха сорок жен ребенок родился мальчика назвали шахисмаил</p>
-      <p>шахисмаил вырос очень сильным парнем всей стране никого мог сразиться услышал новость живет сын другого падишаха имени арабузинка никто сравниться силе шахисмаил решил отправиться поиски арабузинки</p>
-      <p>отправился искать одну страну встретил семерых братьев сестру шахисмаил пошел гости этих семерых братьев постоянно нападали персы ними шли большие войны шахисмаил решил помочь семерым братьям убил персов одержали победу вернулись домой семеро братьев попросили шахисмаила женился сестре шахисмаил согласился заключили махар бракосочетание стали жить дружно братьями</p>
-      <p>шахисмаил решил добраться арабузинки спросил семерых братьев</p>
-      <p>вашу сестру взять собой оставить</p>
-      <p>сделаем скажет сестра сказали братья ответ</p>
-      <p>сестра согласилась остаться братьями шахисмаил пошел искать арабузинку</p>
-      <p>добрался города добравшись разбил шалаш стал искать арабузинку приезжал город арабузинка вызывал бой тех проигрывал убивал вступил единоборство шахисмаилом шахисмаил свалил приставил горлу шашку</p>
-      <p>арабузинка снял головы шапку шахисмаил поразился тому какие длинные косы выпали шапки арабузинка говорит</p>
-      <p>дочь падишаха всеми вступала сражение искала сможет одолеть окажется сильнее выйду замуж</p>
-      <p>шахисмаил женился большим богатством арабузинки женой шахисмаил пришел первой жене взял обеих жен отправился отцу</p>
-      <p>отец услышал новость решил сына убить жен оставить собрал знахарей говорит</p>
-      <p>сын едет двумя женами найдите способ убить</p>
-      <p>отправьте навстречу лошадь седло лошади намажьте ядом сядет умрет сказали знахари</p>
-      <p>падишах намазал седло ядом который дал знахарей отправил коня навстречу сыну жена шахисмаила арабузинка догадалась обо всем сказала мужу шахисмаил посадил коня кем отправили коня сел другого приехал отцу</p>
-      <p>шахисмаил вернулся отцу живой честь сын вернулся отец падишах собрал своих приближенных накрыл стол разложил нем еду сыном поставил отравленную еду шахисмаил подменил еду поставил отцу еду собой подсказала жена арабузинка знала отец хочет погубить сына падишаха вышло</p>
-      <p>отец спрашивает сына</p>
-      <p>сделать умер</p>
-      <p>кармане лежит железный прутик ответил сын этим прутиком завяжешь пальцы смогу сделать</p>
-      <p>падишах поступил обманул сына связал пальцы связанный пальцами шахисмаил смог сделать падишах приказал нукерам выколоть шахисмаилу глаза положить карман</p>
-      <p>шахисмаилу выкололи глаза выгнали знал идти делать услышал голоса голубей</p>
-      <p>лекарства тех кого глаз</p>
-      <p>вставить глаза окунуться озеро</p>
-      <p>сказав это голуби улетели</p>
-      <p>шахисмаил вошел озеро вставил глаза которые кармане окунулся сделал это неудачно видел очень плохо большим трудом добрался дома узнал обе жены воюют падишахом убили очень людей оставив жен шахисмаил пошел встал домом отца падишах вышел нему говорит</p>
-      <p>пришел воевать против жен шахисмаила</p>
-      <p>пришел хочешь поймаю приведу тебе арабузинку сказал который находился домом</p>
-      <p>падишах обрадовался этому отправил привести нему арабузинку договорившись привел арабузинку падишаху падишах собрал народ судить арабузинку сказал</p>
-      <p>будем судить арабузинку</p>
-      <p>шахисмаил сказал своему отцу</p>
-      <p>сначала будем судить посадил сорок деревьев вырастил одно высушил</p>
-      <p>смысл этих слов понял весь народ это означало падишах сорок женился имел одного ребенка лишил глаз сделал слепым поэтому виновата арабузинка падишах судить самого</p>
-      <p>весь народ который собрался вынес приговор убить падишаха падишаха убили место назначили шахисмаила снова сыграл большую свадьбу свадьбе остались вернулся</p>
-    </body>
-  </text>
-</TEI>
+     <head> 24 Шахисмаил (дарг.) </head>
+     <p>говорят говорят жен мальчика назвали одного падишаха ребенок родился сорок шахисмаил</p><p>арабузинка арабузинки всей вырос другого живет имени мог никого никто новость отправиться очень падишаха парнем поиски решил силе сильным сравниться сразиться стране сын услышал шахисмаил шахисмаил</p><p>большие бракосочетание братьев братьев братьев братьям братьями вернулись войны встретил гости домой дружно женился жить заключили искать махар нападали ними одержали одну отправился персов персы победу помочь попросили постоянно пошел решил семеро семерым семерых семерых сестре сестру согласился стали страну убил шахисмаил шахисмаил шахисмаил шахисмаила шли этих</p><p>арабузинки братьев добраться решил семерых спросил шахисмаил</p><p>вашу взять оставить сестру собой</p><p>братья ответ сделаем сестра скажет сказали</p><p>арабузинку братьями искать остаться пошел сестра согласилась шахисмаил</p><p>арабузинка арабузинку бой вступил вызывал горлу город города добравшись добрался единоборство искать приезжал приставил проигрывал разбил свалил стал тех убивал шалаш шахисмаил шахисмаилом шашку</p><p>арабузинка арабузинка выпали говорит головы длинные какие косы поразился снял тому шапки шапку шахисмаил</p><p>всеми вступала выйду дочь замуж искала одолеть окажется падишаха сильнее сможет сражение</p><p>арабузинки богатством большим взял жен жене женился женой обеих отправился отцу первой пришел шахисмаил шахисмаил</p><p>говорит жен знахарей новость оставить отец решил собрал сына убить услышал</p><p>двумя едет женами найдите способ сын убить</p><p>знахари лошади лошадь навстречу намажьте отправьте седло сказали сядет умрет ядом</p><p>арабузинка всем дал догадалась другого жена знахарей кем коня коня коня который мужу навстречу намазал обо отправил отправили отцу падишах посадил приехал седло сел сказала сыну шахисмаил шахисмаила ядом</p><p>арабузинка вернулся вернулся вышло еду еду еду еду жена живой знала накрыл нем отец отец отравленную отцу отцу падишах падишаха погубить подменил подсказала поставил поставил приближенных разложил своих собой собрал стол сын сына сыном хочет честь шахисмаил шахисмаил</p><p>отец спрашивает сына</p><p>сделать умер</p><p>железный завяжешь кармане лежит ответил пальцы прутик прутиком сделать смогу сын этим</p><p>выколоть глаза карман нукерам обманул падишах падишах пальцами пальцы положить поступил приказал связал связанный сделать смог сына шахисмаил шахисмаилу</p><p>выгнали выкололи глаза голоса голубей делать знал идти услышал шахисмаилу</p><p>глаз кого лекарства тех</p><p>вставить глаза озеро окунуться</p><p>голуби сказав улетели это</p><p>большим видел вошел воюют вставил встал вышел глаза говорит добрался дома домом жен жены кармане которые людей нему неудачно обе озеро окунулся оставив отца очень очень падишах падишахом плохо пошел сделал трудом убили узнал шахисмаил шахисмаил это</p><p>воевать жен пришел против шахисмаила</p><p>арабузинку домом который находился поймаю приведу пришел сказал тебе хочешь</p><p>арабузинку арабузинку арабузинку договорившись народ нему обрадовался отправил падишах падишах падишаху привел привести сказал собрал судить этому</p><p>арабузинку будем судить</p><p>отцу своему сказал шахисмаил</p><p>будем вырастил высушил деревьев одно посадил сначала сорок судить</p><p>арабузинка весь виновата глаз женился имел лишил народ одного означало падишах падишах понял поэтому ребенка самого сделал слепым слов смысл сорок судить этих это</p><p>большую вернулся весь вынес который место назначили народ остались падишаха падишаха приговор свадьбе свадьбу снова собрался сыграл убили убить шахисмаила</p></body>
+   </text>
+  </TEI>

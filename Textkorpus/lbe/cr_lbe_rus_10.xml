@@ -1,155 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Опубл.: СЮНД на лак¬ском (с. 209) и русском (с. 239) яз.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Опубл.: СЮНД на лак¬ском (с. 209) и русском (с. 239) яз.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_10">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_10">
     <body>
-      <head>25 Два брата (лак.) </head>
-      <p>жили жили жили брата старший бедным младший богатым старшего умерла жена остались восемь сирот младшего брата детей</p>
-      <p>однажды гости старшему брату пришел младший своей женой старший стал угощать коровьим молоком молоко понравилось младшему брату</p>
-      <p>жена младшего брата говорит</p>
-      <p>пятнадцать коров одна дает такого вкусного молока корову нам иметь</p>
-      <p>муж сказал</p>
-      <p>скончался отец израсходовал десять туманов поэтому старший брат должен пять туманов сколько времени денег подам ханский суд</p>
-      <p>подал ханский суд брата хан вызвал суд</p>
-      <p>старший брат сказал</p>
-      <p>хан пусть аллах пошлет тебе здоровья брат прав умер отец израсходовал десять туманов договаривались разделить расход поровну однако брат решил согласен могу возместить денег будут деньги отдам</p>
-      <p>хочу денег отдай корову сказал ответ младший брат</p>
-      <p>хан рассудил</p>
-      <p>решу ваш спор ответите мои вопросы скажите самое жирное земле какое расстояние правдой ложью самое быстрое самое приятное</p>
-      <p>жена младшего брата ответила</p>
-      <p>самое жирное свинья нашего соседа поросилась семь лет самое быстрое это заяц самое приятное халва правдой ложью расстояние пятнадцатидневного пути</p>
-      <p>старший брат думал знал ответить попросил</p>
-      <p>дай день размышление</p>
-      <p>дали день дома горевал старшая дочь сказала</p>
-      <p>отец почему опечален девять человек двое ум девяти людей двоих скажи хану самое жирное это земля самое быстрое это человеческая мысль самое вкусное это сон правдой ложью расстояние пять пальцев видит глаз правда слышит ухо это ложь</p>
-      <p>старший брат передал хану хан спросил</p>
-      <p>пришел этому своим умом подсказал</p>
-      <p>старший брат вначале отказывался признался это ум дочери хан решил проверить ум девушки дал отцу сорок вареных яиц велел</p>
-      <p>пусть моего прихода гости выведет этих яиц цыплят</p>
-      <p>отец передал сказанное ханом дочь говорит отцу</p>
-      <p>иди скажи хану дочь вывела цыплят яиц нечем кормить поэтому пшено посей завтрашнего дня сними урожай</p>
-      <p>передала отцу вареное пшено хан подивившись мудрости дочери старшего брата решил встретиться нею поехал своими визирями дворе хан спросил девушки</p>
-      <p>девушка привязать этих коней</p>
-      <p>хотите лету хотите зиме привяжите ответила</p>
-      <p>хан понял советовала хлеву скот держат зимой дворе столбу гвоздям летом привязывают</p>
-      <p>девушка угостила гостей молоком своей коровы хану понравился ответ гостеприимство подарил мешочек золотыми монетами корову оставил богатому младшему брату досталось</p>
-    </body>
-  </text>
-</TEI>
+     <head>25 Два брата (лак.) </head>
+     <p>бедным богатым брата брата восемь детей жена жили жили жили младшего младший остались сирот старшего старший умерла</p><p>брату брату гости женой коровьим младшему младший молоко молоком однажды понравилось пришел своей стал старшему старший угощать</p><p>брата говорит жена младшего</p><p>вкусного дает иметь коров корову молока нам одна пятнадцать такого</p><p>муж сказал</p><p>брат времени денег десять должен израсходовал отец подам поэтому пять сколько скончался старший суд туманов туманов ханский</p><p>брата вызвал подал суд суд хан ханский</p><p>брат сказал старший</p><p>аллах брат брат будут возместить денег деньги десять договаривались здоровья израсходовал могу однако отдам отец поровну пошлет прав пусть разделить расход решил согласен тебе туманов умер хан</p><p>брат денег корову младший ответ отдай сказал хочу</p><p>рассудил хан</p><p>быстрое ваш вопросы жирное земле какое ложью мои ответите правдой приятное расстояние решу самое самое самое скажите спор</p><p>брата жена младшего ответила</p><p>быстрое жирное заяц лет ложью нашего поросилась правдой приятное пути пятнадцатидневного расстояние самое самое самое свинья семь соседа халва это</p><p>брат думал знал ответить попросил старший</p><p>дай день размышление</p><p>горевал дали день дома дочь сказала старшая</p><p>быстрое видит вкусное глаз двое двоих девяти девять жирное земля ложь ложью людей мысль опечален отец пальцев почему правда правдой пять расстояние самое самое самое скажи слышит сон ум ухо хану человек человеческая это это это это</p><p>брат передал спросил старший хан хану</p><p>подсказал пришел своим умом этому</p><p>брат вареных велел вначале дал девушки дочери отказывался отцу признался проверить решил сорок старший ум ум хан это яиц</p><p>выведет гости моего прихода пусть цыплят этих яиц</p><p>говорит дочь отец отцу передал сказанное ханом</p><p>вывела дня дочь завтрашнего иди кормить нечем посей поэтому пшено скажи сними урожай хану цыплят яиц</p><p>брата вареное визирями встретиться дворе девушки дочери мудрости нею отцу передала подивившись поехал пшено решил своими спросил старшего хан хан</p><p>девушка коней привязать этих</p><p>зиме лету ответила привяжите хотите хотите</p><p>гвоздям дворе держат зимой летом понял привязывают скот советовала столбу хан хлеву</p><p>богатому брату гостей гостеприимство девушка досталось золотыми корову коровы мешочек младшему молоком монетами оставил ответ подарил понравился своей угостила хану</p></body>
+   </text>
+  </TEI>

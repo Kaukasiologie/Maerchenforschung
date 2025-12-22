@@ -1,140 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Agulische Folklore</title>
-        <title xml:lang="eng">Agul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Agulische Folklore</title>
+      <title xml:lang="eng">Agul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="kat">ალ. მაჰომეტოვი, აღულური ენა (გამოკვლევა და ტექსტები)</title>
+        <title xml:lang="rus">А.А. Магометов, Агульский язкык (Исследование и тексты)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1970</publisher>
+        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1970, стр. 203-204.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="kat">ალ. მაჰომეტოვი, აღულური ენა (გამოკვლევა და ტექსტები)</title>
-            <title xml:lang="rus">А.А. Магометов, Агульский язкык (Исследование и тексты)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა &quot;მეცნიერება&quot;. თბილისი, 1970</publisher>
-            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство &quot;Мецниереба&quot;. Тбилиси, 1970, стр. 203-204.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="agx">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/481900/tpig.html">Tpig</settlement>
-          <geo/>
-        </placeName>
-        <date>1957</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Джамиват</forename>
-            <surname xml:lang="rus">Сулейманова</surname>
-          </persName>
-          <age>15</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.А.</forename>
-            <surname xml:lang="rus">Магометов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="agx">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/481900/tpig.html">Tpig</settlement>
+       <geo />
+      </placeName>
+      <date>1957</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Джамиват</forename>
+        <surname xml:lang="rus">Сулейманова</surname>
+       </persName>
+       <age>15</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.А.</forename>
+        <surname xml:lang="rus">Магометов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_agx_rus_39">
+   </teiHeader>
+   <text xml:id="cr_agx_rus_39">
     <body>
-      <head>ЛИСА И ВОЛК</head>
-      <p>шла одна лисица достигла одного поля нашла книгу читая сидела пришел волк волк сказал делаешь лиса сказала книгу читаю волк сказал умеешь читать книгу лиса сказала сорок лет даю уроки тридцати детям сказал волк моим трем детям давай уроки приведи твоих троих давать уроки</p>
-      <p>утром привел волк своих детей волк сказал хочешь доел хотящее нехотящее лиса сказала шкуры принеси зиму шубы сшить</p>
-      <p>ладно доел пусть сказал волк</p>
-      <p>пошел ночью тридцать ов еи привел сердце радовалось лисы</p>
-      <p>лиса сказала волку ступай домой зима лето пройдут приходит своими детьми увести своих детей волк пошел домой</p>
-      <p>вначале лиса съела тридцать овец съела троих волчат пошла лиса влезла мельницу</p>
-      <p>год пришел волк лисы волк пошел искать лису</p>
-      <p>лиса мельнице лисе волк сказал мои дети лиса сказала волку твоих детей нс видела привыкла мельником волк сказал лисе научи работать мельнице лиса сказала волку иди положи голову п од жернов думай</p>
-      <p>пошел положил голову жернов лиса пошла пустила воду мельница завертелась заработала волка головы содрало кожу</p>
-      <p>сама лиса пошла одну вершину села делая плетенные корзины пришел волк сказал волк лисе съела моих детей съесть хочешь откуда твоих детей видела привыкла делать плетенные корзины научи сказал волк лисе лиса сказала волку влезай корзину думай влез волк корзину лиса ударив ногой столкнула горы вниз</p>
-      <p>пастухи лиса крикнула ваш враг</p>
-      <p>пастухи вытащили волка убили волка окончилось</p>
-    </body>
-  </text>
-</TEI>
+     <head>ЛИСА И ВОЛК</head>
+     <p>волк волк волк волк давай давать даю делаешь детям детям достигла книгу книгу книгу лет лиса лиса лисица моим нашла одна одного поля приведи пришел сидела сказал сказал сказал сказала сказала сорок твоих трем тридцати троих умеешь уроки уроки уроки читать читаю читая шла</p><p>волк волк детей доел зиму лиса нехотящее привел принеси своих сказал сказала сшить утром хотящее хочешь шкуры шубы</p><p>волк доел ладно пусть сказал</p><p>еи лисы ночью ов пошел привел радовалось сердце тридцать</p><p>волк волку детей детьми домой домой зима лето лиса пошел приходит пройдут своими своих сказала ступай увести</p><p>влезла вначале волчат лиса лиса мельницу овец пошла съела съела тридцать троих</p><p>волк волк год искать лису лисы пошел пришел</p><p>видела волк волк волку волку голову детей дети думай жернов иди лиса лиса лиса лисе лисе мельником мельнице мельнице мои научи нс од п положи привыкла работать сказал сказал сказала сказала твоих</p><p>воду волка голову головы жернов завертелась заработала кожу лиса мельница положил пошел пошла пустила содрало</p><p>вершину видела влез влезай вниз волк волк волк волк волку горы делать делая детей детей думай корзину корзину корзины корзины лиса лиса лиса лисе лисе моих научи ногой одну откуда плетенные плетенные пошла привыкла пришел сама села сказал сказал сказала столкнула съела съесть твоих ударив хочешь</p><p>ваш враг крикнула лиса пастухи</p><p>волка волка вытащили окончилось пастухи убили</p></body>
+   </text>
+  </TEI>

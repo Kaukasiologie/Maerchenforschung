@@ -1,206 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lesgische Folklore</title>
-        <title xml:lang="eng">Lezgian Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lesgische Folklore</title>
+      <title xml:lang="eng">Lezgian Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>ф. 9, on. I, д. № 21</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>ф. 9, on. I, д. № 21</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lez">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/583791/akhtynskiy-rayon.html">Akhtynskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/583794/akhty.html">Ахты</settlement>
-          <geo/>
-        </placeName>
-        <date>1934</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Курбанов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Фатахов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lez">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/583791/akhtynskiy-rayon.html">Akhtynskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/583794/akhty.html">Ахты</settlement>
+       <geo />
+      </placeName>
+      <date>1934</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Курбанов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Фатахов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lez_rus_28">
+   </teiHeader>
+   <text xml:id="cr_lez_rus_28">
     <body>
-      <head>33. Конташ</head>
-      <p>плохонькая лошаденка настоящая кляча</p>
-      <p>пустил клячу луг пастись пошел домой некоторое время конташ отправился посмотреть пасется кляча увидел окружили лиса медведь кабан волк заяц садятся звери очереди лошаденку погоняют вскачь</p>
-      <p>разозлился конташ схватил палку хотел побить лису</p>
-      <p>ой милый конташ бей отплачу тебе добром взмолилась лиса</p>
-      <p>конташ замахнулся медведя говорит</p>
-      <p>ой милый конташ бей тебе дам пень полно меду</p>
-      <p>конташ поднял палку кабана</p>
-      <p>ой милый конташ бей буду караулить твои посевы пообещал кабан</p>
-      <p>повернулся конташ волку крикнул</p>
-      <p>ой милый конташ бей тебе дам трех жпрпых баранов</p>
-      <p>конташ собрался побить зайца</p>
-      <p>ой милый конташ бей тебе дам корзины земляники стал умолять заяц</p>
-      <p>конташ никого побил</p>
-      <p>настало лето вскоре конташу прискакал заяц</p>
-      <p>эй конташ иди возьми землянику</p>
-      <p>конташ пошел принес корзины земляники</p>
-      <p>затем появился кабан</p>
-      <p>эй конташ иди свое поле собирай пшеницу</p>
-      <p>конташ отправился собирать урожай</p>
-      <p>прибежал волк</p>
-      <p>эй конташ иди своими баранами</p>
-      <p>конташ пошел волку забрал трех жирных баранов</p>
-      <p>затем приходит медведь говорит</p>
-      <p>конташ кон таш тебе приготовил пень медом</p>
-      <p>конташ запряг быков взял глиняные горшки поехал медом</p>
-      <p>добрались места медведь сказал</p>
-      <p>одним ударом топора должен срубить пень столкнуть гору силен сможешь итого сделать твоих быков сброшу пропасть</p>
-      <p>испугался конташ откуда пи возьмись появилась лиса крикнула</p>
-      <p>обшить края царского барабана срочно нужна шкура медведя медвежьей шкуры</p>
-      <p>м ед е д ь испугался</p>
-      <p>скажи милый конташ скажи</p>
-      <p>конташ быстро ответил</p>
-      <p/>
-      <p>кричит лиса</p>
-      <p>медведь прошептал</p>
-      <p>милый конташ скажи это пень</p>
-      <p>конташ ответил</p>
-      <p>это пень пень</p>
-      <p>пня бывают уши спросила лиса</p>
-      <p>отруби уши взмолился медведь</p>
-      <p>конташ отрубил медведю уши лиса кричит</p>
-      <p>обшить края царского барабана срочно требуется шкура медведя медвежьей шкуры</p>
-      <p>медведь шепчет</p>
-      <p>скажи милый конташ скажи</p>
-      <p>конташ ответил</p>
-      <p/>
-      <p>стоит спрашивает лиса</p>
-      <p>медведь перепугался</p>
-      <p>милый конташ скажи это пень</p>
-      <p>конташ отвечает</p>
-      <p>это пень</p>
-      <p>пня ноги бывают кричит лиса</p>
-      <p>отруби ноги милый конташ просит медведь</p>
-      <p>конташ отрубил ноги</p>
-      <p>лиса унимается</p>
-      <p>обшить края царского барабана нужна медиежья шкура пас медвежьей шкуры</p>
-      <p>это пень отвечает конташ</p>
-      <p>пня бывает голова допытывается лиса</p>
-      <p>медведь шепчет</p>
-      <p>сруби милый конташ голову</p>
-      <p>конташ отрубил голову медведю</p>
-      <p>лиса подходит конташу говорит</p>
-      <p>отплатила тебе добром</p>
-      <p>конташ поблагодарил лису вдвоем наполнили горшки медом вернулись село</p>
-      <p>лиса стала друтом конташа</p>
-      <p>жене конташа нравилось лиса макает хвост горшок медом тому гадит прямо доме</p>
-      <p>однажды жена конташа ударила лису палочкой которой подправляла печке лаваши</p>
-      <p>обиделась лиса пошла дракону стала приглашать пойти конташу полакомиться медом</p>
-      <p>дракон поверил лисе сказал</p>
-      <p>собачья дочь наверное хочешь обмануть</p>
-      <p>оведешь туда убьешь</p>
-      <p>лиса поклялась плохого замышляет дракон предложил</p>
-      <p>говоришь правду давай свяжемся одной веревкой пойдем</p>
-      <p>лиса согласилась взяла веревку обвязала конец вокруг своей шеи вокруг шеи дракона оба отправились конташу мед</p>
-      <p>увидел конташ спрашивает лису</p>
-      <p>должна привести одного дракона семерых</p>
-      <p>рассердился дракон лису закричал</p>
-      <p>лх ишачья дочь значит выдаешь счет своего долга</p>
-      <p>дракон пустился наутек потащил собой лису быстро бежал лиса поломала зубы издохла</p>
-      <p>конташ спокойно зажил своей женой сушеного мяса меда пшеничного хлеба достатке</p>
-    </body>
-  </text>
-</TEI>
+     <head>33. Конташ</head>
+     <p>кляча лошаденка настоящая плохонькая</p><p>волк время вскачь домой заяц звери кабан кляча клячу конташ лиса лошаденку луг медведь некоторое окружили отправился очереди пасется пастись погоняют посмотреть пошел пустил садятся увидел</p><p>конташ лису палку побить разозлился схватил хотел</p><p>бей взмолилась добром конташ лиса милый ой отплачу тебе</p><p>говорит замахнулся конташ медведя</p><p>бей дам конташ меду милый ой пень полно тебе</p><p>кабана конташ палку поднял</p><p>бей буду кабан караулить конташ милый ой пообещал посевы твои</p><p>волку конташ крикнул повернулся</p><p>баранов бей дам жпрпых конташ милый ой тебе трех</p><p>зайца конташ побить собрался</p><p>бей дам заяц земляники конташ корзины милый ой стал тебе умолять</p><p>конташ никого побил</p><p>вскоре заяц конташу лето настало прискакал</p><p>возьми землянику иди конташ эй</p><p>земляники конташ корзины пошел принес</p><p>затем кабан появился</p><p>иди конташ поле пшеницу свое собирай эй</p><p>конташ отправился собирать урожай</p><p>волк прибежал</p><p>баранами иди конташ своими эй</p><p>баранов волку жирных забрал конташ пошел трех</p><p>говорит затем медведь приходит</p><p>кон конташ медом пень приготовил таш тебе</p><p>быков взял глиняные горшки запряг конташ медом поехал</p><p>добрались медведь места сказал</p><p>быков гору должен итого одним пень пропасть сброшу сделать силен сможешь срубить столкнуть твоих топора ударом</p><p>возьмись испугался конташ крикнула лиса откуда пи появилась</p><p>барабана края медведя медвежьей нужна обшить срочно царского шкура шкуры</p><p>д е ед испугался м ь</p><p>конташ милый скажи скажи</p><p>быстро конташ ответил</p><p /><p>кричит лиса</p><p>медведь прошептал</p><p>конташ милый пень скажи это</p><p>конташ ответил</p><p>пень пень это</p><p>бывают лиса пня спросила уши</p><p>взмолился медведь отруби уши</p><p>конташ кричит лиса медведю отрубил уши</p><p>барабана края медведя медвежьей обшить срочно требуется царского шкура шкуры</p><p>медведь шепчет</p><p>конташ милый скажи скажи</p><p>конташ ответил</p><p /><p>лиса спрашивает стоит</p><p>медведь перепугался</p><p>конташ милый пень скажи это</p><p>конташ отвечает</p><p>пень это</p><p>бывают кричит лиса ноги пня</p><p>конташ медведь милый ноги отруби просит</p><p>конташ ноги отрубил</p><p>лиса унимается</p><p>барабана края медвежьей медиежья нужна обшить пас царского шкура шкуры</p><p>конташ отвечает пень это</p><p>бывает голова допытывается лиса пня</p><p>медведь шепчет</p><p>голову конташ милый сруби</p><p>голову конташ медведю отрубил</p><p>говорит конташу лиса подходит</p><p>добром отплатила тебе</p><p>вдвоем вернулись горшки конташ лису медом наполнили поблагодарил село</p><p>друтом конташа лиса стала</p><p>гадит горшок доме жене конташа лиса макает медом нравилось прямо тому хвост</p><p>жена конташа которой лаваши лису однажды палочкой печке подправляла ударила</p><p>дракону конташу лиса медом обиделась пойти полакомиться пошла приглашать стала</p><p>дракон лисе поверил сказал</p><p>дочь наверное обмануть собачья хочешь</p><p>оведешь туда убьешь</p><p>дракон замышляет лиса плохого поклялась предложил</p><p>веревкой говоришь давай одной пойдем правду свяжемся</p><p>веревку взяла вокруг вокруг дракона конец конташу лиса мед оба обвязала отправились своей согласилась шеи шеи</p><p>конташ лису спрашивает увидел</p><p>должна дракона одного привести семерых</p><p>дракон закричал лису рассердился</p><p>выдаешь долга дочь значит ишачья лх своего счет</p><p>бежал быстро дракон зубы издохла лиса лису наутек поломала потащил пустился собой</p><p>достатке женой зажил конташ меда мяса пшеничного своей спокойно сушеного хлеба</p></body>
+   </text>
+  </TEI>

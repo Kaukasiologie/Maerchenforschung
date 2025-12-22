@@ -1,139 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-          <geo/>
-        </placeName>
-        <date>1952</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">X.</forename>
-            <surname xml:lang="rus">Амиров</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Д.</forename>
-            <surname xml:lang="rus">Атаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+       <geo />
+      </placeName>
+      <date>1952</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">X.</forename>
+        <surname xml:lang="rus">Амиров</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Д.</forename>
+        <surname xml:lang="rus">Атаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_80">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_80">
     <body>
-      <head>45. Кто самый ленивый?</head>
-      <p>жил жил хан прославленный своими чудачествами однажды объявил выдаст красавицу дочь самого ленивого человека</p>
-      <p>вскоре ханский дворец двинулись толпы женихов каждый стал рассказывать своей лени</p>
-      <p>дошла молва трех братьев сыновей аульского чабана решили попытать счастья трое предстали ханом</p>
-      <p>начинай сказал хан старшему брату</p>
-      <p>моей лени знают аульские мальчишки начал старший брат попадет суп муха выбрасываю</p>
-      <p>прогоните дурака закричал хан</p>
-      <p>лени обхожу лужи шлепаю прямо грязи сказал средний брат наступил черед</p>
-      <p>ответ хану также понравился велел хорошенько избить среднего брата палками</p>
-      <p>давай послушаем обратился младшему брату</p>
-      <p>молчал хотя хан несколько повторил приказание</p>
-      <p>человек достоин руки моей дочери обрадованно воскликнул хан лени рта раскрывает</p>
-      <p>хан выполнил обещание сын чабана счастливо зажил красавицей женой</p>
-      <p>это видел сюда пришел рассказал</p>
-    </body>
-  </text>
-</TEI>
+     <head>45. Кто самый ленивый?</head>
+     <p>выдаст дочь жил жил красавицу ленивого объявил однажды прославленный самого своими хан человека чудачествами</p><p>вскоре двинулись дворец женихов каждый лени рассказывать своей стал толпы ханский</p><p>аульского братьев дошла молва попытать предстали решили счастья сыновей трех трое ханом чабана</p><p>брату начинай сказал старшему хан</p><p>аульские брат выбрасываю знают лени мальчишки моей муха начал попадет старший суп</p><p>дурака закричал прогоните хан</p><p>брат грязи лени лужи наступил обхожу прямо сказал средний черед шлепаю</p><p>брата велел избить ответ палками понравился среднего также хану хорошенько</p><p>брату давай младшему обратился послушаем</p><p>молчал несколько повторил приказание хан хотя</p><p>воскликнул достоин дочери лени моей обрадованно раскрывает рта руки хан человек</p><p>выполнил женой зажил красавицей обещание счастливо сын хан чабана</p><p>видел пришел рассказал сюда это</p></body>
+   </text>
+  </TEI>

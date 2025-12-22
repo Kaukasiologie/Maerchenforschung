@@ -1,145 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/858657/komsomol-skoye.html">Komsomol’skoye</settlement>
-          <geo/>
-        </placeName>
-        <date>2011</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Сапият Б.</forename>
-            <surname xml:lang="rus">Далгатова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1950</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/858657/komsomol-skoye.html">Komsomol’skoye</settlement>
+       <geo />
+      </placeName>
+      <date>2011</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Сапият Б.</forename>
+        <surname xml:lang="rus">Далгатова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1950</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_64">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_64">
     <body>
-      <head>ХАН И УМНАЯ ЖЕНА БЕДНЯКА</head>
-      <p>жили бедняк своей женой сколько трудились нужды выбиться никак могли оде жды нормальной еды досыта доставало однажды сносил это бедняк ханские старые сараи вместо строить новые разобрал старый фундамент одного сарая новый фундамент прочнее стал копать ещё глубже копал копал пока кирка ударившись обо чтото железное звоном поскользнулась посмотрел бедняк обнаружил маленький железный сундучок полный золота самый открыл сундучок разглядывал содержимое явилась жена едой пока никто появился закрыл бедняк сундучок передав жене отправил её быстро домой сказав спрятала ночью люди уснули муж женой заперев двери вытащили найденную мужем добычу смотрели зная плакать смеяться радовались наверное смогут поесть досыта приобрести приличную одежду муж уснул жена положила сундучок туда никто людей догадается заглянуть приготовив шербет посыпала всему своему двору</p>
-      <p>спозаранку пока муж проснулся пошла жена базар купив телёнка завязала телегой муж встал сказал опаздывает работу жена начала готовить завтрак муж который вышел делать омовение бегом вернулся дом</p>
-      <p>иди сюда одно чудо тебе покажу сказал схватив руку потянул её собой наружу делая удивленный вид впервые видит жена собрала занесла дом шербет пока посторонние заметили покормив мужа жена пошла ворот предлогом провожать глянув телегу которая стояла около ворот жена сказала мужу ночью телега отелилась размышляя удивительный день сегодня наступил бедняк пошёл работу незаметно посторонних жена выгнала поле телёнка муж вернулся работы жена огорчённым видом поведа</p>
-      <p>шербет кондитерское изделие густая масса фруктов кофе шоколада сахара обычно орехами ла телёнка которого выпустила поле собаки съели</p>
-      <p>переживай имеем золото базара купим корову которая молоко даёт нам телёнок сказал муж</p>
-      <p>вечером дня бедняк вернулся работы соседа родился сын обмывали сына ели пили выпитое ударило голову начал бедняк рассказывать полном золота сундучке который нашёл снося сараи хана разговор дошёл хана спозаранку явились нукеры связав бедняка отвели хану</p>
-      <p>моё золото утаил спросил хан бедняка</p>
-      <p>валлах жене дал прятать признался бедняк пошли привели нукеры хану жену бедняка</p>
-      <p>какое золото знать знаю видеть видела возмутилась жена муж мечтает найти клад разбогатеть особенно последнее время часто размышляя этим немного головой дружить перестал</p>
-      <p>мужа жену свели вместе расспросили муж признался сказал жене</p>
-      <p>отдай золото хану видеть видела золото котором говоришь какое оно прятать давал начала жена спрашивать мужа</p>
-      <p>напомнил муж жене ту ночь нашёл вклад спрятал легли спать утру пошёл шербетный дождь телега отелилась родила телёнка</p>
-      <p>услышав повествование бедняка хан убедился жена права говоря головой плохо дружит</p>
-      <p>дааа забери своего мужа спокойно иди домой действительно дела очень сказал хан отпустил</p>
-      <p>провела умная жена бедняка богатого хана</p>
-    </body>
-  </text>
-</TEI>
+     <head>ХАН И УМНАЯ ЖЕНА БЕДНЯКА</head>
+     <p>бедняк бедняк бедняк бедняк быстро вместо всему выбиться вытащили глубже двери двору добычу догадается домой доставало досыта досыта едой еды ещё её жды железное железный жена жена жене женой женой жили заглянуть закрыл заперев звоном зная золота кирка копал копал копать людей люди маленький могли муж муж мужем наверное найденную никак никто никто новые новый нормальной ночью нужды обнаружил обо оде одежду однажды одного открыл отправил передав плакать поесть пока пока полный положила поскользнулась посмотрел посыпала появился приготовив приличную приобрести прочнее радовались разглядывал разобрал самый сараи сарая своей своему сказав сколько смеяться смогут смотрели сносил содержимое спрятала стал старые старый строить сундучок сундучок сундучок сундучок трудились туда ударившись уснул уснули фундамент фундамент ханские чтото шербет это явилась</p><p>базар бегом вернулся встал вышел готовить делать дом жена жена завтрак завязала который купив муж муж муж начала омовение опаздывает пока пошла проснулся работу сказал спозаранку телегой телёнка</p><p>бедняк вернулся вид видит видом ворот ворот впервые выгнала глянув делая день дом её жена жена жена жена жена заметили занесла иди которая муж мужа мужу наружу наступил незаметно ночью огорчённым одно около отелилась поведа пока покажу покормив поле посторонние посторонних потянул пошла пошёл предлогом провожать работу работы размышляя руку сегодня сказал сказала собой собрала стояла схватив сюда тебе телега телегу телёнка удивительный удивленный чудо шербет</p><p>выпустила густая изделие кондитерское которого кофе ла масса обычно орехами поле сахара собаки съели телёнка фруктов шербет шоколада</p><p>базара даёт золото имеем корову которая купим молоко муж нам переживай сказал телёнок</p><p>бедняк бедняк бедняка вернулся вечером выпитое голову дня дошёл ели золота который начал нашёл нукеры обмывали отвели пили полном работы разговор рассказывать родился сараи связав снося соседа спозаранку сундучке сын сына ударило хана хана хану явились</p><p>бедняка золото моё спросил утаил хан</p><p>бедняк бедняка валлах дал жене жену нукеры пошли привели признался прятать хану</p><p>видела видеть возмутилась время головой дружить жена знать знаю золото какое клад мечтает муж найти немного особенно перестал последнее разбогатеть размышляя часто этим</p><p>вместе жене жену муж мужа признался расспросили свели сказал</p><p>видела видеть говоришь давал жена золото золото какое котором мужа начала оно отдай прятать спрашивать хану</p><p>вклад дождь жене легли муж напомнил нашёл ночь отелилась пошёл родила спать спрятал телега телёнка ту утру шербетный</p><p>бедняка говоря головой дружит жена плохо повествование права убедился услышав хан</p><p>дааа действительно дела домой забери иди мужа отпустил очень своего сказал спокойно хан</p><p>бедняка богатого жена провела умная хана</p></body>
+   </text>
+  </TEI>

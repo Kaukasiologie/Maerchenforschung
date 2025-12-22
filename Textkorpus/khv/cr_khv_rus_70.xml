@@ -1,152 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
-          <geo/>
-        </placeName>
-        <date>2010</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Патимат М.</forename>
-            <surname xml:lang="rus">Нурудинова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1957</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
+       <geo />
+      </placeName>
+      <date>2010</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Патимат М.</forename>
+        <surname xml:lang="rus">Нурудинова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1957</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_70">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_70">
     <body>
-      <head>СКАЗКА О ВОЛКЕ, КОТОРЫЙ СОБРАЛСЯ НА ПАЛОМНИЧЕСТВО </head>
-      <p>хозяева погнали пастись ишака быка коня местность слепое ущелье побрели разные стороны ища место трава сочнее волк решил совершить паломничество пути местности ашура звала сначала находит ишака испугавшись туда метнулся ишак сюда</p>
-      <p>постойпостой бойся пугайся пришёл паломничество путь держу сказал волк</p>
-      <p>сказал ишак оттуда дальше путь продолжил волк шёл шёл ме стности усмана сарай наткнулся вола мыча туда метнулся сюда метнулся вол</p>
-      <p>постойпостой бойся пугайся пришёл паломничество путь держу сказал волк</p>
-      <p>успокоился вол</p>
-      <p>пошёл волк дальше наткнулся местности адила сарай коня увидев волка заржал туда метнулся сюда метнулся конь</p>
-      <p>постойпостой бойся пугайся пришёл паломничество путь держу</p>
-      <p>сказал конь дальше продолжил свой путь волк шёл шёл дошёл местности ачабаге туда дошёл пошёл снег поднялась метель вернулся волк назад возвращался сказал волк первую очередь найденный ишак паломничество видимо дальше встретившийся вол паломничество видимо конь дальше найденный паломничество видимо возвращался сверху вниз спускаясь сначала нашёл волк коня заржав туда сюда метнулся конь</p>
-      <p>постойпостой бойся пугайся скажи части твоего тела самое вкусное мясо</p>
-      <p>валлах самое вкусное мясо находится моих задних ляжках разбега оторви столько сколько сможешь ответил конь разбежался волк хотел схватить коня получил искромётный удар который отбросил волка далеко метель</p>
-      <p>спускался волк дальше дошёл волк вола мыча туда сюда метнулся вол</p>
-      <p>постойпостой бойся пугайся части твоего тела самое вкусное мясо находится спросил волк</p>
-      <p>самое вкусное мясо находится рогами иди подальше разбега оторви столько сколько сможешь сказал вол</p>
-      <p>побежал волк вола вол поднял рога кинул наземь обвалял землю</p>
-      <p>спустился волк оттуда вниз ишаку заорав туда метнулся сюда метнулся ишак</p>
-      <p>постойпостой бойся пугайся части твоего тела самое вкусное мясо спросил волк</p>
-      <p>ачабаге микротопоним аула квантлада цумадинского района</p>
-      <p>валлах всё тело вкусное ответил ишак видел хозяина несколько дней вон впереди одна стройка хочу спеть несколько строк песни напоследок сказал ишак</p>
-      <p>ладно сказал волк недалеко сидел волк ишак придя видное людей место заорав пуская воздух звуками торррр заорав издавая звуки пурррр туда сюда метался таком смятении увидел хозяин</p>
-      <p>это моим ишаком подумал жамал пошёл нему видит волка</p>
-      <p>ах падаль около криками руганью подбежал хозяин закинув посох</p>
-      <p>волк еле ноги унёс погнав впереди ишака жамал домой вернулся сантладинский говор</p>
-    </body>
-  </text>
-</TEI>
+     <head>СКАЗКА О ВОЛКЕ, КОТОРЫЙ СОБРАЛСЯ НА ПАЛОМНИЧЕСТВО </head>
+     <p>ашура быка волк звала испугавшись ишак ишака ишака ища коня местности местность место метнулся находит паломничество пастись побрели погнали пути разные решил слепое сначала совершить сочнее стороны сюда трава туда ущелье хозяева</p><p>бойся волк держу паломничество постойпостой пришёл пугайся путь сказал</p><p>вол вола волк дальше ишак ме метнулся метнулся мыча наткнулся оттуда продолжил путь сарай сказал стности сюда туда усмана шёл шёл</p><p>бойся волк держу паломничество постойпостой пришёл пугайся путь сказал</p><p>вол успокоился</p><p>адила волк волка дальше заржал конь коня местности метнулся метнулся наткнулся пошёл сарай сюда туда увидев</p><p>бойся держу паломничество постойпостой пришёл пугайся путь</p><p>ачабаге вернулся видимо видимо видимо вниз возвращался возвращался вол волк волк волк волк встретившийся дальше дальше дальше дошёл дошёл заржав ишак конь конь конь коня местности метель метнулся назад найденный найденный нашёл очередь паломничество паломничество паломничество первую поднялась пошёл продолжил путь сверху свой сказал сказал сначала снег спускаясь сюда туда туда шёл шёл</p><p>бойся вкусное мясо постойпостой пугайся самое скажи твоего тела части</p><p>валлах вкусное волк волка далеко задних искромётный конь коня который ляжках метель моих мясо находится отбросил ответил оторви получил разбега разбежался самое сколько сможешь столько схватить удар хотел</p><p>вол вола волк волк дальше дошёл метнулся мыча спускался сюда туда</p><p>бойся вкусное волк мясо находится постойпостой пугайся самое спросил твоего тела части</p><p>вкусное вол иди мясо находится оторви подальше разбега рогами самое сказал сколько сможешь столько</p><p>вол вола волк землю кинул наземь обвалял побежал поднял рога</p><p>вниз волк заорав ишак ишаку метнулся метнулся оттуда спустился сюда туда</p><p>бойся вкусное волк мясо постойпостой пугайся самое спросил твоего тела части</p><p>аула ачабаге квантлада микротопоним района цумадинского</p><p>валлах видел вкусное вон впереди всё дней ишак ишак напоследок несколько несколько одна ответил песни сказал спеть стройка строк тело хозяина хочу</p><p>видное воздух волк волк заорав заорав звуками звуки издавая ишак ладно людей место метался недалеко придя пурррр пуская сидел сказал смятении сюда таком торррр туда увидел хозяин</p><p>видит волка жамал ишаком моим нему подумал пошёл это</p><p>ах закинув криками около падаль подбежал посох руганью хозяин</p><p>вернулся волк впереди говор домой еле жамал ишака ноги погнав сантладинский унёс</p></body>
+   </text>
+  </TEI>

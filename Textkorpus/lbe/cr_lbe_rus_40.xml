@@ -1,177 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">«Сборник сведений о кавказских горцах», вып. I, стр, 51</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">«Сборник сведений о кавказских горцах», вып. I, стр, 51</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_40">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_40">
     <body>
-      <head>59. Заза-белая корова </head>
-      <p>жил жил вдовец единственная дочь девушка часто ходила соседке вдове огня взять соли попросить вдова отказывала всякий давала хлеба пирога мяса яблок вдова говорила девушке</p>
-      <p>уговори отца жениться</p>
-      <p>девушка стала упрашивать отца</p>
-      <p>отец женись па соседке отец женись соседке</p>
-      <p>подожди дочь наша корова отелится п женюсь отвечал отец</p>
-      <p>пришло время отелилась корова</p>
-      <p>женись отец соседке настаивала девушка</p>
-      <p>подожди дочь пока хлеба поспеют</p>
-      <p>хлеба поспели женись соседке приставала девушка отцу</p>
-      <p>делать нечего отец женился вдове</p>
-      <p>мачеха стала готовить пироги сыром чабрецом падчерицы песком золою стлала тюфяк мягкой соломы девушку клала па постель колючек</p>
-      <p>отец могу отец спать могу жаловалась девушка</p>
-      <p>мачеха время клеветала девушку очень хотела выгнать падчерицу дому</p>
-      <p>однажды отец поехал лес дровами взял собою дочь девушка прилегла полу черкески заснула потихоньку отрезал полу уехал домой</p>
-      <p>проснулась девушка увидела отца пет побежала холм закричала</p>
-      <p>отец</p>
-      <p>побежала снова закричала</p>
-      <p>отец</p>
-      <p>ответа девушка влезла дерево горько заплакала</p>
-      <p>проходила стая волков</p>
-      <p>отчего плачешь</p>
-      <p>плачу съели</p>
-      <p>тронем вон идет стая медведей смотри съели</p>
-      <p>идут медведи</p>
-      <p>почему плачен ь</p>
-      <p>съели</p>
-      <p>тронем вон идет стая лисиц съели сказали медведи</p>
-      <p>пришли лисицы сказали</p>
-      <p>съедим вон идет заза белая корова</p>
-      <p>одним рогом роет небо другим землю смотри съела</p>
-      <p>пришла заза белая корова села деревом сказала</p>
-      <p>ох устала</p>
-      <p>упали капли посмотрела вверх сказала</p>
-      <p>дождя откуда капли</p>
-      <p>взглянула вверх увидела плачущую девушку</p>
-      <p>дитя мое спросила заза мальчик прыгни мою спину девушка прыгни мою грудь</p>
-      <p>девушка прыгнула грудь зазы белой коровы</p>
-      <p>плачешь спросила заза</p>
-      <p>боюсь съешь ответила девушка</p>
-      <p>бойся пойдем мной</p>
-      <p>шли шли пришли подземелье гут заза белая корова указала девушке несколько кувшинов сказала</p>
-      <p>дочь ешь пей хочешь трогай атих кувшинов</p>
-      <p>однажды заза белая корова вышла дому девушка сунула палец кувшин палец стал серебряным девушка испугалась схватила камень разбила палец завязала приходит заза белая корова</p>
-      <p>это твоей рукой</p>
-      <p/>
-      <p>покажи дитя мое</p>
-      <p>увидев палец разбит заза белая корова сказала</p>
-      <p>раздевайся дочь выкупайся кувшине</p>
-      <p>девушка разделась выкупалась кувшине вся стала серебряной</p>
-      <p>выкупайся другом кувшине</p>
-      <p>девушка выкупалась сделалась золотою</p>
-      <p>сунь руку мое правое ухо</p>
-      <p>девушка сунула руку правое ухо стала вытаскивать оттуда медные фарфоровые кувшины подносы чашки котлы стеклянные графины прочую утварь</p>
-      <p>сунь руку мое левое ухо</p>
-      <p>девушка вытащила оттуда жемчуга кораллы шелковые платья платки желтые сапожки гвоздику</p>
-      <p>заза белая корова одела девушку красное платье кормила сахаром выдала замуж ханского сына</p>
-      <p>той свадьбе плясал ел пил пришел</p>
-    </body>
-  </text>
-</TEI>
+     <head>59. Заза-белая корова </head>
+     <p>вдова вдова вдове вдовец взять всякий говорила давала девушка девушке дочь единственная жил жил мяса огня отказывала пирога попросить соли соседке хлеба ходила часто яблок</p><p>жениться отца уговори</p><p>девушка отца стала упрашивать</p><p>женись женись отец отец па соседке соседке</p><p>дочь женюсь корова наша отвечал отелится отец п подожди</p><p>время корова отелилась пришло</p><p>девушка женись настаивала отец соседке</p><p>дочь подожди пока поспеют хлеба</p><p>девушка женись отцу поспели приставала соседке хлеба</p><p>вдове делать женился нечего отец</p><p>готовить девушку золою клала колючек мачеха мягкой па падчерицы песком пироги постель соломы стала стлала сыром тюфяк чабрецом</p><p>девушка жаловалась могу могу отец отец спать</p><p>время выгнать девушку дому клеветала мачеха очень падчерицу хотела</p><p>взял девушка домой дочь дровами заснула лес однажды отец отрезал поехал полу полу потихоньку прилегла собою уехал черкески</p><p>девушка закричала отца пет побежала проснулась увидела холм</p><p>отец</p><p>закричала побежала снова</p><p>отец</p><p>влезла горько девушка дерево заплакала ответа</p><p>волков проходила стая</p><p>отчего плачешь</p><p>плачу съели</p><p>вон идет медведей смотри стая съели тронем</p><p>идут медведи</p><p>плачен почему ь</p><p>съели</p><p>вон идет лисиц медведи сказали стая съели тронем</p><p>лисицы пришли сказали</p><p>белая вон заза идет корова съедим</p><p>другим землю небо одним рогом роет смотри съела</p><p>белая деревом заза корова пришла села сказала</p><p>ох устала</p><p>вверх капли посмотрела сказала упали</p><p>дождя капли откуда</p><p>вверх взглянула девушку плачущую увидела</p><p>грудь девушка дитя заза мальчик мое мою мою прыгни прыгни спину спросила</p><p>белой грудь девушка зазы коровы прыгнула</p><p>заза плачешь спросила</p><p>боюсь девушка ответила съешь</p><p>бойся мной пойдем</p><p>белая гут девушке заза корова кувшинов несколько подземелье пришли сказала указала шли шли</p><p>атих дочь ешь кувшинов пей трогай хочешь</p><p>белая белая вышла девушка девушка дому завязала заза заза испугалась камень корова корова кувшин однажды палец палец палец приходит разбила серебряным стал сунула схватила</p><p>рукой твоей это</p><p /><p>дитя мое покажи</p><p>белая заза корова палец разбит сказала увидев</p><p>выкупайся дочь кувшине раздевайся</p><p>вся выкупалась девушка кувшине разделась серебряной стала</p><p>выкупайся другом кувшине</p><p>выкупалась девушка золотою сделалась</p><p>мое правое руку сунь ухо</p><p>вытаскивать графины девушка котлы кувшины медные оттуда подносы правое прочую руку стала стеклянные сунула утварь ухо фарфоровые чашки</p><p>левое мое руку сунь ухо</p><p>вытащила гвоздику девушка желтые жемчуга кораллы оттуда платки платья сапожки шелковые</p><p>белая выдала девушку заза замуж кормила корова красное одела платье сахаром сына ханского</p><p>ел пил плясал пришел свадьбе той</p></body>
+   </text>
+  </TEI>

@@ -1,129 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Andische Folklore</title>
-        <title xml:lang="eng">Andi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Andische Folklore</title>
+      <title xml:lang="eng">Andi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="kat">ცერცვაძე ილ., ანდიური ენა (გრამატიკული ანალიზი ტექსტებით) </title>
+        <title xml:lang="rus">Церцвадзе И.И., Андиский язик (Грамматический анализ ц текстами)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1965</publisher>
+        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1965, ст. 306, Nr. 9</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="kat">ცერცვაძე ილ., ანდიური ენა (გრამატიკული ანალიზი ტექსტებით) </title>
-            <title xml:lang="rus">Церцвадзе И.И., Андиский язик (Грамматический анализ ц текстами)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა &quot;მეცნიერება&quot;. თბილისი, 1965</publisher>
-            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство &quot;Мецниереба&quot;. Тбилиси, 1965, ст. 306, Nr. 9</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ani">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/858046/kvankhidatli.html">Kvankhidatli</settlement>
-          <geo/>
-        </placeName>
-        <date>1946</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="eng"> Имам-Шафи</forename>
-            <surname xml:lang="eng">Щабанов</surname>
-          </persName>
-          <age>60</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus"> И.И. </forename>
-            <surname xml:lang="rus">Церцвадзе</surname>
-          </persName>
-        </person>
-        <person role="ÜbersetzerIn" xml:lang="rus">
-          <persName>googleTranslator</persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ani">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/858046/kvankhidatli.html">Kvankhidatli</settlement>
+       <geo />
+      </placeName>
+      <date>1946</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="eng"> Имам-Шафи</forename>
+        <surname xml:lang="eng">Щабанов</surname>
+       </persName>
+       <age>60</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus"> И.И. </forename>
+        <surname xml:lang="rus">Церцвадзе</surname>
+       </persName>
+      </person>
+      <person role="ÜbersetzerIn" xml:lang="rus">
+       <persName>googleTranslator</persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ani_rus_7">
+   </teiHeader>
+   <text xml:id="cr_ani_rus_7">
     <body>
-      <head>***( Мола Насредин и дьявол говорили)</head>
-      <p>мола насредин дьявол говорили обманет другого решили пойти мечеть мола насредин пошел вперед обещанному месту стоял спиной стене мечети пришел нему дьявол войду покачаю мола насреддин сказал палка чувства обмана осталась передо мной сегодня буду делать дьявол сказал иди возьми мола насреддин сказал пойду эта стена рухнет держит дьявол сказал поймаю иди мола нисреддин ушел пришел сегодня пришел завтра пришел послезавтра дьявол сказал делал опоздал мулла насреддин сказал делал дьявол сказал начинаешь свой обман мола насреддин сказал закончил обман делать убирайся оттуда стена никуда денется черт побежден ушел</p>
-    </body>
-  </text>
-</TEI>
+     <head>***( Мола Насредин и дьявол говорили)</head>
+     <p>буду возьми войду вперед говорили делал делал делать делать денется держит другого дьявол дьявол дьявол дьявол дьявол дьявол завтра закончил иди иди месту мечети мечеть мной мола мола мола мола мола мола мулла насреддин насреддин насреддин насреддин насредин насредин начинаешь нему никуда нисреддин обещанному обман обман обмана обманет опоздал осталась оттуда палка передо побежден пойду поймаю пойти покачаю послезавтра пошел пришел пришел пришел пришел решили рухнет свой сегодня сегодня сказал сказал сказал сказал сказал сказал сказал сказал спиной стена стена стене стоял убирайся ушел ушел черт чувства эта</p></body>
+   </text>
+  </TEI>

@@ -1,158 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Ногайские народные сказки</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Ногайские народные сказки</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="nog">Ногай эртегилер.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 121–123.</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="nog">Ногай эртегилер.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 121–123.</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_27">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_27">
     <body>
-      <head>20. Шестиногий конь </head>
-      <p>давние времена жил старик старухой сына дочери старшую дочь выдали медведя среднюю лису младшую орла</p>
-      <p>пришла пора старику умирать призвал сыновей обратился такими словами</p>
-      <p>твоя стрела попадет могильный камень сказал старшему сыну</p>
-      <p>стрелу пустишь запад сказал старик среднему сыну</p>
-      <p>стрелу пустишь восток сказал младшему сыну</p>
-      <p>старик умер каждый сыновей пустил стрелу младший брат простился обоими братьями пошел вслед своей стрелой шел несколько месяцев увидел стрелу зарослях камыша стрела вонзилась черепаху юноша смастерил шалаш веток камыша остался жить тех местах рано утром выходил охоту стрелял дроф стрепетов уток поздно вечером юноша возвращался свой шалаш</p>
-      <p>однажды вечером юноша пришел свой шалаш увидел нем разные яства стал никак мог остановиться очень вкусно приготовлено это позаботился обо думает юноша кругом болото камыши лес вырыл шалаше яму спрятался стал ждать некоторое время шалаш вошла девушка юноша выскочил засады схватил</p>
-      <p>отпусти говорит девушка твоя</p>
-      <p>оказывается девушкой стала та самая черепаха которую поразила стрела юноши</p>
-      <p>юноша зажил шалаше вместе своей женой однажды шел охоту повстречался старик</p>
-      <p>возьми работники стал просить юношу старик могу выносить золу таскать воду заготавливать дрова</p>
-      <p>юноша привел старика жене понравился новый работник сказала мужу</p>
-      <p>одна управлюсь всеми делами</p>
-      <p>юноша оставил старика</p>
-      <p>вернулся охоты нашел дома жены старика юноша отправился аул жила младшая сестер сказал женщинам которые пришли водой</p>
-      <p>вашем ауле живет сестра сообщите обо щедро одарит</p>
-      <p>сестра юноши жила богато одарила вестника двумя курдюками золота встретилась своим братом пока ел пил прилетел орел муж сестры</p>
-      <p>путь держишь спросил орел</p>
-      <p>иду искать жену ответил юноша рассказал обо всем случилось</p>
-      <p>орел говорит</p>
-      <p>летаю всюду твою жену встречал видно старик очень хитер сумеешь отнять жену найдешь</p>
-      <p>юноша послушался орла отправился путь ехал очень долго достиг маленького аула краю аула реки увидел заброшенный дом старик скрывал жену</p>
-      <p>юноша увидел жену хотел забрать собой боялась старика сказала мужу</p>
-      <p>уходи скорее старик придет убьет</p>
-      <p>юноша слушал слов вывел жену дому вскочил коня уехал вместе</p>
-      <p>это время старик спал домом соломе спал семь дней семь ночей девушка убежала своим мужем дому шестиногий конь старика беспокойно заржал забил копытом старик проснулся говорит</p>
-      <p>поесть</p>
-      <p>ешь жареную курицу отвечает копь</p>
-      <p>пока старик ел конь рассказал обо всем случилось старик вскочил своего шестиногого коня полетели вслед беглецами вскоре настигли мужа жену старик изрубил юношу куски девушку притащил назад дом</p>
-      <p>конь юноши вернулся дому сестры своего хозяина стал дверей сестра увидев коня выбежала дому смотрит брата горя лишилась чувств женщина пришла стала просить мужа орла собрать кости брата предать земле орел собрал кости юноши сбрызнул водой юноша вернулся жизни затем орел отдал одну своих трех душ</p>
-      <p>сестра стала упрекать своего мужа орла</p>
-      <p>летаешь небе видишь далеко вокруг можешь научить брата вернуть жену</p>
-      <p>орел сказал юноше</p>
-      <p>иди озеру притаись берегу лошади старика придут водопой дашь напиться отгонишь воды озеру прибежит шестиногий конь дай напиться вдоволь схвати загривок раза подбросит небо раза стукнет землю крепко держись загривок подчинится тебе можешь бояться старика утратит силу</p>
-      <p>юноша послушался орла сделал сказал убил старика жену забрал домой стал жить довольстве счастье</p>
-    </body>
-  </text>
-</TEI>
+     <head>20. Шестиногий конь </head>
+     <p>времена выдали давние дочери дочь жил лису медведя младшую орла среднюю старик старухой старшую сына</p><p>обратился пора призвал пришла словами старику сыновей такими умирать</p><p>камень могильный попадет сказал старшему стрела сыну твоя</p><p>запад пустишь сказал среднему старик стрелу сыну</p><p>восток младшему пустишь сказал стрелу сыну</p><p>брат братьями веток вечером возвращался вонзилась вслед выходил дроф жить зарослях каждый камыша камыша местах месяцев младший несколько обоими остался охоту поздно пошел простился пустил рано своей свой смастерил старик стрела стрелой стрелу стрелу стрелял стрепетов сыновей тех увидел умер уток утром черепаху шалаш шалаш шел юноша юноша</p><p>болото вечером вкусно вошла время вырыл выскочил девушка думает ждать засады камыши кругом лес мог некоторое нем никак обо однажды остановиться очень позаботился приготовлено пришел разные свой спрятался стал стал схватил увидел шалаш шалаш шалаше это юноша юноша юноша яму яства</p><p>говорит девушка отпусти твоя</p><p>девушкой которую оказывается поразила самая стала стрела та черепаха юноши</p><p>вместе женой зажил однажды охоту повстречался своей старик шалаше шел юноша</p><p>воду возьми выносить дрова заготавливать золу могу просить работники стал старик таскать юношу</p><p>жене мужу новый понравился привел работник сказала старика юноша</p><p>всеми делами одна управлюсь</p><p>оставил старика юноша</p><p>аул вернулся водой дома женщинам жены жила которые младшая нашел отправился охоты пришли сестер сказал старика юноша</p><p>ауле вашем живет обо одарит сестра сообщите щедро</p><p>богато братом вестника встретилась двумя ел жила золота курдюками муж одарила орел пил пока прилетел своим сестра сестры юноши</p><p>держишь орел путь спросил</p><p>всем жену иду искать обо ответил рассказал случилось юноша</p><p>говорит орел</p><p>видно встречал всюду жену жену летаю найдешь отнять очень старик сумеешь твою хитер</p><p>аула аула долго дом достиг ехал жену заброшенный краю маленького орла отправился очень послушался путь реки скрывал старик увидел юноша</p><p>боялась жену забрать мужу сказала собой старика увидел хотел юноша</p><p>придет скорее старик убьет уходи</p><p>вместе вскочил вывел дому жену коня слов слушал уехал юноша</p><p>беспокойно время говорит девушка дней домом дому забил заржал конь копытом мужем ночей проснулся своим семь семь соломе спал спал старик старик старика убежала шестиногий это</p><p>поесть</p><p>ешь жареную копь курицу отвечает</p><p>беглецами всем вскоре вскочил вслед девушку дом ел жену изрубил конь коня куски мужа назад настигли обо пока полетели притащил рассказал своего случилось старик старик старик шестиногого юношу</p><p>брата брата вернулся вернулся водой выбежала горя дверей дому дому душ женщина жизни затем земле конь коня кости кости лишилась мужа одну орел орел орла отдал предать пришла просить сбрызнул своего своих сестра сестры смотрит собрал собрать стал стала трех увидев хозяина чувств юноша юноши юноши</p><p>мужа орла своего сестра стала упрекать</p><p>брата вернуть видишь вокруг далеко жену летаешь можешь научить небе</p><p>орел сказал юноше</p><p>берегу бояться вдоволь водопой воды дай дашь держись загривок загривок землю иди конь крепко лошади можешь напиться напиться небо озеру озеру отгонишь подбросит подчинится прибежит придут притаись раза раза силу старика старика стукнет схвати тебе утратит шестиногий</p><p>довольстве домой жену жить забрал орла послушался сделал сказал стал старика счастье убил юноша</p></body>
+   </text>
+  </TEI>

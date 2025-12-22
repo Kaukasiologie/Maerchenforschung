@@ -1,142 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Гаджиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Гаджиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_121">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_121">
     <body>
-      <head>УМНЫЙ КРЕСТЬЯНИН</head>
-      <p>жил свете бедный крестьянин однажды решил пойти хану огпести подарок гуся пришел хан спрашивает</p>
-      <p>часть гуся вкуснее</p>
-      <p>бедняк отвечает кожи гузки нег хан говорит</p>
-      <p>гуся принос гусь семья состоит шести человек разделить гуся па шестерых</p>
-      <p>разрушится твой дом хан отвечает бедняк это очень легко сделать</p>
-      <p>словами смотри это делается начал делить гуся</p>
-      <p>тебе главе дома полагается голова гуся сказал од жене которая всем следует мужем хвост нужно дать гузку обеим дочерям которые гусь па крыльях тюкипут родпой очаг дадим крылья сыновьям опоре семьи очага полагаются обе ноги оставшаяся мелочь закончил бедняк оставляя тушку</p>
-      <p>хану очепь понравилось такое остроумное решение отправил бедняка домой щедро одарив прощанье</p>
-      <p>дома бедняк рассказал хан дал гуся золота прослыитал богатый сосед решил пойти хапу гусем зарезал вместо одного пятъ гусей отправился хану надежде получить золота хан говорит</p>
-      <p>гусей нам принес однако каким образом поделить пять гусей шестерых</p>
-      <p>т богатей думал думал смог придумать решили позвать бедняка бедный крестьянин пришел начал дележ</p>
-      <p>хап желой гусь трое говорил дна сына л гусь две дочери гусь оставшиеся гуся вместе мною также составляют это число</p>
-      <p>разделили хану пришлось душе такое мудрое решение щедро одарил бедняка золотом богач принесший гусей вернулся</p>
-      <p>па бедный крестьянин рассказал всем хап дал золото сосед богатый старик решил последовать примеру надеясь также получить золото зарезал целого буйвола пошел хану хан говорит</p>
-      <p>буйвола нам принес скажи буйвола вкуснее</p>
-      <p>старик решил ответить точно бедняк сказал л вкуснее пткура хвост буйвола хан оскорблен таким ответом решил снова позвать бедняк пришел спросил самое вкусное буйволе бедняк ответил самое вкусное это сметана пз молока буйволицы другого знает хан признал ответ бедняка очень мудрым вновь скупясь одарил богатый сосед ушел позором разбитыми надеждами</p>
-    </body>
-  </text>
-</TEI>
+     <head>УМНЫЙ КРЕСТЬЯНИН</head>
+     <p>бедный гуся жил крестьянин огпести однажды подарок пойти пришел решил свете спрашивает хан хану</p><p>вкуснее гуся часть</p><p>бедняк говорит гузки кожи нег отвечает хан</p><p>гусь гуся гуся па принос разделить семья состоит человек шестерых шести</p><p>бедняк дом легко отвечает очень разрушится сделать твой хан это</p><p>гуся делается делить начал словами смотри это</p><p>бедняк всем главе голова гузку гусь гуся дадим дать дома дочерям жене закончил которая которые крылья крыльях мелочь мужем ноги нужно обе обеим од опоре оставляя оставшаяся очаг очага па полагается полагаются родпой семьи сказал следует сыновьям тебе тушку тюкипут хвост</p><p>бедняка домой одарив остроумное отправил очепь понравилось прощанье решение такое хану щедро</p><p>бедняк богатый вместо говорит гусей гусем гуся дал дома зарезал золота золота надежде одного отправился пойти получить прослыитал пятъ рассказал решил сосед хан хан хану хапу</p><p>гусей гусей каким нам образом однако поделить принес пять шестерых</p><p>бедный бедняка богатей дележ думал думал крестьянин начал позвать придумать пришел решили смог т</p><p>вместе говорил гусь гусь гусь гуся две дна дочери желой л мною оставшиеся составляют сына также трое хап число это</p><p>бедняка богач вернулся гусей душе золотом мудрое одарил принесший пришлось разделили решение такое хану щедро</p><p>бедный богатый буйвола всем говорит дал зарезал золото золото крестьянин надеясь па получить последовать пошел примеру рассказал решил сосед старик также хан хану хап целого</p><p>буйвола буйвола вкуснее нам принес скажи</p><p>бедняк бедняк бедняк бедняка богатый буйвола буйволе буйволицы вкуснее вкусное вкусное вновь другого знает л молока мудрым надеждами одарил оскорблен ответ ответил ответить ответом очень пз позвать позором признал пришел пткура разбитыми решил решил самое самое сказал скупясь сметана снова сосед спросил старик таким точно ушел хан хан хвост это</p></body>
+   </text>
+  </TEI>

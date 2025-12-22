@@ -1,153 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Kumykische Folklore</title>
-        <title xml:lang="eng">Kumyk Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФ ИЯЛИ</institution>
-                <collection>Ф. 3. Оп. 3. Д. 14</collection>
-              </msIdentifier>
-            </msDesc>
-          </sourceDesc>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Kumykische Folklore</title>
+      <title xml:lang="eng">Kumyk Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФ ИЯЛИ</institution>
+          <collection>Ф. 3. Оп. 3. Д. 14</collection>
+         </msIdentifier>
+        </msDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="kum">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/544007/kostek.html">Kostek</settlement>
-          <geo/>
-        </placeName>
-        <date>1930</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Акавов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Аджиева</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="kum">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/544007/kostek.html">Kostek</settlement>
+       <geo />
+      </placeName>
+      <date>1930</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Акавов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Аджиева</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_kum_rus_9">
+   </teiHeader>
+   <text xml:id="cr_kum_rus_9">
     <body>
-      <head> 59 Сказка об охотнике, который, войдя в озеро, превратился в девушку (кум.) </head>
-      <p>однажды однажды одном ауле жил старый охотник однажды охотник отправился охоту берегу одного озера выстрелил лука зайца стрела поломала зайцу обе задние лапы заяц дополз озера опустил лапы стали совершенно здоровыми заяц убежал</p>
-      <p>увидев это охотник подумал поможет озеро избавиться старости прыгнул охотник превратился красивую пятнадцатилетнюю девушку</p>
-      <p>увидел хан охотившийся тех местах спрашивает</p>
-      <p>девушка</p>
-      <p>сирота некому содержать сказал охотник</p>
-      <p>увел хан стал содержать жену</p>
-      <p>охотник забеременел хана родил мальчика</p>
-      <p>сын перестал питаться грудным молоком охотник однажды ночью сбежал хана снова окунулся озеро охотник превратился черную пречерную кобылу</p>
-      <p>отправился хан поиски своей жены нашел кобылу пригнал</p>
-      <p>хан пустил кобылу хорошему жеребцу кобыла принесла черного пречерного жеребенка самца</p>
-      <p>жеребенок перестал пить материнское молоко охотник снова бежал хана бросился озеро вышел превратившись краснуюкрасную телку</p>
-      <p>отправившийся поиски кобылы хан оставил телку пустил породистым бугаям корова принесла красного красного бычка</p>
-      <p>бычок перестал питаться молоком охотник побежал окунулся озеро вышел белой пребелой борзой</p>
-      <p>искавший корову хан взял борзую привел</p>
-      <p>хан оставил борзую пустил хороших кобелей борзая принесла белого пребелого щенка самца</p>
-      <p>дитя перестало питаться грудным молоком охотник бежал окунулся озеро вышел приняв свой прежний облик старого охотника</p>
-      <p>охотник поспешил домой</p>
-      <p>перейдем хану</p>
-      <p>рожденного кобылой жеребенка рожденного коровой бычка рожденного борзой щенка хан держал своего сына</p>
-      <p>мальчик вырос научился охотиться каждый день выезжая охоту садился своего вороного жеребца вел собою своего красного бугая белого борзого кобеля</p>
-      <p>пусть пребывает расскажем другом хане</p>
-      <p>одном ауле жил хан хана дочь прославившаяся весь мир своей красотой хан мог найти всем мире достойного человека выдать хан выдвинул такое условие поставлю своем дворе треножник казан положу туда мясо сорока буйволов налью сорок бочек воды сможет довести кипения своими небылицами выдам дочь</p>
-      <p>весть распространилась далеко</p>
-      <p>услышав весть отовсюду собрался народ оседлав своего вороного жеребца взяв собою красного бугая белого борзого кобеля поехал сын хана</p>
-      <p>поехал однако никто собравшихся решался начать рассказывать небылицы вернувшийся охоты старый охотник пришел маджлис спросил дело узнав дело пошел хану сказал</p>
-      <p>хан взять твои тяготы довести кипения казан рассказыванием небылиц пустяковое дело поведаю испытал доведу казан кипения выдашь дочь</p>
-      <p>хан сказал</p>
-      <p>выдам</p>
-      <p>сел охотник рядом казаном начал говорить</p>
-      <p>старым охотником однажды берегу озера выстрелил лука зайца сломал обе задние лапы заяц окунулся озеро вышел оттуда здоровым подумал избавлюсь старости вошел озеро вышел пятнадцатилетней девушкой хан увел жил мной женой забеременел родил мальчика сын перестал питаться грудным молоком бежал окунулся озеро превратился черную пречерную кобылу</p>
-      <p>гей люди парень рожденный мною парень жеребец рожденный мною жеребец красный бугай борзой кобель рождены мною вскипай казан сказав щелкнул казану казан котором варилось мясо сорока буйволов закипел извергая пар</p>
-      <p>возгласы</p>
-      <p>хан желаем счастья твоему зятю огласили весь двор</p>
-      <p>дав разойтись всему собравшемуся народу хан семь ночей семь дней играл свадьбу выдал дочь охотника</p>
-      <p>согласия хана собравшихся людей охотник выдал девушку своего сына сына невестку вместе жеребцом бугаем борзым отвел стали жить поживать сытно питаясь ладя</p>
-      <p>благоденствовать процветать благоденствовать процветать нам</p>
-    </body>
-  </text>
-</TEI>
+     <head> 59 Сказка об охотнике, который, войдя в озеро, превратился в девушку (кум.) </head>
+     <p>ауле берегу выстрелил дополз жил задние зайца зайцу заяц заяц здоровыми лапы лапы лука обе однажды однажды однажды одного одном озера озера опустил отправился охотник охотник охоту поломала совершенно стали старый стрела убежал</p><p>девушку избавиться красивую озеро охотник охотник подумал поможет превратился прыгнул пятнадцатилетнюю старости увидев это</p><p>местах охотившийся спрашивает тех увидел хан</p><p>девушка</p><p>некому охотник сирота сказал содержать</p><p>жену содержать стал увел хан</p><p>забеременел мальчика охотник родил хана</p><p>грудным кобылу молоком ночью однажды озеро окунулся охотник охотник перестал питаться превратился пречерную сбежал снова сын хана черную</p><p>жены кобылу нашел отправился поиски пригнал своей хан</p><p>жеребенка жеребцу кобыла кобылу пречерного принесла пустил самца хан хорошему черного</p><p>бежал бросился вышел жеребенок краснуюкрасную материнское молоко озеро охотник перестал пить превратившись снова телку хана</p><p>бугаям бычка кобылы корова красного красного оставил отправившийся поиски породистым принесла пустил телку хан</p><p>белой борзой бычок вышел молоком озеро окунулся охотник перестал питаться побежал пребелой</p><p>борзую взял искавший корову привел хан</p><p>белого борзая борзую кобелей оставил пребелого принесла пустил самца хан хороших щенка</p><p>бежал вышел грудным дитя молоком облик озеро окунулся охотник охотника перестало питаться прежний приняв свой старого</p><p>домой охотник поспешил</p><p>перейдем хану</p><p>борзой бычка держал жеребенка кобылой коровой рожденного рожденного рожденного своего сына хан щенка</p><p>белого борзого бугая вел вороного выезжая вырос день жеребца каждый кобеля красного мальчик научился охотиться охоту садился своего своего собою</p><p>другом пребывает пусть расскажем хане</p><p>ауле бочек буйволов весь воды всем выдам выдать выдвинул дворе довести достойного дочь дочь жил казан кипения красотой мир мире мог мясо найти налью небылицами одном положу поставлю прославившаяся своей своем своими сможет сорок сорока такое треножник туда условие хан хан хан хана человека</p><p>весть далеко распространилась</p><p>белого борзого бугая весть взяв вороного жеребца кобеля красного народ оседлав отовсюду поехал своего собою собрался сын услышав хана</p><p>вернувшийся дело дело маджлис начать небылицы никто однако охотник охоты поехал пошел пришел рассказывать решался сказал собравшихся спросил старый узнав хану</p><p>взять выдашь дело доведу довести дочь испытал казан казан кипения кипения небылиц поведаю пустяковое рассказыванием твои тяготы хан</p><p>сказал хан</p><p>выдам</p><p>говорить казаном начал охотник рядом сел</p><p>бежал берегу вошел выстрелил вышел вышел грудным девушкой женой жил забеременел задние зайца заяц здоровым избавлюсь кобылу лапы лука мальчика мной молоком обе однажды озера озеро озеро озеро окунулся окунулся оттуда охотником перестал питаться подумал превратился пречерную пятнадцатилетней родил сломал старости старым сын увел хан черную</p><p>борзой бугай буйволов варилось вскипай гей жеребец жеребец закипел извергая казан казан казану кобель котором красный люди мною мною мною мясо пар парень парень рожденный рожденный рождены сказав сорока щелкнул</p><p>возгласы</p><p>весь двор желаем зятю огласили счастья твоему хан</p><p>всему выдал дав дней дочь играл народу ночей охотника разойтись свадьбу семь семь собравшемуся хан</p><p>борзым бугаем вместе выдал девушку жеребцом жить ладя людей невестку отвел охотник питаясь поживать своего собравшихся согласия стали сына сына сытно хана</p><p>благоденствовать благоденствовать нам процветать процветать</p></body>
+   </text>
+  </TEI>

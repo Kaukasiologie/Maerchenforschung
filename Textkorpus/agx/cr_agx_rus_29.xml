@@ -1,140 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Agulische Folklore</title>
-        <title xml:lang="eng">Agul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <bibl>
-              <title>Магометов А. А. Агульский язык: Исследования и тексты. Тбилиси: Мецниереба, 1970а.</title>
-            </bibl>
-          </sourceDesc>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Agulische Folklore</title>
+      <title xml:lang="eng">Agul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <bibl>
+         <title>Магометов А. А. Агульский язык: Исследования и тексты. Тбилиси: Мецниереба, 1970а.</title>
+        </bibl>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="agx">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1965</date>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName xml:lang="rus">Джамалудин Магомедов</persName>
-          <persName xml:lang="agx">ǯamaludin magomedow</persName>
-          <age>З.</age>
-          <birth>
-            <address>
-              <district/>
-              <settlement ref="https://www.geonames.org/549164/khudig.html">Khudig</settlement>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А. А.</forename>
-            <surname xml:lang="rus">МАГОМЕТОВ</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Т. А.</forename>
-            <surname xml:lang="rus">Майсак</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="agx">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1965</date>
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName xml:lang="rus">Джамалудин Магомедов</persName>
+       <persName xml:lang="agx">ǯamaludin magomedow</persName>
+       <age>З.</age>
+       <birth>
+        <address>
+         <district />
+         <settlement ref="https://www.geonames.org/549164/khudig.html">Khudig</settlement>
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А. А.</forename>
+        <surname xml:lang="rus">МАГОМЕТОВ</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Т. А.</forename>
+        <surname xml:lang="rus">Майсак</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_agx_rus_29">
+   </teiHeader>
+   <text xml:id="cr_agx_rus_29">
     <body>
-      <head>М29. Мельник и лиса</head>
-      <p>м мельник лиса мельник мельник дней мельницу пришла лиса</p>
-      <p>мельник дал голодной лисе кусок хлеба</p>
-      <p>лиса съела ушла лес лиса подумала сде лать хорошего мельнику который сделал столько добра однаж ды лиса пошла царю попросила дать мерку измерить деньги царь дал лисе мерку удивился царь это человек которыйденьги меркой меряет</p>
-      <p>лиса нашла монетку прилепила мерке пошла отдавать меркуцарю царь позвал лису сказал мерке осталась монета лиса сказала это плата твою мерку</p>
-      <p>пару дней лиса снова пошла царю попросила дать еймерку измерить золото царь снова очень удивился это зачеловек который золото меркой меряет</p>
-      <p>лиса нашла золотой прилепила мерке пошла отдаватьмерку царю царь позвал лису мерке остался золотой лисасказала это плата мерку</p>
-      <p>пару дней лиса пришла царю сказала выдай дочьза нашего юношу царь подумал выдать дочь царя ко торый меряет меркой золото деньги кого выдать</p>
-      <p>царь сказал лисе приведи зятя увидел лиса пошла мельнику друг мельник тебе сделаю одно</p>
-      <p>доброе дело встань иди мной мельник встал пошел лисой дороге попали сильный дождь потекло воды лиса сказала мельнику посиди пока приду</p>
-      <p>лиса пошла царю которого посватала дочь сказала дайодежду лошадь зятя неприятность случилась одежду лошадь зятяунесла вода дай одежду одеться лошадь чтобыехать царь дал лисе одежду лошадь</p>
-      <p>лиса пошла ними мельнику друг оденься садись налошадь пошли мной</p>
-      <p>пошли дом царя царь приготовил хорошее угоще ние следующий день сопровождении музыкантов девушкойсобрались уезжать остановились одном месте поесть попить</p>
-      <p>лиса пошла аждахе друг аждаха идет войско те</p>
-      <p>бя убить спасайся аждаха пошел лес спрятался лиса вер нулась позвать дом аждахи вошли дом сыг рали свадьбу</p>
-      <p>пару дней лиса пошла дом мельника жена мельникаувидела лиса идет двору жена пошла сказала мельнику унас дворе лиса мельник сказал жене выгони двора жена выгнала лису двора</p>
-      <p>лиса пошла лес искать аждаху лиса встре тила аждаху друг аждаха обманула это войско амельник мельник сидит твоем доме выгони</p>
-      <p>аждаха поверил лисе веришь друг аждаха вай сделаем возьмем веревку конец наденем тебе шею аодин конец наденем шею сделали пошли выгонятьмельника</p>
-      <p>оставалось немного мельник увидел идут тогдамельник крикнул аждаха испугался побежал лес потащил засобой лису лиса ударяясь деревья умерла конец</p>
-    </body>
-  </text>
-</TEI>
+     <head>М29. Мельник и лиса</head>
+     <p>дней лиса лиса м мельник мельник мельник мельницу пришла</p><p>голодной дал кусок лисе мельник хлеба</p><p>дал дать деньги добра ды измерить который которыйденьги лать лес лиса лиса лиса лисе мельнику меркой мерку мерку меряет однаж подумала попросила пошла сде сделал столько съела удивился ушла хорошего царь царь царю человек это</p><p>лиса лиса лису мерке мерке мерку меркуцарю монета монетку нашла осталась отдавать плата позвал пошла прилепила сказал сказала твою царь это</p><p>дать дней еймерку зачеловек золото золото измерить который лиса меркой меряет очень пару попросила пошла снова снова удивился царь царю это</p><p>золотой золотой лиса лисасказала лису мерке мерке мерку нашла остался отдаватьмерку плата позвал пошла прилепила царь царю это</p><p>выдай выдать выдать деньги дней дочь дочьза золото ко кого лиса меркой меряет нашего пару подумал пришла сказала торый царь царю царя юношу</p><p>друг зятя лиса лисе мельник мельнику одно пошла приведи сделаю сказал тебе увидел царь</p><p>воды встал встань дело доброе дождь дороге иди лиса лисой мельник мельнику мной пока попали посиди потекло пошел приду сильный сказала</p><p>вода дай дайодежду дал дочь зятя зятяунесла которого лиса лисе лошадь лошадь лошадь лошадь неприятность одежду одежду одежду одеться посватала пошла сказала случилась царь царю чтобыехать</p><p>друг лиса мельнику мной налошадь ними оденься пошла пошли садись</p><p>девушкойсобрались день дом месте музыкантов ние одном остановились поесть попить пошли приготовил следующий сопровождении угоще уезжать хорошее царь царя</p><p>аждаха аждахе войско друг идет лиса пошла те</p><p>аждаха аждахи бя вер вошли дом дом лес лиса нулась позвать пошел рали свадьбу спасайся спрятался сыг убить</p><p>выгнала выгони двора двора дворе двору дней дом жена жена жена жене идет лиса лиса лиса лису мельник мельника мельникаувидела мельнику пару пошла пошла сказал сказала унас</p><p>аждаха аждаху аждаху амельник войско встре выгони доме друг искать лес лиса лиса мельник обманула пошла сидит твоем тила это</p><p>аждаха аждаха аодин вай веревку веришь возьмем выгонятьмельника друг конец конец лисе наденем наденем поверил пошли сделаем сделали тебе шею шею</p><p>аждаха деревья засобой идут испугался конец крикнул лес лиса лису мельник немного оставалось побежал потащил тогдамельник увидел ударяясь умерла</p></body>
+   </text>
+  </TEI>

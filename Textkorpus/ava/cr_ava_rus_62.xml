@@ -1,166 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>д. 2656</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>д. 2656</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/490022/sovetskiy-rayon.html">Sovetskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/858270/verkhniy-kolob.html">Verkhniy Kolob</settlement>
-          <geo/>
-        </placeName>
-        <date>1950</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Гаджиев</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">К.</forename>
-            <surname xml:lang="rus">Казиев</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">И.</forename>
-            <surname xml:lang="rus">Алиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/490022/sovetskiy-rayon.html">Sovetskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/858270/verkhniy-kolob.html">Verkhniy Kolob</settlement>
+       <geo />
+      </placeName>
+      <date>1950</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Гаджиев</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">К.</forename>
+        <surname xml:lang="rus">Казиев</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">И.</forename>
+        <surname xml:lang="rus">Алиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_62">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_62">
     <body>
-      <head>29. Старый отец, его молодая жена и плешивый сын</head>
-      <p>жил старик покойной жены остался плешивый сын отец женился молодой соседке</p>
-      <p>мало прошло времени случилось молодой жене приглянулся мужчина стал любовником каждый день муж уходил работать поле жена готовила самые вкусные блюда угощала любовника бедный старик вынужден довольствоваться сухим чуреком сыром кислым молоком</p>
-      <p>пока подрос плешивый сын</p>
-      <p>однажды отец ушел поле сын сидел крыше увидел дом крадучись входит незнакомый мужчина это подумал плешивый прильнул ухом печной трубе донесся веселый смех запах жареного мяса сын услыхал слова любовника</p>
-      <p>пойду поле приходи следом быка красный красный белыми пятнами заметить издали</p>
-      <p>ушел плешивый побежал отцу поле красных быка сын взял кислое молоко одном быков вывел белые пятна</p>
-      <p>вскоре увидели идет разодетая женщина большим узелком подошла ближе отец удивлением воскликнул</p>
-      <p>это жена разоделась несешь узелке</p>
-      <p>кроме еды сказала жена начала развязывать узелок</p>
-      <p>удивился муж яствам которые принесла жена поел большим удовольствием</p>
-      <p>второй день отец пошел косить сено плешивый сын залез крышу</p>
-      <p>пришел любовник плешивый подслушал слова</p>
-      <p>сегодня аульчане пошли косить сено участок легко найдешь яблочная кожура укажет тебе дорогу</p>
-      <p>любовник вышел плешивый отправился вслед подобрал кожуру раскидал дороге отцовскому сенокосу</p>
-      <p>пуще удивился старик увидел жену большим узлом</p>
-      <p>это случилось тобой жена удивился решила избаловать</p>
-      <p>кого баловать кроме любимого мужа ответила жена начала развязывать узел</p>
-      <p>отец сын плотно поели жена взяла рот кусочка третий день плешивый сын стал подслушивать понял отца хотят погубить</p>
-      <p>пойду завтра соседний аул мулле спрошу совета избавиться старика сказала жена любовник согласился</p>
-      <p>день рано утром плешивый побежал соседний аул мулле сказал</p>
-      <p>почтенный мулла тебе тумана это окажи небольшую услугу</p>
-      <p>охотно окажу сынок сказал обрадованный мулла приготовился слушать</p>
-      <p>разреши час надеть твою одежду</p>
-      <p>мулла увидел плохого отдал плешивому чалму халат посох</p>
-      <p>вскоре явилась жена узденя слезах начала умолять муллу помочь избавиться старого мужа</p>
-      <p>дорогая сказал мулла придешь домой зарежь самого крупного быка мясом накорми мужа сына станут доедать последний кусок упадут мертвыми</p>
-      <p>обрадовалась красавица сунула мулле тумана поскорее пошла домой</p>
-      <p>уздень вернулся домой увидел зарезанного быка кипящий котел полный мяса</p>
-      <p>наделала глупая женщина зарезала нашего лучшего быка воскликнул старик</p>
-      <p>глупец ответила жена посмотри похудел сын хорош одни кости кожа хочу немного подкормить</p>
-      <p>старик успокоился воздал хвалу аллаху дал такую заботливую жену</p>
-      <p>жена стала удивительно ласковой каждый день потчевала мужа самыми лакомыми кусками положила котел остатки мяса пошла любовником помощью спрятать трупы</p>
-      <p>отец пока спрашивай прошу послушайся прошептал сын проглотишь последний кусок мяса притворись мертвым</p>
-      <p>вскоре жена вернулась съедены последние куски отец сын воплями упали пол</p>
-      <p>входи входи скорее закричала женщина вдвоем любовником затащила трупы тахту</p>
-      <p>поставила огонь масло приготовить халву масло котле закипело сын крикнул держи воров выскочил тахты облил кипящим маслом любовника мачеху те бросились бежать говорят сих пор бегут наш молодец избавился парши прослыл самым умным парнем ауле</p>
-    </body>
-  </text>
-</TEI>
+     <head>29. Старый отец, его молодая жена и плешивый сын</head>
+     <p>женился жены жил молодой остался отец плешивый покойной соседке старик сын</p><p>бедный блюда вкусные времени вынужден готовила день довольствоваться жена жене каждый кислым любовника любовником мало молодой молоком муж мужчина поле приглянулся прошло работать самые случилось стал старик сухим сыром угощала уходил чуреком</p><p>плешивый подрос пока сын</p><p>веселый входит дом донесся жареного запах крадучись крыше любовника мужчина мяса незнакомый однажды отец печной плешивый подумал поле прильнул сидел слова смех сын сын трубе увидел услыхал ухом ушел это</p><p>белыми быка заметить издали красный красный пойду поле приходи пятнами следом</p><p>белые быка быков взял вывел кислое красных молоко одном отцу плешивый побежал поле пятна сын ушел</p><p>ближе большим воскликнул вскоре женщина идет отец подошла разодетая увидели удивлением узелком</p><p>жена несешь разоделась узелке это</p><p>еды жена кроме начала развязывать сказала узелок</p><p>большим жена которые муж поел принесла удивился удовольствием яствам</p><p>второй день залез косить крышу отец плешивый пошел сено сын</p><p>любовник плешивый подслушал пришел слова</p><p>аульчане дорогу кожура косить легко найдешь пошли сегодня сено тебе укажет участок яблочная</p><p>вслед вышел дороге кожуру любовник отправился отцовскому плешивый подобрал раскидал сенокосу</p><p>большим жену пуще старик увидел удивился узлом</p><p>жена избаловать решила случилось тобой удивился это</p><p>баловать жена кого кроме любимого мужа начала ответила развязывать узел</p><p>взяла день жена кусочка отец отца плешивый плотно погубить подслушивать поели понял рот стал сын сын третий хотят</p><p>аул жена завтра избавиться любовник мулле пойду сказала совета согласился соседний спрошу старика</p><p>аул день мулле плешивый побежал рано сказал соседний утром</p><p>мулла небольшую окажи почтенный тебе тумана услугу это</p><p>мулла обрадованный окажу охотно приготовился сказал слушать сынок</p><p>надеть одежду разреши твою час</p><p>мулла отдал плешивому плохого посох увидел халат чалму</p><p>вскоре жена избавиться мужа муллу начала помочь слезах старого узденя умолять явилась</p><p>быка доедать домой дорогая зарежь крупного кусок мертвыми мужа мулла мясом накорми последний придешь самого сказал станут сына упадут</p><p>домой красавица мулле обрадовалась поскорее пошла сунула тумана</p><p>быка вернулся домой зарезанного кипящий котел мяса полный увидел уздень</p><p>быка воскликнул глупая женщина зарезала лучшего наделала нашего старик</p><p>глупец жена кожа кости немного одни ответила подкормить посмотри похудел сын хорош хочу</p><p>аллаху воздал дал жену заботливую старик такую успокоился хвалу</p><p>день жена каждый котел кусками лакомыми ласковой любовником мужа мяса остатки положила помощью потчевала пошла самыми спрятать стала трупы удивительно</p><p>кусок мертвым мяса отец пока последний послушайся притворись проглотишь прошептал прошу спрашивай сын</p><p>вернулась воплями вскоре жена куски отец пол последние съедены сын упали</p><p>вдвоем входи входи женщина закричала затащила любовником скорее тахту трупы</p><p>ауле бегут бежать бросились воров выскочил говорят держи закипело избавился кипящим котле крикнул любовника масло масло маслом мачеху молодец наш облил огонь парнем парши пор поставила приготовить прослыл самым сих сын тахты те умным халву</p></body>
+   </text>
+  </TEI>

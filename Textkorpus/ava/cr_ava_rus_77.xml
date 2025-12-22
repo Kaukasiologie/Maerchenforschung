@@ -1,143 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>д. 131</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>д. 131</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Алиханов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Алиханов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_77">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_77">
     <body>
-      <head>43. Два брата</head>
-      <p>жили брата младший брат бедный старший богатый старший желал знаться младшим водил дружбу такими богачами</p>
-      <p>каждый младший брат навещал старшего любил хвастаться своими друзьями приговаривая</p>
-      <p>толку родственников родного брата другое дело мои верные друзья уверен трудный час придут помощь</p>
-      <p>однажды младший брат ушел обидевшись слова жена старшего сказала</p>
-      <p>кажется твой брат достойный человек напрасно обижаешь</p>
-      <p>предпочитаю своих друзей упорствовал муж</p>
-      <p>давай испытаем верность предложила жена</p>
-      <p>это сделать спросил муж</p>
-      <p>зарежем козла уложим мешок скажем это труп убитого тобой человека попросим друзей брата помочь нам скрыть мнимое убийство убедимся верности</p>
-      <p>согласился муж ночью отправился звать друзей помощь</p>
-      <p>сначала постучался дом самого близкого друга вышел опечаленно сказал</p>
-      <p>мной случилось ужасное несчастье случайно убил человека знаю спрятать труп поможешь друг</p>
-      <p>друг начал клясться сильно болен состоянии покинуть дом</p>
-      <p>второй друг также отказался пойти помочь сославшись болезнь жены остальные друзья попросту прогнали заявив хотят иметь никаких дел убийцей обойдя друзей всюду получив отказ пошел брату</p>
-      <p>выслушав рассказ старшего брата младший наспех оделся молча вышел дому войдя дом старшего брата взвалил мешок спину хотел уйти</p>
-      <p>надумал делать этим мешком спросила жена старшего брата</p>
-      <p>хочу утра спрятать укромном месте</p>
-      <p>оставь ка месте нам пригодится сказал старший брат рассказал правду</p>
-      <p>затем козлиная туша целиком сварена братья ночь пировали хотя козлиное мясо хуже баранины ту ночь оно казалось очень вкусным</p>
-      <p>тех пор старший брат отказался неверных друзей стал дружить младшим братом помогая всем</p>
-    </body>
-  </text>
-</TEI>
+     <head>43. Два брата</head>
+     <p>бедный богатый богачами брат брата водил дружбу желал жили знаться младший младшим старший старший такими</p><p>брат друзьями каждый любил младший навещал приговаривая своими старшего хвастаться</p><p>брата верные дело другое друзья мои помощь придут родного родственников толку трудный уверен час</p><p>брат жена младший обидевшись однажды сказала слова старшего ушел</p><p>брат достойный кажется напрасно обижаешь твой человек</p><p>друзей муж предпочитаю своих упорствовал</p><p>верность давай жена испытаем предложила</p><p>муж сделать спросил это</p><p>брата верности друзей зарежем козла мешок мнимое нам помочь попросим скажем скрыть тобой труп убедимся убийство убитого уложим человека это</p><p>друзей звать муж ночью отправился помощь согласился</p><p>близкого вышел дом друга опечаленно постучался самого сказал сначала</p><p>друг знаю мной несчастье поможешь случайно случилось спрятать труп убил ужасное человека</p><p>болен дом друг клясться начал покинуть сильно состоянии</p><p>болезнь брату всюду второй дел друг друзей друзья жены заявив иметь никаких обойдя остальные отказ отказался пойти получив помочь попросту пошел прогнали сославшись также убийцей хотят</p><p>брата брата взвалил войдя выслушав вышел дом дому мешок младший молча наспех оделся рассказ спину старшего старшего уйти хотел</p><p>брата делать жена мешком надумал спросила старшего этим</p><p>месте спрятать укромном утра хочу</p><p>брат ка месте нам оставь правду пригодится рассказал сказал старший</p><p>баранины братья вкусным затем казалось козлиная козлиное мясо ночь ночь оно очень пировали сварена ту туша хотя хуже целиком</p><p>брат братом всем дружить друзей младшим неверных отказался помогая пор стал старший тех</p></body>
+   </text>
+  </TEI>

@@ -1,147 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Rutulisch Folklore</title>
-        <title xml:lang="eng">Rutul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Rutulisch Folklore</title>
+      <title xml:lang="eng">Rutul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФ ИЯЛИ</institution>
+          <collection>Ф. 9. Оп. 1. Д. 392</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФ ИЯЛИ</institution>
-                <collection>Ф. 9. Оп. 1. Д. 392</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="rut">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
-          <settlement ref="https://www.geonames.org/500316/rutul.html">Rutul</settlement>
-          <geo/>
-        </placeName>
-        <date>1969</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.И.</forename>
-            <surname xml:lang="rus">Ибрагимов</surname>
-          </persName>
-          <age>90</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимовa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="rut">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
+       <settlement ref="https://www.geonames.org/500316/rutul.html">Rutul</settlement>
+       <geo />
+      </placeName>
+      <date>1969</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.И.</forename>
+        <surname xml:lang="rus">Ибрагимов</surname>
+       </persName>
+       <age>90</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимовa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_rut_rus_6">
+   </teiHeader>
+   <text xml:id="cr_rut_rus_6">
     <body>
-      <head>4. Газрат-Али и старец (рут.) </head>
-      <p>газрат али получил аллаха запрет ведение войны газрат али разозлился такая сила гнева проснулась нем аллах берегитесь раньше такие минуты шел воевать это запрещено решил использовать свои силы другому выехал цветущий майдан объявил</p>
-      <p>встречу человека который обманет раза убью</p>
-      <p>сказав это подпоясал меч зильфикар отправился путь</p>
-      <p>едет едет навстречу восьмидесятилетний старик остановил газрат али своего коня поздоровался спрашивает</p>
-      <p>скажи старик сколько тебе лет</p>
-      <p>сынок пятнадцать лет исполняется отвечает</p>
-      <p>газрат али посмотрел удивлением сказав слова продолжил задавать свои вопросы</p>
-      <p>сколько детей</p>
-      <p>сын джан сынок отвечает старик</p>
-      <p>сколько голов скота снова спрашивает газрат али</p>
-      <p>две головы отвечает старик</p>
-      <p>спокойно ответив вопросы старик последовал дальше газратали возмущенный стегнув своего коня дулдула отправился старцем убедиться правдивы ответы</p>
-      <p>вскоре встретились джигита которые гнали стадо овец коров узнал сыновья старца это огромное стадо принадлежит отцу выслушав это газрат али возмутился вернулся старцу поздоровался спрашивает</p>
-      <p>старик трижды обманул знал убью каждого обманет</p>
-      <p>джан сынок обманывал ответил старец удивлен сказал пятнадцать лет восемьдесят считаю достойными внимания лишь те пятнадцать стал молиться самым служить аллаху это настоящий возраст прожито это жизнь впустую той жизни умен понимал красоты мира смысла настоящего радости жизни мусульманина поэтому годы считаю прожитыми</p>
-      <p>сказал тебе имею две головы скотины сказал огромного стада имею двух овец украли воры сделал халал т е простил это садака судный день предстанет предо мною сделают стада мои сыновья кому отдадут кого покормят знаю принадлежат</p>
-      <p>сказал ребенок хотя видел осталось трое сыновей сын семилетием возрасте умер единственный ребенок который принадлежит оплакиваю забочусь душе раздаю садака молюсь могиле те трое джигитов которых видел имеют своих жен детей принадлежат могу назвать своими сыновьями ответь пророк</p>
-      <p>удивился пророк газрат али мудрый старец поэтому поблагодарив собеседника согласился попрощался руку успокоился ушел злость прошла остались вернулся сюда</p>
-    </body>
-  </text>
-</TEI>
+     <head>4. Газрат-Али и старец (рут.) </head>
+     <p>али али аллах аллаха берегитесь ведение воевать войны выехал газрат газрат гнева другому запрет запрещено использовать майдан минуты нем объявил получил проснулась разозлился раньше решил свои сила силы такая такие цветущий шел это</p><p>встречу который обманет раза убью человека</p><p>зильфикар меч отправился подпоясал путь сказав это</p><p>али восьмидесятилетний газрат едет едет коня навстречу остановил поздоровался своего спрашивает старик</p><p>лет скажи сколько старик тебе</p><p>исполняется лет отвечает пятнадцать сынок</p><p>али вопросы газрат задавать посмотрел продолжил свои сказав слова удивлением</p><p>детей сколько</p><p>джан отвечает старик сын сынок</p><p>али газрат голов сколько скота снова спрашивает</p><p>головы две отвечает старик</p><p>возмущенный вопросы газратали дальше дулдула коня ответив ответы отправился последовал правдивы своего спокойно старик старцем стегнув убедиться</p><p>али вернулся возмутился вскоре встретились выслушав газрат гнали джигита коров которые овец огромное отцу поздоровался принадлежит спрашивает стадо стадо старца старцу сыновья узнал это это</p><p>знал каждого обманет обманул старик трижды убью</p><p>аллаху внимания возраст восемьдесят впустую годы джан достойными жизни жизни жизнь красоты лет лишь мира молиться мусульманина настоящего настоящий обманывал ответил понимал поэтому прожито прожитыми пятнадцать пятнадцать радости самым сказал служить смысла стал старец считаю считаю сынок те той удивлен умен это это</p><p>воры головы две двух день е знаю имею имею кого кому мною мои овец огромного отдадут покормят предо предстанет принадлежат простил садака сделал сделают сказал сказал скотины стада стада судный сыновья т тебе украли халал это</p><p>видел видел возрасте детей джигитов душе единственный жен забочусь имеют который которых могиле могу молюсь назвать оплакиваю осталось ответь принадлежат принадлежит пророк раздаю ребенок ребенок садака своими своих семилетием сказал сын сыновей сыновьями те трое трое умер хотя</p><p>али вернулся газрат злость мудрый остались поблагодарив попрощался поэтому пророк прошла руку собеседника согласился старец сюда удивился успокоился ушел</p></body>
+   </text>
+  </TEI>

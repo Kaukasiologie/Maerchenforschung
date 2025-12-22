@@ -1,158 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>д. 137</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>д. 137</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1953</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Алиханов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1953</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Алиханов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_36">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_36">
     <body>
-      <head>3. Как волк решил покаяться</head>
-      <p>жил свете огромный волк который наводил ужас таскал скотину убивал зверей постепенно звери начали чуждаться остался волк полном одиночестве</p>
-      <p>увидел волк дела плохи подумал крови пролил немало бед наделал никто хочет знаться мной пора изменить волчий образ жизни</p>
-      <p>решил волк покаяться побежал объявить всем зверям встретил осла</p>
-      <p>здравствуй осел шарахайся решил стать другим</p>
-      <p>волк будем этому очень рады ответил осел стал мирно щипать траву</p>
-      <p>побежал волк дальше встретил быка</p>
-      <p>решил волк покаяться побежал объявить всем зверям встретил осла</p>
-      <p>здравствуй осел шарахайся решил стать другим</p>
-      <p>волк будем этому очень рады ответил осел стал мирно щипать траву</p>
-      <p>побежал волк дальше встретил быка</p>
-      <p>бык беги слышал никого трогаю обижаю</p>
-      <p>очень рад волк желаю тебе удачи ответил бык</p>
-      <p>волк побежал дальше встретил лошадь</p>
-      <p>лошадь лошадь пугайся знаешь раскаялся обижаю никого ягнят</p>
-      <p>ах брат волк это хорошие вести обрадовалась лошадь</p>
-      <p>волк бегал бегал проголодался делать животе волка урчало поблизости мирно паслись лошадь бык осел</p>
-      <p>проклят час раскаялся воскликнул волк побежал обратно лошади</p>
-      <p>здравствуй волк рада видеть дружелюбно сказала лошадь</p>
-      <p>здравствовать тебе осталось мало готовься смерти зарычал волк</p>
-      <p>раскаялся обещал никого трогать</p>
-      <p>брось болтать глупости съем</p>
-      <p>пусть твоему хотела отдать тебе свое завещание которому получишь целый табун оно правом копыте</p>
-      <p>давай сюда завещание закричал обрадованный волк</p>
-      <p>нагнулся получил сильный удар отлетел сторону удара голод прошел волк побежал быку</p>
-      <p>съем заорал волк хотел прыгнуть спину быка</p>
-      <p>раскаялся удивленно промычал бык</p>
-      <p>некогда тобой болтать готовься умереть</p>
-      <p>пусть твоему жалко можешь лишиться большого наследства правом роге хранится завещание стадо самых упитанных быков</p>
-      <p>оно нетерпеливо взвыл волк потянулся рогам</p>
-      <p>бык ждал могучим ударом отбросил волка далеко</p>
-      <p>обманешь подумал волк подбегая ослу свирепо зарычал</p>
-      <p>готовься смерти поживее</p>
-      <p>погоди немного убить успеешь моим завещанием забыл дома разреши сбегать</p>
-      <p>бояться осла твердых копыт острых рогов решил волк отпустил осла домой</p>
-      <p>долго ждал волк прибежали люди палками отколотили еле ноги унес</p>
-    </body>
-  </text>
-</TEI>
+     <head>3. Как волк решил покаяться</head>
+     <p>волк волк жил зверей звери который наводил начали огромный одиночестве остался полном постепенно свете скотину таскал убивал ужас чуждаться</p><p>бед волк волчий дела жизни знаться изменить крови мной наделал немало никто образ плохи подумал пора пролил увидел хочет</p><p>волк всем встретил зверям объявить осла побежал покаяться решил</p><p>другим здравствуй осел решил стать шарахайся</p><p>будем волк мирно осел ответил очень рады стал траву щипать этому</p><p>быка волк встретил дальше побежал</p><p>волк всем встретил зверям объявить осла побежал покаяться решил</p><p>другим здравствуй осел решил стать шарахайся</p><p>будем волк мирно осел ответил очень рады стал траву щипать этому</p><p>быка волк встретил дальше побежал</p><p>беги бык никого обижаю слышал трогаю</p><p>бык волк желаю ответил очень рад тебе удачи</p><p>волк встретил дальше лошадь побежал</p><p>знаешь лошадь лошадь никого обижаю пугайся раскаялся ягнят</p><p>ах брат вести волк лошадь обрадовалась хорошие это</p><p>бегал бегал бык волк волка делать животе лошадь мирно осел паслись поблизости проголодался урчало</p><p>волк воскликнул лошади обратно побежал проклят раскаялся час</p><p>видеть волк дружелюбно здравствуй лошадь рада сказала</p><p>волк готовься зарычал здравствовать мало осталось смерти тебе</p><p>никого обещал раскаялся трогать</p><p>болтать брось глупости съем</p><p>завещание копыте которому оно отдать получишь правом пусть свое табун твоему тебе хотела целый</p><p>волк давай завещание закричал обрадованный сюда</p><p>быку волк голод нагнулся отлетел побежал получил прошел сильный сторону удар удара</p><p>быка волк заорал прыгнуть спину съем хотел</p><p>бык промычал раскаялся удивленно</p><p>болтать готовься некогда тобой умереть</p><p>большого быков жалко завещание лишиться можешь наследства правом пусть роге самых стадо твоему упитанных хранится</p><p>взвыл волк нетерпеливо оно потянулся рогам</p><p>бык волка далеко ждал могучим отбросил ударом</p><p>волк зарычал обманешь ослу подбегая подумал свирепо</p><p>готовься поживее смерти</p><p>дома забыл завещанием моим немного погоди разреши сбегать убить успеешь</p><p>бояться волк домой копыт осла осла острых отпустил решил рогов твердых</p><p>волк долго еле ждал люди ноги отколотили палками прибежали унес</p></body>
+   </text>
+  </TEI>

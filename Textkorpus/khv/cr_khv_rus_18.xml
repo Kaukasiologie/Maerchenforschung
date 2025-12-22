@@ -1,136 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/548960/khvayni.html">Khvayni</settlement>
-          <geo/>
-        </placeName>
-        <date>2010</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Баянат М.</forename>
-            <surname xml:lang="rus">Силахудинова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1997</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/548960/khvayni.html">Khvayni</settlement>
+       <geo />
+      </placeName>
+      <date>2010</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Баянат М.</forename>
+        <surname xml:lang="rus">Силахудинова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1997</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_18">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_18">
     <body>
-      <head>КОСАКРАСА И СЁСТРЫ </head>
-      <p>одних родителей дочери среди дочерей самая добрая самая красивая младшая девушки длинная красивая матери коса обе старшие которых волосы короче ничем занимались кроме постоянно глядели зеркало одна самая младшая длинными волосами хлопотавшая обо всём кружась вокруг матери выполняла любую работу те обе смеялись звали младшую коса краса вскоре изнурительного труда скончалась мать смертью мать завещанию отписала косе красе гребень некоторое время собрался отец выехать село заработки спросил отец дочерей какие подарки привезти старшая заказала платье которое стоит бросают её наземь средняя золотые серьги младшая семя красивых цветов посадить могиле матери</p>
-      <p>уехал отец сестры стали обижать младшую избивали её давали еду заставляли выполнять работу</p>
-      <p>однажды вечером сёстры хотели зажечь огонь спохватились лучин закончились отправили сёстры косу красу лучиной старухе карт старуха карт велела девушке прибраться её доме пообещав та закончит уборку отдать лучину коса краса прибрав всё напоследок подметала дом старуха карт увидела длинные красивые волосы девушки уборки карт угостила девушку поставила стол воду подсыпав неё какоето снадобье поела коса краса выпила воду её волосы вместе очаровательной косой выпали пол голова облысела отдав огонь лучину отпустила старуха карт девушку домой пришла домой обе сестры начали хохотать поняв чём причина подошла коса краса зеркальцу увидела облысевшую голову</p>
-      <p>побежала могиле матери долго горько плакала горячая слеза любимой дочери капнула могилу услышала голос матери которая напомнила гребне которую отписала завещании сказала расчешёт голову волосы станут прежними</p>
-      <p>вернувшись домой коса краса провела голове гребнем выросли неё волосы пышнее красивее прежде увидев всё это разрыва сердец скончались сёстры</p>
-      <p>это время деньгами подарками дочерей вернулся домой отец найдя доме никого кроме косы красы отец расспросил её её сёстры рассказала коса краса случившемся подарки которые отец привёз сестёр достались семя разных красивых цветов посадила коса краса могиле матери прошло немного времени засватали косу красу самого славного парня села вышла замуж вели хозяйство исправно родились красивые мать славные отец дети закончилась сказка лопнула торба</p>
-    </body>
-  </text>
-</TEI>
+     <head>КОСАКРАСА И СЁСТРЫ </head>
+     <p>бросают вокруг волосами волосы время вскоре всём выехать выполняла глядели гребень девушки длинная длинными добрая дочерей дочерей дочери её завещанию заказала занимались заработки звали зеркало золотые изнурительного какие короче коса коса косе которое которых краса красе красивая красивая красивых кроме кружась любую матери матери матери мать мать младшая младшая младшая младшую могиле наземь некоторое ничем обе обе обо одна одних отец отец отписала платье подарки посадить постоянно привезти работу родителей самая самая самая село семя серьги скончалась смертью смеялись собрался спросил среди средняя старшая старшие стоит те труда хлопотавшая цветов</p><p>выполнять давали еду её заставляли избивали младшую обижать отец работу сестры стали уехал</p><p>велела вечером вместе воду воду волосы волосы всё выпали выпила голова голову девушке девушки девушку девушку длинные дом доме домой домой её её зажечь закончились закончит зеркальцу какоето карт карт карт карт карт коса коса коса косой косу краса краса краса красивые красу лучин лучиной лучину лучину напоследок начали неё обе облысевшую облысела огонь огонь однажды отдав отдать отправили отпустила очаровательной подметала подошла подсыпав поела пол поняв пообещав поставила прибрав прибраться причина пришла сестры снадобье спохватились старуха старуха старуха старухе стол сёстры сёстры та уборки уборку увидела увидела угостила хотели хохотать чём</p><p>волосы голову голос горько горячая гребне долго дочери завещании капнула которая которую любимой матери матери могиле могилу напомнила отписала плакала побежала прежними расчешёт сказала слеза станут услышала</p><p>вернувшись волосы всё выросли голове гребнем домой коса краса красивее неё прежде провела пышнее разрыва сердец скончались сёстры увидев это</p><p>вели вернулся времени время вышла деньгами дети доме домой достались дочерей её её закончилась замуж засватали исправно коса коса косу косы которые краса краса красивые красивых красу красы кроме лопнула матери мать могиле найдя немного никого отец отец отец отец парня подарками подарки посадила привёз прошло разных рассказала расспросил родились самого села семя сестёр сказка славного славные случившемся сёстры торба хозяйство цветов это</p></body>
+   </text>
+  </TEI>

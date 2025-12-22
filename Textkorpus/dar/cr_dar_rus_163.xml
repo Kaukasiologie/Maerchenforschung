@@ -1,145 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/551590/kaytagskiy-rayon.html">Kaytagskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/532314/madzhalis.html">Madzhalis</settlement>
-          <geo/>
-        </placeName>
-        <date>1957</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Магомед</forename>
-            <surname xml:lang="rus">Арсланбѳков</surname>
-          </persName>
-          <age>З.</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Абдуллаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/551590/kaytagskiy-rayon.html">Kaytagskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/532314/madzhalis.html">Madzhalis</settlement>
+       <geo />
+      </placeName>
+      <date>1957</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Магомед</forename>
+        <surname xml:lang="rus">Арсланбѳков</surname>
+       </persName>
+       <age>З.</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Абдуллаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_163">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_163">
     <body>
-      <head>МУЛЛА ПАСРЕДДИН И АЗРАИЛ</head>
-      <p>однажды насреддин заболел пришел нему азраил отпять пего душу подойдя постели насреддина уселся изголовья насреддин повер пулся лег ногами нему азраил пересел оказался изголовья насреддин повернулся азраил менялись местами несколько насреддин понял таким путем азраила избавишься попросил азраил разрешил пожить пока см совершит двух намазов азраил полетел аллаху передать просьбу насреддина</p>
-      <p>такое дело отнимай пего жизни пока совершит двух намазов сказал аллах</p>
-      <p>прилетел азраил насреддину передал разрешение аллаха насреддин встал совершил омовение намаз затем оп оделся надел сапоги стал собираться улицу</p>
-      <p>постой постой забеспокоился азраил тебе мало осталось жить почему совершаешь второго намаза разрешенного аллахом</p>
-      <p>это тебе сказал осталось мало жить усмехнулся насреддин аллах дал разрешение жить пока совершу двух намазов совершил второй совершу захочу какое тебе дело знай свое дело свое</p>
-      <p>растерялся азраил полетел аллаху рассказал хитрости насреддина</p>
-      <p>ичсго нс поделаешь сказал аллах сами дали жизнь время пока совершит двух намазов второго намаза жизнь смерть находятся собственных руках постарайся пока жив нажить помощью богатство</p>
-      <p>азр анл пошел насреддину говорит</p>
-      <p>давай вместе будем странствовать ио миру лечить людей наживать богатство будем приходить тяжел обол ьпым предлагать свои услуги родственникам человек должен умереть буду садиться изголовья говори человека вылечить умрет человеку пришло время умирать буду садиться ног садись изголовья берись вылечить ибо оп выздоровеет заработаем пополам</p>
-      <p>пошли странствовать белу свету вылечивая больных накопили богатств пришли этими богатствами дом насреддина насреддин целыми днями гулял веселился азраил нетерпением ждал дня насреддин разделит добытые наш богатства прождав несколько педель дождавшись ле вытерпел говорит насреддину</p>
-      <p>пора улетать давай ка разделим наши богатства</p>
-      <p>ту улетай мпе дело держу это разговор каких это наших богатствах говоришь спросил насреддин делая вид очень удивлен</p>
-      <p>го это каких возмутился азраил те богатства которые накопили странствуя вместе</p>
-      <p>л вспомни заработал ле растерялся насреддин стоило тебе сесть изголовья начать лечить человека умирал садился изголовья лечил человек выздоравливал вылечивал больных п богатство получил одного человека вылечил доли твоей иди попробуй получить плату тех людей которые умерли твоего врачевания пи платил рассердился азраил полетел небо стал жаловаться аллаху насреддин обманул</p>
-      <p>доделаешь сказал аллах нрав нечего пам спорить</p>
-      <p>насреддин дважды обманул азраила жизни пе отдал совершив второго намаза богатств отдал нажитых помощью</p>
-    </body>
-  </text>
-</TEI>
+     <head>МУЛЛА ПАСРЕДДИН И АЗРАИЛ</head>
+     <p>азраил азраил азраил азраил азраил азраила аллаху двух душу заболел избавишься изголовья изголовья лег менялись местами намазов насреддин насреддин насреддин насреддин насреддина насреддина нему нему несколько ногами однажды оказался отпять пего передать пересел повер повернулся подойдя пожить пока полетел понял попросил постели пришел просьбу пулся путем разрешил см совершит таким уселся</p><p>аллах двух дело жизни намазов отнимай пего пока сказал совершит такое</p><p>азраил аллаха встал затем надел намаз насреддин насреддину оделся омовение оп передал прилетел разрешение сапоги собираться совершил стал улицу</p><p>азраил аллахом второго жить забеспокоился мало намаза осталось постой постой почему разрешенного совершаешь тебе</p><p>аллах второй дал двух дело дело жить жить захочу знай какое мало намазов насреддин осталось пока разрешение свое свое сказал совершил совершу совершу тебе тебе усмехнулся это</p><p>азраил аллаху насреддина полетел рассказал растерялся хитрости</p><p>аллах богатство время второго дали двух жив жизнь жизнь ичсго нажить намаза намазов находятся нс поделаешь пока пока помощью постарайся руках сами сказал смерть собственных совершит</p><p>азр анл говорит насреддину пошел</p><p>берись богатство будем будем буду буду вместе время выздоровеет вылечить вылечить говори давай должен заработаем ибо изголовья изголовья ио лечить людей миру наживать ног обол оп пополам предлагать приходить пришло родственникам садись садиться садиться свои странствовать тяжел умереть умирать умрет услуги человек человека человеку ьпым</p><p>азраил белу богатств богатства богатствами больных веселился вылечивая вытерпел говорит гулял дня днями добытые дождавшись дом ждал ле накопили насреддин насреддин насреддина насреддину наш несколько нетерпением педель пошли пришли прождав разделит свету странствовать целыми этими</p><p>богатства давай ка наши пора разделим улетать</p><p>богатствах вид говоришь делая дело держу каких мпе насреддин наших очень разговор спросил ту удивлен улетай это это</p><p>азраил богатства вместе возмутился го каких которые накопили странствуя те это</p><p>азраил аллаху богатство больных врачевания вспомни выздоравливал вылечивал вылечил доли жаловаться заработал иди изголовья изголовья которые л ле лечил лечить людей насреддин насреддин начать небо обманул одного п пи платил плату полетел получил получить попробуй рассердился растерялся садился сесть стал стоило твоего твоей тебе тех умерли умирал человек человека человека</p><p>аллах доделаешь нечего нрав пам сказал спорить</p><p>азраила богатств второго дважды жизни нажитых намаза насреддин обманул отдал отдал пе помощью совершив</p></body>
+   </text>
+  </TEI>

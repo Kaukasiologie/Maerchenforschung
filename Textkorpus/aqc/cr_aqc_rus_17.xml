@@ -1,133 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Микаилов К.Ш., Арчинский язик(Грамматичесский очерк с текстами и словарем)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Дагестанский филиал АН СССР. Институт истории, язика и литератури имени Г. Цадаси. Маьачкала, 1967 </publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Микаилов К.Ш., Арчинский язик(Грамматичесский очерк с текстами и словарем)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Дагестанский филиал АН СССР. Институт истории, язика и литератури имени Г. Цадаси. Маьачкала, 1967 </publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1962-1964</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">К.Ш.</forename>
-            <surname xml:lang="rus">Микаилов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1962-1964</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">К.Ш.</forename>
+        <surname xml:lang="rus">Микаилов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_17">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_17">
     <body>
-      <head>***</head>
-      <p>одна старая женщина неё сын бедные поесть нс однажды нашли па дороге копейки деньги некоторое время хранили деньги однажды мальчик взял деньги пошёл па базар дошёл базара увидел детей спрятался стал смотреть делают побежал увидел убивают кошку мальчик сказал ка нс убивайте кошку продайте её деньги отдав деньги мальчик забрал кошку взяв коптку оч пошёл домой матери нашел пришла мать мальчик показывает кошку посмотри мать кошку которую купил мать заплакав закричала её купил говорит дам денег сказала сына мать ещё денег приберегла временем деньги умножились</p>
-      <p>парень поклялся тратить денег</p>
-      <p>взяв еду денег парень пошёл базар</p>
-      <p>дойдя места увидел убивали змею парень сказал убивайте змею продайте взяв змею мальчик пошел домой дошёл одного места змея начала бить хвостом парень спросил почему вырываешься мол змея говорит оставь та пора дом эта змея сказала приходи сюда любое время тебе вещь понадобится парень ушёл домой</p>
-      <p>нашёл мать сидящей еда</p>
-      <p>сын открыл дверь мать спросила еда говорит мама любой час получим еду денег пошёл вон сказала мать побив ею почему тратишь деньги ненужное дело однажды проголодались мать сказала пошли едой говорил пойдёшь едой денег пошёл парень едой умирая радости парень дошёл места отпустил змею мальчик прошел туда дыру пору нашёл одного человека который сидел домом человек чертей человек сказал пришёл пришёл змее еду дай сказать человек сказал змее скажи дай платок скажи</p>
-      <p>парень пошёл внутрь дома открыв двери</p>
-      <p>зашёл внутрь змеи бросились нему укусить эта большая змея среди эта змея сказала осторожно кусайте освободил говорит змеи отступили эта большая змея сказала тебе нужно мальчик сказал дай платок мол змея разозлилась напомнил тебе бог сердце пего разорвал дать сказав сказала взяв платок парень пошел домой нашел человека человек подожди сказал пока вернись вернувшись подошёл той змее скажи дай палку змеи ногам легли эта змея сказала это надоумил пусть рот разорвется дать сказав дала это взяв вышел наружу нашёл человека человек сказал платок имя бога сказав расстели собой тобой появится пиша парод кормить платок люди украдут скажи всем людям идите посмотреть одно чудо скажи соберутся палку отпусти приговаривая вур вур вур захочешь опа вернулась говори назад назад назад вернётся пошёл домой умирая радости придя домой мать вокруг платка расстелив стали ними появилось еды мать очень обрадовалась</p>
-      <p>решили созвать народ кормить ушёл звать собрал людей пришёл люди воры нехорошие люди рассадив этих людей расстелив ними платок сказал имя бога</p>
-      <p>каких вещей люди поели решил вместо платка положить свой люди забрав платок пошли домой сын мать проголодались расстелили собой платок делали еда нс появилась парень вспомнил сказал большой человек парень собрал этих людей ка посмотрите чудо взяв ту палку парень пустил её сказав вур л палка подошла прямо укравшему платок начала эта палка колотить человека человек бросил платок парень вернул палку назад забрав палку платок пошёл домой люди ушли мать сыном разбогатели платок</p>
-    </body>
-  </text>
-</TEI>
+     <head>***</head>
+     <p>базар базара бедные взяв взял временем время говорит дам делают денег денег деньги деньги деньги деньги деньги деньги детей домой дороге дошёл ещё её её женщина забрал закричала заплакав ка копейки коптку которую кошку кошку кошку кошку кошку купил купил мальчик мальчик мальчик мальчик матери мать мать мать мать нашел нашли некоторое неё нс нс одна однажды однажды отдав оч па па побежал поесть показывает посмотри пошёл пошёл приберегла пришла продайте сказал сказала смотреть спрятался стал старая сын сына убивайте убивают увидел увидел умножились хранили</p><p>денег парень поклялся тратить</p><p>базар взяв денег еду парень пошёл</p><p>бить вещь взяв время вырываешься говорит дойдя дом домой домой дошёл змею змею змею змея змея змея любое мальчик места места мол начала одного оставь парень парень парень понадобится пора почему пошел приходи продайте сказал сказала спросил сюда та тебе убивайте убивали увидел ушёл хвостом эта</p><p>еда мать нашёл сидящей</p><p>вон говорил говорит дай дай дверь дело денег денег деньги домом дошёл дыру еда едой едой едой еду еду ею змее змее змею который любой мальчик мама мать мать мать места нашёл ненужное однажды одного открыл отпустил парень парень платок побив пойдёшь получим пору почему пошли пошёл пошёл пришёл пришёл проголодались прошел радости сидел скажи скажи сказал сказал сказала сказала сказать спросила сын тратишь туда умирая час человек человек человек человека чертей</p><p>внутрь двери дома открыв парень пошёл</p><p>бог бога большая большая бросились вернись вернувшись вернулась вернётся взяв взяв внутрь вокруг всем вур вур вур вышел говори говорит дай дай дала дать дать домой домой домой еды захочешь зашёл змее змеи змеи змеи змея змея змея змея змея идите имя кормить кусайте легли люди людям мальчик мать мать мол надоумил назад назад назад напомнил наружу нашел нашёл нему ними ногам нужно обрадовалась одно опа освободил осторожно отпусти отступили очень палку палку парень парод пего пиша платка платок платок платок платок подожди подошёл пока посмотреть пошел пошёл появилось появится приговаривая придя пусть радости разозлилась разорвал разорвется расстели расстелив рот сердце скажи скажи скажи сказав сказав сказав сказал сказал сказал сказала сказала сказала сказала соберутся собой среди стали тебе тебе тобой той украдут укусить умирая человек человек человека человека чудо эта эта эта эта это это</p><p>бога воры звать имя кормить людей людей люди люди народ нехорошие ними платок пришёл рассадив расстелив решили сказал собрал созвать ушёл этих</p><p>большой бросил вернул вещей взяв вместо вспомнил вур делали домой домой еда её забрав забрав ка каких колотить л людей люди люди люди мать мать назад начала нс палка палка палку палку палку парень парень парень парень платка платок платок платок платок платок платок подошла поели положить посмотрите пошли пошёл появилась проголодались прямо пустил разбогатели расстелили решил свой сказав сказал собой собрал сын сыном ту укравшему ушли человек человек человека чудо эта этих</p></body>
+   </text>
+  </TEI>

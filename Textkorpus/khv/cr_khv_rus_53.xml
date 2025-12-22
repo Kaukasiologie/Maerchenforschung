@@ -1,145 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
-          <geo/>
-        </placeName>
-        <date>2010</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Силахудин М.</forename>
-            <surname xml:lang="rus">Каримов</surname>
-          </persName>
-          <age/>
-          <birth>
-            1998
-            <date/>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
+       <geo />
+      </placeName>
+      <date>2010</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Силахудин М.</forename>
+        <surname xml:lang="rus">Каримов</surname>
+       </persName>
+       <age />
+       <birth>1998<date />
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_53">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_53">
     <body>
-      <head>СКАЗКА О ТОМ, КАК ХУРМА СТАЛА ДЕРЕВОМ </head>
-      <p>одной старушки огороде росло хурмовое дерево старушка ухаживала весной разрыхляла зем лю вокруг летом поливала осенью навозом удобряла росло хурмовое дерево славненьким радость старушке труд её даром пропадал осенью дерево одаривало хозяйку хорошим урожаем горах климат суровый поэтому хурма поспевает поздно осенью</p>
-      <p>однажды самый хурма поспела случилось</p>
-      <p>висела хурма дереве радовалась красивая платье бархатное теплое мороз страшен шапочка тоненькая дождь пропустит лета дереве перезимую</p>
-      <p>радовалась радовалась чтото тёплое коснулось её дернуло хурму дерева успела хурма крикнуть ай это старушкина коза какимто образом умудрилась попасть огород решила полакомиться хурмой</p>
-      <p>несколько минут чтото крутило хурму мельнице скоростью скользнула вниз оказалась тёмной тёплой ямке</p>
-      <p>полежала полежала хурма пощупала шапку потрогала бархатное платье всё месте</p>
-      <p>делать буду опечалилась родного дерева вон унесло одно радует теплее листьями дерева</p>
-      <p>лежала хурма печальная невесёлая яме лежачем положении всё время двигалась какомто направлении сколько времени яме провела хурма могла определить темно непонятно день это ночь пролежала яме неизвестно сколько пока чтото вытолкнуло её ямы вместе какойто густой теплой жидкостью оказалась светлом месте это коза справила естественную надобность старушка отнесла навоз бросила хурмовое дерево</p>
-      <p>вытянулась хурма почистила лица грязь оглянулась вокруг радостьто лежит её родным деревом очень холодно её теплым платьем стало непонятно ветер рвал золотые листья бросал мокрую землю</p>
-      <p>теплее стало сказала хурма прикрылась листьями поворочалась улеглась поудобнее заснула</p>
-      <p>шло время отшумели метели пригрело солнышко зазвенели ручьи неудобно стало хурме лежать мокрой земле повертелась поднялась</p>
-      <p>глядика листочки деревьях распустились воскликнула</p>
-      <p>попробовала перекатиться родному дереву чтото держало её глянула вниз ахнула</p>
-      <p>ноги растут хотела шапку поправить листочки вырос стала хурма расти расти лету стала маленьким деревом</p>
-    </body>
-  </text>
-</TEI>
+     <head>СКАЗКА О ТОМ, КАК ХУРМА СТАЛА ДЕРЕВОМ </head>
+     <p>весной вокруг горах даром дерево дерево дерево её зем климат летом лю навозом огороде одаривало одной осенью осенью осенью поздно поливала поспевает поэтому пропадал радость разрыхляла росло росло славненьким старушка старушке старушки суровый труд удобряла урожаем ухаживала хозяйку хорошим хурма хурмовое хурмовое</p><p>однажды поспела самый случилось хурма</p><p>бархатное висела дереве дереве дождь красивая лета мороз перезимую платье пропустит радовалась страшен теплое тоненькая хурма шапочка</p><p>ай дерева дернуло её какимто коза коснулось крикнуть образом огород полакомиться попасть радовалась радовалась решила старушкина тёплое умудрилась успела хурма хурмой хурму чтото это</p><p>вниз крутило мельнице минут несколько оказалась скользнула скоростью тёмной тёплой хурму чтото ямке</p><p>бархатное всё месте платье полежала полежала потрогала пощупала хурма шапку</p><p>буду вон делать дерева дерева листьями одно опечалилась радует родного теплее унесло</p><p>бросила вместе времени время всё вытолкнуло густой двигалась день дерево естественную её жидкостью какойто какомто коза лежала лежачем месте могла навоз надобность направлении невесёлая неизвестно непонятно ночь оказалась определить отнесла печальная пока положении провела пролежала светлом сколько сколько справила старушка темно теплой хурма хурма хурмовое чтото это это яме яме яме ямы</p><p>бросал ветер вокруг вытянулась грязь деревом её её землю золотые лежит листья лица мокрую непонятно оглянулась очень платьем почистила радостьто рвал родным стало теплым холодно хурма</p><p>заснула листьями поворочалась поудобнее прикрылась сказала стало теплее улеглась хурма</p><p>время зазвенели земле лежать метели мокрой неудобно отшумели повертелась поднялась пригрело ручьи солнышко стало хурме шло</p><p>воскликнула глядика деревьях листочки распустились</p><p>ахнула вниз глянула дереву держало её перекатиться попробовала родному чтото</p><p>вырос деревом лету листочки маленьким ноги поправить расти расти растут стала стала хотела хурма шапку</p></body>
+   </text>
+  </TEI>

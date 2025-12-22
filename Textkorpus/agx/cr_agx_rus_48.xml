@@ -1,136 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Agulische Folklore</title>
-        <title xml:lang="eng">Agul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Agulische Folklore</title>
+      <title xml:lang="eng">Agul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="kat">ალ. მაჰომეტოვი, აღულური ენა (გამოკვლევა და ტექსტები)</title>
+        <title xml:lang="rus">А.А. Магометов, Агульский язкык (Исследование и тексты)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1970</publisher>
+        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1970, стр. 226-227.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="kat">ალ. მაჰომეტოვი, აღულური ენა (გამოკვლევა და ტექსტები)</title>
-            <title xml:lang="rus">А.А. Магометов, Агульский язкык (Исследование и тексты)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა &quot;მეცნიერება&quot;. თბილისი, 1970</publisher>
-            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство &quot;Мецниереба&quot;. Тбилиси, 1970, стр. 226-227.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="agx">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/570798/burkikhan.html">Burkikhan</settlement>
-          <geo/>
-        </placeName>
-        <date>1957</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Магомед</forename>
-            <surname xml:lang="rus">Рашайев</surname>
-          </persName>
-          <age>21</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.А.</forename>
-            <surname xml:lang="rus">Магометов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="agx">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/570798/burkikhan.html">Burkikhan</settlement>
+       <geo />
+      </placeName>
+      <date>1957</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Магомед</forename>
+        <surname xml:lang="rus">Рашайев</surname>
+       </persName>
+       <age>21</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.А.</forename>
+        <surname xml:lang="rus">Магометов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_agx_rus_48">
+   </teiHeader>
+   <text xml:id="cr_agx_rus_48">
     <body>
-      <head>ТРИ БРАТА</head>
-      <p>говорят нс говорят одного отца сына муса иса али отец заболел завещанием отца умрет вынуть вещь закопанную около могилы отец умер</p>
-      <p>муса тайно пошел копал около могилы найдя пришел иса следующий день пошел могилу отца копал ю найдя пришел али й день пошел тайно другие братья знали выкопав край могилы вытащил золотой мяч принеся домой спрятал пишу узнали муса иса</p>
-      <p>дней день трое братьев собравшись вместе разговор повели исполнил завещание отца али признался исполнил завещание отца</p>
-      <p>трое братьев обеднели пошли нищенствовать появились стране остановились качестве гостей доме царя</p>
-      <p>дома дочь тамара очень красивая тонкой талией черноволосая черные волосы имеющая черноокая солнцу подобно сверкающая девушка полюбила тли спать сидеть ходить вставать могла девушка влюбившись али</p>
-      <p>хитрости девушки али убил своих братьев мусу ису ио хитрости юноши убили брата девушки галима н отца</p>
-      <p>собрали стране своих владениях находящихся музыкантов зурначей барабанщиков гармонистов красивых девушек молодых юношей старух стариков шесть дней ночей шла свадьба девушка досталась юноше юноша девушке</p>
-      <p>остались гармонистом шесть суток опал пи одной копейки денег получил зад коленкой ударив прогнали сюда сегодня письмо пришло али говорит дочерей сыновей сами состарились самому лет жене исполнилось раоска з среди ти юношей х девушек одной старухе рассказал конец</p>
-    </body>
-  </text>
-</TEI>
+     <head>ТРИ БРАТА</head>
+     <p>али вещь вынуть говорят говорят заболел завещанием закопанную иса могилы муса нс одного около отец отец отца отца сына умер умрет</p><p>али братья выкопав вытащил день день домой другие знали золотой иса иса й копал копал край могилу могилы могилы муса муса мяч найдя найдя около отца пишу пошел пошел пошел принеся пришел пришел следующий спрятал тайно тайно узнали ю</p><p>али братьев вместе день дней завещание завещание исполнил исполнил отца отца повели признался разговор собравшись трое</p><p>братьев гостей доме качестве нищенствовать обеднели остановились пошли появились стране трое царя</p><p>али влюбившись волосы вставать девушка девушка дома дочь имеющая красивая могла очень подобно полюбила сверкающая сидеть солнцу спать талией тамара тли тонкой ходить черноволосая черноокая черные</p><p>али брата братьев галима девушки девушки ио ису мусу н отца своих убил убили хитрости хитрости юноши</p><p>барабанщиков владениях гармонистов девушек девушка девушке дней досталась зурначей красивых молодых музыкантов находящихся ночей свадьба своих собрали стариков старух стране шесть шла юноша юноше юношей</p><p>али гармонистом говорит девушек денег дочерей жене з зад исполнилось коленкой конец копейки лет одной одной опал остались пи письмо получил пришло прогнали раоска рассказал сами самому сегодня состарились среди старухе суток сыновей сюда ти ударив х шесть юношей</p></body>
+   </text>
+  </TEI>

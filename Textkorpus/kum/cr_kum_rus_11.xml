@@ -1,155 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Kumykische Folklore</title>
-        <title xml:lang="eng">Kumyk Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Kumykische Folklore</title>
+      <title xml:lang="eng">Kumyk Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">СЮНД на кумыкском (с. 144-145) и русском (с. 174-175) яз.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">СЮНД на кумыкском (с. 144-145) и русском (с. 174-175) яз.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="kum">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/578738/botayurt.html">Botayurt</settlement>
-          <geo/>
-        </placeName>
-        <date>1968</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Т.</forename>
-            <surname xml:lang="rus">Мисирова</surname>
-          </persName>
-          <age>90</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Аджиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Аджиев</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="kum">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/578738/botayurt.html">Botayurt</settlement>
+       <geo />
+      </placeName>
+      <date>1968</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Т.</forename>
+        <surname xml:lang="rus">Мисирова</surname>
+       </persName>
+       <age>90</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Аджиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Аджиев</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_kum_rus_11">
+   </teiHeader>
+   <text xml:id="cr_kum_rus_11">
     <body>
-      <head>3 Старик и визири (кум.) </head>
-      <p>прежние времена ехал бий двумя своими визирями встретился старик жавший пшеницу бий сказал</p>
-      <p>слушай тамаза кажется гору выпал снег</p>
-      <p>воллах равнину ненастье окутало сказал старик</p>
-      <p>питаешься</p>
-      <p>мясом хлеб жую сказал старик</p>
-      <p>делаешь спросил бий</p>
-      <p>воллах давал долг возвращаю свой долг говорит</p>
-      <p>слушай дал тебе двух жирных уток сделал спрашивает бий</p>
-      <p>сделал ощипал осталось пушинки сказал тамаза</p>
-      <p>поговорив бий вместе визирями уехал дороге визири думали могли понять говорили тамаза бий сказали поняли едут едут визирей выдержав спрашивает бия</p>
-      <p>слушай бий сказал тому тамазе сказал тебе понял</p>
-      <p>неужели понял</p>
-      <p>понял говорит визирь</p>
-      <p>поняли спросил бий двух других визирей сказать могли</p>
-      <p>бий сильно разгневавшись сказал</p>
-      <p>какие визири поняли придете разгадав смысл нашего разговора визири прогнал</p>
-      <p>отойдя сторону визири думали думали вышло визирей говорит</p>
-      <p>поедем спросим хотя самого старика</p>
-      <p>решили поступить</p>
-      <p>вернувшись тамазе визири говорят</p>
-      <p>слушай тамаза твоего разговора нашим бием поняли наш бий прогнал раскроешь нам смысл вашего разговора</p>
-      <p>почему раскрыть очень раскрою сказал старик это отдайте коней вами одежду деньги</p>
-      <p>визири смотрят друг друга хотят отдавать подумав могут лишиться должности визирей отдали говорил старик</p>
-      <p>взяв добро старик раскрыл истинный смысл своего разговора бием</p>
-      <p>ваш бий сказал кажется гору снег выпал имел виду голова поседела давая понять мои глаза видят вдали сказал равнину ненастье окутало бий спросил питаюсь зубы ответил мясом хлеб пережевываю дал понять кроме десен рту осталось</p>
-      <p>затем спросил делаешь ответил давал долг возвращаю свой долг осенью посеял пшеницу снимаю урожай затем бий спросил дал тебе двух уток сделал ответил воллах общипал осталось пушинки отличаетесь уток общипанных пушинки</p>
-    </body>
-  </text>
-</TEI>
+     <head>3 Старик и визири (кум.) </head>
+     <p>бий бий визирями времена встретился двумя ехал жавший прежние пшеницу своими сказал старик</p><p>выпал гору кажется слушай снег тамаза</p><p>воллах ненастье окутало равнину сказал старик</p><p>питаешься</p><p>жую мясом сказал старик хлеб</p><p>бий делаешь спросил</p><p>возвращаю воллах говорит давал долг долг свой</p><p>бий дал двух жирных сделал слушай спрашивает тебе уток</p><p>осталось ощипал пушинки сделал сказал тамаза</p><p>бий бий бия визирей визири визирями вместе выдержав говорили дороге думали едут едут могли поговорив поняли понять сказали спрашивает тамаза уехал</p><p>бий понял сказал сказал слушай тамазе тебе тому</p><p>неужели понял</p><p>визирь говорит понял</p><p>бий визирей двух других могли поняли сказать спросил</p><p>бий разгневавшись сильно сказал</p><p>визири визири какие нашего поняли придете прогнал разгадав разговора смысл</p><p>визирей визири вышло говорит думали думали отойдя сторону</p><p>поедем самого спросим старика хотя</p><p>поступить решили</p><p>вернувшись визири говорят тамазе</p><p>бием бий вашего нам наш нашим поняли прогнал разговора разговора раскроешь слушай смысл тамаза твоего</p><p>вами деньги коней одежду отдайте очень почему раскрою раскрыть сказал старик это</p><p>визирей визири говорил должности друг друга лишиться могут отдавать отдали подумав смотрят старик хотят</p><p>бием взяв добро истинный разговора раскрыл своего смысл старик</p><p>бий бий ваш вдали виду видят выпал глаза голова гору давая дал десен зубы имел кажется кроме мои мясом ненастье окутало осталось ответил пережевываю питаюсь понять понять поседела равнину рту сказал сказал снег спросил хлеб</p><p>бий возвращаю воллах давал дал двух делаешь долг долг затем затем общипал общипанных осенью осталось ответил ответил отличаетесь посеял пушинки пушинки пшеницу свой сделал снимаю спросил спросил тебе урожай уток уток</p></body>
+   </text>
+  </TEI>

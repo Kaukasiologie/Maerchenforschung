@@ -1,139 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tabasaranisch Folklore</title>
-        <title xml:lang="eng">Tabasaran Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tabasaranisch Folklore</title>
+      <title xml:lang="eng">Tabasaran Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="kat">ალ. მაჰომეტოვი, თაბასარანული ენა (გამოკვლევა და ტექსტები)</title>
+        <title xml:lang="rus">А.А. Магометов, Табасаранский язкык (Исследование и тексты)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1965</publisher>
+        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1965, стр. 388-389</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="kat">ალ. მაჰომეტოვი, თაბასარანული ენა (გამოკვლევა და ტექსტები)</title>
-            <title xml:lang="rus">А.А. Магометов, Табасаранский язкык (Исследование и тексты)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა &quot;მეცნიერება&quot;. თბილისი, 1965</publisher>
-            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство &quot;Мецниереба&quot;. Тбилиси, 1965, стр. 388-389</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="tab">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Алимурад</forename>
-            <surname xml:lang="rus">Алимурадов</surname>
-          </persName>
-          <age>З.</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.А.</forename>
-            <surname xml:lang="rus">Магометов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="tab">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Алимурад</forename>
+        <surname xml:lang="rus">Алимурадов</surname>
+       </persName>
+       <age>З.</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.А.</forename>
+        <surname xml:lang="rus">Магометов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_tab_rus_41">
+   </teiHeader>
+   <text xml:id="cr_tab_rus_41">
     <body>
-      <head>Лев и заяц</head>
-      <p>дев пожелав взять свои руки царство разного рода бродящих земле зверей животных вел войну достаточно повоевал лев подчинил большинство бродящих земле зверей животных лев стал царем</p>
-      <p>лев зверьми животными введя свой закон объявил ежедневно поесть завтрак очереди одного зверя животного посылали подчиненные животные звери ежедневно очереди начали посылать одного таким порядком извел достаточное количество</p>
-      <p>очередь дошла зайца животные звери собравшись сказали зайцу завтра одой парю съедения очередь твоя сказали заяц заявил дураки ио своей воле свое тело отдающие уничтожение сами идущие смерть существа будут мужества</p>
-      <p>заяц сказал удивились зайца спросили выйдет твоей руки сможешь сделать заяц ответил завтра пойду посмотрите сделаю</p>
-      <p>следующий дейт заяц опозданием отправился путь сравнительно царю идущим временем запоздала еда царь намеревался пойти убить зверей</p>
-      <p>задумался соседние цари мепя обвинят терпение сказал проголодавшийся царь очень рассердился</p>
-      <p>запозданием заяц льву пришел пришел заяц сказал царь пусть будешь здоров посланного тебе зайца встретил лев спросил идешь ответил нашего царя льва еда лев сказал мире кроме царь посмотрю сказал взяв зайца мышки пошел притпех тебе этим сообщением</p>
-      <p>заяц сообщил такую весть лев сильнее рассердился пев сказал сможешь показать какую сторону пошел заяц сказал смогу заяц потел впереди лев ту сторону поп сл сказал отправился пу ь месту находился колодец дойти колодца заяц сказал очепъ боязливый возьми иод мышку покажу направил направлению впереди находящегося колодца</p>
-      <p>пришли колодцу крепко держи направлению сюда зайцем мышкой пошел сказал заяц</p>
-      <p>дев крепко держа мышкой зайца взойдя колодец начал смотреть дно лев увидел воды льва зайцем мышкой заяц сказал час лев бросил сторону код мышкой находящегося зайца прыгнув увиденное изображение льва кинулся колодой очень старался выйти воды утонув умер</p>
-      <p>заяц вернувшись радостной вестью животных зверей собрав известил убил вашей голове находящегося царя притеснителя сегодняшнего дня свободны живите счастливо каждый захочет обрадовались каждый начал счастливо удовольствием проводить жизнь каждый пошел па свое место окончилось</p>
-    </body>
-  </text>
-</TEI>
+     <head>Лев и заяц</head>
+     <p>большинство бродящих бродящих вел взять войну дев достаточно животных животных зверей зверей земле земле лев лев повоевал подчинил пожелав разного рода руки свои стал царем царство</p><p>введя достаточное ежедневно ежедневно животного животные животными завтрак закон звери зверьми зверя извел количество лев начали объявил одного одного очереди очереди подчиненные поесть порядком посылали посылать свой таким</p><p>будут воле дошла дураки животные завтра зайца зайцу заявил заяц звери идущие ио мужества одой отдающие очередь очередь парю сами свое своей сказали сказали смерть собравшись существа съедения твоя тело уничтожение</p><p>выйдет завтра зайца заяц заяц ответил пойду посмотрите руки сделать сделаю сказал сможешь спросили твоей удивились</p><p>временем дейт еда запоздала заяц зверей идущим намеревался опозданием отправился пойти путь следующий сравнительно убить царь царю</p><p>задумался мепя обвинят очень проголодавшийся рассердился сказал соседние терпение цари царь</p><p>будешь взяв встретил еда зайца зайца запозданием заяц заяц здоров идешь кроме лев лев льва льву мире мышки нашего ответил посланного посмотрю пошел притпех пришел пришел пусть сказал сказал сказал сообщением спросил тебе тебе царь царь царя этим</p><p>боязливый весть возьми впереди впереди дойти заяц заяц заяц заяц иод какую колодец колодца колодца лев лев месту мышку направил направлению находился находящегося отправился очепъ пев покажу показать поп потел пошел пу рассердился сильнее сказал сказал сказал сказал сл смогу сможешь сообщил сторону сторону такую ту ь</p><p>держи зайцем заяц колодцу крепко мышкой направлению пошел пришли сказал сюда</p><p>бросил взойдя воды воды выйти дев держа дно зайца зайца зайцем заяц изображение кинулся код колодец колодой крепко лев лев льва льва мышкой мышкой мышкой находящегося начал очень прыгнув сказал смотреть старался сторону увидел увиденное умер утонув час</p><p>вашей вернувшись вестью голове дня живите животных жизнь захочет заяц зверей известил каждый каждый каждый место находящегося начал обрадовались окончилось па пошел притеснителя проводить радостной свободны свое сегодняшнего собрав счастливо счастливо убил удовольствием царя</p></body>
+   </text>
+  </TEI>

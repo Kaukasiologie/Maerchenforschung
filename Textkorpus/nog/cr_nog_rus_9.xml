@@ -1,142 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Ногайские народные сказки</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Ногайские народные сказки</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="nog">Ногай эртегилер.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 61–62.</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="nog">Ногай эртегилер.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 61–62.</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_9">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_9">
     <body>
-      <head>2. Змея, ласточка и комар </head>
-      <p>давно люди птицы звери говорили одном языке те времена самого болота камышах жили черная змея комар длинноносый тонкими волосок ногами белогрудая ласточка змея жила плоским черным камнем комар ютился среди листьев камыша ласточка свила гнездо ветках старого высохшего дерева теплые весенние дни собирались дома змеи беседовали всякой всячине</p>
-      <p>однажды змея свернувшись клубком камне сказала</p>
-      <p>послушайте скажу отныне хочу пить кровь кого попало буду питаться лишь человеческой кровью друг комар должен узнать правду говорят кровь человека слаще всякой помоги</p>
-      <p>помогу могу тебе отказать ответил комар отправился выполнять поручение змеи</p>
-      <p>целый день комар пробовал кровь зверей птиц людей решил вкуснее крови человека действительно свете вечер полетел обратно родные камыши навстречу ласточка</p>
-      <p>эй комар подхалим торопишься выполнил поручение змеи спрашивает</p>
-      <p>выполнил могу ослушаться</p>
-      <p>скажи чья кровь вкуснее</p>
-      <p>свете крови вкуснее человеческой отвечает комар</p>
-      <p>наверно врешь покажи язык сосал кровь человека твой язык должен красным</p>
-      <p>веришь посмотри хвастливо ответил комар</p>
-      <p>высунул язык ласточка налетела вырвала язык комара вредить людям</p>
-      <p>бедняги глазах выступили слезы бороды кровь капает полетел скорее змее ласточка полетела вырвала язык комара хочет убедиться впрямь сможет сказать змее</p>
-      <p>прилетели домой комар вертится вокруг змеи глазами ласточку показывает сказать змея ласточку смотрит никак поймет дело</p>
-      <p>ласточка говорит</p>
-      <p>наш общий друг комар издалека летел дорогу пел самая сладкая кровь лягушки самая сладкая кровь лягушки самого дома комар умолк видно горло остудил сказать слова</p>
-      <p>комар злости заплакал заверещал зз зз</p>
-      <p>змея почуяла неладное говорят глаза слепого видят душа чувствует змея угрозой повернулась ласточке та вспорхнула улетела змея успела вырвать средних пера хвоста ласточки</p>
-      <p>тех пор говорят хвост ласточки раздвоенный времени ласточка перебралась поближе людям стала вить гнезда крышами домов змея стала лягушек комар везде всюду заводит свое зз зз никак высказаться</p>
-    </body>
-  </text>
-</TEI>
+     <head>2. Змея, ласточка и комар </head>
+     <p>белогрудая беседовали болота весенние ветках волосок времена всякой всячине высохшего гнездо говорили давно дерева длинноносый дни дома жила жили звери змеи змея змея камнем камыша камышах комар комар ласточка ласточка листьев люди ногами одном плоским птицы самого свила собирались среди старого те теплые тонкими черная черным ютился языке</p><p>змея камне клубком однажды свернувшись сказала</p><p>буду всякой говорят должен друг кого комар кровь кровь кровью лишь отныне питаться пить помоги попало послушайте правду скажу слаще узнать хочу человека человеческой</p><p>выполнять змеи комар могу ответил отказать отправился помогу поручение тебе</p><p>вечер вкуснее действительно день зверей камыши комар крови кровь ласточка людей навстречу обратно полетел пробовал птиц решил родные свете целый человека</p><p>выполнил змеи комар подхалим поручение спрашивает торопишься эй</p><p>выполнил могу ослушаться</p><p>вкуснее кровь скажи чья</p><p>вкуснее комар крови отвечает свете человеческой</p><p>врешь должен красным кровь наверно покажи сосал твой человека язык язык</p><p>веришь комар ответил посмотри хвастливо</p><p>вредить вырвала высунул комара ласточка людям налетела язык язык</p><p>бедняги бороды впрямь вырвала выступили глазах змее змее капает комара кровь ласточка полетел полетела сказать скорее слезы сможет убедиться хочет язык</p><p>вертится вокруг глазами дело домой змеи змея комар ласточку ласточку никак поймет показывает прилетели сказать смотрит</p><p>говорит ласточка</p><p>видно горло дома дорогу друг издалека комар комар кровь кровь летел лягушки лягушки наш общий остудил пел самая самая самого сказать сладкая сладкая слова умолк</p><p>заверещал заплакал зз зз злости комар</p><p>видят вспорхнула вырвать глаза говорят душа змея змея змея ласточке ласточки неладное пера повернулась почуяла слепого средних та угрозой улетела успела хвоста чувствует</p><p>везде вить времени всюду высказаться гнезда говорят домов заводит зз зз змея комар крышами ласточка ласточки людям лягушек никак перебралась поближе пор раздвоенный свое стала стала тех хвост</p></body>
+   </text>
+  </TEI>

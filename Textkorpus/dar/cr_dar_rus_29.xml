@@ -1,140 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Опубл, на даргинском яз.: ДХХ, 59. С. 107-109</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Опубл, на даргинском яз.: ДХХ, 59. С. 107-109</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.А.</forename>
-            <surname xml:lang="rus">Алиевa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.А.</forename>
+        <surname xml:lang="rus">Алиевa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_29">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_29">
     <body>
-      <head>109 Нарт, одним ударом сорок убивающий (дарг.) </head>
-      <p>сын одного бедного крестьянина голодный пищи нанялся богачу пасти овец полудню овцы скучковались нечего делать пастух прилег</p>
-      <p>невдалеке увидел рой мух подойдя тому месту мухи всей силой ударил своей длинной гладкой палкой мухи оставшиеся живых обеспокоились разлетелись убитых посчитал пастух сорок пастух сказал</p>
-      <p>одним ударом сорок убиваю пасу овец эта работа</p>
-      <p>пастух сел тени деревом написал своей палке нарт одним ударом сорок убивающий оставил овец пошел глаза глядят</p>
-      <p>шел вечера дошел одного места присел отдохнуть родника вблизи родника остановились сорок нартов каждый день очереди ходили водой это время самый младший пришел роднику водой увидел около родника спящего человека взяв палку прочитал надпись очень испугался забыв воде быстро побежал братьям нартов увидев рано вернулся спросил почему пришел воды</p>
-      <p>беда приключилась поинтересовался</p>
-      <p>пока младший брат рассказывал увиденном остальные разволновались услышав таком сильном нарте решили взять собой войну врагами братья пошли туда нашли нарта спокойно спящим проснется ударом одной руки повалит думая боясь решались близко подойти нему некоторое время смотрели издалека долго ворочался одной стороны другую медленно встал удивленно огляделся вокруг это время сорок братьев испуганные сняли своих голов шапки поздоровались этим нартом</p>
-      <p>старший брат осмелился нему подойти</p>
-      <p>долго искали такого храбреца нашли очень этому обрадовались тебе большая просьба хотим стал нашим братом пошел нами сделаем захочешь сделаем хочешь волнуясь сказал</p>
-      <p>нарт заставил долго упрашивать пошел ними братья подшучивая друг другом позавтракали нарт прилег отдохнуть</p>
-      <p>прошествии некоторого времени узнали вражеские войска вышли битву братья боялись ними нарт</p>
-      <p>враги подошли близко братьям разбудили нарта посадили прирученного коня привязав ноги подпруге отправили битву врагами нарту захотелось коне ускакать другую сторону старался свернуть конь летел прямо врага</p>
-      <p>пути попадались большие деревья нарт страха невольно хватался ветки вырывал деревья корнями тащил собой протащил собой деревьев неожиданно своем коне оказался середине войска конь четыре раза пролетел врагами никто остался живых боя сорок нартов вышли встречать</p>
-      <p>казалось дороге двигается целый лес подойдя нарту братья спросили</p>
-      <p>это принес</p>
-      <p>ах заметил деревья попали руки зиме дрова будут сказал бросив деревья землю</p>
-      <p>тех деревьев которые приволок собой хватило зиму</p>
-    </body>
-  </text>
-</TEI>
+     <head>109 Нарт, одним ударом сорок убивающий (дарг.) </head>
+     <p>бедного богачу голодный делать крестьянина нанялся нечего овец овцы одного пасти пастух пищи полудню прилег скучковались сын</p><p>всей гладкой длинной живых месту мух мухи мухи невдалеке обеспокоились оставшиеся палкой пастух пастух подойдя посчитал разлетелись рой своей силой сказал сорок тому убитых увидел ударил</p><p>овец одним пасу работа сорок убиваю ударом эта</p><p>глаза глядят деревом написал нарт овец одним оставил палке пастух пошел своей сел сорок тени убивающий ударом</p><p>братьям быстро вблизи вернулся вечера взяв воде водой водой воды время день дошел забыв испугался каждый места младший надпись нартов нартов одного около остановились отдохнуть очень очереди палку побежал почему присел пришел пришел прочитал рано родника родника родника роднику самый сорок спросил спящего увидев увидел ходили человека шел это</p><p>беда поинтересовался приключилась</p><p>близко боясь брат братьев братья взять войну вокруг ворочался врагами время время встал голов долго другую думая издалека испуганные медленно младший нарта нарте нартом нашли некоторое нему огляделся одной одной остальные повалит подойти поздоровались пока пошли проснется разволновались рассказывал решались решили руки своих сильном смотрели сняли собой сорок спокойно спящим стороны таком туда увиденном ударом удивленно услышав шапки этим это</p><p>брат нему осмелился подойти старший</p><p>большая братом волнуясь долго захочешь искали нами нашим нашли обрадовались очень пошел просьба сделаем сделаем сказал стал такого тебе хотим хочешь храбреца этому</p><p>братья долго друг другом заставил нарт нарт ними отдохнуть подшучивая позавтракали пошел прилег упрашивать</p><p>битву боялись братья войска вражеские времени вышли нарт некоторого ними прошествии узнали</p><p>битву близко братьям врага врагами враги другую захотелось коне конь коня летел нарта нарту ноги отправили подошли подпруге посадили привязав прирученного прямо разбудили свернуть старался сторону ускакать</p><p>большие боя ветки войска врагами встречать вырывал вышли деревьев деревья деревья живых коне конь корнями нарт нартов невольно неожиданно никто оказался остался попадались пролетел протащил пути раза своем середине собой собой сорок страха тащил хватался четыре</p><p>братья двигается дороге казалось лес нарту подойдя спросили целый</p><p>принес это</p><p>ах бросив будут деревья деревья дрова заметил землю зиме попали руки сказал</p><p>деревьев зиму которые приволок собой тех хватило</p></body>
+   </text>
+  </TEI>

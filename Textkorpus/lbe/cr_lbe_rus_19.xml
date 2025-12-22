@@ -1,152 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-          <geo/>
-        </placeName>
-        <date>1958</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Дибиров</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+       <geo />
+      </placeName>
+      <date>1958</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Дибиров</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_19">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_19">
     <body>
-      <head>103 Упрямая жена (лак.) </head>
-      <p>одного пастуха жена пачаха жены пастух пачах жили соседству доме пастуха тихо мирно радостно доме пачаха жены постоянно ругались ссорились</p>
-      <p>однажды пачаху надоело это позвал пастуха приказал</p>
-      <p>возьми трех моих жен одну отдай</p>
-      <p>мог поделать пастух пришлось отдать жену пачаху обмен трех жен пришел ними женами домой спросил</p>
-      <p>скажите провинились пачах выгнал какие недостатки</p>
-      <p>одна жен ответила</p>
-      <p>ем ненасытный живот</p>
-      <p>заглядываюсь других мужчин бывают любовники сказала вторая</p>
-      <p>очень упрямая никаких недостатков призналась третья</p>
-      <p>сказал пастух первой красть нечего захочешь кушать иди погреб ешь сколько хочешь сказал второй вместо окна поставлю дверь буду стучаться выводи любовника вторую дверь видел найдем сказал третьей</p>
-      <p>однажды вдвоем упрямая женщина пастух пошли свое поле проходя мимо чужого поля пастух говорит</p>
-      <p>смотри ровно сжали пшеницу серпом</p>
-      <p>поле ровное оттого постригли ножницами сказала</p>
-      <p>эй твои глаза ослепли видишь скошено серпом сказал спорил муж</p>
-      <p>поле пострижено ножницами большими ножницами возразила жена</p>
-      <p>говорил одно другое подошли одной реке пастух поднял жену руки вошел реку дойдя середины реки спросил</p>
-      <p>спрашиваю убрали пшеницу серпом ножницами</p>
-      <p>упрямая жена твердит</p>
-      <p>ножницами</p>
-      <p>обозленный пастух бросил жену реку сильное течение реки стало уносить крикнул вдогонку</p>
-      <p>поздно спасти скажи убрано поле</p>
-      <p>жена захлебывалась могла говорить вытянула две руки задвигала ими ножницами река унесла упрямая жена настояла своем</p>
-      <p>случайно народе говорят женщину которая ест женщину блудливую исправить аллах сохранит женщины которой длинный безудержный язык упрямство ничем исправишь</p>
-    </body>
-  </text>
-</TEI>
+     <head>103 Упрямая жена (лак.) </head>
+     <p>доме доме жена жены жены жили мирно одного пастух пастуха пастуха пачах пачаха пачаха постоянно радостно ругались соседству ссорились тихо</p><p>надоело однажды пастуха пачаху позвал приказал это</p><p>возьми жен моих одну отдай трех</p><p>домой жен женами жену мог ними обмен отдать пастух пачаху поделать пришел пришлось спросил трех</p><p>выгнал какие недостатки пачах провинились скажите</p><p>жен одна ответила</p><p>ем живот ненасытный</p><p>бывают вторая других заглядываюсь любовники мужчин сказала</p><p>недостатков никаких очень призналась третья упрямая</p><p>буду видел вместо второй вторую выводи дверь дверь ешь захочешь иди красть кушать любовника найдем нечего окна пастух первой погреб поставлю сказал сказал сказал сколько стучаться третьей хочешь</p><p>вдвоем говорит женщина мимо однажды пастух пастух поле поля пошли проходя свое упрямая чужого</p><p>пшеницу ровно серпом сжали смотри</p><p>ножницами оттого поле постригли ровное сказала</p><p>видишь глаза муж ослепли серпом сказал скошено спорил твои эй</p><p>большими возразила жена ножницами ножницами поле пострижено</p><p>вошел говорил дойдя другое жену одно одной пастух поднял подошли реке реки реку руки середины спросил</p><p>ножницами пшеницу серпом спрашиваю убрали</p><p>жена твердит упрямая</p><p>ножницами</p><p>бросил вдогонку жену крикнул обозленный пастух реки реку сильное стало течение уносить</p><p>поздно поле скажи спасти убрано</p><p>вытянула говорить две жена жена задвигала захлебывалась ими могла настояла ножницами река руки своем унесла упрямая</p><p>аллах безудержный блудливую говорят длинный ест женщину женщину женщины исправить исправишь которая которой народе ничем случайно сохранит упрямство язык</p></body>
+   </text>
+  </TEI>

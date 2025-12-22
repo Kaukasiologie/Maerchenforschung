@@ -1,179 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1"
-            >Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html"
-            >Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili"
-            >Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/"
-              >CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus"
-              >Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"
-              >Издательство &quot;Художественная литература&quot;. Маскжа 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution></institution>
-                <collection></collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"></title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"></publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation"
-            key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation"
-            key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"></index>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country
-            ref="https://www.geonames.org/2017370/russian-federation.html"
-            >Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html"
-            >Dagestan</region>
-          <district></district>
-          <settlement></settlement>
-          <geo></geo>
-        </placeName>
-        <date></date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName></persName>
-          <age></age>
-        </person>
-        <person role="researcher">
-          <persName></persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Саидова</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">У.</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Саидова</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">У.</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_185">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_185">
     <body>
-      <head>ИЗБУШКА НА КУРЬИХ НОЖКАХ</head>
-      <p>жил свете хан дочь весь мир славилась своей красотой волосы падали плечи пышными волнами черных бровей звезды сверкали черные глаза сколько женихов сваталось хан выдавал замуж</p>
-      <p>однажды красавицу похитил сын царя чертей жил глухом лесу избушке курьих</p>
-      <p>ножках никто мог проникнуть лес вкодил засыпал глубоким сном хан знал делать собрал войско призвал визирей пригласил всей страны мудрецов никто мог придумать хан приказал визирям идти главе войска чертов лес смели визири ослутаться отправилиеь ехали ночь ехали день добрались леса вошли</p>
-      <p>войти вошли стали другим засыпать падать заснули визирн войско</p>
-      <p>одного визиря сильно заболел живот проснулся встал посмотрел вокруг видит спят люди лошади</p>
-      <p>задумал выйти лесу неведомая сила тянула назад вглубь заметил очутился возле избушки курьих ножках вошел видит длинных своих косах углу лежит старуха</p>
-      <p>визирь вытащил саблю криком бросился старуху выбила саблю рук вырвала косы волос связала визиря рукам ногам бросила другую комнату лежали такие связанные люди</p>
-      <p>хан долго ждал возвращения своего войска дочерью дождался отчаявшись собрал народ объянил всеуслышание</p>
-      <p>найдет возвратит дочь получит жены придачу мои богатства</p>
-      <p>услышал сын одного очень бедного человека пошел хану сказал берется найти</p>
-      <p>освободить дочь очень обрадовался хан вернулся бедняк домой спросил своего коня</p>
-      <p>сможем тобой отыскать ханскую дочь</p>
-      <p>ханскую дочь найдем ответил конь одном условии хан должен заоеять одну десятину золотой пшеницы собрать урожай накормить досыта остаток отдать твоему отцу бедняк отправился хану объявил хан приказал вепахать поле засеять десятину золотой пшеницей пшеница созрела убрали накормили той пшеницей коня хозяина остаток передали отцу бедняка отъездом конь сказал своему хозяину</p>
-      <p>должен разрезать пятку присолить рану возьми собой такую саблю которая резала волос захвати десять катушек ниток поедем</p>
-      <p>выполнил бедняк тронулись путь ехали ночь ехали день остановились отдохнуть покормил бедняк своего коня пустил луг паетнсь п завалился спать приказал конь хорошенько выспавшись бедняк утром отправился путь ехали день ночь въехали чертов дес смотрят лесу ханское войско визири спят громко храпят</p>
-      <p>конь говорит евоему хозяину</p>
-      <p>возьми пять катушек ниток побегу вокруг леса разматывай катушки</p>
-      <p>сделали обязали ниткой весь лес</p>
-      <p>бедняк въехал коне лесную чащу</p>
-      <p>вскоре очутился избушкой курьих ножках конь шепнул</p>
-      <p>скажи избушка избушка повернись ко лицом</p>
-      <p>бедняк произнес заветные слова избушка тотчас повернулась распахнулась дверь</p>
-      <p>бедняк слез коня вошел</p>
-      <p>войти вошел попробуй оттуда выйти</p>
-      <p>видит углу сидит старуха попросилея ночевать старуха стала стелить постель бедняк говорит</p>
-      <p>нужно постели полу поеплю</p>
-      <p>старуха ответила пальцем показала свом косы волочившиеся полу дескать ложись это согласился бедняк снял папаху положил голову улегся</p>
-      <p>встав поутру сказал старухе</p>
-      <p>очень бедный человек ищу ханскую дочь запропастнлась невесть найду привезу хану даст жены богатством наделит</p>
-      <p>сжалилась старуха бедняком сказала ханская дочь находится отца черта который похитил сегодня далеко уедут леса</p>
-      <p>поблагодарил бедняк старуху вышел своему коню передал конь ответ</p>
-      <p>бойся молодец выберутся лесу обвязали лес ниткой</p>
-      <p>отправились опушку леса</p>
-      <p>некоторое время слышит бедняк стралиный шум гам никого видно вышла</p>
-      <p>опушку красавица идет вокруг ветер страшный ног валит дрогнуло бедняка гердце думает удержусь унесет небеса ь</p>
-      <p>конь говорит</p>
-      <p>пвытащши острую саблю войди самую середину ветра руби смотри будь осторожен пе задень красавицу</p>
-      <p>бедняк смело вотел самую гущу ветра задевая ханской дочери качал рубить ветер налево направо</p>
-      <p>ветер начал стихать вовсе улегсл красавица осталась цела невредима</p>
-      <p>подсадил бедняк своего коня спокойно отправились путь хан издалека заметил закатил пир весь мир женил бедняка своей дочери</p>
-      <p>разбогател наш бедняк зажил счастливой жизнью забыл отца своего верного умного коня советчика</p>
-    </body>
-  </text>
-</TEI>
+     <head>ИЗБУШКА НА КУРЬИХ НОЖКАХ</head>
+     <p>бровей весь волнами волосы выдавал глаза дочь женихов жил замуж звезды красотой мир падали плечи пышными сваталось сверкали свете своей сколько славилась хан хан черные черных</p><p>глухом жил избушке красавицу курьих лесу однажды похитил сын царя чертей</p><p>визирей визири визирям вкодил войска войско вошли всей главе глубоким делать день добрались ехали ехали засыпал знал идти лес лес леса мог мог мудрецов никто никто ножках ночь ослутаться отправилиеь пригласил придумать призвал приказал проникнуть смели сном собрал страны хан хан чертов</p><p>визирн войско войти вошли другим заснули засыпать падать стали</p><p>видит визиря вокруг встал живот заболел лошади люди одного посмотрел проснулся сильно спят</p><p>вглубь видит возле вошел выйти длинных задумал заметил избушки косах курьих лежит лесу назад неведомая ножках очутился своих сила старуха тянула углу</p><p>бросила бросился визирь визиря волос выбила вырвала вытащил другую комнату косы криком лежали люди ногам рук рукам саблю саблю связала связанные старуху такие</p><p>возвращения войска всеуслышание дождался долго дочерью ждал народ объянил отчаявшись своего собрал хан</p><p>богатства возвратит дочь жены мои найдет получит придачу</p><p>бедного берется найти одного очень пошел сказал сын услышал хану человека</p><p>бедняк вернулся домой дочь коня обрадовался освободить очень своего спросил хан</p><p>дочь отыскать сможем тобой ханскую</p><p>бедняк бедняка вепахать десятину десятину должен досыта дочь заоеять засеять золотой золотой конь конь коня найдем накормили накормить объявил одном одну остаток остаток ответил отдать отправился отцу отцу отъездом передали поле приказал пшеница пшеницей пшеницей пшеницы своему сказал собрать созрела твоему той убрали урожай условии хан хан ханскую хану хозяина хозяину</p><p>возьми волос десять должен захвати катушек которая ниток поедем присолить пятку разрезать рану резала саблю собой такую</p><p>бедняк бедняк бедняк визири войско въехали выполнил выспавшись громко день день дес ехали ехали ехали завалился конь коня лесу луг ночь ночь остановились отдохнуть отправился п паетнсь покормил приказал пустил путь путь своего смотрят спать спят тронулись утром ханское хорошенько храпят чертов</p><p>говорит евоему конь хозяину</p><p>возьми вокруг катушек катушки леса ниток побегу пять разматывай</p><p>весь лес ниткой обязали сделали</p><p>бедняк въехал коне лесную чащу</p><p>вскоре избушкой конь курьих ножках очутился шепнул</p><p>избушка избушка ко лицом повернись скажи</p><p>бедняк дверь заветные избушка повернулась произнес распахнулась слова тотчас</p><p>бедняк вошел коня слез</p><p>войти вошел выйти оттуда попробуй</p><p>бедняк видит говорит ночевать попросилея постель сидит стала старуха старуха стелить углу</p><p>нужно поеплю полу постели</p><p>бедняк волочившиеся голову дескать косы ложись ответила пальцем папаху показала положил полу свом снял согласился старуха улегся это</p><p>встав поутру сказал старухе</p><p>бедный богатством даст дочь жены запропастнлась ищу наделит найду невесть очень привезу ханскую хану человек</p><p>бедняком далеко дочь который леса находится отца похитил сегодня сжалилась сказала старуха уедут ханская черта</p><p>бедняк вышел конь коню ответ передал поблагодарил своему старуху</p><p>бойся выберутся лес лесу молодец ниткой обвязали</p><p>леса опушку отправились</p><p>бедняк видно время вышла гам некоторое никого слышит стралиный шум</p><p>бедняка валит ветер вокруг гердце дрогнуло думает идет красавица небеса ног опушку страшный удержусь унесет ь</p><p>говорит конь</p><p>будь ветра войди задень красавицу осторожен острую пвытащши пе руби саблю самую середину смотри</p><p>бедняк ветер ветра вотел гущу дочери задевая качал налево направо рубить самую смело ханской</p><p>ветер вовсе красавица начал невредима осталась стихать улегсл цела</p><p>бедняк бедняка весь дочери женил закатил заметил издалека коня мир отправились пир подсадил путь своего своей спокойно хан</p><p>бедняк верного жизнью забыл зажил коня наш отца разбогател своего советчика счастливой умного</p></body>
+   </text>
+  </TEI>

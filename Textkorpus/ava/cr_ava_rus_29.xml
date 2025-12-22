@@ -1,147 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Опубл, на аварском яз.: АХМ, 58. С. 197-198</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Опубл, на аварском яз.: АХМ, 58. С. 197-198</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.Р.</forename>
-            <surname xml:lang="rus">Халидова</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.Р.</forename>
+        <surname xml:lang="rus">Халидова</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_29">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_29">
     <body>
-      <head>90 Как жених родил теленка (авар.) </head>
-      <p>одного бедняка красивая очень мудрая дочь засватали одного глупого сына богача хотя девушка противилась говоря нужен дурак отец матерью насильно выдали день свадьбы девушка озабочена какую хитрость придумать избавиться жениха дурака думала думала придумала плохо жениха невесту свели вместе разошлись молодые остались вдвоем жених разделся догола девушка сумела хитрой уловкой выпроводить двор затем крепко заперла дверь жених ухватился дверь стал дергать</p>
-      <p>это спросила девушка</p>
-      <p>это твой муж ответил</p>
-      <p>муж лежит мной убирайся прочь отсюда огорошила девушка</p>
-      <p>самом деле заблудился подумал жених пошел старшему брату</p>
-      <p>вышел улицу заблудился помоги отыскать дом говорит</p>
-      <p>старший брат пошел показать жениху комнату находится невеста постучали дверь</p>
-      <p>хотите дать супругам спать возмутилась невеста</p>
-      <p>старший брат растерялся подумал шайтан это голое существо накинутом мною тулупе вмиг стянул жениха тулуп убежал</p>
-      <p>жених бедняга остался стоять вкопанный зная делать затем забрался кормушку хлева провел остаток ночи ночь дрожал холода ветра живот вздулся барабан</p>
-      <p>рассвело жених таки пришел домой невеста накинулась</p>
-      <p>пропадал ночь это занимался</p>
-      <p>жених стал рассказывать заблудился странная история приключилась</p>
-      <p>вах случайно забеременел спросила невеста</p>
-      <p>это видано мужчины беременели поднял смех</p>
-      <p>слышала многих мужчинах которые родили стояла своем невеста</p>
-      <p>затем хитрая девушка позвала вдову помогла внушить это жениху вдова ударив рукой животу ловко сумела убедить беременности дурачок поверил вдова невеста посоветовали рождения ребенка покинуть аул оставалось делать бедняге молча сказав никому исчез аула</p>
-      <p>долго шел несчастный жених дошел высокой горы бывает холодно нашел пару человеческих ног обутых чарыки тело хозяина наверное съели волки остались одни заледенелые ноги жених засунул ноги мышки ночи добрался одного селения устроился ночлег одного сельчан тревожных мыслях предстоящих родах уснул кунака</p>
-      <p>ночь отелилась корова кунака зная делать ночью теленком хозяева поместили кунацкую спал гость</p>
-      <p>некоторое время теленок встал пошатываясь пошел туда откуда шел запах живого существа слышалось сопение коснулся мордочкой лица жениха спросонья обнаружив рядом собою маленького теленка ужаснулся суждено родить неужели должен родить теленка оставив чарыки взглянув теленка жених оглядки помчался домой поспешил рассказать жене разродился теленком оставил временем невеста возмущенная муж оставил сбежал считая нечего делать возвратилась отцовский дом</p>
-      <p>нелепо разрушив семью которую пытался создать отец жених остался дураках</p>
-      <p>наутро хозяева дома встали разбудить гостя накормить теленка гостя ноги чарыках испугались подняли крик</p>
-      <p>вабабай теленок который съел гостя наверно аждаха</p>
-      <p>боясь подойти теленку разобрали потолочную балку крыша дома обрушилась теленка</p>
-    </body>
-  </text>
-</TEI>
+     <head>90 Как жених родил теленка (авар.) </head>
+     <p>бедняка богача вдвоем вместе выдали выпроводить глупого говоря дверь дверь двор девушка девушка девушка день дергать догола дочь думала думала дурак дурака жених жених жениха жениха заперла засватали затем избавиться какую красивая крепко матерью молодые мудрая насильно невесту нужен одного одного озабочена остались отец очень плохо придумала придумать противилась разделся разошлись свадьбы свели стал сумела сына уловкой ухватился хитрой хитрость хотя</p><p>девушка спросила это</p><p>муж ответил твой это</p><p>девушка лежит мной муж огорошила отсюда прочь убирайся</p><p>брату деле жених заблудился подумал пошел самом старшему</p><p>вышел говорит дом заблудился отыскать помоги улицу</p><p>брат дверь жениху комнату находится невеста показать постучали пошел старший</p><p>возмутилась дать невеста спать супругам хотите</p><p>брат вмиг голое жениха мною накинутом подумал растерялся старший стянул существо тулуп тулупе убежал шайтан это</p><p>барабан бедняга ветра вздулся вкопанный делать дрожал жених живот забрался затем зная кормушку ночи ночь остался остаток провел стоять хлева холода</p><p>домой жених накинулась невеста пришел рассвело таки</p><p>занимался ночь пропадал это</p><p>жених заблудился история приключилась рассказывать стал странная</p><p>вах забеременел невеста случайно спросила</p><p>беременели видано мужчины поднял смех это</p><p>которые многих мужчинах невеста родили своем слышала стояла</p><p>аул аула бедняге беременности вдова вдова вдову внушить девушка делать дурачок жениху животу затем исчез ловко молча невеста никому оставалось поверил позвала покинуть помогла посоветовали ребенка рождения рукой сказав сумела убедить ударив хитрая это</p><p>бывает волки высокой горы добрался долго дошел жених жених заледенелые засунул кунака мыслях мышки наверное нашел несчастный ног ноги ноги ночи ночлег обутых одни одного одного остались пару предстоящих родах селения сельчан съели тело тревожных уснул устроился хозяина холодно чарыки человеческих шел</p><p>гость делать зная корова кунака кунацкую ночь ночью отелилась поместили спал теленком хозяева</p><p>взглянув возвратилась возмущенная временем время встал делать должен дом домой жене жених жениха живого запах коснулся лица маленького мордочкой муж невеста некоторое неужели нечего обнаружив оглядки оставив оставил оставил откуда отцовский помчался поспешил пошатываясь пошел разродился рассказать родить родить рядом сбежал слышалось собою сопение спросонья суждено существа считая теленка теленка теленка теленком теленок туда ужаснулся чарыки шел</p><p>дураках жених которую нелепо остался отец пытался разрушив семью создать</p><p>встали гостя гостя дома испугались крик накормить наутро ноги подняли разбудить теленка хозяева чарыках</p><p>аждаха вабабай гостя который наверно съел теленок</p><p>балку боясь дома крыша обрушилась подойти потолочную разобрали теленка теленку</p></body>
+   </text>
+  </TEI>

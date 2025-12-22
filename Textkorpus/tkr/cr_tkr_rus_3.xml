@@ -1,155 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tsakhurisch Folklore</title>
-        <title xml:lang="eng">Tsakhur Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tsakhurisch Folklore</title>
+      <title xml:lang="eng">Tsakhur Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>ИЯЛИ</institution>
+          <collection>Ф. 9. Оп. 1. Д. 392. Л. 114</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>ИЯЛИ</institution>
-                <collection>Ф. 9. Оп. 1. Д. 392. Л. 114</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="tkr">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
-          <settlement ref="https://www.geonames.org/526227/mishlesh.html">Mishlesh</settlement>
-          <geo/>
-        </placeName>
-        <date>1972</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Ибрагимов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимова</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">К.З.</forename>
-            <surname xml:lang="rus">Омаханов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="tkr">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
+       <settlement ref="https://www.geonames.org/526227/mishlesh.html">Mishlesh</settlement>
+       <geo />
+      </placeName>
+      <date>1972</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Ибрагимов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимова</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">К.З.</forename>
+        <surname xml:lang="rus">Омаханов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_tkr_rus_3">
+   </teiHeader>
+   <text xml:id="cr_tkr_rus_3">
     <body>
-      <head>61 Сказка о бедняке (цах.') </head>
-      <p>жил жил жил маленький мальчик сын бедных людей родители умерли рано мальчик семь лет остался сиротой какнибудь прокормить нанялся богачу пастушком</p>
-      <p>шли безрадостные годы полные тоски одиночества проходили голоде холоде мальчик чабанил лет десять пятнадцать оказалось столько лет нажил никакого добра</p>
-      <p>единственный друг который приходил отвести душу пришел нему спрашивает</p>
-      <p>друг столько лет работаешь своего хозяина столько терпишь унижений оскорблений твоей жизни одного радостного дня можешь позволить помечтать сделаешь пойдешь выгонит твой хозяин будешь жить задумывался</p>
-      <p>отвечает чабан действительно этим задумывался</p>
-      <p>друг говорит</p>
-      <p>знаю этим задумывался пришел дать тебе дельный совет должен поделиться мной доходами полученными послушай тебе сделать возьми угони хозяина двести триста голов баранов продай беги</p>
-      <p>поступил вырученными баранов деньгами поделился другом</p>
-      <p>вскоре хозяин разыскал подал суд кадий назначил день суда чабан побежал своему другу советом друг говорит</p>
-      <p>дам тебе совет поделишься мной добычей</p>
-      <p>согласен отвечает чабан</p>
-      <p>говорит чабану</p>
-      <p>суде кадий начнет задавать тебе вопросы должен блеять бе е е</p>
-      <p>сделал</p>
-      <p>кадий удивленный этими ответами спрашивает хозяина</p>
-      <p>твой чабан овцами</p>
-      <p>отвечает хозяин</p>
-      <p>возьмешь баран говорит кадий</p>
-      <p>чабана отпустили отправился домой друг пришел нему платой</p>
-      <p>воспользовался моим советом спрашивает дай мою долю</p>
-      <p>чабан ответ</p>
-      <p>бе е е</p>
-    </body>
-  </text>
-</TEI>
+     <head>61 Сказка о бедняке (цах.') </head>
+     <p>бедных богачу жил жил жил какнибудь лет людей маленький мальчик мальчик нанялся остался пастушком прокормить рано родители семь сиротой сын умерли</p><p>безрадостные годы голоде десять добра лет лет мальчик нажил никакого одиночества оказалось полные проходили пятнадцать столько тоски холоде чабанил шли</p><p>друг душу единственный который нему отвести приходил пришел спрашивает</p><p>будешь выгонит дня друг жизни жить задумывался лет можешь одного оскорблений позволить пойдешь помечтать работаешь радостного своего сделаешь столько столько твоей твой терпишь унижений хозяин хозяина</p><p>действительно задумывался отвечает чабан этим</p><p>говорит друг</p><p>баранов беги возьми голов дать двести дельный должен доходами задумывался знаю мной поделиться полученными послушай пришел продай сделать совет тебе тебе триста угони хозяина этим</p><p>баранов вырученными деньгами другом поделился поступил</p><p>вскоре говорит день друг другу кадий назначил побежал подал разыскал своему советом суд суда хозяин чабан</p><p>дам добычей мной поделишься совет тебе</p><p>отвечает согласен чабан</p><p>говорит чабану</p><p>бе блеять вопросы должен е е задавать кадий начнет суде тебе</p><p>сделал</p><p>кадий ответами спрашивает удивленный хозяина этими</p><p>овцами твой чабан</p><p>отвечает хозяин</p><p>баран возьмешь говорит кадий</p><p>домой друг нему отправился отпустили платой пришел чабана</p><p>воспользовался дай долю моим мою советом спрашивает</p><p>ответ чабан</p><p>бе е е</p></body>
+   </text>
+  </TEI>

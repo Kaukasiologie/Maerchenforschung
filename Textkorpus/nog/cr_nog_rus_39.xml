@@ -1,169 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Ногайские народные сказки</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Ногайские народные сказки</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="nog">Ногай эртегилер.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 65–66.</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="nog">Ногай эртегилер.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 65–66.</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
-          <geo/>
-        </placeName>
-        <date>1972</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Ш. Р.</forename>
-            <surname xml:lang="rus">Найманов</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1903</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
+       <district />
+       <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
+       <geo />
+      </placeName>
+      <date>1972</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Ш. Р.</forename>
+        <surname xml:lang="rus">Найманов</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1903</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_39">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_39">
     <body>
-      <head>32. Семеро братьев </head>
-      <p>жили семеро братьев шестеро одной матери седьмой младший семеро плотниками пока шестеро братьев вместе мастерят одну арбу седьмого арба готова шестеро братьев завидовали младшему однажды поблизости сожгли арбу которую кончил</p>
-      <p>юноша увидел месте арбы груду углей опечалился подал виду побросал угли другую арбу накрыл рядном отправился город дороге нему пристали сыновья местного хана</p>
-      <p>эй парень везешь покажи</p>
-      <p>юноша притворился испуганным говорит</p>
-      <p>могу везу ханское золото откину рядно оно превратится угли</p>
-      <p>бездельники свое покажи покажи</p>
-      <p>юноша откинул рядно те смотрят правда арбе вместо золота угли сыновья хана перепугались побежали отцу рассказали обо всем делать нечего хан наполнил арбу юноши золотом довольный отправился домой</p>
-      <p>братья увидели арба младшего брата полна золота удивились спрашивают</p>
-      <p>откуда золото</p>
-      <p>городе золото угли дают отвечает юноша</p>
-      <p>братья пожгли свои арбы повезли угли город меняем угли золото кричат народ смеется</p>
-      <p>целый день разъезжали братья городу сменяли угли золото вечер усталые сердитые вернулись домой</p>
-      <p>стали братья думать отомстить младшему брату решили убить жену</p>
-      <p>юноша увидел убитую жену положил тело арбу прикрыл рядном повез город нему снова подбежали сыновья хана</p>
-      <p>эй парень везешь покажи</p>
-      <p>юноша сделал вид испугался отвечает</p>
-      <p>могу везу прекрасную дочь хана видеть стоит взглянуть умрет</p>
-      <p>услышав прекрасной девушке ханские сыновья захотели взглянуть откинули рядно видят девушка вправду умерла испугались бездельники побежали отцу рассказали обо всем пришлось хану отдать красавицу дочь юноше похоронил жену вернулся домой красавицей девушкой</p>
-      <p>увидев новую жену юноши братья разозлились схватили запихали мешок завязали отвезли берег моря братья решили бросят волны вечером стемнеет</p>
-      <p>юноша сидит мешке слышит блеяние овец голос пастуха миг закричит</p>
-      <p>хочу ханом хочу</p>
-      <p>пастух услышал крик прибежал спрашивает</p>
-      <p>это кричишь</p>
-      <p>заставляют ханом хочу поэтому посадили мешок</p>
-      <p>пастух быстро развязал мешок выпустил юношу сказал</p>
-      <p>влезу вместо мешок стану ханом</p>
-      <p>этими словами пастух влез мешок юноша завязал мешок погнал отару домой</p>
-      <p>вечером братья пришли берег бросили мешок воду успели вернуться домой смотрят младший брат живой невредимый загоняет двор отару овец</p>
-      <p>этих овец нашел дне морском сказал юноша братьям</p>
-      <p>такое дело шестеро братьев решили разбогатеть</p>
-      <p>стали просить юношу</p>
-      <p>покажи нам это место море</p>
-      <p>ответил юноша повел братьев самому глубокому месту</p>
-      <p>самый старший брат нырнул вынырнул</p>
-      <p>испугались остальные</p>
-      <p>видно овец слишком говорит юноша поторопитесь заберет</p>
-      <p>братья жадности отталкивая друг друга стали прыгать море утонули младший брат завладел всем богатством стал жить довольстве счастье</p>
-    </body>
-  </text>
-</TEI>
+     <head>32. Семеро братьев </head>
+     <p>арба арбу арбу братьев братьев братьев вместе готова жили завидовали кончил которую мастерят матери младшему младший однажды одной одну плотниками поблизости пока седьмого седьмой семеро семеро сожгли шестеро шестеро шестеро</p><p>арбу арбы виду город груду дороге другую месте местного накрыл нему опечалился отправился побросал подал пристали рядном сыновья увидел углей угли хана юноша</p><p>везешь парень покажи эй</p><p>говорит испуганным притворился юноша</p><p>везу золото могу оно откину превратится рядно угли ханское</p><p>бездельники покажи покажи свое</p><p>арбе арбу вместо всем делать довольный домой золота золотом наполнил нечего обо откинул отправился отцу перепугались побежали правда рассказали рядно смотрят сыновья те угли хан хана юноша юноши</p><p>арба брата братья золота младшего полна спрашивают увидели удивились</p><p>золото откуда</p><p>городе дают золото отвечает угли юноша</p><p>арбы братья город золото кричат меняем народ повезли пожгли свои смеется угли угли</p><p>братья вернулись вечер городу день домой золото разъезжали сердитые сменяли угли усталые целый</p><p>брату братья думать жену младшему отомстить решили стали убить</p><p>арбу город жену нему повез подбежали положил прикрыл рядном снова сыновья тело убитую увидел хана юноша</p><p>везешь парень покажи эй</p><p>вид испугался отвечает сделал юноша</p><p>везу взглянуть видеть дочь могу прекрасную стоит умрет хана</p><p>бездельники вернулся взглянуть видят вправду всем девушка девушке девушкой домой дочь жену захотели испугались красавицей красавицу обо отдать откинули отцу побежали похоронил прекрасной пришлось рассказали рядно сыновья умерла услышав ханские хану юноше</p><p>берег братья братья бросят вечером волны жену завязали запихали мешок моря новую отвезли разозлились решили стемнеет схватили увидев юноши</p><p>блеяние голос закричит мешке миг овец пастуха сидит слышит юноша</p><p>ханом хочу хочу</p><p>крик пастух прибежал спрашивает услышал</p><p>кричишь это</p><p>заставляют мешок посадили поэтому ханом хочу</p><p>быстро выпустил мешок пастух развязал сказал юношу</p><p>влезу вместо мешок стану ханом</p><p>влез домой завязал мешок мешок отару пастух погнал словами этими юноша</p><p>берег брат братья бросили вернуться вечером воду двор домой живой загоняет мешок младший невредимый овец отару пришли смотрят успели</p><p>братьям дне морском нашел овец сказал этих юноша</p><p>братьев дело разбогатеть решили такое шестеро</p><p>просить стали юношу</p><p>место море нам покажи это</p><p>братьев глубокому месту ответил повел самому юноша</p><p>брат вынырнул нырнул самый старший</p><p>испугались остальные</p><p>видно говорит заберет овец поторопитесь слишком юноша</p><p>богатством брат братья всем довольстве друг друга жадности жить завладел младший море отталкивая прыгать стал стали счастье утонули</p></body>
+   </text>
+  </TEI>

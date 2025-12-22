@@ -1,170 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Rutulisch Folklore</title>
-        <title xml:lang="eng">Rutul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Rutulisch Folklore</title>
+      <title xml:lang="eng">Rutul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФ ИЛЛИ</institution>
+          <collection>Ф. 9. Оп. 1. Д. 392</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФ ИЛЛИ</institution>
-                <collection>Ф. 9. Оп. 1. Д. 392</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="rut">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1973</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">К.</forename>
-            <surname xml:lang="rus">Абакаровa</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимовa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="rut">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1973</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">К.</forename>
+        <surname xml:lang="rus">Абакаровa</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимовa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_rut_rus_2">
+   </teiHeader>
+   <text xml:id="cr_rut_rus_2">
     <body>
-      <head> 34 Сказка о сыне охотника (рут.) </head>
-      <p>охотник жена сын ходил охоту гору цейлахан прославился весь дагестан лучший охотник</p>
-      <p>постарел стало трудно ходить горам дичью позвал подросшего сына сказал</p>
-      <p>дорогой сынок знаю смелый отважный джигит хочу умереть спокойной душой хочу попросить сынок поклялся пойдешь охоту гору цейлахан</p>
-      <p>дорогой отец ответил сын</p>
-      <p>вскоре умер содержать семью выпало долю сына часто ходил охоту знал каждую гору каждый холм захотелось отправиться гору цейлахан узнать почему отец взял слово туда ходить</p>
-      <p>откуда отец узнает ходил туда подумал юноша отправился гору</p>
-      <p>добрался туда стемнело нашел какую заброшенную хижину зашел туда лег спать среди ночи проснулся яркого света который солнце слепил глаза испугавшись вскочил дверцу хижины увидел странный ослепляющий глаза яркий свет быстро схватив ружье выстрелил выйдя хижины увидел самого входа лежит мертвый неизвестный зверь снял шкуру занес хижину повесил стену хижина наполнилась светом словно наступил день</p>
-      <p>утром немного поохотившись собрав убитую дичь шкуру принес это домой отдал матери вытащила шкуру комната наполнилась ярким светом удивленной матери сказал</p>
-      <p>смотри мама никому шкуре говори узнает злая каранений</p>
-      <p>старались мать сын каранений увидела дверную щель свет пошла сказала падишаху</p>
-      <p>падишах вызвал охотника потребовал принес светящуюся шкуру юноша принес шкуры кроме той одной падишах забрал ту которая светится сказал</p>
-      <p>можешь построй дом костей диких животных привези дочь падишаха страны джиннов</p>
-      <p>весь слезах пришел сын домой лег заснул сне явился отец сказал</p>
-      <p>говорил тебе сынок ходи гору цейлахан охоту ослушался ладно сделано сделано должно случиться случилось слушай внимательно рано утром встань замеси глину глины вылепи множество змей лягушек закопай землю увидишь произойдет</p>
-      <p>проснулся юноша побежал сделал велел отец стал ждать произойдет месте вырос дивной красоты дворец слоновой кости любоваться глаза сообщил падишаху сразу пришел посмотрел дворец увидел оставил свой дворец вселился юноше сказал</p>
-      <p>знаю можешь стой отправляйся быстрее привези достойную дворца невесту дочь падишаха джиннов самую красивую девушку мире</p>
-      <p>придя домой рассказал матери стала собирать дорогу еду воды вся слезах проводила сына путь отправился юноша поиски дороге встречается человек который играл горами</p>
-      <p>какую героическую работу делаешь говорит парень</p>
-      <p>это работа трудная работа ищешь дочь падишаха джиннов отвечает</p>
-      <p>будь другом предлагает парень</p>
-      <p>радостью отвечает</p>
-      <p>отправились дальше вместе пути встретили человека который выпивал целую реку кричал хочет пить</p>
-      <p>какую трудную работу джигита делаешь говорит юноша</p>
-      <p>трудную работу делаешь идешь искать дочь падишаха джиннов отвечает</p>
-      <p>стань другом предложил юноша</p>
-      <p>удовольствием ответил пошли втроем некоторое время встретили человека который подставив рот жернов съедал мололось кричал голоден голоден пригласили друзья пошли вместе</p>
-      <p>шли долго коротко дошли страны падишаха джиннов пришли сели камень садится кунак повели падишаху выслушал узнал пришли сказал</p>
-      <p>отдам дочь выдержите мои испытания</p>
-      <p>согласились друзья</p>
-      <p>поставили повара падишаха семь больших котлов сварили еду сказал</p>
-      <p>должны съесть еду</p>
-      <p>съедал муку мельнице проглотил попросил</p>
-      <p>заперли комнате снаружи подожгли товарищ который выпивал реки выпустил воду погасил огонь</p>
-      <p>послал падишах парня дочери сказал</p>
-      <p>первым придет джинн которого отправлю тобой девушку получишь придешь первым твоя</p>
-      <p>отправились путь джигит игравший горами стал выбрасывать джинном одну гору джинн весь взмок задыхается еле лезет горам юноша идет быстро добрался первым увидев красоту девушки лишился чувств девушка полюбила увидела</p>
-      <p>привез отцу падишах сдержал свое слово отдал дочь юноше друзья отправились путь девушка рада светится счастьем стыдно стало юноше сказал везет своему падишаху расплакалась девушка долго плакала друзья трудом успокоили тронулись путь</p>
-      <p>пути друзья стали расходиться домам парень девушкой добрались своей страны</p>
-      <p>юноша пошел сообщил падишаху привез девушку побежал падишах увидев красоту девушки падишах умер разрыва сердца</p>
-      <p>народ радостью выбрал сына охотника своим падишахом женил девушке</p>
-      <p>сорок дней сорок ночей длилась свадьба молодые достигли своего счастья дай аллах слушавшие сказку достигли своего счастья</p>
-    </body>
-  </text>
-</TEI>
+     <head> 34 Сказка о сыне охотника (рут.) </head>
+     <p>весь гору дагестан жена лучший охотник охотник охоту прославился сын ходил цейлахан</p><p>горам дичью подросшего позвал постарел сказал стало сына трудно ходить</p><p>гору джигит дорогой душой знаю отважный охоту пойдешь поклялся попросить смелый спокойной сынок сынок умереть хочу хочу цейлахан</p><p>дорогой ответил отец сын</p><p>взял вскоре выпало гору гору долю захотелось знал каждую каждый отец отправиться охоту почему семью слово содержать сына туда узнать умер ходил ходить холм цейлахан часто</p><p>гору отец откуда отправился подумал туда узнает ходил юноша</p><p>быстро вскочил входа выйдя выстрелил глаза глаза дверцу день добрался заброшенную занес зашел зверь испугавшись какую который лег лежит мертвый наполнилась наступил нашел неизвестный ночи ослепляющий повесил проснулся ружье самого свет света светом слепил словно снял солнце спать среди стемнело стену странный схватив туда туда увидел увидел хижина хижину хижину хижины хижины шкуру яркий яркого</p><p>вытащила дичь домой комната матери матери наполнилась немного отдал поохотившись принес светом сказал собрав убитую удивленной утром шкуру шкуру это ярким</p><p>говори злая каранений мама никому смотри узнает шкуре</p><p>дверную каранений мать падишаху пошла свет сказала старались сын увидела щель</p><p>вызвал забрал которая кроме одной охотника падишах падишах потребовал принес принес светится светящуюся сказал той ту шкуру шкуры юноша</p><p>джиннов диких дом дочь животных костей можешь падишаха построй привези страны</p><p>весь домой заснул лег отец пришел сказал слезах сне сын явился</p><p>внимательно встань вылепи глину глины говорил гору должно закопай замеси землю змей ладно лягушек множество ослушался охоту произойдет рано сделано сделано случилось случиться слушай сынок тебе увидишь утром ходи цейлахан</p><p>велел вселился вырос глаза дворец дворец дворец дивной ждать кости красоты любоваться месте оставил отец падишаху побежал посмотрел пришел произойдет проснулся свой сделал сказал слоновой сообщил сразу стал увидел юноша юноше</p><p>быстрее дворца девушку джиннов достойную дочь знаю красивую мире можешь невесту отправляйся падишаха привези самую стой</p><p>воды встречается вся горами домой дороге дорогу еду играл который матери отправился поиски придя проводила путь рассказал слезах собирать стала сына человек юноша</p><p>героическую говорит делаешь какую парень работу</p><p>джиннов дочь ищешь отвечает падишаха работа работа трудная это</p><p>будь другом парень предлагает</p><p>отвечает радостью</p><p>вместе встретили выпивал дальше который кричал отправились пить пути реку хочет целую человека</p><p>говорит делаешь джигита какую работу трудную юноша</p><p>делаешь джиннов дочь идешь искать отвечает падишаха работу трудную</p><p>другом предложил стань юноша</p><p>вместе время встретили втроем голоден голоден друзья жернов который кричал мололось некоторое ответил подставив пошли пошли пригласили рот съедал удовольствием человека</p><p>выслушал джиннов долго дошли камень коротко кунак падишаха падишаху повели пришли пришли садится сели сказал страны узнал шли</p><p>выдержите дочь испытания мои отдам</p><p>друзья согласились</p><p>больших еду котлов падишаха повара поставили сварили семь сказал</p><p>должны еду съесть</p><p>мельнице муку попросил проглотил съедал</p><p>воду выпивал выпустил заперли комнате который огонь погасил подожгли реки снаружи товарищ</p><p>дочери падишах парня послал сказал</p><p>девушку джинн которого отправлю первым первым получишь придет придешь твоя тобой</p><p>быстро весь взмок выбрасывать горам горами гору девушка девушки джигит джинн джинном добрался еле задыхается игравший идет красоту лезет лишился одну отправились первым полюбила путь стал увидев увидела чувств юноша</p><p>везет девушка девушка долго дочь друзья друзья отдал отправились отцу падишах падишаху плакала привез путь путь рада расплакалась светится свое своему сдержал сказал слово стало стыдно счастьем тронулись трудом успокоили юноше юноше</p><p>девушкой добрались домам друзья парень пути расходиться своей стали страны</p><p>девушки девушку красоту падишах падишах падишаху побежал пошел привез разрыва сердца сообщил увидев умер юноша</p><p>выбрал девушке женил народ охотника падишахом радостью своим сына</p><p>аллах дай длилась дней достигли достигли молодые ночей свадьба своего своего сказку слушавшие сорок сорок счастья счастья</p></body>
+   </text>
+  </TEI>

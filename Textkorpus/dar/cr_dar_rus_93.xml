@@ -1,183 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив С. Гасановой</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив С. Гасановой</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/626098/levashi.html">Levashi</settlement>
-          <geo/>
-        </placeName>
-        <date>1956</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Магомедов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">С.</forename>
-            <surname xml:lang="eng">Гасанов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/626098/levashi.html">Levashi</settlement>
+       <geo />
+      </placeName>
+      <date>1956</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Магомедов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">С.</forename>
+        <surname xml:lang="eng">Гасанов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_93">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_93">
     <body>
-      <head>77. Про царя, вора и муллу </head>
-      <p>жил богатый царь дворе меньше сорока охранников неизвестно одному пройдохе удалось проникнуть дворец царя украсть добро царь знал делать особенно опечалила пропажа дорогой шубы пошел царь самому главному мулле рассказал ночном воре посмеялся мулла царем назвал дураком</p>
-      <p>царь поехал город искать свое украденное добро</p>
-      <p>наткнулся прямо вора момент торговал украденным имуществом</p>
-      <p>царь сказал вору</p>
-      <p>имущество проданное тобой принадлежит оно нужно нужен это украл добро хочешь могу дать тебе столько какое дело сумей заставить муллу сделать такое мог обозвать дураком</p>
-      <p>сделаю ответил вор</p>
-      <p>договорившись оба отправились домой царю плотно поели царь спросил</p>
-      <p>нужно сделать муллу обозвать дураком</p>
-      <p>найди ключей две пары платья</p>
-      <p>царь собрал ключи взял одежды отдал вору</p>
-      <p>вор отправился мечеть подобрал нужный ключ открыл дверь</p>
-      <p>войдя мечеть вор надел парик прицепил фальшивую бороду колен оделся костюмов данных царем завязал вокруг головы чалму сел углу</p>
-      <p>мечеть пришел мулла удивлением увидел сидящего человека мог войти сюда человек</p>
-      <p>подумал мулла двери окна закрыты приблизившись этому странному человеку мулла поздоровался руку спросил</p>
-      <p>сюда попал</p>
-      <p>вор ответил</p>
-      <p>пришел сюда отвести рай одного человека</p>
-      <p>муглла обрадовался мечтал попасть рай</p>
-      <p>стал разговаривать приветливо стал просить отвели рай первым</p>
-      <p>отведу рай прежде других первого человека мечети</p>
-      <p>сколько денег потребуется попасть рай</p>
-      <p>спросил мулла</p>
-      <p>цена этому делу малая ответил вор</p>
-      <p>скажи сколько потребуется знал взмолился мулла</p>
-      <p>отдать добро твое всей твоей родни приготовь деньги также купи хорошую подводу лошадью одну буйволиную шкуру поплотнее</p>
-      <p>мулла пошел домой обо всем рассказан жене вора оставил мечети</p>
-      <p>эх жена пу странный случай произошел сегодня мной сказал мулла жене встретился человеком идущим рай обещал взять собой сказал раю место одного человека берет собой сможет взять знаю нужно спросить приготовь нашего прихода вкусное кушанье приведу домой</p>
-      <p>возвратился мулла мечеть говорит вору</p>
-      <p>пришел спросить найдется раю места моей жены</p>
-      <p>пойду разузнаю ответил вор</p>
-      <p>готовьтесь отъезду вернусь несколько дней</p>
-      <p>пошел мулла жене говорит</p>
-      <p>человек определенного сказал всетаки велел нам подготовиться</p>
-      <p>таком случае возьми еду накорми возвращайся</p>
-      <p>мулла пришел мечеть никого</p>
-      <p>вернулся домой рассказал жене человек рая исчез жена окончательно поверила попадут рай</p>
-      <p>радости могли заснуть ночь день начали продавать свое имущество собрать денег дорогу мулла купил хорошую телегу лошадьми приготовил еду дорогу</p>
-      <p>прошло несколько дней пошел мулла мечеть увидел человека одежде</p>
-      <p>сделал сказал сумел найти деньги спросил вор</p>
-      <p>мулла ответил нужное дорогу приготонлено</p>
-      <p>день вор сказал мулле жене</p>
-      <p>пока дойдете рая нужно пройти испытания взвесят весах отправят рай</p>
-      <p>мулла жена согласились</p>
-      <p>вор взял шкуру буйвола предложил влезть туда</p>
-      <p>затем крепко зашил шкуру подвязал лошадям погнал самого вечера лошади волочили муллу женой горам ущельям вор сказал</p>
-      <p>прошли одно испытание будут кусать змеи скорпионы</p>
-      <p>шкуру снова поволокли вор начал изо всей силы колотить палкой пусть мулла женой думают это змеи скорпионы</p>
-      <p>затем вор сказал</p>
-      <p>осталось одно испытание этими словами подвесил крыше царского дома провисели ночь рассвете весь народ увидел крыше царского дома подвешена буйволиная шкура вор воскликнул</p>
-      <p>дошли рая разрезал шкуру мулла жена вывалились прямо землю встали ноги увидели находятся своем городе вокруг собрались горох ане которые смотрят смеются</p>
-      <p>это время приблизился царь</p>
-      <p>эй сказал случай привел моему дому</p>
-      <p>мулла ответил</p>
-      <p>обманул человек обещал отвести пас рай заставил продать имущество привел сюда твоему дворцу</p>
-      <p>царь покачал головой сказал мулле</p>
-      <p>эх дурак дурак рай царского дома</p>
-      <p>мулла опустив голову ушел опозоренный</p>
-    </body>
-  </text>
-</TEI>
+     <head>77. Про царя, вора и муллу </head>
+     <p>богатый воре главному дворе дворец делать добро дорогой дураком жил знал меньше мулла мулле назвал неизвестно ночном одному опечалила особенно охранников посмеялся пошел пройдохе проникнуть пропажа рассказал самому сорока удалось украсть царем царь царь царь царя шубы</p><p>город добро искать поехал свое украденное царь</p><p>вора имуществом момент наткнулся прямо торговал украденным</p><p>вору сказал царь</p><p>дать дело добро дураком заставить имущество какое мог могу муллу нужен нужно обозвать оно принадлежит проданное сделать столько сумей такое тебе тобой украл хочешь это</p><p>вор ответил сделаю</p><p>договорившись домой оба отправились плотно поели спросил царь царю</p><p>дураком муллу нужно обозвать сделать</p><p>две ключей найди пары платья</p><p>взял вору ключи одежды отдал собрал царь</p><p>вор дверь ключ мечеть нужный открыл отправился подобрал</p><p>бороду войдя вокруг вор головы данных завязал колен костюмов мечеть надел оделся парик прицепил сел углу фальшивую царем чалму</p><p>войти мечеть мог мулла пришел сидящего сюда увидел удивлением человек человека</p><p>двери закрыты мулла мулла окна подумал поздоровался приблизившись руку спросил странному человеку этому</p><p>попал сюда</p><p>вор ответил</p><p>одного отвести пришел рай сюда человека</p><p>мечтал муглла обрадовался попасть рай</p><p>отвели первым приветливо просить разговаривать рай стал стал</p><p>других мечети отведу первого прежде рай человека</p><p>денег попасть потребуется рай сколько</p><p>мулла спросил</p><p>вор делу малая ответил цена этому</p><p>взмолился знал мулла потребуется скажи сколько</p><p>буйволиную всей деньги добро купи лошадью одну отдать подводу поплотнее приготовь родни также твое твоей хорошую шкуру</p><p>вора всем домой жене мечети мулла обо оставил пошел рассказан</p><p>берет взять взять вкусное встретился домой жена жене знаю идущим кушанье место мной мулла нашего нужно обещал одного приведу приготовь прихода произошел пу рай раю сегодня сказал сказал случай сможет собой собой спросить странный человека человеком эх</p><p>возвратился вору говорит мечеть мулла</p><p>жены места моей найдется пришел раю спросить</p><p>вор ответил пойду разузнаю</p><p>вернусь готовьтесь дней несколько отъезду</p><p>говорит жене мулла пошел</p><p>велел всетаки нам определенного подготовиться сказал человек</p><p>возвращайся возьми еду накорми случае таком</p><p>мечеть мулла никого пришел</p><p>вернулся домой жена жене исчез окончательно поверила попадут рай рассказал рая человек</p><p>денег день дорогу дорогу еду заснуть имущество купил лошадьми могли мулла начали ночь приготовил продавать радости свое собрать телегу хорошую</p><p>дней мечеть мулла несколько одежде пошел прошло увидел человека</p><p>вор деньги найти сделал сказал спросил сумел</p><p>дорогу мулла нужное ответил приготонлено</p><p>вор день жене мулле сказал</p><p>весах взвесят дойдете испытания нужно отправят пока пройти рай рая</p><p>жена мулла согласились</p><p>буйвола взял влезть вор предложил туда шкуру</p><p>вечера волочили вор горам женой затем зашил крепко лошади лошадям муллу погнал подвязал самого сказал ущельям шкуру</p><p>будут змеи испытание кусать одно прошли скорпионы</p><p>вор всей думают женой змеи изо колотить мулла начал палкой поволокли пусть силы скорпионы снова шкуру это</p><p>вор затем сказал</p><p>буйволиная весь вор воскликнул дома дома испытание крыше крыше народ ночь одно осталось подвесил подвешена провисели рассвете словами увидел царского царского шкура этими</p><p>ане вокруг встали вывалились городе горох дошли жена землю которые мулла находятся ноги прямо разрезал рая своем смеются смотрят собрались увидели шкуру</p><p>время приблизился царь это</p><p>дому моему привел сказал случай эй</p><p>мулла ответил</p><p>дворцу заставил имущество обещал обманул отвести пас привел продать рай сюда твоему человек</p><p>головой мулле покачал сказал царь</p><p>дома дурак дурак рай царского эх</p><p>голову мулла опозоренный опустив ушел</p></body>
+   </text>
+  </TEI>

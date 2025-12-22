@@ -1,198 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>ф. 9, он. I, д. № 12</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>ф. 9, он. I, д. № 12</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-          <geo/>
-        </placeName>
-        <date>1932</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">П.</forename>
-            <surname xml:lang="rus">Бейчуева</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Л.</forename>
-            <surname xml:lang="rus">Калс</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+       <geo />
+      </placeName>
+      <date>1932</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">П.</forename>
+        <surname xml:lang="rus">Бейчуева</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Л.</forename>
+        <surname xml:lang="rus">Калс</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_46">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_46">
     <body>
-      <head>84. Ворон-гадальщик </head>
-      <p>жили муж жена детей мужкупец разъезжал торговым делам жена отсутствие приготовив вкусные кушанья приглашала любовника</p>
-      <p>однажды ночью купец неожиданно вернулся домой стал стучать дверь это время жена предавалась наслаждению любовником дымоход смотрел нищий которого ученый ворон</p>
-      <p>купец стучал кричал скорее открыли дверь</p>
-      <p>жена отпирала тех пор пока убрала стола спрятала любовника нищий прежде успела открыть дверь поспешил воротам стал ожидать</p>
-      <p>жена открывая ворота притворилась больной сказала</p>
-      <p>заснула слышала стучал</p>
-      <p>нищий стал просить мужа</p>
-      <p>прошу ради аллаха разреши переночевать сарае</p>
-      <p>почему разрешить пускают ночевать</p>
-      <p>сарае поднимайся наверх</p>
-      <p>привел комнату жена сказала</p>
-      <p>хватало послать сарай</p>
-      <p>нищий сел столу посадив около ворона женщина спрятав хорошие кушанья поставила огонь посуду водой начала готовить толокно принесла бузы</p>
-      <p>хозяин предложил нищему гость ударив пальцем ворона заставил крикнуть кр р сказал</p>
-      <p>какое тебе дело молчи</p>
-      <p>прошу гость скажи говорит спросил хозяин дома</p>
-      <p>сказать говорит ешьте толокно бузой ответил гость</p>
-      <p>объясни говорит настаивал хозяин дома</p>
-      <p>спрашивает почему усталому вернувшемуся издалека хозяину дома дают толокно бузой доме вареники яйцами</p>
-      <p>вареники жена подай приказал муж</p>
-      <p>валлах немного приболела захотелось хинкала нем забыла принес</p>
-      <p>успели съесть вареника гость снова</p>
-      <p>ударил пальцем ворона снова каркнул</p>
-      <p>ах сякой захотел воскликнул нищий</p>
-      <p>говорит гость спросил хозяин</p>
-      <p>это ерунда обращай внимания</p>
-      <p>купец снова стал просить гость сказал</p>
-      <p>спрашивает почему толокно бузой доме плов</p>
-      <p>плов жена спросил муж</p>
-      <p>валлах нем забыла сказала жена подала плов</p>
-      <p>двух трех ложек плова гость заставил ворона крикнуть кр р</p>
-      <p/>
-      <p>ах сякой стал слишком развязным сказал гость ударил ворона голове</p>
-      <p>бьешь безъязыкое существо оно нам плохого делает сказал хозяин дома</p>
-      <p>бить твоя жена наверное сердится</p>
-      <p>совестно сказал гость</p>
-      <p>рассказывай гость рассказывай говорит ворон беспокойся сказал хозяин дома</p>
-      <p>говорит почему тебе толокно бузой доме казанок сластями</p>
-      <p>дай бог тебе здоровья красавец ворон</p>
-      <p>жена подавай сласти сказал муж</p>
-      <p>валлах забыла сказала жена принесла сласти</p>
-      <p>съели сласти нищий снова заставил ворона каркнуть</p>
-      <p>ах сякой неужели дашь нам покоя сказал снова нищий ударил ворона голове</p>
-      <p>мучай бедную птицу скажи говорит ворон спросил хозяин дома</p>
-      <p>говорит почему тебе толокно бузой доме большая тарелка халвой</p>
-      <p>халва жена спросил муж</p>
-      <p>валлах действительно приготовила халву забыла подать</p>
-      <p>съели халву ворон снова крикнул кр р</p>
-      <p>говорит гость кажется крикнул громче спросил хозяин дома</p>
-      <p>валлах могу сказать оставь сказал гость</p>
-      <p>прошу умоляю скажи неужели скажешь говорит пристал нищему хозяин дома</p>
-      <p>скажу большим сундуком спрятан человек ворон спрашивает</p>
-      <p>муж услышал это изменился лице</p>
-      <p>жена</p>
-      <p>жена молчит</p>
-      <p>спрашиваю почему отвечаешь</p>
-      <p>ах сказала жена болею пришел навестить сосед испугался спрятался большим сундуком</p>
-      <p>вставай сынок вставай бери лампу обратился муж гостю посмотрим мужчина</p>
-      <p>муж подошел сундуку сказал</p>
-      <p>выходи сосед выходи сюда постоянно прятаться</p>
-      <p>заставив выйти хозяин дома спросил</p>
-      <p>скажи зашел нам почему спрятался</p>
-      <p>будь мужчиной скажи правду утайки</p>
-      <p>валлах стыдно вижу нужно сказать правду каждый уезжал своим торговым делам твоя жена приглашала открывала удовольствия отказывался</p>
-      <p>сказал мужчина</p>
-      <p>ах негодяи вижу вели воскликнул муж взяв большую палку стал бить любовника тех пор пока палка сломалась</p>
-      <p>приходи смехом сказал м вынес избитого улицу</p>
-      <p>жену купец выгнал сказал гостю</p>
-      <p>сынок будешь моим сыном владею принадлежит тебе</p>
-      <p>некоторое время женил нищего одной своих родственниц</p>
-      <p>стали рождаться сыновья похожие отца дочери похожие мать</p>
-      <p>взял баранью ляжку хлеб пошел домой</p>
-    </body>
-  </text>
-</TEI>
+     <head>84. Ворон-гадальщик </head>
+     <p>вкусные делам детей жена жена жили кушанья любовника муж мужкупец отсутствие приглашала приготовив разъезжал торговым</p><p>вернулся ворон время дверь домой дымоход жена которого купец любовником наслаждению неожиданно нищий ночью однажды предавалась смотрел стал стучать ученый это</p><p>дверь кричал купец открыли скорее стучал</p><p>воротам дверь жена любовника нищий ожидать открыть отпирала пока пор поспешил прежде спрятала стал стола тех убрала успела</p><p>больной ворота жена открывая притворилась сказала</p><p>заснула слышала стучал</p><p>мужа нищий просить стал</p><p>аллаха переночевать прошу ради разреши сарае</p><p>ночевать почему пускают разрешить</p><p>наверх поднимайся сарае</p><p>жена комнату привел сказала</p><p>послать сарай хватало</p><p>бузы водой ворона готовить женщина кушанья начала нищий огонь около посадив поставила посуду принесла сел спрятав столу толокно хорошие</p><p>ворона гость заставил кр крикнуть нищему пальцем предложил р сказал ударив хозяин</p><p>дело какое молчи тебе</p><p>говорит гость дома прошу скажи спросил хозяин</p><p>бузой говорит гость ешьте ответил сказать толокно</p><p>говорит дома настаивал объясни хозяин</p><p>бузой вареники вернувшемуся дают дома доме издалека почему спрашивает толокно усталому хозяину яйцами</p><p>вареники жена муж подай приказал</p><p>валлах забыла захотелось нем немного приболела принес хинкала</p><p>вареника гость снова съесть успели</p><p>ворона каркнул пальцем снова ударил</p><p>ах воскликнул захотел нищий сякой</p><p>говорит гость спросил хозяин</p><p>внимания ерунда обращай это</p><p>гость купец просить сказал снова стал</p><p>бузой доме плов почему спрашивает толокно</p><p>жена муж плов спросил</p><p>валлах жена забыла нем плов подала сказала</p><p>ворона гость двух заставил кр крикнуть ложек плова р трех</p><p /><p>ах ворона голове гость развязным сказал слишком стал сякой ударил</p><p>безъязыкое бьешь делает дома нам оно плохого сказал существо хозяин</p><p>бить жена наверное сердится твоя</p><p>гость сказал совестно</p><p>беспокойся ворон говорит гость дома рассказывай рассказывай сказал хозяин</p><p>бузой говорит доме казанок почему сластями тебе толокно</p><p>бог ворон дай здоровья красавец тебе</p><p>жена муж подавай сказал сласти</p><p>валлах жена забыла принесла сказала сласти</p><p>ворона заставил каркнуть нищий сласти снова съели</p><p>ах ворона голове дашь нам неужели нищий покоя сказал снова сякой ударил</p><p>бедную ворон говорит дома мучай птицу скажи спросил хозяин</p><p>большая бузой говорит доме почему тарелка тебе толокно халвой</p><p>жена муж спросил халва</p><p>валлах действительно забыла подать приготовила халву</p><p>ворон кр крикнул р снова съели халву</p><p>говорит гость громче дома кажется крикнул спросил хозяин</p><p>валлах гость могу оставь сказал сказать</p><p>говорит дома неужели нищему пристал прошу скажешь скажи умоляю хозяин</p><p>большим ворон скажу спрашивает спрятан сундуком человек</p><p>изменился лице муж услышал это</p><p>жена</p><p>жена молчит</p><p>отвечаешь почему спрашиваю</p><p>ах болею большим жена испугался навестить пришел сказала сосед спрятался сундуком</p><p>бери вставай вставай гостю лампу муж мужчина обратился посмотрим сынок</p><p>муж подошел сказал сундуку</p><p>выходи выходи постоянно прятаться сосед сюда</p><p>выйти дома заставив спросил хозяин</p><p>зашел нам почему скажи спрятался</p><p>будь мужчиной правду скажи утайки</p><p>валлах вижу делам жена каждый нужно отказывался открывала правду приглашала своим сказать стыдно твоя торговым удовольствия уезжал</p><p>мужчина сказал</p><p>ах бить большую вели взяв вижу воскликнул любовника муж негодяи палка палку пока пор сломалась стал тех</p><p>вынес избитого м приходи сказал смехом улицу</p><p>выгнал гостю жену купец сказал</p><p>будешь владею моим принадлежит сынок сыном тебе</p><p>время женил некоторое нищего одной родственниц своих</p><p>дочери мать отца похожие похожие рождаться стали сыновья</p><p>баранью взял домой ляжку пошел хлеб</p></body>
+   </text>
+  </TEI>

@@ -1,158 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>ф. 9, он. I, д. № 6</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>ф. 9, он. I, д. № 6</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-          <geo/>
-        </placeName>
-        <date>1936</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Салимат</forename>
-            <surname xml:lang="rus">Магомедкизи</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А. М.</forename>
-            <surname xml:lang="rus">Алиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+       <geo />
+      </placeName>
+      <date>1936</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Салимат</forename>
+        <surname xml:lang="rus">Магомедкизи</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А. М.</forename>
+        <surname xml:lang="rus">Алиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_85">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_85">
     <body>
-      <head>48. Охотник и его друзья</head>
-      <p>охотник увидел волка хотел выстрелить вдру г волк заговорил человеческим голосом</p>
-      <p>убивай охотник буду твоим другом</p>
-      <p>охотник пожалел волка пошли дальше вдвоем</p>
-      <p>видят бежит кабан хотел охотник выстрелить кабан говорит</p>
-      <p>пожалей охотник давай будем друзьями</p>
-      <p>пошли дальше втроем вскоре встретилась лиса</p>
-      <p>хотел охотник пристрелить лиса взмолилась</p>
-      <p>пощади охотник тебе пригожусь</p>
-      <p>стал охотник убивать друзья пошли дальше видят низко землей летит коршун собрался охотник выстрелить коршун сказал</p>
-      <p>убивать лу чше станем друзьями</p>
-      <p>пощадил охотник друзья отправились дальше встретилась змея хотел охотник убить змея говорит</p>
-      <p>убивай охотник помогу тебе</p>
-      <p>охотник тронул змею</p>
-      <p>некоторое время лиса рыская лесу заметила узкую тропинку направились друзья тропинке нашли скале удобную пещеру поселились</p>
-      <p>однажды сидели ужином лиса сказала</p>
-      <p>друзья пас хватает жены нашего хозяина давайте похитим ханскую дочь</p>
-      <p>возразил охотник это безнадежно</p>
-      <p>увидишь говорит лиса ханская дочь воей женой</p>
-      <p>следующее утро кабан взял зурну волк барабан заиграли двинулись тому селению жил хан впереди танцуя шла лиса коршун летел ними селении жители вышли посмотреть зверей услыхав шум крики вышла балкон ханская дочь коршун схватил улетел убежали другие звери несколько дней ханская дочь жила пещере гостья дни успела полюбить охотника согласилась выйти замуж назначен день свадьбы звери ушли готовить пира жених невестой остались дома</p>
-      <p>ханская дочь пошла роднику водой ветре</p>
-      <p>тила старуху старуха решила уговорить девушку вернуться домой надеясь получить хана вознаграждение</p>
-      <p>долго уговаривала старуха ханскую дочь девушка сказала</p>
-      <p>пойду тобой отцу жених разрешит ханская дочь пошла пещеру</p>
-      <p>это время змея подползла старухе ужалила ногу сказала</p>
-      <p>ка иди хану передай благословил брак дочери охотником передай хану предсказание мудрой змеи станет противиться свадьбе жизнь очень несчастлив завтра принеси ответ иначе умрешь моего яда вернешься своим ядом вылечу</p>
-      <p>старуха перепугалась побежала селение</p>
-      <p>придя хану рассказала</p>
-      <p>хан немного подумал говорит</p>
-      <p>мудрые змеи знают будущее пусть дочь станет женой охотника</p>
-      <p>хан послал охотнику подарков вскоре устроили пышную свадьбу ханская дочь вышла замуж охотника</p>
-      <p>долго уговаривал хан дочь переехать вместе мужем нему смог уговорить около старой пещеры хан построил роскошный дворец нем поселился охотник молодой женой друзьями зверьми вместе</p>
-      <p>жили счастливо</p>
-    </body>
-  </text>
-</TEI>
+     <head>48. Охотник и его друзья</head>
+     <p>вдру волк волка выстрелить г голосом заговорил охотник увидел хотел человеческим</p><p>буду другом охотник твоим убивай</p><p>вдвоем волка дальше охотник пожалел пошли</p><p>бежит видят выстрелить говорит кабан кабан охотник хотел</p><p>будем давай друзьями охотник пожалей</p><p>вскоре встретилась втроем дальше лиса пошли</p><p>взмолилась лиса охотник пристрелить хотел</p><p>охотник пощади пригожусь тебе</p><p>видят выстрелить дальше друзья землей коршун коршун летит низко охотник охотник пошли сказал собрался стал убивать</p><p>друзьями лу станем убивать чше</p><p>встретилась говорит дальше друзья змея змея отправились охотник охотник пощадил убить хотел</p><p>охотник помогу тебе убивай</p><p>змею охотник тронул</p><p>время друзья заметила лесу лиса направились нашли некоторое пещеру поселились рыская скале тропинке тропинку удобную узкую</p><p>лиса однажды сидели сказала ужином</p><p>давайте дочь друзья жены нашего пас похитим ханскую хватает хозяина</p><p>безнадежно возразил охотник это</p><p>воей говорит дочь женой лиса увидишь ханская</p><p>балкон барабан взял волк впереди выйти вышла вышли гостья готовить двинулись день дней дни дома дочь дочь другие жених жил жила жители заиграли замуж зверей звери звери зурну кабан коршун коршун крики летел лиса назначен невестой несколько ними остались охотника пещере пира полюбить посмотреть свадьбы селении селению следующее согласилась схватил танцуя тому убежали улетел услыхав успела утро ушли хан ханская ханская шла шум</p><p>ветре водой дочь пошла роднику ханская</p><p>вернуться вознаграждение девушку домой надеясь получить решила старуха старуху тила уговорить хана</p><p>девушка долго дочь сказала старуха уговаривала ханскую</p><p>дочь жених отцу пещеру пойду пошла разрешит тобой ханская</p><p>время змея ногу подползла сказала старухе ужалила это</p><p>благословил брак вернешься вылечу дочери жизнь завтра змеи иди иначе ка моего мудрой несчастлив ответ охотником очень передай передай предсказание принеси противиться свадьбе своим станет умрешь хану хану яда ядом</p><p>перепугалась побежала селение старуха</p><p>придя рассказала хану</p><p>говорит немного подумал хан</p><p>будущее дочь женой змеи знают мудрые охотника пусть станет</p><p>вскоре вышла дочь замуж охотника охотнику подарков послал пышную свадьбу устроили хан ханская</p><p>вместе вместе дворец долго дочь друзьями женой зверьми молодой мужем нем нему около охотник переехать пещеры поселился построил роскошный смог старой уговаривал уговорить хан хан</p><p>жили счастливо</p></body>
+   </text>
+  </TEI>

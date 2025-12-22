@@ -1,152 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/490031/shamilsky-district.html">Shamilsky District</district>
-          <settlement ref="https://www.geonames.org/561644/genta.html">Genta</settlement>
-          <geo/>
-        </placeName>
-        <date>1980</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Гасанов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.З.</forename>
-            <surname xml:lang="rus">Абакарова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.З.</forename>
-            <surname xml:lang="rus">Абакаров</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/490031/shamilsky-district.html">Shamilsky District</district>
+       <settlement ref="https://www.geonames.org/561644/genta.html">Genta</settlement>
+       <geo />
+      </placeName>
+      <date>1980</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Гасанов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.З.</forename>
+        <surname xml:lang="rus">Абакарова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.З.</forename>
+        <surname xml:lang="rus">Абакаров</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_23">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_23">
     <body>
-      <head>45 Черный сундучок (авар.) </head>
-      <p>одном селе жил бедный парень работал каждого нему обращался зарабатывал пропитание услышал молодые ребята села которые ездят город заработки привозят денег решил вместе сельчанами поехать город заработки</p>
-      <p>парень продал коня скотину доставшихся родителей вырученные деньги отдал родственнику хранение подумав человек очень верующий обманет</p>
-      <p>родственник радостью взял парня деньги сказал спокоен возвращения будут целости сохранности</p>
-      <p>утром парень вместе сельчанами уехал далекий город заработки</p>
-      <p>городе испытал трудностей конце концов устроился работу кузнецу научился кузнечному ремеслу вернулся село отправился родственнику деньгами</p>
-      <p>знать знаю денег твоих видел прочь моих глаз прогнал парня</p>
-      <p>ошеломленный ответом парень шел селу грустный опущенной головой встретился сельский бегаул спросил</p>
-      <p>тобой почему грустный</p>
-      <p>парень рассказал родственник которому оставил деньги хранение отказывается вернуть</p>
-      <p>позови ко сказал бегаул</p>
-      <p>парень привел родственника бегаулу</p>
-      <p>почему возвращаешь парню деньги которые оставил спросил бегаул</p>
-      <p>родственник стал клясться аллахом пророком кораном хадисами никакие деньги оставлял</p>
-      <p>бегаул спросил парня</p>
-      <p>рядом передавал деньги</p>
-      <p>никого ответил</p>
-      <p>передал деньги спросил бегаул</p>
-      <p>отдал деньги доме спрятал маленький черный сундучок сундучок положил стену ответил парень</p>
-      <p>бегаул взял родственника ключи дома отдал парню говорит</p>
-      <p>сходи нему домой принеси сюда сундучок</p>
-      <p>родственник воскликнет</p>
-      <p>сундучке лежат деньги мои</p>
-      <p>затем родственник поняв ложь раскрылась стыда опустил голову парень принес сундучок бегаул вернул деньги родственник забрав свой сундучок убежал</p>
-    </body>
-  </text>
-</TEI>
+     <head>45 Черный сундучок (авар.) </head>
+     <p>бедный вместе город город денег ездят жил зарабатывал заработки заработки каждого которые молодые нему обращался одном парень поехать привозят пропитание работал ребята решил села селе сельчанами услышал</p><p>верующий вырученные деньги доставшихся коня обманет отдал очень парень подумав продал родителей родственнику скотину хранение человек</p><p>будут взял возвращения деньги парня радостью родственник сказал сохранности спокоен целости</p><p>вместе город далекий заработки парень сельчанами уехал утром</p><p>вернулся городе деньгами испытал конце концов кузнецу кузнечному научился отправился работу ремеслу родственнику село трудностей устроился</p><p>видел глаз денег знать знаю моих парня прогнал прочь твоих</p><p>бегаул встретился головой грустный опущенной ответом ошеломленный парень селу сельский спросил шел</p><p>грустный почему тобой</p><p>вернуть деньги которому оставил отказывается парень рассказал родственник хранение</p><p>бегаул ко позови сказал</p><p>бегаулу парень привел родственника</p><p>бегаул возвращаешь деньги которые оставил парню почему спросил</p><p>аллахом деньги клясться кораном никакие оставлял пророком родственник стал хадисами</p><p>бегаул парня спросил</p><p>деньги передавал рядом</p><p>никого ответил</p><p>бегаул деньги передал спросил</p><p>деньги доме маленький ответил отдал парень положил спрятал стену сундучок сундучок черный</p><p>бегаул взял говорит дома ключи отдал парню родственника</p><p>домой нему принеси сундучок сходи сюда</p><p>воскликнет родственник</p><p>деньги лежат мои сундучке</p><p>бегаул вернул голову деньги забрав затем ложь опустил парень поняв принес раскрылась родственник родственник свой стыда сундучок сундучок убежал</p></body>
+   </text>
+  </TEI>

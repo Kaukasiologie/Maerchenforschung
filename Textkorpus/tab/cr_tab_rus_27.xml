@@ -1,138 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tabasaranisch Folklore</title>
-        <title xml:lang="eng">Tabasaran Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tabasaranisch Folklore</title>
+      <title xml:lang="eng">Tabasaran Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="kat">ალ. მაჰომეტოვი, თაბასარანული ენა (გამოკვლევა და ტექსტები)</title>
+        <title xml:lang="rus">А.А. Магометов, Табасаранский язкык (Исследование и тексты)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1965</publisher>
+        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1965, стр. 366-367</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="kat">ალ. მაჰომეტოვი, თაბასარანული ენა (გამოკვლევა და ტექსტები)</title>
-            <title xml:lang="rus">А.А. Магометов, Табасаранский язкык (Исследование и тексты)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა &quot;მეცნიერება&quot;. თბილისი, 1965</publisher>
-            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство &quot;Мецниереба&quot;. Тбилиси, 1965, стр. 366-367</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="tab">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Курбали</forename>
-            <surname xml:lang="rus">Абдулазизов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.А.</forename>
-            <surname xml:lang="rus">Магометов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="tab">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Курбали</forename>
+        <surname xml:lang="rus">Абдулазизов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.А.</forename>
+        <surname xml:lang="rus">Магометов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_tab_rus_27">
+   </teiHeader>
+   <text xml:id="cr_tab_rus_27">
     <body>
-      <head>Гваргваляг</head>
-      <p>одни гваргналаг гваргбалага старая мать сарай гваргналаг корову ночью гонял ластись ла чужие молодые всходы сельчанам стало известно сельчане прогнали корову гваргвалага дес</p>
-      <p>корова встретила волка медведя лису захотели съесть корову борова сказала съешьте моем хлеву звери поверив корове пришли хлев гваргвалаг узнал пх приходе п взяв винтовку потел убивать убил</p>
-      <p>утром сшив шубу вышел сборное место собираются сельчане бесед люди сказали эй гваргналаг откуда эта туба гваргвалаг ответил моей коровой вчера ночью пришли волк медведь п лиса шкур сделана сельчане пошли своих оров прогнали лес одна корова вернулась обратно</p>
-      <p>сельчане рассердившись погнались гваргвалагом</p>
-      <p>гваргвалаг сказал убьете пе сжигайте сарай сельчане сказали сям дороже сарай давайте подожжем сарай сельчане сожгли саран гваргвалага</p>
-      <p>гваргвалаг насыпав угли мешок отнес город</p>
-      <p>мешок бросил одну золотую монету пойдя дом одного хозяина моток положил ъ коридоре вошел дом ел хлеб оглядываясь назад ел хозяин спросил мое золото сказал гваргвалаг хозяин пошел п посмотрел мешке угли оказались гваргвалаг сказал гы украл мое золото</p>
-      <p>п подал жадобу суд</p>
-      <p>суда сказал мешке осталась одна золотая монета го золото гваргвалага пет вет</p>
-      <p>спи посмотрели мешок мешка выпал золотой взыскав хозяина золото вместо углей вернулся домой</p>
-    </body>
-  </text>
-</TEI>
+     <head>Гваргваляг</head>
+     <p>всходы гваргбалага гваргвалага гваргналаг гваргналаг гонял дес известно корову корову ла ластись мать молодые ночью одни прогнали сарай сельчанам сельчане стало старая чужие</p><p>борова взяв винтовку волка встретила гваргвалаг захотели звери корова корове корову лису медведя моем п поверив потел приходе пришли пх сказала съесть съешьте убивать убил узнал хлев хлеву</p><p>бесед вернулась волк вчера вышел гваргвалаг гваргналаг корова коровой лес лиса люди медведь место моей ночью обратно одна оров ответил откуда п пошли пришли прогнали сборное своих сделана сельчане сельчане сказали собираются сшив туба утром шкур шубу эй эта</p><p>гваргвалагом погнались рассердившись сельчане</p><p>гваргвалаг гваргвалага давайте дороже пе подожжем сарай сарай сарай саран сельчане сельчане сжигайте сказал сказали сожгли сям убьете</p><p>гваргвалаг город мешок насыпав отнес угли</p><p>бросил вошел гваргвалаг гваргвалаг гы дом дом ел ел золото золото золотую коридоре мешке мешок мое мое монету моток назад оглядываясь одного одну оказались п пойдя положил посмотрел пошел сказал сказал спросил угли украл хлеб хозяин хозяин хозяина ъ</p><p>жадобу п подал суд</p><p>вет гваргвалага го золотая золото мешке монета одна осталась пет сказал суда</p><p>вернулся взыскав вместо выпал домой золото золотой мешка мешок посмотрели спи углей хозяина</p></body>
+   </text>
+  </TEI>

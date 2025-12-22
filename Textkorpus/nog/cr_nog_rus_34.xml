@@ -1,159 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Ногайские народные сказки</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Ногайские народные сказки</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="nog">Ногай эртегилер.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 112–114.</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="nog">Ногай эртегилер.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 112–114.</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_34">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_34">
     <body>
-      <head>27. Три брата</head>
-      <p>давние времена жили старик старухой сына близнеца братья очень красивы похожи друг друга различить невозможно</p>
-      <p>братьев пошел лес встретил девушку полюбили друг друга девушка обещала стать женой юноши</p>
-      <p>следующий день брат отправился лес увидев девушка решила это жених юноша влюбился девушку брат стал просить выйти замуж</p>
-      <p>думает девушка обещала стать женой таки возразила юноше ответила согласна выйти</p>
-      <p>следующий день третий брат пошел лес повстречал девушку полюбил девушка брата приняла своего жениха похожи трое</p>
-      <p>обещай стать моей женой говорит юноша</p>
-      <p>странный человек думает девушка дважды обещала выйти замуж скрыла свои сомнения пообещала юноше стать женой</p>
-      <p>брата сказали отцу матерью нашли невесту прекрасна второй свете говорил каждый</p>
-      <p>настал день свадьбы братья отправились своей невестой девушка издали заметила юношей решила это идет жених двумя дружками братья вошли дом растерялась одно лицо</p>
-      <p>жених думает девушка</p>
-      <p>каждый братьев виде девушки сказал</p>
-      <p>невеста</p>
-      <p>братья заспорили каждый старался убедить других именно достоин девушки</p>
-      <p>девушка сказала</p>
-      <p>давайте сделаем стану женой принесет диковинную вещь</p>
-      <p>братья отправились разные стороны</p>
-      <p>разными дорогами шли сошлись одном ханстве одном базаре братьев увидел зеркало оно стоило тысячу рублей</p>
-      <p>почему дорого спрашивает юноша</p>
-      <p>это зеркало простое отвечают нем человек увидеть пожелает</p>
-      <p>это нужно диковинной вещи мире обрадовался юноша купил зеркало</p>
-      <p>брат увидел базаре красивый ковер ковер стоил тысячу рублей</p>
-      <p>почему дорого спрашивает юноша</p>
-      <p>это зеркало простое отвечают нем человек увидеть пожелает</p>
-      <p>это нужно диковинной вещи мире обрадовался юноша купил зеркало</p>
-      <p>брат увидел базаре красивый ковер ковер стоил тысячу рублей</p>
-      <p>почему дорого спрашивает юноша</p>
-      <p>это ковер простой успеешь моргнуть перенесет любое место</p>
-      <p>диковинки мире подумал юноша купил ковер</p>
-      <p>третий брат увидел одного старика базаре яблоко яблоко стоило тысячу рублей</p>
-      <p>почему дорого спрашивает юноша</p>
-      <p>это яблоко простое отвечает старик откусит немного исцелится любой болезни</p>
-      <p>юноша обрадовался купил яблоко</p>
-      <p>братья встретились ворот базара стали похваляться своими покупками решили заглянуть чудесное зеркало посмотреть делает девушка смотрят девушка смерти сели ковер оказались постели девушки третий брат дал отведать яблока девушка исцелилась</p>
-      <p>девушка встала постели братья заспорили кого должна выйти замуж аксакалов говорит</p>
-      <p>зеркало цело ковер цел яблоко съедено поэтому девушка должна стать женой третьего брата</p>
-      <p>девушка вышла замуж третьего брата стали жить счастье довольстве</p>
-    </body>
-  </text>
-</TEI>
+     <head>27. Три брата</head>
+     <p>близнеца братья времена давние друг друга жили красивы невозможно очень похожи различить старик старухой сына</p><p>братьев встретил девушка девушку друг друга женой лес обещала полюбили пошел стать юноши</p><p>брат брат влюбился выйти девушка девушку день жених замуж лес отправился просить решила следующий стал увидев это юноша</p><p>возразила выйти девушка думает женой обещала ответила согласна стать таки юноше</p><p>брат брата девушка девушку день жениха лес повстречал полюбил похожи пошел приняла своего следующий третий трое</p><p>говорит женой моей обещай стать юноша</p><p>выйти дважды девушка думает женой замуж обещала пообещала свои скрыла сомнения стать странный человек юноше</p><p>брата второй говорил каждый матерью нашли невесту отцу прекрасна свете сказали</p><p>братья братья вошли двумя девушка день дом дружками жених заметила идет издали лицо настал невестой одно отправились растерялась решила свадьбы своей это юношей</p><p>девушка думает жених</p><p>братьев виде девушки каждый сказал</p><p>невеста</p><p>братья девушки достоин других заспорили именно каждый старался убедить</p><p>девушка сказала</p><p>вещь давайте диковинную женой принесет сделаем стану</p><p>братья отправились разные стороны</p><p>базаре братьев дорогами зеркало одном одном оно разными рублей сошлись стоило тысячу увидел ханстве шли</p><p>дорого почему спрашивает юноша</p><p>зеркало нем отвечают пожелает простое увидеть человек это</p><p>вещи диковинной зеркало купил мире нужно обрадовался это юноша</p><p>базаре брат ковер ковер красивый рублей стоил тысячу увидел</p><p>дорого почему спрашивает юноша</p><p>зеркало нем отвечают пожелает простое увидеть человек это</p><p>вещи диковинной зеркало купил мире нужно обрадовался это юноша</p><p>базаре брат ковер ковер красивый рублей стоил тысячу увидел</p><p>дорого почему спрашивает юноша</p><p>ковер любое место моргнуть перенесет простой успеешь это</p><p>диковинки ковер купил мире подумал юноша</p><p>базаре брат одного рублей старика стоило третий тысячу увидел яблоко яблоко</p><p>дорого почему спрашивает юноша</p><p>болезни исцелится любой немного отвечает откусит простое старик это яблоко</p><p>купил обрадовался юноша яблоко</p><p>базара брат братья ворот встретились дал девушка девушка девушка девушки делает заглянуть зеркало исцелилась ковер оказались отведать покупками посмотреть постели похваляться решили своими сели смерти смотрят стали третий чудесное яблока</p><p>аксакалов братья встала выйти говорит девушка должна замуж заспорили кого постели</p><p>брата девушка должна женой зеркало ковер поэтому стать съедено третьего цел цело яблоко</p><p>брата вышла девушка довольстве жить замуж стали счастье третьего</p></body>
+   </text>
+  </TEI>

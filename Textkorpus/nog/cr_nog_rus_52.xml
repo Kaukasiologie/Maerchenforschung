@@ -1,147 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Ногайские народные сказки</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Ногайские народные сказки</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="nog">Ногай эртегилер.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 115–117.</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="nog">Ногай эртегилер.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 115–117.</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_52">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_52">
     <body>
-      <head>45. Судья </head>
-      <p>шили брата младший судьей старший вел хозяйство</p>
-      <p>младший брат говорит старшему</p>
-      <p>твоем месте вел хозяйство другому</p>
-      <p>старший обиделся говорит</p>
-      <p>легко тебе рассуждать сидя дома знаешь отдыхаешь вся твоя работа болтать языком попробовал вести хозяйство сразу понял это тяжело</p>
-      <p>отвечает младший тебе кажется судьей проще давай поменяемся будешь выполнять мою работу твою</p>
-      <p>сделали старший брат стал судить младший вел хозяйство</p>
-      <p>однажды пришли дом двое охотников попросили разрешить спор старший брат который должен рассудить говорит</p>
-      <p>расскажите дело</p>
-      <p>охотник говорит</p>
-      <p>шел лесу увидел марала выстрелил пуля попала голову это убил</p>
-      <p>возражает второй охотник марала убил выстрелил пуля пробила заднюю ногу ухо марала</p>
-      <p>старший брат рассудил</p>
-      <p>марал принадлежит первому одна та пуля попасть сразу ногу ухо</p>
-      <p>первый охотник остался очень доволен новым судьей</p>
-      <p>охотники ушли младший брат говорит старшему</p>
-      <p>рассудил неверно похоже правду говорил второй охотник марал тер задней ногой ухо пуля действительно могла одновременно пробить ногу ухо</p>
-      <p>пришлось старшему брату признать правоту младшего</p>
-      <p>несколько дней суд пришли человека жили соседству каждый имел верблюдицу однажды увидели обе верблюдицы облизывают одного верблюжонка верблюжонок решил каждый поссорились пришли судье разрешил спор</p>
-      <p>старший брат взглянул верблюдиц которых спорщики привели собой сказал указывая одну</p>
-      <p>верблюжонка произвела свет эта верблюдица живот втянутый</p>
-      <p>младший брат выдержал говорит</p>
-      <p>обижайся рассудил неверно моему спор разрешить посадить верблюжонка лодку оттолкнуть берега мать верблюжонка бросится воду другая верблюдица тронется места</p>
-      <p>спорщикам понравилось это решение ушли старший брат понял судья никудышный принялся свои прежние дела</p>
-    </body>
-  </text>
-</TEI>
+     <head>45. Судья </head>
+     <p>брата вел младший старший судьей хозяйство шили</p><p>брат говорит младший старшему</p><p>вел другому месте твоем хозяйство</p><p>говорит обиделся старший</p><p>болтать вести вся дома знаешь легко отдыхаешь понял попробовал работа рассуждать сидя сразу твоя тебе тяжело хозяйство это языком</p><p>будешь выполнять давай кажется младший мою отвечает поменяемся проще работу судьей твою тебе</p><p>брат вел младший сделали стал старший судить хозяйство</p><p>брат говорит двое должен дом который однажды охотников попросили пришли разрешить рассудить спор старший</p><p>дело расскажите</p><p>говорит охотник</p><p>выстрелил голову лесу марала попала пуля убил увидел шел это</p><p>возражает второй выстрелил заднюю марала марала ногу охотник пробила пуля убил ухо</p><p>брат рассудил старший</p><p>марал ногу одна первому попасть принадлежит пуля сразу та ухо</p><p>доволен новым остался охотник очень первый судьей</p><p>брат говорит младший охотники старшему ушли</p><p>второй говорил действительно задней марал могла неверно ногой ногу одновременно охотник похоже правду пробить пуля рассудил тер ухо ухо</p><p>брату младшего правоту признать пришлось старшему</p><p>верблюдицу верблюдицы верблюжонка верблюжонок дней жили имел каждый каждый несколько обе облизывают однажды одного поссорились пришли пришли разрешил решил соседству спор суд судье увидели человека</p><p>брат верблюдиц взглянул которых одну привели сказал собой спорщики старший указывая</p><p>верблюдица верблюжонка втянутый живот произвела свет эта</p><p>брат выдержал говорит младший</p><p>берега бросится верблюдица верблюжонка верблюжонка воду другая лодку мать места моему неверно обижайся оттолкнуть посадить разрешить рассудил спор тронется</p><p>брат дела никудышный понравилось понял прежние принялся решение свои спорщикам старший судья ушли это</p></body>
+   </text>
+  </TEI>

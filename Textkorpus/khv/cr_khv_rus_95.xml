@@ -1,139 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/556344/inkhokvari.html">Inkhokvari</settlement>
-          <geo/>
-        </placeName>
-        <date>2011</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Заграт Дж.</forename>
-            <surname xml:lang="rus">Магомедова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1954</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/556344/inkhokvari.html">Inkhokvari</settlement>
+       <geo />
+      </placeName>
+      <date>2011</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Заграт Дж.</forename>
+        <surname xml:lang="rus">Магомедова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1954</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_95">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_95">
     <body>
-      <head>БЕРЁЗА</head>
-      <p>росла тропинки раскидистая ветвистая берёза тропинке ежедневно шли люди одни детьми другие навьюченными ослами берёза жару давала прохладу зимой покрытая серебряным инеем радовала сердце путникам уставшие путники достав трапезу отдыхали её тени рядом текла река которая своим журчанием ласкала слух впереди рос смешанный лес всё это снимало усталость путники передышки бодро продолжали путь</p>
-      <p>асият расуловне часто приходилось ходить тропинке работала соседнем селе учительницей биологии всё окружало её долгой дороге камень изпод которого бульканьем пробивалась минеральная вода регьа деревья скале водопада ручьи реки родного хваршинского ущелья казалось чудом всё это воздавала хвалу создателю т эта берёза особой радостью её трудном пути могла часами засиживаться писать стихи сами напрашивались осенью золотыми монетами листья падали её записную книжку некоторые сохраняла память проходило время</p>
-      <p>однажды это весной асият расуловна пешком шла дороге этому времени хварши проведена автомобильная дорога сердце её восторженно билось руках неё пятимесячная дочка спешила берёзе чувствовала усталости хотелось поделиться большой радостью берёзой показать ненаглядную дочь показать чудо чуду казалось владеет языком деревьев чём детства мечтала хотела берёза своими позеленевшими нежными листочками сопереживала вместе её радость</p>
-      <p>ужас берёзы месте мокрый большой пенёк полный берёзовых слёз вай аллах т вырвалось асият расуловны прижала нахмурившуюся дочку стала колени погладила мокрый пень голос плакать посмела слишком чутко дочь улавливала её настроение слёзы катились глаз слились берёзовым соком коекак успокоившись оглянулась нигде веточки берёзы сквозь землю провалилась человек побывал палач природы это распилил красоту отчаянии пронеслось её голове будь проклята твоя рука пусть самый жаркий день найдёшь тени произнесла вслух пошла дороге какую нужду жестокий человек срубил вопрошала прости берёза родная шептала</p>
-      <p>деревья умели бежать олень спасая красоту смерти сокрушалась асият</p>
-      <p>дочурка её размахала руками приглашая маму оглянуться вокруг посмотреть дикую красоту деревьев росших скалах недоступных топору</p>
-      <p>растёшь милая спросила берёзу словно первый увидела это окрепшее камне дерево рядом тобой леса воды асият показалось берёза зашуршала ветвями ответила рада расту высоте ступит нога человека достигнет рука топор жалей тонка сила моих корнях</p>
-      <p>эта красота защищена самим создателем т</p>
-      <p>деревья любят землю уходят никуда прошептала продолжила свой путь неописуемому хваршинскому ущелью</p>
-    </body>
-  </text>
-</TEI>
+     <head>БЕРЁЗА</head>
+     <p>берёза берёза бодро ветвистая впереди всё давала детьми достав другие ежедневно её жару журчанием зимой инеем которая ласкала лес люди навьюченными одни ослами отдыхали передышки покрытая продолжали прохладу путникам путники путники путь радовала раскидистая река рос росла рядом своим сердце серебряным слух смешанный снимало текла тени трапезу тропинке тропинки уставшие усталость шли это</p><p>асият берёза биологии бульканьем вода водопада воздавала время всё всё деревья долгой дороге её её её записную засиживаться золотыми изпод казалось камень книжку которого листья минеральная могла монетами напрашивались некоторые окружало осенью особой падали память писать приходилось пробивалась проходило пути работала радостью расуловне регьа реки родного ручьи сами селе скале создателю соседнем сохраняла стихи т тропинке трудном учительницей ущелья хвалу хваршинского ходить часами часто чудом эта это</p><p>автомобильная асият берёза берёзе берёзой билось большой весной владеет вместе восторженно времени деревьев детства дорога дороге дочка дочь её её казалось листочками мечтала нежными ненаглядную неё однажды пешком поделиться позеленевшими показать показать проведена пятимесячная радость радостью расуловна руках своими сердце сопереживала спешила усталости хварши хотела хотелось чувствовала чудо чуду чём шла это этому языком</p><p>аллах асият берёза берёзовым берёзовых берёзы берёзы большой будь вай веточки вопрошала вслух вырвалось глаз голове голос день дороге дочку дочь её её жаркий жестокий землю какую катились коекак колени красоту месте мокрый мокрый найдёшь настроение нахмурившуюся нигде нужду оглянулась отчаянии палач пень пенёк плакать побывал погладила полный посмела пошла прижала природы провалилась произнесла проклята пронеслось прости пусть распилил расуловны родная рука самый сквозь слились слишком слёз слёзы соком срубил стала т твоя тени ужас улавливала успокоившись человек человек чутко шептала это</p><p>асият бежать деревья красоту олень смерти сокрушалась спасая умели</p><p>вокруг деревьев дикую дочурка её красоту маму недоступных оглянуться посмотреть приглашая размахала росших руками скалах топору</p><p>асият берёза берёзу ветвями воды высоте дерево достигнет жалей зашуршала камне корнях леса милая моих нога окрепшее ответила первый показалось рада расту растёшь рука рядом сила словно спросила ступит тобой тонка топор увидела человека это</p><p>защищена красота самим создателем т эта</p><p>деревья землю любят неописуемому никуда продолжила прошептала путь свой уходят ущелью хваршинскому</p></body>
+   </text>
+  </TEI>

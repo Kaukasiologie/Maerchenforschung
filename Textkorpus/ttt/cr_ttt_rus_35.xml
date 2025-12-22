@@ -1,163 +1,134 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tatische Folklore</title>
-        <title xml:lang="eng">Tat Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tatische Folklore</title>
+      <title xml:lang="eng">Tat Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ttt">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ttt">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+       <geo />
+      </placeName>
+      <date>1939</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Хизгиё-Эми</forename>
+        <surname xml:lang="rus">Дадашев</surname>
+       </persName>
+       <age />
+       <birth>
         <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-          <geo/>
+         <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+         <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+         <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
+         <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
+         <geo />
         </placeName>
-        <date>1939</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Хизгиё-Эми</forename>
-            <surname xml:lang="rus">Дадашев</surname>
-          </persName>
-          <age/>
-          <birth>
-            <placeName>
-              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-              <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
-              <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
-              <geo/>
-            </placeName>
-            <date>1854</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Амалдан</forename>
-            <surname xml:lang="rus">Кукуллу</surname>
-          </persName>
-        </person>
-      </particDesc>
+        <date>1854</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Амалдан</forename>
+        <surname xml:lang="rus">Кукуллу</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ttt_rus_35">
+   </teiHeader>
+   <text xml:id="cr_ttt_rus_35">
     <body>
-      <head>19. Сны трех охотников</head>
-      <p>отправились трое юношей лес охоту долго бродили надежде подстрелить какую птицу зверя зверь птица попадались глаза солнце успело проделать половину своего дневного пути охотники почувствовали ноги отказываются носить</p>
-      <p>хочу сказал охотников</p>
-      <p>сказал</p>
-      <p>присели стали запили трапезу родниковой водой снова отправились охотиться</p>
-      <p>долго бродили лесу встретили никакой дичи</p>
-      <p>незаметно подкрался вечер усталость</p>
-      <p>хочу сказал охотников</p>
-      <p>сказал</p>
-      <p>ия сказал третий начала конец должен охотники ели днем забыли вечер оставить съели ужин оставили одни воспоминания</p>
-      <p>долго бродили трое голодных уставших юношей лесу молчали каждый голоду свой язык проглотил оставалось делать разговорами сыт будешь</p>
-      <p>одип охотников остановился чувствуете запах еды спросил друзей</p>
-      <p>это голод пахнет пошутил охотников</p>
-      <p>понюхайте ответил первый охотник н стал вертеться стороны понять откуда доносится запах</p>
-      <p>принюхались двое других юношей вправду доходил запах еды стороны шел дразнящий запах охотники могли определить набравшись сил взобрался дерево наверху запах лез нос охотник сидел дереве вдыхал вкусный запах друзья давали покоя засыпали вопросами видно готовят</p>
-      <p>слез охотник дерева пошли трое ту сторону откуда доносился запах еды вышли леса опушку увидели чабана сидел мангала котором кипело петиле какое варево подкладывал огонь сухой хворост</p>
-      <p>обменялись приветствиями охотники чабан пришедшие рассказали чабану делают лесу</p>
-      <p>выслушал рассказ чабан говорит</p>
-      <p>мои дорогие кунаки голодных накормить это дело доброе моем петиле картошки варится трое четвертый хватит нам ужин кушанья дам совет ложитесь трое спать утром картошка достанется тому увидит самый интересный сон</p>
-      <p>оставалось делать охотникам легли уснули</p>
-      <p>утром едва птицы возвестили рассвет охотники проснулись проснулся чабан</p>
-      <p>дорогие мои кунаки рассказывайте кому снилось говорит чабан сели охотники чабан круг петил поставили середине</p>
-      <p>вчера ночью сне гостях самого шейх ислама рассказывает охотник сводит глаз петила думаете окружили муллы везиры почтением приглашают гости погостил каждого рассказал свои охотничьи приключения очень понравился рассказ приходи просили сон приснился заключил охотник свой рассказ</p>
-      <p>дорогой кунак вправду интересный сон тебе приснился очень интересный послушаем скажут твои друзья говорит чабан приснилось шаха ирана начал рассказывать свой сон второй охотник правой стороны сидели векилы шаха левой везиры низко кланялись видя такое почтение ко стороны своих придворных шах выстроил дворец камень золотой мраморный тахта вся эршефи застлана семью бухарскими коврами восседаю тахте голове золотая корона предо мной шашлыки вино сон снился закончил свой рассказ охотник вспомнив вторые сутки голодный бросил жадный взгляд петил картошкой</p>
-      <p>дорогой кунак твой сон интереснее сони твоего друга сказал чабан добавил послушаем нам расскажет тпеэтий ваш друг</p>
-      <p>третий встал низко клаияясь сказал</p>
-      <p>гостеприимный мудрый чабан рассказывали мои друзья видел сне видел друг почетным гостем самого шейх ислама владел дворцом построенным золота мрамора сидел золотой тахте бухарских коврах ел шашлыки пил дорогие вина побывал одного моего друга гостях другого соизволил угостить голодного хотя костью той баранины которую ели сильно проголодавшись сердитый своих друзей проснулся ночью съел картошку петила закончил свой рассказ третий охотник добавил такие богатые люди мои друзья стали быесть вареную картошку которой угощал наш дорогой гостеприимный чабан</p>
-      <p>охотники молча переглянулись чабан громко рас смеялся смекалке третьего охотника</p>
-    </body>
-  </text>
-</TEI>
+     <head>19. Сны трех охотников</head>
+     <p>бродили глаза дневного долго зверь зверя какую лес надежде ноги носить отказываются отправились охотники охоту подстрелить половину попадались почувствовали проделать птица птицу пути своего солнце трое успело юношей</p><p>охотников сказал хочу</p><p>сказал</p><p>водой запили отправились охотиться присели родниковой снова стали трапезу</p><p>бродили встретили дичи долго лесу никакой</p><p>вечер незаметно подкрался усталость</p><p>охотников сказал хочу</p><p>сказал</p><p>вечер воспоминания днем должен ели забыли ия конец начала одни оставили оставить охотники сказал съели третий ужин</p><p>бродили будешь голодных голоду делать долго каждый лесу молчали оставалось проглотил разговорами свой сыт трое уставших юношей язык</p><p>друзей еды запах одип остановился охотников спросил чувствуете</p><p>голод охотников пахнет пошутил это</p><p>вертеться доносится запах н ответил откуда охотник первый понюхайте понять стал стороны</p><p>вдыхал взобрался видно вкусный вопросами вправду готовят давали двое дереве дерево доходил дразнящий других друзья еды запах запах запах запах засыпали лез могли набравшись наверху нос определить охотник охотники покоя принюхались сидел сил стороны шел юношей</p><p>варево вышли дерева доносился еды запах какое кипело котором леса мангала огонь опушку откуда охотник петиле подкладывал пошли сидел слез сторону сухой трое ту увидели хворост чабана</p><p>делают лесу обменялись охотники приветствиями пришедшие рассказали чабан чабану</p><p>выслушал говорит рассказ чабан</p><p>варится голодных дам дело доброе дорогие достанется интересный картошка картошки кунаки кушанья ложитесь моем мои накормить нам петиле самый совет сон спать тому трое трое увидит ужин утром хватит четвертый это</p><p>делать легли оставалось охотникам уснули</p><p>возвестили едва охотники проснулись проснулся птицы рассвет утром чабан</p><p>говорит дорогие кому круг кунаки мои охотники петил поставили рассказывайте сели середине снилось чабан чабан</p><p>везиры вчера глаз гости гостях думаете заключил ислама каждого муллы ночью окружили охотник охотник охотничьи очень петила погостил понравился почтением приглашают приключения приснился приходи просили рассказ рассказ рассказал рассказывает самого сводит свои свой сне сон шейх</p><p>бросил бухарскими везиры векилы взгляд видя вино восседаю вправду вспомнив вся второй вторые выстроил говорит голове голодный дворец дорогой друзья жадный закончил застлана золотая золотой интересный интересный ирана камень картошкой кланялись ко коврами корона кунак левой мной мраморный начал низко охотник охотник очень петил послушаем почтение правой предо придворных приснилось приснился рассказ рассказывать своих свой свой семью сидели скажут снился сон сон сон стороны стороны сутки такое тахта тахте твои тебе чабан шах шаха шаха шашлыки эршефи</p><p>ваш добавил дорогой друг друга интереснее кунак нам послушаем расскажет сказал сон сони твоего твой тпеэтий чабан</p><p>встал клаияясь низко сказал третий</p><p>баранины богатые бухарских быесть вареную видел видел вина владел голодного гостем гостеприимный гостеприимный гостях дворцом добавил дорогие дорогой друг друга другого друзей друзья друзья ел ели закончил золота золотой ислама картошку картошку коврах костью которой которую люди моего мои мои мрамора мудрый наш ночью одного охотник петила пил побывал построенным почетным проголодавшись проснулся рассказ рассказывали самого своих свой сердитый сидел сильно сне соизволил стали съел такие тахте той третий угостить угощал хотя чабан чабан шашлыки шейх</p><p>громко молча охотника охотники переглянулись рас смекалке смеялся третьего чабан</p></body>
+   </text>
+  </TEI>

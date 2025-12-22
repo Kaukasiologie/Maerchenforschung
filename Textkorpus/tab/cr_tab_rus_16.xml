@@ -1,153 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tabasaranisch Folklore</title>
-        <title xml:lang="eng">Tabasaran Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tabasaranisch Folklore</title>
+      <title xml:lang="eng">Tabasaran Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>ФЛ ДГПУ</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>ФЛ ДГПУ</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="tab">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/800008/rugudzh.html">Rugudzh</settlement>
-          <geo/>
-        </placeName>
-        <date>1988</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Алибеков</surname>
-          </persName>
-          <age>68</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Михралиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.М.</forename>
-            <surname xml:lang="rus">Курбанов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="tab">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/800008/rugudzh.html">Rugudzh</settlement>
+       <geo />
+      </placeName>
+      <date>1988</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Алибеков</surname>
+       </persName>
+       <age>68</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Михралиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.М.</forename>
+        <surname xml:lang="rus">Курбанов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_tab_rus_16">
+   </teiHeader>
+   <text xml:id="cr_tab_rus_16">
     <body>
-      <head>118 Азай (таб.)</head>
-      <p>жил давние времена селе чурдаф лентяй имени азай целыми днями бездельничал владел никаким ремеслом желания работать батраком вся семья держалась старой матери однажды утром азай проснулся сказал маме</p>
-      <p>мама дай хлеб позавтракаю сидеть дела найти работу сколько терпеть насмешки сельчан</p>
-      <p>обрадовалась мать услышав такие слова говорит сыну</p>
-      <p>спасибо джан сынок пора тебе взяться ум</p>
-      <p>положив пару лепешек хурджины азай ушел дома поиски работы долго ходил селам пока очутился селе аркит дворе богача бегбалы поздоровавшись беком юноша сообщил цели своего прихода бегбала богатым человеком работали семь слуг бек пожалел юношу решил взять работу азай любил работать зная бек взял дворником азай помимо уборки двора кормил кур цыплят зная эта работа легкая каждый день платил абаси</p>
-      <p>прошло несколько дней азаю привыкшему труду скучно каждый день убирать дворе кормить кур цыплят однажды бек возвращался домой азай сидел дворе травке закинув ногу ногу курил увидев своего слугу бегбала говорит</p>
-      <p>дела азай вижу любишь работу</p>
-      <p>здоровья бегбала работай работай равно будешь платить равно куры сами найдут корм двор уберу завтра каждый день подметать большой двор</p>
-      <p>разозлился хозяин приказал нукерам немедленно выгнать азая азай запустил тазиком кормом цыплят шесть цыплят сразу вытянули лапки слуги погнались азай вылетел двора пуля скоро исчез селения</p>
-      <p>убежав подальше села лентяй азай вспомнил тете которая жила хапиле тетя очень обрадовалась племяннику расспросила гостя сем угостила кое сама пошла кувшином водой азай голодный дороги души поел затем погулял дому двору случайно хлеву заметил корзину яйцами</p>
-      <p>азай отобрал десять яиц положил шапку надел голову одной комнат гость наткнулся горшок маслом азай торопливо уплетал масло рука застряла горлышке горшка азай долго пытался вытащить руку горлышко очень узким старания освободить руку чему привели вскоре азай услышал дворе шаги приближающейся тетушки делать оставалось обмотать руку тряпкой сунуть пазуху быстро вернулся сел скатерть стол</p>
-      <p>случилось джан племянничек почему ешь рукой пока руку поранил ножом дай ка посмотрю</p>
-      <p>азай задрожал спрятал руку дальше пазуху</p>
-      <p>джан тетушка особенного случилось сегодня шел сюда упал сломал руку бойся тетушка рука заживет быстро уверен</p>
-      <p>джан племянник сказала тетя силой вытащила руку азая оказывается рука застряла горшке маслом</p>
-      <p>слушай джан племянничек почему попросил угостила маслом эх негодник закричала дала подзатыльник</p>
-      <p>рука тети коснулась головы шапки азая потекли разбитые голове яичные желтки гость вскочил выбежал двор висел барабан азай схватил убежал селения хапиль</p>
-      <p>азай добрался своего селения остановился думая пойти домой кувшином масла никого встретить азай решил укрыться сарае окраине села спрятался соломой некоторое время вечеру соседка периханум баджи зашла сарай плетенкой сена спине следом вошел муж гаджимустафа</p>
-      <p>жена дома дети дают нам поговорить начал разговор гаджимустафа ка скажи приглянулся тебе</p>
-      <p>эй бай дети знаешь тобой танцевали свадьбе соседки шекер черкеске серебряным кинжалом</p>
-      <p>гаджимустафа взял сунул пояс палку надел корзину голову начал танцевать периханум увлеченная этим охотно пустилась мужем пляс азай наблюдал происходящим танец соседей разгаре азай вышел сказал</p>
-      <p>бывает танец музыки изо сил начал барабанить</p>
-      <p>услышав звук думая это шайтаны периханум муж криком выскочили сарая азай пришел домой мать спросила случилось азай говорит</p>
-      <p>спрашивай мать случилось иди спроси нашей тети нашей соседки периханум останутся живы утра</p>
-    </body>
-  </text>
-</TEI>
+     <head>118 Азай (таб.)</head>
+     <p>азай азай батраком бездельничал владел времена вся давние держалась днями желания жил имени лентяй маме матери никаким однажды проснулся работать ремеслом селе семья сказал старой утром целыми чурдаф</p><p>дай дела мама найти насмешки позавтракаю работу сельчан сидеть сколько терпеть хлеб</p><p>говорит мать обрадовалась слова сыну такие услышав</p><p>взяться джан пора спасибо сынок тебе ум</p><p>абаси азай азай азай аркит бегбала бегбалы бек бек беком богатым богача взял взять двора дворе дворником день долго дома зная зная каждый кормил кур легкая лепешек любил очутился пару платил пожалел поздоровавшись поиски пока положив помимо прихода работа работали работать работу работы решил своего селам селе семь слуг сообщил уборки ушел ходил хурджины цели цыплят человеком эта юноша юношу</p><p>азай азаю бегбала бек возвращался говорит дворе дворе день дней домой закинув каждый кормить кур курил несколько ногу ногу однажды привыкшему прошло своего сидел скучно слугу травке труду убирать увидев цыплят</p><p>азай вижу дела любишь работу</p><p>бегбала большой будешь двор двор день завтра здоровья каждый корм куры найдут платить подметать работай работай равно равно сами уберу</p><p>азай азай азая выгнать вылетел вытянули двора запустил исчез кормом лапки немедленно нукерам погнались приказал пуля разозлился селения скоро слуги сразу тазиком хозяин цыплят цыплят шесть</p><p>азай азай водой вспомнил голодный гостя двору дому дороги души жила заметил затем кое корзину которая кувшином лентяй обрадовалась очень племяннику погулял подальше поел пошла расспросила сама села сем случайно тете тетя убежав угостила хапиле хлеву яйцами</p><p>азай азай азай азай быстро вернулся вскоре вытащить голову горлышке горлышко горшка горшок гость дворе делать десять долго застряла комнат масло маслом надел наткнулся обмотать одной освободить оставалось отобрал очень пазуху положил приближающейся привели пытался рука руку руку руку сел скатерть старания стол сунуть тетушки торопливо тряпкой узким уплетал услышал чему шаги шапку яиц</p><p>дай джан ешь ка ножом племянничек пока поранил посмотрю почему рукой руку случилось</p><p>азай дальше задрожал пазуху руку спрятал</p><p>бойся быстро джан заживет особенного рука руку сегодня сломал случилось сюда тетушка тетушка уверен упал шел</p><p>азая вытащила горшке джан застряла маслом оказывается племянник рука руку силой сказала тетя</p><p>дала джан закричала маслом негодник племянничек подзатыльник попросил почему слушай угостила эх</p><p>азай азая барабан висел вскочил выбежал голове головы гость двор желтки коснулась потекли разбитые рука селения схватил тети убежал хапиль шапки яичные</p><p>азай азай баджи вечеру вошел время встретить гаджимустафа добрался домой думая зашла кувшином масла муж некоторое никого окраине остановился периханум плетенкой пойти решил сарае сарай своего села селения сена следом соломой соседка спине спрятался укрыться</p><p>гаджимустафа дают дети дома жена ка нам начал поговорить приглянулся разговор скажи тебе</p><p>бай дети знаешь кинжалом свадьбе серебряным соседки танцевали тобой черкеске шекер эй</p><p>азай азай взял вышел гаджимустафа голову корзину мужем наблюдал надел начал охотно палку периханум пляс пояс происходящим пустилась разгаре сказал соседей сунул танец танцевать увлеченная этим</p><p>барабанить бывает изо музыки начал сил танец</p><p>азай азай выскочили говорит домой думая звук криком мать муж периханум пришел сарая случилось спросила услышав шайтаны это</p><p>живы иди мать нашей нашей останутся периханум случилось соседки спрашивай спроси тети утра</p></body>
+   </text>
+  </TEI>

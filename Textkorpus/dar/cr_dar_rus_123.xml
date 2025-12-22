@@ -1,139 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/551590/kaytagskiy-rayon.html">Kaytagskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/500622/ruka.html">Ruka</settlement>
-          <geo/>
-        </placeName>
-        <date>1957</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Абдусалам</forename>
-            <surname xml:lang="rus">Арслангиреев</surname>
-          </persName>
-          <age>51</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Абдуллаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/551590/kaytagskiy-rayon.html">Kaytagskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/500622/ruka.html">Ruka</settlement>
+       <geo />
+      </placeName>
+      <date>1957</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Абдусалам</forename>
+        <surname xml:lang="rus">Арслангиреев</surname>
+       </persName>
+       <age>51</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Абдуллаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_123">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_123">
     <body>
-      <head>КАК КАШУ МАСЛОМ ЗАПРАВИЛИ</head>
-      <p>жили свете муж женой жили очень бедно добывали хлеб возили лесу дрова продавали однажды муж собрался лес арбоп жене наказал приготовить приходу кашу муж вернулся полудню лесу наполнив подводу борными дровами дуба граба жена жо приготовила этому времени хорошую кашу беда нечем заправить стали муж женой думать сдобрить кашу раздобыть нашли грустью вспомнили сосед ям приходится задумываться</p>
-      <p>действительно очень богатые соседи кладовая полна припасов пей стояли ряд огромные бурдюки маслом попросить масла стоило пытаться это очень скупые люди задумался муж говорит жене</p>
-      <p>придумал возьму руки начну сделаю вид хочу избить поднимай крик пог беги соседям побегу тобой попроси спрятали боишься убил спрячут кладовке гы п возьми масла возвращайся домой</p>
-      <p>задумали сделали муж взял палку изобразив лице ярость стал кричать жена начала выть стонать выскочила дому плачем ворвалась соседям стала умолять те спрятали это время дом стал рваться муж спрятали женщину своей кладовой мужа задержали комнате стал ругаться требовать выдали жену та подобралась маслу неудача бурдюки долго никто открывал заскорузли сверху стали твердыми камень отверстия сузились пе никакой возможности та щитъ оттуда масло стала жена думать просунуть туда руку достать масла тго смогла приду мать н растерялась это время отта услышала голос мужа который бранясь говорил хозяевам</p>
-      <p>выдайте убью собаку негодную</p>
-      <p>закричала ода кладовки</p>
-      <p>сделаешь хвастунишка черствый сын твердокожих</p>
-      <p>муж сразу догадался бурдюк затвердел жена пе взять масла крикнул ответ</p>
-      <p>выходи скорее песчастная растирающими вожу жиром порожденная покажу тебе убивают негодных жен</p>
-      <p>жена поняла слов нужно растереть верх бурдюка кусочком жира натерла опа жиром бурдюк сразу размягчился сумела достать масло затем сказала хозяйке та зашла выпустили черного хода пока муж сидит комнате хозяева выпустили чероз черный ход опа спокойно отправилась домом стала ждать мужа некоторое время пришел быстро помирились заправили кашу маслом всласть поели книгу ту ел принести хотел ие хватило</p>
-    </body>
-  </text>
-</TEI>
+     <head>КАК КАШУ МАСЛОМ ЗАПРАВИЛИ</head>
+     <p>арбоп беда бедно борными вернулся возили времени вспомнили граба грустью добывали дрова дровами дуба думать жена жене женой женой жили жили жо задумываться заправить кашу кашу кашу лес лесу лесу муж муж муж муж наказал наполнив нашли нечем однажды очень подводу полудню приготовила приготовить приходится приходу продавали раздобыть свете сдобрить собрался сосед стали хлеб хорошую этому ям</p><p>богатые бурдюки говорит действительно жене задумался кладовая люди масла маслом муж огромные очень очень пей полна попросить припасов пытаться ряд скупые соседи стоило стояли это</p><p>беги боишься вид возвращайся возьми возьму гы домой избить кладовке крик масла начну п побегу пог поднимай попроси придумал руки сделаю соседям спрятали спрячут тобой убил хочу</p><p>бранясь бурдюки взял возможности ворвалась время время выдали выскочила выть говорил голос долго дом дому достать думать жена жена жену женщину задержали задумали заскорузли изобразив камень кладовой комнате который кричать лице масла масло маслу мать муж муж мужа мужа н начала неудача никакой никто отверстия открывал отта оттуда палку пе плачем подобралась приду просунуть растерялась рваться ругаться руку сверху своей сделали смогла соседям спрятали спрятали стал стал стал стала стала стали стонать сузились та та твердыми тго те требовать туда умолять услышала хозяевам щитъ это это ярость</p><p>выдайте негодную собаку убью</p><p>закричала кладовки ода</p><p>сделаешь сын твердокожих хвастунишка черствый</p><p>бурдюк взять догадался жена затвердел крикнул масла муж ответ пе сразу</p><p>вожу выходи жен жиром негодных песчастная покажу порожденная растирающими скорее тебе убивают</p><p>бурдюк бурдюка быстро верх время всласть выпустили выпустили домом достать ел ждать жена жира жиром заправили затем зашла ие кашу книгу комнате кусочком масло маслом муж мужа натерла некоторое нужно опа опа отправилась поели пока помирились поняла принести пришел размягчился растереть сидит сказала слов спокойно сразу стала сумела та ту хватило ход хода хозяева хозяйке хотел черного черный чероз</p></body>
+   </text>
+  </TEI>

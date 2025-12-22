@@ -1,144 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Kumykische Folklore</title>
-        <title xml:lang="eng">Kumyk Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Kumykische Folklore</title>
+      <title xml:lang="eng">Kumyk Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="kum">Нарт, сост. А. Аканов</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="kum">Махачкала, 1956, стр. 26</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="kum">Нарт, сост. А. Аканов</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="kum">Махачкала, 1956, стр. 26</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="kum">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/544007/kostek.html">Kostek</settlement>
-          <geo/>
-        </placeName>
-        <date>1938</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Акавов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="kum">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/544007/kostek.html">Kostek</settlement>
+       <geo />
+      </placeName>
+      <date>1938</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Акавов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_kum_rus_41">
+   </teiHeader>
+   <text xml:id="cr_kum_rus_41">
     <body>
-      <head>90. Умалат, поднявший оружие </head>
-      <p>шамхала шамхал скакал улице коне вставали сняв шапки приветствовали провожали пока скрывался глаз</p>
-      <p>однажды шамхал отправлялся бедняк умалат сидел очаре проезжая мимо умалата шамхал поздоровался умалат пошевельнулся хотя другие задолго появления шамхала встали обнажили головы</p>
-      <p>возвращаясь вечером шамхал заметил умалата очаре подъехал приветствовал умалата</p>
-      <p>умалат встал сняв папаху ответил приветствие</p>
-      <p>шамхал спросил</p>
-      <p>умалат утреннее уважение оставил вечер</p>
-      <p>ч умалат ответил</p>
-      <p>шамхал утреннюю человечность вечер оста</p>
-      <p>вил</p>
-      <p>шамхал сказал ум ал ату сегодня вечером гостях уехал</p>
-      <p>умалат пошел домой говорит брату</p>
-      <p>сегодня ночью придет шамхал зарежь барана приготовь бузу держи наготове пистолет придут встань дверей пусть видят вооружен</p>
-      <p>умалат знал привычки шамхала приходил гости своей жертве пил гулял подав знак своему везиру убивал хозяина</p>
-      <p>вечером шамхал везирами пришел умалату умалат поднял чарку младший брат выставив пистолет стоял дверей умалат приготовил оружие зорко следя шамхалом заметил готов подать сигнал убийству</p>
-      <p>умалат протянул левой рукой рог шамхалу правую положил рукоятку пистолета сказал такое четверостишие</p>
-      <p>закон садовников шамхал летом обрезать деревья</p>
-      <p>постигнет человека несчастье закрыв глаза готов проглотить камни</p>
-      <p>шамхал подавай знаки сказал умалат приставил пистолет груди шамхала</p>
-      <p>шамхал понял сказал</p>
-      <p>готов оставить пощадишь</p>
-      <p>пришлось уйти вместе своими везирами</p>
-    </body>
-  </text>
-</TEI>
+     <head>90. Умалат, поднявший оружие </head>
+     <p>вставали глаз коне пока приветствовали провожали скакал скрывался сняв улице шамхал шамхала шапки</p><p>бедняк встали головы другие задолго мимо обнажили однажды отправлялся очаре поздоровался пошевельнулся появления проезжая сидел умалат умалат умалата хотя шамхал шамхал шамхала</p><p>вечером возвращаясь заметил очаре подъехал приветствовал умалата умалата шамхал</p><p>встал ответил папаху приветствие сняв умалат</p><p>спросил шамхал</p><p>вечер оставил уважение умалат утреннее</p><p>ответил умалат ч</p><p>вечер оста утреннюю человечность шамхал</p><p>вил</p><p>ал ату вечером гостях сегодня сказал уехал ум шамхал</p><p>брату говорит домой пошел умалат</p><p>барана бузу видят вооружен встань дверей держи зарежь наготове ночью пистолет приготовь придет придут пусть сегодня шамхал</p><p>везиру гости гулял жертве знак знал пил подав привычки приходил своей своему убивал умалат хозяина шамхала</p><p>брат везирами вечером выставив готов дверей заметил зорко младший оружие пистолет подать поднял приготовил пришел сигнал следя стоял убийству умалат умалат умалату чарку шамхал шамхалом</p><p>левой пистолета положил правую протянул рог рукой рукоятку сказал такое умалат четверостишие шамхалу</p><p>деревья закон летом обрезать садовников шамхал</p><p>глаза готов закрыв камни несчастье постигнет проглотить человека</p><p>груди знаки пистолет подавай приставил сказал умалат шамхал шамхала</p><p>понял сказал шамхал</p><p>готов оставить пощадишь</p><p>везирами вместе пришлось своими уйти</p></body>
+   </text>
+  </TEI>

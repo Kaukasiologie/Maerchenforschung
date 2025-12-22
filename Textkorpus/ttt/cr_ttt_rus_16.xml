@@ -1,173 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tatische Folklore</title>
-        <title xml:lang="eng">Tat Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tatische Folklore</title>
+      <title xml:lang="eng">Tat Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="ttt">«Фольклор тати», стр. 38</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="ttt">«Фольклор тати», стр. 38</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ttt">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ttt">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ttt_rus_16">
+   </teiHeader>
+   <text xml:id="cr_ttt_rus_16">
     <body>
-      <head>82. Ум и Счастье </head>
-      <p>однажды ум счастье поспорили счастье говорит</p>
-      <p>сильнее</p>
-      <p>ум возражает</p>
-      <p/>
-      <p>счастье сказало</p>
-      <p>решим сильнее покажу ка па деле силу</p>
-      <p>расстались</p>
-      <p>ком рассказать расскажу плешивом бедняге</p>
-      <p>качал слугой доме царя получал меньше двух тысяч ударов день это считалось мало</p>
-      <p>счастье подумало</p>
-      <p>вселюсь человека сделаю счастливым</p>
-      <p>счастье вошло качала день получил меньше щелчков день перестали бить третий день царь вышел балкон увидел качала стало жалко беднягу позвал царь говорит</p>
-      <p>знаю бедняга тебе день достается две тысячи ударов еле живешь освобождаю обязанностей носить воду чистить хлев сегодняшнего дня будешь убирать балконе</p>
-      <p>дня качалу стало легче жить прошло месяца</p>
-      <p>снова царь заметив сказал</p>
-      <p>уборки балкона ссутулился сегодняшнего дня возьму мои покои будешь служить нукером</p>
-      <p>прошло месяца царь видит качалу служба нукера силу отдал царь учиться года учился отправили службу касумкент дербент сделали большим начальником стал качал царским советником</p>
-      <p>однажды царь говорит качалу векилу везиру</p>
-      <p>обеда приходите дело</p>
-      <p>л качала собственный дом свой выезд поехал домой пообедал сел свой экипаж возвратился дворец векил везир приехали раньше пока качала говорили</p>
-      <p>это плешивый бедняк который день две г м ролов ддгкт</p>
-      <p>тысячи ударов получал стал выше давай сделаем царь рассердился понизил чине научим дать царю щелчок царь рассердится понизит чине</p>
-      <p>сказали вошел качал говорит</p>
-      <p>клянусь вашей жизнью векил везир царь войдет дам щелчок</p>
-      <p>царь вошел качал вскочил своего мести ударил царя голове царская корона упала головы короны выползла змея</p>
-      <p>царь сказал</p>
-      <p>советник спас смерти ради обручите мою дочь</p>
-      <p>невесело векилу везиру</p>
-      <p>хотели царь понизил чине выше взлетел стал зятем царя подумали</p>
-      <p>несколько дней царь говорит качалу векилу везиру</p>
-      <p>обеда приходите вами разговор</p>
-      <p>векил везир царя пришли раньше плешивого стали говорить</p>
-      <p>давай научим качала дать царю пинка царь станет садиться трон царь определенно рассердится</p>
-      <p>это говорили вошел качал сказал</p>
-      <p>царь войдет дам пинка</p>
-      <p>царь вошел собрался сесть трон качал вскочил ударил царя кубарем скатился своего места</p>
-      <p>это время потолка прямо трон упало бревно</p>
-      <p>царь воскликнул</p>
-      <p>торопитесь сыграть свадьбу моего советника моей дочерью второй смерти спас</p>
-      <p>стали играть свадьбу день невесту должны привести жениху вспомнилось качалу прошлое сказал</p>
-      <p>бедняга погибал ударов</p>
-      <p>нашлись люди которые сообщили дочери царя жених говорит такие вещи девушка подумала такого дурака выйду замуж</p>
-      <p>счастье видит дело плохо глупость разрушить</p>
-      <p>отправилось счастье уму просьбой</p>
-      <p>брат ум тобой преклоняюсь признаю выше торопись иначе качал пропадет пожалей мои старания столько трудилось пока бедняга достиг полного благополучия потрудись</p>
-      <p>ум вселился плешивого царя дошли разговоры дочь хочет выходить замуж дурака</p>
-      <p>царь позвал качала спрашивает</p>
-      <p>дело</p>
-      <p>царь будешь жив здоров видел звезда спорит звездой твоей дочери время подбрасывал папаху отделить друг друга</p>
-      <p>отделились хочешь могу тебе это показать</p>
-      <p>царь сказал своим приближенным</p>
-      <p>можете сказать этому человеку правду говорит торопитесь повенчать</p>
-      <p>качал стал зятем царя</p>
-    </body>
-  </text>
-</TEI>
+     <head>82. Ум и Счастье </head>
+     <p>говорит однажды поспорили счастье счастье ум</p><p>сильнее</p><p>возражает ум</p><p /><p>сказало счастье</p><p>деле ка па покажу решим силу сильнее</p><p>расстались</p><p>бедняге ком плешивом расскажу рассказать</p><p>двух день доме качал мало меньше получал слугой считалось тысяч ударов царя это</p><p>подумало счастье</p><p>вселюсь сделаю счастливым человека</p><p>балкон беднягу бить вошло вышел говорит день день день жалко качала качала меньше перестали позвал получил стало счастье третий увидел царь царь щелчков</p><p>балконе бедняга будешь воду две день дня достается еле живешь знаю носить обязанностей освобождаю сегодняшнего тебе тысячи убирать ударов хлев чистить</p><p>дня жить качалу легче месяца прошло стало</p><p>заметив сказал снова царь</p><p>балкона будешь возьму дня мои нукером покои сегодняшнего служить ссутулился уборки</p><p>большим видит года дербент касумкент качал качалу месяца начальником нукера отдал отправили прошло сделали силу служба службу советником стал учился учиться царским царь царь</p><p>везиру векилу говорит качалу однажды царь</p><p>дело обеда приходите</p><p>везир векил возвратился выезд говорили дворец дом домой качала качала л поехал пока пообедал приехали раньше свой свой сел собственный экипаж</p><p>бедняк г две ддгкт день который м плешивый ролов это</p><p>выше давай дать научим получал понизил понизит рассердился рассердится сделаем стал тысячи ударов царь царь царю чине чине щелчок</p><p>вошел говорит качал сказали</p><p>вашей везир векил войдет дам жизнью клянусь царь щелчок</p><p>вошел вскочил выползла голове головы змея качал корона короны мести своего ударил упала царская царь царя</p><p>сказал царь</p><p>дочь мою обручите ради смерти советник спас</p><p>везиру векилу невесело</p><p>взлетел выше зятем подумали понизил стал хотели царь царя чине</p><p>везиру векилу говорит дней качалу несколько царь</p><p>вами обеда приходите разговор</p><p>везир векил говорить плешивого пришли раньше стали царя</p><p>давай дать качала научим определенно пинка рассердится садиться станет трон царь царь царю</p><p>вошел говорили качал сказал это</p><p>войдет дам пинка царь</p><p>вошел вскочил качал кубарем места своего сесть скатился собрался трон ударил царь царя</p><p>бревно время потолка прямо трон упало это</p><p>воскликнул царь</p><p>второй дочерью моего моей свадьбу смерти советника спас сыграть торопитесь</p><p>вспомнилось день должны жениху играть качалу невесту привести прошлое свадьбу сказал стали</p><p>бедняга погибал ударов</p><p>вещи выйду говорит девушка дочери дурака жених замуж которые люди нашлись подумала сообщили такие такого царя</p><p>видит глупость дело плохо разрушить счастье</p><p>отправилось просьбой счастье уму</p><p>бедняга благополучия брат выше достиг иначе качал мои пожалей пока полного потрудись преклоняюсь признаю пропадет старания столько тобой торопись трудилось ум</p><p>вселился выходить дочь дошли дурака замуж плешивого разговоры ум хочет царя</p><p>качала позвал спрашивает царь</p><p>дело</p><p>будешь видел время дочери друг друга жив звезда звездой здоров отделить папаху подбрасывал спорит твоей царь</p><p>могу отделились показать тебе хочешь это</p><p>приближенным своим сказал царь</p><p>говорит можете повенчать правду сказать торопитесь человеку этому</p><p>зятем качал стал царя</p></body>
+   </text>
+  </TEI>

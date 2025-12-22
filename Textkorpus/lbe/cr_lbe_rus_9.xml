@@ -1,154 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Опубл.: СЮНД на лакском (с. 218-221) и русском (с. 247-249) яз.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Опубл.: СЮНД на лакском (с. 218-221) и русском (с. 247-249) яз.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-          <geo/>
-        </placeName>
-        <date>1966</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Парамазова</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+       <geo />
+      </placeName>
+      <date>1966</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Парамазова</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_9">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_9">
     <body>
-      <head>11 Умная девушка (лак.) </head>
-      <p>жил жил жил справедливый пачах детей од нажды собрался совет визирей решил женить пачаха получили согласие жены стали уговаривать пачаха пачах сказал</p>
-      <p>найдете такую жену какую хочу женюсь кольцо будущая жена должна купить это кольцо жертвенного барана зарезать приготовить еду вернуть кольцо буду выходить мечети</p>
-      <p>стали искать подходящую невесту визирям пришлось потрудиться поисках умных женщин визирей зашел саклю одного пастуха рассказал цели своего прихода дочь пастуха говорит</p>
-      <p>это очень легкое поручение принесите хорошую одежду выполню ваше требование около кумуха стригут овец купите чабанов это кольцо трех овец черной длинной шерстью предупредите продавца кольцо сохранил</p>
-      <p>купили овец постригла одну зарезали стали высушила шерсть принялась делать зарезали вторую овцу пока ели вторую овцу сделала шерсти красивую бурку низ плеч подшила шелком края обшила украшением поручила визирю отнести бурку чабанам продать тому чабану которого купили овец</p>
-      <p>бурка многим понравилась стали просить продать бурку продали тому продал овец цена самое кольцо</p>
-      <p>настал день жертвоприношения курбан байрам зарезали третью овцу приготовила еду внутренностей преподнесла пачаху вместе кольцом</p>
-      <p>пачаху понравилась девушка решил жениться девушка отец подумали пачах насмехается ними сказать вслух смели боялись</p>
-      <p>девушку привели дворец пачаха устроили баню одели самые лучшие одежды ахнули девушка просто красавица виноградные глаза брови хвост ласточки маленький рот щеки словно кровь молоком губы лепестки розы шея высокая косы пят привели пачаху</p>
-      <p>это самое время пачах своим войском уезжал семь лет военные лагеря поэтому желая проверить сообразительность новой жены пачах сказал</p>
-      <p>оставляю тебе запечатанную чугунную кубышку полна золотых монет тронув печать вынь монеты расходуй хозяйстве сведи мою кобылу жеребцом пусть родит жеребенка сама роди сына буду возвращаться домой посади сына жеребенка которого родит кобыла выйди навстречу</p>
-      <p>сказав уехал дня думала выполнить это поручение поехала кубачинцам купила ружье пошла унчукатль купила седло хутинского портного сшила мужскую одежду села коня отправилась пачаху скоро долго догнала войско мужа оно расположилось около города жена пачаха остановилась ночлежном доме</p>
-      <p>следующий день виду войска стала гарцевать коне мужской одежде полном скаку рубила лозы стоя спине коня ловкостью спрыгивала землю вновь вскакивала седло джигит понравился всем людям пачаха стали приглашать гости самом деле пошел пачаху вечером стали играть карты заложил коня предложил целый год нукером хозяина палатки пачаха пачах заложил кольцо печатью своего коня кобылу проиграл кольцо конь достались джигиту девушке джигиту</p>
-      <p>однажды пустил слух отец болен сказал уехать проведать попросил пачаха отдать проигранного коня своего оставил</p>
-      <p>приехав домой жена пачаха свела жеребца кобылой вытащила золотые монеты чугунной кубышки заполнила медяками вновь опечатала кольцом пачаха затем вернулась нему мужском одеянии сообщила отцу стало радости возвращает кольцо коня кобылу нукеру подобает иметь слишком дорогие вещи</p>
-      <p>стали вновь играть карты проиграл говорит</p>
-      <p>красивая сестра согласен приведу тебе побудь утра утром отправь домой люди злословили хочу видели тебе приходила</p>
-      <p>переодевшись женскую одежду сказав сестра джигита зашла пачаху побыла утра утром ушла затем переоделась мужскую одежду пришла пачаху</p>
-      <p>неделю сказал</p>
-      <p>мать заболела поеду домой</p>
-      <p>пачах отпустил вернувшись домой некоторое время почувствовала беременна прошло девять месяцев родила красивого сына этому времени ожеребилась кобыла прошло семь лет посадила сына жеребца отправились навстречу отцу пачаху</p>
-      <p>пачах недоумении стал подозревать жену измене объяснила выполнила поручение сказав</p>
-      <p>сын жеребец опечатанная кубышка золотых монет</p>
-      <p>пачах обрадовался своей умной жене устроил большой праздник пышное торжество свадьбу</p>
-      <p>дали яблока одно другое жене третье халилу который записал сказку моих слов</p>
-    </body>
-  </text>
-</TEI>
+     <head>11 Умная девушка (лак.) </head>
+     <p>визирей детей женить жены жил жил жил нажды од пачах пачах пачаха пачаха получили решил сказал собрался совет согласие справедливый стали уговаривать</p><p>барана буду будущая вернуть выходить должна еду жена жену женюсь жертвенного зарезать какую кольцо кольцо кольцо купить мечети найдете приготовить такую хочу это</p><p>визирей визирям говорит дочь женщин зашел искать невесту одного пастуха пастуха подходящую поисках потрудиться прихода пришлось рассказал саклю своего стали умных цели</p><p>ваше выполню длинной кольцо кольцо кумуха купите легкое овец овец одежду около очень поручение предупредите принесите продавца сохранил стригут требование трех хорошую чабанов черной шерстью это это</p><p>бурку бурку визирю вторую вторую высушила делать ели зарезали зарезали которого красивую края купили купили низ обшила овец овец овцу овцу одну отнести плеч подшила пока поручила постригла принялась продать сделала стали тому украшением чабанам чабану шелком шерсти шерсть</p><p>бурка бурку кольцо многим овец понравилась продал продали продать просить самое стали тому цена</p><p>байрам вместе внутренностей день еду жертвоприношения зарезали кольцом курбан настал овцу пачаху преподнесла приготовила третью</p><p>боялись вслух девушка девушка жениться насмехается ними отец пачах пачаху подумали понравилась решил сказать смели</p><p>ахнули баню брови виноградные высокая глаза губы дворец девушка девушку косы красавица кровь ласточки лепестки лучшие маленький молоком одежды одели пачаха пачаху привели привели просто пят розы рот самые словно устроили хвост шея щеки</p><p>военные войском время желая жены лагеря лет новой пачах пачах поэтому проверить самое своим семь сказал сообразительность уезжал это</p><p>буду возвращаться выйди вынь домой жеребенка жеребенка жеребцом запечатанную золотых кобыла кобылу которого кубышку монет монеты мою навстречу оставляю печать полна посади пусть расходуй роди родит родит сама сведи сына сына тебе тронув хозяйстве чугунную</p><p>войско выполнить города дня догнала долго доме думала жена коня кубачинцам купила купила мужа мужскую ночлежном одежду около оно остановилась отправилась пачаха пачаху поехала портного поручение пошла расположилось ружье седло села сказав скоро сшила уехал унчукатль хутинского это</p><p>вечером виду вновь войска всем вскакивала гарцевать год гости девушке деле день джигит джигиту джигиту достались заложил заложил землю играть карты кобылу кольцо кольцо коне конь коня коня коня ловкостью лозы людям мужской нукером одежде палатки пачах пачаха пачаха пачаху печатью полном понравился пошел предложил приглашать проиграл рубила самом своего седло скаку следующий спине спрыгивала стала стали стали стоя хозяина целый</p><p>болен коня однажды оставил отдать отец пачаха попросил проведать проигранного пустил своего сказал слух уехать</p><p>вернулась вещи вновь возвращает вытащила домой дорогие жена жеребца заполнила затем золотые иметь кобылой кобылу кольцо кольцом коня кубышки медяками монеты мужском нему нукеру одеянии опечатала отцу пачаха пачаха подобает приехав радости свела слишком сообщила стало чугунной</p><p>вновь говорит играть карты проиграл стали</p><p>видели домой злословили красивая люди отправь побудь приведу приходила сестра согласен тебе тебе утра утром хочу</p><p>джигита женскую затем зашла мужскую одежду одежду пачаху пачаху переодевшись переоделась побыла пришла сестра сказав утра утром ушла</p><p>неделю сказал</p><p>домой заболела мать поеду</p><p>беременна вернувшись времени время девять домой жеребца кобыла красивого лет месяцев навстречу некоторое ожеребилась отправились отпустил отцу пачах пачаху посадила почувствовала прошло прошло родила семь сына сына этому</p><p>выполнила жену измене недоумении объяснила пачах подозревать поручение сказав стал</p><p>жеребец золотых кубышка монет опечатанная сын</p><p>большой жене обрадовался пачах праздник пышное свадьбу своей торжество умной устроил</p><p>дали другое жене записал который моих одно сказку слов третье халилу яблока</p></body>
+   </text>
+  </TEI>

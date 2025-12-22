@@ -1,143 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Саидов, стр. 31–32</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Саидов, стр. 31–32</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-          <geo/>
-        </placeName>
-        <date>1952</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Г.</forename>
-            <surname xml:lang="rus">Амиров</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+       <geo />
+      </placeName>
+      <date>1952</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Г.</forename>
+        <surname xml:lang="rus">Амиров</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_56">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_56">
     <body>
-      <head>23. Волк, лиса и собака</head>
-      <p>жила собака днями ночами караулила стадо соседству жил волк частенько подкрадывался загону собака громким лаем будила чабанов те прогоняли волка</p>
-      <p>однажды волк встретил лису говорит</p>
-      <p>помоги лиса избавиться собаки придумай какую хитрость утащу овцу тебе достанется кое</p>
-      <p>лиса охотно согласилась пошла собаке</p>
-      <p>здравствуй собака время лаешь бедняжка отощала одни кости кожа остались мешало тебе отдохнуть</p>
-      <p>могу сестрица поблизости бродит большой волк залаю разорвет лай бегут чабаны боится проклятый волк</p>
-      <p>почему проклятый зверь тобой хан здешних местах очень добродушный стоит тебе подружиться никто близко подойдет овцам сможешь спокойно отдыхать</p>
-      <p>познакомит волком спросила собака</p>
-      <p>познакомит волком спросила собака</p>
-      <p>это беру ответила лиса</p>
-      <p>вскоре лиса привела волка трое начали мирно беседовать</p>
-      <p>волк охранять стадо оповестит вашей дружбе перестань лаять дело хан волк совершенно выносит собачьего лая сказала лиса</p>
-      <p>волк собака стали друзьями шло довольны</p>
-      <p>однажды обрадовавшись чему собака громко залаяла</p>
-      <p>нарушаешь договор сказал волк</p>
-      <p>прости нечаянно страшно виновато ответила собака</p>
-      <p>назавтра чабаны спали бессонной ночи волк сказал</p>
-      <p>нарушила договор имею право это сделать правда</p>
-      <p>говоришь правду хан ответила собака</p>
-      <p>убью волк разорвал собаку затем порезал стадо</p>
-    </body>
-  </text>
-</TEI>
+     <head>23. Волк, лиса и собака</head>
+     <p>будила волк волка громким днями жил жила загону караулила лаем ночами подкрадывался прогоняли собака собака соседству стадо те чабанов частенько</p><p>волк встретил говорит лису однажды</p><p>достанется избавиться какую кое лиса овцу помоги придумай собаки тебе утащу хитрость</p><p>лиса охотно пошла собаке согласилась</p><p>бедняжка время здравствуй кожа кости лаешь мешало одни остались отдохнуть отощала собака тебе</p><p>бегут боится большой бродит волк волк залаю лай могу поблизости проклятый разорвет сестрица чабаны</p><p>близко добродушный зверь здешних местах никто овцам отдыхать очень подойдет подружиться почему проклятый сможешь спокойно стоит тебе тобой хан</p><p>волком познакомит собака спросила</p><p>волком познакомит собака спросила</p><p>беру лиса ответила это</p><p>беседовать волка вскоре лиса мирно начали привела трое</p><p>вашей волк волк выносит дело дружбе лая лаять лиса оповестит охранять перестань сказала собачьего совершенно стадо хан</p><p>волк довольны друзьями собака стали шло</p><p>громко залаяла обрадовавшись однажды собака чему</p><p>волк договор нарушаешь сказал</p><p>виновато нечаянно ответила прости собака страшно</p><p>бессонной волк назавтра ночи сказал спали чабаны</p><p>договор имею нарушила правда право сделать это</p><p>говоришь ответила правду собака хан</p><p>волк затем порезал разорвал собаку стадо убью</p></body>
+   </text>
+  </TEI>

@@ -1,148 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Опубл, на ногайском яз.: АК, 85. На русском яз. публ. впервые</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Опубл, на ногайском яз.: АК, 85. На русском яз. публ. впервые</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.А.</forename>
-            <surname xml:lang="rus">Кусегеновa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.А.</forename>
+        <surname xml:lang="rus">Кусегеновa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_1">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_1">
     <body>
-      <head>12 Умная девушка (ног.) </head>
-      <p>давным давно коза толстела скворец судьей ханская дочь колдуньей мед попадал почки почки жарились меде давным давно уралом волгой жил ногайский хан рядом соседству жил бедный старик которого немного овец</p>
-      <p>однажды старик постриг своих овец вышел пасти степи нечаянно заснул это время овцы ушли ханскую землю бедняк проснулся отправился искать своих овец следам пришел хану обратился просьбой простить</p>
-      <p>простите заснул виноват умоляюще сказал старик</p>
-      <p>хан отвечает</p>
-      <p>даю тебе дня дня разгадай смысл слов твердый мягкий мирный</p>
-      <p>старик вернувшись домой рассказал обо всем дочери</p>
-      <p>это проще простого ложись спать утром пойдешь хану говорит бедняку дочь</p>
-      <p>следующий день старик приходит хану говорит</p>
-      <p>твердый это топот коня мягкие копыта верблюда мирная любовь мужчиной женщиной</p>
-      <p>разъясни свой ответ потребовал хан</p>
-      <p>бедняк смотрел хана открытым ртом знал сказать</p>
-      <p>тебе подсказал спросил хан</p>
-      <p>догадался ответил бедняк</p>
-      <p>обманываешь рассердился хан позвал визирей визири начали пытать старика</p>
-      <p>дочка сказала признался вынудили</p>
-      <p>затем дочь бедняка пришла хану разъяснила</p>
-      <p>твердый топот коня однажды стирала услышала чей топот стоял туман разглядела какое время заметила коня который шел тихо птица летела мягкие копыта верблюда однажды постригли овец мама положила шерсть сарай велела сторожить будь очень внимательна воры украли сказала ночь внимательна шерсть украли оказалось увезли верблюде</p>
-      <p>мирная бывает любовь мужчиной женщиной однажды мои родители сильно поругались подумала утром разойдутся осталась отцом жаль мать ушла матерью жаль отца ночь смогла заснуть утром смотрю родители разговаривают смеются живут вместе</p>
-      <p>убедила дочка согласен забирай своих овец сказал хан</p>
-      <p>дочь вернулась домой сказала отцу</p>
-      <p>хан человек коварный отправит тебе сватов спросит каков выкуп дочь скажи дочь сама ответит</p>
-      <p>приехали человека лошадях сваты хана девушка сказала</p>
-      <p>выкуп таков пятнадцать ягнят двадцать козлят сорок пут шестьдесят оков семьдесят галушек</p>
-      <p>сваты вернулись хану передали слова девушки хан ответил</p>
-      <p>говорится ум возрасте голове словах девушки смысл хватит сил бороться пятнадцать ягнят означают пятнадцатилетний ребенок двадцать козлят двадцать лет горах разбойничал сорок пут сорок освободился пут шестьдесят оков шестьдесят лет семьдесят галушек это старость могу дать поэтому пусть выйдет замуж любимого счастлива</p>
-    </body>
-  </text>
-</TEI>
+     <head>12 Умная девушка (ног.) </head>
+     <p>бедный волгой давно давно давным давным дочь жарились жил жил коза колдуньей которого мед меде немного ногайский овец попадал почки почки рядом скворец соседству старик судьей толстела уралом хан ханская</p><p>бедняк время вышел заснул землю искать нечаянно обратился овец овец овцы однажды отправился пасти постриг пришел проснулся простить просьбой своих своих следам старик степи ушли ханскую хану это</p><p>виноват заснул простите сказал старик умоляюще</p><p>отвечает хан</p><p>даю дня дня мирный мягкий разгадай слов смысл твердый тебе</p><p>вернувшись всем домой дочери обо рассказал старик</p><p>бедняку говорит дочь ложись пойдешь простого проще спать утром хану это</p><p>говорит день приходит следующий старик хану</p><p>верблюда женщиной коня копыта любовь мирная мужчиной мягкие твердый топот это</p><p>ответ потребовал разъясни свой хан</p><p>бедняк знал открытым ртом сказать смотрел хана</p><p>подсказал спросил тебе хан</p><p>бедняк догадался ответил</p><p>визирей визири начали обманываешь позвал пытать рассердился старика хан</p><p>вынудили дочка признался сказала</p><p>бедняка дочь затем пришла разъяснила хану</p><p>будь велела верблюда верблюде внимательна внимательна воры время заметила какое коня коня копыта который летела мама мягкие ночь овец однажды однажды оказалось очень положила постригли птица разглядела сарай сказала стирала сторожить стоял твердый тихо топот топот туман увезли украли украли услышала чей шел шерсть шерсть</p><p>бывает вместе жаль жаль женщиной живут заснуть любовь матерью мать мирная мои мужчиной ночь однажды осталась отца отцом подумала поругались разговаривают разойдутся родители родители сильно смеются смогла смотрю утром утром ушла</p><p>дочка забирай овец своих сказал согласен убедила хан</p><p>вернулась домой дочь отцу сказала</p><p>выкуп дочь дочь каков коварный ответит отправит сама сватов скажи спросит тебе хан человек</p><p>девушка лошадях приехали сваты сказала хана человека</p><p>выкуп галушек двадцать козлят оков пут пятнадцать семьдесят сорок таков шестьдесят ягнят</p><p>вернулись девушки ответил передали сваты слова хан хану</p><p>бороться возрасте выйдет галушек говорится голове горах дать двадцать двадцать девушки замуж козлят лет лет любимого могу означают оков освободился поэтому пусть пут пут пятнадцатилетний пятнадцать разбойничал ребенок семьдесят сил словах смысл сорок сорок старость счастлива ум хватит шестьдесят шестьдесят это ягнят</p></body>
+   </text>
+  </TEI>

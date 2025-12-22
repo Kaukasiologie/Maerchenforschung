@@ -1,164 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
-          <geo/>
-        </placeName>
-        <date>1970</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">П.</forename>
-            <surname xml:lang="rus">Имиевa</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.А.</forename>
-            <surname xml:lang="rus">Алиева</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.А.</forename>
-            <surname xml:lang="rus">Алиевa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
+       <geo />
+      </placeName>
+      <date>1970</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">П.</forename>
+        <surname xml:lang="rus">Имиевa</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.А.</forename>
+        <surname xml:lang="rus">Алиева</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.А.</forename>
+        <surname xml:lang="rus">Алиевa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_31">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_31">
     <body>
-      <head>114 Шахбан и Хаччу (дарг.) </head>
-      <p>жили одном селении жили муж жена жили очень бедно делая возможное стараясь добыть пропитание проводили дни месяцы шахбан собирал лесу сухие дрова возможности продавал также плел прутьев корзины фруктов продажу хаччу ходила торговала ими базаре</p>
-      <p>незаметно порогу дома подкралась старость детей имели некому помочь шахбан мог ходить лес одна единственная корова долго думал шахбан найти выход говорит жене</p>
-      <p>эй хаччу другого выхода умереть голоду придется продать нашу корову вырученные деньги купить продукты</p>
-      <p>ума сошел будем дальше делать продадим последнее осталось стала возмущаться хаччу</p>
-      <p>долго спорили шахбан послушался своей жены повел корову базар шел коровой навстречу идет кубачинец</p>
-      <p>ассаламу алейкум шахбан путь держишь спрашивает</p>
-      <p>нужда заставила некуда деваться веду корову базар продать</p>
-      <p>отдай корову говорит кубачинец тебе это покажу место зарыто золота серебра бери сколько тебе захочется</p>
-      <p>шахбан обрадовался отдал корову кубачинец объяснил найти это место</p>
-      <p>иди дороге сторону цицце увидишь большое дерево пройди продолжай свой путь пройди столько сколько прошел увидишь дерево поменьше пройди немного увидишь маленький куст раскопай около яму найдешь тебе говорил</p>
-      <p>шахбан вернулся жене говорит</p>
-      <p>отдал корову одному глупцу обмен золото серебро</p>
-      <p>это золото серебро спрашивает хаччу</p>
-      <p>пойдем скорее знаю место это закопано идти сторону цицце тебе покажу</p>
-      <p>вправду дурак безумец зароет таком месте столько добра поверив хаччу стала ругать шахбана</p>
-      <p>пришли тому месту сначала увидели большое высокое дерево словом оказалось говорил кубачинец остановились маленького куста стали копать копали копали вечера раскапывали вырыли большую яму нашли</p>
-      <p>знала стала причитать хаччу глупец станет показывать место закопаны золото серебро дурак поверит это остались денег коровы</p>
-      <p>шахбан слушая продолжал копать лопата наткнулась твердое</p>
-      <p>нашел нашел закричал</p>
-      <p>смотрят земле зарыта чашка монет золотых серебряных обрадовались</p>
-      <p>молодец оказался человек обманул говорит шахбан давай сегодня возьмем немного остальное оставим</p>
-      <p>ума сошел говорит жена оставлять деньги земле нужно спрятать следует спрячу дома</p>
-      <p>забрала хаччу чашку деньгами принесла домой приготовила вкусный ужин хорошенько накормила напоила мужа уложила спать затем сварила халву кусками разложила передней крыше стала звать своего мужа</p>
-      <p>эй шахбан вставай скорее смотри смотри идет дождь халвы пойдем собирать</p>
-      <p>оба вышли крышу стали собирать халву</p>
-      <p>утра пораньше муж пошел годекан стал хвастаться</p>
-      <p>нашел кустом зарытые деньги верите идите покажу это место</p>
-      <p>люди долго слушали слушали подумали самом деле нашел деньги говорит правду</p>
-      <p>весть дошла хана послал слуг дом шахбана забрали принесли слуги хана пришли шахбану домой говорят</p>
-      <p>эй шахбан хан велел тебе принести золото серебро которое нашел земле кустом</p>
-      <p>какое золото какое серебро раскричалась хаччу никакого золота никакого серебра муж дурак спросите скажет вчера шел дождь халвы</p>
-      <p>стал возмущаться шахбан нашли серебро золото ту самую ночь шел дождь халвы</p>
-      <p>услышав дождь стали насмехаться</p>
-      <p>самом деле дурак дождь халвы</p>
-      <p>хаччу сберегла найденное серебро золото маленьких детей одурачила ханских слуг</p>
-    </body>
-  </text>
-</TEI>
+     <head>114 Шахбан и Хаччу (дарг.) </head>
+     <p>базаре бедно возможное возможности делая дни добыть дрова жена жили жили жили ими корзины лесу месяцы муж одном очень плел проводили продавал продажу пропитание прутьев селении собирал стараясь сухие также торговала фруктов хаччу ходила шахбан</p><p>выход говорит детей долго дома думал единственная жене имели корова лес мог найти незаметно некому одна подкралась помочь порогу старость ходить шахбан шахбан</p><p>вырученные выхода голоду деньги другого корову купить нашу придется продать продукты умереть хаччу эй</p><p>будем возмущаться дальше делать осталось последнее продадим сошел стала ума хаччу</p><p>базар долго жены идет коровой корову кубачинец навстречу повел послушался своей спорили шахбан шел</p><p>алейкум ассаламу держишь путь спрашивает шахбан</p><p>базар веду деваться заставила корову некуда нужда продать</p><p>бери говорит зарыто захочется золота корову кубачинец место отдай покажу серебра сколько тебе тебе это</p><p>корову кубачинец место найти обрадовался объяснил отдал шахбан это</p><p>большое говорил дерево дерево дороге иди куст маленький найдешь немного около поменьше продолжай пройди пройди пройди прошел путь раскопай свой сколько столько сторону тебе увидишь увидишь увидишь цицце яму</p><p>вернулся говорит жене шахбан</p><p>глупцу золото корову обмен одному отдал серебро</p><p>золото серебро спрашивает хаччу это</p><p>закопано знаю идти место пойдем покажу скорее сторону тебе цицце это</p><p>безумец вправду добра дурак зароет месте поверив ругать стала столько таком хаччу шахбана</p><p>большое большую вечера вырыли высокое говорил дерево копали копали копать кубачинец куста маленького месту нашли оказалось остановились пришли раскапывали словом сначала стали тому увидели яму</p><p>глупец денег дурак закопаны знала золото коровы место остались поверит показывать причитать серебро стала станет хаччу это</p><p>копать лопата наткнулась продолжал слушая твердое шахбан</p><p>закричал нашел нашел</p><p>зарыта земле золотых монет обрадовались серебряных смотрят чашка</p><p>возьмем говорит давай молодец немного обманул оказался оставим остальное сегодня человек шахбан</p><p>говорит деньги дома жена земле нужно оставлять следует сошел спрятать спрячу ума</p><p>вкусный деньгами домой забрала затем звать крыше кусками мужа мужа накормила напоила передней приготовила принесла разложила сварила своего спать стала ужин уложила халву хаччу хорошенько чашку</p><p>вставай дождь идет пойдем скорее смотри смотри собирать халвы шахбан эй</p><p>вышли крышу оба собирать стали халву</p><p>годекан муж пораньше пошел стал утра хвастаться</p><p>верите деньги зарытые идите кустом место нашел покажу это</p><p>говорит деле деньги долго люди нашел подумали правду самом слушали слушали</p><p>весть говорят дом домой дошла забрали послал принесли пришли слуг слуги хана хана шахбана шахбану</p><p>велел земле золото которое кустом нашел принести серебро тебе хан шахбан эй</p><p>вчера дождь дурак золота золото какое какое муж никакого никакого раскричалась серебра серебро скажет спросите халвы хаччу шел</p><p>возмущаться дождь золото нашли ночь самую серебро стал ту халвы шахбан шел</p><p>дождь насмехаться стали услышав</p><p>деле дождь дурак самом халвы</p><p>детей золото маленьких найденное одурачила сберегла серебро слуг ханских хаччу</p></body>
+   </text>
+  </TEI>

@@ -1,168 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lesgische Folklore</title>
-        <title xml:lang="eng">Lezgian Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lesgische Folklore</title>
+      <title xml:lang="eng">Lezgian Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Опубл.: СЮНД на лезгинском (с. 265-266) и русском (с. 305-306) яз.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Опубл.: СЮНД на лезгинском (с. 265-266) и русском (с. 305-306) яз.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lez">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/532306/magaramkentskiy-rayon.html">Magaramkentskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/576358/bil-bil-kazmalyar.html">Bil’bil’-Kazmalyar</settlement>
-          <geo/>
-        </placeName>
-        <date>1967</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">С.</forename>
-            <surname xml:lang="rus">Эмиргюновa</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Р.</forename>
-            <surname xml:lang="rus">Рашидов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Ганиева</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus"> А.А.</forename>
-            <surname xml:lang="rus">Рашидов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lez">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/532306/magaramkentskiy-rayon.html">Magaramkentskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/576358/bil-bil-kazmalyar.html">Bil’bil’-Kazmalyar</settlement>
+       <geo />
+      </placeName>
+      <date>1967</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">С.</forename>
+        <surname xml:lang="rus">Эмиргюновa</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Р.</forename>
+        <surname xml:lang="rus">Рашидов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Ганиева</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus"> А.А.</forename>
+        <surname xml:lang="rus">Рашидов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lez_rus_16">
+   </teiHeader>
+   <text xml:id="cr_lez_rus_16">
     <body>
-      <head>32 О бедняке, принявшем падишаха (лезг.)</head>
-      <p>давние времена говорят жил очень умный известный всему миру падишах имени шахли шахаббас однажды сидел долго думал следующий день пригласил своих приближенных визирей большой зал</p>
-      <p>интересно сказал случится мной беда найдется среди человек который окажет помощь выручите вспомните обо</p>
-      <p>сидящие зале загудели зашептались главный визирь встал говорит</p>
-      <p>падишах здоровья сказал сидящие ваши рабы приказали готовы исполнить всем нам умереть упадет вашей головы поседеет волос ваши подчиненные готовы жертвовать собой ради</p>
-      <p>поддержали остальные приближенные падишах сказал отпустил домам</p>
-      <p>говорят падишах переодевшись дервишем часто любил ходить своим владениям посмотреть живет народ узнать служат чиновники вершат свой суд одев лохмотья приняв вид странника выехал город студеная зимняя ночь падал снег холодно ногами слякоть падишах сперва остановил своего коня ворот первого визиря постучался дверь визирь нехотя недовольно бормоча вышел наружу</p>
-      <p>тебе грубо спросил</p>
-      <p>умоляю приезжий гость разрешите переночевать поздно ниточки промок попросил</p>
-      <p>время принимать гостей будь неладен комнаты смог обсохнуть сердито ответил визирь</p>
-      <p>ради падишаха страны шахаббаса прошу пустить переночевать умоляющим голосом попросил ночной гость</p>
-      <p>шахаббас оба сыновья осла произнес визирь захлопнул дверь оставив падишаха улице</p>
-      <p>взбешенный падишах едва выдал сдержался поскакал ко второму визирю ответил оставил падишаха дверью пошел спать падишах отправился главному судье открыл дверь падишах успокоиться сел своего коня поехал окраину города</p>
-      <p>добравшись окраины проезжая мимо одноэтажного дома услышал звуки песни исполняемой мужчиной падишах остановил коня стал прислушиваться некоторое время поющий мужчина прекратил пение начал плакать прошло немного времени перестав плакать стал смеяться падишах шахаббас тихонько постучался дверь открыл мужчина</p>
-      <p>заходите заходите сказал быстро подхватив стремя коня повел двор</p>
-      <p>причиню беспокойства ответил падишах</p>
-      <p>какое беспокойство хвала аллаху пославшему гостя ответил весело привязал коня повел падишаха дом прошу отдыхай накормлю коня вернусь</p>
-      <p>оставив падишаха комнате мужчина вышел наружу падишах осмотрел дом заглянул уголки понял человек живет ужасной нищете</p>
-      <p>весть кого весть хозяина дома вышел постучался соседу сказал</p>
-      <p>умоляю сосед дай немного сена еды угостить гостя это вещи отработаю неделю</p>
-      <p>сосед зажиточных любил работали задаром согласился дал просили бедняк пришел бросил коню сено поставил падишахом еду долгое отсутствие бедняка вызвало падишаха подозрение стал спрашивать молча поел поблагодарил лег спать</p>
-      <p>рано утром падишах встал пока народ проснулся хотел поблагодарить бедняка уйти</p>
-      <p>гость шагу сделаете это пойдете позавтракав сказал пошел соседу</p>
-      <p>бедняк вышел дома падишах решил проследить тихонько вышел следом пошел увидел просит соседа сена еды пообещав это отработать сосед дал нужно падишах понял быстро возвратился дом</p>
-      <p>бедняк вернулся дал коню сена поставил падишахом еду пока завтракали рассвело поблагодарив падишах хотел вывести коня двора бедняк потянул стремя коня</p>
-      <p>дружище сказал мужчина это твой конь тебе отдам украл принадлежит нашему падишаху</p>
-      <p>эй человек это конь отпусти стремя стал просить падишах</p>
-      <p>голову отрежешь отдам украл коня сообщу людям падишаха стал загонять коня двор</p>
-      <p>гость признался падишах забрал бедняка собой</p>
-      <p>весть кого весть падишаха следующий день прошлый падишах пригласил визирей</p>
-      <p>мои верные друзья помните говорили вчера спросил поможете мной случится обратился падишах</p>
-      <p>правильно сказали оно поглаживая бороду ответил главный визирь</p>
-      <p>падишах рассказал ночную прогулку сидящие приняли принял бедняк падишах приказал своим подручным выгнать визирей пределы государства вместо пригласил служить бедных умных людей</p>
-      <p>бедняка назначил первым визирем спросил означало день пение плач смех</p>
-      <p>падишах здоровья тебе пел мог отделаться своих горьких дум начинал плакать вспоминая любимую смеялся думаю забываю свои горести богатый отец выдает дочь</p>
-      <p>падишах тотчас женил девушке остались вернулся</p>
-    </body>
-  </text>
-</TEI>
+     <head>32 О бедняке, принявшем падишаха (лезг.)</head>
+     <p>большой визирей времена всему говорят давние день долго думал жил зал известный имени миру однажды очень падишах приближенных пригласил своих сидел следующий умный шахаббас шахли</p><p>беда вспомните выручите интересно который мной найдется обо окажет помощь сказал случится среди человек</p><p>визирь встал главный говорит загудели зале зашептались сидящие</p><p>вашей ваши ваши волос всем головы готовы готовы жертвовать здоровья исполнить нам падишах подчиненные поседеет приказали рабы ради сидящие сказал собой умереть упадет</p><p>домам остальные отпустил падишах поддержали приближенные сказал</p><p>бормоча вершат вид визирь визиря владениям ворот выехал вышел говорят город дверь дервишем живет зимняя коня лохмотья любил народ наружу недовольно нехотя ногами ночь одев остановил падал падишах падишах первого переодевшись посмотреть постучался приняв своего своим свой служат слякоть снег сперва странника студеная суд узнать ходить холодно часто чиновники</p><p>грубо спросил тебе</p><p>гость ниточки переночевать поздно попросил приезжий промок разрешите умоляю</p><p>будь визирь время гостей комнаты неладен обсохнуть ответил принимать сердито смог</p><p>голосом гость ночной падишаха переночевать попросил прошу пустить ради страны умоляющим шахаббаса</p><p>визирь дверь захлопнул оба осла оставив падишаха произнес сыновья улице шахаббас</p><p>взбешенный визирю второму выдал главному города дверь дверью едва ко коня окраину оставил ответил открыл отправился падишах падишах падишах падишаха поехал поскакал пошел своего сдержался сел спать судье успокоиться</p><p>времени время дверь добравшись дома звуки исполняемой коня мимо мужчина мужчина мужчиной начал некоторое немного одноэтажного окраины остановил открыл падишах падишах пение перестав песни плакать плакать постучался поющий прекратил прислушиваться проезжая прошло смеяться стал стал тихонько услышал шахаббас</p><p>быстро двор заходите заходите коня повел подхватив сказал стремя</p><p>беспокойства ответил падишах причиню</p><p>аллаху беспокойство вернусь весело гостя дом какое коня коня накормлю ответил отдыхай падишаха повел пославшему привязал прошу хвала</p><p>вышел дом живет заглянул комнате мужчина наружу нищете осмотрел оставив падишах падишаха понял уголки ужасной человек</p><p>весть весть вышел дома кого постучался сказал соседу хозяина</p><p>вещи гостя дай еды неделю немного отработаю сена сосед угостить умоляю это</p><p>бедняк бедняка бросил вызвало дал долгое еду задаром зажиточных коню лег любил молча отсутствие падишаха падишахом поблагодарил подозрение поел поставил пришел просили работали сено согласился сосед спать спрашивать стал</p><p>бедняка встал народ падишах поблагодарить пока проснулся рано уйти утром хотел</p><p>гость позавтракав пойдете пошел сделаете сказал соседу шагу это</p><p>бедняк быстро возвратился вышел вышел дал дом дома еды нужно отработать падишах падишах понял пообещав пошел просит проследить решил сена следом сосед соседа тихонько увидел это</p><p>бедняк бедняк вернулся вывести дал двора еду завтракали коню коня коня падишах падишахом поблагодарив пока поставил потянул рассвело сена стремя хотел</p><p>дружище конь мужчина нашему отдам падишаху принадлежит сказал твой тебе украл это</p><p>конь отпусти падишах просить стал стремя человек эй это</p><p>голову двор загонять коня коня людям отдам отрежешь падишаха сообщу стал украл</p><p>бедняка гость забрал падишах признался собой</p><p>весть весть визирей день кого падишах падишаха пригласил прошлый следующий</p><p>верные вчера говорили друзья мной мои обратился падишах помните поможете случится спросил</p><p>бороду визирь главный оно ответил поглаживая правильно сказали</p><p>бедных бедняк визирей вместо выгнать государства людей ночную падишах падишах подручным пределы пригласил приказал принял приняли прогулку рассказал своим сидящие служить умных</p><p>бедняка визирем день назначил означало пение первым плач смех спросил</p><p>богатый вспоминая выдает горести горьких дочь дум думаю забываю здоровья любимую мог начинал отделаться отец падишах пел плакать свои своих смеялся тебе</p><p>вернулся девушке женил остались падишах тотчас</p></body>
+   </text>
+  </TEI>

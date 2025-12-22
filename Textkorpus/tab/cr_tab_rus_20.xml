@@ -1,140 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tabasaranisch Folklore</title>
-        <title xml:lang="eng">Tabasaran Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tabasaranisch Folklore</title>
+      <title xml:lang="eng">Tabasaran Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="kat">ალ. მაჰომეტოვი, თაბასარანული ენა (გამოკვლევა და ტექსტები)</title>
+        <title xml:lang="rus">А.А. Магометов, Табасаранский язкык (Исследование и тексты)</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1965</publisher>
+        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1965, стр. 356-357</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="kat">ალ. მაჰომეტოვი, თაბასარანული ენა (გამოკვლევა და ტექსტები)</title>
-            <title xml:lang="rus">А.А. Магометов, Табасаранский язкык (Исследование и тексты)</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა &quot;მეცნიერება&quot;. თბილისი, 1965</publisher>
-            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство &quot;Мецниереба&quot;. Тбилиси, 1965, стр. 356-357</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="tab">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/550200/khivskiy-rayon.html">Khivskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/550201/khiv.html">Khiv</settlement>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Гани</forename>
-            <surname xml:lang="rus">Аликберов</surname>
-          </persName>
-          <age>50</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.А.</forename>
-            <surname xml:lang="rus">Магометов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="tab">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/550200/khivskiy-rayon.html">Khivskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/550201/khiv.html">Khiv</settlement>
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Гани</forename>
+        <surname xml:lang="rus">Аликберов</surname>
+       </persName>
+       <age>50</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.А.</forename>
+        <surname xml:lang="rus">Магометов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_tab_rus_20">
+   </teiHeader>
+   <text xml:id="cr_tab_rus_20">
     <body>
-      <head>***(Был один Молла-Насреддин. У него умерла старая мять)</head>
-      <p>молла насреддин умерла старая мять положив мешок вскинув слину понес аул двор присловия подпорке находящейся горящей торяи оставил умершую мать вошел дом</p>
-      <p>молла насреддин стоял оглядываясь назад эй мол ла насреддип почему назад смотришь матъ той тории греясь осталась идите приведите</p>
-      <p>пошли позвали нс откликнулась схватив плечо иди сказали п упав тор свалилась огонь ег поддался крик дома находившиеся пришли</p>
-      <p>молла насреддин сказал почему мою мать бросили торню огнем дайте вместо моей матери человека б ушел е молодой невестой</p>
-      <p>скитался селам говоря мертвых дают живых</p>
-      <p>другие убив своих старых матерей старых жен нося е собою скитались никому мертвых живых дали</p>
-      <p>давайте убьем моллу сказали пошли моллу молла насреддин сказал убивайте подожгите сарай сказали сарай любит болыпе давай е подожжем сарай пошли подожгли</p>
-      <p>молла насреддип собрав угли бросил золотой хурджин сверху насыпал угли нагрузил осла пошел другому царю</p>
-      <p>э царь принеси мерку тебе скро сйл ларь смерить золото ах откуда столько золота принесите мерку сказал принес хурджин</p>
-      <p>посмотрели угли эй лголла касрездин это угли сказали золою сказал опорожни золотой прав молла насреддин</p>
-      <p>посмотрели золотой оказался</p>
-      <p>прав молла насреддин наполнив хурджин дал золото л отправил конец</p>
-    </body>
-  </text>
-</TEI>
+     <head>***(Был один Молла-Насреддин. У него умерла старая мять)</head>
+     <p>аул вошел вскинув горящей двор дом мать мешок молла мять насреддин находящейся оставил подпорке положив понес присловия слину старая торяи умерла умершую</p><p>греясь идите ла матъ мол молла назад назад насреддин насреддип оглядываясь осталась почему приведите смотришь стоял той тории эй</p><p>дома ег иди крик находившиеся нс огонь откликнулась п плечо поддался позвали пошли пришли свалилась сказали схватив тор упав</p><p>б бросили вместо дайте е матери мать моей молла молодой мою насреддин невестой огнем почему сказал торню ушел человека</p><p>говоря дают живых мертвых селам скитался</p><p>дали другие е жен живых матерей мертвых никому нося своих скитались собою старых старых убив</p><p>болыпе давай давайте е любит молла моллу моллу насреддин подожгите подожгли подожжем пошли пошли сарай сарай сарай сказал сказали сказали убивайте убьем</p><p>бросил другому золотой молла нагрузил насреддип насыпал осла пошел сверху собрав угли угли хурджин царю</p><p>ах золота золото ларь мерку мерку откуда принес принеси принесите сйл сказал скро смерить столько тебе хурджин царь э</p><p>золотой золою касрездин лголла молла насреддин опорожни посмотрели прав сказал сказали угли угли эй это</p><p>золотой оказался посмотрели</p><p>дал золото конец л молла наполнив насреддин отправил прав хурджин</p></body>
+   </text>
+  </TEI>

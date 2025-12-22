@@ -1,152 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/550844/khadzhalmakhi.html">Khadzhalmakhi</settlement>
-          <geo/>
-        </placeName>
-        <date>1956</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Магомед</forename>
-            <surname xml:lang="rus">Дибиралиев</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/550844/khadzhalmakhi.html">Khadzhalmakhi</settlement>
+       <geo />
+      </placeName>
+      <date>1956</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Магомед</forename>
+        <surname xml:lang="rus">Дибиралиев</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_180">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_180">
     <body>
-      <head>ВОЛШЕБНАЯ МОНЕТА</head>
-      <p>жил однажды па свете человек тремя сыновьями наступила старость человек решил разделить свое имущество сыновьями старик любил своих старших сыновей поэтому большую часть своего добра отдал младшему тге дал объяснил собирается жить старших сыновей младший сын хотя понимал несправедливость такого раздела тте стал спорить отцом каждый получил долю братья разделились отец стал жить старшего сына сын бывший раздела таким хорошим предупредительным стал очень груб отцом попрекал каждым куском ворчал отец обделил стало житья старику сын женился муж жена словно состязались прпчи пит отцу неприятностей отец выдержал попросил отвести среднему сыну повторилось самое средний сый женился просто вывел отпа пз дому привел старшему водили отца одного другому стараясь каждый поскорее выпроводить старика пз своего дома день ото дня обращаясь хуже хуже</p>
-      <p>однажды брат привел отца другому принимал оба ужасно ругались это время зашел младший брат</p>
-      <p>стыдно воскликнул отце вести постыдный спор неужели забыли это ваш отец которому обязаны своим существованием благополучием</p>
-      <p>пошел вон оборванец прикрой свой зад возьмешь блохахми питаться оборвали братья</p>
-      <p>возьму голодать придется умереть работе лишь согласился поити ко жаром ответил младший</p>
-      <p>несчастный старик изгнанный своими любимцами вынужден пойти младшему сыну опи пришли бедную хижину младшего сын растопил печку нагрел воды хорошенько помыл отца побрил бороду голову дал свежевыстиранную одежду тех пор стали жить вдвоем утром сын уходил работу вечером возвращался уходом прихода оп кормил отца поил вел беседы скучал пи разу упомяпул пи братьях разделе</p>
-      <p>отец очень раскаивался обделял юношу часто говорил сын поддерживал таких разговоров отвечая оп считает обиженным жили бедно впроголодь зато счастливы довольны отец часто говаривал</p>
-      <p>аллах вознаградил твою доброту ко уверен будешь счастлив жизни всяком случае день ночь молю</p>
-      <p>вскоре отец заболел умер сын деньги пего истратил поминки сорок дней ходил могилу отца п пошел па работу старшие сыновья могиле пи разу</p>
-      <p>прошло времени младший сын жил прежнему бедно пе тужил одно плохо никак ле мог своей бедности жениться однажды ночью приснился отец спросил сына тому живется благодарил доброту заботу затем сказал таком месте лежит червонец пусть пойдет возьмет сын спросил ого</p>
-      <p>праведные это деньги отец</p>
-      <p>сынок сказать пе могу ответил</p>
-      <p>таком случае возьму сказал сын</p>
-      <p>несколько дней отец приснился сыну предложил взятъ определенном месте рубль сын отказался узнал рубль праведных денег</p>
-      <p>третий отец предложил сыну тпахи вопрос сына ответил монета эта обладает великой благодатью наутро сын отправился названное место действительно нашел монету пряное домой знает потратить услыхал купец города отправляется далекие страны купца хорошее правило брать заказы своих земляков заморские товары поэтому отъездом доме толпились горожане пришедшие ному разными поручениями юноша взял свои шахи пошел нему богачи которые пришли купцу большими деньгами увидели юношу стали смеяться</p>
-      <p>смотри ка голодранец хочет заморских товаров воображает оп купить обмен блох</p>
-      <p>вместе всеми смеялись братья купец ничем выдал своего удивления спросил юпоп привезти деньги</p>
-      <p>полагаюсь твои выбор ответил юноша вышел</p>
-      <p>купец уехал поездил тго странам купил нужно нигде ис мог найти подходящего топоши товара пришло время возвращаться увидел однажды па базаре огромную рыбу спросил цепе хозяин назвал абасн купец сказал</p>
-      <p>шахи очень бедного человека уступи шахи прибавлю одип шахи бедняк получит запас зиму</p>
-      <p>хозяин рыбы согласился купец привез юноше рыбу купец приехал всо заказчики потянулись ному юноша стеснялся пойти купец прислал человека юноша явился</p>
-      <p>купец рассказал отдал рыбу юноша взвалил спину отправился домой ближе оп подходил дому тяжелое становилась рыба вошел двор сил долго стоял удивляясь тяжести взял нож вспорол брюхо тотчас комната наполнилась звоном светом брюха рыбьт непрерывным потоком потекли золото драгоценные камни вскоре вся комната наполнилась ими</p>
-      <p>юнота разбогател богатство превратило собаку пе опьянило жил долго счастливо имел хорошую жену детей заслужил почет уважение горожан</p>
-    </body>
-  </text>
-</TEI>
+     <head>ВОЛШЕБНАЯ МОНЕТА</head>
+     <p>большую братья бывший водили ворчал вывел выдержал выпроводить груб дал день дня добра долю дома дому другому жена женился женился жил жить жить житья имущество каждый каждый каждым куском любил младшему младший муж наступила неприятностей несправедливость обделил обращаясь объяснил однажды одного отвести отдал отец отец отец ото отпа отца отцом отцом отцу очень па пз пз пит повторилось получил понимал попрекал попросил поскорее поэтому предупредительным привел просто прпчи раздела раздела разделились разделить решил самое свете свое своего своего своих словно собирается состязались спорить среднему средний стал стал стал стало стараясь старик старика старику старость старшего старшему старших старших сый сын сын сын сына сыновей сыновей сыновьями сыновьями сыну таким такого тге тремя тте хорошим хотя хуже хуже часть человек человек</p><p>брат брат время другому зашел младший оба однажды отца привел принимал ругались ужасно это</p><p>благополучием ваш вести воскликнул забыли которому неужели обязаны отец отце постыдный своим спор стыдно существованием это</p><p>блохахми братья возьмешь вон зад оборвали оборванец питаться пошел прикрой свой</p><p>возьму голодать жаром ко лишь младший ответил поити придется работе согласился умереть</p><p>бедную беседы бороду братьях вдвоем вел вечером воды возвращался вынужден голову дал жить изгнанный кормил любимцами младшего младшему нагрел несчастный одежду оп опи отца отца печку пи пи побрил поил пойти помыл пор прихода пришли работу разделе разу растопил свежевыстиранную своими скучал стали старик сын сын сыну тех упомяпул утром уходил уходом хижину хорошенько</p><p>бедно впроголодь говаривал говорил довольны жили зато обделял обиженным оп отвечая отец отец очень поддерживал разговоров раскаивался счастливы считает сын таких часто часто юношу</p><p>аллах будешь вознаградил всяком день доброту жизни ко молю ночь случае счастлив твою уверен</p><p>вскоре деньги дней заболел истратил могиле могилу отец отца п па пего пи поминки пошел работу разу сорок старшие сын сыновья умер ходил</p><p>бедно бедности благодарил возьмет времени доброту жениться живется жил заботу затем ле лежит месте младший мог никак ночью ого однажды одно отец пе плохо пойдет прежнему приснился прошло пусть своей сказал спросил спросил сын сын сына таком тому тужил червонец</p><p>деньги отец праведные это</p><p>могу ответил пе сказать сынок</p><p>возьму сказал случае сын таком</p><p>взятъ денег дней месте несколько определенном отец отказался праведных предложил приснился рубль рубль сын сыну узнал</p><p>благодатью богачи большими брать великой взял вопрос города горожане далекие действительно деньгами доме домой заказы заморские земляков знает которые купец купца купцу место монета монету названное наутро нашел нему ному обладает ответил отец отправился отправляется отъездом поручениями потратить пошел поэтому правило предложил пришедшие пришли пряное разными свои своих смеяться стали страны сын сына сыну товары толпились тпахи третий увидели услыхал хорошее шахи эта юноша юношу</p><p>блох воображает голодранец заморских ка купить обмен оп смотри товаров хочет</p><p>братья вместе всеми выдал деньги купец ничем привезти своего смеялись спросил удивления юпоп</p><p>выбор вышел ответил полагаюсь твои юноша</p><p>абасн базаре возвращаться время ис купец купец купил мог назвал найти нигде нужно огромную однажды па подходящего поездил пришло рыбу сказал спросил странам тго товара топоши увидел уехал хозяин цепе</p><p>бедного бедняк запас зиму одип очень получит прибавлю уступи человека шахи шахи шахи</p><p>всо заказчики купец купец купец ному пойти потянулись привез приехал прислал рыбу рыбы согласился стеснялся хозяин человека юноша юноша юноше явился</p><p>ближе брюха брюхо взвалил взял вошел вскоре вспорол вся двор долго домой дому драгоценные звоном золото ими камни комната комната купец наполнилась наполнилась непрерывным нож оп отдал отправился подходил потекли потоком рассказал рыба рыбу рыбьт светом сил спину становилась стоял тотчас тяжелое тяжести удивляясь юноша</p><p>богатство горожан детей долго жену жил заслужил имел опьянило пе почет превратило разбогател собаку счастливо уважение хорошую юнота</p></body>
+   </text>
+  </TEI>

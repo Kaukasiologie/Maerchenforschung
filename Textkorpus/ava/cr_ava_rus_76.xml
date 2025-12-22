@@ -1,146 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-          <geo/>
-        </placeName>
-        <date>1962</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Д.</forename>
-            <surname xml:lang="rus">Дибиров</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Д.</forename>
-            <surname xml:lang="rus">Атаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+       <geo />
+      </placeName>
+      <date>1962</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Д.</forename>
+        <surname xml:lang="rus">Дибиров</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Д.</forename>
+        <surname xml:lang="rus">Атаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_76">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_76">
     <body>
-      <head>42. Секрет молодости</head>
-      <p>одном ауле жил мельник человек честный справедливый брал чужого готов поделиться последней горстью муки нуждающимся</p>
-      <p>однажды расчищал мельничную канаву увидел большое спелое яблоко которое несло водой хотел съесть подумал это яблоко вырастил поэтому имею права красота яблока поразила решил узнать откуда оно</p>
-      <p>пошел мельник вдоль канавы реке некоторое время повстречал старика белоснежной бородой</p>
-      <p>садам алейкум старец твоем саду растут такие прекрасные яблоки</p>
-      <p>добрый человек растут выше реке саду моего старшего брата</p>
-      <p>мельник пошел дальше встретил пожилого человека которого бороде седых волос</p>
-      <p>салам алейкум старец старший брат почтенного старика живет ниже реке твоем саду растут яблоки</p>
-      <p>человек действительно младший брат яблоки растут саду нашего третьего самого старшего брата который живет выше реке</p>
-      <p>некоторое время мельник встретил моложавого человека единого седого волоса</p>
-      <p>салам алейкум добрый человек твоего сада яблоки старший брат стариков живущих ниже</p>
-      <p>ваалейкум ассалам старший братьев яблоки вырастил заходи путник дом будь гостем</p>
-      <p>мельник принял приглашение</p>
-      <p>жена дай нам поесть забудь выбрать самый спелый арбуз сказал старший брат заходя дом</p>
-      <p>поели жена принесла арбуз хозяин разрезал сказал</p>
-      <p>это неспелый арбуз принеси ка получше</p>
-      <p>пять муж посылал жену новым арбузом последний понравился</p>
-      <p>поблагодарил мельник хозяев спросил</p>
-      <p>гостеприимный хозяин разреши задать тебе вопрос могло случиться самый старший братьев выглядишь молодо</p>
-      <p>видел пять посылал жену арбузом нисколько раздражались знай женой живем отменном мире согласии ничто сих пор омрачало нашу жизнь мои младшие братья увы могли добиться</p>
-      <p>узнал мельник секрет молодости тех пор стал жить женой мире согласии говорят ста лет седых волос</p>
-    </body>
-  </text>
-</TEI>
+     <head>42. Секрет молодости</head>
+     <p>ауле брал горстью готов жил мельник муки нуждающимся одном поделиться последней справедливый человек честный чужого</p><p>большое водой вырастил имею канаву которое красота мельничную несло однажды оно откуда подумал поразила поэтому права расчищал решил спелое съесть увидел узнать хотел это яблока яблоко яблоко</p><p>белоснежной бородой вдоль время канавы мельник некоторое повстречал пошел реке старика</p><p>алейкум прекрасные растут садам саду старец такие твоем яблоки</p><p>брата выше добрый моего растут реке саду старшего человек</p><p>бороде волос встретил дальше которого мельник пожилого пошел седых человека</p><p>алейкум брат живет ниже почтенного растут реке саду салам старец старика старший твоем яблоки</p><p>брат брата выше действительно живет который младший нашего растут реке саду самого старшего третьего человек яблоки</p><p>волоса время встретил единого мельник моложавого некоторое седого человека</p><p>алейкум брат добрый живущих ниже сада салам стариков старший твоего человек яблоки</p><p>ассалам братьев будь ваалейкум вырастил гостем дом заходи путник старший яблоки</p><p>мельник приглашение принял</p><p>арбуз брат выбрать дай дом жена забудь заходя нам поесть самый сказал спелый старший</p><p>арбуз жена поели принесла разрезал сказал хозяин</p><p>арбуз ка неспелый получше принеси это</p><p>арбузом жену муж новым понравился последний посылал пять</p><p>мельник поблагодарил спросил хозяев</p><p>братьев вопрос выглядишь гостеприимный задать могло молодо разреши самый случиться старший тебе хозяин</p><p>арбузом братья видел добиться женой жену живем жизнь знай мире младшие могли мои нашу нисколько ничто омрачало отменном пор посылал пять раздражались сих согласии увы</p><p>волос говорят женой жить лет мельник мире молодости пор седых секрет согласии ста стал тех узнал</p></body>
+   </text>
+  </TEI>

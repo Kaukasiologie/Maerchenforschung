@@ -1,165 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">«Фольклор Азербайджана и прилегающих стран»</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"> под ред. проф. А. В. Багрия, т. II, Баку, 1930 стр. 127.</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">«Фольклор Азербайджана и прилегающих стран»</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus"> под ред. проф. А. В. Багрия, т. II, Баку, 1930 стр. 127.</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Дм.</forename>
-            <surname xml:lang="rus">Рзянкин</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Дм.</forename>
+        <surname xml:lang="rus">Рзянкин</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_22">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_22">
     <body>
-      <head>9. Сулейман-хан </head>
-      <p>одном селе жили соседству бедняка одного собака другого кошка бедняки кошку собакой прокормить могли однажды собака говорит кошке</p>
-      <p>нам соседка жигье плохое уйдем лес</p>
-      <p>кошка ответ</p>
-      <p>соседка хуже пойдем</p>
-      <p>будешь сулейман хан твой нукер предлагает собака</p>
-      <p>пошли глаза глядят</p>
-      <p>идут день идут реки горы скоро долго знаю дошли беглецы леса нечего плелись голодные собрались отдохнуть откуда возьмись выскочил голодный серый волк грозно спросил</p>
-      <p>откуда идете</p>
-      <p>собака видит дело плохо пустилась хитрость</p>
-      <p>тобой сулейман хан ответила указала кошку хозяин леса всей земли нукер</p>
-      <p>хан идет осмотреть свои владения очень сердит хочет прогнать зверей своей земли</p>
-      <p>волк испугался низко поклонился сулейман хану пожелал счастливого пути обещал угостить хана принести подарки уходом волк шепотом сказал ханскому нукеру</p>
-      <p>подождите вон тех деревьев другим зверям скажу принесли угощение</p>
-      <p>побежал волк лесу угорелый встретил медведя</p>
-      <p>серый бежишь спрашивает медведь</p>
-      <p>ох горе горе нам пришел сулейман хан хочет прогнать леса сердитый нукер говорил нем съест непременно угостить</p>
-      <p>это устроить заранее шкура дрожит захныкал медведь</p>
-      <p>пойдем поищем других зверей</p>
-      <p>отыскали кабана лису стали совещаться угостить сулейман хана</p>
-      <p/>
-      <p>лиса немного поразмыслила говорит</p>
-      <p>придумала волк ловишь баранов</p>
-      <p>притащи самого жирного барана медведь деревья ломаешь сломи больших сухих дерева принеси сюда утащу пастухов котел спички дам котел кабану наберет воды вместе пойдем сулсйманхану приготовим угощение</p>
-      <p>обрадовались звери стали благодарить лису</p>
-      <p>ай лисанька ай умница избавила лютой беды век забудем</p>
-      <p>сказано сделано волк достал жирного барана медведь приволок дерева кабан принес котел воды лиса спичек</p>
-      <p>мало угощения спросил медведь волка</p>
-      <p>кажется виду сулейман хан невелик ответил волк</p>
-      <p>пошли тому месту ожидал хан своим нукером</p>
-      <p>впереди налегке шла лиса обдумывала речь которую произнесет ханом</p>
-      <p>подошли звери кошке собаке низко поклонились</p>
-      <p>лиса приветствовала хана имени зверей предложила угощение</p>
-      <p>скоро обед готов видеть сулейман хан звери залезли па дерево кабан спрятался пенек</p>
-      <p>голодные кошка собака жадно набросились горячее мясо</p>
-      <p>второпях кошка сильно обожглась фыркнула задрала хвост криком мяу мяу прыгнула дерево сидел</p>
-      <p>медведь медведь испугался крикнул волку говорил тебе глупая голова мало упал дерева расшибся насмерть</p>
-      <p>кошка испугалась перескочила другое дерево сидел волк волк взвыл полетел дерева разбил лоб пустился наутек дороге перепугу издох</p>
-      <p>лиса хотя свалилась дерева пострадала благополучно скрылась своей норе</p>
-      <p>заметила кошка пеньком шевелится это кабан ушами поводил кошка подумала это мышь бросилась туда вцепилась кабанье ухо отгрызла убежал кабан забрел горя густой камыш сунул больное ухо грязь жалобно застонал</p>
-      <p>ой хан ой сулейман нам</p>
-      <p>кошка собакой дня ели баранину поправились потолстели таки вернулись старым хозяевам</p>
-      <p>просто жить лесу</p>
-    </body>
-  </text>
-</TEI>
+     <head>9. Сулейман-хан </head>
+     <p>бедняка бедняки говорит другого жили кошка кошке кошку могли однажды одного одном прокормить селе собака собака собакой соседству</p><p>жигье лес нам плохое соседка уйдем</p><p>кошка ответ</p><p>пойдем соседка хуже</p><p>будешь нукер предлагает собака сулейман твой хан</p><p>глаза глядят пошли</p><p>беглецы возьмись волк выскочил голодные голодный горы грозно день долго дошли знаю идут идут леса нечего отдохнуть откуда плелись реки серый скоро собрались спросил</p><p>идете откуда</p><p>видит дело плохо пустилась собака хитрость</p><p>всей земли кошку леса нукер ответила сулейман тобой указала хан хозяин</p><p>владения зверей земли идет осмотреть очень прогнать своей свои сердит хан хочет</p><p>волк волк испугался низко нукеру обещал подарки пожелал поклонился принести пути сказал сулейман счастливого угостить уходом хана ханскому хану шепотом</p><p>вон деревьев другим зверям подождите принесли скажу тех угощение</p><p>волк встретил лесу медведя побежал угорелый</p><p>бежишь медведь серый спрашивает</p><p>говорил горе горе леса нам нем непременно нукер ох пришел прогнать сердитый сулейман съест угостить хан хочет</p><p>дрожит заранее захныкал медведь устроить шкура это</p><p>других зверей поищем пойдем</p><p>кабана лису отыскали совещаться стали сулейман угостить хана</p><p /><p>говорит лиса немного поразмыслила</p><p>баранов волк ловишь придумала</p><p>барана больших вместе воды дам дерева деревья жирного кабану котел котел ломаешь медведь наберет пастухов пойдем приготовим принеси притащи самого сломи спички сулсйманхану сухих сюда угощение утащу</p><p>благодарить звери лису обрадовались стали</p><p>ай ай беды век забудем избавила лисанька лютой умница</p><p>барана воды волк дерева достал жирного кабан котел лиса медведь приволок принес сделано сказано спичек</p><p>волка мало медведь спросил угощения</p><p>виду волк кажется невелик ответил сулейман хан</p><p>месту нукером ожидал пошли своим тому хан</p><p>впереди которую лиса налегке обдумывала произнесет речь ханом шла</p><p>звери кошке низко подошли поклонились собаке</p><p>зверей имени лиса предложила приветствовала угощение хана</p><p>видеть готов дерево залезли звери кабан обед па пенек скоро спрятался сулейман хан</p><p>голодные горячее жадно кошка мясо набросились собака</p><p>второпях дерево задрала кошка криком мяу мяу обожглась прыгнула сидел сильно фыркнула хвост</p><p>волку глупая говорил голова дерева испугался крикнул мало медведь медведь насмерть расшибся тебе упал</p><p>взвыл волк волк дерева дерево дороге другое издох испугалась кошка лоб наутек перепугу перескочила полетел пустился разбил сидел</p><p>благополучно дерева лиса норе пострадала свалилась своей скрылась хотя</p><p>больное бросилась вцепилась горя грязь густой жалобно забрел заметила застонал кабан кабан кабанье камыш кошка кошка мышь отгрызла пеньком поводил подумала сунул туда убежал ухо ухо ушами шевелится это это</p><p>нам ой ой сулейман хан</p><p>баранину вернулись дня ели кошка поправились потолстели собакой старым таки хозяевам</p><p>жить лесу просто</p></body>
+   </text>
+  </TEI>

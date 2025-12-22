@@ -1,145 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Ногайские народные сказки</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Ногайские народные сказки</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="nog">Джанибекова - Йырлар, эртегилер, айтувлар эм юмаклар. с. 76–77.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="nog"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="nog">Джанибекова - Йырлар, эртегилер, айтувлар эм юмаклар. с. 76–77.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="nog" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_50">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_50">
     <body>
-      <head>43. Молла и овца </head>
-      <p>однажды зимой молла проезжал ночью аул решил заночевать слез повозки постучался дверь ближайшего дома попросился ночлег</p>
-      <p>заходи заходи пригласил моллу старый хозяин дома</p>
-      <p>возничий стал распрягать лошадей молла вошел дом</p>
-      <p>раздевайся молла раздевайся говорит старик</p>
-      <p>молла снял волчью шубу овца которая доме старика почуяла волчий дух забеспокоилась трясется стучит земляной пол копытами</p>
-      <p>это твоей овцой сердится спрашивает молла</p>
-      <p>хитрый старик отвечает</p>
-      <p>волчий дух почуяла зиму овца задрала десять волков</p>
-      <p>удивился молла говорит</p>
-      <p>продай твою овцу заплачу</p>
-      <p>продать отвечает старик тебе это дорого станет овца особенная</p>
-      <p>дорого стоила дороже денег продай дам тебе тысячу рублей</p>
-      <p>старик стал торговаться отдал овцу</p>
-      <p>рано утром молла сел повозку захватил собой овцу отправился путь впереди дороге молла увидел трех волков почуяв волков овца забеспокоилась стала метаться повозке молла говорит возничему</p>
-      <p>выпусти овцу дорогу</p>
-      <p>возничий смеется</p>
-      <p>пусть распалится</p>
-      <p>волки близко овцу выпустили дорогу припустится лес волки молла кричит возничему</p>
-      <p>беги ними иначе овца попортит волчьи шкуры</p>
-      <p>возничий прибежал лес нашел овечьи кости возничий вернулся молле говорит улыбкой</p>
-      <p>э хороша овца растерзали волки уступила</p>
-      <p>говорил тебе раньше выпустить сердито отвечает молла распалилась сама растерзала</p>
-    </body>
-  </text>
-</TEI>
+     <head>43. Молла и овца </head>
+     <p>аул ближайшего дверь дома заночевать зимой молла ночлег ночью однажды повозки попросился постучался проезжал решил слез</p><p>дома заходи заходи моллу пригласил старый хозяин</p><p>возничий вошел дом лошадей молла распрягать стал</p><p>говорит молла раздевайся раздевайся старик</p><p>волчий волчью доме дух забеспокоилась земляной копытами которая молла овца пол почуяла снял старика стучит трясется шубу</p><p>молла овцой сердится спрашивает твоей это</p><p>отвечает старик хитрый</p><p>волков волчий десять дух задрала зиму овца почуяла</p><p>говорит молла удивился</p><p>заплачу овцу продай твою</p><p>дорого овца особенная отвечает продать станет старик тебе это</p><p>дам денег дорого дороже продай рублей стоила тебе тысячу</p><p>овцу отдал стал старик торговаться</p><p>возничему волков волков впереди говорит дороге забеспокоилась захватил метаться молла молла молла овца овцу отправился повозке повозку почуяв путь рано сел собой стала трех увидел утром</p><p>выпусти дорогу овцу</p><p>возничий смеется</p><p>пусть распалится</p><p>близко возничему волки волки выпустили дорогу кричит лес молла овцу припустится</p><p>беги волчьи иначе ними овца попортит шкуры</p><p>вернулся возничий возничий говорит кости лес молле нашел овечьи прибежал улыбкой</p><p>волки овца растерзали уступила хороша э</p><p>выпустить говорил молла отвечает раньше распалилась растерзала сама сердито тебе</p></body>
+   </text>
+  </TEI>

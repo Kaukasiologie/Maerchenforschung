@@ -1,145 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
-          <geo/>
-        </placeName>
-        <date>2011</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Баху Дж.</forename>
-            <surname xml:lang="rus">Магомедова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1961</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
+       <geo />
+      </placeName>
+      <date>2011</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Баху Дж.</forename>
+        <surname xml:lang="rus">Магомедова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1961</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_67">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_67">
     <body>
-      <head>СКАЗКА О ПЛЕШИВЫХ ЖИВОТНЫХ, КОТОРЫХ ИЗГНАЛИ ИЗ СЕЛА </head>
-      <p>жили одного человека баран козлёнок телёнок ягнёнок овца плешивые сельчане выгнали села сказав плешь перейти скот выздоровев сами играясь лёжа</p>
-      <p>прохлаждались целое лето жили самостоятельно день отправил телёнок козлёнка ситом водой побежал козлёнок сито воду набрать</p>
-      <p>держится вода сите сказал вернувшись козлёнок</p>
-      <p>сите вода останется намажь донышко глину набери принеси подучил телёнок намазав снизу донышко сита глиной набрав нём воду возвращался козлёнок увидел волка направляющегося стойбище выкинув сито побежал козлёнок друзьям прибежал застал барана телёнка ягнёнка овцу разведением огня распевая песни готовили еду</p>
-      <p>тихо нам быстро прятаться волк идёт сторону нашего стойбища сказал козлёнок перепугу туда сюда начали метаться поисках укромного места</p>
-      <p>прячьтесь каждый отдельно отделившись друг друга спрячемся волк съест легко придумать хитрость спасти наши души сказал баран волк говорил кого набрасывался договорились бояться достойно ответить вместе постоять друг друга сидя вокруг огня случилось продолжали петь песни которые пели застал волк</p>
-      <p>асаламу алейкум ва алейкум салам веселитесь поёте вижу сказал волк живём радуясь сказал баран присоединиться спросил волк почему иди сказала овца сидели поев попив играя бубне распевая песни</p>
-      <p>сказал волк нука дайте бубен спою одну песню</p>
-      <p>ударив бубен запел волк пустыре лесу поисках вкусного мяса сколько побродил сказать сегодня ровно месяц бараном полакомлюсь съем большой курдюк овцу ягнёнка козлёнка друзьям своим отнесу мясо телёнка вкусно очень оно моим щенкам полезно добычу находя радостях буду</p>
-      <p>споём тебе песню сказал баран взял бубен ударив бубен запел баран</p>
-      <p>моего курдюка видишь захотелось волку своими грозными рогами раздавлю волка тело</p>
-      <p>заговорили рогах загордившись козлёнок спел остро точеный рожок брюхо волка примет мирно будут еде нуждаться разодранные кишки волка</p>
-      <p>ягнёнок овца телёнок вместе спели бояться никто станет готовы драться втроём вместе смелей стопчем голову ногами</p>
-      <p>поняв смысл спетых всеми песен подумав покинуть это место пока самого убили волк затрясся страха попятился назад заблеяли замычали заорали баран козлёнок телёнок ягнёнок овца волк зажав хвост меж ногами убежал</p>
-      <p>дня отойдя друг друга мире согласии играясь радуясь говорят живут вместе баран козлёнок ягнёнок овца местности чок лакомясь сочной травой запивая её холодной водой</p>
-    </body>
-  </text>
-</TEI>
+     <head>СКАЗКА О ПЛЕШИВЫХ ЖИВОТНЫХ, КОТОРЫХ ИЗГНАЛИ ИЗ СЕЛА </head>
+     <p>баран выгнали выздоровев жили играясь козлёнок лёжа овца одного перейти плешивые плешь сами села сельчане сказав скот телёнок человека ягнёнок</p><p>водой воду день жили козлёнка козлёнок лето набрать отправил побежал прохлаждались самостоятельно сито ситом телёнок целое</p><p>вернувшись вода держится козлёнок сите сказал</p><p>барана вода воду возвращался волка выкинув глиной глину готовили донышко донышко друзьям еду застал козлёнок козлёнок набери набрав намажь намазав направляющегося нём овцу огня останется песни побежал подучил прибежал принеси разведением распевая сита сите сито снизу стойбище телёнка телёнок увидел ягнёнка</p><p>быстро волк идёт козлёнок места метаться нам начали нашего перепугу поисках прятаться сказал стойбища сторону сюда тихо туда укромного</p><p>баран бояться вместе вокруг волк волк волк говорил договорились достойно друг друг друга друга души застал каждый кого которые легко набрасывался наши огня ответить отделившись отдельно пели песни петь постоять придумать продолжали прячьтесь сидя сказал случилось спасти спрячемся съест хитрость</p><p>алейкум алейкум асаламу баран бубне ва веселитесь вижу волк волк живём играя иди овца песни поев попив почему поёте присоединиться радуясь распевая салам сидели сказал сказал сказала спросил</p><p>бубен волк дайте нука одну песню сказал спою</p><p>бараном большой бубен буду вкусно вкусного волк добычу друзьям запел козлёнка курдюк лесу месяц моим мяса мясо находя овцу оно отнесу очень побродил поисках полакомлюсь полезно пустыре радостях ровно своим сегодня сказать сколько съем телёнка ударив щенкам ягнёнка</p><p>баран баран бубен бубен взял запел песню сказал споём тебе ударив</p><p>видишь волка волку грозными захотелось курдюка моего раздавлю рогами своими тело</p><p>брюхо будут волка волка еде заговорили загордившись кишки козлёнок мирно нуждаться остро примет разодранные рогах рожок спел точеный</p><p>бояться вместе вместе втроём голову готовы драться никто ногами овца смелей спели станет стопчем телёнок ягнёнок</p><p>баран волк волк всеми заблеяли зажав замычали заорали затрясся козлёнок меж место назад ногами овца песен подумав пока покинуть поняв попятился самого смысл спетых страха телёнок убежал убили хвост это ягнёнок</p><p>баран вместе водой говорят дня друг друга её живут запивая играясь козлёнок лакомясь местности мире овца отойдя радуясь согласии сочной травой холодной чок ягнёнок</p></body>
+   </text>
+  </TEI>

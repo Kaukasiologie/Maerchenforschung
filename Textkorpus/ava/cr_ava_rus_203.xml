@@ -1,155 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательство &quot;Художественная литература&quot;. Маскжа 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Саидова</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">У.</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Саидова</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">У.</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_203">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_203">
     <body>
-      <head>УМНЫЙ МАЛЬЧИК</head>
-      <p>приятеля задумали торговать вместе взяли свои деньги отправились путь шли шли пришли одно селение селении жила старая женщина</p>
-      <p>остановились попросили взять сохранение деньги наказав строго настрого давать гроша одному пока попросят трое договорились обо всем приятели шли реке помыться обнаружили забыли гребешок двое говорят третьему</p>
-      <p>сходи ка хозяйке принеси гребешок</p>
-      <p>отправился старухе стал просить деньги переданные сохранение</p>
-      <p>женщива ответила</p>
-      <p>ие отдам тебе деньги пока попросите вместе плут предложил пойти реке</p>
-      <p>сама усльшнишь станут просить</p>
-      <p>зкенщина подошла поближе купавшимся действительно услыхаля</p>
-      <p>дай</p>
-      <p>хозяйка вернулась домой отдала плуту деньги</p>
-      <p>взял деньги таков товарищи видя долго возвращается пришли хозяйке спрашивают</p>
-      <p>наш приятель</p>
-      <p>старуха ответила знает отдала деньги ушёл</p>
-      <p>просили гребешок отдала деньги верни нам наши деньги</p>
-      <p>лотащили женщину дибиру дибир решил пусть женщина возместит своим постояльцам убыток</p>
-      <p>большом горе плачем воплями пошла жен дибир дужовное лицо исполняющее также обязанности судьи</p>
-      <p>щина домой дороге встретила четырехлетнего мальчика</p>
-      <p>плачешь добрая женщина случилось спросил мальчик</p>
-      <p>жешиина рассказала своем несчастье</p>
-      <p>вели дащь пятак избавлю беды сказал мальчик дам ответила женщина</p>
-      <p>мальчик посоветовал</p>
-      <p>вернись назад дибиру скажи деньги этих людей находятся пусть поетояльцы придут ними непременно втроем условлено</p>
-      <p>т женщина пришла дибиру сказала учил мальчик изумленный дибир восклик нуле</p>
-      <p>дал тебе мудрый совет женщина</p>
-      <p>мальчик</p>
-      <p>е дибир решил дело пользу старухи дарила мальчику обещанный пятак дибир опре делил муталимы ний</p>
-      <p>муталим ученик лы</p>
-      <p>били</p>
-    </body>
-  </text>
-</TEI>
+     <head>УМНЫЙ МАЛЬЧИК</head>
+     <p>взяли вместе деньги женщина жила задумали одно отправились пришли приятеля путь свои селение селении старая торговать шли шли</p><p>взять всем говорят гребешок гроша давать двое деньги договорились забыли наказав настрого обнаружили обо одному остановились пока помыться попросили попросят приятели реке сохранение строго третьему трое шли</p><p>гребешок ка принеси сходи хозяйке</p><p>деньги отправился переданные просить сохранение стал старухе</p><p>женщива ответила</p><p>вместе деньги ие отдам плут пойти пока попросите предложил реке тебе</p><p>просить сама станут усльшнишь</p><p>действительно зкенщина купавшимся поближе подошла услыхаля</p><p>дай</p><p>вернулась деньги домой отдала плуту хозяйка</p><p>взял видя возвращается деньги долго пришли спрашивают таков товарищи хозяйке</p><p>наш приятель</p><p>деньги знает ответила отдала старуха ушёл</p><p>верни гребешок деньги деньги нам наши отдала просили</p><p>возместит дибир дибиру женщина женщину лотащили постояльцам пусть решил своим убыток</p><p>большом воплями горе дибир дужовное жен исполняющее лицо обязанности плачем пошла судьи также</p><p>встретила домой дороге мальчика четырехлетнего щина</p><p>добрая женщина мальчик плачешь случилось спросил</p><p>жешиина несчастье рассказала своем</p><p>беды вели дам дащь женщина избавлю мальчик ответила пятак сказал</p><p>мальчик посоветовал</p><p>вернись втроем деньги дибиру людей назад находятся непременно ними поетояльцы придут пусть скажи условлено этих</p><p>восклик дибир дибиру женщина изумленный мальчик нуле пришла сказала т учил</p><p>дал женщина мудрый совет тебе</p><p>мальчик</p><p>дарила делил дело дибир дибир е мальчику муталимы ний обещанный опре пользу пятак решил старухи</p><p>лы муталим ученик</p><p>били</p></body>
+   </text>
+  </TEI>

@@ -1,164 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-          <geo/>
-        </placeName>
-        <date>1999</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Халиловa</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+       <geo />
+      </placeName>
+      <date>1999</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Халиловa</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_16">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_16">
     <body>
-      <head>84 Ярахмед и Караахмед (лак.) </head>
-      <p>жили жили одном ауле жили брата одного брата звали ярахмед другого караахмед мать отец умер рано ярахмед умный караахмед глупый</p>
-      <p>однажды ярахмед рано утром пошел пахать поле горой мать послала младшего сына караахмеда обедом старшего ярахмеда передала караахмеду горшок хинкалом сказала</p>
-      <p>играй детьми возьми горшок хинкалом отнеси своему брату обед смотри оглядывайся гляди сторонам иди прямо дороге</p>
-      <p>пошел караахмед мимо садов муркелинских глядя ноги смотрит лежит дороге блестящая золотая булавка поднял вышел тени деревьев дорогу смотрит идет очень испугался твердым голосом спросил</p>
-      <p>эй тебе</p>
-      <p>это собственная тень могла тень сказать снова твердым голосом спросил</p>
-      <p>скажи расправлюсь тобой</p>
-      <p>тень молчала очень струсил страха знал сказать наверное хочет украсть мою булавку подумал караахмед бросил булавку суп хинкалом свернул тропы направо смотрит тень пошла свернула направо повернул налево тень последовала испуганный караахмед подумал задобрить хинкалом бросил дорогу одну две галушки завернул скалу тень исчезла хинкала наелся подумал караахмед вышел скалы</p>
-      <p>тень тотчас появилась рядом страха караахмед побросал весь хинкал дорогу убежал бежал бежал добежал старшего брата тень</p>
-      <p>случилось прибежал весь дрожишь какую еду принес спросил старший брат</p>
-      <p>нес хинкал нашел золотую булавку человек хотел отнять отдал весь хинкал нес тебе несмотря это погнался мной</p>
-      <p>ярахмед засмеялся</p>
-      <p>это человек твоя тень тень навредить человеку глупее глупых выбросить горшок хинкалом выбрасывает золотую булавку сунуть булавку карман</p>
-      <p>следующий сделаю сказал караахмед</p>
-      <p>второй день мать вновь послала караахмеда едой старшего сына караахмед нашел дороге кем брошенный кинжал ножен поднимая кинжал увидел тень испугался быстро засунул кинжал карман порезал ногу весь крови караахмед прибежал брату дороге кинжал потерял</p>
-      <p>слушай тобой поранил спросил ярахмед</p>
-      <p>караахмед рассказал нашел кинжал засунул карман посмотрел кинжал потерялся</p>
-      <p>глупец глупцов кинжал привязывают ремнем поясу сказал брат</p>
-      <p>следующий сделаю</p>
-      <p>старший брат нашел чистый лоскуток перевязал рану караахмеда следующий день мать отправила младшего сына обедом старшего</p>
-      <p>успел выйти аула бугром нашел красивого щенка привязывая ремнем щенка заметил тень испугался тени потащив собой щенка побежал брату ярахмед выбросил задушенного щенка брату сказал</p>
-      <p>слушай кинуть щенку кусочек хлеба пошел тобой</p>
-      <p>следующий поступлю сказал младший брат</p>
-      <p>следующий день караахмед нашел дороге кем брошенный топор стал кидать кидать кусочки хлеба раннее утро горы дороге появилась тень успел пройти поворот показалось солнце снова возникла тень увидев тень караахмед бросил хлеб сбежал оттуда брату пришел нему стал ждать пока придет топор которого принял щенка ярахмед рассердился пошел топором сказав караахмеду смотри следи быками пошел туда сказал брат</p>
-      <p>разглядывая крошки хлеба разбросанные дороге оступился упал скалы сломал ногу трудом добрался быков</p>
-      <p>караахмед сказал</p>
-      <p>видишь тебе говорил это человек тень тебе нужен топор</p>
-      <p>стонал кричал боли старший брат караахмед хотел днем отвезти аул боялся тени скрылось солнце караахмед посадил старшего брата быка ночью доставил аул лекарю</p>
-      <p>следующий день мать отправила караахмеда поле пахать вместо старшего сына ехал верхом быке полю увидел тень дерева</p>
-      <p>бедняга делаешь солнце головного убора сказал положил папаху дерево</p>
-      <p>доехали поля увидел меже камень</p>
-      <p>бедняга солнце обожжет сказал снял рубашку надел камень</p>
-      <p>привязал соху стал пахать старая соха заскрипела</p>
-      <p>смотри бессовестная стыда моим носом пускаешь воздух бесстыдница этими словами вытащил соху земли ударил ею землю</p>
-      <p>соха сломалась сел стал плакать делать буду пахать встал оглянулся рядом увидел тень</p>
-      <p>оставишь оставишь покое закричал отчаянии стал бросать тень камни</p>
-      <p>получилась целая гора пока воевал стало темнеть тень исчезла</p>
-      <p>сражаться врагами гордо сказал караахмед песней погнал впереди быков радостный вернулся домой</p>
-    </body>
-  </text>
-</TEI>
+     <head>84 Ярахмед и Караахмед (лак.) </head>
+     <p>ауле брата брата глупый другого жили жили жили звали караахмед караахмед мать одного одном отец рано умер умный ярахмед ярахмед</p><p>горой горшок караахмеда караахмеду мать младшего обедом однажды пахать передала поле послала пошел рано сказала старшего сына утром хинкалом ярахмед ярахмеда</p><p>брату возьми гляди горшок детьми дороге играй иди обед оглядывайся отнеси прямо своему смотри сторонам хинкалом</p><p>блестящая булавка вышел глядя голосом деревьев дороге дорогу золотая идет испугался караахмед лежит мимо муркелинских ноги очень поднял пошел садов смотрит смотрит спросил твердым тени</p><p>тебе эй</p><p>голосом могла сказать снова собственная спросил твердым тень тень это</p><p>расправлюсь скажи тобой</p><p>бросил бросил булавку булавку вышел галушки две дорогу завернул задобрить знал испуганный исчезла караахмед караахмед караахмед молчала мою наверное наелся налево направо направо одну очень повернул подумал подумал подумал последовала пошла свернул свернула сказать скалу скалы смотрит страха струсил суп тень тень тень тень тропы украсть хинкала хинкалом хинкалом хочет</p><p>бежал бежал брата весь добежал дорогу караахмед побросал появилась рядом старшего страха тень тень тотчас убежал хинкал</p><p>брат весь дрожишь еду какую прибежал принес случилось спросил старший</p><p>булавку весь золотую мной нашел нес нес несмотря отдал отнять погнался тебе хинкал хинкал хотел человек это</p><p>засмеялся ярахмед</p><p>булавку булавку выбрасывает выбросить глупее глупых горшок золотую карман навредить сунуть твоя тень тень хинкалом человек человеку это</p><p>караахмед сделаю сказал следующий</p><p>брату брошенный быстро весь вновь второй день дороге дороге едой засунул испугался караахмед караахмед караахмеда карман кем кинжал кинжал кинжал кинжал крови мать нашел ногу ножен поднимая порезал послала потерял прибежал старшего сына тень увидел</p><p>поранил слушай спросил тобой ярахмед</p><p>засунул караахмед карман кинжал кинжал нашел посмотрел потерялся рассказал</p><p>брат глупец глупцов кинжал поясу привязывают ремнем сказал</p><p>сделаю следующий</p><p>брат день караахмеда лоскуток мать младшего нашел обедом отправила перевязал рану следующий старшего старший сына чистый</p><p>аула брату брату бугром выбросил выйти задушенного заметил испугался красивого нашел побежал потащив привязывая ремнем сказал собой тени тень успел щенка щенка щенка щенка ярахмед</p><p>кинуть кусочек пошел слушай тобой хлеба щенку</p><p>брат младший поступлю сказал следующий</p><p>брат брату бросил брошенный быками возникла горы день дороге дороге ждать караахмед караахмед караахмеду кем кидать кидать которого кусочки нашел нему оттуда поворот пока показалось пошел пошел появилась придет принял пришел пройти раннее рассердился сбежал сказав сказал следи следующий смотри снова солнце стал стал тень тень тень топор топор топором туда увидев успел утро хлеб хлеба щенка ярахмед</p><p>быков добрался дороге крошки ногу оступился разбросанные разглядывая скалы сломал трудом упал хлеба</p><p>караахмед сказал</p><p>видишь говорил нужен тебе тебе тень топор человек это</p><p>аул аул боли боялся брат брата быка днем доставил караахмед караахмед кричал лекарю ночью отвезти посадил скрылось солнце старшего старший стонал тени хотел</p><p>быке верхом вместо день дерева ехал караахмеда мать отправила пахать поле полю следующий старшего сына тень увидел</p><p>бедняга головного делаешь дерево папаху положил сказал солнце убора</p><p>доехали камень меже поля увидел</p><p>бедняга камень надел обожжет рубашку сказал снял солнце</p><p>заскрипела пахать привязал соха соху стал старая</p><p>бессовестная бесстыдница воздух вытащил ею земли землю моим носом пускаешь словами смотри соху стыда ударил этими</p><p>буду встал делать оглянулся пахать плакать рядом сел сломалась соха стал тень увидел</p><p>бросать закричал камни оставишь оставишь отчаянии покое стал тень</p><p>воевал гора исчезла пока получилась стало темнеть тень целая</p><p>быков вернулся впереди врагами гордо домой караахмед песней погнал радостный сказал сражаться</p></body>
+   </text>
+  </TEI>

@@ -1,177 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Ногайские народные сказки</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Ногайские народные сказки</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="nog">Ногай эртегилер.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 65–66.</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="nog">Ногай эртегилер.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 65–66.</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
-          <geo/>
-        </placeName>
-        <date>1972</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Ш. Р.</forename>
-            <surname xml:lang="rus">Найманов</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1903</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
+       <district />
+       <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
+       <geo />
+      </placeName>
+      <date>1972</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Ш. Р.</forename>
+        <surname xml:lang="rus">Найманов</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1903</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_38">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_38">
     <body>
-      <head>31. Белое Ухо </head>
-      <p>жили старик старухой детей старику приходилось самому пасти коз</p>
-      <p>однажды старика старухи дома дом вошел белое ухо вошел взобрался полку</p>
-      <p>вечером возвратился домой усталый старик прилег размечтался</p>
-      <p>эх старуха родила мальчика пришла старость пасти коз каждым годом тяжелее тяжелее</p>
-      <p>услышав слова старика белое ухо спрыгнул полки обратился нему</p>
-      <p>услышав слова старика белое ухо спрыгнул полки обратился нему</p>
-      <p>отец тебе придется самому пасти коз это буду делать</p>
-      <p>испугался старик голос слышит говорит видит белое ухо взобрался нему колени говорит</p>
-      <p>отец это твой сын белое ухо посади рогами козла посмотришь справлюсь твоей работой</p>
-      <p>обрадовался старик ласково погладил белое ухо поднял посадил рогами козла открыл ворота сказал</p>
-      <p>сын веди коз прямо восток луга растут буйные травы хранит аллах</p>
-      <p>этими словами старик вынес избы большую лепешку отдал собаке садака первый шаг сына счастливым</p>
-      <p>белое ухо ехал рогами козла сзади бежали козы белое ухо увидел скачущих навстречу всадников прискакав остановились возле коз всадников крикнул</p>
-      <p>нашел козу</p>
-      <p>это коза моего отца кричит белое ухо</p>
-      <p>всадник кричит стороны</p>
-      <p>нашел козу</p>
-      <p>это коза моей матери крикнул снова белое ухо</p>
-      <p>нашел козу раздается голос третьего всадника</p>
-      <p>это коза кричит ответ белое ухо</p>
-      <p>всадники очень удивились смотрят сторонам никого видят хозяина угнать коз погнали коз зарослей дорогу белое ухо сказал</p>
-      <p>бая который живет недалеко отсюда бык козы быка мяса</p>
-      <p>всадники задумались белое ухо закричал силы</p>
-      <p>хотите приведу быка</p>
-      <p>этими словами белое ухо спрыгнул головы козла предстал удивленными всадниками</p>
-      <p>это белое ухо бойтесь возьмите собой посадите рогами быка пощекочу рогами прибежит</p>
-      <p>всадники обрадовались радостью согласились отнесли белое ухо двор бая посадили рогами быка белое ухо стал щекотать быка пустился бежать</p>
-      <p>некоторое время белое ухо пригнал быка всадникам</p>
-      <p>нам достать топор говорит всадник</p>
-      <p>помогу отвечает белое ухо</p>
-      <p>всадники отнесли белое ухо ближайший двор оставили сараем некоторое время мальчик дома вышел погулять двор уселся играть недалеко белого уха белое ухо крикнул отцу мальчика столярничавшему дворе</p>
-      <p>эй отец кинь топор очищу двор кустарника</p>
-      <p>старик очень удивился отрываясь работы бросил топор сыну сын испуга мог пошевелиться никого кричит</p>
-      <p>подскочил всадников схватил топор забрал белое ухо перепрыгнул забор таков</p>
-      <p>зарезали быка понадобился казан</p>
-      <p>отнесите берег реки оставьте раздобуду чугунный казан сказал белое ухо</p>
-      <p>всадники отвезли берег оставили вскоре реке пришла женщина принесла собой казан стала чистить казан заблестел собралась уходить белое ухо крикнет ак женщина испуга выронила казан бросилась бежать временем всадники спрятавшиеся холмом прискакали схватили казан забрали белое ухо уехали</p>
-      <p>сварили быка съели</p>
-      <p>быком покончено увидели невдалеке кос чабана сытной еды всадникам захотелось повеселиться захватив собой белое ухо подъехали косу никого приятели взяли нашли дудку маслобойку чашку бараньего сала щенка котенка это белое ухо предложил отнести дом стоявший поблизости доме жил старик сыном двумя дочерьми ночь вся семья спала белое ухо сказал приятелям</p>
-      <p>пусть вымажет голову одной девушки бараньим салом пусть наденет голову второй девушки маслобойку третий губам парня привяжет дудку четвертый острижет бороду старику пятый положит котенка щенка девушками</p>
-      <p>сделав свое дело всадники спрятались дворе стали ждать первым проснулся старик словами всемогущий аллах хотел погладить бороду наткнулся голый подбородок одна дочерей проснувшись стала отчаянно чесать сальную голову вторая гудит маслобойку парень словно кем состязаясь дудит увидев щенка котенка девушки стали отталкивать обвинять друг друга</p>
-      <p>бесстыжая это родила таких уродов</p>
-      <p>это родила</p>
-      <p>вдоволь повеселившись приятели вскочили своих коней ускакали белое ухо долго смеялся вспомнил коз которых поручил пасти старик побежал стаду козы давно разбежались стыдно стало белому уху целый день развлекался слово свое сдержал вернулся старику старухой забрался очаг тихо улегся временем старуха подошла очагу увидела белое ухо</p>
-      <p>виновник наших бед крикнула бросила белое ухо очаг сгорел</p>
-    </body>
-  </text>
-</TEI>
+     <head>31. Белое Ухо </head>
+     <p>детей жили коз пасти приходилось самому старик старику старухой</p><p>белое взобрался вошел вошел дом дома однажды полку старика старухи ухо</p><p>вечером возвратился домой прилег размечтался старик усталый</p><p>годом каждым коз мальчика пасти пришла родила старость старуха тяжелее тяжелее эх</p><p>белое нему обратился полки слова спрыгнул старика услышав ухо</p><p>белое нему обратился полки слова спрыгнул старика услышав ухо</p><p>буду делать коз отец пасти придется самому тебе это</p><p>белое взобрался видит говорит говорит голос испугался колени нему слышит старик ухо</p><p>белое козла отец посади посмотришь работой рогами справлюсь сын твоей твой ухо это</p><p>белое ворота козла ласково обрадовался открыл погладил поднял посадил рогами сказал старик ухо</p><p>аллах буйные веди восток коз луга прямо растут сын травы хранит</p><p>большую вынес избы лепешку отдал первый садака словами собаке старик счастливым сына шаг этими</p><p>бежали белое белое возле всадников всадников ехал коз козла козы крикнул навстречу остановились прискакав рогами сзади скачущих увидел ухо ухо</p><p>козу нашел</p><p>белое коза кричит моего отца ухо это</p><p>всадник кричит стороны</p><p>козу нашел</p><p>белое коза крикнул матери моей снова ухо это</p><p>всадника голос козу нашел раздается третьего</p><p>белое коза кричит ответ ухо это</p><p>белое видят всадники дорогу зарослей коз коз никого очень погнали сказал смотрят сторонам угнать удивились ухо хозяина</p><p>бая бык быка живет козы который мяса недалеко отсюда</p><p>белое всадники задумались закричал силы ухо</p><p>быка приведу хотите</p><p>белое всадниками головы козла предстал словами спрыгнул удивленными ухо этими</p><p>белое бойтесь быка возьмите посадите пощекочу прибежит рогами рогами собой ухо это</p><p>бая бежать белое белое быка быка всадники двор обрадовались отнесли посадили пустился радостью рогами согласились стал ухо ухо щекотать</p><p>белое быка время всадникам некоторое пригнал ухо</p><p>всадник говорит достать нам топор</p><p>белое отвечает помогу ухо</p><p>белого белое белое ближайший время всадники вышел двор двор дворе дома играть крикнул мальчик мальчика недалеко некоторое оставили отнесли отцу погулять сараем столярничавшему уселся уха ухо ухо</p><p>двор кинь кустарника отец очищу топор эй</p><p>бросил испуга кричит мог никого отрываясь очень пошевелиться работы старик сын сыну топор удивился</p><p>белое всадников забор забрал перепрыгнул подскочил схватил таков топор ухо</p><p>быка зарезали казан понадобился</p><p>белое берег казан оставьте отнесите раздобуду реки сказал ухо чугунный</p><p>ак бежать белое белое берег бросилась временем всадники всадники вскоре выронила женщина женщина заблестел забрали испуга казан казан казан казан крикнет оставили отвезли принесла прискакали пришла реке собой собралась спрятавшиеся стала схватили уехали ухо ухо уходить холмом чистить</p><p>быка сварили съели</p><p>бараньего белое белое белое быком взяли всадникам вся двумя дом доме дочерьми дудку еды жил захватив захотелось кос косу котенка маслобойку нашли невдалеке никого ночь отнести поблизости повеселиться подъехали покончено предложил приятели приятелям сала семья сказал собой спала старик стоявший сыном сытной увидели ухо ухо ухо чабана чашку щенка это</p><p>бараньим бороду второй вымажет голову голову губам девушками девушки девушки дудку котенка маслобойку наденет одной острижет парня положит привяжет пусть пусть пятый салом старику третий четвертый щенка</p><p>аллах бороду всадники всемогущий вторая голову голый гудит дворе девушки дело дочерей друг друга дудит ждать кем котенка маслобойку наткнулся обвинять одна отталкивать отчаянно парень первым погладить подбородок проснувшись проснулся сальную свое сделав словами словно состязаясь спрятались стала стали стали старик увидев хотел чесать щенка</p><p>бесстыжая родила таких уродов это</p><p>родила это</p><p>белое белое белому вдоволь вернулся временем вскочили вспомнил давно день долго забрался коз козы коней которых очаг очагу пасти побежал повеселившись подошла поручил приятели разбежались развлекался свое своих сдержал слово смеялся стаду стало старик старику старуха старухой стыдно тихо увидела улегся ускакали ухо ухо уху целый</p><p>бед белое бросила виновник крикнула наших очаг сгорел ухо</p></body>
+   </text>
+  </TEI>

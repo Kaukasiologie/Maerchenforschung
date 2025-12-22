@@ -1,145 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/527827/mekegi.html">Mekegi</settlement>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Алиханов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/527827/mekegi.html">Mekegi</settlement>
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Алиханов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_105">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_105">
     <body>
-      <head>ПОКАЯНИЕ СТАРОГО КОТА</head>
-      <p>жил кот днем ночью пе давал мышам покоя постоянно охотился ними ловил безжалостно пожирал мыши дрожали страха боялись показаться белый свет</p>
-      <p>долго тянулось кот состарился глаза плохо видят угни плохо слышат зубы сточились когти погнулись лапы пе держат словом кот мышей ловить</p>
-      <p>отправился кот темный сарай стал блох ловить</p>
-      <p>мыши прыгали плясали радости увидев недруг стал таким жалким слабым</p>
-      <p>немощного старого кота ужо голодная смерть глазами стоит</p>
-      <p>эх погодите говорит старый кот дело которое должен сделать смертью</p>
-      <p>послал телеграммы всем мыптам которых лрпказьтвал назначенный день час собраться майдане сараем хочет объявить нм нечто важное</p>
-      <p>приказ дошел мыши обитавшие горах равнинах лесах заморских землях очень обрадовались стали торопиться поспеть назначенному времени нарядившись своп лучшие праздничные одежды мыши отправились путь самолетах поездах кораблях поближе автомобилях подводах верхом конях ослах</p>
-      <p>мыши собрались большом майдане пх столько майдан почернел пота ждут</p>
-      <p>вышел мапдап старый ирестарый кот взобрался певысокпй камень обернулся мьтптам заговорил</p>
-      <p>дорогие братья подойдите поближе станьте вокруг камня котором стою мои глаза стали плохо видеть стоите далеко очень соскучился хочу наглядеться па вблизи говорить громко слышно далеко силах видите сами ослабел</p>
-      <p>мыгпи забылп своего прежнего страха хотели подходить ближе</p>
-      <p>зла собрал разговора хочу смертью покаяться подходите подходите братья уговаривал кот</p>
-      <p>мыши поверили коту плотным кольцом окружили камень котором стоял задние становились ла спины передних редкие лезли ближе коту услышать покаяние своего заклятого врага наступила благоговейная тишина</p>
-      <p>старый кот сказал</p>
-      <p>братья мои хочу открыть мое сердце покаяться вамп хочется сказать одном вашем дурном п непристойном деянии воруете па мельнице зерно обычно трогаете па блтьтх зерном мешков которые принадлежат богачам дырявите маленькие торбочки бедняков пригоршней зер па причиняя большие убытки страдания бедным людям это очень скверная привычка смог простить остальные ваши прегрешения простить могу</p>
-      <p>пока мыши размышляли словами старый кот бросился устроил беспощадную бойпю убивая мышей направо налево сперепугу мыши могли сообразить бежать прыгали друг друга кот приканчивал целыми кучами</p>
-      <p>оставшиеся живых мыши удрали оглядки побросав свои машины подводы коней ослов</p>
-      <p>говорят именно тех пор мыши поклялись верить коту пусть старому немощному</p>
-    </body>
-  </text>
-</TEI>
+     <head>ПОКАЯНИЕ СТАРОГО КОТА</head>
+     <p>безжалостно белый боялись давал днем дрожали жил кот ловил мышам мыши ними ночью охотился пе пожирал показаться покоя постоянно свет страха</p><p>видят глаза держат долго зубы когти кот кот лапы ловить мышей пе плохо плохо погнулись словом слышат состарился сточились тянулось угни</p><p>блох кот ловить отправился сарай стал темный</p><p>жалким мыши недруг плясали прыгали радости слабым стал таким увидев</p><p>глазами голодная кота немощного смерть старого стоит ужо</p><p>говорит дело должен кот которое погодите сделать смертью старый эх</p><p>важное всем день которых лрпказьтвал майдане мыптам назначенный нечто нм объявить послал сараем собраться телеграммы хочет час</p><p>автомобилях верхом времени горах дошел заморских землях конях кораблях лесах лучшие мыши мыши назначенному нарядившись обитавшие обрадовались одежды ослах отправились очень поближе подводах поездах поспеть праздничные приказ путь равнинах самолетах своп стали торопиться</p><p>большом ждут майдан майдане мыши пота почернел пх собрались столько</p><p>взобрался вышел заговорил ирестарый камень кот мапдап мьтптам обернулся певысокпй старый</p><p>братья вблизи видеть видите вокруг глаза говорить громко далеко далеко дорогие камня котором мои наглядеться ослабел очень па плохо поближе подойдите сами силах слышно соскучился стали станьте стоите стою хочу</p><p>ближе забылп мыгпи подходить прежнего своего страха хотели</p><p>братья зла кот подходите подходите покаяться разговора смертью собрал уговаривал хочу</p><p>благоговейная ближе врага задние заклятого камень кольцом котором коту коту ла лезли мыши наступила окружили передних плотным поверили покаяние редкие своего спины становились стоял тишина услышать</p><p>кот сказал старый</p><p>бедным бедняков блтьтх богачам большие братья вамп вашем ваши воруете деянии дурном дырявите зер зерно зерном которые людям маленькие мельнице мешков могу мое мои непристойном обычно одном остальные открыть очень п па па па покаяться прегрешения привычка пригоршней принадлежат причиняя простить простить сердце сказать скверная смог страдания торбочки трогаете убытки хочется хочу это</p><p>бежать беспощадную бойпю бросился друг друга кот кот кучами могли мышей мыши мыши налево направо пока приканчивал прыгали размышляли словами сообразить сперепугу старый убивая устроил целыми</p><p>живых коней машины мыши оглядки ослов оставшиеся побросав подводы свои удрали</p><p>верить говорят именно коту мыши немощному поклялись пор пусть старому тех</p></body>
+   </text>
+  </TEI>

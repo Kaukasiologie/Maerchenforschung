@@ -1,152 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/550844/khadzhalmakhi.html">Khadzhalmakhi</settlement>
-          <geo/>
-        </placeName>
-        <date>1959</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Магомед</forename>
-            <surname xml:lang="rus">Дибиралиев</surname>
-          </persName>
-          <age>60</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="eng"> М.-З.</forename>
-            <surname xml:lang="eng">Осмапов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/550844/khadzhalmakhi.html">Khadzhalmakhi</settlement>
+       <geo />
+      </placeName>
+      <date>1959</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Магомед</forename>
+        <surname xml:lang="rus">Дибиралиев</surname>
+       </persName>
+       <age>60</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="eng"> М.-З.</forename>
+        <surname xml:lang="eng">Осмапов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_106">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_106">
     <body>
-      <head>КТО ПРАВ</head>
-      <p>однажды некий крестьянин весело распевая песню птел ио горной дороге увидел дороге змею придавленная огромным камнем била хвостом вытягивала голову говорит змея крестьянину</p>
-      <p>помоги добрый человек горы скатился каменьи придавил ожидает мучительная смерть</p>
-      <p>почему помочь ответил крсстьяпип л отвалил камень сторону</p>
-      <p>свае неминуемой гибели сказала змея хочу поцеловать плечо позволь взобраться тебе грудь</p>
-      <p>тебе хочется взбирайся согласился крестьянин помог взобраться па грудь змея внезапно обвилась вокруг шеи крестьянина стала душить ого</p>
-      <p>постой постой закричал крестьянин целуешь душишь неужто такова твоя благодарность</p>
-      <p>спас ответила змея задушу ибо ничто миро заслуживает благодарности вообще существует</p>
-      <p>возразил крестьянин па такое согласен требую справедливого суда пойдем спросим первых встречных правильно поступаешь убедишься вероломство неблагодарность вовсе закон жизни</p>
-      <p>сказала змея спросим первых трех встречных скажут сделаем</p>
-      <p>змеей па шо крестьянин отправился попеки судей вскоре увидел ко розу подошел пей</p>
-      <p>рассуди корова сказал спас змею тяжкой смерти опа хочет задушить говоря неблагодарность вероломство плата доброе дело</p>
-      <p>права ответила корова принесла своему хозяину коров быков коров доил получал новых коров быков заставлял работать пли резал мясо стала старой приношу пн молока мяса согнал пастбища держит камнях околела значит неблагодарность свойственна людям достоин смерти</p>
-      <p>видишь тебе говорила обрадовалась змея крепче сжала шею крестьянина пошли дальше крестьянин увидел собаку попросил рассудить змеей</p>
-      <p>неправ змея нрава сказала собака могу подтвердить это па собственном опыте лет служила своему хозяину охраняя дождь гужу стада отарьт получая бесчисленные раны схватках волка аги стерегла дом очаг семью детой состарилась глаза мои стали плохо видеть зубы притулились выгнал дому остается умереть голодной смертью почему говорю человеку свойственно забывать оказанное добро платить черной неблагодарностью почему вашем споре змея права заслуживаешь смерти</p>
-      <p>опечалился крестьянин отпраннлея дальше своей змеей которая крепче стискивала шею</p>
-      <p>повстречалась лиса нп надеясь размышляя недалекой своей смерти крестьянин изложил лисе просьбу</p>
-      <p>случай очень трудный сказала лиса составить нем правильное мнение вынести решение нужно побывать месте</p>
-      <p>крестьянин змея согласились отправились туда па змею скатился камень лиса долго рассматривала камень п приговаривала</p>
-      <p>значит змея этим камнем каком положении змея камнем могла сама времепем выбраться придется полностью повторить иначе боюсь ошибиться заключила опа</p>
-      <p>змея слезла плеча крестьянина улеглась па дорого крестьянин придавил камнем точт точь это вначале</p>
-      <p>посмотрела лиса змею говорит крестьянину</p>
-      <p>долго думала пришла убеждению самым справедливым решением восстановить пусть змея остается камнем гы иди своей дорогой</p>
-      <p>этими словами лиса ушла лес обрадованный крестьянин пошел домой змея осталась лежать камнем скоро сдохла поделом</p>
-    </body>
-  </text>
-</TEI>
+     <head>КТО ПРАВ</head>
+     <p>била весело вытягивала говорит голову горной дороге дороге змею змея ио камнем крестьянин крестьянину некий огромным однажды песню придавленная птел распевая увидел хвостом</p><p>горы добрый каменьи мучительная ожидает помоги придавил скатился смерть человек</p><p>камень крсстьяпип л отвалил ответил помочь почему сторону</p><p>взобраться гибели грудь змея неминуемой плечо позволь поцеловать свае сказала тебе хочу</p><p>взбирайся взобраться внезапно вокруг грудь душить змея крестьянин крестьянина обвилась ого па помог согласился стала тебе хочется шеи</p><p>благодарность душишь закричал крестьянин неужто постой постой такова твоя целуешь</p><p>благодарности вообще задушу заслуживает змея ибо миро ничто ответила спас существует</p><p>вероломство вовсе возразил встречных жизни закон крестьянин неблагодарность па первых пойдем поступаешь правильно согласен справедливого спросим суда такое требую убедишься</p><p>встречных змея первых сделаем скажут сказала спросим трех</p><p>вскоре змеей ко крестьянин отправился па пей подошел попеки розу судей увидел шо</p><p>вероломство говоря дело доброе задушить змею корова неблагодарность опа плата рассуди сказал смерти спас тяжкой хочет</p><p>быков быков держит доил достоин заставлял значит камнях коров коров коров корова людям молока мяса мясо неблагодарность новых околела ответила пастбища пли пн получал права принесла приношу работать резал своему свойственна смерти согнал стала старой хозяину</p><p>видишь говорила дальше змеей змея крепче крестьянин крестьянина обрадовалась попросил пошли рассудить сжала собаку тебе увидел шею</p><p>аги бесчисленные вашем видеть волка выгнал глаза говорю голодной гужу детой добро дождь дом дому забывать заслуживаешь змея змея зубы лет могу мои неблагодарностью неправ нрава оказанное опыте остается отарьт охраняя очаг па платить плохо подтвердить получая почему почему права притулились раны своему свойственно семью сказала служила смерти смертью собака собственном состарилась споре стада стали стерегла схватках умереть хозяину человеку черной это</p><p>дальше змеей которая крепче крестьянин опечалился отпраннлея своей стискивала шею</p><p>изложил крестьянин лиса лисе надеясь недалекой нп повстречалась просьбу размышляя своей смерти</p><p>вынести лиса месте мнение нем нужно очень побывать правильное решение сказала случай составить трудный</p><p>долго змею змея камень камень крестьянин лиса отправились п па приговаривала рассматривала скатился согласились туда</p><p>боюсь времепем выбраться заключила змея змея значит иначе каком камнем камнем могла опа ошибиться повторить полностью положении придется сама этим</p><p>вначале дорого змея камнем крестьянин крестьянина па плеча придавил слезла точт точь улеглась это</p><p>говорит змею крестьянину лиса посмотрела</p><p>восстановить гы долго дорогой думала змея иди камнем остается пришла пусть решением самым своей справедливым убеждению</p><p>домой змея камнем крестьянин лежать лес лиса обрадованный осталась поделом пошел сдохла скоро словами ушла этими</p></body>
+   </text>
+  </TEI>

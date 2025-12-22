@@ -1,150 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательство &quot;Художественная литература&quot;. Маскжа 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Саидова</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">У.</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Саидова</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">У.</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_201">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_201">
     <body>
-      <head>ЛАМАРТ И ЧУМАРТ </head>
-      <p>жили неразлучных друга одного звали ламарт другого чумарт однажды шли делам чумарт заметил дороге суму поднял золота показал паходку своему товарищу</p>
-      <p>ламарт жестокий жадный чумарт щедрый закончили торговые дела возвращались домой чумарт остановил ламарта возле большого дерева неподалеку аула сказал</p>
-      <p>друг давай поделим золото это хитрый ламарт ответил</p>
-      <p>чему оставим пусть крепче связывает нашу дружбу возьмем понемногу остальное спрячем деревом укромном месте никто найдет возьмем очень понадобится</p>
-      <p>порешили</p>
-      <p>поздно ночью ламарт вернулся дереву выкопал тайника золото унес</p>
-      <p>проигло некоторое время чумарту очень понадобилось золото пошел ламарту</p>
-      <p>лруг сказал нужно золота пойдем вместе нашему кладу возьмем</p>
-      <p>ламарт соглаеилея пошли дереву перекопали золота бывало</p>
-      <p>ламарт начал кричать</p>
-      <p>это чумарт украл золото некому будь проклят жадный черт</p>
-      <p>чумарт клялся н божилея брал де золота ламарт потащил суд великому мудрому судье выслушал рассказ спросил ламарта</p>
-      <p>свидетели которые могут подтвердить золото украл чумарт</p>
-      <p>ламарт ответил</p>
-      <p>дерево которым спрятали золото свидетель</p>
-      <p>судья очень удивился такому ответу жизни встречал подобных свидетелей следующий день отправился допрашивать дерево взяв собой двух понятых</p>
-      <p>судья спросил дерево</p>
-      <p>ито украл золото</p>
-      <p>золото украл чумарт ответило дерево человечьим голосом судья приказал поджечь дерево оно скажет</p>
-      <p>едва ствол загорелся послышался крик</p>
-      <p>горю помогите</p>
-      <p>отонь загасили дупла вылез полуживой отец ламарта</p>
-      <p>судья разгневался ламарта забрали золото отдали чумарту</p>
-    </body>
-  </text>
-</TEI>
+     <head>ЛАМАРТ И ЧУМАРТ </head>
+     <p>делам дороге друга другого жили заметил звали золота ламарт неразлучных однажды одного паходку поднял показал своему суму товарищу чумарт чумарт шли</p><p>аула большого возвращались возле дела дерева домой жадный жестокий закончили ламарт ламарта неподалеку остановил сказал торговые чумарт чумарт щедрый</p><p>давай друг золото ламарт ответил поделим хитрый это</p><p>возьмем возьмем деревом дружбу крепче месте найдет нашу никто оставим остальное очень понадобится понемногу пусть связывает спрячем укромном чему</p><p>порешили</p><p>вернулся выкопал дереву золото ламарт ночью поздно тайника унес</p><p>время золото ламарту некоторое очень понадобилось пошел проигло чумарту</p><p>вместе возьмем золота кладу лруг нашему нужно пойдем сказал</p><p>бывало дереву золота ламарт перекопали пошли соглаеилея</p><p>кричать ламарт начал</p><p>будь жадный золото некому проклят украл черт чумарт это</p><p>божилея брал великому выслушал де золота клялся ламарт ламарта мудрому н потащил рассказ спросил суд судье чумарт</p><p>золото которые могут подтвердить свидетели украл чумарт</p><p>ламарт ответил</p><p>дерево золото которым свидетель спрятали</p><p>взяв встречал двух день дерево допрашивать жизни ответу отправился очень подобных понятых свидетелей следующий собой судья такому удивился</p><p>дерево спросил судья</p><p>золото ито украл</p><p>голосом дерево дерево золото оно ответило поджечь приказал скажет судья украл человечьим чумарт</p><p>едва загорелся крик послышался ствол</p><p>горю помогите</p><p>вылез дупла загасили ламарта отец отонь полуживой</p><p>забрали золото ламарта отдали разгневался судья чумарту</p></body>
+   </text>
+  </TEI>

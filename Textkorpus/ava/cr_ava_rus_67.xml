@@ -1,151 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/570478/buynakskiy-rayon.html">Buynakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/581071/arkas.html">Arkas</settlement>
-          <geo/>
-        </placeName>
-        <date>1963</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus"> М.</forename>
-            <surname xml:lang="rus">Магомедов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Д.</forename>
-            <surname xml:lang="rus">Атаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/570478/buynakskiy-rayon.html">Buynakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/581071/arkas.html">Arkas</settlement>
+       <geo />
+      </placeName>
+      <date>1963</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus"> М.</forename>
+        <surname xml:lang="rus">Магомедов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Д.</forename>
+        <surname xml:lang="rus">Атаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_67">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_67">
     <body>
-      <head>34. Два путника</head>
-      <p>возвращался домой соседнего аула богатый старик дороге догнал молодой горец пошли вместе оказалось нужно аул</p>
-      <p>путники проходили мимо лугов вдоволь мягкой сухой травы молодой горец сказал</p>
-      <p>давай отец обновим матрацы</p>
-      <p>какие могут матрацы лугах удивился старик</p>
-      <p>некоторое время дорога завернула лес молодой горец предложил</p>
-      <p>оседлаем коней отец</p>
-      <p>болтай чепуху лесу видишь коней рассердился старик прибавил шагу</p>
-      <p>шли молча пока молодой горец сказал</p>
-      <p>старик давай возить друг друга веселее дорога покажется короче</p>
-      <p>вздор болтаешь глупец закричал старик подумал человек видно своем уме держаться осторожней</p>
-      <p>сумерках дошли аула жил старик</p>
-      <p>кунаков можешь заночевать сеновале предложил старик надежде отказ никто пойдет гости неприветливому человеку молодой горец согласился отправился сеновал</p>
-      <p>отделавшись гостя старик вошел дом навстречу кинулась красавица дочь начала расспрашивать здоровье делах кунаках дороге</p>
-      <p>доченька обратном пути аллах послал спутники какого назойливого сумасшедшего глуп отвечал отец</p>
-      <p>доченька обратном пути аллах послал спутники какого назойливого сумасшедшего глуп отвечал отец</p>
-      <p>девушка заинтересовалась попросила рассказать подробнее старику хотелось говорить отказать единственной дочери</p>
-      <p>человек спросила красавица</p>
-      <p>наверное храпит сжалился послал наш сеновал проворчал старик</p>
-      <p>ночью отец заснул дочь послала работника отнести гостю чурек миску супа мясом дороге работник отломил кусок чурека утащил половину мяса</p>
-      <p>передай своей хозяйке большое спасибо скажи луна давно пошла убыль звёзд стало меньше попросил гость</p>
-      <p>работник передал девушке тотчас разбудила отца велела привести гостя дом поворчал старик захотел ослушаться дочки</p>
-      <p>отец гостем вошли дом красавица немедленно потребовала вызвать муллу обручения</p>
-      <p>вай сумасшедшая дочь запричитал отец схватившись голову делай хочешь позорь забудь глупца</p>
-      <p>глупцом оказался внял мудрым советам попутчика</p>
-      <p>предложил тебе сменить траву чатшках свежую лесу вырубить посохи отказался согласился также забавляли друг друга дорожными рассказами следовал советам устал сильно пошли обжору работника муллой</p>
-    </body>
-  </text>
-</TEI>
+     <head>34. Два путника</head>
+     <p>аул аула богатый вместе возвращался горец догнал домой дороге молодой нужно оказалось пошли соседнего старик</p><p>вдоволь горец лугов мимо молодой мягкой проходили путники сказал сухой травы</p><p>давай матрацы обновим отец</p><p>какие лугах матрацы могут старик удивился</p><p>время горец дорога завернула лес молодой некоторое предложил</p><p>коней оседлаем отец</p><p>болтай видишь коней лесу прибавил рассердился старик чепуху шагу</p><p>горец молодой молча пока сказал шли</p><p>веселее возить давай дорога друг друга короче покажется старик</p><p>болтаешь вздор видно глупец держаться закричал осторожней подумал своем старик уме человек</p><p>аула дошли жил старик сумерках</p><p>горец гости заночевать кунаков можешь молодой надежде неприветливому никто отказ отправился пойдет предложил сеновал сеновале согласился старик человеку</p><p>вошел гостя делах дом дороге дочь здоровье кинулась красавица кунаках навстречу начала отделавшись расспрашивать старик</p><p>аллах глуп доченька какого назойливого обратном отвечал отец послал пути спутники сумасшедшего</p><p>аллах глуп доченька какого назойливого обратном отвечал отец послал пути спутники сумасшедшего</p><p>говорить девушка дочери единственной заинтересовалась отказать подробнее попросила рассказать старику хотелось</p><p>красавица спросила человек</p><p>наверное наш послал проворчал сеновал сжалился старик храпит</p><p>гостю дороге дочь заснул кусок миску мяса мясом ночью отец отломил отнести половину послала работник работника супа утащил чурек чурека</p><p>большое гость давно звёзд луна меньше передай попросил пошла своей скажи спасибо стало убыль хозяйке</p><p>велела гостя девушке дом дочки захотел ослушаться отца передал поворчал привести работник разбудила старик тотчас</p><p>вошли вызвать гостем дом красавица муллу немедленно обручения отец потребовала</p><p>вай глупца голову делай дочь забудь запричитал отец позорь сумасшедшая схватившись хочешь</p><p>внял глупцом мудрым оказался попутчика советам</p><p>вырубить дорожными друг друга забавляли лесу муллой обжору отказался посохи пошли предложил работника рассказами свежую сильно следовал сменить советам согласился также тебе траву устал чатшках</p></body>
+   </text>
+  </TEI>

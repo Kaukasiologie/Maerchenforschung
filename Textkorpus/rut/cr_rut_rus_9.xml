@@ -1,174 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Rutulisch Folklore</title>
-        <title xml:lang="eng">Rutul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Rutulisch Folklore</title>
+      <title xml:lang="eng">Rutul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФ ИЯЛИ</institution>
+          <collection>Ф. 9. Оп. 1. Д. 441. Л. 44</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФ ИЯЛИ</institution>
-                <collection>Ф. 9. Оп. 1. Д. 441. Л. 44</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="rut">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
-          <settlement ref="https://www.geonames.org/481900/tpig.html">Tpig</settlement>
-          <geo/>
-        </placeName>
-        <date>1988</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Рамазанов</surname>
-          </persName>
-          <age>59</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимовa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="rut">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
+       <settlement ref="https://www.geonames.org/481900/tpig.html">Tpig</settlement>
+       <geo />
+      </placeName>
+      <date>1988</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Рамазанов</surname>
+       </persName>
+       <age>59</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимовa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_rut_rus_9">
+   </teiHeader>
+   <text xml:id="cr_rut_rus_9">
     <body>
-      <head>73 Просьба бедняка (рут.) </head>
-      <p>давным давно древние времена жил бедняк тяжело жилось голодал жена голодала последний кусок отдавали детям однажды выдержав бедняк решил пойти аллаху попросить дал сытую жизнь взяв собой последний кусочек хлеба собрался путь</p>
-      <p>шел шел день шел второй встретился облезлый волк</p>
-      <p>путь держишь бедняк спрашивает волк</p>
-      <p>иду аллаху попросить богатства ответил</p>
-      <p>прошу придешь аллаху спроси сделать снова покрылся шерстью</p>
-      <p>спрошу пообещал бедняк</p>
-      <p>отправился дальше встретился ладжбар</p>
-      <p>салам алейкум ладжбар поздоровался бедняк</p>
-      <p>ваалейкум ассалам ответил ладжбар</p>
-      <p>путь держишь далеко близко спрашивает ладжбар</p>
-      <p>иду аллаху просить богатства отвечает бедняк</p>
-      <p>очень прошу дойдешь аллаха спроси почему участок дает урожая</p>
-      <p>спрошу сказал бедняк</p>
-      <p>прошел немного встречается красиво одетый падишах прекрасном коне</p>
-      <p>направляешься бедняк спрашивает</p>
-      <p>иду аллаху просить богатства говорит бедняк</p>
-      <p>прошу спроси какова судьба</p>
-      <p>спрошу отвечает бедняк</p>
-      <p>продолжил свой путь дойдя ущелья встретил одного человека</p>
-      <p>салам алейкум бедняк направляешься поинтересовался</p>
-      <p>иду аллаху просить богатства ответил бедняк</p>
-      <p>аллах хотел говори</p>
-      <p>жизнь просто невыносима хлеба поесть одежды надеть хочу попросить послать немного богатства</p>
-      <p>беги бедняк быстрей бери дал тебе богатство сказал аллах</p>
-      <p>встретил пути одного падишаха просил узнать жить дальше делать спрашивает бедняк</p>
-      <p>передай тому падишаху пусть выходит замуж говорит аллах</p>
-      <p>ладжбар просил узнать почему участок дает урожая говорит бедняк</p>
-      <p>передай закопана казна отвечает аллах</p>
-      <p>бедняк продолжает</p>
-      <p>встретил облезлого волка просил узнать сделать вновь покрылся шерстью</p>
-      <p>пусть съест мозг глупого человека ответил аллах</p>
-      <p>бедняк поблагодарил аллаха пустился бегом обратный путь первым встретился падишах спросил видел аллаха</p>
-      <p>сказал бедняк дал богатство спешу домой</p>
-      <p>передал поинтересовался падишах</p>
-      <p>аллах сказал вышла замуж ответил бедняк</p>
-      <p>услышав это падишах скинул головы папаху длинные косы рассыпались спине</p>
-      <p>бедняк аллах знают женщина бери бедняк мои богатства мое государство уходи будь мужем</p>
-      <p>аллах дал богатство спешу домой ответил бедняк бегом пустился обратный путь</p>
-      <p>встретился ладжбар бедняк поторопился сообщить очень спешит аллах дал богатство ладжбару аллах сказал участке зарыт клад ладжбар начал рыть высохло дерево вытащил кувшина золотом</p>
-      <p>подожди подожди закричал ладжбар подожди поделюсь тобой этим кладом</p>
-      <p>аллах дал богатство спешу крикнул быстро побежал дальше</p>
-      <p>навстречу идет облезлый волк спросил сказал аллах</p>
-      <p>тебе аллах сказал съел мозг глупого человека говорит бедняк</p>
-      <p>глупее никого найду сказав волк набросился глупца съел мозг покрылся шерстью</p>
-      <p>обрадовался волк убежал лес</p>
-    </body>
-  </text>
-</TEI>
+     <head>73 Просьба бедняка (рут.) </head>
+     <p>аллаху бедняк бедняк взяв времена выдержав голодал голодала давно давным дал детям древние жена жизнь жил жилось кусок кусочек однажды отдавали пойти попросить последний последний путь решил собой собрался сытую тяжело хлеба</p><p>волк встретился второй день облезлый шел шел шел</p><p>бедняк волк держишь путь спрашивает</p><p>аллаху богатства иду ответил попросить</p><p>аллаху покрылся придешь прошу сделать снова спроси шерстью</p><p>бедняк пообещал спрошу</p><p>встретился дальше ладжбар отправился</p><p>алейкум бедняк ладжбар поздоровался салам</p><p>ассалам ваалейкум ладжбар ответил</p><p>близко далеко держишь ладжбар путь спрашивает</p><p>аллаху бедняк богатства иду отвечает просить</p><p>аллаха дает дойдешь очень почему прошу спроси урожая участок</p><p>бедняк сказал спрошу</p><p>встречается коне красиво немного одетый падишах прекрасном прошел</p><p>бедняк направляешься спрашивает</p><p>аллаху бедняк богатства говорит иду просить</p><p>какова прошу спроси судьба</p><p>бедняк отвечает спрошу</p><p>встретил дойдя одного продолжил путь свой ущелья человека</p><p>алейкум бедняк направляешься поинтересовался салам</p><p>аллаху бедняк богатства иду ответил просить</p><p>аллах говори хотел</p><p>богатства жизнь надеть невыносима немного одежды поесть попросить послать просто хлеба хочу</p><p>аллах беги бедняк бери богатство быстрей дал сказал тебе</p><p>бедняк встретил дальше делать жить одного падишаха просил пути спрашивает узнать</p><p>аллах выходит говорит замуж падишаху передай пусть тому</p><p>бедняк говорит дает ладжбар почему просил узнать урожая участок</p><p>аллах закопана казна отвечает передай</p><p>бедняк продолжает</p><p>вновь волка встретил облезлого покрылся просил сделать узнать шерстью</p><p>аллах глупого мозг ответил пусть съест человека</p><p>аллаха аллаха бегом бедняк видел встретился обратный падишах первым поблагодарил пустился путь спросил</p><p>бедняк богатство дал домой сказал спешу</p><p>падишах передал поинтересовался</p><p>аллах бедняк вышла замуж ответил сказал</p><p>головы длинные косы падишах папаху рассыпались скинул спине услышав это</p><p>аллах бедняк бедняк бери богатства будь государство женщина знают мое мои мужем уходи</p><p>аллах бегом бедняк богатство дал домой обратный ответил пустился путь спешу</p><p>аллах аллах бедняк богатство встретился высохло вытащил дал дерево зарыт золотом клад кувшина ладжбар ладжбар ладжбару начал очень поторопился рыть сказал сообщить спешит участке</p><p>закричал кладом ладжбар поделюсь подожди подожди подожди тобой этим</p><p>аллах богатство быстро дал дальше крикнул побежал спешу</p><p>аллах волк идет навстречу облезлый сказал спросил</p><p>аллах бедняк глупого говорит мозг сказал съел тебе человека</p><p>волк глупее глупца мозг набросился найду никого покрылся сказав съел шерстью</p><p>волк лес обрадовался убежал</p></body>
+   </text>
+  </TEI>

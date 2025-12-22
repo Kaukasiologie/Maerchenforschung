@@ -1,122 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Agulische Folklore</title>
-        <title xml:lang="eng">Agul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <bibl>
-              <title>Dirr A. Kaukasische Märchen. Jena: Eugen Diederich, 1922.</title>
-            </bibl>
-          </sourceDesc>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Agulische Folklore</title>
+      <title xml:lang="eng">Agul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <bibl>
+         <title>Dirr A. Kaukasische Märchen. Jena: Eugen Diederich, 1922.</title>
+        </bibl>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="agx">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="1907"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement ref="https://www.geonames.org/570798/burkikhan.html">Burkikhan</settlement>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="eng">Adolf</forename>
-            <surname xml:lang="eng">Dirr</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Т. А.</forename>
-            <surname xml:lang="rus">Майсак</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="agx">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date from="1907" />
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName />
+       <age />
+       <birth>
+        <address>
+         <district />
+         <settlement ref="https://www.geonames.org/570798/burkikhan.html">Burkikhan</settlement>
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="eng">Adolf</forename>
+        <surname xml:lang="eng">Dirr</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Т. А.</forename>
+        <surname xml:lang="rus">Майсак</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_agx_rus_32">
+   </teiHeader>
+   <text xml:id="cr_agx_rus_32">
     <body>
-      <head>Д2. Как батрак испытывал жену хозяина</head>
-      <p>одной вдовы юрге сын имени омар очень бедный пошел акушу наняться батраки пришел одному стал одного богача десять рублей возить дрова делать разную другую работу однажды пошел хозяином губденский лес рубили дрова батрак сказал хозяину жена нашего соседа красивая женщинах разговаривай нанял работником делай работу ответил хозяин батрак говорит эта женщина шлюха хозяин сказал тебе шлюха делай работу твоя жена шлюха сказал почему это шлюха сказал хозяин это сказал работник пусть причитающиеся десять рублей достанутся тебе противном случае заплатишь десять рублей заплачу сказал хозяин окажешься неправ отдашь свои десять рублей отдам сказал батрак значит договорились сказал хозяин пойду домой иди следом мной заберись крышу дома незаметно наблюдай трубу договорились пошли подошли дому сказал батрак заберись крышу войду дом сказав батрак вошел дом бро ил пол свой топор растянулся пришли спросила жена хозяина пришел ответил жена сказала быки муж батрак сказал обо всем случилось тебе могу рассказать почему можешь спрашиваешь твой муж твои быки расказать тебе сказал батрак расскажи сказала жена лесу лисья нора возник спор поместится самый нору ого сказал хозяин большой поместится лисью нору сказал батрак ого сказала жена большой женщине пробовал войти батрак сказал женщин знаю входил входил ослице ложись мной сказала жена хозяина батрак сказал лежать умею ляжем ослицей давай встану ослица жена хозяина встала батрак посмотрел тебе седла сказал положи седло которое лежит сказала положил пойдет сказал батрак хвоста засунь сзади палку пусть это хвост это время хозяин постучал дверь батрак сказал дай мои десять рублей пойду домой увидел хозяин вошел отдал работнику десять рублей сказал спасибо пошел домой</p>
-    </body>
-  </text>
-</TEI>
+     <head>Д2. Как батрак испытывал жену хозяина</head>
+     <p>акушу батрак батрак батрак батрак батрак батрак батрак батрак батрак батрак батрак батрак батрак батраки бедный богача большой большой бро быки быки вдовы возить возник войду войти вошел вошел время всем встала встану входил входил говорит губденский давай дай дверь делай делай делать десять десять десять десять десять десять договорились договорились дом дом дома домой домой домой дому достанутся дрова дрова другую жена жена жена жена жена жена жена жена женщин женщина женщинах женщине заберись заберись заплатишь заплачу засунь значит знаю иди ил имени которое красивая крышу крышу лежать лежит лес лесу лисью лисья ложись ляжем мной мной могу можешь мои муж муж наблюдай нанял наняться нашего незаметно неправ нора нору нору обо ого ого однажды одного одной одному окажешься омар ослица ослице ослицей ответил ответил отдал отдам отдашь очень палку подошли пойдет пойду пойду пол положи положил поместится поместится посмотрел постучал почему почему пошел пошел пошел пошли причитающиеся пришел пришел пришли пробовал противном пусть пусть работник работником работнику работу работу работу разговаривай разную расказать расскажи рассказать растянулся рубили рублей рублей рублей рублей рублей рублей самый свои свой седла седло сзади сказав сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказал сказала сказала сказала сказала сказала следом случае случилось соседа спасибо спор спрашиваешь спросила стал сын твои твой твоя тебе тебе тебе тебе тебе топор трубу увидел умею хвост хвоста хозяин хозяин хозяин хозяин хозяин хозяин хозяин хозяин хозяина хозяина хозяина хозяином хозяину шлюха шлюха шлюха шлюха эта это это это это юрге</p></body>
+   </text>
+  </TEI>

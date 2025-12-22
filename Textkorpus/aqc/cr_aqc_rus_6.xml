@@ -1,126 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
-          </publicationStmt>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
+       </publicationStmt>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="2017"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement/>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date from="2017" />
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName />
+       <age />
+       <birth>
+        <address>
+         <district />
+         <settlement />
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_6">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_6">
     <body>
-      <head>Морской конь</head>
-      <p>одного хана сына постоянно ходили нему узнать чувствует однажды нашли грустным дети спросили отца почему грустный случилось отец сказал ночью сне видел море белого снег коня миг букв пока открыв глаз закроешь трижды оборачивается вокруг света дети сказали узнаем конь вернемся</p>
-      <p>трое отправились верхом путь ехали ехали доехали места дорога расходилась стороны камень нем нашли надпись пойдет направо налево спасется пойдет средней д ороге погибнет вернется счастливым</p>
-      <p>самый старший пошел направо средний пошел налево самый младший пошел средней дороге сказал пойдет старшими братьями оставив старших братьев кричащими уехал</p>
-      <p>ехал ехал одну гору проехал две чужие проехал доехал большого леса конь сдох голода остался голодным нашел одного следа ног человека пробыл десять дней самом конце обнаружил следы человеческих ног испугался след человека очень большим</p>
-      <p>шел шел увидел сидящую ведьму спросил знаешь белого коня который бывает море сказала младший сын знает свете спрошу спрячься дворе видели спрятался это время сыновья ведьмы возвращались домой чинаровое дерево нем висел убитый олень</p>
-      <p>мать поставила большой котел приготовить еду сыновьям поели спросила знаете находится морской конь</p>
-      <p>младший сказал знаю мать сказала покажи это место конь находится показал оставив спать вышла спрятавшемуся дворе юноше показала место находится морской конь оседланного коня дала</p>
-      <p>уехал нашел лежащего песке белого снег коня легко птица вскочив сел морского коня обвился вокруг шеи коня делал отпускал конь покорился это конь которого волю отпустил шах около моря росло чинаровое дерево нем висело золотое седло положив коня уехал</p>
-      <p>ночью отпустил лошадь положив седло голову уснул утром встал коня нашел стал кричать прошло секунды конь прибежал нашел золотое седло лошадь говорит это перо спрячь пера осталось появившийся момент человек забрал перо сказал приказали найти птицу такими перьями лошадь сказала юноше шаха младшая дочь каждый день приходит сюда скажи дай перо которое делала это перо возвращай</p>
-      <p>пришла та девушка дочь шаха отдала перо юноша это перо вернул принесла новую одежду поехала лошади</p>
-      <p>ехали ехали доехали своего дома старшие братья невзлюбили договорившись решили погубить захотели отцу показать поймали морского коня</p>
-      <p>младшему брату говорят давай наших лошадей пустим вскачь младшего б рата этому душа лежала сказал знаете лошадь лошадь миг трижды оборачивается вокруг света</p>
-      <p>братья сказали ладно давай удовольствия поскачем согласившись ними сел коня братья поставили середину пустили своих лошадей вскачь столкнув младшего брата лошади убили старшие братья решили поймать коня поймать смогли</p>
-      <p>старшие братья сказали отцу младший брат послушался н пошел опасной средней дороге обманули ту девушку шаха дочь посадили внутрь заперли отец отправился искать сына нашел</p>
-      <p>однажды девушка увидела оня красный платок бросила коню конь знак понял седлом прискакал эта девушка села коня коне седло которое осталось упал младший брат девушка сказала коню должны спасти юношу конь сказал привяжи красную нитку моей шее спасу</p>
-      <p>девушка сев коня поехала нашли место юноша упал конь склонил голову юноша вскочил коня поскакал домой виде старший брат сбежал восток средний запад младший брат каждого приходил свадьбу угощал говорят</p>
-    </body>
-  </text>
-</TEI>
+     <head>Морской конь</head>
+     <p>белого букв вернемся видел вокруг глаз грустный грустным дети дети закроешь конь коня миг море нашли нему ночью оборачивается однажды одного отец открыв отца пока постоянно почему света сказал сказали случилось сне снег спросили сына трижды узнаем узнать хана ходили чувствует</p><p>вернется верхом д доехали дорога ехали ехали камень места надпись налево направо нашли нем ороге отправились погибнет пойдет пойдет путь расходилась спасется средней стороны счастливым трое</p><p>братьев братьями дороге кричащими младший налево направо оставив пойдет пошел пошел пошел самый самый сказал средней средний старший старшими старших уехал</p><p>большим большого голода голодным гору две десять дней доехал ехал ехал испугался конце конь леса нашел ног ног обнаружил одного одну остался очень пробыл проехал проехал самом сдох след следа следы человека человека человеческих чужие</p><p>белого бывает ведьму ведьмы видели висел возвращались время дворе дерево домой знает знаешь коня который младший море нем олень свете сидящую сказала спросил спрошу спрятался спрячься сын сыновья убитый увидел чинаровое шел шел это</p><p>большой еду знаете конь котел мать морской находится поели поставила приготовить спросила сыновьям</p><p>вышла дала дворе знаю конь конь коня мать место место младший морской находится находится оседланного оставив покажи показал показала сказал сказала спать спрятавшемуся это юноше</p><p>белого висело вокруг волю вскочив делал дерево золотое конь конь коня коня коня коня которого легко лежащего морского моря нашел нем обвился около отпускал отпустил песке покорился положив птица росло седло сел снег уехал уехал чинаровое шах шеи это</p><p>возвращай встал говорит голову дай делала день дочь забрал золотое каждый конь коня которое кричать лошадь лошадь лошадь младшая момент найти нашел нашел ночью осталось отпустил пера перо перо перо перо перьями положив появившийся прибежал приказали приходит прошло птицу седло седло секунды скажи сказал сказала спрячь стал сюда такими уснул утром человек шаха это это юноше</p><p>вернул девушка дочь лошади новую одежду отдала перо перо поехала принесла пришла та шаха это юноша</p><p>братья договорившись доехали дома ехали ехали захотели коня морского невзлюбили отцу погубить поймали показать решили своего старшие</p><p>б брату вокруг вскачь говорят давай душа знаете лежала лошадей лошадь лошадь миг младшего младшему наших оборачивается пустим рата света сказал трижды этому</p><p>брата братья братья братья вскачь давай коня коня ладно лошадей лошади младшего ними поймать поймать поскачем поставили пустили решили своих сел середину сказали смогли согласившись старшие столкнув убили удовольствия</p><p>брат братья внутрь девушку дороге дочь заперли искать младший н нашел обманули опасной отец отправился отцу посадили послушался пошел сказали средней старшие сына ту шаха</p><p>брат бросила девушка девушка девушка должны знак коне конь конь коню коню коня которое красную красный младший моей нитку однажды оня осталось платок понял привяжи прискакал седло седлом села сказал сказала спасти спасу увидела упал шее эта юношу</p><p>брат брат виде восток вскочил говорят голову девушка домой запад каждого конь коня коня место младший нашли поехала поскакал приходил сбежал свадьбу сев склонил средний старший угощал упал юноша юноша</p></body>
+   </text>
+  </TEI>

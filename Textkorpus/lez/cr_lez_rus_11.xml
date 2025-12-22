@@ -1,162 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lesgische Folklore</title>
-        <title xml:lang="eng">Lezgian Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lesgische Folklore</title>
+      <title xml:lang="eng">Lezgian Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+       </publicationStmt>
+       <sourceDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Лезгинские народные сказки. (На лезг. яз.) </title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="lez"/>
-                <publisher xml:lang="rus">Сост. А.М. Ганиева. Махачкала, 1989</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Лезгинские народные сказки. (На лезг. яз.) </title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="lez" />
+          <publisher xml:lang="rus">Сост. А.М. Ганиева. Махачкала, 1989</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lez">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/532306/magaramkentskiy-rayon.html">Magaramkentskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/561480/gil-yar.html">Gil’yar</settlement>
-          <geo/>
-        </placeName>
-        <date>1969</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Бабаев</surname>
-          </persName>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">И.</forename>
-            <surname xml:lang="rus">Казиев </surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Ганиевой</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">А.А.</forename>
-            <surname xml:lang="rus">Рашидова</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lez">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/532306/magaramkentskiy-rayon.html">Magaramkentskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/561480/gil-yar.html">Gil’yar</settlement>
+       <geo />
+      </placeName>
+      <date>1969</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Бабаев</surname>
+       </persName>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">И.</forename>
+        <surname xml:lang="rus">Казиев </surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Ганиевой</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">А.А.</forename>
+        <surname xml:lang="rus">Рашидова</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lez_rus_11">
+   </teiHeader>
+   <text xml:id="cr_lez_rus_11">
     <body>
-      <head> 62 Сын пастуха (лезг.) </head>
-      <p>очень далекие времена жил падишах две дочери старшую звали пёри младшую гюри</p>
-      <p>сестры росли месяцам годам часам дням</p>
-      <p>пери росла ленивой избегающей воды вспыхивала порох любому поводу огрызалась старших народ прозвал арбабаш пери</p>
-      <p>гюри смышленая чистоплотная аккуратная умная послушная девочка всеми приветливая хорошим характером выполняла любое поручение прозвали народе гюзель гюри</p>
-      <p>скоро падишахские дочери подросли выданье часто приходили падишаху сваты сваты хотели сватать гюзель гюри падишах хотел отдать замуж младшую дочь пока выйдет старшая</p>
-      <p>вести кого вести аждахи который появился падишахстве каждые семь дней аждаха приходил нападал города селения падишаха страдавшие бесчинств аждахи жители селений городов обращались падишаху просьбой избавить</p>
-      <p>знак печали падишах повесил черный флаг самый высокий минарет своем городе это означало богатыри воины вооружились собрались площади домом падишаха</p>
-      <p>однажды богатыри воины стали шеренгой домом падишаха падишах говорит воинам</p>
-      <p>убьет аждаху получит гюзель гюри</p>
-      <p>главе собравшихся стоял сын известного падишахского визиря вечера сражались аждахой воинов падишаха погибли оставшиеся убежали</p>
-      <p>вести кого вести аждахи прошло семь дней семь ночей аждаха снова стал разорять народ</p>
-      <p>падишах повесил минарет второй черный флаг сообщил населению государство опасности</p>
-      <p>домом падишаха собралось небольшое войско падишах это войско главе сыном визиря послал битву аждахой бою который продолжался полудня падишахское войско кого потеряло убитыми остальные убежали аждаха ушел лес</p>
-      <p>падишах повесил минарете третий черный флаг сообщил народу государство находится большей тяжелой опасности никто воинов пришел площадь стоял сын пастуха парень низко поклонился падишаху сказал</p>
-      <p>здоровья тебе падишах пришел убить аждаху жду твоего приказа</p>
-      <p>сможешь одиночку убить аждаху спросил удивленный падишах</p>
-      <p>ответил сын пастуха вашей помощью</p>
-      <p>парень попросил падишаха семь работников семь туш мяса семь круглых чуреков семь лопат падишах хотя сомневался словах парня устав бесчинств аждахи тотчас выполнил требование юноши</p>
-      <p>сын пастуха попрощался падишахом взяв съестные припасы семью работниками направился сторону леса прямо посреди дороги откуда выходил возвращался аждаха стали рыть глубокую яму сверху аждаха догадался прикрыли хворостом сын пастуха отпустил людей своим домам стал поджидать аждаху</p>
-      <p>вести кого вести аждахи семь дней семь ночей аждаха вышел леса приключилась беда наверное понятно упал вырытую яму</p>
-      <p>пастух пошел сообщил падишаху падишах тотчас снял черные флаги вместо поднял радужные флаги радости</p>
-      <p>государство освободилось народ возликовал поблагодарили храброго сына пастуха</p>
-      <p>падишах устроил свадебный пир семь дней семь ночей вместо обещанной гюзель гюри отдал арбабаш пери сына пастуха кахримана</p>
-      <p>вести кого вести женившегося молодожена понравились нрав повадки невесты пери спала полудня непривычно убирать готовить сын пастуха понял падишах обманул кусал пальцы обиды</p>
-      <p>поняв перевоспитать пери однажды кахриман взял собой лес дошли ямы аждаха испугавшись гнева падишаха столкнул пери яму аждахой ушел домой</p>
-      <p>аждаха обрадовался увидев девушку хотел наладить отношения пери нахмурила свое лицо причитая огласила яму криками воплями аждаха ужаса зная выскочил ямы</p>
-      <p>попавший темной ямы светлый мир аждаха бежал бежал очутился городе падишаха стал угрожать притеснять людей городе вновь начался переполох падишах своими приближенными убежал другое государство народ спрятался</p>
-      <p>дочь падишаха гюзель гюри никуда убежала побежала убрала вершины минарета флаги радости вместо снова повесила черные флаги села плакать</p>
-      <p>вести кого вести сына пастуха ночь спал переживая пери которая проводила ночь аждахой рано утром кахриман вышел улицу увидел минарете черные флаги сердце парня почернело боли быстро помчался город посчитав мало зла сделал людям аждаха пошел сел реки лишил жителей города воды</p>
-      <p>долго думал сын пастуха делать направился аждахе поздоровался говорит</p>
-      <p>женщина которая вчера очутилась яме выйдя спешит тебе скорее спасай голову</p>
-      <p>услышав слова аждаха убежал сих пор никто знает делся</p>
-      <p>вершины минарета это видела дочь падишаха гюзель гюри аждаха убежал девушка сожгла черные флаги снова подняла небо флаги радости спустившись минарета первым долгом обняла кахримана поцеловала</p>
-      <p>спрятавшиеся люди начали собираться народ посадил кахримана трон семь дней семь ночей играли барабане выдали гюзель гюри замуж ставшего царем кахримана</p>
-      <p>свадьбе пил ел подарки принес</p>
-    </body>
-  </text>
-</TEI>
+     <head> 62 Сын пастуха (лезг.) </head>
+     <p>времена гюри далекие две дочери жил звали младшую очень падишах пёри старшую</p><p>годам дням месяцам росли сестры часам</p><p>арбабаш воды вспыхивала избегающей ленивой любому народ огрызалась пери пери поводу порох прозвал росла старших</p><p>аккуратная всеми выполняла гюзель гюри гюри девочка любое народе поручение послушная приветливая прозвали смышленая умная характером хорошим чистоплотная</p><p>выданье выйдет гюзель гюри дочери дочь замуж младшую отдать падишах падишахские падишаху подросли пока приходили сватать сваты сваты скоро старшая хотел хотели часто</p><p>аждаха аждахи аждахи бесчинств вести вести города городов дней жители избавить каждые кого который нападал обращались падишаха падишахстве падишаху появился приходил просьбой селений селения семь страдавшие</p><p>богатыри воины вооружились высокий городе домом знак минарет означало падишах падишаха печали площади повесил самый своем собрались флаг черный это</p><p>богатыри воинам воины говорит домом однажды падишах падишаха стали шеренгой</p><p>аждаху гюзель гюри получит убьет</p><p>аждахой вечера визиря воинов главе известного оставшиеся падишаха падишахского погибли собравшихся сражались стоял сын убежали</p><p>аждаха аждахи вести вести дней кого народ ночей прошло разорять семь семь снова стал</p><p>второй государство минарет населению опасности падишах повесил сообщил флаг черный</p><p>аждаха аждахой битву бою визиря войско войско войско главе домом кого который лес небольшое остальные падишах падишаха падишахское полудня послал потеряло продолжался собралось сыном убежали убитыми ушел это</p><p>большей воинов государство минарете народу находится низко никто опасности падишах падишаху парень пастуха площадь повесил поклонился пришел сказал сообщил стоял сын третий тяжелой флаг черный</p><p>аждаху жду здоровья падишах приказа пришел твоего тебе убить</p><p>аждаху одиночку падишах сможешь спросил убить удивленный</p><p>вашей ответил пастуха помощью сын</p><p>аждахи бесчинств выполнил круглых лопат мяса падишах падишаха парень парня попросил работников семь семь семь семь словах сомневался тотчас требование туш устав хотя чуреков юноши</p><p>аждаха аждаха аждаху взяв возвращался выходил глубокую догадался домам дороги леса людей направился откуда отпустил падишахом пастуха пастуха поджидать попрощался посреди прикрыли припасы прямо работниками рыть сверху своим семью стал стали сторону съестные сын сын хворостом яму</p><p>аждаха аждахи беда вести вести вырытую вышел дней кого леса наверное ночей понятно приключилась семь семь упал яму</p><p>вместо падишах падишаху пастух поднял пошел радости радужные снял сообщил тотчас флаги флаги черные</p><p>возликовал государство народ освободилось пастуха поблагодарили сына храброго</p><p>арбабаш вместо гюзель гюри дней кахримана ночей обещанной отдал падишах пастуха пери пир свадебный семь семь сына устроил</p><p>вести вести готовить женившегося кого кусал молодожена невесты непривычно нрав обиды обманул падишах пальцы пастуха пери повадки полудня понравились понял спала сын убирать</p><p>аждаха аждахой взял гнева домой дошли испугавшись кахриман лес однажды падишаха перевоспитать пери пери поняв собой столкнул ушел яму ямы</p><p>аждаха аждаха воплями выскочил девушку зная криками лицо наладить нахмурила обрадовался огласила отношения пери причитая свое увидев ужаса хотел яму ямы</p><p>аждаха бежал бежал вновь городе городе государство другое людей мир народ начался очутился падишах падишаха переполох попавший приближенными притеснять светлый своими спрятался стал темной убежал угрожать ямы</p><p>вершины вместо гюзель гюри дочь минарета никуда падишаха плакать побежала повесила радости села снова убежала убрала флаги флаги черные</p><p>аждаха аждахой боли быстро вести вести воды вышел город города жителей зла кахриман кого которая лишил людям мало минарете ночь ночь парня пастуха переживая пери помчался посчитав почернело пошел проводила рано реки сделал сел сердце спал сына увидел улицу утром флаги черные</p><p>аждахе говорит делать долго думал направился пастуха поздоровался сын</p><p>вчера выйдя голову женщина которая очутилась скорее спасай спешит тебе яме</p><p>аждаха делся знает никто пор сих слова убежал услышав</p><p>аждаха вершины видела гюзель гюри девушка долгом дочь кахримана минарета минарета небо обняла падишаха первым подняла поцеловала радости снова сожгла спустившись убежал флаги флаги черные это</p><p>барабане выдали гюзель гюри дней замуж играли кахримана кахримана люди народ начали ночей посадил семь семь собираться спрятавшиеся ставшего трон царем</p><p>ел пил подарки принес свадьбе</p></body>
+   </text>
+  </TEI>

@@ -1,157 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Kumykische Folklore</title>
-        <title xml:lang="eng">Kumyk Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Kumykische Folklore</title>
+      <title xml:lang="eng">Kumyk Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>ф. 9, он. I, д. № 5</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>ф. 9, он. I, д. № 5</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="kum">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/544007/kostek.html">Kostek</settlement>
-          <geo/>
-        </placeName>
-        <date>1936</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Акаевов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="kum">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/544007/kostek.html">Kostek</settlement>
+       <geo />
+      </placeName>
+      <date>1936</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Акаевов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_kum_rus_34">
+   </teiHeader>
+   <text xml:id="cr_kum_rus_34">
     <body>
-      <head>26. Как горец волна </head>
-      <p>сумку посадил шел горец искать работу сумка палка встретился горцу волк попросил</p>
-      <p>спрячь охотник идет следом выручишь тебе отплачу добром</p>
-      <p>горец положил волка сугмку пошел дальше навстречу идет охотник спрашивает</p>
-      <p>волка видел</p>
-      <p>ответил горец</p>
-      <p>охотник ушел горец выпустил волка сумки</p>
-      <p>волк говорят</p>
-      <p>хотя спас съем иначе могу</p>
-      <p>давай предложил горец пойдем дороге</p>
-      <p>встретим кого спросим нрав прав съешь</p>
-      <p>порешили пошли окраине одного села паслась лошадь очень худая слепая глаз подошли попросили рассудить лошадь говорит</p>
-      <p>двадцать лет работала хозяина сегодня посмотрите костях мяса осталось глаз ослепла хозяин сказал стара можешь работать</p>
-      <p>прогнал двор пускает прав волк</p>
-      <p>горец говорит</p>
-      <p>давай кого спросим</p>
-      <p>пошли дальше встретили собаку попросили рассудить</p>
-      <p>собака рассказывает</p>
-      <p>десять лет служила одному хану ночью спала днем покоя знала стала стара глаза видят уши слышат эта дрянь лает сказал хозяин избил палкой выгнал человеку делать добро ешь ого волк</p>
-      <p>горец заупрямился</p>
-      <p>согласен давай кого спросим третий окажешься прав слов ешь</p>
-      <p>волк согласился пошли дальше вскоре встретили лису рассказали</p>
-      <p>лиса говорит</p>
-      <p>никак могу поверить большой волк поместиться такую сумку</p>
-      <p>почему веришь воскликнул волк богу помещаюсь</p>
-      <p>ка покажи говорит лиса</p>
-      <p>волк залез сумку выставил голову</p>
-      <p>веришь</p>
-      <p>отвечает лиса верю охотник заметил твоей головы</p>
-      <p>голову спрятал воскликнул волк сумка завязана</p>
-      <p>продолжает лиса голову спрятать негде</p>
-      <p>волк засунул голову сумку горец крепко завязал</p>
-      <p>лиса говорит</p>
-      <p>л колоти серого тех пор пока шкура мяса отстанет</p>
-      <p>горец забил волка смерти содрал шкуру пошел своей дорогой лиса полакомилась волчьим мясом</p>
-    </body>
-  </text>
-</TEI>
+     <head>26. Как горец волна </head>
+     <p>волк встретился горец горцу искать палка попросил посадил работу сумка сумку шел</p><p>выручишь добром идет отплачу охотник следом спрячь тебе</p><p>волка горец дальше идет навстречу охотник положил пошел спрашивает сугмку</p><p>видел волка</p><p>горец ответил</p><p>волка выпустил горец охотник сумки ушел</p><p>волк говорят</p><p>иначе могу спас съем хотя</p><p>горец давай дороге пойдем предложил</p><p>встретим кого нрав прав спросим съешь</p><p>глаз говорит лошадь лошадь одного окраине очень паслась подошли попросили порешили пошли рассудить села слепая худая</p><p>глаз двадцать костях лет можешь мяса ослепла осталось посмотрите работала работать сегодня сказал стара хозяин хозяина</p><p>волк двор прав прогнал пускает</p><p>говорит горец</p><p>давай кого спросим</p><p>встретили дальше попросили пошли рассудить собаку</p><p>рассказывает собака</p><p>видят волк выгнал глаза делать десять днем добро дрянь ешь знала избил лает лет ночью ого одному палкой покоя сказал служила слышат спала стала стара уши хану хозяин человеку эта</p><p>горец заупрямился</p><p>давай ешь кого окажешься прав слов согласен спросим третий</p><p>волк вскоре встретили дальше лису пошли рассказали согласился</p><p>говорит лиса</p><p>большой волк могу никак поверить поместиться сумку такую</p><p>богу веришь волк воскликнул помещаюсь почему</p><p>говорит ка лиса покажи</p><p>волк выставил голову залез сумку</p><p>веришь</p><p>верю головы заметил лиса отвечает охотник твоей</p><p>волк воскликнул голову завязана спрятал сумка</p><p>голову лиса негде продолжает спрятать</p><p>волк голову горец завязал засунул крепко сумку</p><p>говорит лиса</p><p>колоти л мяса отстанет пока пор серого тех шкура</p><p>волка волчьим горец дорогой забил лиса мясом полакомилась пошел своей смерти содрал шкуру</p></body>
+   </text>
+  </TEI>

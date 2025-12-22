@@ -1,148 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lesgische Folklore</title>
-        <title xml:lang="eng">Lezgian Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lesgische Folklore</title>
+      <title xml:lang="eng">Lezgian Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lez">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1936</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М. М.</forename>
-            <surname xml:lang="rus">Гаджиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lez">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1936</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М. М.</forename>
+        <surname xml:lang="rus">Гаджиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lez_rus_27">
+   </teiHeader>
+   <text xml:id="cr_lez_rus_27">
     <body>
-      <head>20. Фапфараш-Ахун </head>
-      <p>государя страны хатай хутай прекрасный сад росли самые разнообразные плоды никто кроме садовника имел туда доступа лис имени фалфарашлхун повадился сад уходил лишь досыта наевшись</p>
-      <p>садовник решил стало поймать зверя поставил капкан привязал нему большой кусок курдюка</p>
-      <p>вскоре лис явился сад заметил курдюк очень обрадовался возблагодарил аллаха счастье само ко идет хотел съесть курдюк подумал эй фалфараш ахуи читал книгах жадность навлекает беду</p>
-      <p>садовник положил курдюк заманить западню</p>
-      <p>лис остановился очень хотелось курдюка</p>
-      <p>храбрец страшится опасности раздумывал фалфараш ахуи курдюк ниспослан богом схватил курдюк сдержался сказал нетерпения сделаю глупость дня страшного суда люди будут приводить пример говорить глуп известный лис подьицу глупца заключу мим договор скажу нашел курдюк пообещаю</p>
-      <p>половнну приведу сюда западня обрушится па глупца курдюк достанется одному западни съедим вдвоем</p>
-      <p>найти такого глупца заду мался фалфарашахун вспомнил отец палахмад ахун вычитал одной старинной книге признаки глупца сказано</p>
-      <p>кого весьма длинное тело глаза разноцветные зубы редкие борода рыжая умещается кулаке глуп приметы палахмад ахуна рассердился вычеркнул слова книги внешность решил изменить взял палахмад ахун бороду кулак сунул ц огонь лишнюю часть огонь вспыхнул добежал кулака обжег кулак разжался вся борода сгорела глуп стал жечь бороду подумал палахмад ахун вписал книгу вычеркнул припомнив это фалфараш ахун решил отыскать кого похожего своего отца вышел лис сада встретил волка которого приметы глупца лис приветствовал волка</p>
-      <p>ищешь спросил волк</p>
-      <p>лис ответил</p>
-      <p>бог свидетель умирая отец завещал служить тому похож дня ищу нашел палахмад ахуна похож разреши весь остаток жизни служить тебе совести</p>
-      <p>волк сказал</p>
-      <p>милость божья палахмад ахуном слышал умен убедился душа останешься мной уважения поему отцу буду почитать насколько смогу оберегать бед</p>
-      <p>лис остался волка дня говорит</p>
-      <p>господин видел место лежит жирный курдюк</p>
-      <p>исли тебе угодно тебе покажу</p>
-      <p>ступай съешь сказал волк лис ответил</p>
-      <p>видит бог господин лис месяц поста мяса</p>
-      <p>пойдем сказал волк оба отправились н путь лис привел волка царский сад показал кусок курдюка волк подошел курдюку обе лапы го попали капкан капкан захлопнулся кусок курдюка отскочил сторону недолго мешкал лис принялся еду</p>
-      <p>волк изумился</p>
-      <p>эй любезный постишься</p>
-      <p>посмотрев небо лис отвечал</p>
-      <p>взгляни небе новый месяц разговелся</p>
-      <p>фалфараш ахун доел курдюк ушел пришел садовник нашел капкане волка взял палку колотил полка тех пор пока околел</p>
-    </body>
-  </text>
-</TEI>
+     <head>20. Фапфараш-Ахун </head>
+     <p>государя доступа досыта имел имени кроме лис лишь наевшись никто плоды повадился прекрасный разнообразные росли сад сад садовника самые страны туда уходил фалфарашлхун хатай хутай</p><p>большой зверя капкан курдюка кусок нему поймать поставил привязал решил садовник стало</p><p>аллаха ахуи беду возблагодарил вскоре жадность заметил идет книгах ко курдюк курдюк лис навлекает обрадовался очень подумал сад само счастье съесть фалфараш хотел читал эй явился</p><p>заманить западню курдюк положил садовник</p><p>курдюка лис остановился очень хотелось</p><p>ахуи богом будут глуп глупость глупца говорить дня договор заключу известный курдюк курдюк курдюк лис люди мим нашел нетерпения ниспослан опасности подьицу пообещаю приводить пример раздумывал сделаю сдержался скажу сказал страшится страшного суда схватил фалфараш храбрец</p><p>вдвоем глупца достанется западни западня курдюк обрушится одному па половнну приведу съедим сюда</p><p>ахун вспомнил вычитал глупца глупца заду книге мался найти одной отец палахмад признаки сказано старинной такого фалфарашахун</p><p>ахун ахун ахун ахуна борода борода бороду бороду весьма взял внешность волка волка вписал вспыхнул встретил вся вычеркнул вычеркнул вышел глаза глуп глуп глупца длинное добежал жечь зубы изменить книги книгу кого кого которого кулак кулак кулака кулаке лис лис лишнюю обжег огонь огонь отца отыскать палахмад палахмад палахмад подумал похожего приветствовал приметы приметы припомнив разжался разноцветные рассердился редкие решил решил рыжая сада своего сгорела слова стал сунул тело умещается фалфараш ц часть это</p><p>волк ищешь спросил</p><p>лис ответил</p><p>ахуна бог весь дня жизни завещал ищу нашел остаток отец палахмад похож похож разреши свидетель служить служить совести тебе тому умирая</p><p>волк сказал</p><p>ахуном бед божья буду душа милость мной насколько оберегать останешься отцу палахмад поему почитать слышал смогу убедился уважения умен</p><p>волка говорит дня лис остался</p><p>видел господин жирный курдюк лежит место</p><p>исли покажу тебе тебе угодно</p><p>волк лис ответил сказал ступай съешь</p><p>бог видит господин лис месяц мяса поста</p><p>волк волк волка го еду захлопнулся капкан капкан курдюка курдюка курдюку кусок кусок лапы лис лис мешкал н недолго оба обе отправились отскочил подошел пойдем показал попали привел принялся путь сад сказал сторону царский</p><p>волк изумился</p><p>любезный постишься эй</p><p>лис небо отвечал посмотрев</p><p>взгляни месяц небе новый разговелся</p><p>ахун взял волка доел капкане колотил курдюк нашел околел палку пока полка пор пришел садовник тех ушел фалфараш</p></body>
+   </text>
+  </TEI>

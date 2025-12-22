@@ -1,184 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Kumykische Folklore</title>
-        <title xml:lang="eng">Kumyk Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Kumykische Folklore</title>
+      <title xml:lang="eng">Kumyk Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="kum">«Емакълар»</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="kum"> Магьачкъала, 1959., стр. 16</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="kum">«Емакълар»</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="kum"> Магьачкъала, 1959., стр. 16</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="kum">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        10. Кум. Зап. в 1958 г. в сел. Андрейаул Хасавюртовского р-на С. Гаджи с noii со слов М. Эльдерханояа. Опубл.: «Емакълар», стр. 16 (на кум. яз.) 
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/582097/endirey.html">Endirey</settlement>
-          <geo/>
-        </placeName>
-        <date>1958</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Эльдерханов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus"> С.</forename>
-            <surname xml:lang="rus">Гаджиева</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="kum">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>10. Кум. Зап. в 1958 г. в сел. Андрейаул Хасавюртовского р-на С. Гаджи с noii со слов М. Эльдерханояа. Опубл.: «Емакълар», стр. 16 (на кум. яз.) <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/582097/endirey.html">Endirey</settlement>
+       <geo />
+      </placeName>
+      <date>1958</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Эльдерханов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus"> С.</forename>
+        <surname xml:lang="rus">Гаджиева</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_kum_rus_31">
+   </teiHeader>
+   <text xml:id="cr_kum_rus_31">
     <body>
-      <head>10. Лиса </head>
-      <p>однажды медведь лиса кабан заяц шакал волк петух решили жить вместе</p>
-      <p>медведь стал мартом кабан старейшиной волк охотником шакал чавушем заяц пастухом петух муллой</p>
-      <p>одна лиса осталась дела нечего лиса запела</p>
-      <p>лиса лиса золотая лиса чеканное золото наша лиса кабан наш старейшина медведь наш нарт волк наш охотник шакал наш чавуш заяц пастух л петух мулла</p>
-      <p>нам нужен мулла давайте съедим</p>
-      <p>звери съели петуха</p>
-      <p>следующий голодны лиса запела</p>
-      <p>лиса лиса золотая лиса чеканное золото наша лиса кабан наш старейшина медведь наш нарт волк наш охотник шакал наш чавуш зая пастух</p>
-      <p>нам нужен пастух давайте съедим</p>
-      <p/>
-      <p>звери съели зайца</p>
-      <p>снова нечего лиса запела такую песню</p>
-      <p>лиса лиса золотая лиса чеканное золото наша лиса кабан наш старейшина медведь наш нарт волк наш охотник шакал чавуш</p>
-      <p>нам чавуш давайте съедим</p>
-      <p>сделали наутро кабан волк слышат лиса поет</p>
-      <p>лиса лиса золотая лиса чеканное золото наша лиса волк наш охотник кабан наш старейшина медведь наш нарт</p>
-      <p>нам нужен нарт давайте съедим</p>
-      <p>убили звери медведя</p>
-      <p>кончилась медвежатина лиса подошла волку запела</p>
-      <p>лиса лиса золотая лиса чеканное золото наша лиса волк наш охотник кабан старейшина</p>
-      <p>нам нужен старейшина давай съедим</p>
-      <p>волк задрал кабана доели кабанье мясо лиса задумалась избавиться волка съест</p>
-      <p>однажды лиса пошла побродить увидела бычий хвост</p>
-      <p>сразу подумала опасности хвост валялся прибежала лиса волку говорит</p>
-      <p>нашла толстый жирный хвост хотела давай завтра пойдем съедим вместе</p>
-      <p>рано утром отправились добычей лиса подвела волка бычьему хвосту говорит</p>
-      <p>вон видишь лежит хвост иди ешь</p>
-      <p>л почему хочешь спрашивает волк</p>
-      <p>сегодня пост ответила лиса</p>
-      <p>подбежал волк хвосту попал капкан лиса начала хвост волк удивился спросил</p>
-      <p>сказала пост почему ешь</p>
-      <p>увидела сон пост закончился говорит лиса</p>
-      <p>увижу сои</p>
-      <p>придет хозяин капкана сказала лиса убежала волк остался капкане таки удалось вырваться узнала атом лиса испугалась волчьей мести переселилась старую мельницу однажды туда забрел волк</p>
-      <p>лиса сразу узнала волк</p>
-      <p>лиса делаешь живешь ешь</p>
-      <p>спросил волк валлах крутятся жернова подсовываю язык сыплется мука ем</p>
-      <p>разреши поесть муки попросил волк</p>
-      <p>согласилась лиса повела жерновам волк высунул язык лиса пустила воду жернова закрутились оторвали волка кончик языка лиса убежала добралась песчаного берега поселилась однажды холодный зимний день лиса сидела берегу очутился самый волк узнал лису</p>
-      <p>здравствуй лиса живешь кормиться говорит волк</p>
-      <p>вечером опускаю реку хвост отвечает лиса</p>
-      <p>сижу ночь утром вытаскиваю хвост снимаю примерзшую рыбу ем</p>
-      <p>разреши ночь посидеть хочу наловить рыбы попросил волк</p>
-      <p>лиса разрешила вечером волк опустил хвост реку стал ждать лиса спрашивает</p>
-      <p>потяни хвост скажи болит</p>
-      <p>валлах немного болит отвечает волк</p>
-      <p>сидеть пока сильно заболит советует лиса</p>
-      <p>полночь лиса спросила</p>
-      <p>болит</p>
-      <p>очень болит ответил волк</p>
-      <p>сиди пока заболит говорит лиса</p>
-      <p>заре лиса спрашивает</p>
-      <p>скажи можешь вытянуть хвост</p>
-      <p>волк двинуть хвостом примерз</p>
-      <p>тяни тяни говорит лиса наверное рыбы поймал</p>
-      <p>волк тянет вытянуть хвост обрадовалась лиса избавлюсь волка</p>
-      <p>это время жсшцины пришли водой увидели зверей стали кричать сбежались мужчины убили лису волка</p>
-    </body>
-  </text>
-</TEI>
+     <head>10. Лиса </head>
+     <p>вместе волк жить заяц кабан лиса медведь однажды петух решили шакал</p><p>волк заяц кабан мартом медведь муллой охотником пастухом петух стал старейшиной чавушем шакал</p><p>дела запела лиса лиса нечего одна осталась</p><p>волк заяц золотая золото кабан л лиса лиса лиса лиса медведь мулла нарт наш наш наш наш наша охотник пастух петух старейшина чавуш чеканное шакал</p><p>давайте мулла нам нужен съедим</p><p>звери петуха съели</p><p>голодны запела лиса следующий</p><p>волк зая золотая золото кабан лиса лиса лиса лиса медведь нарт наш наш наш наш наша охотник пастух старейшина чавуш чеканное шакал</p><p>давайте нам нужен пастух съедим</p><p /><p>зайца звери съели</p><p>запела лиса нечего песню снова такую</p><p>волк золотая золото кабан лиса лиса лиса лиса медведь нарт наш наш наш наша охотник старейшина чавуш чеканное шакал</p><p>давайте нам съедим чавуш</p><p>волк кабан лиса наутро поет сделали слышат</p><p>волк золотая золото кабан лиса лиса лиса лиса медведь нарт наш наш наш наша охотник старейшина чеканное</p><p>давайте нам нарт нужен съедим</p><p>звери медведя убили</p><p>волку запела кончилась лиса медвежатина подошла</p><p>волк золотая золото кабан лиса лиса лиса лиса наш наша охотник старейшина чеканное</p><p>давай нам нужен старейшина съедим</p><p>волк волка доели задрал задумалась избавиться кабана кабанье лиса мясо съест</p><p>бычий лиса однажды побродить пошла увидела хвост</p><p>валялся волку говорит лиса опасности подумала прибежала сразу хвост</p><p>вместе давай жирный завтра нашла пойдем съедим толстый хвост хотела</p><p>бычьему волка говорит добычей лиса отправились подвела рано утром хвосту</p><p>видишь вон ешь иди лежит хвост</p><p>волк л почему спрашивает хочешь</p><p>лиса ответила пост сегодня</p><p>волк волк капкан лиса начала подбежал попал спросил удивился хвост хвосту</p><p>ешь пост почему сказала</p><p>говорит закончился лиса пост сон увидела</p><p>сои увижу</p><p>атом волк волк волчьей вырваться забрел испугалась капкана капкане лиса лиса мельницу мести однажды остался переселилась придет сказала старую таки туда убежала удалось узнала хозяин</p><p>волк лиса сразу узнала</p><p>делаешь ешь живешь лиса</p><p>валлах волк ем жернова крутятся мука подсовываю спросил сыплется язык</p><p>волк муки поесть попросил разреши</p><p>берега берегу воду волк волк волка высунул день добралась жернова жерновам закрутились зимний кончик лиса лиса лиса лиса лису однажды оторвали очутился песчаного повела поселилась пустила самый сидела согласилась убежала узнал холодный язык языка</p><p>волк говорит живешь здравствуй кормиться лиса</p><p>вечером лиса опускаю отвечает реку хвост</p><p>вытаскиваю ем ночь примерзшую рыбу сижу снимаю утром хвост</p><p>волк наловить ночь попросил посидеть разреши рыбы хочу</p><p>вечером волк ждать лиса лиса опустил разрешила реку спрашивает стал хвост</p><p>болит потяни скажи хвост</p><p>болит валлах волк немного отвечает</p><p>заболит лиса пока сидеть сильно советует</p><p>лиса полночь спросила</p><p>болит</p><p>болит волк ответил очень</p><p>говорит заболит лиса пока сиди</p><p>заре лиса спрашивает</p><p>вытянуть можешь скажи хвост</p><p>волк двинуть примерз хвостом</p><p>говорит лиса наверное поймал рыбы тяни тяни</p><p>волк волка вытянуть избавлюсь лиса обрадовалась тянет хвост</p><p>водой волка время жсшцины зверей кричать лису мужчины пришли сбежались стали убили увидели это</p></body>
+   </text>
+  </TEI>

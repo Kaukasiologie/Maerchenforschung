@@ -1,149 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tatische Folklore</title>
-        <title xml:lang="eng">Tat Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tatische Folklore</title>
+      <title xml:lang="eng">Tat Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ttt">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-          <geo/>
-        </placeName>
-        <date>1939 г. в г. со слов сказителя </date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Шелму</forename>
-            <surname xml:lang="rus">Мемри</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1854</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Амалдан</forename>
-            <surname xml:lang="rus">Кукуллу</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ttt">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+       <geo />
+      </placeName>
+      <date>1939 г. в г. со слов сказителя </date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Шелму</forename>
+        <surname xml:lang="rus">Мемри</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1854</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Амалдан</forename>
+        <surname xml:lang="rus">Кукуллу</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ttt_rus_22">
+   </teiHeader>
+   <text xml:id="cr_ttt_rus_22">
     <body>
-      <head>6. Сказка о том, как Шелму ‚ ездил верхом на муравье</head>
-      <p>жил своей семьей низенькой старенькой сакле балка моей сакле сгнила готова обрушиться пока эта балка свалилась наши головы подумал однажды пойду ка лес вырублю новую</p>
-      <p>взял топор отправился соседу попросил ишака сосед говорит</p>
-      <p>эх шелму ишак занозил ногу хромает могу тебе дать</p>
-      <p>оставалось делать взять топор одному отправиться лес день жарким душным устал присел отдохнуть деревом посмотрел сторонам увидел огромный муравейник котором полным полно муравьев усердпо работают запасают еду зиму смотрю это вижу вашим глазам такое увидеть муравей тащит муравейник ногн мертвого быка отцом своим клянусь говорю муравей стоит десяти ишаков</p>
-      <p>размотал веревку попытался пакинуть муравью шею муравей муравей лягнул ногой сразу зуба выбил тобой клянусь это правда вскрикнул страха очнулся вижу муравей отбросил шагов двести лежу пыли подняться могу вспомнил балка сакле обрушиться детей встал дрожа страха вновь приблизился этому злому муравью запрячь бог сжалился моими детьми муравей заталкивал тушу муравейник набросил шею веревку сел верхом погнал лес муравей оказывается мог ходить летать размахнулся концом веревки хлестнуть муравья взмахнул крыльями поднял небо тобой клянусь это правда успел сообразить муравей донес самого дворца пинхаса жил рядом самурским лесом</p>
-      <p>послушай дальше сойдя муравья прнвязал огромному старому дубу спокойно ушел глубь леса найти дерево балки отыскал подходящее дерево стал рубить ударил топором слышу шум думаю это муравей натворил</p>
-      <p>подбежал тому месту привязал муравья вижу вырвал дуб корнями летает туда сюда никак лесу выбраться мешают деревья недолго думая прыгнул муравью спину вместе мной деревом взлетел небо</p>
-      <p>море горы леса поля нес муравей опустился площади одного большого города оказалось это город тебриз жители мала велика выбежали домов посмотреть впереди стояли векили везиры здешнего падишаха справа всей толпы костлявый падишахский палач красной чалме руке держал обнаженную саблю размахивая саблей палач бросился моего муравья признаться сильно испугался время онемел ой думаю дети мои остались сиротами падо такому случиться муравей разозлился палача проглотил вместе саблей чалмой увидели это падишахские векили везиры очень испугались подумали джинн минежиб страхе подошли ко упали колени стали целовать мои рваные запыленные башмаки</p>
-      <p>ой ой сильный джин минежиб ради бога сжалься нами пад нашими людьми нашим городом взмолились векили везиры</p>
-      <p>кивнул сказать могу онемел взяли руки понесли прямо дворец падишаха обрадовался падишах моему прнходу ох обрадовался радости знал посадить посадил самое почетное место правую руку слуги падишаха мигом накрылн богатый стол самые лучшие яства вино шербет падишах стал класть рот самые жирные куски мяса поить самыми вкусными винами</p>
-      <p>дня н ночи украдкой своей семьи пировал дворце тебризского падишаха наелся н напился начал петь песни мардахай овшолума всем очень понравились</p>
-      <p>четвертый день падишах вновь пригласил позвал также своих векилов везиров вошел вижу правую руку падишаха сидит молодая девушка прелести несравненны луной звездами вступает спор своей красотой</p>
-      <p>почтенный шелму говорит падишах низко кланяется сжалился нашим городом нашими людьми причинил нам горя наоборот стал моим гостем сел стол отдаю тебе жены дочь приходило ко сватов кого отдал отдам твое счастье бери</p>
-      <p>сказал это падишах ждет отвечу молча смотрю красавицу думаю буду делать падишахской дочерью избалована вкусными яствами нарядными платьями сакле ночью мыши полкам бегают могут пайти куска хлеба горя радости красавицей цветок завянет голода тоски несколько дней умрет притом уживется лиона моей женой саро начнут друг друга волосы голове рвать опозорят весь наш древний город изменится женюсь дочери падишаха бедняком останусь ин понадобится осел должен буду выпрашивать соседа муравья надеяться опасно прекрасный день убьет оставит детей сиротами</p>
-      <p>сказал падишаху</p>
-      <p>жить тебе здравствовать добрый падишах пусть дочь твоя останется тебе подарил хорошего осла осел нужнее твоя дочь</p>
-      <p>падишах приближенные удивились услышав мои слова долго могли поверить своим ушам очень обрадовались</p>
-      <p>выберите самого лучшего осла покройте самой дорогой попоной отдайте шелму распорядился падишах</p>
-      <p>слуги привели самого лучшего осла накрыли дорогой попоной отдали сел верхом скотину жители тебриза радостью весельем музыкой пляской проводили самых дербентских ворот тобой клянусь это правда</p>
-      <p>верхом осле добрался живой невредимый родного порога касается старой гнилой балки легче свой осел хочу рядом пойду хочу верхом поеду хочу балку привезу</p>
-    </body>
-  </text>
-</TEI>
+     <head>6. Сказка о том, как Шелму ‚ ездил верхом на муравье</head>
+     <p>балка балка вырублю головы готова жил ка лес моей наши низенькой новую обрушиться однажды подумал пойду пока сакле сакле свалилась своей сгнила семьей старенькой эта</p><p>взял говорит ишака отправился попросил сосед соседу топор</p><p>дать занозил ишак могу ногу тебе хромает шелму эх</p><p>быка вашим взять вижу глазам говорю делать день деревом десяти душным еду жарким запасают зиму ишаков клянусь котором лес мертвого муравей муравей муравейник муравейник муравьев ногн огромный одному оставалось отдохнуть отправиться отцом полно полным посмотрел присел работают своим смотрю стоит сторонам такое тащит топор увидел увидеть усердпо устал это</p><p>балка бог веревки веревку веревку верхом взмахнул вижу вновь вскрикнул вспомнил встал выбил двести дворца детей детьми донес дрожа жил запрячь заталкивал злому зуба клянусь клянусь концом крыльями лежу лес лесом летать лягнул мог могу моими муравей муравей муравей муравей муравей муравей муравейник муравью муравью муравья набросил небо ногой обрушиться оказывается отбросил очнулся пакинуть пинхаса погнал поднял подняться попытался правда правда приблизился пыли размахнулся размотал рядом сакле самого самурским сел сжалился сообразить сразу страха страха тобой тобой тушу успел хлестнуть ходить шагов шею шею это это этому</p><p>балки глубь дальше дерево дерево дубу думаю леса муравей муравья найти натворил огромному отыскал подходящее послушай прнвязал рубить слышу сойдя спокойно стал старому топором ударил ушел шум это</p><p>взлетел вижу вместе выбраться вырвал деревом деревья дуб думая корнями лесу летает месту мешают мной муравью муравья небо недолго никак подбежал привязал прыгнул спину сюда тому туда</p><p>башмаки большого бросился везиры везиры векили векили велика вместе впереди время всей выбежали город города горы держал дети джинн домов думаю жители запыленные здешнего испугались испугался ко колени костлявый красной леса мала минежиб моего мои мои море муравей муравей муравья нес обнаженную одного ой оказалось онемел опустился остались очень падишаха падишахские падишахский падо палач палач палача площади подошли подумали поля посмотреть признаться проглотил размахивая разозлился рваные руке саблей саблей саблю сильно сиротами случиться справа стали стояли страхе такому тебриз толпы увидели упали целовать чалме чалмой это это</p><p>бога везиры векили взмолились городом джин людьми минежиб нами нашим нашими ой ой пад ради сжалься сильный</p><p>богатый взяли винами вино вкусными дворец жирные знал кивнул класть куски лучшие место мигом могу моему мяса накрылн обрадовался обрадовался онемел ох падишах падишах падишаха падишаха поить понесли посадил посадить почетное правую прнходу прямо радости рот руки руку самое самые самые самыми сказать слуги стал стол шербет яства</p><p>всем дворце дня мардахай н н наелся напился начал ночи овшолума очень падишаха песни петь пировал понравились своей семьи тебризского украдкой</p><p>везиров векилов вижу вновь вошел вступает девушка день звездами красотой луной молодая несравненны падишах падишаха позвал правую прелести пригласил руку своей своих сидит спор также четвертый</p><p>бери говорит городом горя гостем дочь жены кланяется ко кого людьми моим нам наоборот нашим нашими низко отдал отдам отдаю падишах почтенный приходило причинил сватов сел сжалился стал стол счастье твое тебе шелму</p><p>бегают бедняком буду буду весь вкусными волосы выпрашивать голове голода город горя делать день детей дней должен дочери дочерью древний друг друга думаю ждет женой женюсь завянет избалована изменится ин красавицей красавицу куска лиона могут моей молча муравья мыши надеяться нарядными начнут наш несколько ночью опасно опозорят осел оставит останусь отвечу падишах падишаха падишахской пайти платьями полкам понадобится прекрасный притом радости рвать сакле саро сиротами сказал смотрю соседа тоски убьет уживется умрет хлеба цветок это яствами</p><p>падишаху сказал</p><p>добрый дочь дочь жить здравствовать нужнее осел осла останется падишах подарил пусть твоя твоя тебе тебе хорошего</p><p>долго могли мои обрадовались очень падишах поверить приближенные своим слова удивились услышав ушам</p><p>выберите дорогой лучшего осла отдайте падишах покройте попоной распорядился самого самой шелму</p><p>верхом весельем ворот дербентских дорогой жители клянусь лучшего музыкой накрыли осла отдали пляской попоной правда привели проводили радостью самого самых сел скотину слуги тебриза тобой это</p><p>балки балку верхом верхом гнилой добрался живой касается легче невредимый осел осле поеду пойду порога привезу родного рядом свой старой хочу хочу хочу</p></body>
+   </text>
+  </TEI>

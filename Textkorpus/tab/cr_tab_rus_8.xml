@@ -1,149 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tabasaranisch Folklore</title>
-        <title xml:lang="eng">Tabasaran Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tabasaranisch Folklore</title>
+      <title xml:lang="eng">Tabasaran Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>ФЛ ДГПУ</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>ФЛ ДГПУ</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="tab">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/563592/dzhuli.html">Dzhuli</settlement>
-          <geo/>
-        </placeName>
-        <date>1959</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Р.</forename>
-            <surname xml:lang="rus">Гаджимагомедов</surname>
-          </persName>
-          <age>72</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М.М.</forename>
-            <surname xml:lang="rus">Курбанов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.М.</forename>
-            <surname xml:lang="rus">Курбанов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="tab">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/563592/dzhuli.html">Dzhuli</settlement>
+       <geo />
+      </placeName>
+      <date>1959</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Р.</forename>
+        <surname xml:lang="rus">Гаджимагомедов</surname>
+       </persName>
+       <age>72</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М.М.</forename>
+        <surname xml:lang="rus">Курбанов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.М.</forename>
+        <surname xml:lang="rus">Курбанов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_tab_rus_8">
+   </teiHeader>
+   <text xml:id="cr_tab_rus_8">
     <body>
-      <head>6 Ахмед и его отец (таб.) </head>
-      <p>старик сыновья внуки вскоре появились правнуки праправнуки старик считал счастливым человеком старик остался жить младшим сыном ахмедом старшие дети своими детьми жили отдельных домах перевалило сто лет стал обузой снохи старик мог принести кувшин сделать омовение</p>
-      <p>вскоре жена сына ахмеда стала ворчать открытую упрекать мужа</p>
-      <p>убирая твоим отцом молодаяя жизнь испорчена оживает аллах забирает моих плеч сколько терпеть сколько убирать одна поле сенокосе дома твой отец живьем могилу сведет</p>
-      <p>такие слова ахмед сперва ругал бывало несколько избивал жену вскоре вышло контроля ахмеда жена открыто проклинала старика старику шел сто двадцатый год понимал доставляет хлопот семье постоянно молился скорее аллах принял душу умирал тело сердце крепки</p>
-      <p>однажды вечером жена ахмеда беседе мужем сказала</p>
-      <p>ахмед дальше жить могу наш старый кабан умрет любишь должен сделать своим отцом иначе детьми уйдем родительский дом</p>
-      <p>эй собачья дочь собака делать взять душу аллах азраил ослеп оглох сегодня завтра аллах избавит спеши потерпи устал</p>
-      <p>любишь детей выбирай либо либо твой старый кабан отец сделаешь дня уходим дома</p>
-      <p>ночью ахмед сомкнул глаз следующую ночь посадив старика арбу женой увез тайком села возле села высокие скалы полуночи оказались ахмед сбросил отца вниз скалы тайно вернулись домой счастью никто попался дороге</p>
-      <p>следующий день жена ахмеда роднике среди женщин распространила слух ночью свекр вышел подышать свежим воздухом потерялся женщины всему селу разнесли весть исчезновении старика сельчане дружно начали искать пропавшего полудню нашел тело ущелье ахмед жена рыданиями кинулись отцу сельчане подумали слепой старик заблудился упал пропасть</p>
-      <p>ахмед женой похоронили своего старого кабана раздали сельчанам садака жена довольна обошлось благополучно</p>
-      <p>шли дни месяцы прошло семьдесят лет состарились ахмед женой родились внуки правнуки ушла мир иной жена ахмеда устроив жизнь старших сыновей ахмед остался младшего камала женили камала вскоре появились внуки столетний старик болел выздоравливал несколько лет оглох ослеп отец молился задумывался смерти ахмед вставал постели умирал сноха уставала ухаживать воду мог самостоятельно пить сноха тому невоспитанной</p>
-      <p>жена камала тихо пугала старика бывало муж слышал камал вначале прислушивался словам немного опасался однажды уставшая сказала мужу</p>
-      <p>муж могу терпеть твоего старика дня будешь ухаживать</p>
-      <p>камалу остается днем ночью отдыхал убирая больным отцом однако жена успокаивалась желая избавился отца открыто говорила мужу избавил семью дряхлого старика</p>
-      <p>слов жены камала голова раскалывалась ночью посадив немощного отца старую арбу камал женой решили отвезти село вывезли арбе пропасти камал уверен отец видит слышит камал вытащил отца ахмед неожиданно сына сказал</p>
-      <p>камал сынок постой делай губи умоляю</p>
-      <p>услышав голос отца сын остолбенел думал старый скрюченный отец догадывается намерении</p>
-      <p>джан сынок стар тебе твоей жене доставлял хлопот делать аллах отсрочил мою смерть сынок джан семьдесят лет тому назад устав своего отца твоя мать бросили пропасть умер своей смертью убил люди говорили слепой старик случайно упал пропасть это неправда это убил глупец послушав жену думал смерти отца заживем счастливо дня забываю днем ночью дни пришли мою голову каждую ночь снится прекрати обычай грех сих пор преследует бросишь пропасть тобой также поступят сыновья остановись сын</p>
-      <p>услышав слова камалу стало очень обидно понял какую глупость сделал упав колени отцом камал попросил прощения поклялся пожертвовать своей жизнью ради посадил отца арбу вернулся домой уложил постель ахмед переживая сделал семьдесят лет тому назад выдержал дня умер</p>
-    </body>
-  </text>
-</TEI>
+     <head>6 Ахмед и его отец (таб.) </head>
+     <p>ахмедом внуки вскоре дети детьми домах жили жить кувшин лет младшим мог обузой омовение остался отдельных перевалило появились правнуки праправнуки принести своими сделать снохи стал старик старик старик старик старшие сто счастливым считал сыновья сыном человеком</p><p>ахмеда ворчать вскоре жена мужа открытую стала сына упрекать</p><p>аллах дома живьем жизнь забирает испорчена могилу моих молодаяя одна оживает отец отцом плеч поле сведет сенокосе сколько сколько твоим твой терпеть убирать убирая</p><p>аллах ахмед ахмеда бывало вскоре вышло год двадцатый доставляет душу жена жену избивал контроля крепки молился несколько открыто понимал постоянно принял проклинала ругал семье сердце скорее слова сперва старика старику сто такие тело умирал хлопот шел</p><p>ахмеда беседе вечером жена мужем однажды сказала</p><p>ахмед дальше детьми должен дом жить иначе кабан любишь могу наш отцом родительский своим сделать старый уйдем умрет</p><p>азраил аллах аллах взять делать дочь душу завтра избавит оглох ослеп потерпи сегодня собака собачья спеши устал эй</p><p>выбирай детей дня дома кабан либо либо любишь отец сделаешь старый твой уходим</p><p>арбу ахмед ахмед вернулись вниз возле высокие глаз домой дороге женой никто ночь ночью оказались отца полуночи попался посадив сбросил села села скалы скалы следующую сомкнул старика счастью тайком тайно увез</p><p>ахмед ахмеда весть воздухом всему вышел день дружно жена жена женщин женщины заблудился искать исчезновении кинулись начали нашел ночью отцу подумали подышать полудню потерялся пропавшего пропасть разнесли распространила роднике рыданиями свежим свекр селу сельчане сельчане следующий слепой слух среди старик старика тело упал ущелье</p><p>ахмед благополучно довольна жена женой кабана обошлось похоронили раздали садака своего сельчанам старого</p><p>ахмед ахмед ахмед ахмеда болел внуки внуки воду вскоре вставал выздоравливал дни жена женили женой жизнь задумывался иной камала камала лет лет месяцы мир младшего мог молился невоспитанной несколько оглох ослеп остался отец пить постели появились правнуки прошло родились самостоятельно семьдесят смерти сноха сноха состарились старик старших столетний сыновей тому умирал уставала устроив ухаживать ушла шли</p><p>бывало вначале жена камал камала муж мужу немного однажды опасался прислушивался пугала сказала словам слышал старика тихо уставшая</p><p>будешь дня могу муж старика твоего терпеть ухаживать</p><p>больным говорила днем дряхлого желая жена избавил избавился камалу мужу ночью однако остается отдыхал открыто отца отцом семью старика убирая успокаивалась</p><p>арбе арбу ахмед видит вывезли вытащил голова женой жены камал камал камал камала немощного неожиданно ночью отвезти отец отца отца посадив пропасти раскалывалась решили село сказал слов слышит старую сына уверен</p><p>губи делай камал постой сынок умоляю</p><p>голос догадывается думал намерении остолбенел отец отца скрюченный старый сын услышав</p><p>аллах бросили бросишь глупец говорили голову грех делать джан джан днем дни дня доставлял думал жене жену забываю заживем каждую лет люди мать мою мою назад неправда ночь ночью обычай остановись отсрочил отца отца пор послушав поступят прекрати преследует пришли пропасть пропасть пропасть своего своей семьдесят сих слепой случайно смерти смерть смертью снится стар старик счастливо сын сыновья сынок сынок также твоей твоя тебе тобой тому убил убил умер упал устав хлопот это это</p><p>арбу ахмед вернулся выдержал глупость дня домой жизнью какую камал камалу колени лет назад обидно отца отцом очень переживая пожертвовать поклялся понял попросил посадил постель прощения ради своей сделал сделал семьдесят слова стало тому уложил умер упав услышав</p></body>
+   </text>
+  </TEI>

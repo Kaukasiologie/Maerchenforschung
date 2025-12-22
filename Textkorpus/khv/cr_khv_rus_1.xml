@@ -1,144 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/480804/tsumadinskiy-rayon.html">Tsumadinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/548978/khvarshi.html">Khvarshi</settlement>
-          <geo/>
-        </placeName>
-        <date>2010</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Хадижат Дж.</forename>
-            <surname xml:lang="rus">Магомедова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1958</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/480804/tsumadinskiy-rayon.html">Tsumadinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/548978/khvarshi.html">Khvarshi</settlement>
+       <geo />
+      </placeName>
+      <date>2010</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Хадижат Дж.</forename>
+        <surname xml:lang="rus">Магомедова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1958</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_1">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_1">
     <body>
-      <head>СКАЗКА О ЧАБАНЕ И ЗЛОМ ДУХЕ </head>
-      <p>рассказывают жил чабан большая отара овец однажды вечером загнав отару решил поужинать принёс хлеб мясо воду скушав мясо кости выбросил видит злой дух высокого роста руках огромный камень злой дух приблизился чабану злобно крикнул</p>
-      <p>вставай убил моего сына убью убил твоего сына спросил испуганный чабан злой дух ответил</p>
-      <p>съел мясо выбросил кости попал голову моего сына умер ту минуту</p>
-      <p>убил твоего сына сделал это нечаянно прошу прощения воскликнул напуганный чабан</p>
-      <p>злой дух унимался сказал непременно должен убить потянул чабана повалил землю взял огромный камень хотел размозжить голову чабана заплакал воскликнул</p>
-      <p>злой дух провинился пожалуйста исполни моё последнее желание дай возможность попрощаться моей семьёй обещаю тебе вернусь назад сделаешь мной захочешь злой дух поверил отпустил чабан вернулся домой рассказал обо всём своей жене детям составил завещание попрощался всеми пошёл злому духу</p>
-      <p>чабана сын которому исполнилось двенадцать лет очень умён сказав отцу сын отправился вслед отец подошёл злому духу сын чабана воскликнул злой дух отец провинился тобою убил твоего сына поэтому должен убить смертью хочу убедиться насколько силён умён победишь приму смерть выиграю отпустишь простишь моего отца</p>
-      <p>злой дух уверен человеческое дитя намного слабее глупее согласился это предложение</p>
-      <p>начнём спросил злой дух сына чабана давай начнём самого простого метания камня</p>
-      <p>дальше кинет победитель предложил мальчик кинул злой дух камень размером кулак полетел камень далекодалеко упал вершину горы которая стояла напротив пазухой мальчика сова незаметно вытащил мальчик сову изза пазухи бросил вверх полетела сова далекодалеко вершине той горы которую упал камень злого духа поднялась ещё выше полетела ещё дальше пока превратилась маленькую точку исчезла</p>
-      <p>выиграл признался удивлённый злой дух давай посмотрим сможешь выдавить воду камня злой дух поднял земли круглый булыжник сжал сильно булыжника капнуло несколько капель воды</p>
-      <p>счастью сова пока сидела пазухой мальчика снесла яйцо мальчик осторожно сунул руку пазуху делая вид подбирает камень вытащил оттуда яйцо совы сдавил рук потекла жёлтобелая жидкость</p>
-      <p>вправду силён выиграл сказал злой дух поделаешь состязаются трижды раза выиграл хочу проиграть тебе третий забирай своего отца уходи пока передумал</p>
-      <p>умный ма льчик спас своего отца злого духа</p>
-    </body>
-  </text>
-</TEI>
+     <head>СКАЗКА О ЧАБАНЕ И ЗЛОМ ДУХЕ </head>
+     <p>большая вечером видит воду выбросил высокого дух дух жил загнав злобно злой злой камень кости крикнул мясо мясо овец огромный однажды отара отару поужинать приблизился принёс рассказывают решил роста руках скушав хлеб чабан чабану</p><p>вставай дух злой испуганный моего ответил спросил сына сына твоего убил убил убью чабан</p><p>выбросил голову кости минуту моего мясо попал съел сына ту умер</p><p>воскликнул напуганный нечаянно прошу прощения сделал сына твоего убил чабан это</p><p>взял воскликнул голову должен дух заплакал землю злой камень непременно огромный повалил потянул размозжить сказал убить унимался хотел чабана чабана</p><p>вернулся вернусь возможность всеми всём дай детям домой дух дух духу желание жене завещание захочешь злой злой злому исполни мной моей моё назад обещаю обо отпустил поверил пожалуйста попрощался попрощаться последнее пошёл провинился рассказал своей сделаешь семьёй составил тебе чабан</p><p>воскликнул вслед выиграю двенадцать должен дух духу злой злому исполнилось которому лет моего насколько отец отец отправился отпустишь отца отцу очень победишь подошёл поэтому приму провинился простишь силён сказав смерть смертью сын сын сын сына твоего тобою убедиться убил убить умён умён хочу чабана чабана</p><p>глупее дитя дух злой намного предложение слабее согласился уверен человеческое это</p><p>давай дух злой камня метания начнём начнём простого самого спросил сына чабана</p><p>бросил вверх вершине вершину вытащил выше горы горы далекодалеко далекодалеко дальше дальше дух духа ещё ещё злого злой изза исчезла камень камень камень кинет кинул которая которую кулак маленькую мальчик мальчик мальчика напротив незаметно пазухи пазухой победитель поднялась пока полетел полетела полетела превратилась предложил размером сова сова сову стояла той точку упал упал</p><p>булыжник булыжника воду воды выдавить выиграл давай дух дух земли злой злой камня капель капнуло круглый несколько поднял посмотрим признался сжал сильно сможешь удивлённый</p><p>вид вытащил делая жидкость жёлтобелая камень мальчик мальчика осторожно оттуда пазухой пазуху подбирает пока потекла рук руку сдавил сидела снесла сова совы сунул счастью яйцо яйцо</p><p>вправду выиграл выиграл дух забирай злой отца передумал поделаешь пока проиграть раза своего силён сказал состязаются тебе третий трижды уходи хочу</p><p>духа злого льчик ма отца своего спас умный</p></body>
+   </text>
+  </TEI>

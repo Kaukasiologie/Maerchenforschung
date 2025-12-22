@@ -1,123 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Agulische Folklore</title>
-        <title xml:lang="eng">Agul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <bibl>
-              <title>Магометов А. А. Агульский язык: Исследования и тексты. Тбилиси: Мецниереба, 1970а.</title>
-            </bibl>
-          </sourceDesc>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Agulische Folklore</title>
+      <title xml:lang="eng">Agul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <bibl>
+         <title>Магометов А. А. Агульский язык: Исследования и тексты. Тбилиси: Мецниереба, 1970а.</title>
+        </bibl>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="agx">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1965</date>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName xml:lang="rus">Магомед Зульпикаров</persName>
-          <persName xml:lang="agx">magamed zulpiq’arow</persName>
-          <age>22</age>
-          <birth>
-            <address>
-              <district/>
-              <settlement ref="https://www.geonames.org/480859/tsirkhe.html">Tsirkhe</settlement>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А. А.</forename>
-            <surname xml:lang="rus">МАГОМЕТОВ</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Т. А.</forename>
-            <surname xml:lang="rus">Майсак</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="agx">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1965</date>
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName xml:lang="rus">Магомед Зульпикаров</persName>
+       <persName xml:lang="agx">magamed zulpiq’arow</persName>
+       <age>22</age>
+       <birth>
+        <address>
+         <district />
+         <settlement ref="https://www.geonames.org/480859/tsirkhe.html">Tsirkhe</settlement>
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А. А.</forename>
+        <surname xml:lang="rus">МАГОМЕТОВ</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Т. А.</forename>
+        <surname xml:lang="rus">Майсак</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_agx_rus_19">
+   </teiHeader>
+   <text xml:id="cr_agx_rus_19">
     <body>
-      <head>М16. Молла Насреддин и зерно</head>
-      <p>говорят говорят молла насреддин пошел лес нарубил дров принес дров домой зажег огонь положил дрова печь поставил печь котел сварил котел хинкала снял котел вынул хинкал поел вышел улицу увидел люди идут кладбище пошел ними сказали молла насреддину сегодня пойдешь нами дадим тебе одной мерке зерна ладно сказал молла насреддин пошел молла насреддин домой пришел домой сказал своей жене принеси мерку мешка принесла дала положил мешки мерку собаку пошел кладбище молла насреддин сказал людям вместе собрались те должен дать зерно весь народ рассмеялся придя кладбища принесли зерно дали молле насреддину высыпал зерно палас сушиться отнес мель ницу смолол перевез муку мельницы насыпал сундук жена моллы насреддина понемногу брала сундука месила тесто носила пекарню пекла хлеб относила домой ели конец</p>
-    </body>
-  </text>
-</TEI>
+     <head>М16. Молла Насреддин и зерно</head>
+     <p>брала весь вместе вынул высыпал вышел говорят говорят дадим дала дали дать должен домой домой домой домой дров дров дрова ели жена жене зажег зерна зерно зерно зерно идут кладбища кладбище кладбище конец котел котел котел ладно лес люди людям мель мельницы мерке мерку мерку месила мешка мешки молла молла молла молла молла молле моллы муку нами народ нарубил насреддин насреддин насреддин насреддин насреддина насреддину насреддину насыпал ними ницу носила огонь одной отнес относила палас пекарню пекла перевез печь печь поел пойдешь положил положил понемногу поставил пошел пошел пошел пошел придя принес принеси принесла принесли пришел рассмеялся сварил своей сегодня сказал сказал сказал сказали смолол снял собаку собрались сундук сундука сушиться те тебе тесто увидел улицу хинкал хинкала хлеб</p></body>
+   </text>
+  </TEI>

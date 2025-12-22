@@ -1,161 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-                <title xml:lang="ava">Маргьаби, 77 (авар.). С. 35-38/48-50</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+          <title xml:lang="ava">Маргьаби, 77 (авар.). С. 35-38/48-50</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.З.</forename>
-            <surname xml:lang="rus">Абакаров</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.З.</forename>
+        <surname xml:lang="rus">Абакаров</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_15">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_15">
     <body>
-      <head>2 Пастух (авар.) </head>
-      <p>бедняк приехавший другого села пас коров араканских горах время многие хиндаляльцы отвозили ослах азайни хану подарок корзины разных фруктов хан ответ также одаривал подарками людей которые приходили нему почестями особенно дарил одежды обуви</p>
-      <p>однажды жена пастуха говорит мужу</p>
-      <p>хозяин очень нуждаемся одежде почему тебе съездить азайни шамхалу каким подарком люди привозят платьев обуви</p>
-      <p>очень поехал повезти отвезти ответил хозяин</p>
-      <p>таком случае достану абрикосы готовься поездке сказала жена</p>
-      <p>работая покладая рук несколько дней разных людей жена заработала две корзины абрикосов погрузить одного осла</p>
-      <p>собрался пастух большое путешествие погрузил корзины абрикосами осла облезлым хвостом пустился путь азайни шамхалу жена думая заранее радуясь подаркам которые привезет муж пасла коров</p>
-      <p>пастух перешел араканскую гору дошел эрпелинских высот встретились разодетые всадники сверкающим позолоченным оружием откормленных конях впереди белом коне ехал очень богато одетый всадник встретив пастуха придержали коней который впереди повернулся путнику сказал</p>
-      <p>откуда едешь направляешься</p>
-      <p>вопрос ответил людей</p>
-      <p>ответив другие вопросы пастух собрался путь</p>
-      <p>продай нам немного абрикосов попросил всадник пастуха</p>
-      <p>клянусь аллахом продам везу издалека подарок уважаемому хану азайни ответил пастух</p>
-      <p>долго уговаривали продать немного абрикосов обещая заплатить столько сколько запросит</p>
-      <p>сколько денег дали продаю ответил</p>
-      <p>иди свое азайни сказал который сидел белом коне это хан азайни</p>
-      <p>погоняя своего осла пастух отправился сторону азайни хан нукеры обогнув гору раньше пастуха приехали домой выходили вместе ханом азайни прогулку</p>
-      <p>некоторое время пастух дошел азайни спросил находится дом хана остановился преподнес подарок привезенные абрикосы приближенные хана подарили бедняку жене поношенную одежду обувь деньги следующий день уважением проводили путь</p>
-      <p>спустя некоторое время ухода пастуха нукеров сказал хану</p>
-      <p>столько добра подарил этому пастуху твои нукеры получали время своей службы это обидно хочу догнать отобрать дал</p>
-      <p>сказал хан желая обидеть своего нукера вздумай использовать силу оружие сумей победить словом</p>
-      <p>нукер надел лучшее оружие сел коня отправился пастухом догнав владении хана нукер громко крикнул</p>
-      <p>эй путник остановись хан послал вернул доставил нему</p>
-      <p>понадобился подумал пастух разные мысли стали терзать ошарашить пастуха нукер сказал</p>
-      <p>правильно ответишь мои вопроса верну хану</p>
-      <p>согласился пастух задавай свои вопросы смогу отвечу</p>
-      <p>находится середина земли задал нукер свой первый вопрос</p>
-      <p>середина земли находится копытами моего черного осла веришь измерь ответил пастух</p>
-      <p>ответ устроил нукера</p>
-      <p>сколько звезд небе задал второй вопрос пастуху</p>
-      <p>сколько шерстинок моем черном осле столько звезд небе сомневаешься сосчитай ответил это пастух</p>
-      <p>нукер остался доволен этим ответом</p>
-      <p>ответь кого любят девушки спросил нукер третий</p>
-      <p>одежду которую носишь оружие которое тебе коня котором сидишь дай ка сказал пастух догадавшись коварных намерениях нукера покажу тебе бывает мужчина которого любят девушки</p>
-      <p>поменялись одеждой пастух надел оружие нукера сел коня сказал такого мужчину любят девушки ударил коня плетью словами счастливо оставаться помчался пастух сторону своего аула нукер погоняя черного облезлого осла пошел хану рассказал обо всем случилось</p>
-      <p>хан сказал нукеру</p>
-      <p>спросили просто ответил вопрос смысл слов таков тех противостоять сильному человеку</p>
-    </body>
-  </text>
-</TEI>
+     <head>2 Пастух (авар.) </head>
+     <p>азайни араканских бедняк время горах дарил другого корзины коров которые людей многие нему обуви одаривал одежды ослах особенно ответ отвозили пас подарками подарок почестями приехавший приходили разных села также фруктов хан хану хиндаляльцы</p><p>говорит жена мужу однажды пастуха</p><p>азайни каким люди нуждаемся обуви одежде очень платьев подарком почему привозят съездить тебе хозяин шамхалу</p><p>отвезти ответил очень повезти поехал хозяин</p><p>абрикосы готовься достану жена поездке сказала случае таком</p><p>абрикосов две дней жена заработала корзины людей несколько одного осла погрузить покладая работая разных рук</p><p>абрикосами азайни большое думая жена заранее корзины коров которые муж облезлым осла пасла пастух погрузил подаркам привезет пустился путешествие путь радуясь собрался хвостом шамхалу</p><p>араканскую белом богато впереди впереди всадник всадники встретив встретились высот гору дошел ехал коне коней конях который одетый оружием откормленных очень пастух пастуха перешел повернулся позолоченным придержали путнику разодетые сверкающим сказал эрпелинских</p><p>едешь направляешься откуда</p><p>вопрос людей ответил</p><p>вопросы другие ответив пастух путь собрался</p><p>абрикосов всадник нам немного пастуха попросил продай</p><p>азайни аллахом везу издалека клянусь ответил пастух подарок продам уважаемому хану</p><p>абрикосов долго заплатить запросит немного обещая продать сколько столько уговаривали</p><p>дали денег ответил продаю сколько</p><p>азайни азайни белом иди коне который свое сидел сказал хан это</p><p>азайни азайни вместе выходили гору домой нукеры обогнув осла отправился пастух пастуха погоняя приехали прогулку раньше своего сторону хан ханом</p><p>абрикосы азайни бедняку время день деньги дом дошел жене находится некоторое обувь одежду остановился пастух подарили подарок поношенную преподнес приближенные привезенные проводили путь следующий спросил уважением хана хана</p><p>время некоторое нукеров пастуха сказал спустя ухода хану</p><p>время дал добра догнать нукеры обидно отобрать пастуху подарил получали своей службы столько твои хочу это этому</p><p>вздумай желая использовать нукера обидеть оружие победить своего силу сказал словом сумей хан</p><p>владении громко догнав коня крикнул лучшее надел нукер нукер оружие отправился пастухом сел хана</p><p>вернул доставил нему остановись послал путник хан эй</p><p>мысли нукер ошарашить пастух пастуха подумал понадобился разные сказал стали терзать</p><p>верну вопроса мои ответишь правильно хану</p><p>вопросы задавай отвечу пастух свои смогу согласился</p><p>вопрос задал земли находится нукер первый свой середина</p><p>веришь земли измерь копытами моего находится осла ответил пастух середина черного</p><p>нукера ответ устроил</p><p>вопрос второй задал звезд небе пастуху сколько</p><p>звезд моем небе осле ответил пастух сколько сомневаешься сосчитай столько черном шерстинок это</p><p>доволен нукер остался ответом этим</p><p>девушки кого любят нукер ответь спросил третий</p><p>бывает дай девушки догадавшись ка коварных коня которого которое котором которую любят мужчина намерениях носишь нукера одежду оружие пастух покажу сидишь сказал тебе тебе</p><p>аула всем девушки коня коня любят мужчину надел нукер нукера облезлого обо одеждой оружие осла оставаться пастух пастух плетью погоняя поменялись помчался пошел рассказал своего сел сказал словами случилось сторону счастливо такого ударил хану черного</p><p>нукеру сказал хан</p><p>вопрос ответил просто противостоять сильному слов смысл спросили таков тех человеку</p></body>
+   </text>
+  </TEI>

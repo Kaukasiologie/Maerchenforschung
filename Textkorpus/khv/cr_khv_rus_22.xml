@@ -1,140 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
-          <geo/>
-        </placeName>
-        <date>2010</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Зайнап М.</forename>
-            <surname xml:lang="rus">Магомедова</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1962</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/865722/oktyabr-skoye.html">Oktyabr’skoye </settlement>
+       <geo />
+      </placeName>
+      <date>2010</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Зайнап М.</forename>
+        <surname xml:lang="rus">Магомедова</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1962</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_22">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_22">
     <body>
-      <head>ЗАМАРАШКА</head>
-      <p>одна замарашка неё семь девочек лысая плешивая болячка хромая кривая дурная умная однажды замарашка начала собираться дровами пойти строго сказала девочкам</p>
-      <p>дверь никому открывайте идёт замарашка дровами встречает дороге волка идёшь спросила замарашка своим делам ответил волк смотри моих девочек ешь тебе лесу мерку малины принесу сказала замарашка буду обещал волк игрались девочки дома слышат дверь стучат спросили девочки ваша мама ответил волк нашей мамы голос сказали девочки наша мама ваша мама спросил волк неё красное платье сказала глупая волк показал красные лоскутки девочки побежали открывать дверь открывайте говорила умная послушали остальные сёстры её открыли дверь запрыгнул волк дом умная кинулась укромное местечко углу осталась цела невредима остальных девочек волк съел съев девочек пошёл волк обратно лес навстречу попалась замарашка</p>
-      <p>пасть крови спрашивает замарашка</p>
-      <p>это кустах птичку съел ответил волк</p>
-      <p>пришла замарашка домой нашла дверь открытой увидев маму вышла укрытия умная рассказала случилось плача вышла замарашка убить волка навстречу идёт лиса спрашивает лиса замарашку</p>
-      <p>случилось рассказала замарашка волк съел её дочерей иди домой готовить чуду спасу твоих девочек сказала лиса пошла лиса волку нашла лежащим животом вверх асаламу алейкум волк ва алейкум салам лиса любишь играть игры люблю пошли каток кататься пошли пошли волк лисой каток кататься хитрая лиса говорит волку мол первым выходи лёд вышел волк лёд первым вслед вышла лиса помочилась волк примёрз ко льду хорошенько примёрз позвала лиса</p>
-      <p>эй замарашка возьми саблю возьми топор возьми также тяпку беги сюда скорей</p>
-      <p>прибежала замарашка топором ударила волка животу лопнул живот волка вышли наружу девочки став красивыми пришли домой приготовила замарашка дома чуду девочкам творога лисе золы положила чуду лиса говорит замарашке</p>
-      <p>двор вызывают замарашка вышла тарелку чуду золы которая лиса поставила девочками сама убежала украв тарелку чуду творога которая девочками</p>
-      <p>лопнула сказка порвался бурдюк</p>
-    </body>
-  </text>
-</TEI>
+     <head>ЗАМАРАШКА</head>
+     <p>болячка девочек девочкам дровами дурная замарашка замарашка кривая лысая начала неё одна однажды плешивая пойти семь сказала собираться строго умная хромая</p><p>буду ваша ваша волк волк волк волк волк волк волк волк волка встречает глупая говорила голос дверь дверь дверь дверь девочек девочек девочек девочки девочки девочки девочки делам дом дома дороге дровами ешь её замарашка замарашка замарашка замарашка запрыгнул игрались идёт идёшь кинулась красное красные лес лесу лоскутки малины мама мама мама мамы мерку местечко моих навстречу наша нашей невредима неё никому обещал обратно осталась остальные остальных ответил ответил открывайте открывайте открывать открыли платье побежали показал попалась послушали пошёл принесу своим сказала сказала сказали слышат смотри спросил спросила спросили стучат съев съел сёстры тебе углу укромное умная умная цела</p><p>замарашка крови пасть спрашивает</p><p>волк кустах ответил птичку съел это</p><p>волка вышла вышла дверь домой замарашка замарашка замарашку идёт лиса лиса маму навстречу нашла открытой плача пришла рассказала случилось спрашивает убить увидев укрытия умная</p><p>алейкум алейкум асаламу ва вверх волк волк волк волк волк волку волку вслед выходи вышел вышла говорит готовить девочек домой дочерей её животом замарашка играть игры иди кататься кататься каток каток ко лежащим лиса лиса лиса лиса лиса лиса лисой льду любишь люблю лёд лёд мол нашла первым первым позвала помочилась пошла пошли пошли пошли примёрз примёрз рассказала салам сказала случилось спасу съел твоих хитрая хорошенько чуду</p><p>беги возьми возьми возьми замарашка саблю скорей сюда также топор тяпку эй</p><p>волка волка вышли говорит девочкам девочки дома домой живот животу замарашка замарашка замарашке золы красивыми лиса лисе лопнул наружу положила прибежала приготовила пришли став творога топором ударила чуду чуду</p><p>вызывают вышла двор девочками девочками замарашка золы которая которая лиса поставила сама тарелку тарелку творога убежала украв чуду чуду</p><p>бурдюк лопнула порвался сказка</p></body>
+   </text>
+  </TEI>

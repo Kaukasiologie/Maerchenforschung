@@ -1,117 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
-          </publicationStmt>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
+       </publicationStmt>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="2017"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement/>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date from="2017" />
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName />
+       <age />
+       <birth>
+        <address>
+         <district />
+         <settlement />
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_2">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_2">
     <body>
-      <head>О том, как арчинец поймал вора</head>
-      <p>вор которого могли поймать хан нукеры хана всему народу кумуха всем людям хан объявил отдаст половину права царствовать тому поймает вора приведет нему арчинцы услышали</p>
-      <p>арчинец отправился хану дай дня поймаю вора приведу тебе сказал</p>
-      <p>прошло дня арчинец поймал вора которого никто мог найти привел ха хан спросил вора почему занимался воровством вор сказал семеро детей бедная несчастная голодная семья посмотри одет сказал вор поэтому воровал ответил веришь отправь своих визиров посмотреть дом мое хозяйство</p>
-      <p>хан пожалел вора привел дворец дал еду достаточную семьи золото серебро дал спас наказания отправил домой</p>
-      <p>пу арчинец выходи вперед согласно нашей договоренности тебе половину права царствовать должен дать настоящего мужчины одно слово должно сказал хан течение двух дней посадил арчинца свой трон</p>
-      <p>арчинец начал эксплуатировать подвергать мучениям народ увидев жестокость выдержав гнета работал нового хана ушли третий день хан сказал возьми коня оружие возьми сколько хочешь золота серебра уйди трона ваши арчинские люди знают пощады народ мучить</p>
-      <p>говорят одного арчинца посадили трон хана</p>
-    </body>
-  </text>
-</TEI>
+     <head>О том, как арчинец поймал вора</head>
+     <p>арчинцы вор вора всем всему которого кумуха людям могли народу нему нукеры объявил отдаст поймает поймать половину права приведет тому услышали хан хан хана царствовать</p><p>арчинец вора дай дня отправился поймаю приведу сказал тебе хану</p><p>арчинец бедная веришь визиров вор вор вора вора воровал воровством голодная детей дня дом занимался которого мог мое найти несчастная никто одет ответил отправь поймал посмотреть посмотри почему поэтому привел прошло своих семеро семья сказал сказал спросил ха хан хозяйство</p><p>вора дал дал дворец домой достаточную еду золото наказания отправил пожалел привел семьи серебро спас хан</p><p>арчинец арчинца вперед выходи дать двух дней договоренности должен должно мужчины настоящего нашей одно половину посадил права пу свой сказал слово согласно тебе течение трон хан царствовать</p><p>арчинец арчинские ваши возьми возьми выдержав гнета день жестокость знают золота коня люди мучениям мучить народ народ начал нового оружие подвергать пощады работал серебра сказал сколько третий трона увидев уйди ушли хан хана хочешь эксплуатировать</p><p>арчинца говорят одного посадили трон хана</p></body>
+   </text>
+  </TEI>

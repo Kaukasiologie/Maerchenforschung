@@ -1,139 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/802342/kvantlada.html"> Kvantlada</settlement>
-          <geo/>
-        </placeName>
-        <date>2010</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Шихабудин Г.</forename>
-            <surname xml:lang="rus">Абдулатипов</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1933</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/802342/kvantlada.html"> Kvantlada</settlement>
+       <geo />
+      </placeName>
+      <date>2010</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Шихабудин Г.</forename>
+        <surname xml:lang="rus">Абдулатипов</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1933</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_51">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_51">
     <body>
-      <head>НАДУМАННАЯ БОЛЕЗНЬ МОЛЛЫ НАСРЕДДИНА</head>
-      <p>молла насреддин женщина села которая готовила приворотные зелья хорошими друзьями неё узнал жена любит другого мужчину хочет приготовили зелье которого молла насреддин ослепнет подговорил женщину которая готовит зелья сказать жене та придёт следующий хочешь молла насреддин ослеп режь корову которая имеется дома всем этим мясом угостив никого маленьким кусочком корми своего мужа</p>
-      <p>прошло времени дня условились пришла жена моллы насреддина женщине которая готовит зелья</p>
-      <p>хочешь молла насреддин ослеп режь корову которая имеется дома всем этим мясом угостив никого маленьким кусочком корми своего мужа сказала та женщина</p>
-      <p>возвратилась жена моллы насреддина домой предложила мужу резать корову муж соглашался резать жена никак угомонилась заставила моллу насреддина резать единственную корову ел ел молла насреддин мясо ел чаще начал притворяться слепнет шаря руками ходил съел всё коровье мясо молла насреддин сделал вид ослеп полностью жена постелила постель ближе порогу появился сердечный друг её готовила чуду пока готовила чуду решив отдохнуть мужчина прилег заснул печи супруги моллы насреддина стояла полная кастрюля масла которую топила подождав пока масло закипит улучив момент жена выйдет комнаты делам молла насреддин влил кипящее масло глотку сердечного друга жены который спал разинув рот захлебнувшись умер лёжа своей постели притворяясь спящим нетерпением ждал молла насреддин поступит жена</p>
-      <p>зашла жена дом начала кричать боже боже супруг мертвеца ка когото нам люди закинули будем делать это сделали желая нам зла посадить желая нам недоброго причитала никак позволяет поймать это волк тех сознает свои ошибки совершила такое многое неё ожидать расправиться подумал молла насреддин</p>
-      <p>закинули спрятать куданибудь отнести сказал жене решили бросить пропасть положив человека носилки сказал молла насреддин жене держи спереди веди вижу буду держать сзади идти носилками</p>
-      <p>спереди жена взяла сзади муж пошли пока шли молла насреддин жену которая шла спереди толкал носилками поваливал землю притворяясь видит сколько толкал терпела жена дошли пропасти сказала мужу дошли</p>
-      <p>дошли иди края останется наверху сказал молла насреддин</p>
-      <p>дошла края сказала отойдёт поставив носилки дальше некуда шагу делать некуда подумал молла насреддин пока жена ставила носилки землю толкнул скалы пропасть неверную жену вместе носилками придя домой лег</p>
-    </body>
-  </text>
-</TEI>
+     <head>НАДУМАННАЯ БОЛЕЗНЬ МОЛЛЫ НАСРЕДДИНА</head>
+     <p>всем готовила готовит дома другого друзьями жена жене женщина женщину зелье зелья зелья имеется корми корову которая которая которая которого кусочком любит маленьким молла молла молла мужа мужчину мясом насреддин насреддин насреддин неё никого ослеп ослепнет подговорил приворотные приготовили придёт режь своего села сказать следующий та угостив узнал хорошими хочет хочешь этим</p><p>времени готовит дня жена женщине зелья которая моллы насреддина пришла прошло условились</p><p>всем дома женщина имеется корми корову которая кусочком маленьким молла мужа мясом насреддин никого ослеп режь своего сказала та угостив хочешь этим</p><p>ближе вид влил возвратилась всё выйдет глотку готовила готовила делам домой друг друга единственную ел ел ел её ждал жена жена жена жена жена жены закипит заснул заставила захлебнувшись кастрюля кипящее комнаты корову корову коровье которую который лёжа масла масло масло молла молла молла молла моллу моллы моллы момент муж мужу мужчина мясо мясо насреддин насреддин насреддин насреддин насреддина насреддина насреддина начал нетерпением никак ослеп отдохнуть печи подождав пока пока полная полностью порогу постели постелила постель поступит появился предложила прилег притворяться притворяясь разинув резать резать резать решив рот руками своей сделал сердечного сердечный слепнет соглашался спал спящим стояла супруги съел топила угомонилась улучив умер ходил чаще чуду чуду шаря</p><p>боже боже будем волк делать дом желая желая жена закинули зашла зла ка когото кричать люди мертвеца многое молла нам нам нам насреддин начала недоброго неё никак ожидать ошибки подумал позволяет поймать посадить причитала расправиться свои сделали совершила сознает супруг такое тех это это</p><p>бросить буду веди вижу держать держи жене жене закинули идти куданибудь молла насреддин носилками носилки отнести положив пропасть решили сзади сказал сказал спереди спрятать человека</p><p>взяла видит дошли дошли жена жена жену землю которая молла муж мужу насреддин носилками поваливал пока пошли притворяясь пропасти сзади сказала сколько спереди спереди терпела толкал толкал шла шли</p><p>дошли иди края молла наверху насреддин останется сказал</p><p>вместе дальше делать домой дошла жена жену землю края лег молла насреддин неверную некуда некуда носилками носилки носилки отойдёт подумал пока поставив придя пропасть сказала скалы ставила толкнул шагу</p></body>
+   </text>
+  </TEI>

@@ -1,174 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
-          <geo/>
-        </placeName>
-        <date>1961</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Абдурагим</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-          <age>62</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
+       <geo />
+      </placeName>
+      <date>1961</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Абдурагим</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+       <age>62</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_138">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_138">
     <body>
-      <head>ПРОДАВЕЦ САНДАЛОВОГО ДЕРЕВА</head>
-      <p>однажды пришел некоему человеку гость издалека время беседы спрашивает хозяин</p>
-      <p>базаре особенно ценится</p>
-      <p>гость говорит ценного сандаловое дерево оно дороже золота</p>
-      <p>горец услыхал разговор решил попытать счастья па чужбине оп погрузил па осла драгоценное дерево отправился путь ранним утром добрался тех мест остановился краю базара шла мимо воду старуха остановилась спрашивает</p>
-      <p>нового чужеземец торговать па нашем базаре собираешься</p>
-      <p>путник отвечает</p>
-      <p>привез сандаловое дерево</p>
-      <p>твой товар очепъ хорош говорит старуха проведут наши купцы большие мастера па обман плутни сумеешь заработать</p>
-      <p>нс успела старуха отойти горцу подошли купца которые успели приметить товар загорелись надеждой перехитрить хозяина</p>
-      <p>привез чужеземец спрашивают</p>
-      <p>сандаловое дерево отвечает горец</p>
-      <p>печи топим базар нести равно никто купит говорит</p>
-      <p>путник опечалился задумался кому верить этим людям топ старухе</p>
-      <p>силл груз осла говорит</p>
-      <p>жгут сандал могу пз костер разжечь нем чай вскипятить н стал разжигать костер</p>
-      <p>увидел это купцов которые нарочно отошли подальше быстро вернулся обратно говорит</p>
-      <p>вез дерево издалека дай ка выручу нс сжигать продай сандал</p>
-      <p>дашь спрашивает горец</p>
-      <p>наполню сах любым товаром каким пожелаешь отвечает купец</p>
-      <p>обрадовался горец отдал ому весь товар стал ходить базару</p>
-      <p>кидается нему одноглазый человек кричит мол глаз чужеземца пусть вырвет п вернет хозяину</p>
-      <p>пошли онп судиться кадию велел решением приходить завтра горец добрел базару наткнулся па игроков карты сел играть ними проиграл картежники потребовали проигрыш выпил море запутавшись этих бедах удрученный вернулся горец своему ослу снова увидел старуху которая посоветовала осторожным</p>
-      <p>сделал можешь похвастаться спросила опа бедняга рассказал своих злоключениях</p>
-      <p>старуха говорит</p>
-      <p>селе очень мудрый старик купцы каждый вечер ходят нему рассказать своих проделках поучиться уму разуму новым хитростям сможешь незаметно пробраться нему дом подслушать весь разговор особенпо скажет старик спасен сможешь значит пропал</p>
-      <p>вечером горец пробрался дом старика спрятался полог стал слушать заговорил купец который купил горца товар п рассказывает</p>
-      <p>сегодня обманул одного простака выманил пего целый вьюк сандалового дерева обмен сах любого товара</p>
-      <p>старик говорит ому</p>
-      <p>горец поразмыслит тебе придется туго</p>
-      <p>ои сделать удивился купец</p>
-      <p>предложить тебе наполнил сах блохами причем наполовину самцами наполовину самками</p>
-      <p>скажешь откуда такое придет голову этому тупоголовому рассмеялся купец</p>
-      <p>затем поднялся одноглазый рассказал своем виге</p>
-      <p>встретил одного невежду обвинил нго присвоил глаз завтра решению суда вырвут глаз</p>
-      <p>тебе поздоровится найдет сказать заметил старик</p>
-      <p>это почему удивился кривой</p>
-      <p>предложить тебе такое дело вырывай свой глаз вырву свой взвесим вес окажется одинаковым значит глаз твой глаз останется вовсе ослепнешь</p>
-      <p>додуматься беспечно бросил одноглазый сел</p>
-      <p>картежников рассказал проигравшему поставили невыполнимое условие море выпить</p>
-      <p>старик головой покачал</p>
-      <p>нелегко тебе придется оп сообразит правильно етить</p>
-      <p>сказать спрашивает картежник</p>
-      <p>скажет ладно мол выпью море ту воду которую приносят пего реки останови реки вьгпыо море остатка</p>
-      <p>однако картежник усомнился таком исходе дела</p>
-      <p>л па другое утро горец сделал говорил старик собрал своих врагов целый вьюк золота радостный вернулся домой</p>
-    </body>
-  </text>
-</TEI>
+     <head>ПРОДАВЕЦ САНДАЛОВОГО ДЕРЕВА</head>
+     <p>беседы время гость издалека некоему однажды пришел спрашивает хозяин человеку</p><p>базаре особенно ценится</p><p>говорит гость дерево дороже золота оно сандаловое ценного</p><p>базара воду горец дерево добрался драгоценное краю мест мимо оп осла остановилась остановился отправился па па погрузил попытать путь разговор ранним решил спрашивает старуха счастья тех услыхал утром чужбине шла</p><p>базаре нашем нового па собираешься торговать чужеземец</p><p>отвечает путник</p><p>дерево привез сандаловое</p><p>большие говорит заработать купцы мастера наши обман очепъ па плутни проведут старуха сумеешь твой товар хорош</p><p>горцу загорелись которые купца надеждой нс отойти перехитрить подошли приметить старуха товар успела успели хозяина</p><p>привез спрашивают чужеземец</p><p>горец дерево отвечает сандаловое</p><p>базар говорит купит нести никто печи равно топим</p><p>верить задумался кому людям опечалился путник старухе топ этим</p><p>говорит груз осла силл</p><p>вскипятить жгут костер костер могу н нем пз разжечь разжигать сандал стал чай</p><p>быстро вернулся говорит которые купцов нарочно обратно отошли подальше увидел это</p><p>вез выручу дай дерево издалека ка нс продай сандал сжигать</p><p>горец дашь спрашивает</p><p>каким купец любым наполню отвечает пожелаешь сах товаром</p><p>базару весь горец обрадовался ому отдал стал товар ходить</p><p>вернет вырвет глаз кидается кричит мол нему одноглазый п пусть хозяину человек чужеземца</p><p>базару бедах велел вернулся выпил горец горец добрел завтра запутавшись играть игроков кадию картежники карты которая море наткнулся ними онп ослу осторожным па посоветовала потребовали пошли приходить проиграл проигрыш решением своему сел снова старуху судиться увидел удрученный этих</p><p>бедняга злоключениях можешь опа похвастаться рассказал своих сделал спросила</p><p>говорит старуха</p><p>весь вечер дом значит каждый купцы мудрый незаметно нему нему новым особенпо очень подслушать поучиться пробраться проделках пропал разговор разуму рассказать своих селе скажет сможешь сможешь спасен старик старик уму хитростям ходят</p><p>вечером горец горца дом заговорил который купец купил п полог пробрался рассказывает слушать спрятался стал старика товар</p><p>выманил вьюк дерева любого обманул обмен одного пего простака сандалового сах сегодня товара целый</p><p>говорит ому старик</p><p>горец поразмыслит придется тебе туго</p><p>купец ои сделать удивился</p><p>блохами наполнил наполовину наполовину предложить причем самками самцами сах тебе</p><p>голову купец откуда придет рассмеялся скажешь такое тупоголовому этому</p><p>виге затем одноглазый поднялся рассказал своем</p><p>встретил вырвут глаз глаз завтра нго невежду обвинил одного присвоил решению суда</p><p>заметил найдет поздоровится сказать старик тебе</p><p>кривой почему удивился это</p><p>вес взвесим вовсе вырву вырывай глаз глаз глаз дело значит одинаковым окажется ослепнешь останется предложить свой свой такое твой тебе</p><p>беспечно бросил додуматься одноглазый сел</p><p>выпить картежников море невыполнимое поставили проигравшему рассказал условие</p><p>головой покачал старик</p><p>етить нелегко оп правильно придется сообразит тебе</p><p>картежник сказать спрашивает</p><p>воду выпью вьгпыо которую ладно мол море море останови остатка пего приносят реки реки скажет ту</p><p>дела исходе картежник однако таком усомнился</p><p>вернулся врагов вьюк говорил горец домой другое золота л па радостный своих сделал собрал старик утро целый</p></body>
+   </text>
+  </TEI>

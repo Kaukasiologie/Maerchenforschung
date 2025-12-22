@@ -1,157 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tatische Folklore</title>
-        <title xml:lang="eng">Tat Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tatische Folklore</title>
+      <title xml:lang="eng">Tat Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ttt">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-          <geo/>
-        </placeName>
-        <date>1962</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Разимов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Я.</forename>
-            <surname xml:lang="rus">Ильягуев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Н.Х.</forename>
-            <surname xml:lang="rus">Авшалумовa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ttt">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+       <geo />
+      </placeName>
+      <date>1962</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Разимов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Я.</forename>
+        <surname xml:lang="rus">Ильягуев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Н.Х.</forename>
+        <surname xml:lang="rus">Авшалумовa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ttt_rus_8">
+   </teiHeader>
+   <text xml:id="cr_ttt_rus_8">
     <body>
-      <head>58 Кутум (тат.) </head>
-      <p>жили муж жена мужа звали бедел жену гюзель бедел гюзель который год жили вместе однако столько лет гюзель видела бедела хорошего дела услышала доброго слова бедел поводу повода избивал жену обижал упрекал женщина человек ум находится пятке ум мужчины сравнится женским</p>
-      <p>слова бедела колючки вонзались сердце бедной гюзель задумала отомстить обиды упреки</p>
-      <p>бедел посадил своем дворе картошку картошка выросла выкапывать сном бедел сказал своей жене</p>
-      <p>разбуди завтра утром пораньше выкопать картошку</p>
-      <p>наступления утра гюзель отправилась рыбаку имени нисим который жил поселке берегу моря купила десять свежих кутумов быстро вернулась домой прежде разбудить мужа гюзель закопала рыбу ботву быстренько легла свое место</p>
-      <p>наступило утро гюзель разбудила мужа сказала</p>
-      <p>эй муж выйди копать картошку пока работаешь приготовлю тебе завтрак</p>
-      <p>бедел захватив мешок лопату вышел двор одну вторую третью ботву выкопал бедел четвертой появилась голова кутума бедел сначала остолбенел немного погодя увидел ботвой кутума копая разных местах нашел десять кутумов собрав кутумов кучу стал радостно кричать</p>
-      <p>ой жена нам счастье привалило наша ботва дала урожая ботвой откопал десять кутумов</p>
-      <p>гюзель притворилась знает крикнула дома</p>
-      <p>эй муж ума сошел наш двор море огороде растет кутум прекрати свои глупые разговоры</p>
-      <p>бедела разозлили слова жены быстро вошел дом закричал</p>
-      <p>ослы твой отец такая сякая говорю тебе ботвой откопал десять свежих кутумов уложил друг друга пойду немного прогуляюсь улице зайду чайхану выпью пару стаканов чаю это время занеси кутумов домой нескольких пожарь сделай плов кутумами забудь поставить скатерть кувшинчик вина</p>
-      <p>бедел вышел улицу гюзель принесла спрятала кутумы бедел вернулся домой увидел вместо жареного кутума плова кутумом столе стоит постный суп спросил жены</p>
-      <p>ах дочь негодного тебе заказывал плов жареный кутум</p>
-      <p>гюзель притворившись видела знает ответила</p>
-      <p>заметила кутума кажется муж немного свихнулся иначе сказал такого</p>
-      <p>рассвирепел бедел схватил засов дверей коршуном бросился жену гюзель криками воплями выбежала улицу бедел засовом следом впереди бежит гюзель бедел вопли гюзель крики бедела собрались люди окружили сторон спрашивают</p>
-      <p>случилось такое</p>
-      <p>ай добрый народ стала жертвой плача произнесла гюзель сперва спросите моего негодного мужа хочет почему бегает мной этим засовом избить</p>
-      <p>бедел сказал сегодня утром нашел картофельной ботвой огороде десять свежих кутумов поручил жене приготовила плов кутумами нескольких пожарила жена отрицает нашел кутумы говорит вру видела никаких кутумов</p>
-      <p>собравшиеся люди самом деле подумали бедел тронулся умом отняли засов схватили руки притащили домой предупредили гюзель сказали</p>
-      <p>начнет повторять самое кутумах значит окончательно тронулся обязательно заключить сумасшедший дом</p>
-      <p>вечером гюзель принесла полный поднос плова бедел сидел углу комнаты думал видел кутумы сне наяву самом деле говорят жена люди свихнулся своем уме</p>
-      <p>бедел нехотя взял ложку начал плов риса снова показалась голова кутума глаза полезли лоб тотчас словно ужаленный скорпионом вскочил ноги стал твердить крутя головой бреду кутум кутум кутум кутум</p>
-      <p>гюзель видит муж самом деле начинает сходить ума стало жалко лестью уговорами посадила обратно стол рассказала правду кутумах немного успокоившись бедел спросил гюзель</p>
-      <p>сделала это опозорила всем народом</p>
-      <p>смеялся мной говорил глупая ум женщины сравнится мужским всякое другое</p>
-    </body>
-  </text>
-</TEI>
+     <head>58 Кутум (тат.) </head>
+     <p>бедел бедел бедел бедела видела вместе год гюзель гюзель гюзель дела доброго жена женским жену жену женщина жили жили звали избивал который лет муж мужа мужчины находится обижал однако повода поводу пятке слова сравнится столько ум ум упрекал услышала хорошего человек</p><p>бедела бедной вонзались гюзель задумала колючки обиды отомстить сердце слова упреки</p><p>бедел бедел выкапывать выросла дворе жене картошка картошку посадил своей своем сказал сном</p><p>выкопать завтра картошку пораньше разбуди утром</p><p>берегу ботву быстренько быстро вернулась гюзель гюзель десять домой жил закопала имени который купила кутумов легла место моря мужа наступления нисим отправилась поселке прежде разбудить рыбаку рыбу свежих свое утра</p><p>гюзель мужа наступило разбудила сказала утро</p><p>выйди завтрак картошку копать муж пока приготовлю работаешь тебе эй</p><p>бедел бедел бедел ботвой ботву вторую выкопал вышел голова двор десять захватив копая кричать кутума кутума кутумов кутумов кучу лопату местах мешок нашел немного одну остолбенел погодя появилась радостно разных сначала собрав стал третью увидел четвертой</p><p>ботва ботвой дала десять жена кутумов нам наша ой откопал привалило счастье урожая</p><p>гюзель дома знает крикнула притворилась</p><p>глупые двор кутум море муж наш огороде прекрати разговоры растет свои сошел ума эй</p><p>бедела быстро вошел дом жены закричал разозлили слова</p><p>ботвой вина время выпью говорю десять домой друг друга забудь зайду занеси кувшинчик кутумами кутумов кутумов немного нескольких ослы отец откопал пару плов пожарь пойду поставить прогуляюсь свежих сделай скатерть стаканов сякая такая твой тебе улице уложил чайхану чаю это</p><p>бедел бедел вернулся вместо вышел гюзель домой жареного жены кутума кутумом кутумы плова постный принесла спросил спрятала стоит столе суп увидел улицу</p><p>ах дочь жареный заказывал кутум негодного плов тебе</p><p>видела гюзель знает ответила притворившись</p><p>заметила иначе кажется кутума муж немного свихнулся сказал такого</p><p>бедел бедел бедел бедела бежит бросился вопли воплями впереди выбежала гюзель гюзель гюзель дверей жену засов засовом коршуном криками крики люди окружили рассвирепел следом собрались спрашивают сторон схватил улицу</p><p>случилось такое</p><p>ай бегает гюзель добрый жертвой засовом избить мной моего мужа народ негодного плача почему произнесла сперва спросите стала хочет этим</p><p>бедел ботвой видела вру говорит десять жена жене картофельной кутумами кутумов кутумов кутумы нашел нашел нескольких никаких огороде отрицает плов пожарила поручил приготовила свежих сегодня сказал утром</p><p>бедел гюзель деле домой засов люди отняли подумали предупредили притащили руки самом сказали собравшиеся схватили тронулся умом</p><p>дом заключить значит кутумах начнет обязательно окончательно повторять самое сумасшедший тронулся</p><p>бедел вечером видел говорят гюзель деле думал жена комнаты кутумы люди наяву плова поднос полный принесла самом свихнулся своем сидел сне углу уме</p><p>бедел бреду взял вскочил глаза голова головой крутя кутум кутум кутум кутум кутума лоб ложку начал нехотя ноги плов показалась полезли риса скорпионом словно снова стал твердить тотчас ужаленный</p><p>бедел видит гюзель гюзель деле жалко кутумах лестью муж начинает немного обратно посадила правду рассказала самом спросил стало стол сходить уговорами ума успокоившись</p><p>всем народом опозорила сделала это</p><p>всякое глупая говорил другое женщины мной мужским смеялся сравнится ум</p></body>
+   </text>
+  </TEI>

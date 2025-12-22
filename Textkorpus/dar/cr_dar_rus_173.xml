@@ -1,141 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/550844/khadzhalmakhi.html">Khadzhalmakhi</settlement>
-          <geo/>
-        </placeName>
-        <date>1958</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Магомед</forename>
-            <surname xml:lang="rus">Дибиралиев</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.-З.</forename>
-            <surname xml:lang="rus">Осмапов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/550844/khadzhalmakhi.html">Khadzhalmakhi</settlement>
+       <geo />
+      </placeName>
+      <date>1958</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Магомед</forename>
+        <surname xml:lang="rus">Дибиралиев</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.-З.</forename>
+        <surname xml:lang="rus">Осмапов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_173">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_173">
     <body>
-      <head>ЗЛОЙ БЫВАЮ — СОРОК УБИВАЮ</head>
-      <p>жил свете бедный юноша тяжелый год нечего погибнуть голода нанялся одному богачу пясти овец однажды жаркий летний день оп пастбище овцы жары перестали щипать траву сбились кучу юноша отошел сторонку темь п решил прилечь травку неподалеку оп заметил рой мух тихонько подкрался ударил размаху своей крепкой палкой мухи взлетели однако многие остались лежать стал юноша пх считать п насчитал сорок штук гордость наполни ла сказал</p>
-      <p>могу одним ударом сразу сорок свалить пасу этих овец пет пе пристало возиться ними</p>
-      <p>ом уселся тенек вырезал своей палке слова злой бываю сорок убиваю встал отряхнулся пошел глаза глядят оставив овец месте шел оп шел дошел одного родника очень устал решил отдохнуть остановился родника попил воды прилег па травке уснул л недалеко родника жили сорок братьев нартов каждый день пмх приходил источнику водой день очередь самого младшего подошел роднику хотел набрать воды момент заметил юпошу</p>
-      <p>это человек появился наших краях иоду мыл оп подошел юноше заметил палке чужеземца надпись разобрал надпись обуял ужас оп сразу бросился бежать забыв оп сюда приходил</p>
-      <p>прибежал оп домой запыхавшись братья расспрашивают случилось почему оп принос воды младший брат отвечает рядом родником спит богатырь палке пего написало злой бываю сорок убиваю братья услыхав таком силаче обрадова лнсь решили подружиться помог бороться врагами дай думают пригласим собе пришли роднику остановились вокруг юноши сохраняя почтительное молчание п всякий случай нс подходя близко бьт сне случайно задел прибил спустя немного времени юноша завозился завертелся глаза открыл увидев иартов оп перепугался страха отпялен язык нарты подумали лицо перекосилось гнева п почтительно сняли шапки поклонились затем самый старший приблизился юноше произнес приветствие н сказал</p>
-      <p>давно искали такого человека очепъ рады твоему приходу н приглашаем наш дом будешь жить нами станешь нашим старшим бра ом желания твои будут законом будем выполнять прикажешь пе сделаем запретишь</p>
-      <p>юноше очень понравилась эта речь ои дальнейших уговоров принял приглашспие братьев пошли домой поговорили сем йотом юноша улегся спать прожил несколько дней пе делая принимая должное знаки уважения послушания которые оказывали</p>
-      <p>однажды братья узнали па идот большое войско врагов против обыкновения п беспокоиться пе стали ибо уверены побратим легко справится всеми врагами день боя нарты посадили юпошу горячего н сильного ооевого кодя привязали ноги коня пе упал послали бой юноша душе надеялся быстренько повернет коня ускачет подальше боя ттартов боевой кодь рвался бой богатырь старался повернуть обратно удалось видя копь несет самую гущу врагов юноша стал хвататься ветви больших деревьев остановить коня самому остаться дереве копь мчался ветер выдергивая корнем деревья которые хватался юноша влетели самую гущу вражеского войска копь несущийся бурный ноток юноша деревьями руках копе копь несколько пробежал середине вражеского войска оно рассеяно растоптано задавлено огромными деревьями которые волочил собой юноша доле боя никого пе осталось копъ повернул обратно</p>
-      <p>братья пстердепием ожидали побратима увидели пих движется целый лес смотрят это богатырь па коне руках деревья юноша никак страха оправится деревья рук выпускает</p>
-      <p>это руках спросили нарты</p>
-      <p>ах заметил небрежно сказал юнота пусть остаются дрова</p>
-      <p>этих дров говорят хватило зиму богатырь</p>
-    </body>
-  </text>
-</TEI>
+     <head>ЗЛОЙ БЫВАЮ — СОРОК УБИВАЮ</head>
+     <p>бедный богачу взлетели год голода гордость день жаркий жары жил заметил крепкой кучу ла лежать летний многие мух мухи нанялся наполни насчитал неподалеку нечего овец овцы однажды однако одному оп оп остались отошел п п палкой пастбище перестали погибнуть подкрался прилечь пх пясти размаху решил рой сбились свете своей сказал сорок стал сторонку считать темь тихонько травку траву тяжелый ударил штук щипать юноша юноша юноша</p><p>возиться могу ними овец одним пасу пе пет пристало свалить сорок сразу ударом этих</p><p>братьев бываю водой воды воды встал вырезал глаза глядят день день дошел жили заметил злой источнику каждый л месте младшего момент набрать нартов недалеко овец одного ом оп оставив остановился отдохнуть отряхнулся очень очередь па палке пмх подошел попил пошел прилег приходил решил родника родника родника роднику самого своей слова сорок сорок тенек травке убиваю уселся уснул устал хотел шел шел юпошу</p><p>бежать бросился забыв заметил иоду краях мыл надпись надпись наших обуял оп оп оп палке подошел появился приходил разобрал сразу сюда ужас человек чужеземца это юноше</p><p>близко богатырь бороться брат братья братья бываю бьт воды вокруг врагами времени всякий глаза гнева дай домой думают завертелся завозился задел запыхавшись затем злой иартов лицо лнсь младший молчание н написало нарты немного нс обрадова оп оп оп остановились отвечает открыл отпялен п п палке пего перекосилось перепугался подружиться подумали подходя поклонились помог почему почтительно почтительное прибежал прибил приблизился приветствие пригласим принос пришли произнес расспрашивают решили родником роднику рядом самый силаче сказал случай случайно случилось сне сняли собе сорок сохраняя спит спустя старший страха таком убиваю увидев услыхав шапки юноша юноше юноши язык</p><p>бра будем будешь будут выполнять давно дом желания жить законом запретишь искали н нами наш нашим ом очепъ пе приглашаем прикажешь приходу рады сделаем станешь старшим такого твоему твои человека</p><p>братьев дальнейших делая дней должное домой знаки йотом которые несколько ои оказывали очень пе поговорили понравилась послушания пошли приглашспие принимая принял прожил речь сем спать уважения уговоров улегся эта юноша юноше</p><p>беспокоиться богатырь боевой бой бой больших большое боя боя боя братья бурный быстренько ветви ветер видя влетели войска войска войско волочил врагами врагов врагов вражеского вражеского всеми выдергивая горячего гущу гущу день дереве деревьев деревья деревьями деревьями доле душе задавлено ибо идот кодь кодя коня коня коня копе копъ копь копь копь копь корнем которые которые легко мчался н надеялся нарты несет несколько несущийся никого ноги ноток обратно обратно обыкновения огромными однажды оно ооевого осталось остановить остаться п па пе пе пе побратим повернет повернул повернуть подальше посадили послали привязали пробежал против рассеяно растоптано рвался руках самому самую самую середине сильного собой справится стал стали старался ттартов уверены удалось узнали упал ускачет хватался хвататься юноша юноша юноша юноша юноша юпошу</p><p>богатырь братья выпускает движется деревья деревья коне лес никак ожидали оправится па пих побратима пстердепием рук руках смотрят страха увидели целый это юноша</p><p>нарты руках спросили это</p><p>ах дрова заметил небрежно остаются пусть сказал юнота</p><p>богатырь говорят дров зиму хватило этих</p></body>
+   </text>
+  </TEI>

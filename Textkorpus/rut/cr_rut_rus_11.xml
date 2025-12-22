@@ -1,147 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Rutulisch Folklore</title>
-        <title xml:lang="eng">Rutul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Rutulisch Folklore</title>
+      <title xml:lang="eng">Rutul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="rut">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
-          <settlement ref="https://www.geonames.org/500316/rutul.html">Rutul</settlement>
-          <geo/>
-        </placeName>
-        <date>1973</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Н.Ю.</forename>
-            <surname xml:lang="rus">Рамазанов</surname>
-          </persName>
-          <age>З.</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимовa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="rut">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
+       <settlement ref="https://www.geonames.org/500316/rutul.html">Rutul</settlement>
+       <geo />
+      </placeName>
+      <date>1973</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Н.Ю.</forename>
+        <surname xml:lang="rus">Рамазанов</surname>
+       </persName>
+       <age>З.</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимовa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_rut_rus_11">
+   </teiHeader>
+   <text xml:id="cr_rut_rus_11">
     <body>
-      <head>99 Украденное яйцо (рут.) </head>
-      <p>давным давно одном селении жили очень бедная женщина сын настолько бедны часто доме бывало куска хлеба мать нанялась работу одному очень богатому жадному человеку который искал таких работников которым поменьше платить раннего утра позднего вечера разгибая спины работала поле человека годы прошли сын вырос</p>
-      <p>ком рассказать рассказ сыне сын повзрослел стал известным вором искали никак могли поймать таскал кур яйца скотину чужих хлевов вещи дома пропускал садов огородов люди долго искали вора мучились попался</p>
-      <p>слух облетел село сельчане облегченно вздохнули весь народ собрался годекане падишах визири незиры пришли судить вора решили повесить глазах народа</p>
-      <p>услышав это молодой вор произнес</p>
-      <p>правы совершил плохих поступков должен понести заслуженное наказание последняя просьба падишах продлится твоя жизнь взмолился вор</p>
-      <p>пожалуйста говори хотел сделать тебе это разрешим ответил падишах</p>
-      <p>позвольте последний поцеловать мою мать попросил юноша</p>
-      <p>вах любишь мать сделай это сказал падишах обратился своему визирю позовите сюда мать</p>
-      <p>мать вся слезах подошла своему сыну сын приблизился вплотную сделав вид целует откусил язык изо рта матери потекла кровь</p>
-      <p>ах бессовестный такое натворил вскликнул падишах</p>
-      <p>вор стоял молчал падишах говорит</p>
-      <p>это сделал неспроста иначе поступил</p>
-      <p>затем обращаясь вору спросил</p>
-      <p>скажи нам почему поступил родной матерью</p>
-      <p>сын долго отвечал начал свой рассказ</p>
-      <p>джан люди мои дорогие сельчане произнес слезами произошло мной искалечена жизнь виноват язык моей матери который откусил знаете почему говорю дело будучи ребенком однажды украл соседей яйцо принес домой мать язык спросил достал взяла это яйцо сделала яичницу принес курицу спросила насыпала курице зерно пошло воровал это принимала одобряла язык молчал спросил это взял мать вовремя наказала наверно вырос честный человек закончил свой рассказ</p>
-      <p>снимите снимите шеи петлю крикнул падишах должны наказать мать изгоним села вора разрешим появляться мать лишим возможности видеть находиться это подобно смерти сына наказание страшнее виновата случившемся мать поэтому наказываем пусть мучается сказал падишах</p>
-      <p>согласились мудрым решением падишаха</p>
-    </body>
-  </text>
-</TEI>
+     <head>99 Украденное яйцо (рут.) </head>
+     <p>бедная бедны богатому бывало вечера вырос годы давно давным доме жадному женщина жили искал который которым куска мать нанялась настолько одном одному очень очень платить позднего поле поменьше прошли работала работников работу разгибая раннего селении спины сын сын таких утра хлеба часто человека человеку</p><p>вещи вора вором долго дома известным искали искали ком кур люди могли мучились никак огородов повзрослел поймать попался пропускал рассказ рассказать садов скотину стал сын сыне таскал хлевов чужих яйца</p><p>весь вздохнули визири вора глазах годекане народ народа незиры облегченно облетел падишах повесить пришли решили село сельчане слух собрался судить</p><p>вор молодой произнес услышав это</p><p>взмолился вор должен жизнь заслуженное наказание падишах плохих понести последняя поступков правы продлится просьба совершил твоя</p><p>говори ответил падишах пожалуйста разрешим сделать тебе хотел это</p><p>мать мою позвольте попросил последний поцеловать юноша</p><p>вах визирю любишь мать мать обратился падишах позовите своему сделай сказал сюда это</p><p>вид вплотную вся изо кровь матери мать откусил подошла потекла приблизился рта своему сделав слезах сын сыну целует язык</p><p>ах бессовестный вскликнул натворил падишах такое</p><p>вор говорит молчал падишах стоял</p><p>иначе неспроста поступил сделал это</p><p>вору затем обращаясь спросил</p><p>матерью нам поступил почему родной скажи</p><p>долго начал отвечал рассказ свой сын</p><p>будучи взял взяла виноват вовремя воровал вырос говорю дело джан домой дорогие достал жизнь закончил зерно знаете искалечена который курице курицу люди матери мать мать мной моей мои молчал наверно наказала насыпала однажды одобряла откусил почему пошло принес принес принимала произнес произошло рассказ ребенком свой сделала сельчане слезами соседей спросил спросил спросила украл человек честный это это это язык язык язык яичницу яйцо яйцо</p><p>видеть виновата возможности вора должны изгоним крикнул лишим мать мать мать мучается наказание наказать наказываем находиться падишах падишах петлю подобно поэтому появляться пусть разрешим села сказал случившемся смерти снимите снимите страшнее сына шеи это</p><p>мудрым падишаха решением согласились</p></body>
+   </text>
+  </TEI>

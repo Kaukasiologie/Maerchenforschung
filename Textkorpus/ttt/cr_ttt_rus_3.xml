@@ -1,169 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tatische Folklore</title>
-        <title xml:lang="eng">Tat Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tatische Folklore</title>
+      <title xml:lang="eng">Tat Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus">Золотой сундук: Сказки татов Дагестана </title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus">Сост. и примеч. А. Кукуллу. М.: Наука, 1974 Зуева ТВ. Волшебная сказка. М., 1993</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus">Золотой сундук: Сказки татов Дагестана </title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus">Сост. и примеч. А. Кукуллу. М.: Наука, 1974 Зуева ТВ. Волшебная сказка. М., 1993</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ttt">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/550478/khasavyurt.html">Khasavyurt</settlement>
-          <geo/>
-        </placeName>
-        <date>1964</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Б.</forename>
-            <surname xml:lang="rus">Назаров</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Кукуллу</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Кукуллу</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ttt">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/550478/khasavyurt.html">Khasavyurt</settlement>
+       <geo />
+      </placeName>
+      <date>1964</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Б.</forename>
+        <surname xml:lang="rus">Назаров</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Кукуллу</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Кукуллу</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ttt_rus_3">
+   </teiHeader>
+   <text xml:id="cr_ttt_rus_3">
     <body>
-      <head> 68 Глухой, слепой и безногий (тaт.) </head>
-      <p>одном древнем ауле жили брата глухой слепой безногий жили бедно однажды решили пойти лес поохотиться недолго собирались сакле слепой посадил безногого плечи глухой взял руку слепого отправились лес построили братья шалаш сделали кизилового дерева лук камыша стрелы стали охотиться</p>
-      <p>однажды темной сырой чаще братья набрели маленькую саклю постучались дверь стук вышла девушка братья рассказали предложили</p>
-      <p>будь нам сестрой будем ходить охоту будешь ухаживать нами</p>
-      <p>девушка согласилась стали жить вместе</p>
-      <p>братья ушли охоту сестра осталась сакле готовить обед день братья забыли оставить дома огонь девушке нечем разжечь очаг взобралась высокий дуб стала смотреть жгут поблизости костер</p>
-      <p>вскоре заметила вдалеке струйку дыма слезла дерева поспешила тому месту долго пробиралась сквозь густую чащу вышла одинокой полуразвалившейся сакле девушка постучалась дверь сакли открыла старая престарая эней глаза горели волка завидевшего добычу волосы седые растрепанные изо рта торчали клыка ногти руках напоминали когти барса укорачивались удлинялись</p>
-      <p>пришла спросила эней басом нашла сюда дорогу</p>
-      <p>пришла попросить огня ответила девушка рассказала</p>
-      <p>значит соседи заходи будь гостьей сказала эней усмехнулась провела девушку саклю сняла гвоздя сито насыпала золы нагребла очага горящих углей</p>
-      <p>девушка взяла сито углями поблагодарила старуху ушла вернувшись домой стала разжигать очаг это время дверь постучали девушка открыла дверь видит пороге стоит эней</p>
-      <p>скучно одной пришла гости прямо порога проговорила старуха</p>
-      <p>проходи дом</p>
-      <p>эней зашла саклю села ковер разостланный полу говорит</p>
-      <p>соседка хочешь поищу голове</p>
-      <p>девушка согласилась села рядом гостьей положила голову колени старуха искала искала голове усыпила девушку уснула эней проколола голову иголкой стала высасывать мозг старуха дунула девушке нос та проснулась эней поблагодарила гостеприимство ушла девушка почувствовала сил встать осталась лежать</p>
-      <p>вечером братья вернулись богатой добычей вошли саклю видят сестра лежит полу встревоженные братья стали расспрашивать сестру рассказала братья догадались это дело рук эней</p>
-      <p>повадится сюда ходить сказал безногий придумал завтра идите охоту сестрой останусь сакле посадите притолоку буду сидеть эней переступит порог прыгну задушу</p>
-      <p>следующий день едва эней переступила порог безногий прыгнул стал душить старуха спокойно развела руки безногого повалила проколола голову стала высасывать мозг безногий ослабел остался лежать полу эней ушла</p>
-      <p>братья вернулись охоты безногий девушка рассказали случившемся</p>
-      <p>завтра дома останусь сказал слепой идите охоту посадите притолоку</p>
-      <p>следующий день эней снова пришла переступила порог слепой прыгнул притолоки долго боролись одолела эней повалила пол стала высасывать мозг насосавшись вдоволь старуха ушла</p>
-      <p>вернулись братья охоты сестра рассказала случившемся</p>
-      <p>завтра очередь остаться дома сказал глухой</p>
-      <p>следующий день едва эней вошла саклю глухой прыгнул стал душить старуха взмолилась</p>
-      <p>слышишь глухой пощади сделаю прикажешь</p>
-      <p>ладно ответил глухой стал связывать</p>
-      <p>пришли охоты слепой безногий видят лежит полу связанная эней</p>
-      <p>просите хотите пощадите говорит эней</p>
-      <p>ладно говорит глухой сделай безногий брат стал ходить</p>
-      <p>эней проглотила безногого выплюнула ноги</p>
-      <p>сделай моего слепого брата зрячим приказал глухой проглотила старуха слепого выплюнула зрячим</p>
-      <p>вылечи глухого сказали старухе исцеленные братья проглотила эней глухого выплевывает</p>
-      <p>наш брат спрашивают те двое</p>
-      <p>эней смеется говорит</p>
-      <p>брата</p>
-      <p>сестра посмотрела окно увидела стая воробьев полетела кусты</p>
-      <p>кустах лежит говорит</p>
-      <p>выскочил двор братьев видит валяется огромный преогромный палец старухи схватил кинжал распорол палец оттуда вышел брат который глухим</p>
-      <p>брата сестра посоветовались решили убить закопать землю злую старуху сделали избавились вредной жестокой эней</p>
-      <p>несколько лет говорят братья разбогатели построили хорошие дома женились сестру выдали замуж стали жить поживать радость друг другу</p>
-    </body>
-  </text>
-</TEI>
+     <head> 68 Глухой, слепой и безногий (тaт.) </head>
+     <p>ауле бедно безногий безногого брата братья взял глухой глухой дерева древнем жили жили камыша кизилового лес лес лук недолго однажды одном отправились охотиться плечи пойти поохотиться посадил построили решили руку сакле сделали слепого слепой слепой собирались стали стрелы шалаш</p><p>братья братья вышла дверь девушка маленькую набрели однажды постучались предложили рассказали саклю стук сырой темной чаще</p><p>будем будешь будь нам нами охоту сестрой ухаживать ходить</p><p>вместе девушка жить согласилась стали</p><p>братья братья взобралась высокий готовить девушке день дома дуб жгут забыли костер нечем обед огонь оставить осталась охоту очаг поблизости разжечь сакле сестра смотреть стала ушли</p><p>барса вдалеке волка волосы вскоре вышла глаза горели густую дверь девушка дерева добычу долго дыма завидевшего заметила изо клыка когти месту напоминали ногти одинокой открыла полуразвалившейся поспешила постучалась престарая пробиралась растрепанные рта руках сакле сакли седые сквозь слезла старая струйку тому торчали удлинялись укорачивались чащу эней</p><p>басом дорогу нашла пришла спросила сюда эней</p><p>девушка огня ответила попросить пришла рассказала</p><p>будь гвоздя горящих гостьей девушку заходи значит золы нагребла насыпала очага провела саклю сито сказала сняла соседи углей усмехнулась эней</p><p>вернувшись взяла видит время дверь дверь девушка девушка домой открыла очаг поблагодарила пороге постучали разжигать сито стала старуху стоит углями ушла эней это</p><p>гости одной порога пришла проговорила прямо скучно старуха</p><p>дом проходи</p><p>говорит зашла ковер полу разостланный саклю села эней</p><p>голове поищу соседка хочешь</p><p>встать высасывать голове голову голову гостеприимство гостьей девушка девушка девушке девушку дунула иголкой искала искала колени лежать мозг нос осталась поблагодарила положила почувствовала проколола проснулась рядом села сил согласилась стала старуха старуха та уснула усыпила ушла эней эней</p><p>богатой братья братья братья вернулись вечером видят вошли встревоженные дело добычей догадались лежит полу рассказала расспрашивать рук саклю сестра сестру стали эней это</p><p>безногий буду завтра задушу идите останусь охоту переступит повадится порог посадите придумал притолоку прыгну сакле сестрой сидеть сказал сюда ходить эней</p><p>безногий безногий безногого высасывать голову день душить едва лежать мозг ослабел остался переступила повалила полу порог проколола прыгнул развела руки следующий спокойно стал стала старуха ушла эней эней</p><p>безногий братья вернулись девушка охоты рассказали случившемся</p><p>дома завтра идите останусь охоту посадите притолоку сказал слепой</p><p>боролись вдоволь высасывать день долго мозг насосавшись одолела переступила повалила пол порог притолоки пришла прыгнул следующий слепой снова стала старуха ушла эней эней</p><p>братья вернулись охоты рассказала сестра случившемся</p><p>глухой дома завтра остаться очередь сказал</p><p>взмолилась вошла глухой день душить едва прыгнул саклю следующий стал старуха эней</p><p>глухой пощади прикажешь сделаю слышишь</p><p>глухой ладно ответил связывать стал</p><p>безногий видят лежит охоты полу пришли связанная слепой эней</p><p>говорит пощадите просите хотите эней</p><p>безногий брат глухой говорит ладно сделай стал ходить</p><p>безногого выплюнула ноги проглотила эней</p><p>брата выплюнула глухой зрячим зрячим моего приказал проглотила сделай слепого слепого старуха</p><p>братья вылечи выплевывает глухого глухого исцеленные проглотила сказали старухе эней</p><p>брат двое наш спрашивают те</p><p>говорит смеется эней</p><p>брата</p><p>воробьев кусты окно полетела посмотрела сестра стая увидела</p><p>говорит кустах лежит</p><p>брат братьев валяется видит выскочил вышел глухим двор кинжал который огромный оттуда палец палец преогромный распорол старухи схватил</p><p>брата вредной жестокой закопать землю злую избавились посоветовались решили сделали сестра старуху убить эней</p><p>братья выдали говорят дома друг другу женились жить замуж лет несколько поживать построили радость разбогатели сестру стали хорошие</p></body>
+   </text>
+  </TEI>

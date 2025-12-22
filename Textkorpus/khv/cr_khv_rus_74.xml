@@ -1,140 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Chwarschinische Folklore</title>
-        <title xml:lang="eng">Khvarshi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Chwarschinische Folklore</title>
+      <title xml:lang="eng">Khvarshi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
+        <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
+        <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
+        <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
+        <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="khv"> Р. Ш. Каримова. ХЪВАРШИКIАЛЫС ФОЛʼКЛОР (ГIурус муцнокьол булIухху). Професcор, доктор Бернард Комри гIаммаб редакторлъи лигу</title>
-            <title xml:lang="rus">Р. Ш. Каримова ХВАРШИНСКИЙ ФОЛЬКЛОР (с переводом на русский язык) Под общей редакцией профессора, доктора Бернарда Комри</title>
-            <title xml:lang="eng">R. Sh. Karimova KHWARSHI FOLKLORE (with translation into Russian) The editor-in-chief Prof. Dr. Bernard Comrie</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="khv">МАКС ПЛАНКЛА ЦОДОКЬО ГОЛЛУ ЭВОЛЮЦИОНИ АНТРОПОЛОГИЙАС ИНСТИТУТ. ЛЕЙПЦИГ – МАХIАЧХЪАЛА 2014 </publisher>
-            <publisher xml:lang="rus">ИНСТИТУТ ЭВОЛЮЦИОННОЙ АНТРОПОЛОГИИ им. МАКСА ПЛАНКА. ЛЕЙПЦИГ – МАХАЧКАЛА 2014, стр. </publisher>
-            <publisher xml:lang="eng">MAX-PLANCK INSTITUTE FOR EVOLUTIONARY ANTHROPOLOGY. LEIPZIG – MAKHACHKALA 2014</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="khv">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/548960/khvayni.html">Khvayni</settlement>
-          <geo/>
-        </placeName>
-        <date>2010г</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Махмуд С.</forename>
-            <surname xml:lang="rus">Силахудинов</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1973</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="khv">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/548960/khvayni.html">Khvayni</settlement>
+       <geo />
+      </placeName>
+      <date>2010г</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Махмуд С.</forename>
+        <surname xml:lang="rus">Силахудинов</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1973</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_khv_rus_74">
+   </teiHeader>
+   <text xml:id="cr_khv_rus_74">
     <body>
-      <head>СКАЗКА О КОТЕ, КОТОРЫЙ ОТПРАВИЛСЯ ЗА ДОБЫЧЕЙ </head>
-      <p>кот вышёл думая отправиться добычей выйдя села бьющимся страха сердцем поджав хвост живот пошёл снизу вверх поляны поляны прямопрямо холму дошёл разветвления горы это время стемнело кот дерево постарался залезть сидел замерзая дрожа страха поняв холоде хорошего выйдет прыгнул кот дерева вниз упал прямо листву которая занесена ветром дерево зашуршала листва ту сторону листвы лежал кабан напуганный котом вскочил кабан хрюкая убежал сверху вниз ещё напуганный кот пустился прочь места другую сторону наткнулся медведя который лежал кустах щитовника мужского медведь очередь испугавшись подумав это нападают зарычал страха прыгнул сверху вниз кот убегающий дальше нашёл лису которая трапезничала приготовив чуду лиса пригласила кота чуду ужиная подружились условились жить вместе однажды утра вместе поразмыслив решили кот лиса отправиться охоту</p>
-      <p>спозаранку нижней большой поляне дальше микаиловских хуторов пошли склон герейхана большого склона теневой стороны горы дошли большом склоне птиц насекомых животных бывает гделибо вся местность большом склоне заросла густым кустарником щитовника мужского который очень трудно пройти оказывается жил волк волк добычи находил хитрая лиса утруждая хотела иметь еду задумала обмануть волка похитив всё добудет волк знал лесу кот обитает поймал волк зайца заметила это лиса которая следила сунув голову сук который лежал земле начала лиса звать помощь говорить неё сук упал вытащили её мол умирает волк чувствуя подвоха оставил месте убитого зайца побежал спасать лису волк отошёл зайца кот прыгнув утащил волк вытащил лису изпод сука та долго сердечно благодарила говоря забудет волк спас жизнь долго льстила лиса задерживая волка отойдя лисы волк обнаружил зайца изумляясь тому делся заяц гадая неужели жив остался волк разинув рот кустарниках щитовника мужского лиса кот вместе лакомились зайцем пойманным волком второй обманула лиса волка третий обманула</p>
-      <p>вах подумал волк лиса зовет виду единой души вроде бывает возвращаюсь добыча исчезает пока эта лиса появилась никаких проблем послежука</p>
-      <p>четвёртый позвала лиса волка притворяясь умирает волк оставил добычу чуточку видна волк помогал лисе заодно своей добычей следил увидел волк кота который убегает схватив добычу сказал лисе некогда выслушивать её слова благодарности очень спешит детям</p>
-      <p>пошёл волк ту сторону ушёл кот добычей волк шёл следом котом осторожно вспугнуть опасаясь убежать долго шёл пока кот остановился добычей зайдя кустарники щитовника мужского кот поставил добычу землю успел остановиться добычей противоположной стороны появилась лиса</p>
-      <p>четыре раза волка надули смеялись вдвоём</p>
-      <p>вон всё это подумал волк тихонько подойдя сзади схватил лису кота шиворот</p>
-      <p>слышали говорят сядешь чужого коня сел мигом слезешь сказал волк оторвал головы лисе коту</p>
-      <p>забрав добычу уходил волк ноги попалась лисья голова ударив ногой отбросил сторону голову лисы сказал</p>
-      <p>лиса дурак пошёл своей дорогой</p>
-    </body>
-  </text>
-</TEI>
+     <head>СКАЗКА О КОТЕ, КОТОРЫЙ ОТПРАВИЛСЯ ЗА ДОБЫЧЕЙ </head>
+     <p>бьющимся вверх ветром вместе вместе вниз вниз вниз время вскочил выйдет выйдя вышёл горы дальше дерева дерево дерево добычей дошёл дрожа другую думая ещё живот жить залезть замерзая занесена зарычал зашуршала испугавшись кабан кабан кот кот кот кот кот кот кота котом которая которая который кустах лежал лежал лиса лиса листва листву листвы лису медведь медведя места мужского нападают напуганный напуганный наткнулся нашёл однажды отправиться отправиться охоту очередь поджав подружились подумав поляны поляны поняв поразмыслив постарался пошёл пригласила приготовив прочь прыгнул прыгнул прямо прямопрямо пустился разветвления решили сверху сверху села сердцем сидел снизу стемнело сторону сторону страха страха страха трапезничала ту убегающий убежал ужиная упал условились утра хвост холму холоде хорошего хрюкая чуду чуду щитовника это это</p><p>благодарила большого большой большом большом бывает вместе волк волк волк волк волк волк волк волк волк волк волка волка волка волком вся всё второй вытащил вытащили гадая гделибо герейхана говорить говоря голову горы густым дальше делся добудет добычи долго долго дошли еду её жив животных жизнь жил забудет задерживая задумала зайца зайца зайца зайца зайцем заметила заросла заяц звать земле знал изпод изумляясь иметь кот кот кот которая который который кустарниках кустарником лакомились лежал лесу лиса лиса лиса лиса лиса лиса лису лису лисы льстила месте местность микаиловских мол мужского мужского насекомых находил начала неужели неё нижней обитает обманула обманула обмануть обнаружил оказывается оставил остался отойдя отошёл очень побежал подвоха поймал пойманным поляне помощь похитив пошли пройти прыгнув птиц разинув рот сердечно склон склона склоне склоне следила спас спасать спозаранку стороны сук сук сука сунув та теневой тому третий трудно убитого умирает упал утащил утруждая хитрая хотела хуторов чувствуя щитовника щитовника это</p><p>бывает вах виду возвращаюсь волк вроде добыча души единой зовет исчезает лиса лиса никаких подумал пока послежука появилась проблем эта</p><p>благодарности видна волк волк волк волка выслушивать детям добычей добычу добычу её заодно кота который лиса лисе лисе некогда оставил очень позвала помогал притворяясь своей сказал следил слова спешит схватив убегает увидел умирает четвёртый чуточку</p><p>волк волк вспугнуть добычей добычей добычей добычу долго зайдя землю кот кот кот котом кустарники лиса мужского опасаясь остановился остановиться осторожно пока поставил пошёл появилась противоположной следом сторону стороны ту убежать успел ушёл шёл шёл щитовника</p><p>вдвоём волка надули раза смеялись четыре</p><p>волк вон всё кота лису подойдя подумал сзади схватил тихонько шиворот это</p><p>волк говорят головы коня коту лисе мигом оторвал сел сказал слезешь слышали сядешь чужого</p><p>волк голова голову добычу забрав лисы лисья ноги ногой отбросил попалась сказал сторону ударив уходил</p><p>дорогой дурак лиса пошёл своей</p></body>
+   </text>
+  </TEI>

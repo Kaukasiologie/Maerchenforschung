@@ -1,160 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Rutulisch Folklore</title>
-        <title xml:lang="eng">Rutul Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Rutulisch Folklore</title>
+      <title xml:lang="eng">Rutul Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="rut">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
-          <settlement ref="https://www.geonames.org/557415/ikhrek.html">Ikhrek</settlement>
-          <geo/>
-        </placeName>
-        <date>1978</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Г.Ю.</forename>
-            <surname xml:lang="rus">Меджидов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимова</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.М.</forename>
-            <surname xml:lang="rus">Ибрагимовa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="rut">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/500315/rutul-skiy-rayon.html">Rutul’skiy Rayon</district>
+       <settlement ref="https://www.geonames.org/557415/ikhrek.html">Ikhrek</settlement>
+       <geo />
+      </placeName>
+      <date>1978</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Г.Ю.</forename>
+        <surname xml:lang="rus">Меджидов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимова</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.М.</forename>
+        <surname xml:lang="rus">Ибрагимовa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_rut_rus_8">
+   </teiHeader>
+   <text xml:id="cr_rut_rus_8">
     <body>
-      <head>63 Бедняк и Азраил (рут.) </head>
-      <p>жил бедный человек большая семья видя никак удается сводить концы концами решил покинуть село отправиться заработки</p>
-      <p>положив хурджин половину черствого чурека отправился путь долго шел коротко полдороги повстречался человек</p>
-      <p>салам алейкум поздоровался бедняком</p>
-      <p>ваалейкум ассалам ответил бедняк</p>
-      <p>счастливого пути путь держишь спросил мужчина</p>
-      <p>большое спасибо иду искать денег пропитание своей семьи ответил бедняк</p>
-      <p>давай вместе продолжим путь попутчик дороге хорошее дело предложил</p>
-      <p>вместе нам веселее дорога покажется короче согласился бедняк</p>
-      <p>посидев тени деревьев съев кусочку черствого хлеба отправились своим делам</p>
-      <p>шли шли дошли одного села входе село попутчик говорит</p>
-      <p>послушай друг делал спрашивай понял</p>
-      <p>ответил бедняк</p>
-      <p>окраине села попутчик зашел дом бедняка оставил ждать улице вскоре быстро вышел оттуда дома раздались вопли крики плач удивленный бедняк понял пошли дальше</p>
-      <p>оставив улице бедняка попутчик вошел дом вышел послышались крики плач</p>
-      <p>дрогнуло груди бедняка испугался весь задрожал сказал</p>
-      <p>знаешь друг давай пойдем каждый своей дорогой хочу уйти</p>
-      <p>понял попутчик бедняк испугался говорит</p>
-      <p>уходи сначала выслушай прав верно понял человек азраил делили тобою кусок хлеба хочу помочь твоей семье возвращайся домой скажи поездке научился лечить людей выстрой около дома будочку объяви доктором начнут приглашать больным придя увидишь сижу изголовья видеть будешь скажи вылечу больного затем одним скажи зарезали черную овцу раздали садака другим зарезали черную курицу крови сделали лекарство третьему зарезали черного барашка раздали садака затем прочти дуа возьми долю</p>
-      <p>большое спасибо сказал бедняк попрощался руку пустились путь</p>
-      <p>вернувшись домой открыл будку объявил стал лекарем вскоре действительно прослыл лучшим лекарем жизнь прекрасной кончается азраил пришел душой заболел лекарь лежит постели азраил пришел сел ног понял пришел друг</p>
-      <p>говорит</p>
-      <p>друг рано пришел мной</p>
-      <p>твое время настало такова судьба твоя друг говорит азраил</p>
-      <p>настало время поделаешь нашей старой дружбе дай пожить пока шапка подброшенная мною потолку упадет вниз говорит бедняк</p>
-      <p>пусть это время останется тебе согласился друг</p>
-      <p>лекарь подбросил шапку пока азраил смотрел потолок быстро лег нему головой</p>
-      <p>бери мою душу возьмешь говорит</p>
-      <p>зная делать растерянный азраил отправился аллаху вопросом делать</p>
-      <p>аллах говорит</p>
-      <p>человек перехитрил оставь живых убивай</p>
-      <p>лекарь перехитрил азраила</p>
-    </body>
-  </text>
-</TEI>
+     <head>63 Бедняк и Азраил (рут.) </head>
+     <p>бедный большая видя жил заработки концами концы никак отправиться покинуть решил сводить село семья удается человек</p><p>долго коротко отправился повстречался полдороги половину положив путь хурджин человек черствого чурека шел</p><p>алейкум бедняком поздоровался салам</p><p>ассалам бедняк ваалейкум ответил</p><p>держишь мужчина пути путь спросил счастливого</p><p>бедняк большое денег иду искать ответил пропитание своей семьи спасибо</p><p>вместе давай дело дороге попутчик предложил продолжим путь хорошее</p><p>бедняк веселее вместе дорога короче нам покажется согласился</p><p>делам деревьев кусочку отправились посидев своим съев тени хлеба черствого</p><p>входе говорит дошли одного попутчик села село шли шли</p><p>делал друг понял послушай спрашивай</p><p>бедняк ответил</p><p>бедняк бедняка быстро вопли вскоре вышел дальше дом дома ждать зашел крики окраине оставил оттуда плач понял попутчик пошли раздались села удивленный улице</p><p>бедняка вошел вышел дом крики оставив плач попутчик послышались улице</p><p>бедняка весь груди дрогнуло задрожал испугался сказал</p><p>давай дорогой друг знаешь каждый пойдем своей уйти хочу</p><p>бедняк говорит испугался понял попутчик</p><p>азраил барашка больного больным будешь будочку верно видеть возвращайся возьми вылечу выслушай выстрой делили доктором долю дома домой другим дуа зарезали зарезали зарезали затем затем изголовья крови курицу кусок лекарство лечить людей научился начнут объяви овцу одним около поездке помочь понял прав приглашать придя прочти раздали раздали садака садака сделали семье сижу скажи скажи скажи сначала твоей тобою третьему увидишь уходи хлеба хочу человек черного черную черную</p><p>бедняк большое попрощался пустились путь руку сказал спасибо</p><p>азраил азраил будку вернувшись вскоре действительно домой друг душой жизнь заболел кончается лежит лекарем лекарем лекарь лучшим ног объявил открыл понял постели прекрасной пришел пришел пришел прослыл сел стал</p><p>говорит</p><p>друг мной пришел рано</p><p>азраил время говорит друг настало судьба такова твое твоя</p><p>бедняк вниз время говорит дай дружбе мною настало нашей подброшенная поделаешь пожить пока потолку старой упадет шапка</p><p>время друг останется пусть согласился тебе это</p><p>азраил быстро головой лег лекарь нему подбросил пока потолок смотрел шапку</p><p>бери возьмешь говорит душу мою</p><p>азраил аллаху вопросом делать делать зная отправился растерянный</p><p>аллах говорит</p><p>живых оставь перехитрил убивай человек</p><p>азраила лекарь перехитрил</p></body>
+   </text>
+  </TEI>

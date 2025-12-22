@@ -1,162 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/570478/buynakskiy-rayon.html">Buynakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/581071/arkas.html">Arkas</settlement>
-          <geo/>
-        </placeName>
-        <date>1962</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Магомедов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Д.</forename>
-            <surname xml:lang="rus">Атаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/570478/buynakskiy-rayon.html">Buynakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/581071/arkas.html">Arkas</settlement>
+       <geo />
+      </placeName>
+      <date>1962</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Магомедов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Д.</forename>
+        <surname xml:lang="rus">Атаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_72">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_72">
     <body>
-      <head>36. Бедняк и куса(27)</head>
-      <p>рассказать говорить жила жила хунзахе бедная старуха своим единственным сыном хозяйстве кроме красного бычка которого очень любили вдоволь кормили свежей травой сеном вскоре вырос красивого смирного бугая однажды сын сказал</p>
-      <p>матушка давай продадим нашего красного быка вырученные деньги купим двух одним быком хозяйстве обойдешься</p>
-      <p>согласилась мать иди продай коем случае имей дела кусой</p>
-      <p>сказано сделано сын отвел быка большой аул начал кричать продаю бычка продаю бычка крик прибежал куса сын наотрез отказался продавать быка следующей улице оказался куса который начал навязываться покупатели снова отказал молодой хунзахец пошел дальше некоторое время повстречался куса</p>
-      <p>вах воскликнул молодой человек видимо ауле каждый житель куса</p>
-      <p>поддался назойливым просьбам кусы решил продать бычка куса завел парня двор громко сказал жене</p>
-      <p>покупаю быка тумана сломаной ногой отдал восемь</p>
-      <p>услышал это парень схватил топор переломал быку ногу стал требовать восемь туманов куса вдоволь посмеялся предложил полтумана понял хунзахец куса жестоко обманул заплакал слезами горю поможешь пришлось парню взять полтумана уходить побыстрей пока аульские остряки подняли смех желание отомстить коварному врагу сжигало сердце бедняги огонь сухой кукурузный стебель недалеко аула хунзахец увидел старого облезлого осла которого хозяева выгнали дому</p>
-      <p>это находка воскликнул молодой человек погнал осла кусе доходя дома спрятал серебро ослу хвост стал громко кричать продаю осла продаю осла</p>
-      <p>крик вышел куса спросил цене</p>
-      <p>сто туманов последовал невозмутимый ответ</p>
-      <p>очумел аварец закричал куса это видано такого осла просили столько денег</p>
-      <p>простой успеешь сказать бисмилла хозяин наживет кучу денег извергает чистое серебро украл самого турецкого султана скрываюсь погони</p>
-      <p>этими словами хунзахец ударил осла спине высыпалось полтумана серебра</p>
-      <p>кусы глаза разбежались приказал жене немедленно вынести сто туманов</p>
-      <p>захочешь получить подвесь осла горло потолку посоветовал прощание хунзахец удалился</p>
-      <p>известно жадные стремятся разбогатеть быстро куса подвесил осла потолку дня куса обнаружил дохлого осла понял обманули</p>
-      <p>созвал куса родню соседей бросились погоню хунзахец предвидел сказал своей матери</p>
-      <p>матушка скоро сюда нагрянет целая ватага главе кусой несмотря какие мои уговоры готовь еду проткну бычий пузырь кровью который заранее привяжем твоей шее притворись мертвой заиграет зурна вставай остальное мое дело</p>
-      <p>скоро появилась целая толпа главе кусой обнаженными кинжалами стала угрожать требовать назад деньги</p>
-      <p>дорогие гости воскликнул хунзахец разговор деньгах пока рассаживайтесь будьте кунаками угощу отменным обедом деньги получите сполна матушка приступай стряпне</p>
-      <p>старуха стала отказываться завязала ссору сыном</p>
-      <p>негодная смеешь попирать священные законы гостеприимства закричал сын проткнул бычий пузырь мать упала пол замерла</p>
-      <p>наделал несчастный закричал куса смел поднять руку бедную мать</p>
-      <p>частенько проделываю такие штучки ответил хунзахец стоит поиграть зурне любой мертвый сразу оживает</p>
-      <p>поверил куса этим словам сын начал играть зурне мать сразу вскочила ноги</p>
-      <p>вах воскликнул куса зурне цены продай нам отдадим тебе наши деньги простим старый долг</p>
-      <p>хунзахец долго поддавался уговоры конце концов уступил</p>
-      <p>довольный куса вернулся домой стал искать повода поссориться женой несколько минут ругались</p>
-      <p>посмотрите негодницу которая смеет перечить мужу закричал куса вонзил кинжал горло жены вскоре умерла крик прибежала родня набросилась убийцу</p>
-      <p>беспокойтесь встанет важно сказал куса заиграл зурне</p>
-      <p>сколько дул зурну жена шевельнулась</p>
-      <p>понял куса обманули бросился хунзах это время сын велел матери распустить слух смерти вырыл могилу поставил жаровню копье стал ждать кусу</p>
-      <p>куса узнал смерти обидчика бросился кладбище осквернить могилу</p>
-      <p>оставлю мертвого закричал куса</p>
-      <p>стал топтать могилу провалился внутрь напоролся раскаленное копье умер</p>
-    </body>
-  </text>
-</TEI>
+     <head>36. Бедняк и куса(27)</head>
+     <p>бедная бугая бычка вдоволь вскоре вырос говорить единственным жила жила кормили которого красивого красного кроме любили однажды очень рассказать свежей своим сеном сказал смирного старуха сын сыном травой хозяйстве хунзахе</p><p>быка быком вырученные давай двух деньги красного купим матушка нашего обойдешься одним продадим хозяйстве</p><p>дела иди имей коем кусой мать продай случае согласилась</p><p>аул большой быка быка бычка бычка время дальше который крик кричать куса куса куса молодой навязываться наотрез начал начал некоторое оказался отвел отказал отказался повстречался покупатели пошел прибежал продавать продаю продаю сделано сказано следующей снова сын сын улице хунзахец</p><p>ауле вах видимо воскликнул житель каждый куса молодой человек</p><p>бычка громко двор жене завел куса кусы назойливым парня поддался продать просьбам решил сказал</p><p>быка восемь ногой отдал покупаю сломаной тумана</p><p>аула аульские бедняги быку вдоволь взять восемь врагу выгнали горю дому желание жестоко заплакал коварному которого кукурузный куса куса недалеко ногу облезлого обманул огонь осла остряки отомстить парень парню переломал побыстрей подняли пока полтумана полтумана поможешь понял посмеялся предложил пришлось сердце сжигало слезами смех стал старого стебель сухой схватил топор требовать туманов увидел услышал уходить хозяева хунзахец хунзахец это</p><p>воскликнул громко дома доходя кричать кусе молодой находка осла осла осла ослу погнал продаю продаю серебро спрятал стал хвост человек это</p><p>вышел крик куса спросил цене</p><p>невозмутимый ответ последовал сто туманов</p><p>аварец видано денег закричал куса осла очумел просили столько такого это</p><p>бисмилла денег извергает кучу наживет погони простой самого серебро сказать скрываюсь султана турецкого украл успеешь хозяин чистое</p><p>высыпалось осла полтумана серебра словами спине ударил хунзахец этими</p><p>вынести глаза жене кусы немедленно приказал разбежались сто туманов</p><p>горло захочешь осла подвесь получить посоветовал потолку прощание удалился хунзахец</p><p>быстро дня дохлого жадные известно куса куса обманули обнаружил осла осла подвесил понял потолку разбогатеть стремятся</p><p>бросились куса матери погоню предвидел родню своей сказал созвал соседей хунзахец</p><p>бычий ватага вставай главе готовь дело еду заиграет заранее зурна какие который кровью кусой матушка мертвой мое мои нагрянет несмотря остальное привяжем притворись проткну пузырь скоро сюда твоей уговоры целая шее</p><p>главе деньги кинжалами кусой назад обнаженными появилась скоро стала толпа требовать угрожать целая</p><p>будьте воскликнул гости деньгах деньги дорогие кунаками матушка обедом отменным пока получите приступай разговор рассаживайтесь сполна стряпне угощу хунзахец</p><p>завязала отказываться ссору стала старуха сыном</p><p>бычий гостеприимства законы закричал замерла мать негодная пол попирать проткнул пузырь священные смеешь сын упала</p><p>бедную закричал куса мать наделал несчастный поднять руку смел</p><p>зурне любой мертвый оживает ответил поиграть проделываю сразу стоит такие хунзахец частенько штучки</p><p>вскочила зурне играть куса мать начал ноги поверил словам сразу сын этим</p><p>вах воскликнул деньги долг зурне куса нам наши отдадим продай простим старый тебе цены</p><p>долго конце концов поддавался уговоры уступил хунзахец</p><p>вернулся довольный домой женой искать куса минут несколько повода поссориться ругались стал</p><p>вонзил вскоре горло жены закричал кинжал которая крик куса мужу набросилась негодницу перечить посмотрите прибежала родня смеет убийцу умерла</p><p>беспокойтесь важно встанет заиграл зурне куса сказал</p><p>дул жена зурну сколько шевельнулась</p><p>бросился велел время вырыл жаровню ждать копье куса кусу матери могилу обманули понял поставил распустить слух смерти стал сын хунзах это</p><p>бросился кладбище куса могилу обидчика осквернить смерти узнал</p><p>закричал куса мертвого оставлю</p><p>внутрь копье могилу напоролся провалился раскаленное стал топтать умер</p></body>
+   </text>
+  </TEI>

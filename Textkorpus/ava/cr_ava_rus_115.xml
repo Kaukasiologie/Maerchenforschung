@@ -1,148 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-          <geo/>
-        </placeName>
-        <date>1961</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Магомедова</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Казанбиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+       <geo />
+      </placeName>
+      <date>1961</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Магомедова</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Казанбиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_115">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_115">
     <body>
-      <head>80. Сварливая жена</head>
-      <p>одном ауле жил жил бедный уздень</p>
-      <p>сварливая жена длинным предлинным языком рано утром уходила дому поздно вечером возвращалась целый день ходила сакли саклю перемывала косточки знакомым пускала разные слухи ссорила мужей женами родителей детьми житья всем аульчан нам говоря муже соседях</p>
-      <p>однажды напустилась мужа начала ругать перекинулась родственников затем соседей обругала аульчан очереди надоела мужу брань тихонько вышел двор жена выскочила следом пуще прежнего продолжала браниться выдержал бедный муж столкнул жену колодец</p>
-      <p>аульчане узнали случившемся облегченно вздохнули овдовевший уздень стал постепенно приходить</p>
-      <p>прошло некоторое время</p>
-      <p>уздень вместе ведром воды вытащил колодца змею хотел убить змея сказала человеческим голосом</p>
-      <p>убивай добрый человек виновата попала тебе глаза колодце вечно жил наш род спокойно оставалась конца своих дней днях попала туда ужасная женщина круглые сутки бранится вытерпела такого соседства решила бежать отпустишь помогу тебе разбогатеть смотри маленькая скоро стану большой змеей будут бояться поселюсь единственном источнике большого города никого допущу воде твоя просьба уважена это хан осыплет милостями богатством</p>
-      <p>отпустил уздень змею вскоре забыл</p>
-      <p>прошло полугода огромная змея захватила единственный городе источник никого подпускала воде находилось одного джигита который отважился прогнать чудовище смельчаку обещана награда ханская дочь несметные сокровища</p>
-      <p>уздень смело направился источнику подивился маленькая змея скоро выросла напомнил уговоре</p>
-      <p>сдержу свое слово покину город придешь ко подобной просьбой будешь убит этими словами чудовище удалилось</p>
-      <p>предела радости горожан потребовали хана выдать дочь героя хану оставалось согласиться сыграли пышную свадьбу стал уздень жить припеваючи</p>
-      <p>вскоре нему пришли посланные другого ханства рассказали своем несчастье</p>
-      <p>возле единственного городе источника поселилась ужасная змея никому дает воды слыхали боишься помоги нам достойно отблагодарим</p>
-      <p>хотелось узденю выручить попавших беду людей вспомнил грозное предупреждение змеи отказался</p>
-      <p>собрался весь народ стал уговаривать</p>
-      <p>единственный смог прогнать змею помоги нашим соседям</p>
-      <p>очень хотелось узденю погибать пришлось отправиться змее</p>
-      <p>чудовище издали приметило закричало громовым голосом</p>
-      <p>несчастный предупреждала приходить ко просьбой освободить источник должен умереть</p>
-      <p>пришел змея хотел сообщить тебе сварливая жена вернулась колодца сказал находчивый уздень</p>
-      <p>неужели какое счастье воскликнула змея делать нечего змея убежала родной колодец</p>
-    </body>
-  </text>
-</TEI>
+     <head>80. Сварливая жена</head>
+     <p>ауле бедный жил жил одном уздень</p><p>аульчан вечером возвращалась всем говоря день детьми длинным дому жена женами житья знакомым косточки муже мужей нам перемывала поздно предлинным пускала разные рано родителей сакли саклю сварливая слухи соседях ссорила утром уходила ходила целый языком</p><p>аульчан бедный браниться брань выдержал выскочила вышел двор жена жену затем колодец муж мужа мужу надоела напустилась начала обругала однажды очереди перекинулась прежнего продолжала пуще родственников ругать следом соседей столкнул тихонько</p><p>аульчане вздохнули облегченно овдовевший постепенно приходить случившемся стал уздень узнали</p><p>время некоторое прошло</p><p>ведром вместе воды вытащил голосом змею змея колодца сказала убить уздень хотел человеческим</p><p>бежать богатством большого большой бояться бранится будут вечно виновата воде вытерпела глаза города дней днях добрый допущу единственном женщина жил змеей источнике колодце конца круглые маленькая милостями наш никого оставалась осыплет отпустишь помогу попала попала поселюсь просьба разбогатеть решила род своих скоро смотри соседства спокойно стану сутки такого твоя тебе тебе туда убивай уважена ужасная хан человек это</p><p>вскоре забыл змею отпустил уздень</p><p>воде городе джигита дочь единственный захватила змея источник который награда находилось несметные никого обещана огромная одного отважился подпускала полугода прогнать прошло смельчаку сокровища ханская чудовище</p><p>выросла змея источнику маленькая напомнил направился подивился скоро смело уговоре уздень</p><p>будешь город ко подобной покину придешь просьбой свое сдержу словами слово убит удалилось чудовище этими</p><p>выдать героя горожан дочь жить оставалось потребовали предела припеваючи пышную радости свадьбу согласиться стал сыграли уздень хана хану</p><p>вскоре другого нему несчастье посланные пришли рассказали своем ханства</p><p>боишься воды возле городе дает достойно единственного змея источника нам никому отблагодарим помоги поселилась слыхали ужасная</p><p>беду вспомнил выручить грозное змеи людей отказался попавших предупреждение узденю хотелось</p><p>весь народ собрался стал уговаривать</p><p>единственный змею нашим помоги прогнать смог соседям</p><p>змее отправиться очень погибать пришлось узденю хотелось</p><p>голосом громовым закричало издали приметило чудовище</p><p>должен источник ко несчастный освободить предупреждала приходить просьбой умереть</p><p>вернулась жена змея колодца находчивый пришел сварливая сказал сообщить тебе уздень хотел</p><p>воскликнула делать змея змея какое колодец неужели нечего родной счастье убежала</p></body>
+   </text>
+  </TEI>

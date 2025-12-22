@@ -1,161 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательство &quot;Художественная литература&quot;. Маскжа 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Саидова</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">У.</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Саидова</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">У.</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_162">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_162">
     <body>
-      <head>ЛИСА И БАРСУК </head>
-      <p>жили больших друга барсук лиса однажды ночью отправились добывать пропитание удалось украсть толстую сушеную колбасу</p>
-      <p>будем очень проголодаемся решили припрятали колбасу</p>
-      <p>ночью сильно захотелось лиса говорит барсуку</p>
-      <p>давай ляжем спать кому приснится самый хороший сон съеет колбасу</p>
-      <p>варсук согласилея лиса притворилась спящей барсук заснул потихоньку съела колбасу спокойно бывало улеглась</p>
-      <p>барсука мучнл голод сна встал разбудил лису плутовка говорит</p>
-      <p>рассказывай видел сне</p>
-      <p>клянусь сказал барсук свадьбе ханского сына подавали самые вкусные куиианья какие свете угощал хан лиса сказала</p>
-      <p>видишь ел пил сыт стала будить съела колбасу сама голодна</p>
-      <p>пусть лопнет твое брюхо воскликнул бедняга барсук знал обманешь негодинца</p>
-      <p>пищи которую барсук съел сне подвело живот прямо таки изнемогал голода лиса набив брюхо ркусной колбасой осталась вполне довольна</p>
-      <p>ах голоден верный друг пойдем поищем съестного пожалела барсука притворщица</p>
-      <p>другого оставалось барсуку пошел</p>
-      <p>прокружили нозь рассвету раздобыли жирную баранью ножку</p>
-      <p>голодна подумала лиснца почему обмануть барсука</p>
-      <p>предложила</p>
-      <p>давай условимся соврет докажет старше съест баранью ножку</p>
-      <p>барсук согласился</p>
-      <p>начинай врать первым сказала плутовка незачем врать ответил барсук родился день шел снег дул сильный ветер начинался всемирный потоп неужели родился день н день получила известие смерти двух моих сыновей которые отправились добычей тех пор оплакиваю сказала лиеа</p>
-      <p>олять выиграла съела баранью ножку бедвый барсук остался бобах</p>
-      <p>сказал лисе</p>
-      <p>ох хитра впредь умней сегодняшнего дня увидишь конец нашей дружбе водить дружбу собакой тобой</p>
-      <p>стала лиса горевать плакать уверять такого дорогого друга сможет прожить белом свете поклялась хитрая дня оставит барсука голодным самой пришлось умереть голоду</p>
-      <p>умоляю порывай нашей дружбы просила</p>
-      <p>терять барсучью дружбу лисе очень невытодно помощи добывать лищу трудно обмануть легко</p>
-      <p>поверил барсук лисе</p>
-      <p>долго рыскали лесу нашли голодные заснули пещере</p>
-      <p>сне барсуку стало проснувшись увидел лиса прогрызла брюхе дыру потихоньку кишки тащит собираясь подкрепиться</p>
-      <p>ах пегодная воскликнул барсук вскочнв ноги задумала доконать твои проделки пустяками сравнении натворила клянусь тебе пощады хотя забралась брюхо ослу посмотрим кому жить свете тебе</p>
-      <p>барсук погнался лисой</p>
-      <p>бежали бежали добежали обрыва барсук прыгнул вцепиться лисий хвост хитрая лиса вильнула хвостом барсук промахнувигись полетел пропасть разбился</p>
-      <p>лиса глядела вниз издыхавшего барсука п приговаривала</p>
-      <p>посмотрел барсучок</p>
-      <p>верный друг испустил дух опечаленная смертью пошла прочь обрыва распевая веселые песенки</p>
-    </body>
-  </text>
-</TEI>
+     <head>ЛИСА И БАРСУК </head>
+     <p>барсук больших добывать друга жили колбасу лиса ночью однажды отправились пропитание сушеную толстую удалось украсть</p><p>будем колбасу очень припрятали проголодаемся решили</p><p>барсуку говорит захотелось лиса ночью сильно</p><p>давай колбасу кому ляжем приснится самый сон спать съеет хороший</p><p>барсук бывало варсук заснул колбасу лиса потихоньку притворилась согласилея спокойно спящей съела улеглась</p><p>барсука встал говорит голод лису мучнл плутовка разбудил сна</p><p>видел рассказывай сне</p><p>барсук вкусные какие клянусь куиианья лиса подавали самые свадьбе свете сказал сказала сына угощал хан ханского</p><p>будить видишь голодна ел колбасу пил сама стала съела сыт</p><p>барсук бедняга брюхо воскликнул знал лопнет негодинца обманешь пусть твое</p><p>барсук брюхо вполне голода довольна живот изнемогал колбасой которую лиса набив осталась пищи подвело прямо ркусной сне съел таки</p><p>ах барсука верный голоден друг пожалела поищем пойдем притворщица съестного</p><p>барсуку другого оставалось пошел</p><p>баранью жирную ножку нозь прокружили раздобыли рассвету</p><p>барсука голодна лиснца обмануть подумала почему</p><p>предложила</p><p>баранью давай докажет ножку соврет старше съест условимся</p><p>барсук согласился</p><p>барсук ветер врать врать всемирный двух день день день добычей дул известие которые лиеа моих н начинай начинался незачем неужели оплакиваю ответил отправились первым плутовка получила пор потоп родился родился сильный сказала сказала смерти снег сыновей тех шел</p><p>баранью барсук бедвый бобах выиграла ножку олять остался съела</p><p>лисе сказал</p><p>водить впредь дня дружбе дружбу конец нашей ох сегодняшнего собакой тобой увидишь умней хитра</p><p>барсука белом голодным голоду горевать дня дорогого друга лиса оставит плакать поклялась пришлось прожить самой свете сможет стала такого уверять умереть хитрая</p><p>дружбы нашей порывай просила умоляю</p><p>барсучью добывать дружбу легко лисе лищу невытодно обмануть очень помощи терять трудно</p><p>барсук лисе поверил</p><p>голодные долго заснули лесу нашли пещере рыскали</p><p>барсуку брюхе дыру кишки лиса подкрепиться потихоньку прогрызла проснувшись сне собираясь стало тащит увидел</p><p>ах барсук брюхо воскликнул вскочнв доконать жить забралась задумала клянусь кому натворила ноги ослу пегодная посмотрим пощады проделки пустяками свете сравнении твои тебе тебе хотя</p><p>барсук лисой погнался</p><p>барсук барсук бежали бежали вильнула вцепиться добежали лиса лисий обрыва полетел промахнувигись пропасть прыгнул разбился хвост хвостом хитрая</p><p>барсука вниз глядела издыхавшего лиса п приговаривала</p><p>барсучок посмотрел</p><p>верный веселые друг дух испустил обрыва опечаленная песенки пошла прочь распевая смертью</p></body>
+   </text>
+  </TEI>

@@ -1,151 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/570478/buynakskiy-rayon.html">Buynakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/581071/arkas.html">Arkas</settlement>
-          <geo/>
-        </placeName>
-        <date>1963</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Магомедов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Д.</forename>
-            <surname xml:lang="rus">Атаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/570478/buynakskiy-rayon.html">Buynakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/581071/arkas.html">Arkas</settlement>
+       <geo />
+      </placeName>
+      <date>1963</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Магомедов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Д.</forename>
+        <surname xml:lang="rus">Атаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_59">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_59">
     <body>
-      <head>26. Два упрямца и разбойники</head>
-      <p>жили жили упрямца давал долг гривенника второй возвращал гривенника звали одного недающий другого неотдающий</p>
-      <p>однажды неизвестно получилось гривенник недающего попал неотдающему начал требовать недающий свой гривенник отдаст упрямец который отдавал обратно</p>
-      <p>шло время недающий поселился доме неотдающего будь днем будь ночью твердил отдай гривенник второй упрямец думал раскошеливаться хотя недающий жил целый месяц ел пищу спал постели</p>
-      <p>однажды поздней ночью разбудил жену неотдающий говорит</p>
-      <p>впрямь надоел упрямец давай подумаем избавиться</p>
-      <p>думали думали придумали</p>
-      <p>притворюсь мертвым сказал муж похорони пещере последует упрямец мной свет</p>
-      <p>тебе притворяться мертвым отдай гривенник отпусти миром посоветовала жена</p>
-      <p>глупая знаешь отдаю возмутился муж</p>
-      <p>наутро жена заголосила оповещая аул смерти мужа собрались родные близкие отпели покойника повезли хоронить недающий положили тело упрямца пещеру вход камнями заложили разошлись недающий раскидал камни забрался пещеру молча лег рядом неотдающим трое суток лежали шевелясь</p>
-      <p>четвертый день пещеру вошли разбойника совершили удачный грабеж нужно разделить добычу разделили кроме одной драгоценной сабли</p>
-      <p>саблю возьму сказал разбойник</p>
-      <p>возразил</p>
-      <p>долго спорили решили отдать саблю тому ею владеет</p>
-      <p>стали разбойники искать испробовать свое мастерство увидели двух лежащих людей</p>
-      <p>это находка обрадовались разбойники испробуемка мастерство этих трупах</p>
-      <p>первый разбойник обнажил саблю раздался страшный вопль упрямцев</p>
-      <p>шайтаны закричали разбойники бросили награбленное добро драгоценную саблю убежали</p>
-      <p>упрямцы заспорили гривеннике</p>
-      <p>тебе гривенник упрямец смотри сколько добра нам оставили разбойники разделим пополам сказал неотдающий принялись делить добычу</p>
-      <p>немного погодя разбойники набрались храбрости решили посмотреть шайтаны ушли</p>
-      <p>пещеры доносились сердитые голоса разбойники долго решались туда сунуться</p>
-      <p>осмелился заглянуть пещеру тотчас головы сорвали бухарскую шапку</p>
-      <p>скорей брат бежим испуганно закричал разбойник пустились наутек</p>
-      <p>говорят продолжают свой бег помирившиеся упрямцы быстро поделили доставшееся добро недающему досталась шапка вместо гривенника оба остались довольны</p>
-    </body>
-  </text>
-</TEI>
+     <head>26. Два упрямца и разбойники</head>
+     <p>возвращал второй гривенника гривенника давал долг другого жили жили звали недающий неотдающий одного упрямца</p><p>гривенник гривенник который начал недающего недающий неизвестно неотдающему обратно однажды отдавал отдаст получилось попал свой требовать упрямец</p><p>будь будь время второй гривенник днем доме думал ел жил месяц недающий недающий неотдающего ночью отдай пищу поселился постели раскошеливаться спал твердил упрямец хотя целый шло</p><p>говорит жену неотдающий ночью однажды поздней разбудил</p><p>впрямь давай избавиться надоел подумаем упрямец</p><p>думали думали придумали</p><p>мертвым мной муж пещере последует похорони притворюсь свет сказал упрямец</p><p>гривенник жена мертвым миром отдай отпусти посоветовала притворяться тебе</p><p>возмутился глупая знаешь муж отдаю</p><p>аул близкие вход жена забрался заголосила заложили камни камнями лег лежали молча мужа наутро недающий недающий неотдающим оповещая отпели пещеру пещеру повезли покойника положили разошлись раскидал родные рядом смерти собрались суток тело трое упрямца хоронить шевелясь</p><p>вошли грабеж день добычу драгоценной кроме нужно одной пещеру разбойника разделили разделить сабли совершили удачный четвертый</p><p>возьму разбойник саблю сказал</p><p>возразил</p><p>владеет долго ею отдать решили саблю спорили тому</p><p>двух искать испробовать лежащих людей мастерство разбойники свое стали увидели</p><p>испробуемка мастерство находка обрадовались разбойники трупах этих это</p><p>вопль обнажил первый разбойник раздался саблю страшный упрямцев</p><p>бросили добро драгоценную закричали награбленное разбойники саблю убежали шайтаны</p><p>гривеннике заспорили упрямцы</p><p>гривенник делить добра добычу нам неотдающий оставили пополам принялись разбойники разделим сказал сколько смотри тебе упрямец</p><p>набрались немного погодя посмотреть разбойники решили ушли храбрости шайтаны</p><p>голоса долго доносились пещеры разбойники решались сердитые сунуться туда</p><p>бухарскую головы заглянуть осмелился пещеру сорвали тотчас шапку</p><p>бежим брат закричал испуганно наутек пустились разбойник скорей</p><p>бег быстро вместо говорят гривенника добро довольны доставшееся досталась недающему оба остались поделили помирившиеся продолжают свой упрямцы шапка</p></body>
+   </text>
+  </TEI>

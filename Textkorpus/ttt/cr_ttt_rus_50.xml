@@ -1,199 +1,134 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tatische Folklore</title>
-        <title xml:lang="eng">Tat Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tatische Folklore</title>
+      <title xml:lang="eng">Tat Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ttt">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ttt">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+       <geo />
+      </placeName>
+      <date>1935</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Хизгиё-Эми</forename>
+        <surname xml:lang="rus">Дадашев</surname>
+       </persName>
+       <age />
+       <birth>
         <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-          <geo/>
+         <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+         <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+         <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
+         <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
+         <geo />
         </placeName>
-        <date>1935</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Хизгиё-Эми</forename>
-            <surname xml:lang="rus">Дадашев</surname>
-          </persName>
-          <age/>
-          <birth>
-            <placeName>
-              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-              <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
-              <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
-              <geo/>
-            </placeName>
-            <date>1854</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Амалдан</forename>
-            <surname xml:lang="rus">Кукуллу</surname>
-          </persName>
-        </person>
-      </particDesc>
+        <date>1854</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Амалдан</forename>
+        <surname xml:lang="rus">Кукуллу</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ttt_rus_50">
+   </teiHeader>
+   <text xml:id="cr_ttt_rus_50">
     <body>
-      <head>34. Солдат и падишах</head>
-      <p>войске падишаха нес службу солдат целых лвадцать пять лет служил падишаху верой правдой это время разу посчастливилось увидеть самого падишаха двадцать шестом году пришло солдату время возвращаться домой взвалил солдат плечо хурджун вышел ворота города прошел две версты подумал</p>
-      <p>возвращаюсь домой свой аул скажут земляки служил падишаху каков собой падишах отвечу должен вернуться увидеть</p>
-      <p>вернулся солдат город постучался дворец падишаха</p>
-      <p>тебе спрашивают стражники</p>
-      <p>рассказал солдат вернулся стражники посмеялись прогнали прочь солдат постучался попросил пропустить падишаху снова стражники закрыли ворота стучался раза</p>
-      <p>дворце падишаха порядок посетитель стучался первый второй третий впускали стучался четвертый стражники должны доложить нем падишаху</p>
-      <p>солдат знал порядок постучался четвертый</p>
-      <p>хочу видеть падишаха сказал</p>
-      <p>пропустили предстал солдат неред падишахом</p>
-      <p>тебе говори сказал падишах</p>
-      <p>солдат сказал</p>
-      <p>почтенный падишах пришел тебе служить очень далеких мест двадцать пять лет служил тебе верой правдой возвращаюсь домой начнут земляки спрашивать видел падишаха каков собой отвечу вернулся увидеть падишах</p>
-      <p>ответил солдату падишах</p>
-      <p>увидеть всякому дано тебе это удалось задам тебе вопроса ответишь получишь награду ответишь двадцать пять лет служить будешь согласен</p>
-      <p>солдат согласился</p>
-      <p>задал падишах свой первый вопрос</p>
-      <p>какое расстояние восхода заката</p>
-      <p>ровно день утром солнце восходит одном конце вечером заходит другом сказал солдат</p>
-      <p>задал солдату падишах второй вопрос</p>
-      <p>далеко земли неба</p>
-      <p>это ближе почтенный падишах время грозы бури небе начинают бить барабан играть зурне танцевать жечь свечи земле нам слышно видно</p>
-      <p>падишах задал солдату свой третий вопрос</p>
-      <p>далеко нашего мнра загробного царствар</p>
-      <p>солдат ответил</p>
-      <p>почтенный падишах это очень далеко наши предки давным давно туда ушли сих пор одной весточки</p>
-      <p>падишах сдержал своего слова засмеялся позвал своих слуг приказал</p>
-      <p>посадите подземелье кормите отказывайте</p>
-      <p>падишах велел позвать попа</p>
-      <p>привели попа падишах задал те вопросы солдату смог ответить</p>
-      <p>даю тебе девять дней сроку сказал падишах ответишь получишь награду распростишься жизнью</p>
-      <p>посадили попа подземелье солдату обрадовался солдат пе скучает говорит</p>
-      <p>день добрый</p>
-      <p>поп вместо ответного приветствия обрушил голову солдата проклятия</p>
-      <p>следующий день падишах велел привести нему раввина задал падишах раввину те вопросы смог ответить падишах велел посадить подземелье дал девять дней размышление</p>
-      <p>посадили раввина солдату обрадовался солдат приветствовал раввина ответ лишь обругал</p>
-      <p>третий день привели падишаху муллу</p>
-      <p>велел падишах ответить девять дней вопроса пока посадил подземелье увидел солдат говорит</p>
-      <p>салам алейкум бросили подземелье почтенный мулла</p>
-      <p>ваалейкум салам отвечает мулла эх солдат задал падишах вопроса смог ответить посадили сюда отвечает мулла повторил солдату те вопросы</p>
-      <p>знаю ответить сказал солдат</p>
-      <p>услышал поп слова солдата вскочил подошел солдату</p>
-      <p>захочешь дам тебе скажи ответить вопросы взмолился поп</p>
-      <p>дам тебе пожелаешь сказал раввин</p>
-      <p>ладно согласился солдат поп сделаешь золотое кольцо бриллиантом раввин сделаешь золотое кольцо рубином мулла отольешь серебряное кольцо согласны заказать кольца скажу ответить падиигаху</p>
-      <p>оставалось делать попу раввину мулле согласились велели своим женам заказать массивные кольца принести подземелье</p>
-      <p>иначе убьют сказали опи</p>
-      <p>собрали жены награблено мужьями продали вырученные деньги заказали мастеру кольца сделал мастер жене попа золотое кольцо бриллиантом жене раввина золотое рубином жене муллы серебряное кольцо</p>
-      <p>принесли жены кольца подземелье мужья отдали солдату взял солдат кольца сказал ответить падишаху па вопросы</p>
-      <p>обрадовались поп раввин мулла головы будут целы ждут назначенного падишахом дня</p>
-      <p>наступил день падишах велел пригласить узников</p>
-      <p>подумали ответить мои вопросы спросил падишах</p>
-      <p>сказали поп раввин мулла слово слово повторили сказал солдат</p>
-      <p>догадался падишах это солдат подсказал ответ велел привести привели солдата падишах говорит</p>
-      <p>эй солдат двадцать пять лет г служил обменял свой ум чужое богатство</p>
-      <p>сделал ответил солдат гогда почему отвечали твоими словами</p>
-      <p>солдат сказал</p>
-      <p>голову попа корня срубил раввина забрал душу муллы отрезал одно ухо</p>
-      <p>это сделал солдат снова спросил падишах</p>
-      <p>выложил солдат падишаху кольца рассказал</p>
-      <p>посыпал раны солью богатство прельщает сказал солдат</p>
-      <p>удивился падишах смекалке бедного солдата говорит</p>
-      <p>хвала тебе солдат твои дела награду оставь кольца иди свой аул расскажи каков собой падишах</p>
-      <p>попрощался солдат тронулся путь сторону родного аула</p>
-    </body>
-  </text>
-</TEI>
+     <head>34. Солдат и падишах</head>
+     <p>верой версты взвалил возвращаться войске ворота время время вышел году города двадцать две домой лвадцать лет нес падишаха падишаха падишаху плечо подумал посчастливилось правдой пришло прошел пять разу самого службу служил солдат солдат солдату увидеть хурджун целых шестом это</p><p>аул вернуться возвращаюсь должен домой земляки каков отвечу падишах падишаху свой скажут служил собой увидеть</p><p>вернулся город дворец падишаха постучался солдат</p><p>спрашивают стражники тебе</p><p>вернулся ворота закрыли падишаху попросил посмеялись постучался прогнали пропустить прочь раза рассказал снова солдат солдат стражники стражники стучался</p><p>впускали второй дворце должны доложить нем падишаха падишаху первый порядок посетитель стражники стучался стучался третий четвертый</p><p>знал порядок постучался солдат четвертый</p><p>видеть падишаха сказал хочу</p><p>неред падишахом предстал пропустили солдат</p><p>говори падишах сказал тебе</p><p>сказал солдат</p><p>вернулся верой видел возвращаюсь далеких двадцать домой земляки каков лет мест начнут отвечу очень падишах падишах падишаха почтенный правдой пришел пять служил служить собой спрашивать тебе тебе увидеть</p><p>ответил падишах солдату</p><p>будешь вопроса всякому дано двадцать задам лет награду ответишь ответишь получишь пять служить согласен тебе тебе увидеть удалось это</p><p>согласился солдат</p><p>вопрос задал падишах первый свой</p><p>восхода заката какое расстояние</p><p>вечером восходит день другом заходит конце одном ровно сказал солдат солнце утром</p><p>вопрос второй задал падишах солдату</p><p>далеко земли неба</p><p>барабан бить ближе бури видно время грозы жечь земле зурне играть нам начинают небе падишах почтенный свечи слышно танцевать это</p><p>вопрос задал падишах свой солдату третий</p><p>далеко загробного мнра нашего царствар</p><p>ответил солдат</p><p>весточки давно давным далеко наши одной очень падишах пор почтенный предки сих туда ушли это</p><p>засмеялся падишах позвал приказал своего своих сдержал слова слуг</p><p>кормите отказывайте подземелье посадите</p><p>велел падишах позвать попа</p><p>вопросы задал ответить падишах попа привели смог солдату те</p><p>даю девять дней жизнью награду ответишь падишах получишь распростишься сказал сроку тебе</p><p>говорит обрадовался пе подземелье попа посадили скучает солдат солдату</p><p>день добрый</p><p>вместо голову обрушил ответного поп приветствия проклятия солдата</p><p>велел велел вопросы дал девять день дней задал нему ответить падишах падишах падишах подземелье посадить привести раввина раввину размышление следующий смог те</p><p>лишь обрадовался обругал ответ посадили приветствовал раввина раввина солдат солдату</p><p>день муллу падишаху привели третий</p><p>велел вопроса говорит девять дней ответить падишах подземелье пока посадил солдат увидел</p><p>алейкум бросили мулла подземелье почтенный салам</p><p>ваалейкум вопроса вопросы задал мулла мулла ответить отвечает отвечает падишах повторил посадили салам смог солдат солдату сюда те эх</p><p>знаю ответить сказал солдат</p><p>вскочил подошел поп слова солдата солдату услышал</p><p>взмолился вопросы дам захочешь ответить поп скажи тебе</p><p>дам пожелаешь раввин сказал тебе</p><p>бриллиантом заказать золотое золотое кольца кольцо кольцо кольцо ладно мулла ответить отольешь падиигаху поп раввин рубином сделаешь сделаешь серебряное скажу согласился согласны солдат</p><p>велели делать женам заказать кольца массивные мулле оставалось подземелье попу принести раввину своим согласились</p><p>иначе опи сказали убьют</p><p>бриллиантом вырученные деньги жене жене жене жены заказали золотое золотое кольца кольцо кольцо мастер мастеру мужьями муллы награблено попа продали раввина рубином сделал серебряное собрали</p><p>взял вопросы жены кольца кольца мужья ответить отдали па падишаху подземелье принесли сказал солдат солдату</p><p>будут головы дня ждут мулла назначенного обрадовались падишахом поп раввин целы</p><p>велел день наступил падишах пригласить узников</p><p>вопросы мои ответить падишах подумали спросил</p><p>мулла повторили поп раввин сказал сказали слово слово солдат</p><p>велел говорит догадался ответ падишах падишах подсказал привели привести солдат солдата это</p><p>богатство г двадцать лет обменял пять свой служил солдат ум чужое эй</p><p>гогда ответил отвечали почему сделал словами солдат твоими</p><p>сказал солдат</p><p>голову душу забрал корня муллы одно отрезал попа раввина срубил ухо</p><p>падишах сделал снова солдат спросил это</p><p>выложил кольца падишаху рассказал солдат</p><p>богатство посыпал прельщает раны сказал солдат солью</p><p>бедного говорит падишах смекалке солдата удивился</p><p>аул дела иди каков кольца награду оставь падишах расскажи свой собой солдат твои тебе хвала</p><p>аула попрощался путь родного солдат сторону тронулся</p></body>
+   </text>
+  </TEI>

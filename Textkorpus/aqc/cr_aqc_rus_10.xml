@@ -1,132 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
-          </publicationStmt>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
+       </publicationStmt>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="2017"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement/>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date from="2017" />
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName />
+       <age />
+       <birth>
+        <address>
+         <district />
+         <settlement />
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_10">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_10">
     <body>
-      <head>О том, как убили трех сыновей</head>
-      <p>жили мужчина одна женщина сына дети маленькие муж жены работал закатальских землях прежние времена съездив закатальские земли заработав денег купив вещи навьючив лошади возвращался обратно</p>
-      <p>одним словом хорош ая семья которая жила взошло солнце люди вывели сараев скот спокойно занимались домашними заботами момент юношам сидящим годекане держа уздечку лошадь подошел мужчина мужчина поприветствовал юношей спросил чувствуют</p>
-      <list rend="bulleted">
-        <item>Знаете ли вы семью такого-то мужчины? спросил этот мужчина. Они мои кунаки, покажите мне их дом, сказал.</item>
-      </list>
-      <p>этих людей дом красивыми воротами отправили мальчика показать гостю дом окружив детьми разговорах отце вернется скоро привезет подарков сидела мать этих детей постучал ворота женщина пошла узнать это увидела мужчину красивым конем</p>
-      <p>спросила откуда сказал мужем работает закатальских землях сказал муж отправил подарки приехал узнать живет семья друга нуждается</p>
-      <list rend="bulleted">
-        <item>Я друг вашего мужа, сказал мужчина.</item>
-      </list>
-      <p>вах подумала женщина должна такая жена которая могла принять угостить друга мужа заходи сказала этому мужчине позаботилась коне поставила варить мясо приготовила хороший ужин накормила красивой гостевой комнате постелив красивую постель отправила спать</p>
-      <p>мужчина гость спросил подать кувшин водой омовения намазу</p>
-      <p>женщина пошла заполнила кувшин теплой водой отнести гостю гость начал говорить разном шутил начал веселиться женщина поняла сказала придет закрыв ворота уложив спать детей топором руах стала заглядывать дом окна расположенного крыше дома говоря детям находится рядом боялись мать успокаивала</p>
-      <p>гость понял женщина обманывает пошел комнату спали дети глядя вверх закричал спустишься сожгу твоих детей</p>
-      <p>эта женщина болело сердце детей спустилась мужчина одному зарезал детей момент женщины потемнело глазах</p>
-      <p>зарезав детей мужчина попытался убежать поднимался крышу собрав свои силы женщина ударила топором голове</p>
-      <p>наступило утро женщина пошла село всем сообщила случившемся единого собрались вошедшие дом люди увидели реке крови детей гостя эта женщина упала обморок увидела убитых детей одни удивлялись мужеству женщины другие жалели детей упрекали мать</p>
-      <p>мужчину гостя краю села вырыв яму бросили поставили красивых надгробных памятника троих ребят похоронили кладбище эта женщина надев черную траурную одежду сидела выходя улицу</p>
-      <p>некоторое время навьюченным лошадей товаром нажитым богатством приехал муж женщины ко всем вернувшимся закатальских земель мужчинам побежали дети встретить нему никто вышел</p>
-      <p>интересно случилось м ожет болеют подумал мужчина никто смог сказать случившемся зашел дом нашел трауре жену сидящую яме застал одного ребенка произошло случилось дети спросил муж наших детей сказала жена рассказала случилось</p>
-      <p>мужчина сильно расстроился жена убивалась село собралось соболезнование утром старшинами села пошли могилы детей муж привез поездки раздали людям</p>
-      <p>человека жили печали жили выходя улицу муж ценил жену мужество успокаивал некоторое время родился мальчик торжества этому случаю собрали село</p>
-    </body>
-  </text>
-</TEI>
+     <head>О том, как убили трех сыновей</head>
+     <p>вещи возвращался времена денег дети женщина жены жили закатальские закатальских заработав земли землях купив лошади маленькие муж мужчина навьючив обратно одна прежние работал съездив сына</p><p>ая взошло вывели годекане держа домашними жила заботами занимались которая лошадь люди момент мужчина мужчина одним подошел поприветствовал сараев семья сидящим скот словом солнце спокойно спросил уздечку хорош чувствуют юношам юношей</p><list rend="bulleted">
+      <item>Знаете ли вы семью такого-то мужчины? спросил этот мужчина. Они мои кунаки, покажите мне их дом, сказал.</item>
+     </list>
+     <p>вернется ворота воротами гостю детей детьми дом дом женщина конем красивым красивыми людей мальчика мать мужчину окружив отправили отце подарков показать постучал пошла привезет разговорах сидела скоро увидела узнать этих этих это</p><p>друга живет закатальских землях муж мужем нуждается откуда отправил подарки приехал работает семья сказал сказал спросила узнать</p><list rend="bulleted">
+      <item>Я друг вашего мужа, сказал мужчина.</item>
+     </list>
+     <p>варить вах гостевой должна друга жена женщина заходи комнате коне которая красивой красивую могла мужа мужчине мясо накормила отправила подумала позаботилась поставила постелив постель приготовила принять сказала спать такая угостить ужин хороший этому</p><p>водой гость кувшин мужчина намазу омовения подать спросил</p><p>боялись веселиться водой ворота говорить говоря гость гостю детей детям дом дома женщина женщина заглядывать закрыв заполнила крыше кувшин мать находится начал начал окна отнести поняла пошла придет разном расположенного руах рядом сказала спать стала теплой топором уложив успокаивала шутил</p><p>вверх глядя гость детей дети женщина закричал комнату обманывает понял пошел сожгу спали спустишься твоих</p><p>болело глазах детей детей женщина женщины зарезал момент мужчина одному потемнело сердце спустилась эта</p><p>голове детей женщина зарезав крышу мужчина поднимался попытался свои силы собрав топором убежать ударила</p><p>вошедшие всем гостя детей детей детей дом другие единого жалели женщина женщина женщины крови люди мать мужеству наступило обморок одни пошла реке село случившемся собрались сообщила убитых увидела увидели удивлялись упала упрекали утро эта</p><p>бросили вырыв выходя гостя женщина кладбище красивых краю мужчину надгробных надев одежду памятника поставили похоронили ребят села сидела траурную троих улицу черную эта яму</p><p>богатством вернувшимся время всем встретить вышел дети женщины закатальских земель ко лошадей муж мужчинам навьюченным нажитым некоторое нему никто побежали приехал товаром</p><p>болеют детей дети дом жена жену застал зашел интересно м муж мужчина нашел наших никто одного ожет подумал произошло рассказала ребенка сидящую сказала сказать случившемся случилось случилось случилось смог спросил трауре яме</p><p>детей жена людям могилы муж мужчина поездки пошли привез раздали расстроился села село сильно соболезнование собралось старшинами убивалась утром</p><p>время выходя жену жили жили мальчик муж мужество некоторое печали родился село случаю собрали торжества улицу успокаивал ценил человека этому</p></body>
+   </text>
+  </TEI>

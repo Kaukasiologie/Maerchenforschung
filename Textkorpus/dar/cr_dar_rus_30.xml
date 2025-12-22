@@ -1,150 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
-          <geo/>
-        </placeName>
-        <date>1966</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Ниналаловa</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Ф.А.</forename>
-            <surname xml:lang="rus">Алиева</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Ф.А.</forename>
-            <surname xml:lang="rus">Алиевa</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/567284/dakhadayevskiy-rayon.html">Dakhadayevskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/540078/kubachi.html">Kubachi</settlement>
+       <geo />
+      </placeName>
+      <date>1966</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Ниналаловa</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Ф.А.</forename>
+        <surname xml:lang="rus">Алиева</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Ф.А.</forename>
+        <surname xml:lang="rus">Алиевa</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_30">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_30">
     <body>
-      <head>112 Хитрая жена (дарг.) </head>
-      <p>жили жили муж женой сидели очага долго говорили собой заспорили</p>
-      <p>женщина найдет способ одурачить мужчину говорит жена</p>
-      <p>проведешь настаивал своем муж</p>
-      <p>сказала жена прекратила спор</p>
-      <p>прошло какое время однажды жена купила базаре свежую рыбу закопала огороде некоторое время муж отправился огород нашел две рыбы обрадовался принес домой говорит жене</p>
-      <p>ка жена быстро пожарь поужинать утро осталось</p>
-      <p>сказала жена</p>
-      <p>пожарила обе рыбы спрятала приходит вечером муж домой ужину рыбы</p>
-      <p>пожарила рыбу моему приходу ради шутки принес возмутился муж</p>
-      <p>какую рыбу откуда взялась говоришь сказала жена притворившись удивленной</p>
-      <p>откуда говорю той рыбе которую принес огорода говорит муж</p>
-      <p>огороде бывает рыба удивленно спросила жена ошибся</p>
-      <p>ошибся спорит муж жена нашел рыбу огороде принес домой</p>
-      <p>спор сбежались соседи удивились причудам своего соседа решив сошел ума надели мешок подвесили потолку соседи разошлись жена вытащила рыбу показала мужу</p>
-      <p>рыба закричал муж</p>
-      <p>снова прибежали соседи поколотили разошлись жена несколько заставляла собираться соседей</p>
-      <p>стемнело жена напомнила мужу споре</p>
-      <p>помнишь сказала говорила тебе женщина найдет способ перехитрить опозорить мужчину соглашался мной понял хитрее</p>
-      <p>жена рассказала обо всем произошло</p>
-      <p>согласен согласен говорит муж развяжи умираю голода</p>
-      <p>муж говорят каждый молясь приговаривал аллах избавь женских хитростей</p>
-    </body>
-  </text>
-</TEI>
+     <head>112 Хитрая жена (дарг.) </head>
+     <p>говорили долго женой жили жили заспорили муж очага сидели собой</p><p>говорит жена женщина мужчину найдет одурачить способ</p><p>муж настаивал проведешь своем</p><p>жена прекратила сказала спор</p><p>базаре время время говорит две домой жена жене закопала какое купила муж нашел некоторое обрадовался огород огороде однажды отправился принес прошло рыбу рыбы свежую</p><p>быстро жена ка осталось пожарь поужинать утро</p><p>жена сказала</p><p>вечером домой муж обе пожарила приходит рыбы рыбы спрятала ужину</p><p>возмутился моему муж пожарила принес приходу ради рыбу шутки</p><p>взялась говоришь жена какую откуда притворившись рыбу сказала удивленной</p><p>говорит говорю которую муж огорода откуда принес рыбе той</p><p>бывает жена огороде ошибся рыба спросила удивленно</p><p>домой жена муж нашел огороде ошибся принес рыбу спорит</p><p>вытащила жена мешок мужу надели подвесили показала потолку причудам разошлись решив рыбу сбежались своего соседа соседи соседи сошел спор удивились ума</p><p>закричал муж рыба</p><p>жена заставляла несколько поколотили прибежали разошлись снова собираться соседей соседи</p><p>жена мужу напомнила споре стемнело</p><p>говорила женщина мной мужчину найдет опозорить перехитрить помнишь понял сказала соглашался способ тебе хитрее</p><p>всем жена обо произошло рассказала</p><p>говорит голода муж развяжи согласен согласен умираю</p><p>аллах говорят женских избавь каждый молясь муж приговаривал хитростей</p></body>
+   </text>
+  </TEI>

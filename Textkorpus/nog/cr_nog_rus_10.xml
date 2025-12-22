@@ -1,147 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Nogaische Folklore</title>
-        <title xml:lang="eng">Nogai Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Nogaische Folklore</title>
+      <title xml:lang="eng">Nogai Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Ногайские народные сказки</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Ногайские народные сказки</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="nog">Ногай эртегилер.</title>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 67–68.</publisher>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="nog">Ногай эртегилер.</title>
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 67–68.</publisher>
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="nog">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
-          <geo/>
-        </placeName>
-        <date>1959</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">С.</forename>
-            <surname xml:lang="rus">Санглибаев</surname>
-          </persName>
-          <age/>
-          <birth>
-            <date>1903</date>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">АЖДАУТ</forename>
-            <surname xml:lang="rus">НОГАЙ</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="nog">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
+       <district />
+       <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
+       <geo />
+      </placeName>
+      <date>1959</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">С.</forename>
+        <surname xml:lang="rus">Санглибаев</surname>
+       </persName>
+       <age />
+       <birth>
+        <date>1903</date>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">АЖДАУТ</forename>
+        <surname xml:lang="rus">НОГАЙ</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_nog_rus_10">
+   </teiHeader>
+   <text xml:id="cr_nog_rus_10">
     <body>
-      <head>3. Как еж выдумал серп </head>
-      <p>давние времена люди звери ели траву травы становилось меньше меньше однажды звери собрались решили хватит нам голодать отныне люди должны траву</p>
-      <p>люди обработали землю посеяли просо пшеницу ячмень уродилось славу собрать богатый урожай люди знали</p>
-      <p>хан собрал своем дворце людей зверей птиц обратился такими словами</p>
-      <p>пришла пора собирать урожай знаем это сделать скажет собрать просо пшеницу ячмень</p>
-      <p>люди звери птицы молчали лишь старик выступил вперед сказал хану</p>
-      <p>собрались твоему зову среди ежа наверняка дал дельный совет забудьте еж очень обидчивый станете смеяться рассердится останемся</p>
-      <p>хан приказал послать ежом посланный разыскал ежа повел хану дороге рассказал ежу дело</p>
-      <p>придя собрание еж свернулся клубок стал слушать люди заметили окружили сторон старики стоят спокойно молодежь никак сдержать смех смеются всё громче громче</p>
-      <p>рассердился еж значит люди позвали потешиться долго думая еж ушел дворца</p>
-      <p>спохватились люди поздно самый старик который предложил послать ежом сказал</p>
-      <p>дело поправить еж сердится обычно разговаривает собой давайте пошлем потихоньку кого пусть послушает бормочет еж</p>
-      <p>пошлите попросила кошка вряд это сделает</p>
-      <p>хан приказал кошке потихоньку следовать ежом незаметно подкралась сзади слышит</p>
-      <p>ох хан бестолковый проще взять кусок железа виде горбушки бить молотком тех пор пока станет похож молодой месяц затем вырезать зубцы серп готов</p>
-      <p>кошка запомнила слова ежа побежала обратно дворец рассказала хану слышала хан приказал сделать говорил еж люди понаделали серпов быстро убрали урожай</p>
-    </body>
-  </text>
-</TEI>
+     <head>3. Как еж выдумал серп </head>
+     <p>времена голодать давние должны ели звери звери люди люди меньше меньше нам однажды отныне решили собрались становилось траву траву травы хватит</p><p>богатый землю знали люди люди обработали посеяли просо пшеницу славу собрать уродилось урожай ячмень</p><p>дворце зверей людей обратился птиц своем словами собрал такими хан</p><p>знаем пора пришла просо пшеницу сделать скажет собирать собрать урожай это ячмень</p><p>вперед выступил звери лишь люди молчали птицы сказал старик хану</p><p>дал дельный еж ежа забудьте зову наверняка обидчивый останемся очень рассердится смеяться собрались совет среди станете твоему</p><p>дело дороге ежа ежом ежу повел посланный послать приказал разыскал рассказал хан хану</p><p>всё громче громче еж заметили клубок люди молодежь никак окружили придя свернулся сдержать слушать смех смеются собрание спокойно стал старики сторон стоят</p><p>дворца долго думая еж еж значит люди позвали потешиться рассердился ушел</p><p>ежом который люди поздно послать предложил самый сказал спохватились старик</p><p>бормочет давайте дело еж еж кого обычно поправить послушает потихоньку пошлем пусть разговаривает сердится собой</p><p>вряд кошка попросила пошлите сделает это</p><p>ежом кошке незаметно подкралась потихоньку приказал сзади следовать слышит хан</p><p>бестолковый бить взять виде вырезать горбушки готов железа затем зубцы кусок месяц молодой молотком ох пока пор похож проще серп станет тех хан</p><p>быстро говорил дворец еж ежа запомнила кошка люди обратно побежала понаделали приказал рассказала сделать серпов слова слышала убрали урожай хан хану</p></body>
+   </text>
+  </TEI>

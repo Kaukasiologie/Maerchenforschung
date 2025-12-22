@@ -1,212 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tatische Folklore</title>
-        <title xml:lang="eng">Tat Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tatische Folklore</title>
+      <title xml:lang="eng">Tat Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ttt">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
-          <geo/>
-        </placeName>
-        <date>1954</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Гвдит</forename>
-            <surname xml:lang="rus">Израилова</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Амалдан</forename>
-            <surname xml:lang="rus">Кукуллу</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Амалдан</forename>
-            <surname xml:lang="rus">Кукуллу</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ttt">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
+       <geo />
+      </placeName>
+      <date>1954</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Гвдит</forename>
+        <surname xml:lang="rus">Израилова</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Амалдан</forename>
+        <surname xml:lang="rus">Кукуллу</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Амалдан</forename>
+        <surname xml:lang="rus">Кукуллу</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ttt_rus_44">
+   </teiHeader>
+   <text xml:id="cr_ttt_rus_44">
     <body>
-      <head>28. Иса, Муса и кадий</head>
-      <p>встретились дороге человека разговорились спросил зовут далеко путь держишь ответил зовут иса иду город работу искать зовут путь держишь зовут муса иду город работу искать иса спросил</p>
-      <p>можешь делать муса ответил</p>
-      <p>придется</p>
-      <p>иса сказал</p>
-      <p>придется делаю будем вместе работать</p>
-      <p>познакомились зашагали вместе</p>
-      <p>знает сколько шли полудню прибыли город стали ворота стучаться кричать</p>
-      <p>кого работа кого работа</p>
-      <p>дворов исходили иса муса поисках работы старик спросил пих</p>
-      <p>нс возьметесь перекопать поле</p>
-      <p>иса муса переглянулись ответили</p>
-      <p>почему возьмемся</p>
-      <p>привел старик поле дал лопаты ушел</p>
-      <p>иса скинул халат взял лопату принялся вскапывать поле муса взобрался пригорок воткнул лопату самый черенок землю повесил халат исы сел тени воткнет иса лопату землю муса пригорка кричит фу откинет иса землю муса фу время</p>
-      <p>видит иса муса работает заставить работать решается время идет иса работает работает поднимая головы</p>
-      <p>устал поле огромным день жарким смахнул иса лба нот посмотрел сторону мусы муса встал ноги сделал вид устал стоит тяжело дышит</p>
-      <p>иса вздохнул снова принялся работу воткнет землю лопату муса пригорка кричит фу откинет иса землю муса фу</p>
-      <p>заходу солнца иса перекопал поле взял свой халат направился хозяину последовал муса</p>
-      <p>пришли старику сказали работа сделапа</p>
-      <p>бросил старик эршефи муса прыгнул первым схватил эршефи</p>
-      <p>поздно утром разменяем поделим нашзаработок сказал муса положил монету карман нужно переспать</p>
-      <p>иса промолчал</p>
-      <p>отыскали городе стог сена заночевали нем</p>
-      <p>утром снова ходили дворам кричали</p>
-      <p>кого работа кого работа</p>
-      <p>торговец предложил нагрузить арбу дынями продать базаре</p>
-      <p>продадите заплачу сказал торговец</p>
-      <p>иса грузит арбу муса стоит поодаль кричит пах пах</p>
-      <p>привезли дыни базар стали продавать дыни спелые вкусные огромные сзывать покупателей пришлось иса подает покупателям дыни муса стоит поодаль кричит пах пах целый день</p>
-      <p>дыни кончились иса муса пришли торговцу отдали сму деньги стали ждать вознаграждения довольный торговец пересчитал деньги муса сказал</p>
-      <p>давай плати нам</p>
-      <p>дал торговец эршефи выпроводил улицу</p>
-      <p>иса муса шли улице муса сказал</p>
-      <p>иса нам пора делить деньги</p>
-      <p>иса возмутился работал уставал делал брать</p>
-      <p>часть моих денег хочу тобой делиться просто напросто бездельник давай сюда деньги ступай своей дорогой</p>
-      <p>муса обиженно спросил</p>
-      <p>сидел пригорке копал поле</p>
-      <p>иса ответил</p>
-      <p/>
-      <p>муса</p>
-      <p>кричал тебе пригорка фу фу</p>
-      <p>иса ответил</p>
-      <p>стоял рядом тобой грузил ар бу кричал пах пах</p>
-      <p>муса</p>
-      <p>базаре торговал кричал пах пах</p>
-      <p/>
-      <p>муса сказал</p>
-      <p>работал помогал тебе</p>
-      <p>ису разозлили слова мусы крикнул</p>
-      <p>это слыхано фу пах деньги платили согласен тобой отдавай сюда деньги твои</p>
-      <p>исой мусой разгорелся жаркий спор</p>
-      <p>хитрец плут кричал иса отдай сюда мои деньги</p>
-      <p>муса ответ</p>
-      <p>это хитрец плут хочешь обмануть</p>
-      <p>спор собрались люди стали расспрашивать ссорятся</p>
-      <p>рассказал народу иса</p>
-      <p>фу пах плут хочет часть моего заработка взять</p>
-      <p>стал народ стыдить мусу муса свое</p>
-      <p>работал помогал</p>
-      <p>поняли люди спору конца посоветовали сходить кадию</p>
-      <p>наверняка правильно решит ваш спор сказали</p>
-      <p>пришли иса муса кадию рассказали стали ждать решения кадий выслушал обоих спросил</p>
-      <p>деньги кого находятся</p>
-      <p>мусы</p>
-      <p>кадий почесал затылок говорит</p>
-      <p>сбегай муса разменяй деньги разделю добру чести каждый получит долю велел пригласить дом несколько человек качестве свидетелей</p>
-      <p>прибежал радостный муса лавку разменял деньги отдал кадию кадий положил деньги мешочек спрашивает мусу</p>
-      <p>скажи ка муса дзинь пан деньги платят муса отбил поклон сказал</p>
-      <p>почтенный кадий платят</p>
-      <p>кадий бросил па пол мешочек деньгами деньги звякнули дзинь</p>
-      <p>муса слышал звук дзинь</p>
-      <p>муса отбил поклоны сказал</p>
-      <p>слышал почтенный кадий</p>
-      <p>кадий поднял мешочек деньгами подозвал мусу потряс мешочком самым ухом н спросил</p>
-      <p>слышал звук</p>
-      <p>муса вновь отбил поклоны ответил</p>
-      <p>динь динь почтенный кадий</p>
-      <p>кадий сказал</p>
-      <p>ваш спор решен муса фу п пах получил дзинь динь иса работу получил деньги заработаны</p>
-      <p>муса собрался возмутиться люди обрушили голову проклятия вытолкнули дверь</p>
-      <p>оглядки бежал муса дороге иса взял свои деньги поблагодарил народ пошел городу искать новой работы</p>
-      <p>таких людях муса народ говорит чужой арбе далеко уедешь</p>
-    </body>
-  </text>
-</TEI>
+     <head>28. Иса, Муса и кадий</head>
+     <p>встретились город город далеко держишь держишь дороге зовут зовут зовут зовут иду иду иса иса искать искать муса ответил путь путь работу работу разговорились спросил спросил человека</p><p>делать можешь муса ответил</p><p>придется</p><p>иса сказал</p><p>будем вместе делаю придется работать</p><p>вместе зашагали познакомились</p><p>ворота город знает кричать полудню прибыли сколько стали стучаться шли</p><p>кого кого работа работа</p><p>дворов иса исходили муса пих поисках работы спросил старик</p><p>возьметесь нс перекопать поле</p><p>иса муса ответили переглянулись</p><p>возьмемся почему</p><p>дал лопаты поле привел старик ушел</p><p>взобрался взял воткнет воткнул время вскапывать землю землю землю иса иса иса исы кричит лопату лопату лопату муса муса муса откинет повесил поле пригорка пригорок принялся самый сел скинул тени фу фу халат халат черенок</p><p>видит время головы заставить идет иса иса муса поднимая работает работает работает работать решается</p><p>вид встал день дышит жарким иса лба муса мусы ноги нот огромным поле посмотрел сделал смахнул стоит сторону тяжело устал устал</p><p>вздохнул воткнет землю землю иса иса кричит лопату муса муса откинет пригорка принялся работу снова фу фу</p><p>взял заходу иса муса направился перекопал поле последовал свой солнца халат хозяину</p><p>пришли работа сделапа сказали старику</p><p>бросил муса первым прыгнул старик схватил эршефи эршефи</p><p>карман монету муса нашзаработок нужно переспать поделим поздно положил разменяем сказал утром</p><p>иса промолчал</p><p>городе заночевали нем отыскали сена стог</p><p>дворам кричали снова утром ходили</p><p>кого кого работа работа</p><p>арбу базаре дынями нагрузить предложил продать торговец</p><p>заплачу продадите сказал торговец</p><p>арбу грузит иса кричит муса пах пах поодаль стоит</p><p>базар вкусные день дыни дыни дыни иса кричит муса огромные пах пах подает покупателей покупателям поодаль привезли пришлось продавать сзывать спелые стали стоит целый</p><p>вознаграждения деньги деньги довольный дыни ждать иса кончились муса муса отдали пересчитал пришли сказал сму стали торговец торговцу</p><p>давай нам плати</p><p>выпроводил дал торговец улицу эршефи</p><p>иса муса муса сказал улице шли</p><p>делить деньги иса нам пора</p><p>брать возмутился делал иса работал уставал</p><p>бездельник давай делиться денег деньги дорогой моих напросто просто своей ступай сюда тобой хочу часть</p><p>муса обиженно спросил</p><p>копал поле пригорке сидел</p><p>иса ответил</p><p /><p>муса</p><p>кричал пригорка тебе фу фу</p><p>иса ответил</p><p>ар бу грузил кричал пах пах рядом стоял тобой</p><p>муса</p><p>базаре кричал пах пах торговал</p><p /><p>муса сказал</p><p>помогал работал тебе</p><p>ису крикнул мусы разозлили слова</p><p>деньги деньги отдавай пах платили слыхано согласен сюда твои тобой фу это</p><p>жаркий исой мусой разгорелся спор</p><p>деньги иса кричал мои отдай плут сюда хитрец</p><p>муса ответ</p><p>обмануть плут хитрец хочешь это</p><p>люди расспрашивать собрались спор ссорятся стали</p><p>иса народу рассказал</p><p>взять заработка моего пах плут фу хочет часть</p><p>муса мусу народ свое стал стыдить</p><p>помогал работал</p><p>кадию конца люди поняли посоветовали спору сходить</p><p>ваш наверняка правильно решит сказали спор</p><p>выслушал ждать иса кадий кадию муса обоих пришли рассказали решения спросил стали</p><p>деньги кого находятся</p><p>мусы</p><p>говорит затылок кадий почесал</p><p>велел деньги добру долю дом каждый качестве муса несколько получит пригласить разделю разменяй сбегай свидетелей человек чести</p><p>деньги деньги кадий кадию лавку мешочек муса мусу отдал положил прибежал радостный разменял спрашивает</p><p>деньги дзинь ка муса муса отбил пан платят поклон скажи сказал</p><p>кадий платят почтенный</p><p>бросил деньгами деньги дзинь звякнули кадий мешочек па пол</p><p>дзинь звук муса слышал</p><p>муса отбил поклоны сказал</p><p>кадий почтенный слышал</p><p>деньгами кадий мешочек мешочком мусу н поднял подозвал потряс самым спросил ухом</p><p>звук слышал</p><p>вновь муса отбил ответил поклоны</p><p>динь динь кадий почтенный</p><p>кадий сказал</p><p>ваш деньги дзинь динь заработаны иса муса п пах получил получил работу решен спор фу</p><p>возмутиться вытолкнули голову дверь люди муса обрушили проклятия собрался</p><p>бежал взял городу деньги дороге иса искать муса народ новой оглядки поблагодарил пошел работы свои</p><p>арбе говорит далеко людях муса народ таких уедешь чужой</p></body>
+   </text>
+  </TEI>

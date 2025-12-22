@@ -1,177 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/573115/bol-shoy-gotsatl.html"> Gotsatl’ </settlement>
-          <geo/>
-        </placeName>
-        <date>1952</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Патиналаев</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">Д.</forename>
-            <surname xml:lang="rus">Атаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/573115/bol-shoy-gotsatl.html"> Gotsatl’ </settlement>
+       <geo />
+      </placeName>
+      <date>1952</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Патиналаев</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">Д.</forename>
+        <surname xml:lang="rus">Атаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_113">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_113">
     <body>
-      <head>78. Мукучихан</head>
-      <p>жил жил бедный мельник повадился нему вор поедать оставленные ужин хинкалы</p>
-      <p>польститься ужин недоумевал мельник решил поймать вора притаился темном углу ждет</p>
-      <p>некоторое время видит открывается дверь входит облезлая лиса начинает спокойно лакомиться хинкалами</p>
-      <p>непрошеный гость закричал мельник захлопнул дверь стал изо сил колотить лису крепкой дубинкой</p>
-      <p>бей отпусти мельник начала умолять лиса сделаю богачом женю ханской дочке станешь богатым знатным обещай позаботиться моей старости</p>
-      <p>захотелось мельнику разбогатеть жениться ханской дочери отпустил лису лиса ночь бродила базарной свалке нашла аббаси</p>
-      <p>утром прибежала хану говорит</p>
-      <p>мудрый хан везир великого мукучихана решили сосчитать сокровища дашь нам твою большую мерку</p>
-      <p>мерку дам падишах почему слышал нем удивился хан</p>
-      <p>услышишь хан ответила лиса взяла мерку покинула дворец</p>
-      <p>второй день лиса положила мерку аббаси отнесла хану</p>
-      <p>посмотрел хан нашел дне мерки аббаси</p>
-      <p>лиса временем стала бродить всем окрестным базарам нашла золотой туман</p>
-      <p>снова пошла хану попросила одолжить большую мерку</p>
-      <p>тебе мерка спросил хан сосчитали казну</p>
-      <p>знай хан казна моего падишаха столь велика подсчета потребуется меньше недели ответила лиса взяла мерку убежала</p>
-      <p>неделю вернула хану мерку нашел внутри золотой туман подумал</p>
-      <p>мукучихан должно обладает несметными сокровищами</p>
-      <p>прошло некоторое время лиса пришла хану стала сватать дочь великого падишаха мукучихана хан охотно согласился</p>
-      <p>договорились встретиться берегу реки лиса направилась мельнику</p>
-      <p>слушай сказала приблизимся реке должен прыгнуть воду сделать вид тонешь приближенные хана спасут остальном положись</p>
-      <p>лиса сбросила мельника лохмотья вымыла накинула старую шубу украсила венками свежих цветов повела реке</p>
-      <p>другом берегу поджидал хан многочисленной свитой лиса незаметно столкнула мельника воду стала кричать</p>
-      <p>спасите моего падишаха тонет</p>
-      <p>пока бравые нукеры хана подоспели помощь быстрая река унесла нашего падишаха далеко вниз вытащили одели простую черкеску ноговицы сроду видел мельник одежды стал удивленно рассматривать</p>
-      <p>эй дурни закричала лиса смели оскорбить великого падишаха будущего зятя вашего хана осмелились дать такую нищенскую одежду</p>
-      <p>приближенные хана тотчас одели мельника лучшие одежды опоясали шашкой кинжалом усадили арабского скакуна</p>
-      <p>жених вся свита подъехали ханскому дворцу бедный мельник вытаращил глаза удивления</p>
-      <p>это спросил встревоженный хан</p>
-      <p>впервые видит такие жалкие строения сравнению дворцом моего падишаха твое скромное обиталище просто лачуга ответила лиса</p>
-      <p>второй день сыграли свадьбу которая продолжалась целую неделю затем мукучихан ханской дочкой целым обозом большой свитой отправились обратный путь впереди бежала лиса</p>
-      <p>долго ехали мало ехали днем ехали ночью ехали знаем правда лиса увидела зеленых лугах большое стадо красных коров черных быков белых телят спросила</p>
-      <p>хозяин этих стад</p>
-      <p>аждаха ответили пастухи</p>
-      <p>произносите имени дорога жизнь сказала лиса сюда движется могучее войско шести падишахов главе мукучиханом пушка разнесет вашего ажаху клочья говорите владения могучего мукучихана</p>
-      <p>свита мукучихана спросила владельце этих метных стад перепуганные пастухи дружно ответили</p>
-      <p>хозяин мукучихан</p>
-      <p>затем лиса увидела огромные табуны скакунов отары овец которые принадлежали аждахе лиса предупредила табунщиков чабанов грозящей опасности вопрос ханской свиты ответили хозяин падишах мусучихан</p>
-      <p>лиса временем прибежала аждахе испуганно закричала</p>
-      <p>бедный аждаха идут войска шести падишахов пушкой спасайся пока поздно</p>
-      <p>считал другом разрешал воровать моих кур помоги избавиться беды стал умолять аждаха</p>
-      <p>около твоего дворца стоит большая скирда сена спрячься туда шевелись посоветовала лиса</p>
-      <p>аждаха спрятался скирду лиса подожгла бедный аждаха сгорел заживо</p>
-      <p>мукучихан женой провожающими подъехали дворцу аждахи лиса встретила устроила пир</p>
-      <p>прошло время возгордился мукучихан стал забывать лисе решила проверить мукучихана притворилась жертвой слуги немедленно прибежали дворец доложили несчастье</p>
-      <p>подумаешь несчастье смерть лисы сказал мукучихан старая плутовка давно надоела</p>
-      <p>лиса встала начала петь</p>
-      <p>расскажу мельнике</p>
-      <p>коварном самозванце</p>
-      <p>испуганный мукучихан стал умолять лису простить велел щедро одарить</p>
-      <p>говорят живет лиса припеваючи дворце мукучихана тех пор разговаривает</p>
-    </body>
-  </text>
-</TEI>
+     <head>78. Мукучихан</head>
+     <p>бедный вор жил жил мельник нему оставленные повадился поедать ужин хинкалы</p><p>вора ждет мельник недоумевал поймать польститься притаился решил темном углу ужин</p><p>видит время входит дверь лакомиться лиса начинает некоторое облезлая открывается спокойно хинкалами</p><p>гость дверь дубинкой закричал захлопнул изо колотить крепкой лису мельник непрошеный сил стал</p><p>бей богатым богачом дочке женю знатным лиса мельник моей начала обещай отпусти позаботиться сделаю станешь старости умолять ханской</p><p>аббаси базарной бродила дочери жениться захотелось лиса лису мельнику нашла ночь отпустил разбогатеть свалке ханской</p><p>говорит прибежала утром хану</p><p>большую везир великого дашь мерку мудрый мукучихана нам решили сокровища сосчитать твою хан</p><p>дам мерку нем падишах почему слышал удивился хан</p><p>взяла дворец лиса мерку ответила покинула услышишь хан</p><p>аббаси второй день лиса мерку отнесла положила хану</p><p>аббаси дне мерки нашел посмотрел хан</p><p>базарам бродить временем всем золотой лиса нашла окрестным стала туман</p><p>большую мерку одолжить попросила пошла снова хану</p><p>казну мерка сосчитали спросил тебе хан</p><p>велика взяла знай казна лиса меньше мерку моего недели ответила падишаха подсчета потребуется столь убежала хан</p><p>вернула внутри золотой мерку нашел неделю подумал туман хану</p><p>должно мукучихан несметными обладает сокровищами</p><p>великого время дочь лиса мукучихана некоторое охотно падишаха пришла прошло сватать согласился стала хан хану</p><p>берегу встретиться договорились лиса мельнику направилась реки</p><p>вид воду должен остальном положись приближенные приблизимся прыгнуть реке сделать сказала слушай спасут тонешь хана</p><p>венками вымыла лиса лохмотья мельника накинула повела реке сбросила свежих старую украсила цветов шубу</p><p>берегу воду другом кричать лиса мельника многочисленной незаметно поджидал свитой стала столкнула хан</p><p>моего падишаха спасите тонет</p><p>бравые быстрая видел вниз вытащили далеко мельник нашего ноговицы нукеры одежды одели падишаха подоспели пока помощь простую рассматривать река сроду стал удивленно унесла хана черкеску</p><p>будущего вашего великого дать дурни закричала зятя лиса нищенскую одежду оскорбить осмелились падишаха смели такую хана эй</p><p>арабского кинжалом лучшие мельника одежды одели опоясали приближенные скакуна тотчас усадили хана шашкой</p><p>бедный вся вытаращил глаза дворцу жених мельник подъехали свита удивления ханскому</p><p>встревоженный спросил хан это</p><p>видит впервые дворцом жалкие лачуга лиса моего обиталище ответила падишаха просто скромное сравнению строения такие твое</p><p>бежала большой впереди второй день дочкой затем которая лиса мукучихан неделю обозом обратный отправились продолжалась путь свадьбу свитой сыграли ханской целую целым</p><p>белых большое быков днем долго ехали ехали ехали ехали зеленых знаем коров красных лиса лугах мало ночью правда спросила стадо телят увидела черных</p><p>стад хозяин этих</p><p>аждаха ответили пастухи</p><p>ажаху вашего владения войско главе говорите движется дорога жизнь имени клочья лиса могучего могучее мукучихана мукучиханом падишахов произносите пушка разнесет сказала сюда шести</p><p>владельце дружно метных мукучихана ответили пастухи перепуганные свита спросила стад этих</p><p>мукучихан хозяин</p><p>аждахе вопрос грозящей затем которые лиса лиса мусучихан овец огромные опасности отары ответили падишах предупредила принадлежали свиты скакунов табунщиков табуны увидела ханской хозяин чабанов</p><p>аждахе временем закричала испуганно лиса прибежала</p><p>аждаха бедный войска идут падишахов поздно пока пушкой спасайся шести</p><p>аждаха беды воровать другом избавиться кур моих помоги разрешал стал считал умолять</p><p>большая дворца лиса около посоветовала сена скирда спрячься стоит твоего туда шевелись</p><p>аждаха аждаха бедный заживо лиса подожгла сгорел скирду спрятался</p><p>аждахи встретила дворцу женой лиса мукучихан пир подъехали провожающими устроила</p><p>возгордился время дворец доложили жертвой забывать лисе мукучихан мукучихана немедленно несчастье прибежали притворилась проверить прошло решила слуги стал</p><p>давно лисы мукучихан надоела несчастье плутовка подумаешь сказал смерть старая</p><p>встала лиса начала петь</p><p>мельнике расскажу</p><p>коварном самозванце</p><p>велел испуганный лису мукучихан одарить простить стал умолять щедро</p><p>говорят дворце живет лиса мукучихана пор припеваючи разговаривает тех</p></body>
+   </text>
+  </TEI>

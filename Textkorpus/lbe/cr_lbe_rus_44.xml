@@ -1,173 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>ф. 9. on. I, д. № 12</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>ф. 9. on. I, д. № 12</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lbe">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-          <geo/>
-        </placeName>
-        <date>1932</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">П.</forename>
-            <surname xml:lang="rus">Бейчуев</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Каяев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lbe">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+       <geo />
+      </placeName>
+      <date>1932</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">П.</forename>
+        <surname xml:lang="rus">Бейчуев</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Каяев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_44">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_44">
     <body>
-      <head>75. Мудрая дочь пастуха </head>
-      <p>одного пастуха умная красивая дочь одного царя нукера захотелось царю опозорить своих нукеров приказал отправиться поляну выкроить вернуться</p>
-      <p>пришли нукеры поляну делать знают</p>
-      <p>дочь пастуха подошла спросила делают</p>
-      <p>велел нам царь выкроить поляну</p>
-      <p>это сложное дело помогу</p>
-      <p>сумеешь это сделать удивились</p>
-      <p>идите царю попросите ножницы принесите завтра покажу кроить поляну парь ножницы даст скажите можете кроить голыми руками говорите царю дал совет</p>
-      <p>нукеры вернулись царю спросил иыкроили поляну</p>
-      <p>подготовили пришли ножницами</p>
-      <p>понял царь надоумил ответить сгал спрашивать дал совет</p>
-      <p>нукеры хотели выдать девушку царь пригрозил отрубит головы испугавшись признались целый день ходили поляны знали делать пока дочь пастуха сказала</p>
-      <p>царь приказал нукерам подготовить утру нескольких баранов оседлать коней утром нукеры захватили баранов вместе царем отправились охоту поляне встретились пастухом девушкой подозвал царь пастуха говорит</p>
-      <p>стереги наших баранов пусть окотятся пока будем охотиться</p>
-      <p>отец спросил дочери</p>
-      <p>могут самцы окотиться</p>
-      <p>беспокойся отец ответила дочь зарежь</p>
-      <p>баранов</p>
-      <p>зарезав баранов отец дочь стали ждать царя некоторое время царь нукерами вернулся охоты дочь увидела велела отцу лечь постель укрыла</p>
-      <p>подъехав царь спросил девушки</p>
-      <p>отец</p>
-      <p>отец родил сына спит</p>
-      <p>мужчина рожает насмешливо спросил царь</p>
-      <p>почему ответила дочь пастуха добавила твои бараны могут окотиться почему отец родить сына</p>
-      <p>царь удивился уехал домой</p>
-      <p>царю понравилась эта мудрая девушка решив жепиться отправил людей пастуху пастух тотчас согласился выдать дочь царя</p>
-      <p>однажды царь собрался ехать город наказал жене выходить комнаты крыльцо вмешиваться чужие дела приезда</p>
-      <p>проводив мужа девушка сидела окна скуки смотрела двор увидела двух юношей которые подрались пришли жаловаться одного разбит рот вытерпела спросила</p>
-      <p>случилось</p>
-      <p>избил ответил гоноша разбитым ртом</p>
-      <p>девушка приказала принести жар печки дать руки драчуну</p>
-      <p>сгорят руки воскликнул отказался взять жар</p>
-      <p>царица сказала</p>
-      <p>знаешь жара сгорят ру ки бил товарища знал это кончится кровыо иди запомни жара руки горят драки течет кровь</p>
-      <p>спустя несколько дней сидя окна увидела двое мужчин руганью вошли двор ведя жеребенка</p>
-      <p>утверждал жеребенок рожден арбой говорил ожеребилась лошадь</p>
-      <p>царица воскликнула</p>
-      <p>ой смотрите снег горит</p>
-      <p>снег гореть это глупость сказал владелец арбы</p>
-      <p>глупо утверждать жеребенок твоей арбы возразила царица прибавила значит жеребенок лошади</p>
-      <p>день приехал царь слуги доложили царица раза судила</p>
-      <p>тебе сказал никуда выходила никого судила воскликнул царь бери хочешь уходи моего дома царь пошел спать</p>
-      <p>царица приказала приготовить фаэтон положила спящего мужа поехала отцу царя уложила палас сама села около</p>
-      <p>проснулся царь увидел почему очутился доме пастуха спросил жены</p>
-      <p>это такое</p>
-      <p>приказал взять нравится уйти твоем доме нравишься</p>
-      <p>видно отстанешь сказал царь</p>
-      <p>взял жену пошел обратно домой</p>
-    </body>
-  </text>
-</TEI>
+     <head>75. Мудрая дочь пастуха </head>
+     <p>вернуться выкроить дочь захотелось красивая нукера нукеров одного одного опозорить отправиться пастуха поляну приказал своих умная царю царя</p><p>делать знают нукеры поляну пришли</p><p>делают дочь пастуха подошла спросила</p><p>велел выкроить нам поляну царь</p><p>дело помогу сложное это</p><p>сделать сумеешь удивились это</p><p>говорите голыми дал даст завтра идите кроить кроить можете ножницы ножницы парь покажу поляну попросите принесите руками скажите совет царю царю</p><p>вернулись иыкроили нукеры поляну спросил царю</p><p>ножницами подготовили пришли</p><p>дал надоумил ответить понял сгал совет спрашивать царь</p><p>выдать головы девушку делать день дочь знали испугавшись нукеры отрубит пастуха пока поляны пригрозил признались сказала ходили хотели царь целый</p><p>баранов баранов вместе встретились говорит девушкой захватили коней нескольких нукерам нукеры оседлать отправились охоту пастуха пастухом подготовить подозвал поляне приказал утром утру царем царь царь</p><p>баранов будем наших окотятся охотиться пока пусть стереги</p><p>дочери отец спросил</p><p>могут окотиться самцы</p><p>беспокойся дочь зарежь ответила отец</p><p>баранов</p><p>баранов велела вернулся время дочь дочь ждать зарезав лечь некоторое нукерами отец отцу охоты постель стали увидела укрыла царь царя</p><p>девушки подъехав спросил царь</p><p>отец</p><p>отец родил спит сына</p><p>мужчина насмешливо рожает спросил царь</p><p>бараны добавила дочь могут окотиться ответила отец пастуха почему почему родить сына твои</p><p>домой удивился уехал царь</p><p>выдать девушка дочь жепиться людей мудрая отправил пастух пастуху понравилась решив согласился тотчас царю царя эта</p><p>вмешиваться выходить город дела ехать жене комнаты крыльцо наказал однажды приезда собрался царь чужие</p><p>вытерпела двор двух девушка жаловаться которые мужа одного окна подрались пришли проводив разбит рот сидела скуки смотрела спросила увидела юношей</p><p>случилось</p><p>гоноша избил ответил разбитым ртом</p><p>дать девушка драчуну жар печки приказала принести руки</p><p>взять воскликнул жар отказался руки сгорят</p><p>сказала царица</p><p>бил горят драки жара жара запомни знаешь знал иди ки кончится кровыо кровь ру руки сгорят течет товарища это</p><p>ведя вошли двое двор дней жеребенка мужчин несколько окна руганью сидя спустя увидела</p><p>арбой говорил жеребенок лошадь ожеребилась рожден утверждал</p><p>воскликнула царица</p><p>горит ой смотрите снег</p><p>арбы владелец глупость гореть сказал снег это</p><p>арбы возразила глупо жеребенок жеребенок значит лошади прибавила твоей утверждать царица</p><p>день доложили приехал раза слуги судила царица царь</p><p>бери воскликнул выходила дома моего никого никуда пошел сказал спать судила тебе уходи хочешь царь царь</p><p>мужа около отцу палас поехала положила приготовить приказала сама села спящего уложила фаэтон царица царя</p><p>доме жены очутился пастуха почему проснулся спросил увидел царь</p><p>такое это</p><p>взять доме нравится нравишься приказал твоем уйти</p><p>видно отстанешь сказал царь</p><p>взял домой жену обратно пошел</p></body>
+   </text>
+  </TEI>

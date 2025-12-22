@@ -1,173 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>ф. 9, on 1, д № 6</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>ф. 9, on 1, д № 6</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Джумы</forename>
-            <surname xml:lang="rus">Магомедкизи</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А</forename>
-            <surname xml:lang="rus">Алиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Джумы</forename>
+        <surname xml:lang="rus">Магомедкизи</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А</forename>
+        <surname xml:lang="rus">Алиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_94">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_94">
     <body>
-      <head>78. Хан и портной </head>
-      <p>жил одной стране хан слыл народе очень умным странным человеком однажды приказал позвать портных живущих городе сказал</p>
-      <p>каждый должен сшить платье день</p>
-      <p>ночыо хан выйдя дома стал подслушивать говорят нем портные остановившись окном одного портного хан услышал портной просил своего сына</p>
-      <p>пошей вместо очень устал</p>
-      <p>сын портного ответил</p>
-      <p>беспокой пожалуйста отец дай поспать очень приятный сон снится</p>
-      <p>день хану принесли одежды задержал юношу видевшего сон ушли спросил сына портного</p>
-      <p>сон вчера видел</p>
-      <p>сын портного отказался рассказать сон хан посадил глубокий темный подвал долго томился несчастный подвале скуки начал копать землю вырыл длинный ход конце концов ход уперся какую комнату юноша потихоньку вошел туда увидел красивую девушку девушка спала па столе приготовлены вкусные яства</p>
-      <p>юноша следует поужинал поцеловал спящую девушку ушел подвал</p>
-      <p>девушка проснулась удивлена съел ужин комнату никто кроме прислуги входил вторую ночь произошло самое наступила третья ночь ханская дочь решила подкараулить непрошеного гостя пришел юноша поужинал уходом хотел поцеловать девушку открыла глаза сын портного перепугался девушка успокоив спросила</p>
-      <p>попал сюда</p>
-      <p>молодой человек рассказал случилось</p>
-      <p>дня встречи продолжались целый год ханская дочь влюбилась сына портного</p>
-      <p>однажды хан далекой страны прислал этому хану трех кобылиц пусть хан определит просил лошадей старшая средняя самая молодая кобылицы одинаковой масти одинакового роста одинаковыми приметами хан призвал своих подданных никто мог определить возраста кобылиц хан опечалился пришел дочери поделиться своим горем дочь посоветовала показать этих кобылиц стражей</p>
-      <p>девушка рассказала сыну портного добавила</p>
-      <p>хан спросит можешь определить этих кобылиц старшая отвечай можешь сделаешь это хан даст слово выдать замуж дочь</p>
-      <p>юноша сделал</p>
-      <p>хан возмутился дерзостью молодого человека вынужден дать слово сын портного сказал каких лет кобылицы</p>
-      <p>хан снова стал просить юношу рассказать видел сне сын портного отказался хан снова заключил темницу снова продолжались тайные свидания юноши дочери хана</p>
-      <p>некоторое время хан далекой страны прислал одинаковых закрытых сундука одном лежала девушка другом вдова третьем старуха хан призвал своих людей отгадать находится ответа никто дать мог пришлось обратиться сыну портного</p>
-      <p>ханская дочь сказала юноше</p>
-      <p>нужно поднять каждый сундук самом легком девушка следующем вдова самом тяжелом сундуке</p>
-      <p>старуха</p>
-      <p>сын портного поднял сундука узнал каком сундуке находится снова сказал хану пока дал слова выдать замуж дочь освободить стражи</p>
-      <p>это время заморский хан приславший кобылиц сундуки написал нашему хаиу письмо просьбой прислать нему знаменитого отгадывателя юноша поехал хану</p>
-      <p>прибыл дворец вошел прямо комнаты восемь комнат обошел никого встретил девятой комнате увидел прекрасную девушку</p>
-      <p>девушка испугалась могла сказать успокоившись спросила</p>
-      <p>приехал</p>
-      <p>сын портного рассказал красив дочь хана сразу влюбилась решила помочь молодому человеку сказала</p>
-      <p>час приедет отец спросит сумеешь громадного камня несколько сот пудов весом сшить платье ответь сумеешь условием необходимое шитья дал хан главное пока отец даст слова выдать замуж должен отвечать вопросы</p>
-      <p>девушка указала гостю комнату дождался приезда хана</p>
-      <p>приветствия хан спросил сумеет дать ответы вопросы сын портного ответил сумеет хан даст слово выдать дочь замуж</p>
-      <p>хан дал юноше слово</p>
-      <p>указав одну скалу хан спросил</p>
-      <p>можешь сшить камня платье</p>
-      <p>г ость ответил</p>
-      <p>могу дай нитки платья</p>
-      <p>юноша принес хану несколько пудов песку сказал</p>
-      <p>свей нитки песка такими нитками сшить платье камня добавил юноша</p>
-      <p>хан побежден выдал замуж дочь</p>
-      <p>счастливый муж молодой женой возвратился домой</p>
-      <p>взял жены дочь своего хана</p>
-      <p>построив дом трех комнат крайних комнатах поселил жен средней стал жить</p>
-      <p>жил некогда бедный сын портного стал отцом двух мальчиков однажды счастливый муж сидел своей средней комнате своих комнат вышли жены детьми одна села правую руку мужа другая левую сыновей полез правое плечо отца левое это время одна жен увидела идет гости хан жены забрав детей убежали свои комнаты хан вошел сел рядом зятем</p>
-      <p>сказал юноша расскажу тебе свой сон сне видел красное солнце село справа полная луна слева затем видел красного солнца отделилась яркая звезда опустилась правое плечо луны отделилась другая яркая звезда опустилась левое плечо знаю солнце луна мои жены яркие звезды мои сыновья</p>
-      <p>нашел свое счастье бедный сын портного</p>
-    </body>
-  </text>
-</TEI>
+     <head>78. Хан и портной </head>
+     <p>городе живущих жил народе однажды одной очень позвать портных приказал сказал слыл стране странным умным хан человеком</p><p>день должен каждый платье сшить</p><p>выйдя говорят дома нем ночыо одного окном остановившись подслушивать портного портной портные просил своего стал сына услышал хан хан</p><p>вместо очень пошей устал</p><p>ответил портного сын</p><p>беспокой дай отец очень пожалуйста поспать приятный снится сон</p><p>видевшего день задержал одежды портного принесли сон спросил сына ушли хану юношу</p><p>видел вчера сон</p><p>вкусные вошел вырыл глубокий девушка девушку длинный долго землю какую комнату конце концов копать красивую начал несчастный отказался па подвал подвале портного посадил потихоньку приготовлены рассказать скуки сон спала столе сын темный томился туда увидел уперся хан ход ход юноша яства</p><p>девушку подвал поужинал поцеловал следует спящую ушел юноша</p><p>вторую входил глаза гостя девушка девушка девушку дочь комнату кроме наступила непрошеного никто ночь ночь открыла перепугался подкараулить портного поужинал поцеловать прислуги пришел произошло проснулась решила самое спросила съел сын третья удивлена ужин успокоив уходом ханская хотел юноша</p><p>попал сюда</p><p>молодой рассказал случилось человек</p><p>влюбилась встречи год дня дочь портного продолжались сына ханская целый</p><p>возраста горем далекой дочери дочь кобылиц кобылиц кобылиц кобылицы лошадей масти мог молодая никто одинакового одинаковой одинаковыми однажды опечалился определит определить подданных поделиться показать посоветовала призвал приметами прислал пришел просил пусть роста самая своим своих средняя старшая стражей страны трех хан хан хан хан хану этих этому</p><p>девушка добавила портного рассказала сыну</p><p>выдать даст дочь замуж кобылиц можешь можешь определить отвечай сделаешь слово спросит старшая хан хан этих это</p><p>сделал юноша</p><p>возмутился вынужден дать дерзостью каких кобылицы лет молодого портного сказал слово сын хан человека</p><p>видел дочери заключил отказался портного продолжались просить рассказать свидания сне снова снова снова стал сын тайные темницу хан хан хана юноши юношу</p><p>вдова время далекой дать девушка другом закрытых лежала людей мог находится некоторое никто обратиться одинаковых одном ответа отгадать портного призвал прислал пришлось своих старуха страны сундука сыну третьем хан хан</p><p>дочь сказала ханская юноше</p><p>вдова девушка каждый легком нужно поднять самом самом следующем сундук сундуке тяжелом</p><p>старуха</p><p>выдать дал дочь замуж каком находится освободить поднял пока портного сказал слова снова стражи сундука сундуке сын узнал хану</p><p>время заморский знаменитого кобылиц написал нашему нему отгадывателя письмо поехал приславший прислать просьбой сундуки хаиу хан хану это юноша</p><p>восемь вошел встретил дворец девушку девятой комнат комнате комнаты никого обошел прекрасную прибыл прямо увидел</p><p>девушка испугалась могла сказать спросила успокоившись</p><p>приехал</p><p>влюбилась дочь красив молодому помочь портного рассказал решила сказала сразу сын хана человеку</p><p>весом вопросы выдать главное громадного дал даст должен замуж камня необходимое несколько ответь отвечать отец отец платье пока приедет пудов слова сот спросит сумеешь сумеешь сшить условием хан час шитья</p><p>гостю девушка дождался комнату приезда указала хана</p><p>вопросы выдать даст дать дочь замуж ответил ответы портного приветствия слово спросил сумеет сумеет сын хан хан</p><p>дал слово хан юноше</p><p>одну скалу спросил указав хан</p><p>камня можешь платье сшить</p><p>г ость ответил</p><p>дай могу нитки платья</p><p>несколько песку принес пудов сказал хану юноша</p><p>добавил камня нитками нитки песка платье свей сшить такими юноша</p><p>выдал дочь замуж побежден хан</p><p>возвратился домой женой молодой муж счастливый</p><p>взял дочь жены своего хана</p><p>дом жен жить комнат комнатах крайних поселил построив средней стал трех</p><p>бедный вошел время вышли гости двух детей детьми другая жен жены жены жил забрав зятем идет комнат комнате комнаты левое левую мальчиков муж мужа некогда одна одна однажды отца отцом плечо полез портного правое правую руку рядом своей свои своих сел села сидел средней стал счастливый сын сыновей убежали увидела хан хан это</p><p>видел видел другая жены затем звезда звезда звезды знаю красного красное левое луна луна луны мои мои опустилась опустилась отделилась отделилась плечо плечо полная правое расскажу свой село сказал слева сне солнца солнце солнце сон справа сыновья тебе юноша яркая яркая яркие</p><p>бедный нашел портного свое счастье сын</p></body>
+   </text>
+  </TEI>

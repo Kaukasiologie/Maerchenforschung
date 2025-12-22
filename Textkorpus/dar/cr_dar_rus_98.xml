@@ -1,143 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Darginische Folklore</title>
-        <title xml:lang="eng">Dargwa Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Darginische Folklore</title>
+      <title xml:lang="eng">Dargwa Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>Личный архив 3. Абдуллаева</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>Личный архив 3. Абдуллаева</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="dar">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/551590/kaytagskiy-rayon.html">Kaytagskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/552671/karatsan.html">Karatsan</settlement>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Арслапбеков</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">З.</forename>
-            <surname xml:lang="rus">Абдуллаев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="dar">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/551590/kaytagskiy-rayon.html">Kaytagskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/552671/karatsan.html">Karatsan</settlement>
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Арслапбеков</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">З.</forename>
+        <surname xml:lang="rus">Абдуллаев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_dar_rus_98">
+   </teiHeader>
+   <text xml:id="cr_dar_rus_98">
     <body>
-      <head>107. Насреддин и Азраип </head>
-      <p>однажды мулла насреддин тяжело заболел нему пришел азраил забрать душу азраил сел изголовья больного насреддин повернулся лег азраил оказался ног азраил перешел изголовью насреддина снова изменил положение повторялось несколько насреддин понял азраил оставит покое начал просить отложить смерть пока раза помолится азраил отправился богу передать просьбу насреддина</p>
-      <p>дело обстоит отложим смерть насреддина дадим раза помолиться сказал бог азраилу</p>
-      <p>азраил вернулся насреддину разрешил совершить две молитвы смертью насреддин встал помолился надел обувь азраил спросил почему молится второй</p>
-      <p>какое тебе дело буду молиться второй</p>
-      <p>бог разрешили две молитвы</p>
-      <p>азраил разозлился пошел богу доложить насреддин хочет молиться второй</p>
-      <p>можем сделать ответил бог сами разрешили помолиться раза заберем душу получится обманули</p>
-      <p>азраил вернулся насреддину договорился странствовать излечивая больных собрать богатство</p>
-      <p>азраил сказал</p>
-      <p>буду садиться изголовья больного садись ног говори родственникам больного умрет требуй буду садиться ног больного го садись изголовья говори родственникам больной выживет дадут вознаграждение</p>
-      <p>договорившись азраил насреддин отправились странствие побывали разных царствах разных государствах собрали денег нагрузили верблюдов лошадей фургоны большим караваном вернулись дом насреддина</p>
-      <p>насреддин разложил богатства комнатам стал отдыхать азраил дома ждал нетерпением насреддин поделит привезли насреддин думал делить имущество азраил ждал пятнадцать дней выдержал сказал пора ехать домой насреддин удивился ответил задерживает пусть едег хочет азраил возразил потребовал поделить богатство собранное ими вместе</p>
-      <p>какое гы богатство собрал спросил насреддин</p>
-      <p>тебе нужно богатство собери тех кого умертвил те больные изголовья которых сидел вылечены мною родственников получил вознаграждение хотел иметь богатство почему излечивал тех больных изголовья которых сидел даю тебе</p>
-      <p>хлеба дорогу отпускаю четыре стороны</p>
-      <p>азраил вернулся богу рассказал обо всем</p>
-      <p>поделаешь насреддин прав ответил бог</p>
-    </body>
-  </text>
-</TEI>
+     <head>107. Насреддин и Азраип </head>
+     <p>азраил азраил азраил азраил азраил азраил богу больного душу заболел забрать изголовью изголовья изменил лег мулла насреддин насреддин насреддин насреддина насреддина начал нему несколько ног однажды оказался оставит отложить отправился передать перешел повернулся повторялось пока покое положение помолится понял пришел просить просьбу раза сел смерть снова тяжело</p><p>азраилу бог дадим дело насреддина обстоит отложим помолиться раза сказал смерть</p><p>азраил азраил вернулся встал второй две молитвы молится надел насреддин насреддину обувь помолился почему разрешил смертью совершить спросил</p><p>буду второй дело какое молиться тебе</p><p>бог две молитвы разрешили</p><p>азраил богу второй доложить молиться насреддин пошел разозлился хочет</p><p>бог душу заберем можем обманули ответил получится помолиться раза разрешили сами сделать</p><p>азраил богатство больных вернулся договорился излечивая насреддину собрать странствовать</p><p>азраил сказал</p><p>больного больного больного больной буду буду вознаграждение выживет го говори говори дадут изголовья изголовья ног ног родственникам родственникам садись садись садиться садиться требуй умрет</p><p>азраил большим верблюдов вернулись государствах денег договорившись дом караваном лошадей нагрузили насреддин насреддина отправились побывали разных разных собрали странствие фургоны царствах</p><p>азраил азраил азраил богатства богатство вместе возразил выдержал делить дней дома домой думал едег ехать ждал ждал задерживает ими имущество комнатам насреддин насреддин насреддин насреддин нетерпением ответил отдыхать поделит поделить пора потребовал привезли пусть пятнадцать разложил сказал собранное стал удивился хочет</p><p>богатство гы какое насреддин собрал спросил</p><p>богатство богатство больные больных вознаграждение вылечены даю изголовья изголовья излечивал иметь кого которых которых мною нужно получил почему родственников сидел сидел собери те тебе тебе тех тех умертвил хотел</p><p>дорогу отпускаю стороны хлеба четыре</p><p>азраил богу вернулся всем обо рассказал</p><p>бог насреддин ответил поделаешь прав</p></body>
+   </text>
+  </TEI>

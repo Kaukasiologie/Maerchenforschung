@@ -1,160 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lesgische Folklore</title>
-        <title xml:lang="eng">Lezgian Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lesgische Folklore</title>
+      <title xml:lang="eng">Lezgian Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lez">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country>Azerbaijan</country>
-          <region/>
-          <district> Кусарского р-на</district>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Н.</forename>
-            <surname xml:lang="rus">Мамедов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Гаджиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lez">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country>Azerbaijan</country>
+       <region />
+       <district> Кусарского р-на</district>
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Н.</forename>
+        <surname xml:lang="rus">Мамедов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Гаджиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lez_rus_34">
+   </teiHeader>
+   <text xml:id="cr_lez_rus_34">
     <body>
-      <head>80. Жадный кадий </head>
-      <p>жил одном ауле бедный человек однажды нашел кувшин золота решил спрятать подходящего места никак мог найти вспомнил кадии подумал идут нашему кадию советом разрешением споров пойду нему отдам свое золото хранение</p>
-      <p>пошел кадию поставил кувшин золотом стол</p>
-      <p>кадий говорит</p>
-      <p>поставь вон ту полку</p>
-      <p>поставил кувшин полку ушел домой</p>
-      <p>месяца бедняк захотел получить свое золото пришел кадию говорит</p>
-      <p>хочу взять свое золото</p>
-      <p>кувшин стоит месте отвечает кадий</p>
-      <p>ведняк взял свой кувшин ушел вернувшись домой снял крышку увидел вместо золота кувшине мед решил никому рассказывать лицо стало хмурым</p>
-      <p>соседству жил сухта видя бедняк ходит хмурым сухта спросил случилось</p>
-      <p>кувшин золотом ответил бедняк</p>
-      <p>отдал золото хранение кадию получил кувшин обратно оказалось золото превратилось н мед</p>
-      <p>сухты оказывается учились сына кадия</p>
-      <p>сухта говорит бедняку</p>
-      <p>достань двух медвежат принеси разделаюсь кадием</p>
-      <p>бедняк пошел лес поймал двух медвежат отдал сухте</p>
-      <p>сухта устроил своем доме комнату похожую комнату кадия надел халат стал раза день утром полдень вечером кормить медвежат пол халата</p>
-      <p>некоторое время медвежата привыкли пищу пол халата</p>
-      <p>сухта отпустил домой сыновей кадия оставил</p>
-      <p>видя дети возвращаются кадий идет сухте спрашивает</p>
-      <p>мои дети</p>
-      <p>дети превратились медвежат говорит сухта</p>
-      <p>кадий рассердился говорит</p>
-      <p>это разговоры дети превращаются медвежат</p>
-      <p>сухта говорит</p>
-      <p>веришь сядь комнате впущу медвежат побегут тебе будут цепляться полы твоего халата это твои дети будут чужие</p>
-      <p>кадий пришел людьми сел комнате сухты это время сухта впустил медвежат сразу побежали кадию начали хватать полы халата сидевшие рядом кадием люди посмотрели друг друга сказали кадию</p>
-      <p>кадий сухта прав твои дети действительно превратились медвежат</p>
-      <p>кадий рассердился выгнал людей комнаты говорит сухте</p>
-      <p>эй сухта это правильно дети превращались медвежат</p>
-      <p>сухта ответил</p>
-      <p>эй кадий золото кувшине превратиться п мед</p>
-      <p>ради бога сухта сказал кадий возьми кувшина золота отдай моих детей</p>
-      <p>сухта взял кадия кувшина золота отдал бедняку оставил отпустил детей кадия</p>
-    </body>
-  </text>
-</TEI>
+     <head>80. Жадный кадий </head>
+     <p>ауле бедный вспомнил жил золота золото идут кадии кадию кувшин места мог найти нашел нашему нему никак однажды одном отдам подумал подходящего пойду разрешением решил свое советом споров спрятать хранение человек</p><p>золотом кадию кувшин поставил пошел стол</p><p>говорит кадий</p><p>вон полку поставь ту</p><p>домой кувшин полку поставил ушел</p><p>бедняк говорит захотел золото кадию месяца получить пришел свое</p><p>взять золото свое хочу</p><p>кадий кувшин месте отвечает стоит</p><p>ведняк вернувшись взял вместо домой золота крышку кувшин кувшине лицо мед никому рассказывать решил свой снял стало увидел ушел хмурым</p><p>бедняк видя жил случилось соседству спросил сухта сухта хмурым ходит</p><p>бедняк золотом кувшин ответил</p><p>золото золото кадию кувшин мед н обратно оказалось отдал получил превратилось хранение</p><p>кадия оказывается сухты сына учились</p><p>бедняку говорит сухта</p><p>двух достань кадием медвежат принеси разделаюсь</p><p>бедняк двух лес медвежат отдал поймал пошел сухте</p><p>вечером день доме кадия комнату комнату кормить медвежат надел пол полдень похожую раза своем стал сухта устроил утром халат халата</p><p>время медвежата некоторое пищу пол привыкли халата</p><p>домой кадия оставил отпустил сухта сыновей</p><p>видя возвращаются дети идет кадий спрашивает сухте</p><p>дети мои</p><p>говорит дети медвежат превратились сухта</p><p>говорит кадий рассердился</p><p>дети медвежат превращаются разговоры это</p><p>говорит сухта</p><p>будут будут веришь впущу дети комнате медвежат побегут полы сядь твоего твои тебе халата цепляться чужие это</p><p>впустил время друг друга кадием кадий кадию кадию комнате люди людьми медвежат начали побежали полы посмотрели пришел рядом сел сидевшие сказали сразу сухта сухты халата хватать это</p><p>действительно дети кадий медвежат прав превратились сухта твои</p><p>выгнал говорит кадий комнаты людей рассердился сухте</p><p>дети медвежат правильно превращались сухта эй это</p><p>ответил сухта</p><p>золото кадий кувшине мед п превратиться эй</p><p>бога возьми детей золота кадий кувшина моих отдай ради сказал сухта</p><p>бедняку взял детей золота кадия кадия кувшина оставил отдал отпустил сухта</p></body>
+   </text>
+  </TEI>

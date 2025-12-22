@@ -1,123 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
-          </publicationStmt>
-        </biblFull>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="2017"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement/>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
-    </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_1">
-    <body>
-      <head>О том, как медведица чабана забрала</head>
-      <p>жил чабан зимнее время держал овец подземном загоне ближайшем хуторе хиттаб жили жена дети каждое утро выпустив загона овец отправлялся пасти вечером загнав овец загон пускался вниз семье помолившись поужинав отдохнув усталости утром снова отправлялся свое зимнее пастбище чабанить</p>
-      <p>день пригнав овец возвращался домой овцы двигаясь вперед стали разбегаться разные стороны вах ними увидели говоря подвинулся вперед увидел стоящего отарой овец медведя</p>
-      <list rend="bulleted">
-        <item>Ну, чего ты хочешь, уйди с дороги, сказал чабан медведю.</item>
-        <item>Я пришел не для того, чтобы уйти, а забрать тебя в мужья, сказал медведь. Овец своих тоже загони в загон, сказал медведь.</item>
-      </list>
-      <p>уйди дороги сегодня овец отпусти завтра вечером скажешь приду сказал чабан медведю</p>
-      <p>медведь согласился просьбу чабана принял это медведица погнав село овец забрав мужья чабана медведица отправилась берлогу</p>
-      <p>ночь овцы село вернулись чабана загнав овец загон село оправилось искать чабана днем ночью искали горах люди живого мертвого чабана нашли сделав необходимое найти чабана нйдя семья решила муж умер</p>
-      <p>чабан медведицей жил года медведицы родился ребенок медведица содержать своего ребенка мужа ночами отправлялась охоту днем сторожила мужа сбежал</p>
-      <p>некоторое время медведица днем стала отправляться пропитанием уверенная чабан сбежит каждым днем медведица пределами дома берлоги начала проводить времени возвращаться стала поздно однажды чабану удалось сбежать домой покрывшись медвежьей шерстью чабан стал очень лохматым явился своей семье жена дети испугались чабана ставшего похожим медведя</p>
-      <p>бойтесь мной случилось рассказал чабан</p>
-      <p>чабан считавшийся мертвым оказался ивых семья обрадовалась дети начали обнимать отца побрив голову бороду чабан приобрел человеческий вид медведица понявшая чабан сбежал дня кричала скале селом каталась спине поняла это бесполезно отправилась берлогу прошло немного времени чабан умер</p>
-    </body>
-  </text>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title xml:lang="deu">Artschinische Folklore</title>
+    <title xml:lang="eng">Archi Folklore</title>
+    <author key="gnd:133557154">
+     <persName>
+      <forename>Elguja</forename>
+      <surname>Dadunashvili</surname>
+     </persName>
+    </author>
+    <author key="gnd:1154734161">
+     <persName>
+      <forename>Diana</forename>
+      <surname>Forker</surname>
+     </persName>
+    </author>
+    <respStmt>
+     <resp>Annotated according to the ATU system</resp>
+     <name key="gnd:133557154">
+      <persName>
+       <forename>Elguja</forename>
+       <surname>Dadunashvili</surname>
+      </persName>
+     </name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>
+     <name ref="gnd:4028557-1"
+      >Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+    </publisher>
+    <pubPlace>
+     <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+    </pubPlace>
+    <date when="2024">2024</date>
+    <distributor>
+     <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+     <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+    </distributor>
+    <availability>
+     <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/"
+      ></ref></p>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <biblFull>
+     <titleStmt>
+      <title xml:lang="russ"
+       >Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
+     </titleStmt>
+     <publicationStmt>
+      <publisher xml:lang="rus"
+       >Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
+     </publicationStmt>
+    </biblFull>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <textClass>
+    <keywords>
+     <term type="writingSystem">utf-8</term>
+    </keywords>
+    <keywords scheme="http://uri.gbv.de/terminology/bk/">
+     <term type="text.libraryClassification.basisklassifikation" key="18.92"
+      >Sonstige asiatische Sprachen und Literaturen</term>
+     <term type="text.libraryClassification.basisklassifikation" key="73.63"
+      >Orale Traditionen</term>
+    </keywords>
+   </textClass>
+   <langUsage>
+    <language ident="aqc">
+     <index indexName="iso639-3"></index>
+     <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+    </language>
+   </langUsage>
+   <creation>
+    <placeName>
+     <country ref="https://www.geonames.org/2017370/russian-federation.html"
+      >Russian-Federation</country>
+     <region ref="https://www.geonames.org/567293/dagestan.html"
+      >Dagestan</region>
+     <district></district>
+     <settlement></settlement>
+     <geo></geo>
+    </placeName>
+    <date from="2017"></date>
+   </creation>
+   <particDesc>
+    <person role="InformatorIn">
+     <persName></persName>
+     <age></age>
+     <birth>
+      <address>
+       <district></district>
+       <settlement></settlement>
+      </address>
+     </birth>
+    </person>
+    <person role="researcher">
+     <persName></persName>
+    </person>
+    <person role="translator">
+     <persName></persName>
+    </person>
+   </particDesc>
+  </profileDesc>
+ </teiHeader>
+ <text xml:id="cr_aqc_rus_1">
+  <body>
+   <head>О том, как медведица чабана забрала</head>
+   <p>ближайшем вечером вниз время выпустив держал дети жена жил жили загнав загон загона загоне зимнее зимнее каждое овец овец овец отдохнув отправлялся отправлялся пастбище пасти подземном помолившись поужинав пускался свое семье снова усталости утро утром хиттаб хуторе чабан чабанить</p>
+   <p>вах возвращался вперед вперед говоря двигаясь день домой медведя ними овец овец овцы отарой подвинулся пригнав разбегаться разные стали стороны стоящего увидел увидели</p>
+<p>Ну, чего ты хочешь, уйди с дороги, сказал чабан медведю.</p>
+    <p>Я пришел не для того, чтобы уйти, а забрать тебя в мужья, сказал медведь. Овец своих тоже загони в загон, сказал медведь.</p>
+   <p>вечером дороги завтра медведю овец отпусти приду сегодня скажешь сказал уйди чабан</p>
+   <p>берлогу забрав медведица медведица медведь мужья овец отправилась погнав принял просьбу село согласился чабана чабана это</p>
+   <p>вернулись горах днем живого загнав загон искали искать люди мертвого муж найти нашли необходимое нйдя ночь ночью овец овцы оправилось решила сделав село село семья умер чабана чабана чабана чабана</p>
+   <p>года днем жил медведица медведицей медведицы мужа мужа ночами отправлялась охоту ребенка ребенок родился сбежал своего содержать сторожила чабан</p>
+   <p>берлоги возвращаться времени время дети днем днем дома домой жена испугались каждым лохматым медведица медведица медведя медвежьей начала некоторое однажды отправляться очень поздно покрывшись похожим пределами проводить пропитанием сбежать сбежит своей семье ставшего стал стала стала уверенная удалось чабан чабан чабана чабану шерстью явился</p>
+   <p>бойтесь мной рассказал случилось чабан</p>
+   <p>берлогу бесполезно бороду вид времени голову дети дня ивых каталась кричала медведица мертвым начали немного обнимать обрадовалась оказался отправилась отца побрив понявшая поняла приобрел прошло сбежал селом семья скале спине считавшийся умер чабан чабан чабан чабан человеческий это</p>
+  </body>
+ </text>
 </TEI>

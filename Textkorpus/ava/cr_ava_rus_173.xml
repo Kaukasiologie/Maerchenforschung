@@ -1,159 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательство &quot;Художественная литература&quot;. Маскжа 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Саидова</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">У.</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Саидова</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">У.</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_173">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_173">
     <body>
-      <head>СЫНОВЬЯ МЕЛЬНИКА </head>
-      <p>жил мельник мельница хорошая мельник отлично знал свое дело жаловался судьбу рода муке умер мельница досталась трем сыновьям ними возник спор мельницей старших сказали нужно разделить младитий считал вое оставить работать всем троим вместе</p>
-      <p>эсе таки мельницу разделили части старший брат должен первый выбрать любую часть</p>
-      <p>хочу ходить наш отец бородой муке сказал выбрал мельницу мельничную канаву ия хочу ходить бёлой бородой сказал средний брат выбрал крышу</p>
-      <p>сама мельница всем досталась младшему брату</p>
-      <p>пусть борода муке брюхо сытым сказал младший взял досталось дележа</p>
-      <p>старший почистил канаву средний починил крышу младший молол зерно собирал плату ломол</p>
-      <p>долго работали брата старший понял поступил безрассулно выбрав канаву доходы мельницы доставались младшему брату никому сказав бросил лопату которой чистил канаву ушел глаза глядят шел шел одно селение прошел другое осталось позади прошел верхний гвалдай дошел ущелья боришмале ток</p>
-      <p>краю ущелья лежал дракон</p>
-      <p>здравствуй дракон сказал подошел поближе</p>
-      <p>благодарность твое приветет вие проглотил ответил дракон</p>
-      <p>посмотрел спросил знает сказки песни сказал знает</p>
-      <p>слышал людей которые знают сказок песен съедают звери сказал дракон проглотил одним махом</p>
-      <p>среднему брату надоело чинить крышу отправившись той дороге старший угодил брюхо дракону</p>
-      <p>младший мог спокойно усидеть дома остановил мельницу отвел воду сторону отправился разыскивать братьев</p>
-      <p>попал те места погибли братья встретился драконом</p>
-      <p>приветствую дракон таким большим приветом ущелье котором живешь сказал младигий брат твое приветствие сразу проглотил услыхтал ответ дракон задал вопрос</p>
-      <p>знаешь песни сказки</p>
-      <p>знать знаю песни знаю сказки знаю многое другое хочешь спою расскажу сделаю твоему желанию гордо ответил молодой мельник</p>
-      <p>коли расскажи сказку сказал дракон</p>
-      <p>расскажу одном условии пока буду рассказывать вымолвишь одного слова скажешь случайно заговорипть сниму полоску кожи птириной локоть сказал мельник</p>
-      <p>дракон согласился мельник начал</p>
-      <p>имел пятьдесят кобылиц год сильная засуха высохла вся трава кобылицам</p>
-      <p>страшно хотелось пить отправился ними реко река покрыта льдом кобылы близко захотели подойти вынул нояса топорик пробил льду лунку снял плеч свой череп напоил пятьдесят кобылиц реке холодно должны мерзнуть ноги подумал пошел устью набрал немного валежника развел костер случился костра большой пожар загорелись реки речные камни вернулся тому месту оставил свой череп топор оказалось топор сгорел топорище череп уцелели</p>
-      <p>мельник рассказал это дракон хотел сказать вовремя вспомнил условии промолчал</p>
-      <p>оттуда поехал занб топорищем срубил несколько деревьев сделал арбу этим топорищем убил двух оленей съел мясо шкуры развесил деревьях ушел прекрасный день спова пришел это место увидел двух дерущихся пчел сказали поспорили принесет меду подрались</p>
-      <p>спор разрешить драки сказал несите мед ая посмотрю принесет</p>
-      <p>пчелы стали носить мед обгоняя друг друга несколько дней натаскали столько оленьи бурдюки наполнились краев сказал заготовили одинаковое количество меда спорить долго думая вапряг арбу положил бурдюки медом сел пчелы покорно повезли арбу разу</p>
-      <p>притлось хлестнуть кнутом одна пчела остановилась сразу поднял кнут огреть несчастью одним концом кнутовища задел землю подбросило вверх прямо небесам успел ухватиться небесный свод долго висел пока увидел внизу стог сена спустился</p>
-      <p>дракон терпеливо молчал дело дошло прыжка небес выдержал</p>
-      <p>здорово врешь вырвалось</p>
-      <p>сдеру кусок кожи шириной локоть закричал мельник приступил делу</p>
-      <p>содрал дракона кусок кожи живота увидел брюхе своих братьев худые бледные живые вытащил трое вернулись мельницу стали работать вместе</p>
-    </body>
-  </text>
-</TEI>
+     <head>СЫНОВЬЯ МЕЛЬНИКА </head>
+     <p>вместе вое возник всем дело досталась жаловался жил знал мельник мельник мельница мельница мельницей младитий муке ними нужно оставить отлично работать разделить рода свое сказали спор старших судьбу считал сыновьям трем троим умер хорошая</p><p>брат выбрать должен любую мельницу первый разделили старший таки части часть эсе</p><p>бородой бородой брат бёлой выбрал выбрал ия канаву крышу мельницу мельничную муке наш отец сказал сказал средний ходить ходить хочу хочу</p><p>брату всем досталась мельница младшему сама</p><p>борода брюхо взял дележа досталось младший муке пусть сказал сытым</p><p>зерно канаву крышу ломол младший молол плату починил почистил собирал средний старший</p><p>безрассулно боришмале брата брату бросил верхний выбрав гвалдай глаза глядят долго доставались доходы дошел другое канаву канаву которой лопату мельницы младшему никому одно осталось позади понял поступил прошел прошел работали селение сказав старший ток ушел ущелья чистил шел шел</p><p>дракон краю лежал ущелья</p><p>дракон здравствуй поближе подошел сказал</p><p>благодарность вие дракон ответил приветет проглотил твое</p><p>знает знает песни посмотрел сказал сказки спросил</p><p>дракон звери знают которые людей махом одним песен проглотил сказал сказок слышал съедают</p><p>брату брюхо дороге дракону крышу надоело отправившись среднему старший той угодил чинить</p><p>братьев воду дома мельницу младший мог остановил отвел отправился разыскивать спокойно сторону усидеть</p><p>братья встретился драконом места погибли попал те</p><p>большим брат вопрос дракон дракон живешь задал котором младигий ответ приветом приветствие приветствую проглотил сказал сразу таким твое услыхтал ущелье</p><p>знаешь песни сказки</p><p>гордо другое желанию знать знаю знаю знаю мельник многое молодой ответил песни расскажу сделаю сказки спою твоему хочешь</p><p>дракон коли расскажи сказал сказку</p><p>буду вымолвишь заговорипть кожи локоть мельник одного одном пока полоску птириной расскажу рассказывать скажешь сказал слова случайно сниму условии</p><p>дракон мельник начал согласился</p><p>вся высохла год засуха имел кобылиц кобылицам пятьдесят сильная трава</p><p>близко большой валежника вернулся вынул должны загорелись захотели камни кобылиц кобылы костер костра лунку льдом льду мерзнуть месту набрал напоил немного ними ноги нояса оказалось оставил отправился пить плеч подойти подумал пожар покрыта пошел пробил пятьдесят развел река реке реки реко речные свой свой сгорел случился снял страшно тому топор топор топорик топорище устью уцелели холодно хотелось череп череп череп</p><p>вовремя вспомнил дракон мельник промолчал рассказал сказать условии хотел это</p><p>арбу двух двух день деревьев деревьях дерущихся занб меду место мясо несколько оленей оттуда подрались поехал поспорили прекрасный принесет пришел пчел развесил сделал сказали спова срубил съел топорищем топорищем убил увидел ушел шкуры этим это</p><p>ая драки мед несите посмотрю принесет разрешить сказал спор</p><p>арбу арбу бурдюки бурдюки вапряг дней долго друг друга думая заготовили количество краев мед меда медом наполнились натаскали несколько носить обгоняя одинаковое оленьи повезли покорно положил пчелы пчелы разу сел сказал спорить стали столько</p><p>вверх висел внизу долго задел землю кнут кнутовища кнутом концом небесам небесный несчастью огреть одна одним остановилась подбросило поднял пока притлось прямо пчела свод сена спустился сразу стог увидел успел ухватиться хлестнуть</p><p>выдержал дело дошло дракон молчал небес прыжка терпеливо</p><p>врешь вырвалось здорово</p><p>делу закричал кожи кусок локоть мельник приступил сдеру шириной</p><p>бледные братьев брюхе вернулись вместе вытащил дракона живота живые кожи кусок мельницу работать своих содрал стали трое увидел худые</p></body>
+   </text>
+  </TEI>

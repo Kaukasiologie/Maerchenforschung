@@ -1,157 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tabasaranisch Folklore</title>
-        <title xml:lang="eng">Tabasaran Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tabasaranisch Folklore</title>
+      <title xml:lang="eng">Tabasaran Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>ФЛ ДГПУ</institution>
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>ФЛ ДГПУ</institution>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="tab">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/800008/rugudzh.html">Rugudzh</settlement>
-          <geo/>
-        </placeName>
-        <date>1988</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Алибеков</surname>
-          </persName>
-          <age>68</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.</forename>
-            <surname xml:lang="rus">Амирханов</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.М.</forename>
-            <surname xml:lang="rus">Курбанов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="tab">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/800008/rugudzh.html">Rugudzh</settlement>
+       <geo />
+      </placeName>
+      <date>1988</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Алибеков</surname>
+       </persName>
+       <age>68</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.</forename>
+        <surname xml:lang="rus">Амирханов</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.М.</forename>
+        <surname xml:lang="rus">Курбанов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_tab_rus_15">
+   </teiHeader>
+   <text xml:id="cr_tab_rus_15">
     <body>
-      <head>105 Два брата (таб.) </head>
-      <p>одном селении жила одна старуха сына подростка жили очень бедно старуха каждый день ходила лес дровами хворостом носила спине продавала базаре вырученные деньги покупала еду доме кроме одного одеяла тяжелой жизни прошли годы выросли сыновья</p>
-      <p>однажды мать пошла лес хворостом братья решили продать единственное одеяло купить ружья следующий день братья одеялом пошли базар продали кому одеяло пятнадцать рублей купили две кремневки</p>
-      <p>продав хворост базаре мать вернулась домой сыновей одеяла некоторое время пришли сыновья кремневками плечами увидев мать спрашивает</p>
-      <p>джан сыновья наше единственное одеяло откуда ружья</p>
-      <p>мать сказал старший маленькие сколько нам жить такими трудностями мать будем охотиться дичь останешься дома будешь нам готовить еду</p>
-      <p>следующий день братья ушли охоту вечеру подстрелили двух зайцев вернулись домой одного съели другого зайца мать продала базаре купила немного муки сыновья ходили охоту убивали зайцев кабанов медведей мать продавала выручку покупала еду постель</p>
-      <p>однажды желая найти крупную дичь отправились черный лес сыновья вышли одну поляну решили разойтись разные стороны охотиться отдельности</p>
-      <p>младший брат бродил лесу неожиданно наткнулся одного большого медведя парень направил ружье медведя сделал выстрела промахнулся разъяренный зверь встал дыбы погнался парень впереди медведь бегали лесу видя зверь догоняет парень решил бегать вокруг огромного пня некоторое время медведь встал задние лапы обхватил дерево своими передними лапами остановился парень пугливых схватил лапы медведя крики подоспел старший брат</p>
-      <p>пах будь здоров брат скорей наведи оба ствола выстрели висок зверя иначе разорвет кричал младший брат</p>
-      <p>старший брат увидел медведя страха задрожали колени говорит</p>
-      <p>говоришь выстрелю зверя знаешь нападет хочешь медведь разорвал брат смогу выстрелить пойду домой свидания</p>
-      <p>сказав это оставив брата таком положении старший брат вернулся домой увидев старшего сына мать спросила</p>
-      <p>сынок брат почему тобой</p>
-      <p>беспокойся мать завтра другом придет село сегодня остался ночевать ответил сын</p>
-      <p>думая младшем брате старший брат ночью заснул решил медведь наверняка растерзал рано утром отправился лес брату измотанный окровавленной грудью прилип дереву медведь таком виде трудно младший брат выпускал лапы медведя</p>
-      <p>младший брат виде старшего взмолился стал просить выстрелил медведя старший брат испугался</p>
-      <p>боишься подержи лапы медведя выстрелю сказал младший брат</p>
-      <p>согласился подошел поближе дереву вначале взял одну лапу другую освободил младшего брата</p>
-      <p>давай брат убивай зверя крепко держу предложил старший</p>
-      <p>пах говоришь брат раню отстанет постой ка одни сутки медведем пойду домой скорой встречи брат сказав двинулся путь</p>
-      <p>зашел домой мать спросила случилось братом ответил сегодня старший брат гостит друга завтра вместе придут уставший уснул мертвецким сном мать услышав такие слова растерялась</p>
-      <p>следующий день младший вернулся лес видит брат изможденный прилип стволу дерева медведь таком состоянии увидев младшего брата старший закричал сил держать медведя отпустит младший прицелился упор выстрелил голову зверя зверь сначала зарычал замертво упал подкошенное дерево</p>
-      <p>рассерженный старший брат поднял ружье направил младшего сказал старшему</p>
-      <p>брат успокойся наши деды говорили рой другому могилу туда угодишь оставил медведем ночь понял тяжело извини брат этому научил</p>
-      <p>обиженные друг друга присели деревом</p>
-      <p>успокойся случилось случилось давай шкуру снимем зверя сказал старший брат</p>
-      <p>должны сделать отозвался младший давай снимем шкуру целиком затем влезу шкуру отведи город говоря медведь дрессированный будем зарабатывать деньги</p>
-      <p>дня развлекали горожан базаре медведь прыгал плясал делал трюки начали зарабатывать деньги месяц братья купили необходимые вещи дома радость матери вернулись село</p>
-    </body>
-  </text>
-</TEI>
+     <head>105 Два брата (таб.) </head>
+     <p>базаре бедно выросли вырученные годы день деньги доме дровами еду жизни жила жили каждый кроме лес носила одеяла одна одного одном очень подростка покупала продавала прошли селении спине старуха старуха сына сыновья тяжелой хворостом ходила</p><p>базар братья братья две день единственное кому кремневки купили купить лес мать одеяло одеяло одеялом однажды пошла пошли продали продать пятнадцать решили рублей ружья следующий хворостом</p><p>базаре вернулась время домой кремневками мать мать некоторое одеяла плечами пришли продав спрашивает сыновей сыновья увидев хворост</p><p>джан единственное наше одеяло откуда ружья сыновья</p><p>будем будешь готовить дичь дома еду жить маленькие мать мать нам нам останешься охотиться сказал сколько старший такими трудностями</p><p>базаре братья вернулись вечеру выручку двух день домой другого еду зайца зайцев зайцев кабанов купила мать мать медведей муки немного одного охоту охоту подстрелили покупала постель продавала продала следующий съели сыновья убивали ушли ходили</p><p>вышли дичь желая крупную лес найти однажды одну отдельности отправились охотиться поляну разные разойтись решили стороны сыновья черный</p><p>бегали бегать большого брат брат бродил видя вокруг впереди время встал встал выстрела дерево догоняет дыбы задние зверь зверь крики лапами лапы лапы лесу лесу медведь медведь медведя медведя медведя младший направил наткнулся некоторое неожиданно обхватил огромного одного остановился парень парень парень парень передними пня погнался подоспел промахнулся пугливых разъяренный решил ружье своими сделал старший схватил</p><p>брат брат будь висок выстрели зверя здоров иначе кричал младший наведи оба пах разорвет скорей ствола</p><p>брат говорит задрожали колени медведя старший страха увидел</p><p>брат выстрелить выстрелю говоришь домой зверя знаешь медведь нападет пойду разорвал свидания смогу хочешь</p><p>брат брата вернулся домой мать оставив положении сказав спросила старшего старший сына таком увидев это</p><p>брат почему сынок тобой</p><p>беспокойся другом завтра мать ночевать остался ответил придет сегодня село сын</p><p>брат брат брате брату виде выпускал грудью дереву думая заснул измотанный лапы лес медведь медведь медведя младшем младший наверняка ночью окровавленной отправился прилип рано растерзал решил старший таком трудно утром</p><p>брат брат взмолился виде выстрелил испугался медведя младший просить стал старшего старший</p><p>боишься брат выстрелю лапы медведя младший подержи сказал</p><p>брата взял вначале дереву другую лапу младшего одну освободил поближе подошел согласился</p><p>брат давай держу зверя крепко предложил старший убивай</p><p>брат брат встречи говоришь двинулся домой ка медведем одни отстанет пах пойду постой путь раню сказав скорой сутки</p><p>брат братом вместе гостит домой друга завтра зашел мать мать мертвецким ответил придут растерялась сегодня слова случилось сном спросила старший такие услышав уснул уставший</p><p>брат брата вернулся видит выстрелил голову день дерева дерево держать закричал замертво зарычал зверь зверя изможденный лес медведь медведя младшего младший младший отпустит подкошенное прилип прицелился сил следующий сначала состоянии старший стволу таком увидев упал упор</p><p>брат младшего направил поднял рассерженный ружье сказал старшему старший</p><p>брат брат говорили деды другому извини медведем могилу научил наши ночь оставил понял рой туда тяжело угодишь успокойся этому</p><p>деревом друг друга обиженные присели</p><p>брат давай зверя сказал случилось случилось снимем старший успокойся шкуру</p><p>будем влезу говоря город давай деньги должны дрессированный зарабатывать затем медведь младший отведи отозвался сделать снимем целиком шкуру шкуру</p><p>базаре братья вернулись вещи горожан делал деньги дня дома зарабатывать купили матери медведь месяц начали необходимые плясал прыгал радость развлекали село трюки</p></body>
+   </text>
+  </TEI>

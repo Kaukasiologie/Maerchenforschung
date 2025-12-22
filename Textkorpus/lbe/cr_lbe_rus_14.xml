@@ -1,166 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lakische Folklore</title>
-        <title xml:lang="eng">Lak Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lakische Folklore</title>
+      <title xml:lang="eng">Lak Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
-          <geo/>
-        </placeName>
-        <date>1957</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Г.</forename>
-            <surname xml:lang="rus">Чутуевa</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Чутуева</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Х.М.</forename>
-            <surname xml:lang="rus">Халилова</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/537098/lakskiy-rayon.html">Lakskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/539233/kumukh.html">Kumukh</settlement>
+       <geo />
+      </placeName>
+      <date>1957</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Г.</forename>
+        <surname xml:lang="rus">Чутуевa</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Чутуева</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Х.М.</forename>
+        <surname xml:lang="rus">Халилова</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lbe_rus_14">
+   </teiHeader>
+   <text xml:id="cr_lbe_rus_14">
     <body>
-      <head>52 Справедливый судья (лак.) </head>
-      <p>жил жил жил бедняк который трудом сводил концы концами жил счет рубил лесу дрова продавал топки жителям большого аула</p>
-      <p>однажды около леса остановился отдых караван торговцев бедняк поздоровался ними сел рядом отдыхать торговцы предложили бедняку продавать дрова каждый будут проходить мимо согласился</p>
-      <p>десять двенадцать дней караван проходил мимо бедняк продавал дрова иметь дров привлек таких бедняков рубки торговцы стали покупать дрова</p>
-      <p>дела бедняка пошли лад решил развить свое дело нанял людей расплатиться ними бедняка денег пошел ростовщику попросил куруш пообещав вернуть десять дней куруш проценты пятьдесят копеек неделю караван пришел торговцы купили дрова отдал ростовщику полтора куруша</p>
-      <p>спустя некоторое время попросил ростовщика десять курушей обязавшись пятнадцать дней вернуть пятнадцать курушей</p>
-      <p>попросил сто курушей месяц вернуть сто двадцать курушей поблагодарил ростовщика</p>
-      <p>деньги твои сказал оказались очень счастливыми получил большую выгоду</p>
-      <p>ростовщик очень обрадовался дал слово</p>
-      <p>пришел найдутся деньги</p>
-      <p>прошло некоторое время бедняк пришел ростовщику попросил сто туманов обещая год вернуть сто сорок дал письменное обязательство срок вернет даст отрезать своего тела фунт мяса</p>
-      <p>прошел год прошло года бедняк является ростовщик стал разыскивать бедняка нашел слова успел сказать стал упрекать</p>
-      <p>давать деньги приносящие несчастье твоих денег потерял свои деньги платить долг буду</p>
-      <p>дело дошло суда бедняк шел суд увидел бегущего быка быком гнался владелец кричал животное остановили бедняк преградил палкой дорогу быку напоровшись палку лишился глаза хозяин быка пошел суд жаловаться бедняка</p>
-      <p>добрались селения бедняк подумал судья пощадит придет двумя жалобщиками убежать</p>
-      <p>это время дороге шла беременная женщина бедняк побежал оглядываясь назад сбил ног случился выкидыш семимесячного ребенка муж женщины пошел судье</p>
-      <p>пути встретили балхарца которого осел застрял грязи напоминающей болото бедняк решил помочь балхарцу стал тащить осла хвост оторвал</p>
-      <p>желаю иметь осла хвоста воскликнул балхарец отправился суд</p>
-      <p>бедняк дорогу думал избавиться четырех жалобщиков счастью судьи дома оказалось молодая жена бедняк пробрался рассказал своей горькой доле попросил помощи женщина пообещала помочь</p>
-      <p>наутро суд вызваны жалобщики</p>
-      <p>хорошим человеком четырех жалобщиков грозно сказал судья</p>
-      <p>жалобщики очень обрадовались судья сказал</p>
-      <p>дайте расписку согласится решением суда уплатит согласившемуся десять туманов</p>
-      <p>четверо жалобщиков сразу дали такую расписку бедняк поколебался это сделал</p>
-      <p>судья предложил каждому изложить жалобу ростовщик сразу предъявил обязательство бедняка даст вырезать фунт мяса вовремя уплатит долг судья дал ростовщику острый нож сказал</p>
-      <p>разрешаю тебе это сделать одном условии должен вырезать ровно фунт иначе излишек недостаток вырезан</p>
-      <p>аллах вырезать ровно фунт воскликнул ростовщик согласился решением суда</p>
-      <p>судья взыскал пользу бедняка десять туманов</p>
-      <p>хозяину быка судья предложил</p>
-      <p>зарежь быка разрежь голову две части походи всем базарам выясни насколько дороже дадут тебе половину целым глазом излишек возьму передам тебе</p>
-      <p>двух пятаков быка зарежу сказал владелец быка согласился судьей</p>
-      <p>взыскали десять туманов</p>
-      <p>мужу беременной женщины судья предложил</p>
-      <p>младенец семимесячный дай бедняку жену семь месяцев снова мог родиться ребенок ребенка твою пользу взыщут диат младенца</p>
-      <p>обычае убивать жену час окажется другим возразил жалобщик согласился судьей</p>
-      <p>взыскали десять туманов</p>
-      <p>балхарец видя оборот принимает дело подумал ох попал вопрос судьи жалоба балхарец ответил</p>
-      <p>моего осла хвоста убежал суда</p>
-    </body>
-  </text>
-</TEI>
+     <head>52 Справедливый судья (лак.) </head>
+     <p>аула бедняк большого дрова жил жил жил жил жителям концами концы который лесу продавал рубил сводил счет топки трудом</p><p>бедняк бедняку будут дрова каждый караван леса мимо ними однажды около остановился отдых отдыхать поздоровался предложили продавать проходить рядом сел согласился торговцев торговцы</p><p>бедняк бедняков двенадцать десять дней дров дрова дрова иметь караван мимо покупать привлек продавал проходил рубки стали таких торговцы</p><p>бедняка бедняка вернуть дела дело денег десять дней дрова караван копеек купили куруш куруш куруша лад людей нанял неделю ними отдал полтора пообещав попросил пошел пошли пришел проценты пятьдесят развить расплатиться решил ростовщику ростовщику свое торговцы</p><p>вернуть время десять дней курушей курушей некоторое обязавшись попросил пятнадцать пятнадцать ростовщика спустя</p><p>вернуть двадцать курушей курушей месяц поблагодарил попросил ростовщика сто сто</p><p>большую выгоду деньги оказались очень получил сказал счастливыми твои</p><p>дал обрадовался очень ростовщик слово</p><p>деньги найдутся пришел</p><p>бедняк вернет вернуть время год дал даст мяса некоторое обещая обязательство отрезать письменное попросил пришел прошло ростовщику своего сорок срок сто сто тела туманов фунт</p><p>бедняк бедняка год года нашел прошел прошло разыскивать ростовщик сказать слова стал стал упрекать успел является</p><p>буду давать денег деньги деньги долг несчастье платить потерял приносящие свои твоих</p><p>бегущего бедняк бедняк бедняка быка быка быком быку владелец глаза гнался дело дорогу дошло жаловаться животное кричал лишился напоровшись остановили палкой палку пошел преградил суд суд суда увидел хозяин шел</p><p>бедняк двумя добрались жалобщиками подумал пощадит придет селения судья убежать</p><p>бедняк беременная время выкидыш дороге женщина женщины муж назад ног оглядываясь побежал пошел ребенка сбил семимесячного случился судье шла это</p><p>балхарца балхарцу бедняк болото встретили грязи застрял которого напоминающей осел осла оторвал помочь пути решил стал тащить хвост</p><p>балхарец воскликнул желаю иметь осла отправился суд хвоста</p><p>бедняк бедняк горькой доле дома дорогу думал жалобщиков жена женщина избавиться молодая оказалось помочь помощи пообещала попросил пробрался рассказал своей судьи счастью четырех</p><p>вызваны жалобщики наутро суд</p><p>грозно жалобщиков сказал судья хорошим человеком четырех</p><p>жалобщики обрадовались очень сказал судья</p><p>дайте десять расписку решением согласившемуся согласится суда туманов уплатит</p><p>бедняк дали жалобщиков поколебался расписку сделал сразу такую четверо это</p><p>бедняка вовремя вырезать дал даст долг жалобу изложить каждому мяса нож обязательство острый предложил предъявил ростовщик ростовщику сказал сразу судья судья уплатит фунт</p><p>вырезан вырезать должен излишек иначе недостаток одном разрешаю ровно сделать тебе условии фунт это</p><p>аллах воскликнул вырезать решением ровно ростовщик согласился суда фунт</p><p>бедняка взыскал десять пользу судья туманов</p><p>быка предложил судья хозяину</p><p>базарам быка возьму всем выясни глазом голову дадут две дороже зарежь излишек насколько передам половину походи разрежь тебе тебе целым части</p><p>быка быка владелец двух зарежу пятаков сказал согласился судьей</p><p>взыскали десять туманов</p><p>беременной женщины мужу предложил судья</p><p>бедняку взыщут дай диат жену месяцев младенец младенца мог пользу ребенка ребенок родиться семимесячный семь снова твою</p><p>возразил другим жалобщик жену обычае окажется согласился судьей убивать час</p><p>взыскали десять туманов</p><p>балхарец балхарец видя вопрос дело жалоба оборот ответил ох подумал попал принимает судьи</p><p>моего осла суда убежал хвоста</p></body>
+   </text>
+  </TEI>

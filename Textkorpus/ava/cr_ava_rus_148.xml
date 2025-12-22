@@ -1,143 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Издательство &quot;Художественная литература&quot;. Маскжа 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Саидова</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">У.</forename>
-            <surname xml:lang="rus">Далгат</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Саидова</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">У.</forename>
+        <surname xml:lang="rus">Далгат</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_148">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_148">
     <body>
-      <head>ПОВЕСТЬ О ДЖЕНГУТАЕВЦЕ, И ЧЕЧЕНЦЕ </head>
-      <p>жил дженгутае бедняк целых семь лет любил одну девушку любила давно поженились бедность мешала настал голодный год говорится нашему горемыке больную ногу камень упал го дженгутай название аула лод тяжелые думы повредили разум сего нанял тридцать арб отправился чечню пообещав дать аробщикам мерке зерна ближе подъезжал чечне сильней раскаивался своей затее</p>
-      <p>положу арбы достану зерна аробщиков думал однажды сидя опущенной головой время остановки</p>
-      <p>здравствуй друг голову повесил сказал проезжавший мимо чеченец</p>
-      <p>дженгутаевец ответил спустя некоторое время чеченец едучи обратно застал положении</p>
-      <p>чеченец решил добиться ответа стал приставать расспросами дженгутаевец рассказал сноей глупой затее веди свой обоз ко двор неожиданно сказал чеченец</p>
-      <p>следующий день нагрузил арбы своего гостя кукурузой ошеломленный неожиданной щедростью отправился обратный путь целых тридцать арб кукурузь голодный год кукуруза вес золота бедняк голодный голый ивовая палка сразу стал богатым человеком построил хороший дом купил землю хорошего коня дорогое оружие послал сватов родителям своей возлюбленной</p>
-      <p>веё время думал отблагодарить чеченца которому обязан своим благополучием ои приобрел породистого арабского скакуна заказал седло изукрашенное золотом серебром дорогое оружие подарки послал чеченцу верным</p>
-      <p>человеком наказал передать счастлив чеченец пожалует нему гости посланец прибыл чечню чеченец очень обрадовался увидев высоко дагестанец оценил оказанную услугу задержав посланца целых троз суток чеченец приготовил подарок дженгутаевцу лучшего коня седло собрался нему гости несколько дней прибыли дженгутай встреча очень радостной несколько дней прошлн пирах веселье</p>
-      <p>чеченцу понравилась девушка просватанная кунаку знал дженгутаевец которому чеченец рассказал поговорил родителями девушки убедил отдать девушку чеченцу девушку предупредили должна согласиться страхом смерти говорить чеченцу затем соверитили брачный обряд сыграли свадьбу проводили молодых чечню</p>
-      <p>прошла неделя приехали молодожены чечню измять общую постель успели дни ночи прошли свадебных пирах чеченец заметил молодая жена горюет</p>
-      <p>тобой грустишь спрашивал</p>
-      <p>признавалась чеченец сказал убьет скажет именно тревожит душу</p>
-      <p>расскажу дженгутаевец убьет расскажу чеченец убьет подумала девушка горько заплакала чеченец выведал правду узнал дженгутаевец уступил девуш</p>
-      <p>ку которую любил семь лет чеченец отвел отдельную комнату стал обращаться сестрой прожили год дженгутаевец узнал муж н жена очень рассердился девушку отправился чеченцу снова дворе голодный год оказано благодеяние увидел чеченец пригласил дом держал тех пор пока простил девушку признание пригласили кадия пригласили моллу ударили барабан заиграли зурне отпраздновали свадьбу дженгутаевца невестой</p>
-      <p>молодожены отправились дженгутай чеченец проводил пожил доме увидел мир любовь поехал чечню дороге остановился ночлег одном доме приняли увидел кумычку лицом подобным полной луне очень понряавилась чеченец приглянулся</p>
-      <p>векоре сыграли веселую свадьбу зажили счастливо</p>
-    </body>
-  </text>
-</TEI>
+     <head>ПОВЕСТЬ О ДЖЕНГУТАЕВЦЕ, И ЧЕЧЕНЦЕ </head>
+     <p>арб аробщикам аула бедность бедняк ближе больную го говорится год голодный горемыке давно дать девушку дженгутае дженгутай думы жил затее зерна камень лет лод любил любила мерке мешала название нанял настал нашему ногу одну отправился повредили подъезжал поженились пообещав разум раскаивался своей сего семь сильней тридцать тяжелые упал целых чечне чечню</p><p>арбы аробщиков время головой достану думал зерна однажды опущенной остановки положу сидя</p><p>голову друг здравствуй мимо повесил проезжавший сказал чеченец</p><p>время дженгутаевец едучи застал некоторое обратно ответил положении спустя чеченец</p><p>веди глупой двор дженгутаевец добиться затее ко неожиданно обоз ответа приставать рассказал расспросами решил свой сказал сноей стал чеченец чеченец</p><p>арб арбы бедняк богатым вес возлюбленной год голодный голодный голый гостя день дом дорогое землю золота ивовая коня кукуруза кукурузой кукурузь купил нагрузил неожиданной обратный оружие отправился ошеломленный палка послал построил путь родителям сватов своего своей следующий сразу стал тридцать хорошего хороший целых человеком щедростью</p><p>арабского благополучием верным веё время дорогое думал заказал золотом изукрашенное которому обязан ои оружие отблагодарить подарки породистого послал приобрел своим седло серебром скакуна чеченца чеченцу</p><p>веселье встреча высоко гости гости дагестанец дженгутаевцу дженгутай дней дней задержав коня лучшего наказал нему нему несколько несколько обрадовался оказанную оценил очень очень передать пирах подарок пожалует посланец посланца прибыл прибыли приготовил прошлн радостной седло собрался суток счастлив троз увидев услугу целых человеком чеченец чеченец чеченец чечню</p><p>брачный говорить девушка девушки девушку девушку дженгутаевец должна затем знал которому кунаку молодых обряд отдать поговорил понравилась предупредили проводили просватанная рассказал родителями свадьбу смерти соверитили согласиться страхом сыграли убедил чеченец чеченцу чеченцу чеченцу чечню</p><p>горюет дни жена заметил измять молодая молодожены неделя ночи общую пирах постель приехали прошла прошли свадебных успели чеченец чечню</p><p>грустишь спрашивал тобой</p><p>душу именно признавалась скажет сказал тревожит убьет чеченец</p><p>выведал горько девуш девушка дженгутаевец дженгутаевец заплакала подумала правду расскажу расскажу убьет убьет узнал уступил чеченец чеченец</p><p>барабан благодеяние год год голодный дворе девушку девушку держал дженгутаевец дженгутаевца дом жена заиграли зурне кадия комнату которую ку лет любил моллу муж н невестой обращаться оказано отвел отдельную отправился отпраздновали очень пока пор пригласил пригласили пригласили признание прожили простил рассердился свадьбу семь сестрой снова стал тех увидел ударили узнал чеченец чеченец чеченцу</p><p>дженгутай доме доме дороге кумычку лицом луне любовь мир молодожены ночлег одном остановился отправились очень подобным поехал пожил полной понряавилась приглянулся приняли проводил увидел увидел чеченец чеченец чечню</p><p>векоре веселую зажили свадьбу счастливо сыграли</p></body>
+   </text>
+  </TEI>

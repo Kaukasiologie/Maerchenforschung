@@ -1,147 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lesgische Folklore</title>
-        <title xml:lang="eng">Lezgian Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lesgische Folklore</title>
+      <title xml:lang="eng">Lezgian Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/583791/akhtynskiy-rayon.html">Akhtynskiy Rayon</district>
-          <settlement ref="https://www.geonames.org/549185/khryug.html">Khryug</settlement>
-          <geo/>
-        </placeName>
-        <date>1966</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">С.</forename>
-            <surname xml:lang="rus">Юзбеков</surname>
-          </persName>
-          <age>66</age>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Ганиева</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">А.М.</forename>
-            <surname xml:lang="rus">Ганиева</surname>
-          </persName>
-          <persName>
-            <forename xml:lang="rus">А. А.</forename>
-            <surname xml:lang="rus">Рашидов</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/583791/akhtynskiy-rayon.html">Akhtynskiy Rayon</district>
+       <settlement ref="https://www.geonames.org/549185/khryug.html">Khryug</settlement>
+       <geo />
+      </placeName>
+      <date>1966</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">С.</forename>
+        <surname xml:lang="rus">Юзбеков</surname>
+       </persName>
+       <age>66</age>
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Ганиева</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">А.М.</forename>
+        <surname xml:lang="rus">Ганиева</surname>
+       </persName>
+       <persName>
+        <forename xml:lang="rus">А. А.</forename>
+        <surname xml:lang="rus">Рашидов</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lez_rus_24">
+   </teiHeader>
+   <text xml:id="cr_lez_rus_24">
     <body>
-      <head>102 Про старуху-мать и ее прожорливую дочь (лезг.) </head>
-      <p>старуха мать прожорливая дочь девушка очень любила поесть одну ночь съедала семь лавашей старуха мать могла прокормить день вместе дочкой пошла дороге которой возвращался торговец увидел девушку спросил старухи</p>
-      <p>старуха мать эта девушка</p>
-      <p>эта девушка продается ответила старуха</p>
-      <p>умеет делать</p>
-      <p>девушка день сделать пряжу семи килограммов шерсти соткать ковры другие изделия сегодня плачет оттого пряжа закончилась ответила</p>
-      <p>торговец обрадовавшись купил девушку увез свое селение женился спустя некоторое время торговец решил уехать своим делам купил столько шерсти ею набить целую комнату поручил жене прясть пряжу ткать ковры отправился путь прошли дни наступило время приезда мужа девушка знала прясть пряжу ткать ковры</p>
-      <p>девушка села задумалась думала думала встала приготовила целую кастрюлю мамалыги затем разложила своих плечах поставила собой веретено стала крутить облизывая мамалыгу одного плеча другого приговаривая муж наслаждается базаре страдаю домашних дел</p>
-      <p>это время напротив дома балконе сидел больной парень рана загноилась мог вставать увидев проделки девушки парень громко засмеялся рана открылась гной вытек отец парня очень обрадовался этому спросил девушки пожелала девушка ответила быстрее сделать пряжу соткать ковры муж убьет желание девушки исполнено приезду мужа работа закончена</p>
-      <p>торговец очень обрадовался остался доволен своей женой супруги сели стол удовольствием стали кушать это время ними появился жук девушка встала поймала жука держа кулаке громко заплакала</p>
-      <p>эй жена случилось почему плачешь спросил муж</p>
-      <p>плакать эта тетя работала работала превратилась жука ожидает самое сказала громче расплакалась</p>
-      <p>торговец поверив словам жены испугался говорит</p>
-      <p>богатства нам вполне хватит дам тебе делать</p>
-      <p>тех пор ели пили счастливо зажили остались вернулся сюда</p>
-    </body>
-  </text>
-</TEI>
+     <head>102 Про старуху-мать и ее прожорливую дочь (лезг.) </head>
+     <p>вместе возвращался девушка девушку день дороге дочкой дочь которой лавашей любила мать мать могла ночь одну очень поесть пошла прожорливая прокормить семь спросил старуха старуха старухи съедала торговец увидел</p><p>девушка мать старуха эта</p><p>девушка ответила продается старуха эта</p><p>делать умеет</p><p>девушка день другие закончилась изделия килограммов ковры ответила оттого плачет пряжа пряжу сделать сегодня семи соткать шерсти</p><p>время время девушка девушку делам дни ею жене женился знала ковры ковры комнату купил купил мужа набить наступило некоторое обрадовавшись отправился поручил приезда прошли пряжу пряжу прясть прясть путь решил свое своим селение спустя столько ткать ткать торговец торговец увез уехать целую шерсти</p><p>базаре веретено встала девушка дел домашних другого думала думала задумалась затем кастрюлю крутить мамалыги мамалыгу муж наслаждается облизывая одного плеча плечах поставила приговаривая приготовила разложила своих села собой стала страдаю целую</p><p>балконе больной быстрее время вставать вытек гной громко девушка девушки девушки девушки дома желание загноилась закончена засмеялся исполнено ковры мог муж мужа напротив обрадовался ответила отец открылась очень парень парень парня пожелала приезду проделки пряжу работа рана рана сделать сидел соткать спросил убьет увидев это этому</p><p>время встала громко девушка держа доволен женой жук жука заплакала кулаке кушать ними обрадовался остался очень поймала появился своей сели стали стол супруги торговец удовольствием это</p><p>жена муж плачешь почему случилось спросил эй</p><p>громче жука ожидает плакать превратилась работала работала расплакалась самое сказала тетя эта</p><p>говорит жены испугался поверив словам торговец</p><p>богатства вполне дам делать нам тебе хватит</p><p>вернулся ели зажили остались пили пор счастливо сюда тех</p></body>
+   </text>
+  </TEI>

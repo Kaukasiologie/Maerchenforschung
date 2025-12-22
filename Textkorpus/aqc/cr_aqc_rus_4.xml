@@ -1,118 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
-          </publicationStmt>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
+       </publicationStmt>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="2017"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement/>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date from="2017" />
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName />
+       <age />
+       <birth>
+        <address>
+         <district />
+         <settlement />
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_4">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_4">
     <body>
-      <head>Глупец</head>
-      <p>глупец умер отец растила мать однажды пошел лес наполнив арбу дровами возвращался домой нашел дороге иголку бросил арбу дошел дома пришел домой сказал матери нашел иголку мать спросила иголка находится ответил находится арбе мать сказала бросил арбу нужно пришить завернуть пальто</p>
-      <p>второй день также пошел лес возвращаясь нашел дороге щенка начал з аворачивать пальто подох глупец бросил арбу придя домой сказал матери нашел дороге щенка</p>
-      <p>стал заворачивать пальто подох сказал сын мать заплакала сказала погубил должен подозвать сказав кох кох принести собой</p>
-      <p>третий день также отправился лес повстречался дороге заяц крикнул зайцу кох кох заяц убежал глупец пошел домой сказал матери дороге встретился заяц сказал кох кох заяц убежал мать сказала почему сказал кох кох должен убить выстрелом ружья</p>
-      <p>пошел лес встретил одного человека стал целиться ружья успел выстрелить человек отобрал ружье избив прогнал случилось матери сказал</p>
-      <p>следующий день пошел одно село увидел роют могилу танцуя прыгая начал безумствовать люди которые копали могилу прогнали случившемся рассказал матери мать сказала сделал должен тотчас начинать бить кулаками голове плакать</p>
-      <p>пошел мальчик увидел люди танцуют свадьбе начал плакать бить кулаками голове люди прогнали</p>
-      <p>мать р ешила женитьбы выпускать дома</p>
-    </body>
-  </text>
-</TEI>
+     <head>Глупец</head>
+     <p>арбе арбу арбу арбу бросил бросил возвращался глупец дома домой домой дороге дошел дровами завернуть иголка иголку иголку лес матери мать мать мать наполнив находится находится нашел нашел нужно однажды ответил отец пальто пошел пришел пришить растила сказал сказала спросила умер</p><p>аворачивать арбу бросил возвращаясь второй глупец день домой дороге дороге з лес матери начал нашел нашел пальто подох пошел придя сказал также щенка щенка</p><p>должен заворачивать заплакала кох кох мать пальто погубил подозвать подох принести сказав сказал сказала собой стал сын</p><p>встретился выстрелом глупец день должен домой дороге дороге зайцу заяц заяц заяц заяц кох кох кох кох кох кох крикнул лес матери мать отправился повстречался почему пошел ружья сказал сказал сказал сказала также третий убежал убежал убить</p><p>встретил выстрелить избив лес матери одного отобрал пошел прогнал ружье ружья сказал случилось стал успел целиться человек человека</p><p>безумствовать бить голове день должен копали которые кулаками люди матери мать могилу могилу начал начинать одно плакать пошел прогнали прыгая рассказал роют сделал село сказала следующий случившемся танцуя тотчас увидел</p><p>бить голове кулаками люди люди мальчик начал плакать пошел прогнали свадьбе танцуют увидел</p><p>выпускать дома ешила женитьбы мать р</p></body>
+   </text>
+  </TEI>

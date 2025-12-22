@@ -1,149 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Tatische Folklore</title>
-        <title xml:lang="eng">Tat Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Tatische Folklore</title>
+      <title xml:lang="eng">Tat Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution />
+          <collection />
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution/>
-                <collection/>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ttt">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-          <geo/>
-        </placeName>
-        <date>1939</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName/>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName>
-            <forename xml:lang="rus">Амалдан</forename>
-            <surname xml:lang="rus">Кукуллу</surname>
-          </persName>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ttt">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+       <geo />
+      </placeName>
+      <date>1939</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName />
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName>
+        <forename xml:lang="rus">Амалдан</forename>
+        <surname xml:lang="rus">Кукуллу</surname>
+       </persName>
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ttt_rus_40">
+   </teiHeader>
+   <text xml:id="cr_ttt_rus_40">
     <body>
-      <head>24. Рассказ Шомоила Дербенди</head>
-      <p>это дербенте далекие времена богачей имени менешир ага устраивал свадьбу своего сына день самого раннего утра хундекучи ходили городу знакомых менешир ага работников приглашали торжество хундекучи пришли шомоилу оказалось дома работе садах дома жена хундекучи сказали</p>
-      <p>дай бог вашем доме радость ваши дети пошли венец менешир ага сегодня вечером радость справляет свадьбу своего сына просим шомоила прийти свадьбу разделить нами радость</p>
-      <p>затем хундекучи пошли дальше</p>
-      <p>вечер шомоил вернулся поздно жена говорит</p>
-      <p>приглашают свадьбу дом менешир ага</p>
-      <p>сегодня сына женит опоздать шомоил стал переодеватьсяи отправился свадьбу той одежде работал пришел шомоил двор менешир ага полно народу разных концах двора кейвопчи новых шелковых платках передниках хлопочут очагов шомоил стал проходить глубь двора навес остался стоять ворот долго ждал викто обратил внимания неподалеку стоял встречая гостей менешир ага знаку серпои усаживали богатых людей почетные места бедняков придется</p>
-      <p>вскоре накрыли столы началось веселье шомоил прежнему стоял ворот</p>
-      <p>менешир ага заметил подозвал серпои говорит</p>
-      <p>усади вон оборванца</p>
-      <p>сказано сделано серпои взял шомонла рукн усадил среди бедняков нищих принес стакан араги тарелку редькой удалился шомоил посмотрел те столы которыми сидели богачи городская знать видит плов гусятиной мясо всякая зелень вина араги одним словом тех столах</p>
-      <p>долго веселились гости разошлись далеко полночь вернулся домой шомоил</p>
-      <p>следующий день хундекучи стали ходить домам приглашать гостей свадьбу шомоила пригласили</p>
-      <p>день шомоил пришел работы раньше обычного сходил баню нарядился суконный бешмет нарядный халат надел бухарскую шапку расчесал бороду усы лишь затем отправился свадьбу</p>
-      <p>шомоил подошел воротам встретил менешир ага говорит</p>
-      <p>дорогой шомоил здравствуй проходн садись вс главе стола</p>
-      <p>менешир ага поклонился протянул руку шомоил прошел туда сидели городские богачи знать увидев шомоила красивом наряде богачи стали тесниться уступать место сел шомоил среди ждет подадут стол</p>
-      <p>столы накрыли гости начали пить шомоил чему притрагивается заметили это другие гости говорят дорогой шомоил почему ешь</p>
-      <p>шомоил молчит прежнему пичего ие ест увидел это менешир ага говорит</p>
-      <p>почему ешь дорогой шомоил жить здравствовать детям твоим ешь</p>
-      <p>шомоил оттянул рукав своего бешмета стал тыкать тарелку стаканы приговаривая</p>
-      <p>тебе говорят суконный бешмет тебе говорят нарядный халат тебе говорят бухарская шапка почему едите принесли блюда ешьте ешьте</p>
-      <p>гости удивились говорят</p>
-      <p>дорогой шомоил одежде твоей сказали тебе</p>
-      <p>шомоил сказал</p>
-      <p>предлагали вкусные блюда вина предлагали вчера шомоилом сегодня почему вчера пе оказали такого уважения сегодня почему вчера плохо одет посадили краю стола угостили одной редькой стаканом араги сегодня оделся суконный бешмет нарядный халат бухарскую шапку посадили главе стола угощаете лучшими блюдами значит одежде оказали уважение говорю своей одежде ешь хочу вашим гостем</p>
-      <p>шомоил ушел свадьбы доме самого менешир ага молва случае живет народе сей день</p>
-    </body>
-  </text>
-</TEI>
+     <head>24. Рассказ Шомоила Дербенди</head>
+     <p>ага ага богачей времена городу далекие день дербенте дома дома жена знакомых имени менешир менешир оказалось приглашали пришли работе работников раннего садах самого свадьбу своего сказали сына торжество устраивал утра ходили хундекучи хундекучи хундекучи шомоилу это</p><p>ага бог вашем ваши венец вечером дай дети доме менешир нами пошли прийти просим радость радость радость разделить свадьбу свадьбу своего сегодня справляет сына шомоила</p><p>дальше затем пошли хундекучи</p><p>вернулся вечер говорит жена поздно шомоил</p><p>ага дом менешир приглашают свадьбу</p><p>ага ага бедняков богатых викто внимания ворот встречая глубь гостей двор двора двора долго ждал женит знаку кейвопчи концах людей менешир менешир места навес народу неподалеку новых обратил одежде опоздать остался отправился очагов передниках переодеватьсяи платках полно почетные придется пришел проходить работал разных свадьбу сегодня серпои стал стал стоял стоять сына той усаживали хлопочут шелковых шомоил шомоил шомоил</p><p>веселье ворот вскоре накрыли началось прежнему столы стоял шомоил</p><p>ага говорит заметил менешир подозвал серпои</p><p>вон оборванца усади</p><p>араги араги бедняков богачи взял видит вина всякая городская гусятиной зелень знать которыми мясо нищих одним плов посмотрел принес редькой рукн сделано серпои сидели сказано словом среди стакан столах столы тарелку те тех удалился усадил шомоил шомонла</p><p>вернулся веселились гости далеко долго домой полночь разошлись шомоил</p><p>гостей день домам пригласили приглашать свадьбу следующий стали ходить хундекучи шомоила</p><p>баню бешмет бороду бухарскую день затем лишь надел нарядился нарядный обычного отправился пришел работы раньше расчесал свадьбу суконный сходил усы халат шапку шомоил</p><p>ага воротам встретил говорит менешир подошел шомоил</p><p>вс главе дорогой здравствуй проходн садись стола шомоил</p><p>ага богачи богачи городские ждет знать красивом менешир место наряде подадут поклонился протянул прошел руку сел сидели среди стали стол тесниться туда увидев уступать шомоил шомоил шомоила</p><p>говорят гости гости дорогой другие ешь заметили накрыли начали пить почему притрагивается столы чему шомоил шомоил это</p><p>ага говорит ест ие менешир молчит пичего прежнему увидел шомоил это</p><p>детям дорогой ешь ешь жить здравствовать почему твоим шомоил</p><p>бешмета оттянул приговаривая рукав своего стаканы стал тарелку тыкать шомоил</p><p>бешмет блюда бухарская говорят говорят говорят едите ешьте ешьте нарядный почему принесли суконный тебе тебе тебе халат шапка</p><p>говорят гости удивились</p><p>дорогой одежде сказали твоей тебе шомоил</p><p>сказал шомоил</p><p>араги бешмет блюда блюдами бухарскую вашим вина вкусные вчера вчера вчера главе говорю гостем ешь значит краю лучшими нарядный одежде одежде оделся одет одной оказали оказали пе плохо посадили посадили почему почему предлагали предлагали редькой своей сегодня сегодня сегодня стаканом стола стола суконный такого уважение уважения угостили угощаете халат хочу шапку шомоилом</p><p>ага день доме живет менешир молва народе самого свадьбы сей случае ушел шомоил</p></body>
+   </text>
+  </TEI>

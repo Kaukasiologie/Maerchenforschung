@@ -1,146 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Lesgische Folklore</title>
-        <title xml:lang="eng">Lezgian Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Lesgische Folklore</title>
+      <title xml:lang="eng">Lezgian Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>ф. 9, он. I, д. № 23</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>ф. 9, он. I, д. № 23</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="lez">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country>Azerbaijan</country>
-          <region/>
-          <district>Кусарского р-на</district>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date/>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">Н.</forename>
-            <surname xml:lang="rus">Мамедов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Гаджиев</surname>
-          </persName>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="lez">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country>Azerbaijan</country>
+       <region />
+       <district>Кусарского р-на</district>
+       <settlement />
+       <geo />
+      </placeName>
+      <date />
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">Н.</forename>
+        <surname xml:lang="rus">Мамедов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Гаджиев</surname>
+       </persName>
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_lez_rus_35">
+   </teiHeader>
+   <text xml:id="cr_lez_rus_35">
     <body>
-      <head>83. Жадный глупец </head>
-      <p>ил жил свете жадный глупец человек недоволен своей судьбой решил поискать счастья отправился туда людям раздают прибыв туда человек стал просить счастья сказали</p>
-      <p>таком месте ханском поле участке одну десятину родится хлеб иди раскопай это поле найдешь свое счастье</p>
-      <p>человек пошел ханскую землю видит поле котором сказали пашег человек начали пахать вдвоем одном месте наткнулись клад выкопали семь кувшинов золота</p>
-      <p>жадный глупец удовлетворился найденным золотом</p>
-      <p>снова пошел просить счастья</p>
-      <p>сказали</p>
-      <p>стране арабов сегодня выбирают шаха отправляйся туда выпустят сокола чью голову сядет станет шахом</p>
-      <p>жадный глупец шел страну арабов дороге встретился облезлый волк</p>
-      <p>идешь спросил волк</p>
-      <p>иду туда раздают счастье ответил глупец</p>
-      <p>узнай нужно сделать снова оброс шерстью</p>
-      <p>пообещав выполнить просьбу волка жадный глупец пошел дальше дошел города выбирали шаха</p>
-      <p>это время народ выпустил сокола сел голову глупца оп стал шахом глупцу показалось мало отказавшись шахства снова пошел туда раздают счастье спросил излечить облезлого волка раздавал счастье ответил</p>
-      <p>вели волк съест мозг глупца обрастет шерстью</p>
-      <p>услышав это глупец пошел волку</p>
-      <p>какое счастье дали тебе спросил волк</p>
-      <p>человек рассказал обо всем случилось</p>
-      <p>дали сказал семь кувшинов золота остался недоволен дали щахство это понравилось видно снова придется отправиться счастьем можешь излечиться съешь мозг глупца</p>
-      <p>спасибо сказал волк сколько пастбищ полей обошел нигде встретил такого глупца тебято съем</p>
-      <p>волк съел человека вновь оброс шерстью</p>
-    </body>
-  </text>
-</TEI>
+     <head>83. Жадный глупец </head>
+     <p>глупец жадный жил ил людям недоволен отправился поискать прибыв просить раздают решил свете своей сказали стал судьбой счастья счастья туда туда человек человек</p><p>десятину иди месте найдешь одну поле поле раскопай родится свое счастье таком участке ханском хлеб это</p><p>вдвоем видит выкопали землю золота клад котором кувшинов месте наткнулись начали одном пахать пашег поле пошел семь сказали ханскую человек человек</p><p>глупец жадный золотом найденным удовлетворился</p><p>пошел просить снова счастья</p><p>сказали</p><p>арабов выбирают выпустят голову отправляйся сегодня сокола станет стране сядет туда чью шаха шахом</p><p>арабов волк встретился глупец дороге жадный облезлый страну шел</p><p>волк идешь спросил</p><p>глупец иду ответил раздают счастье туда</p><p>нужно оброс сделать снова узнай шерстью</p><p>волка выбирали выполнить глупец города дальше дошел жадный пообещав пошел просьбу шаха</p><p>волка время выпустил глупца глупцу голову излечить мало народ облезлого оп ответил отказавшись показалось пошел раздавал раздают сел снова сокола спросил стал счастье счастье туда шахом шахства это</p><p>вели волк глупца мозг обрастет съест шерстью</p><p>волку глупец пошел услышав это</p><p>волк дали какое спросил счастье тебе</p><p>всем обо рассказал случилось человек</p><p>видно глупца дали дали золота излечиться кувшинов можешь мозг недоволен остался отправиться понравилось придется семь сказал снова счастьем съешь щахство это</p><p>волк встретил глупца нигде обошел пастбищ полей сказал сколько спасибо съем такого тебято</p><p>вновь волк оброс съел человека шерстью</p></body>
+   </text>
+  </TEI>

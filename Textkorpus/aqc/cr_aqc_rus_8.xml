@@ -1,116 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Artschinische Folklore</title>
-        <title xml:lang="eng">Archi Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <biblFull>
-          <titleStmt>
-            <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
-          </publicationStmt>
-        </biblFull>
-      </sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Artschinische Folklore</title>
+      <title xml:lang="eng">Archi Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="russ">Д.С. Самедов, Р.А. Магдилова: Арчинские фольклорние тексти разних жанрож</title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus">Министерство по национальноий политике республики Дагестан Дагестанской государственний унижерститет, Центр изучения родниь язиков. Махачкала 2017 </publisher>
+       </publicationStmt>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="aqc">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date from="2017"/>
-      </creation>
-      <particDesc>
-        <person role="InformatorIn">
-          <persName/>
-          <age/>
-          <birth>
-            <address>
-              <district/>
-              <settlement/>
-            </address>
-          </birth>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="aqc">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date from="2017" />
+     </creation>
+     <particDesc>
+      <person role="InformatorIn">
+       <persName />
+       <age />
+       <birth>
+        <address>
+         <district />
+         <settlement />
+        </address>
+       </birth>
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_aqc_rus_8">
+   </teiHeader>
+   <text xml:id="cr_aqc_rus_8">
     <body>
-      <head>Сказка о том, как ребенка забыли в Хинай</head>
-      <p>одна женщина сына две невестки жены этих сыновей поля находились стороне местечка хинай это время сбора урожая жать созревшее поле эта свекровь двумя невестками пошла хинай</p>
-      <p>люльках невесток родившиеся дети кем оставить поэтому положив люльки забрали собой люльки поставили н е доходило солнце тени снопами жали поле пшеницу</p>
-      <p>можем сказали уставшие младшая невестка свекровь обеда поспешили домой старшая невестка муж ребенок колыбели остались хинае</p>
-      <p>муж собирал скирды жена старательно жала поле стемнело очень устали оставив вернулись домой ребенка забыли хинае семья сильно беспокоилась нетерпением ждали наступит утро рассвело жена муж отправились хинай</p>
-      <p>оставили нашли спящего ребенка сильно обрадовались букв радости умерли люлькой спине вернулись домой дома заглянули люльку поднять ребенка увидели наполненную золотом серебром лю льку младшая невестка услышала сильно позавидовала следующий день люлькой спине отправилась хинай жать поле</p>
-      <p>начало темнеть оставив хинае люльку поспешила домой утром солнце стало припекать пошла хинай нашла люльку оставила плачущего ребенка нашла спине принесла люльку домой развязав ленты перевязывания люльке ребенка стала поднимать ребенка стоял дурной запах люлька наполнена человеческими животными нечистотами расстроилась младшая невестка долгое время выходила улицу</p>
-    </body>
-  </text>
-</TEI>
+     <head>Сказка о том, как ребенка забыли в Хинай</head>
+     <p>время две двумя жать женщина жены местечка находились невестками невестки одна поле поля пошла сбора свекровь созревшее стороне сына сыновей урожая хинай хинай эта этих это</p><p>дети доходило е жали забрали кем люльках люльки люльки н невесток оставить поле положив поставили поэтому пшеницу родившиеся снопами собой солнце тени</p><p>домой колыбели младшая можем муж невестка невестка обеда остались поспешили ребенок свекровь сказали старшая уставшие хинае</p><p>беспокоилась вернулись домой жала ждали жена жена забыли муж муж наступит нетерпением оставив отправились очень поле рассвело ребенка семья сильно скирды собирал старательно стемнело устали утро хинае хинай</p><p>букв вернулись день дома домой жать заглянули золотом льку лю люлькой люлькой люльку младшая наполненную нашли невестка обрадовались оставили отправилась поднять позавидовала поле радости ребенка ребенка серебром сильно сильно следующий спине спине спящего увидели умерли услышала хинай</p><p>время выходила долгое домой домой дурной животными запах ленты люлька люльке люльку люльку люльку младшая наполнена начало нашла нашла невестка нечистотами оставив оставила перевязывания плачущего поднимать поспешила пошла принесла припекать развязав расстроилась ребенка ребенка ребенка солнце спине стала стало стоял темнеть улицу утром хинае хинай человеческими</p></body>
+   </text>
+  </TEI>

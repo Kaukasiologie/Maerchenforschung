@@ -1,145 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <title xml:lang="deu">Awarische Folklore</title>
-        <title xml:lang="eng">Avar Folklore</title>
-        <author key="gnd:133557154">
-          <persName>
-            <forename>Elguja</forename>
-            <surname>Dadunashvili</surname>
-          </persName>
-        </author>
-        <author key="gnd:1154734161">
-          <persName>
-            <forename>Diana</forename>
-            <surname>Forker</surname>
-          </persName>
-        </author>
-        <respStmt>
-          <resp>Annotated according to the ATU system</resp>
-          <name key="gnd:133557154">
-            <persName>
-              <forename>Elguja</forename>
-              <surname>Dadunashvili</surname>
-            </persName>
-          </name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-        </publisher>
-        <pubPlace>
-          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-        </pubPlace>
-        <date when="2024">2024</date>
-        <distributor>
-          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-        </distributor>
-        <availability>
-          <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
+     <titleStmt>
+      <title xml:lang="deu">Awarische Folklore</title>
+      <title xml:lang="eng">Avar Folklore</title>
+      <author key="gnd:133557154">
+       <persName>
+        <forename>Elguja</forename>
+        <surname>Dadunashvili</surname>
+       </persName>
+      </author>
+      <author key="gnd:1154734161">
+       <persName>
+        <forename>Diana</forename>
+        <surname>Forker</surname>
+       </persName>
+      </author>
+      <respStmt>
+       <resp>Annotated according to the ATU system</resp>
+       <name key="gnd:133557154">
+        <persName>
+         <forename>Elguja</forename>
+         <surname>Dadunashvili</surname>
+        </persName>
+       </name>
+      </respStmt>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>
+       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+      </publisher>
+      <pubPlace>
+       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+      </pubPlace>
+      <date when="2024">2024</date>
+      <distributor>
+       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+      </distributor>
+      <availability>
+       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+      </availability>
+     </publicationStmt>
+     <sourceDesc>
+      <biblFull>
+       <titleStmt>
+        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+       </titleStmt>
+       <publicationStmt>
+        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+       </publicationStmt>
+       <sourceDesc>
+        <msDesc>
+         <msIdentifier>
+          <institution>РФИИЯЛ</institution>
+          <collection>д. 133</collection>
+         </msIdentifier>
+        </msDesc>
         <biblFull>
-          <titleStmt>
-            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-          </titleStmt>
-          <publicationStmt>
-            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-          </publicationStmt>
-          <sourceDesc>
-            <msDesc>
-              <msIdentifier>
-                <institution>РФИИЯЛ</institution>
-                <collection>д. 133</collection>
-              </msIdentifier>
-            </msDesc>
-            <biblFull>
-              <titleStmt>
-                <title xml:lang="rus"/>
-              </titleStmt>
-              <publicationStmt>
-                <publisher xml:lang="rus"/>
-              </publicationStmt>
-            </biblFull>
-          </sourceDesc>
+         <titleStmt>
+          <title xml:lang="rus" />
+         </titleStmt>
+         <publicationStmt>
+          <publisher xml:lang="rus" />
+         </publicationStmt>
         </biblFull>
-      </sourceDesc>
+       </sourceDesc>
+      </biblFull>
+     </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <textClass>
-        <keywords>
-          <term type="writingSystem">utf-8</term>
-        </keywords>
-        <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-        </keywords>
-      </textClass>
-      <langUsage>
-        <language ident="ava">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
-        </language>
-      </langUsage>
-      <creation>
-        <placeName>
-          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-          <district/>
-          <settlement/>
-          <geo/>
-        </placeName>
-        <date>1937</date>
-      </creation>
-      <particDesc>
-        <person role="speaker">
-          <persName>
-            <forename xml:lang="rus">М.</forename>
-            <surname xml:lang="rus">Багинов</surname>
-          </persName>
-          <age/>
-        </person>
-        <person role="researcher">
-          <persName/>
-        </person>
-        <person role="translator">
-          <persName/>
-        </person>
-      </particDesc>
+     <textClass>
+      <keywords>
+       <term type="writingSystem">utf-8</term>
+      </keywords>
+      <keywords scheme="http://uri.gbv.de/terminology/bk/">
+       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+      </keywords>
+     </textClass>
+     <langUsage>
+      <language ident="ava">
+       <index indexName="iso639-3" />
+       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+      </language>
+     </langUsage>
+     <creation>
+      <placeName>
+       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+       <district />
+       <settlement />
+       <geo />
+      </placeName>
+      <date>1937</date>
+     </creation>
+     <particDesc>
+      <person role="speaker">
+       <persName>
+        <forename xml:lang="rus">М.</forename>
+        <surname xml:lang="rus">Багинов</surname>
+       </persName>
+       <age />
+      </person>
+      <person role="researcher">
+       <persName />
+      </person>
+      <person role="translator">
+       <persName />
+      </person>
+     </particDesc>
     </profileDesc>
-  </teiHeader>
-  <text xml:id="cr_ava_rus_55">
+   </teiHeader>
+   <text xml:id="cr_ava_rus_55">
     <body>
-      <head>22. Щедрый и Жадный</head>
-      <p>случилось щедрый жадный жили вместе решили отправиться поискать счастья взвалили хурджины плечи тронулись путь шли весело рассказывали небылицы сказки дорога казалась короче</p>
-      <p>привале щедрый вытащил хурджина еду жадный сказал оставит запас щедрый угостил друга повелось каждый щедрого кончилась еда жадный бросил произвол судьбы сказав слова зашагал дальше щедрый унынии свернул тропинку</p>
-      <p>вскоре стемнело пришло время позаботиться ночлеге увидел щедрый заброшенную мельницу лег корыто зерна заснул</p>
-      <p>разбудил странный шум проснувшись увидел рядом горит костер вокруг сидят лиса волк медведь щедрый сильно испугался лежал шелохнувшись</p>
-      <p>расскажи попросили лису волк медведь</p>
-      <p>расскажу бесполезном полезном человека сказала лиса около мельничной канавы больших камня ними нора норе живет мышь восходом солнца выносит норы кали золота вечером уносит обратно</p>
-      <p>твоя очередь обратилась лиса волку</p>
-      <p>той высокой горе пасутся овцы рассказал волк одна самая паршивая дает столько шерсти сколько дает вся отара знать человеку</p>
-      <p>знаю ореховым деревом городских ворот зарыто сокровище сказал медведь</p>
-      <p>рассвете звери ушли щедрый забрал сокровища которых говорили звери купил пастухов самую паршивую овцу</p>
-      <p>вернулся щедрый домой зажил достатке</p>
-      <p>возвратился жадный сильно измучен одет лохмотья дома рассказали удаче попутчика</p>
-      <p>второй день жадный пошел щедрому начал жаловаться судьбу</p>
-      <p>стран объехал везде мою долю выпадали горе страдания тебе пришла удача брат</p>
-      <p>щедрый рассказал обо всем поделился своими сокровищами</p>
-      <p>жадному показалось обделили решил пойти место подслушать разговор зверей расскажут новых сокровищах</p>
-      <p>найдя мельницу залез корыто зерна ждать</p>
-      <p>полночь пришли звери развели огонь стали греться вид очень недовольный</p>
-      <p>невесела лиса спросили волк медведь</p>
-      <p>веселой узнал мою тайну стащил золото ответила лиса</p>
-      <p>наши сокровища прибрал рукам пожаловались волк медведем иначе подслушали давайте ка проверим кого</p>
-      <p>звери начали обыскивать мельницу корыте зерна нашли жадного разорвали части</p>
-    </body>
-  </text>
-</TEI>
+     <head>22. Щедрый и Жадный</head>
+     <p>весело взвалили вместе дорога жадный жили казалась короче небылицы отправиться плечи поискать путь рассказывали решили сказки случилось счастья тронулись хурджины шли щедрый</p><p>бросил вытащил дальше друга еда еду жадный жадный запас зашагал каждый кончилась оставит повелось привале произвол свернул сказав сказал слова судьбы тропинку угостил унынии хурджина щедрого щедрый щедрый щедрый</p><p>время вскоре заброшенную заснул зерна корыто лег мельницу ночлеге позаботиться пришло стемнело увидел щедрый</p><p>вокруг волк горит испугался костер лежал лиса медведь проснувшись разбудил рядом сидят сильно странный увидел шелохнувшись шум щедрый</p><p>волк лису медведь попросили расскажи</p><p>бесполезном больших вечером восходом выносит живет золота кали камня канавы лиса мельничной мышь ними нора норе норы обратно около полезном расскажу сказала солнца уносит человека</p><p>волку лиса обратилась очередь твоя</p><p>волк вся высокой горе дает дает знать овцы одна отара паршивая пасутся рассказал самая сколько столько той человеку шерсти</p><p>ворот городских деревом зарыто знаю медведь ореховым сказал сокровище</p><p>говорили забрал звери звери которых купил овцу паршивую пастухов рассвете самую сокровища ушли щедрый</p><p>вернулся домой достатке зажил щедрый</p><p>возвратился дома жадный измучен лохмотья одет попутчика рассказали сильно удаче</p><p>второй день жадный жаловаться начал пошел судьбу щедрому</p><p>брат везде выпадали горе долю мою объехал пришла страдания стран тебе удача</p><p>всем обо поделился рассказал своими сокровищами щедрый</p><p>жадному зверей место новых обделили подслушать пойти показалось разговор расскажут решил сокровищах</p><p>ждать залез зерна корыто мельницу найдя</p><p>вид греться звери недовольный огонь очень полночь пришли развели стали</p><p>волк лиса медведь невесела спросили</p><p>веселой золото лиса мою ответила стащил тайну узнал</p><p>волк давайте иначе ка кого медведем наши подслушали пожаловались прибрал проверим рукам сокровища</p><p>жадного звери зерна корыте мельницу начали нашли обыскивать разорвали части</p></body>
+   </text>
+  </TEI>
