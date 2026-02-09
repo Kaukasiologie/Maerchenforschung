@@ -27,7 +27,7 @@ Texte mit uneingeschränkten Lizenzbedingungen sind entsprechend mit _cc_ markie
 
 **annotation(en)** Dieses Tool listet die in jedem einzelnen Text vorkommenden Annotationen auf. Es kann  (i) entweder für Märchentexte eines bestimmten Typs ausgeführt werden (ii) oder  typenübergreifend für alle Texte. Die Ausgabe ermöglicht einen kompakten Überblick über die im jeweiligen Text eingeführten Annotationen und dient der vergleichenden Auswertung der annotierten Märchentexte. 
 
-Prototypische Varianten der in diesem Repositorium veröffentlichten Werkzeuge sind unter folgendem Permalink[https://doi.org/10.5281/zenodo.18541138](https://doi.org/10.5281/zenodo.18541138) [https://doi.org/10.5281/zenodo.18541138] verfügbar:
+Prototypische Varianten der in diesem Repositorium veröffentlichten Werkzeuge sind unter folgendem Permalink[https://doi.org/10.5281/zenodo.18541138](https://doi.org/10.5281/zenodo.18541138) verfügbar:
 
 
 Darüber hinaus stehen die an beiden Stellen veröffentlichten Werkzeuge als Echtzeitanwendungen auf der Projektwebsite
