@@ -8,7 +8,7 @@
 <xs:restriction base="xs:string">
   <xs:enumeration value="#">
 <xs:annotation>
-<xs:documentation source="1">#</xs:documentation><xs:documentation source="2"/>
+<xs:documentation source="1">Platzhalter</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Abraten_von_der_Mission">
@@ -53,7 +53,7 @@
 </xs:enumeration>
 <xs:enumeration value="ANEIGNUNG">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F/f=Heraufforderung (mit guterund oder mit böser Absicht); H=Bewältigung; h=Schädigung beim f oder Misslingen beim F; ANEIGNUNG ist generell von den Wortlauten mit dem Sufix '_erfassen' zu unterscheiden</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F/f=Heraufforderung (mit guterund oder mit böser Absicht); H=Bewältigung; h=Schädigung beim f oder Misslingen beim F; ANEIGNUNG ist generell von den Wortlauten mit dem Sufix '_erlangen' zu unterscheiden</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="ANEIGNUNG_beheben">
@@ -121,7 +121,7 @@
 <xs:documentation source="1">2:f:h</xs:documentation><xs:documentation source="2">f=vom Bösen gefordert; h=abtreten folgt</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Auffälligen_GEGENSTAND_erfassen">
+<xs:enumeration value="Auffälligen_GEGENSTAND_erlangen">
 <xs:annotation>
 <xs:documentation source="1">2:Ff</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -252,14 +252,14 @@
 <xs:documentation source="1">1:F:f:H:h</xs:documentation><xs:documentation source="2">F/f=Angebot; H/h=Entgegennehmen/Ablehnen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="BESITZER_des_Objektes_erfassen">
+<xs:enumeration value="BESITZER_des_Objektes_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="BESITZER_des_Objektes_herbeiholen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F=Auftrag selten, f=öfter - gefolgt durch *_erfassen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F=Auftrag selten, f=öfter - gefolgt durch *_erlangen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Bestechung">
@@ -327,7 +327,22 @@
 <xs:documentation source="1">1:F:f:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Eigene_Misshandlung_nachforschen">
+<xs:enumeration value="Ehrlichkeit_beweisen">
+  <xs:annotation>
+   <xs:documentation source="1">1:F:f:H:h</xs:documentation><xs:documentation source="2"/>
+  </xs:annotation>
+ </xs:enumeration>
+<xs:enumeration value="EIFERSUCHT">
+  <xs:annotation>
+   <xs:documentation source="1">2:h</xs:documentation><xs:documentation source="2"/>
+  </xs:annotation>
+ </xs:enumeration>
+ <xs:enumeration value="EIFERSUCHT_beheben">
+  <xs:annotation>
+   <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2"/>
+  </xs:annotation>
+ </xs:enumeration>
+ <xs:enumeration value="Eigene_Misshandlung_nachforschen">
 <xs:annotation>
 <xs:documentation source="1">1:F:f:H:h</xs:documentation><xs:documentation source="2">F/f=Auftrag, Herausforderung; H/h=Zustandebringen/Misslingen beim Versuch</xs:documentation>
 </xs:annotation>
@@ -422,7 +437,7 @@
 <xs:documentation source="1">1:F:H</xs:documentation><xs:documentation source="2">F=Anfang  der eingebetteten Geschichte; H=Ende der eingebetteten Geschichte</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="EXTERNE_SEELE_erfassen">
+<xs:enumeration value="EXTERNE_SEELE_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -484,10 +499,10 @@
 </xs:enumeration>
 <xs:enumeration value="FEHLENDEN_Gegenstand_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="FEHLENDEN_Gegenstand_erfassen">
+<xs:enumeration value="FEHLENDEN_Gegenstand_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -527,17 +542,17 @@
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="FERNSEHER_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:F:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="FERNSEHER_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="FEUER_erfassen">
+<xs:enumeration value="FERNSEHER_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:F:H:h</xs:documentation><xs:documentation source="2"/>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="FEUER_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -562,14 +577,14 @@
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="FLUGZEUG_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:F:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="FLUGZEUG_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="FLUGZEUG_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:F:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Folge_von_Arbeitsscheu_deuten">
@@ -644,10 +659,10 @@
 </xs:enumeration>
 <xs:enumeration value="FRUCHT_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="FRUCHT_erfassen">
+<xs:enumeration value="FRUCHT_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -862,14 +877,14 @@
 <xs:documentation source="1">2:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Gold_oder_GELDPRODUZIERENDES_Zaubermittel_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:F:f:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="Gold_oder_GELDPRODUZIERENDES_Zaubermittel_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Gold_oder_GELDPRODUZIERENDES_Zaubermittel_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:F:f:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Große_Mengen_essen">
@@ -904,10 +919,10 @@
 </xs:enumeration>
 <xs:enumeration value="HEILMITTEL_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="HEILMITTEL_erfassen">
+<xs:enumeration value="HEILMITTEL_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -954,10 +969,10 @@
 </xs:enumeration>
 <xs:enumeration value="HERDE_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="HERDE_erfassen">
+<xs:enumeration value="HERDE_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -1079,10 +1094,10 @@
 </xs:enumeration>
 <xs:enumeration value="JUWELEN_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="JUWELEN_erfassen">
+<xs:enumeration value="JUWELEN_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -1309,10 +1324,10 @@
 </xs:enumeration>
 <xs:enumeration value="MILCH_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="MILCH_erfassen">
+<xs:enumeration value="MILCH_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -1334,10 +1349,10 @@
 </xs:enumeration>
 <xs:enumeration value="MUSIKINSTRUMENT_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="MUSIKINSTRUMENT_erfassen">
+<xs:enumeration value="MUSIKINSTRUMENT_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -1384,10 +1399,10 @@
 </xs:enumeration>
 <xs:enumeration value="NUTZTIER_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="NUTZTIER_erfassen">
+<xs:enumeration value="NUTZTIER_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -1419,10 +1434,10 @@
 </xs:enumeration>
 <xs:enumeration value="PFLANZE_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="PFLANZE_erfassen">
+<xs:enumeration value="PFLANZE_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -1467,14 +1482,14 @@
 <xs:documentation source="1">2:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="PROVIANTPRODUZIERENDES_Zaubermittel_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="PROVIANTPRODUZIERENDES_Zaubermittel_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="PROVIANTPRODUZIERENDES_Zaubermittel_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="PROVOKATION">
@@ -1626,17 +1641,17 @@
 </xs:enumeration>
 <xs:enumeration value="REITTIER_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
-</xs:annotation>
-</xs:enumeration>
-<xs:enumeration value="REITTIER_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="REITTIER_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus (Einsetzen heißt=Auf_Hilfsquelle_zurückgreifen)</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="REITTIER_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="REITTIER_Geheimnis_AUSSPIONIEREN">
@@ -1739,14 +1754,14 @@
 <xs:documentation source="1">2:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="SCHÖNE_erfassen">
+<xs:enumeration value="SCHÖNE_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="SCHÖNE_herbeiholen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F=Auftrag selten, f=öfter - gefolgt durch *_erfassen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F=Auftrag selten, f=öfter - gefolgt durch *_erlangen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Schweigepflicht">
@@ -1756,10 +1771,10 @@
 </xs:enumeration>
 <xs:enumeration value="SELTENEN_Gegenstand_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="SELTENEN_Gegenstand_erfassen">
+<xs:enumeration value="SELTENEN_Gegenstand_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -2064,14 +2079,14 @@
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="TARNUNG_gewährendes_Zaubermittel_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="TARNUNG_gewährendes_Zaubermittel_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H:</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="TARNUNG_gewährendes_Zaubermittel_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Testnotwendigkeit_vortäuschen">
@@ -2121,10 +2136,10 @@
 </xs:enumeration>
 <xs:enumeration value="TIERKÖRPERTEIL_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="TIERKÖRPERTEIL_erfassen">
+<xs:enumeration value="TIERKÖRPERTEIL_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -2294,14 +2309,14 @@
 <xs:documentation source="1">0:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="UNGEHEUER_erfassen">
+<xs:enumeration value="UNGEHEUER_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="UNGEHEUER_herbeiholen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F eher selten, f öfter - gefolgt durch *_erfassen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F eher selten, f öfter - gefolgt durch *_erlangen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="UNGEWOLLTE_VERLOBUNG_akzeptieren">
@@ -2631,14 +2646,14 @@
 <xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="VOGEL_erfassen">
+<xs:enumeration value="VOGEL_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="VOGEL_herbeiholen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F=Auftrag selten, f=öfter - gefolgt durch *_erfassen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F=Auftrag selten, f=öfter - gefolgt durch *_erlangen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Von_einem_AUSWEGLOSEN_Ort_entkommen">
@@ -2681,14 +2696,14 @@
 <xs:documentation source="1">2:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="WAFFE_oder_Ausrüstung_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="WAFFE_oder_Ausrüstung_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="WAFFE_oder_Ausrüstung_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="WASSERMANGEL">
@@ -2703,10 +2718,10 @@
 </xs:enumeration>
 <xs:enumeration value="WASSERQUELLE_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="WASSERQUELLE_erfassen">
+<xs:enumeration value="WASSERQUELLE_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -2736,14 +2751,14 @@
 <xs:documentation source="1">1.F:f:H:h</xs:documentation><xs:documentation source="2">F/f=Anordnung, H/h=Durchführung</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="WEISE_Person_erfassen">
+<xs:enumeration value="WEISE_Person_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="WEISE_Person_herbeiholen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F=öfter, f=selten - gefolgt durch *_erfassen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F=öfter, f=selten - gefolgt durch *_erlangen - anschließend H/h=Bewältigung/Misslingen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Weiterverweisung_an_andere_Figur">
@@ -2808,10 +2823,10 @@
 </xs:enumeration>
 <xs:enumeration value="WILD_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erfassen</xs:documentation>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="WILD_erfassen">
+<xs:enumeration value="WILD_erlangen">
 <xs:annotation>
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -2821,19 +2836,19 @@
 <xs:documentation source="1">1:F:f:HF:hf:H:h</xs:documentation><xs:documentation source="2">F/f=Versuch vorzutäuschen; HF/hf=Handlungsanweisung; H/h=findet (nicht) statt</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Wunderbare_EMPFÄNGNIS_erfolgt">
+ <xs:enumeration value="Wunderbare_EMPFÄNGNIS_erfolgt">
 <xs:annotation>
 <xs:documentation source="1">2:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
+ <xs:enumeration value="Wunderbare_Mittel_zur_EMPFÄNGNIS_einsetzen">
+  <xs:annotation>
+   <xs:documentation source="1">2:HF:F:H:h</xs:documentation><xs:documentation source="3"/>
+  </xs:annotation>
+ </xs:enumeration>
 <xs:enumeration value="Wunderbares_Mittel_zur_EMPFÄNGNIS_besorgen">
 <xs:annotation>
-<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F/f=Auftrag gefolgt durch *_erfassen</xs:documentation>
-</xs:annotation>
-</xs:enumeration>
-<xs:enumeration value="Wunderbares_Mittel_zur_EMPFÄNGNIS_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
+<xs:documentation source="1">3:F:f:H:h</xs:documentation><xs:documentation source="2">F/f=Auftrag gefolgt durch *_erlangen</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Wunderbares_Mittel_zur_EMPFÄNGNIS_erhalten">
@@ -2841,19 +2856,24 @@
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
+<xs:enumeration value="Wunderbares_Mittel_zur_EMPFÄNGNIS_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
+</xs:annotation>
+</xs:enumeration>
 <xs:enumeration value="WUNSCHERFÜLLENDES_Zaubermittel_einsetzen">
 <xs:annotation>
 <xs:documentation source="1">3:MF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="WUNSCHERFÜLLENDES_Zaubermittel_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:F:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="WUNSCHERFÜLLENDES_Zaubermittel_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="WUNSCHERFÜLLENDES_Zaubermittel_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:F:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Zauberkunst_erlernen">
@@ -2876,14 +2896,14 @@
 <xs:documentation source="1">2:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Zaubermittel_zur_Erzeugung_von_HINDERNISSEN_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="Zaubermittel_zur_Erzeugung_von_HINDERNISSEN_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Zaubermittel_zur_Erzeugung_von_HINDERNISSEN_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Zaubermittel_zur_SITUATIVEN_Anwendung_einsetzen">
@@ -2891,14 +2911,14 @@
 <xs:documentation source="1">2:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Zaubermittel_zur_SITUATIVEN_Anwendung_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="Zaubermittel_zur_SITUATIVEN_Anwendung_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Zaubermittel_zur_SITUATIVEN_Anwendung_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Zaubermittel_zur_VERVIELFERTIGUNG_einsetzen">
@@ -2906,14 +2926,14 @@
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Zaubermittel_zur_VERVIELFERTIGUNG_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="Zaubermittel_zur_VERVIELFERTIGUNG_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Zaubermittel_zur_VERVIELFERTIGUNG_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Zaubermittel_zur_WIEDERBELEBUNG_besorgen">
@@ -2926,14 +2946,14 @@
 <xs:documentation source="1">3:HF:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Zaubermittel_zur_WIEDERBELEBUNG_erfassen">
-<xs:annotation>
-<xs:documentation source="1">3:HF:F:H:h</xs:documentation><xs:documentation source="2"/>
-</xs:annotation>
-</xs:enumeration>
 <xs:enumeration value="Zaubermittel_zur_WIEDERBELEBUNG_erhalten">
 <xs:annotation>
 <xs:documentation source="1">2:H</xs:documentation><xs:documentation source="2">H=Bonus</xs:documentation>
+</xs:annotation>
+</xs:enumeration>
+<xs:enumeration value="Zaubermittel_zur_WIEDERBELEBUNG_erlangen">
+<xs:annotation>
+<xs:documentation source="1">3:HF:F:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
 <xs:enumeration value="Zeitzyklus_ändern">
@@ -3001,7 +3021,7 @@
 <xs:documentation source="1">1:HF:hf:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-</xs:restriction>
+ </xs:restriction>
 
 
 
