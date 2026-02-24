@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf">XXXX. გატყურია</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Jost</forename>
+              <surname>Gippert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/109337409">109337409</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Tariel</forename>
+              <surname>Putkaradze</surname>
+            </persName>
+          </name>
+          <idno type="orcid" corresp="https://orcid.org/0000-0002-3946-000X">0000-0002-3946-000X</idno>
+        </editor>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://titus.uni-frankfurt.de/texte/etca/cauc/megr/xubua/xubuat.htm">TITUS</ref>
+          <title xml:lang="kat">მეგრული ტექსტები</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Makar</forename>
+                <surname>Khubua</surname>
+              </persName>
+            </name>
+          </author>
+          <pubPlace>ტფილისი</pubPlace>
+          <publisher/>
+          <date when="1937">1937</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/613760/k-och-ara.html">Kochara</settlement>
+        </placeName>
+        <date when="1933-07-29">1933-07-29</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Solomon</forename>
+            <surname>Shengelia</surname>
+          </persName>
+          <age>28</age>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+              <district/>
+              <settlement ref="https://www.geonames.org/613760/k-och-ara.html">Kochara</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_59">
+    <body>
+      <head>XXXX. გატყურია</head>
+      <p>ორდჷ ართი გატყურია, ესე იგი, ტყურა უჩქჷდჷნი ფერი კოჩი. გეძჷდჷ ვალი სუმი ჯიმა კოჩიში. დანიშნეს დრო - ამდღა მერჩანქია ფარას.</p>
+      <p>მიდართჷ უნჩაში ჯიმაქ ფარაშა, მეტყურეშ ჸუდეშა. მეტყურეს ქოუჩქჷდჷ, მუჭო ფარაშა მუ̄რდუ ამდღა უნჩაში ჯიმანი, დო ქიმერთჷ თიში მულაშა. დოხაშჷ ლებია, კჷზი ქინოდჷ დო ქიგლადგჷ სტოლს ხაზირო ლებია.</p>
+      <p>მევალექ უწუ̄ - ფარა ქომუჩია! - მეიცავა, უწუ̄ მეტყურექ, დიო სადილი პჭკომათია დო უკული ფარას მერჩანქია სქანს.</p>
+      <p>გა̄კეთჷ ოსურქ სადილი, გეგლანწყეს ღუმუ; მეტყურექ დოუძახჷ კოტოს - დოხაშიო დო დოზადიო ლებია?</p>
+      <p>
+        მერთეს კოტოშა ქოთი დოუხაშჷ დი ქოთი დუზადჷ უკოჩეთ. ასე ოჭკომეს სადილი. მევალექ უწუ̄ მეტყურეს - ჩქიმი ფარა ვა მოკონია, ქომუჩია ათე კოტოვა მა. ოდო ხოლო გეიძინანქია ფარას. - ვა ქიმინჷ მეტყურექ. 
+        <pb n="192"/>
+         - მა თეში შური მიდგჷნია, მარა სი პატი ფცინი, ინა ვა გჷმოჭყორდჷნია დო ქემეჩჷ მოვალეს გატყურიაქ კოტო. ოში მანათი ქიგიოძინაფუ̄ ვალიშა, ჯვეში ფარა. მიდე̄ღჷ კოტო მევალექ ჸუდეშა დიდი ხიარულით. - ანწი მა მუ მიჭირსია! მა დო ჩქიმი ოსური საქვარიშა მიდურთუნიე, კოტო უკოჩეთ დჷმოხვამილუანანია ხაშილი ლებიას.
+      </p>
+      <p>ლებია ქინა̄რღვეს კოტოს დო მიდართეს საქვარიშა ჩილ დო ქომონჯქ. - სადილობას ქჷმოფრთათია, სადილს ხვალე გავაკეთენთია. ელაჭკომაფ იშენი ხარიზი მიღუნანია.</p>
+      <p>ქჷმორთეს სადილობა დროს, გა̄კეთეს ღუმუ, ქჷდა̄გეს. მერთეს კოტოშა. უხაში ლებია ქინოძჷ, კოტოს. იმ დღარი სადილქ დეუქჷ დო ფალო ღუმუ ოჭკომეს.</p>
+      <p>ასე, უწუ̄ უნჩაში ჯიმას ოშქარ ჯიმაქ - სი მორო მუს რღოლანდუა მეტყურევა. მა მიდურქ დო მუ ბღოლე̄ ისჷნი, ქჷგოძირანქია!</p>
+      <p>მიდართჷ ოშქარი ჯიმაქ ვალიშა. ენა გატყურიას ქუჩქჷდჷ დო ოშქარ ჯიმაქ ქიმერთჷნი, ხოლო გაგმა̄ნწყუ̄ სადილი.</p>
+      <p>მევალექ, უწუ̄ - ჩქიმი ფარა ქომუჩია! - მეიცავა, სადილი პჭკომათია დო უკული სქანი ფარას ქიმერჩანქია.</p>
+      <p>გეგლანწყეს სადილი; გატყურიას ჩხოუში კუდელ ჯინს ქიმთუკჷრაფჷ სელეგჷნიშ ჸვალი დო წუმუჯანჷ მინდორიშა თე ჩხოუ. ქიმერთჷ გატყურიაქ დო ქოზეპჷ ჭჷნ ჩხოუს. - ქჷდა̄ჸოთია, უწუ̄, სელეგჷნიში ჸვალი, ხაზიროვა.</p>
+      <p>ჩხოუქ გედჷრთჷ დო ქჷდა̄ჸოთჷ ჸვალი, სელეგჷნიში, ნამუთი გატყურიაქ მითუკჷრჷ.</p>
+      <p>გორჩხეს ჸვალი დო ოჭკუმეს სადილი. სადილი ოჭკომესჷნი, უწუ̄ მევალექ გატყურიას - ქჷმოპიდია სქანი ჩხოუვა!</p>
+      <p>გატყურიას დიდიქ ეწყინჷ, ითამ, მარა იშენითი ბოლოს ქიმეჩჷ. მევალეს ათე ჩხოუ სუმი-ოთხი წილი ფასიშა, ოქროშ კურსიშა. დიდი სიხარულით მიდეჸონჷ ჩხოუ მევალექ. - ანწი მუ მიჭირსია, ჩქიმი ჩხოუ ჸვალის გიმურსია, ძგუნცია!</p>
+      <p>
+        ქიმიჸონჷ ჸუდეშა. მაჟია დღას გა̄კეთეს სადილი ხოლო, მუჭო ოწმახჷნი. ჩხოუს ბრელი უზეპეს, მარა ჸვალქ ვაგმა̄რთჷ ჩხოუს, ვადა̄ნძგუ. ჩხოუში ერაჸუაში დროს გი̄ზილოკუ̄ ჩხოუქ დო ართი გიმი̄ლჷ 
+        <pb n="193"/>
+        ქჷდონძგუ. მიშაგორე̄ს თე ჩხოუშ გიმნაველს, ნანძგუმას ბრელი, მარა ჸვალქ ვე̄ძირჷ ვართი სელეგჷნქ დო ვართი კაზილაქ. გიოსქიდეს ცალიერო ღუმუქ.
+      </p>
+      <p>ასე უწუ̄ არძაშ უკულაშ ჯიმაქ - თქვა ღურელეფი რეთია ვარავა, მა მიდურქია დო მუზმა ქონება მიბღე̄ვე!</p>
+      <p>დო მიდართჷ უკულაში ჯიმაქ.</p>
+      <p>ენა ქოუჩქჷდჷ გატყურიას, დო უწუ̄ მუში ოსურს. - მავა, მევალე ქუმურსუნი, თიწკჷმავა სქანი ბრალი რენია, ფთქუანქია დო ჯანფეზიაში წყარს ჭიჭე ქაცა-გუდათ კისერს ქიჲთქოკჷრანქია დო გურს მიპუნანქია, ჯაყვას ქიმგოგანქია დო ზჷსხჷრ ცალო დიწიკუქია ართოვა - ითამ დოღურიკონი თეში დუდი ქჷდირაგვევა იშო.</p>
+      <p>ქუმორთჷ მევალექ; გოთი წე̄კინდჷ მუში ოსურც გატყურიაქ თე ვალიში გურიშენი, მიოგჷ ჯაყვა კისერს დო დოჸვილჷ მუში ოსური იშო. ექ ნამეტანქ ეწყინჷ მევალეს, ათე უკულაშ ჯიმას - კოჩი მუშე ჸვილია, ფარას ხოლო მერჩანდია იშო, დო კოჩი ვაიჸვილიდჷკონია!</p>
+      <p>დო დიდი იწუხჷ თე მევალექ თაქ.</p>
+      <p>გატყურიაქ უწუ̄ - მუთა რენია, ეზმა ქჷგეწყინებუნია-და, მავა ის მუჭო პილინ თეში გუვათელენქია კინი.</p>
+      <p>დო გეუსუ კისერს ჯაყვა - სქანი ნაჸვილა სი გა̄თელია, უწუ̄ ჯაყვას.</p>
+      <p>გეუსუ კისერც სუმი-ოთხიშა, იშო აშო დო მიკუჯიკუ̄ ოსურცუ ჭიჭე, კუჩხით, დო ოსურქ იშო გე̄თელჷ. ექ დიდიქ ახიოლჷ მევალეს დო უწუ̄ გატყურიას - ათე ჯაყვა ვა მუჩია-და, მა დო სი ჯიმალეფი ვეპითია. ჩქიმი ქონებაში გვერდისია სი ქიმერჩანქია გვალო დო ვაგმაცუდავა ჯაყვაშენია.</p>
+      <p>გატყურიას დიდიქ ეწყინჷ, ითამ, მარა იშენი ქიმეჩჷ მევალეს მუში საცხოვრებელი ფასიშა დო გვალო გოტყაბარუ̄ თე გატყურიაქ სუმი ჯიმა კათა.</p>
+      <p>მიდე̄ღჷ ჯაყვა ჸუდეშა დო ასე ჭუმანი პრაზნიკი ორე თანაფაში. მიდართეს წირუაშა ოსურამო ირ კოჩქ. წირვაქ გე̄თუნი თიჯგუა დროს, ჸუდეშა მოლართეს აშო. მოულა შარასჷნი თეში, ათე უკულაში ჯიმაქ გელე̄ღჷ ჯაყვა, მიოგჷ ართის, მაჟიას, მასუმას ოსურეფს დო გაითუკვათჷ კისერი დო ბოლოს ქუმკუდჷრთჷ მუში ჯაყვამო</p>
+      <p>
+        <pb n="194"/>
+        - სქანი ნაჸვილა, სი გა̄ლიას მარა, ვა ღურედა იში მეტი! და̄საფულეს იმ დღას სუმი ოსურეფი. - აბა, ასე მუჭო ბღოლათია თე გატყურიას? თქვი̄ს სუმი ხოლო ჯიმალენქ, - მუჭო დოპილესია, სუმ ხოლო ჯიმალეფია.
+      </p>
+      <p>მიდართეს სუმი ხოლო ჯიმალენქ გატყურიაში ჸუდეშა. ოჭოფეს გატყურია, ქინა̄ხუნეს საკის დო მიდეჸუნეს ზღვაშა, ოკო და̄შქვიდუანი თაში.</p>
+      <p>ქიმერთეს ზღვაშა დო ქეკოდვეს თაქი გატყურია დუდ მოკჷრილი. დო ათაქი ეკოდგჷ ართი მინისტერიში ჸუდე. ათეს უღუ ფილიკა. - გაიწუჸონათია თინავა, ქინუოხუნუათია ფილიკასია დო შქაბანია ზღვას ქინვორაგუათია იშო, ვარა ჭალესია ვეშქვიდუნია.</p>
+      <p>დო მიდართეს თე მინისტერიშ ჸუდეშა ფილიკაშა. თე-ჯგუა დროს, ღვარუ̄ გატყურიაქ. საკის ინოხენ თეში - ხენწჷფეში ჩილი დო სქუაშავა მიჸონანანია, მარავა მა ვა მოკონია!</p>
+      <p>დო ღვარანც თაქი, დუდი მოკჷრილი საკის.</p>
+      <p>თენა ქიგე̄გონჷ მეშხურექ დო ქიმერთჷ - მუ რენია? ბუ გოღვარაფუანცია? - მუ რენია-და, ხენწჷფეშ ჩილდოსქუაშა მიჸონანანია, მარა ვა მოკონია.</p>
+      <p>მეშხურექ უწუ̄ - მა ქინმოხუნევა სქანი მანგიეროვა! - ჯგირია, უწუ̄ გატყურიაქ. - მონწყია საკის დუდია, უწუ̄.</p>
+      <p>მოუნწყჷ დუდი საკის მეშხურექ დო ინი̄ლჷ მუქ. გატყურიაქ დუდი მოუკჷრჷ საკის დო მიდართჷ იშო გატყურიაქ. ათე მეშხურეში საქონელეფი იშო მიდარაჸჷ არძა.</p>
+      <p>ე სუმი ჯიმალეფქ ქჷმორთეს, გეჭოფეს საკი. ქიგედვეს ფილიკას, შქაბანია ზღვას გუ̄ტეს საკამო, გატყურიაშ მანგიორო, ვა უჩქჷნანი თეში. ეკი̄ლეს სუმ-ხოლო ჯიმალენქ აშო ჭალეშა. მოულა ჸუდეშა აშონი თეში, გატყურიას შხურეფი ქიმურაჸუნი თეში, ქოძირეს. - სო რდია, ჯიმა-ღურელი, სია, უწი̄ს. - სო ვორდია-და ხოლო ნაბეტანი ჭალეს გაჸითია ინოჸოთამილქ ზღვაშა, ვარა მეტის გეკობრაჸუნდია შხურენსია, მარა ჭალეს მეტი ვა ბძირია. - ეს მუთუნ ვა ნოხვარუენია, თქვი̄ს ჯიმალენქ, დო მიოტეს დო მიდართეს ჸუდეშა.</p>
+      <p>გატყურიაქ მუკუდჷ ჭოკა დო არძო მიდარაჸჷ შხურეფი ჸუდეშა დო ცხოვრენდჷ ბედაურო. ათე ჯგუათ უდგჷდჷ გატყურიას შური.</p>
+      <p>ღუმა თექ ვორდია, ამდღა ამარ ვორექია; ზღვაშა ვებდენი, ტკიბირით წყარი ვა მიბღენი, სათითის ღუმუ ვენუაკეთენი, ლიფშიში ყურწით ვემნუოზუენი, ბირცხათ ვა დუოგენი თეიშახ დუსუ ვემკორჭვებუდას.</p>
+    </body>
+  </text>
+</TEI>

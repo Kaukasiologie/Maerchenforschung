@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">166. მონადირე და დალის ნახვა</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.ea155f04-df61-4616-bedc-52bd449b4811">TITUS</ref>
+          <title xml:lang="deu">Swanische Prosatexte: Übersetzungen ins Georgische. Oberbalischer Dialekt</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+          <settlement ref="https://www.geonames.org/612987/mestia.html">Mestia</settlement>
+        </placeName>
+        <date when="1921-08-10">1921-08-10</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Ratian</forename>
+            <surname>Ratiani</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+              <settlement ref="https://www.geonames.org/612987/mestia.html">Mestia</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Akaki</forename>
+            <surname>Shanidze</surname>
+          </persName>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/119042800">119042800</idno>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Aleksandre</forename>
+            <surname>Oniani</surname>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1052482805">1052482805</idno>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_sva_kat_620">
+    <body>
+      <head>166. მონადირე და დალის ნახვა</head>
+      <p>(ალექსანდრე ონიანი 1974, რვ. IV)</p>
+      <p>ყოფილა ერთი მონადირე კაცი. სახელად ჰქვია რავაზი. წასულა (25) სანადიროდ. ცხრა უღელტეხილსა და ზეგანს გადასულა და იქ დაღამებია. რაკი დაღამებია, წიფლის ძირში ცეცხლი დაუნთია. იქ იმ ღამეს ყოფილა. ერთი მაღალი მთიდან ხმა სმენია, რომ "მისი სტუმარი (აქეთო) გამოიყოლეო თვითონაც გამოდიო." აქ წიფელა გასკდა. აქედან დალი მოვიდა. უთხრა რავაზს, რომ "ე, რავაზ, წავიდეთ!" (30) რავაზმა უთხრა ამას, დალს: "სადო გვაქვს წასასვლელი?" - "მის ამხანაგებს დაუძახნიათ და წასასვლელი აქვთ იქ, წვეულებაში, ქორწილში. ჩემი ფეხის დანადგამზე ფეხი დადგი ხოლმე და იქ პირველი კათხით ვადღეგრძელებ მეფეს და დედოფალს, მას შემდეგ მეორე კათხით იქ მყოფს ვადღეგრძელებ, მესამე კათხით ყველა სადღეგრძელოდ დავლევ. შენ ჩემნაირად იდღეგრძელე, მერე (35) ავდგები და წავალთ ჩვენს ნავალზე."</p>
+      <p>
+        <pb n="159"/>
+        ესენი გავიდნენ ქორწილზე და შემდეგ შემობრუნდნენ. რავაზი დაწვა და დალი წიფელაში შევიდა. მეორე დღეს ნადირით სავსე იყო მთა. მაშინ რავაზი სახლში მოდის უკან. ცხრა მთა უკან მოსაბრუნებელი აქვს. რვა მთა გამოიარა და ნადირს თოფი არ ესროლა. მეცხრე (5) მთაზე მოვიდა, მაშინ თოფი ბუდიდან ამოიღო და სროლა დაიწყო. ცხრა ჯიხვი მოკლა. ცხრა ჯიხვს [ვაცს] მარჯვენა ყური ყველას მოსჭრა. ეს ყაბალახში ჩადო, მის სახლთან მოიტანა, ცოლთან და ძმასთან, შემოიტანა ეს ყურები, უთხრა მისმა ცოლმა: "შე ["თვითონო"] ცუდო კაცო, ხორცი დაგიტოვებია ["დაუტოვებია"] და ყურები შემოგიტანია!" გააღო თავისმა ცოლმა სკივრი. აიღო (10) სკივრიდან მათრახი, დაარტყა თავის ქმარს, და "ვირად გადაქცეულიყავიო!" ეს უთხრა. მაშინ ის ვირად გადაიქცა.
+      </p>
+      <p>მთლიანად ყველა სოფელს ეს ჰყავთ სამუშაოდ. მისი ცოლი და მისი ძმა ერთად არიან და ერთად წვანან ცოლ-ქმრის გვარად. მერე ეს ყვიროდა ["ყვირილს შვრებოდა"], ძალიან გაგება [ჭკუა] ჰქონდა როგორც კაცს. მაშინ მოსწყინდა (15) მის ცოლს და თავის ძმას დაარტყა კიდევ მათრახი, გარეულ იხვად გადაიქცა. ის რავაზის ცოლის და, - მკითხავი იყო და, - შეატყო, რომ რავაზს ამას უზამდნენ. მოვიდა აქ(ეთ) მისი და (დისთვის), მაშინ სკივრიდან მათრახი ამოიღო, მოუქნია ["დაარტყა"] გარეულ იხვს: "რავაზადამც გადაქცეული იყოს!" ისევე, როგორც წინათ იყო, რავაზად გადაიქცა. მაშინ რავაზს ხელში (20) მათრახი მისცა: "მაშინ რაც გერჩიოს, ის უყავი!" ორივეს დაარტყა, ორივე ვირად გადაიქცა: ერთი ულაყად და მეორე - ჭაკად. ერთად ყოფნის და ერთად წოლის გემო არ მოუშალა. მაშინ სოფლელებს ათხოვებს ყველას, ვინც ეკლის ცოცხს ურტყამს, ვინც არა და არ აძლევდა.</p>
+    </body>
+  </text>
+</TEI>

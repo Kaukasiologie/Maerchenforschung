@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf"/>
+        <author>
+          <name>
+            <persName>
+              <forename>Jost</forename>
+              <surname>Gippert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/109337409">109337409</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Tariel</forename>
+              <surname>Putkaradze</surname>
+            </persName>
+          </name>
+          <idno type="orcid" corresp="https://orcid.org/0000-0002-3946-000X">0000-0002-3946-000X</idno>
+        </editor>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://titus.uni-frankfurt.de/texte/etca/cauc/megr/xubua/xubuat.htm">TITUS</ref>
+          <title xml:lang="kat">მეგრული ტექსტები</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Makar</forename>
+                <surname>Khubua</surname>
+              </persName>
+            </name>
+          </author>
+          <pubPlace>ტფილისი</pubPlace>
+          <publisher/>
+          <date when="1937">1937</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/613760/k-och-ara.html">Kochara</settlement>
+        </placeName>
+        <date when="1933-07-28">1933-07-28</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Vasil</forename>
+            <surname>Papava</surname>
+          </persName>
+          <age>50</age>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html">Samegrelo-Zemo-Svanetis-Mkhare</region>
+              <district/>
+              <settlement ref="https://www.geonames.org/612756/napichkhovo.html">Napichkhovo</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_61">
+    <body>
+      <head>XXXXII. უსქე ჩილი დო ქომონჯიშ არიკი</head>
+      <p>რენა ართი უსქე ჩილი დო ქომონჯი. ეთინენს ჸუნდეს ჯოგი ჩხოუშ ჯოგი, თხაშ ჯოგი, ცხენიშ ჯოგი დო შხურიში. ათე ჸაზახიქ ქოთხუ̄, ნამდა, ღორონს - გემირჩქინია, აკავა, ჩქიმი ქონებაშ მაჭკომალია.</p>
+      <p>დო გეურჩქინდჷ ართი ქომოლ-სქუაქ.</p>
+      <p>ასე ქჷდე̄ბადჷ ქომოლსქუაქ. ინა ართ თუთას ძუძუს წჷნდჷ დო თით ცხოვრენდჷ, თით ირდუდჷ. ართ თუთაშ უკული რაგადუ̄ თი ბაღანაქ - მა ძუძუშ ბჟათ ვებრგიქია.</p>
+      <p>დიდაქ უწუ̄ ასე - აბა, მუ გოკო, ნანავა, - მუ მოკონია-და, მოკონია შხურიშ ხორცი; ართი შხური მოკონია ამდღავა, სადილო. მაჟირა მოკონია ოსერიშოთ.</p>
+      <p>ასე გა̄თუ̄ შხურიშ ჯოგი. გვერდ წანაშა ქიმერთუ დო გა̄თუ̄ შხურიშ ჯოგი.</p>
+      <p>გვერდ წანაში უკული სქუაქ უწუ̄ დიდას ნამდა, - ჟირი თხა მოკონია სადილო დო ჟირი ოსერიშოთ.</p>
+      <p>ასე მაჟირა წანას ქჷნოდჷრთჷ. - ასე მოკონია, უწუ̄ დიდას - სადილოვა, ხოჯი მოკონია, დო ოსერიშოთ ჩხოუ.</p>
+      <p>ესე იგი, ასე დე̄ლიუ მუმას ორინჯიშ ჯოგიქ. ასე მუმას უწუ̄ თე ბოშიქ - სია, უწუ̄, ცხენეფია გაგმოჩია ჩხოულეფიშავა. იახა დო, სოიშა მიბაღჷნიე, თინა იჸი̄ნია.</p>
+      <p>
+        <pb n="204"/>
+         ასე გაგმოჩჷ ცხენეფი ჩხოულეფიშა. ქჷმორაჸეს თინეფი, ქჷდი̄ჭყჷ ჭკომუა დო წანამოწანას დოუბაღჷ იქ ხოლო. ჟირი წანა გა̄თუ̄, ესე იგი. ასე ქონება ვა უღუ მუმას შურო მუთუნი. აწი თქუ̄ მუმაქ - ვა გორგჷქ მუთუნსიე, უწუ̄, ჩქიმ ქონებაქ დე̄ლიუა. - აბა მიდამიჸონია, უწუ̄ სქუაქ, - მიდამიჸონია ხენწჷფეშ ჸუდეშა. ვარა, შხვა ვა მორგჷნია, ათე ჩქიმ ჭკუმუას, მუთუნსია.
+      </p>
+      <p>ასე გე̄ჭოფჷ მუმაქ თე სქუა დო მიდეჸონჷ ხენწიფეშ ჸუდეშა.</p>
+      <p>ხენწჷფეშ ჸუდეშა ქჷმერთჷ, მარა მეჯინელი ორე დიდი. ქიმერთეს ხენწჷფეშა დო - მიდგაქ რენია მორთუა, ჟირ კოჩქია ართ ახალგაზდა დო მაჟია მოხუცებულიენია.</p>
+      <p>თე ხენწჷფექ უწუ̄. - აშ ქჷმომიჸონითია ჟირ-ხოლო.</p>
+      <p>ქიმიჸონეს, იახანი, ახალგაზდა თიჯგურა რენ, მიოჯინჷ ხენწჷფექჷნი, გუ̄კვირდჷ ჭექ. - მუ გოკონია სია, უწუ̄ თი ახალგაზდას, - სონი რექია სია? ოდო მუ გოკონია ჩქინდევა? - მუ მოკონია-და, მოკონია - უწუ̄, ოჭკომალია. მუა-ჩქიმიშ ქონება გუვათეჲა, ოდო, რთხულენქია შქჷრენს ვა დოპილავა. - აბა, მუ გოკო, სი ოჭკომალია, უწუ̄. - დღაში ონდღეს მოკონია ხოჯი, უწუ̄, დო სერით ჩხოუ. - ჯგჷრია, უწუ̄.</p>
+      <p>უკული ქიმურჩქინჷ კოჩი, თიშა პრავეზიაშ გჷმმანწჸუალი. ასე ინა რე მასუმა წანას, ოდო, ხენწჷფეშ ქონება გა̄თუ̄ წანა-მოწანას. ხენწჷფეშ ქონებაქ გე̄თუ̄ მასუმა წანას. უკული მობლიზაცია ქოღოლუ̄ ხენწჷფექ ჩხოუ დო ხოს. ასე მაანთხა წანა რე, მობლიზაცია ქოღოლუ̄ ჩხოუ დო ხოს, ესე იგი, დუბაღჷ თიშ ქონებაქ ჟირ წანას.</p>
+      <p>ასე გე̄თუ̄ ხუთ წანაქ, ოდო, ჩხოუ დო ხოჯი გა̄თუ̄ მუშ სახენწჷფოს.</p>
+      <p>ასე ხენწჷფექ თქუ̄ - ვა ნოფხვარუექია მა თისია მუთუნსია.</p>
+      <p>ვეზირენქ უწუ̄ ხენწჷფეს მანგიორო - დემი რენია ართ დიხას. ეთექი ეჩი დო ხუთი დესეტინა დიხა ჸვანათ გუოკეთებაფუათია. ეთექია, მუჟანს ქიმურსია თენავე, ეთიწკჷმავა ათე დემეფია იშო ოკოსოფუნანია დო თავისუფალი იჸი̄ქია უკული.</p>
+      <p>იახა დო, ქეკუჸუნე̄ს მუში პრავეზია.</p>
+      <p>
+        თე ბოშიქ პასუხი მეჩჷ აშო
+        <pb n="205"/>
+         - ოშ ფუთი არგუნი დომიჭკადითია, უწუ̄; ჟიროშ ფუთი ბერგი, ჟარნეჩ დო ვითი ფუთი წარკანტია.
+      </p>
+      <p>ათენეფი ქიგუწკარეს ურემიშა დო მიდა̄ჸუნჷ სუმ კოჩქ დო სუმი შხვა ინჯილერქ. გეშუზჷმეს ეჩ დო ხუთი დესეტინა დიხა. ეთექ გა̄ჸუნჷ მუკე̄-მუკე̄ დო გოწჷმინდუ̄ ეჩ დო ხუთი დესეტინა. მუჟანს ვარდუო ათენა გოწჷმინდჷნი, თიწკჷმა დემენქ ქუციუ. ქიმეთხეს ხე. ოჭოფჷ თე დემეფი დო მოწჷრხუ̄ ჯალეფი, ოდო თის ქიმკა̄კჷრ. ჸვანა დამუშებული უღჷ, გა̄თუ̄ ჸვანა ასე. ეთი დემეფი გამკოწყჷ (ეჩი დო ხუთი რე დემი), ქიმიოკჷრჷ ართიანს, დო ქიმიჸონჷ ხენწჷფეშ ჸუდეშა. ხენწჷფეს კოჩი მუ̄ჩქვეს - ეჩი დო ხუთი დემი ქიმიჸონჷ დო ქჷმორთუა.</p>
+      <p>იახანი, ხენწჷფექ ღურა გა̄თუ̄. ვეზირენქ უწუ̄ ასე - გოუტუათია ათენა არდგილიშა თი ჯგურაშავა, აშო ვა მკა̄რთჷნედასჷნი!</p>
+      <p>ასე კოჩი ქიმუჩქჷ (ალექსანდრე ჯოხო თე ბოშის) - მუ ბღოლავა თი დემეფსია? - ქჷმლა̄ხვილასია ათე ჸუდესია, უწუ̄ ხენწჷფექ.</p>
+      <p>მიდეჸონჷ დო ქჷმლა̄ხვილჷ.</p>
+      <p>ასე თე ჸუდეს ქჷმლა̄ხვილჷნი, მეუჩინჷ ხენწჷფექ - ჟირი ხოჯი დოჸვილითია დო პრავეზიათ გემნუჯღონითია თინენსია.</p>
+      <p>ასე შეერთებულო დოსხუნეს თინენქ ხენწჷფექ დო ვეზირენქ, - ათენავა გუტუათია ჟა̄რნეჩიდო ვითი ვერსის გვალას. ქიმეფჩათია ჟა̄რნეჩი დო ვითი ურემი დო მუში პრავეზია. ეთექ მუჟან ქიმურსიე, თექი რენია დემეფიშ ეფშავა. ეთინა მუჟანს ინი̄ლენსია, ეთიწკჷმავა დემეფია ოკოსოფუნსია იშოვა, ოდო, იშო მედჷნჷნია, თექი. ჩქჷ-ვა კრეპუსტი გავაკეთათია, (ხენწჷფეს უწი̄ს მინისტერენქ), ოდო ზარაზანი გაგმუონწყუათია. ცხორცხალოვა ქჷმორთუა-და, თიჯგუა დიხაშა გოუტეჲთია, ჩქჷ იშენი ცხორცხალო ვა დომიტენანია.</p>
+      <p>ასე მიდართჷ თექ. მუში დემეფი, ვარენო, ჭოფილი ჸუნსუნი, მიდეჸონჷ დო მიდართჷ ასე. მეურს დო ინი̄ლჷ ოდემეშა. - მუ ანდამიერ კოჩი რექია, მორთიე! დუ̄ძახჷ დემენქ. - გაჩენდით თექია! დუ̄ძახჷ. ოდო ინი̄ლეს.</p>
+      <p>იახა დო, ქიმეთხეს თე დემენქ. მარა, ორჯგინჷ თექ. ოკორაჸჷ დემეფი, და̄ხარგაფუ̄ ურემეფი ნაცალათ, ქა̄წირაჸჷ წოხოლე დო გეგნორაჸჷ გვალენს.</p>
+      <p>
+        გიოჯინეს თაურე დურბინდის ასე
+        <pb n="206"/>
+         - ქჷმოურს ალექსანდრე დო მუში ჯარია. ენა სოთინ ვა ნოდინაფუენია?! ჩქჷნი საშველი ვა ჸოფენია. ჩქჷ დიპტახათია საფულე̄ვა დო თექ ინი̄ბლათია, ჟი ჩერტი ქჷმნუოდგჷმაფუათია, თიშა დიხა ქჷმნორღვაფუათია ჟი, ზარაზანენს ჯარი ქჷმკურინუათია; დე̄ხოლებუნია თინავე, ჯარი დო ჩქჷნ შქას ტილიფონი რდასია. ეთიწკჷმა ხათე ჸოთამაში ტილიფონი ქიმეფჩათია.
+      </p>
+      <p>ქჷმორთჷ ასე თექ, ალექსანდრექ, ჯარამო. ასე ჸოთამა ქჷდი̄ჭყეს. მუჟანს ზარაზანი ქაჸოთესჷნი, ხეთ ოჭოფჷ ზარაზანიშ ტყვია თე ალექსანდრექ. უკული მუჟანს ქაჸოთჷნი, ვეჩინჷ თიქ, მუჭო დოჸვილჷნდესჷნი. ოჭოფუნი, აშო ქაჸოთჷ თენენს, ხენწჷფეშ ჯარს. იახა დო აშო მინი̄ლჷ ხენწჷფეშ ჸუდეშა, ორჯგინჷ ჯარს დო ქინოსქჷდჷ ათე საფულე̄ს ხენწჷფე დო მუში ჩილი დო სქუა დო ვეზირენქ.</p>
+      <p>ასე ალექსანდრექ დოგორჷ თე ხენწჷფე. იახა დო, გეიორღჷ ჩერტი ოდო ინჷლჷ თუდო. ხენწჷფეს აშქურინჷ დო, მუშ ჩილ დო სქუას დო ვეზირენს. ხენწჷფექ ქიმერთჷ დო ქაჯუდჷ კუჩხის დო მუშ ჩილდო სქუაქ დო ვეზირენქ ხოლო. - სია. უწუ̄, მუშა გაშქურინეს ეზომაშავა, უწუ̄, ხოჯიშ ხორცის პჭკომუნდია, ვარავა, კოჩიშ ხორცის ხოლო ვა პჭკუმუნდია.</p>
+      <p>ხენწჷფექ უწუ̄ - მადლობა ღორონსია, უწუ̄, თიქ ვა გაიკვირდასია სია მა ქჷმაშქურინჷკონიე! ქჷდომიტეთია, თქვანი შურიშ სამარდოთია.</p>
+      <p>თიშ უკული მიახვამეს ალექსანდრეს ჩქჷვა ცხორცხალი ქიდომიტეთიე!</p>
+      <p>თიშ უკული მუში სქუა ხენწიფექ თის ქიმიათხუ̄ დო მუში ხენწჷფალა ქიმიახვამჷ ალექსანდრეს. - ჩქჷმი უფლებავა სქანდავა დომიხვამუნია ირფელია!</p>
+      <p>ოდო კამპანია ქოქიმინჷ მიწვიუ სახენწჷფეფი დო მიახვამეს ხენწჷფალა.</p>
+      <p>ღუმა თექ ვორდი კამპანიას, ოდო, ამდღა აშო ქჷმოფრთი.</p>
+      <p>სუმი უშქური, სუმი ბერწული, ღორონთქ ვა მოილასან თქვანი ხეში მოწიული.</p>
+    </body>
+  </text>
+</TEI>

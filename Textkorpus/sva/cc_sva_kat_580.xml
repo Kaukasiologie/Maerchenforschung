@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">127. თინათი და ანზორ</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.ea155f04-df61-4616-bedc-52bd449b4811">TITUS</ref>
+          <title xml:lang="deu">Swanische Prosatexte: Übersetzungen ins Georgische. Oberbalischer Dialekt</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+          <settlement ref="https://www.geonames.org/8394291/mulakhi.html">Mulakhi</settlement>
+        </placeName>
+        <date when="1937-09-22">1937-09-22</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Venera</forename>
+            <surname>Naveriani</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Meri</forename>
+            <surname>Gujejiani</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Tsiuri</forename>
+            <surname>Gabliani</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_sva_kat_580">
+    <body>
+      <head>127. თინათი და ანზორ</head>
+      <p>(ციური გაბლიანი, მაისი 2006 ოლდენბურგი, რვ. VIII)</p>
+      <p>
+        იყვნენ ერთი ცოლ-ქმარი. ამათ შვილი არ უჩნდებოდათ. წავიდნენ ესენი მკითხავთან. იმან ურჩია: "შეეხვეწე[თ]ო ღმერთს." (30) ეხვეწებიან ღმერთს და მართლა ქალი დაორსულდა და დაბადა ორი შვილი - ბიჭი და გოგო. ცოლ-ქმარს ემართა(თ) თვრამეტი მგლის ბეგარა. გამოაცხო ჭიშდვარი და დაუდო სასთუმალთან ბავშვებს. კიდევ თინათს დაუდო მაკრატელი და ანზორს ჯაყვა. დაბრუნდა ახლა მგელი, წაიყვანა ეს ბავშვები შორს მინდორში და ალვის ხის ქვემოთ დააყენა და (35) თვითონ სხვა მგლების დასაძახებლად წავიდა. იმათ მოსვლამდე ბავშვებმა აიშვეს, აკვნები ქვებით აავსეს და თვითონ ავიდნენ ალვის 
+        <pb n="121"/>
+        ხეზე. ამ დროს მოვიდნენ მგლები, შეესივნენ აკვნებს და კბილები ამოსძვრათ. ეს ეწყინათ მგლებს და ისე სცემეს [პირველი]მგელი, რომ მეტი არ შეიძლებოდა და ადგომა არ შეეძლო. ამ დროს ზემოდან ბავშვებს გადმოუვარდათ ლუკმა. ის ხახაში მოხვდა [ამ] მგელს და წამოდგა მუხლებზე, (5) კიდევ ჩამოუგდეს და სულ ადგა.
+      </p>
+      <p>- რადგანაც ასეთები ხართ, ჩამოდით ქვემოთ და, რაც გინდათ, იმას გაგიკეთებ[თ]. ჩამოვიდნენ ქვემოთ და შემოისვა მგელმა მხარზე და წაიყვანა. ხელმწიფის თაფლის წყაროზე ისეთი სახლი აუშენა, რომ უკეთესი არ იქნებოდა ["უნდოდა"]. (10) ახლა ეს დაინახა ხელმწიფის შვილმა. შევიდნენ და უთხრეს:</p>
+      <p>- უფალო ხელწიფევ, ისეთი სახლი აუშენებია ვიღაცას, რომ ჩვენს სახლს ფერს ართმევს.</p>
+      <p>ამ ხელმწიფემ არ დაიჯერა და ვეზირს თავი მოსჭრა. ახლა მეორე მოვიდა და ამასაც ასე დამართა. ახლა მესამე მოვიდა და უთხრა (15) ხელმწიფეს:</p>
+      <p>- უფალო ხელმწიფევ, გაიხედე ფანჯარაში, ჩემი თავის მოჭრას მოესწრები, ჩვენს ზემოთ ვიღაცას უდგას კარგი სახლი. კოშკიდან ქალი იყურება, ნაწნავები გადმოკიდებული ["გამოწვდილი"] აქვს კოშკის სათოფურიდან და კოშკის ძირში გოჭები ზემოდან წვანან.</p>
+      <p>(20) გახედა ხელმწიფემ და გოგოს სიყვარულით უკან გადავარდა, ერთხელ ანზორი იყო სანადიროდ. მაშინ ხელმწიფე ავიდა თინათთან და ერთმანეთი ["ერთმანეთს თავი"] ძალიან შეუყვარდათ და ანზორის მოკვლის განსჯა დაიწყეს.</p>
+      <p>- სანამ სახლში მოვიდეს, მანამ შენ დაწექი, კარები არ გაუღო, ავადმყოფობა მოიმიზეზე. მაშინ ანზორი გაგზავნე ფარშავანგის წიწილასთან: (25) [ვითომ] "ის არისო ჩემთვის კარგი", და იქ დაემართება რამე, - უთხრა ხელმწიფემ.</p>
+      <p>- კარგი, აბა. – მიუგო ["დაუბრუნა"] თინათმა.</p>
+      <p>ხელმწიფე სახლში წავიდა. ამ დროს სახლში მოვიდა ანზორი და კარები ურდულით დაკეტილი დახვდა. შეანგრია და შევიდა სახლში. სახლში თინათი გაწოლილი დახვდა.</p>
+      <p>(30) - რა გტკივა, - შეეკითხა ანზორი, - ან რა მოგიხდება?</p>
+      <p>- არაფერი, ფარშავანგის წიწილის ხორცის გარდა არაფერი მიშველის. – მიუგო ["დაუბრუნა"] თინათმა.</p>
+      <p>წავიდა ანზორი და ერთი გუდა ფეტვი დაიკავა. მიდის, მიდის და წააწყდა წიწილებს. მათი დედა არ იყო სახლში. დაუყარა ერთი გუდა (35) ფეტვი და თვითონ დაიმალა. ესენი გაძღნენ და კიდევ გადარჩათ. მოვიდა ფარშავანგი და ამან დაუძახა ანზორს: - რა უნდაო?</p>
+      <p>
+        <pb n="122"/>
+        - რაო და ერთი მისი წიწილაო.
+      </p>
+      <p>- მოგცემ, მაგრამ ხმა არ ამოაღებინო. - უთხრა ფარშავანგმა. მისცა და ფრთა გამოიძრო ["მოუწყვიტა"]:</p>
+      <p>- როცა [რამე] დასჭირდეს, მაშინ ასწიოსო ფრთა და (5) თვითონ იქ გაჩნდებაო.</p>
+      <p>წავიდა ასე სახლში ანზორი. წიწილის ხორცი აჭამა თინათს, მაგრამ ეს მაინც არ გამოჯანმრთელდა.</p>
+      <p>მეორე დილით ანზორი კვლავ სანადიროდ წავიდა და მაშინ ხელმწიფე ისევ ავიდა თინათთან.</p>
+      <p>(10) - წავიდა შენი ძმა?</p>
+      <p>- კი, მაგრამ არაფერი დამართვია ["დაემართა"]! - დაუბრუნა თინათმა. მეორედ კიდევ გაგზავნა ანზორი:</p>
+      <p>- ველური ნეზვის ხორცი მოუხდებაო.</p>
+      <p>წავიდა ანზორი, მოუყვანა ველური ნეზვის გოჭი, მაგრამ ამის ხორცმა არ (15) უშველა. რას უშველიდა, არაფერი არ სჭირდა და?! მერე თინათმა სთხოვა ანზორს [?] ძროხის რძე. ამან ეს კიდევ უშოვა, მაგრამ ყველა მხრიდან მშვიდობით მოვიდა. [?] და ნეზვმა გამოუძრო მათი ბალანი ["მოუწყვიტეს მათი თმები"]. "ესო შემოინახოსო საჭიროებისათვის." მეოთხედ გაგზავნა [?] სარკისთვის ["სარკეზე"]. მიდის ანზორი და ხიდზე (20) წევს ერთი დიდი დევი და სძინავს: - ბაბა! - და გამოიღვიძა.</p>
+      <p>- სად მიდიხარ? - შეეკითხა დევი. ახლა მოვიდა ანზორი და უამბო ["უთხრა"] ყველაფერი.</p>
+      <p>- ო, შვილო, იქ ვინც წასულა, ცოცხალი არავინ დაბრუნებულა. შენ როცა სარკეს იყიდი, მაშინ უკან გამოგედევნება ["გამოგედევნებიან"] ყველაფერი ["მიწა და ხეები"] და წყალი (25) ყველაფერი. მაშინ უკან არ მიიხედო, გამოიქეცი პირდაპირ, როგორც მე ვწევარ, ასე ქენი შენც.</p>
+      <p>ანზორმა მართლა ასე ქნა და ყველაფერი სახლში წაიღო. ახლა ჩაახედვინა სარკეში თინათს, მაგრამ არაფერმა უშველა. ახლა მეორე დღეს სანადიროდ წავიდა და ხელმწიფემ და თინათმა მოილაპარაკეს, რომ გაეთალათ კიდობანი (30) ისეთი, რომ ვერაფერი დამართონ. ჩავსვათ შიგო იქ, შეკრანო და ჩააგდონო ზღვაში." ეს ასე[ც] ქნეს და ანზორი ჩააგდეს ზღვაში. ახლა გაახსენდა ამას დანაბარები და ამოიღო ["აწია"] ყველას თმები და ფურირემი, ფარშავანგი და ნეზვი ყველანი აქ გაჩნდნენ და ანზორი ამოიყვანეს ზღვიდან. ახლა გათალა ანზორმა (35) შვილდი და წავიდა და ხელმწიფეს დაუმიზნა ["ხელმწიფესთან დაუმიზნა"] და მოკლა. მერე თინათი გაათხოვა სხვაზე და თვითონაც გასიძდა და კარგი ცხოვრება გალიეს და დალოცვილი იყავით.</p>
+    </body>
+  </text>
+</TEI>

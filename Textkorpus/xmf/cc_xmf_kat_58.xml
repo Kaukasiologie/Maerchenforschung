@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">39. ხელმწიფის სიზმრის ამხსნელი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.a106e17b-af8d-40c4-8b34-acee3badb87d">LaZAR</ref>
+          <title xml:lang="deu">Mingrelische Prosatexte: Übersetzungen ins Georgische</title>
+          <title xml:lang="kat">მეგრული პროზაული ტექსტების ქართული თარგმანები</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/613760/k-och-ara.html">Kochara</settlement>
+        </placeName>
+        <date when="1933-07-27">1933-07-27</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Gvada</forename>
+            <surname>Shengelia</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+              <district/>
+              <settlement ref="https://www.geonames.org/613760/k-och-ara.html">Kochara</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Revaz</forename>
+            <surname>Sherozia</surname>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1048202046">1048202046</idno>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_kat_58">
+    <body>
+      <head>N39 ხენწჷფიში სიზმარიშ ემანწყჷმალი / ხელმწიფის სიზმრის ამხსნელი</head>
+      <p>(რ. შეროზია, 2003)</p>
+      <p>ხელმწიფეს უნახავს, სიზმარში უნახავს: თავის ეზოში შიგნით მტრედები (5) ხორბალს ეძებდნენ. გაუგონია ერთი სიზმრის ამხსნელი კაცი - გუჩა (არისო). დაუძახია მისთვის.</p>
+      <p>ხელმწიფის მოწვეულია და მიდის გზაზე. დახვდა ერთი ვიღაცა, ტყიდან გამოვიდა და, - გამარჯობა, შენიო, უთხრა, ამ გუჩას.</p>
+      <p>(10) - გაგიმარჯოსო!</p>
+      <p>- სად მიდიხარ შენო? უთხრა - ამ ტყიდან რომ გამოხტა იმ კაცმა.</p>
+      <p>- ხელმწიფემ მიმიწვიაო და მასთან მივდივარო, უთხრა. მივდივარო, მაგრამ, რას აკეთებს, რომ მივალ, თავს მომჭრის ის კაცი, ვერაფერს ავხსნი მეო, უთხრა.</p>
+      <p>(15) - შენო გეტყვისო ხელმწიფეო: მტრედები მოვიდნენ და ჩემს ეზოში კენკავდნენ ხორბალსო და რას ნიშნავს არ ვიცი გეტყვისო ხელმწიფე შენო. შენ უთხარიო: - ეს იმას ნიშნავსო, ძალიან მოემზადები თუ არა, ისეთი შიმშლობა იქნებაო, შიმშლით გაწყდებაო ხალხი. ის ბევრ რაღაცას გაჩუქებსო შენო და აქ გამოიარეო (20) აქეთობისას, სხვა გზით არ წახვიდეო, უთხრა, და ნახევარი მე მომეციო რასაც გაჩუქებსო.</p>
+      <p>მივიდა და ასე უთხრა ხელმწიფეს. ბევრი რამე მისცეს იქ და აქეთობისას იქ არ გამოიარა ისე წავიდა ის კაცი.</p>
+      <p>მეორეჯერ დაესიზმრა კიდევ ხელმწიფეს: თავისი საწოლი რომ არის იქ (25) ხანჯალი უკიდია. ეს ვიღაცამ გაიტაცა, მაგრამ ეს დაიბრუნა და მეორე ხანჯალიც იმან რაღაცნაირად.</p>
+      <p>დაუძახა ისევ ამ სიზმრის ამხსნელ კაცს. არ იცის არაფერი, მაგრამ, მიდის და კიდევ დახვდა ეს კაცი, რომელიც წინათ დახვდა.</p>
+      <p>(30) - შენო, უთხრა - სიზმარი დაესიზმრაო ["მოელანდაო"] ხელმწიფესო და რომ გკითხოსო, ომი იქნება შენსა და სხვა ხელმწიფეს შორის და მოიგებ შენ ამ ომსო, უთხარიო. ბევრ რამეს გაჩუქებს ისო და ნახევარი მე მომეციო, აქ მოდი აქეთობისასო და.</p>
+      <p>ხელმწიფეს აუხსნა ყველაფერი და წამოიღო ჯორის ტვირთი ოქრო (35) და ვერცხლი. წამოვიდა სხვა გზით, რომ ვერ ნახა ამ კაცმა, ისე.</p>
+      <p>
+        ახლა მესამედ დაესიზმრა ხელმწიფეს: მის ეზოშ, ლამაზი ეზო აქვს და, აქ შევიდა ცხვრები და რომ ძოვენ აქ ისე ნახა. და 
+        <pb n="191"/>
+         დაუძახა ისევ ამ კაცს. ისევ დახვდა ეს კაცი, გზაზე რომ გამოდის სახავს ყოველთვის.
+      </p>
+      <p>- შენ აუხსენიო ასეო, რომ შენს სახელმწიფოში ხალხი შენ გატყუებდა და ხალხს შენ ატყუებდიო აქამდე ახლა კარგად ხართ და (5) არ ატყუებთ ერთმანეთსო. ასე აუხსენიო, უთხრა.</p>
+      <p>მთლად გაგამდიდრებს ["გაგაკეთებს"] და აქ მოდიო აქეთობისას.</p>
+      <p>აუხსნა ეს და მისცა ბევრი რამე ოქრო და ვერცხლი - ჯორი დატვირთა მთლად. წამოვიდა და მივიდა, ეს კაცი სადაც დახვდებოდა იქ.</p>
+      <p>(10) - შენო, უთხრა, ორჯერ მე დამპირდიო და რომ არ მოხვედიო იმიტომ იყოო, ქვეყანა ტყუილს ამბობდაო. ახლაო ყოველი კაცი სიმართლეზე დგასო და შენც მოხვედიო. წადიო, სადაც გინდა იქ; მე არ მინდა შენი ოქრო- ვერცხლიო, უთხრა.</p>
+    </body>
+  </text>
+</TEI>

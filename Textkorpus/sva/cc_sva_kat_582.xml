@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">129. ვალიანი კაცი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.ea155f04-df61-4616-bedc-52bd449b4811">TITUS</ref>
+          <title xml:lang="deu">Swanische Prosatexte: Übersetzungen ins Georgische. Oberbalischer Dialekt</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+          <settlement ref="https://www.geonames.org/613326/lakhiri.html">Lakhiri</settlement>
+        </placeName>
+        <date when="1921-08-26">1921-08-26</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Gerasime</forename>
+            <surname>Gvidiani</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Akaki</forename>
+            <surname>Shanidze</surname>
+          </persName>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/119042800">119042800</idno>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Tsiuri</forename>
+            <surname>Gabliani</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_sva_kat_582">
+    <body>
+      <head>129. ვალიანი კაცი</head>
+      <p>(ციური გაბლიანი, მაისი, 2010 ოლდენბურგი, რვ. XX)</p>
+      <p>ერთ კაცს ვალი ჰქონია ბევრი. ვერ გადაიხადა და ამ დროს მოკვდა. თქვეს ამათ-ა, ვისი ვალიც ჰქონდა, რომ "ამ კაცს ღვლერჭი დავადოთო და მდინარეში გავათრიოთო." დაადეს ღვლერჭი და მიათრევენ. (20) შეხვდათ ერთი კაცი:</p>
+      <p>- სად მიათრევთო? - ამასო მათი ვალი მართებდაო და ვერ გადაუხდიაო და ჩააგდებენ წყალში. - ამან უთხრა, რომ</p>
+      <p>- ნუ ჩააგდებთ, თვითონ გადაიხდისო. - გადაიხადა, (25) უკან დაბრუნდა და დამარხა.</p>
+      <p>გავიდა ერთი-ორი-სამი წელი, მაშინ ცოლის მოსყვანად მიდიოდა ეს, ვალი რომ გადაიხადა მკვდრის. თხმელას ამონაჭრევ ჯირკვზე ამოვიდა კაცი, შეუამხანაგდა ამას. მიდიან ერთად. მიაღწიეს, სადაც ქალს თხოულობდა, იმას [იმ ადგილს]. ეზო არტყია და ღობეზე ყველგან ადამიანის თავი არის ჩამოცმული. უთხრეს, რომ</p>
+      <p>(30) - ცოლად უნდათ ისო.</p>
+      <p>- შემოდითო და მასთან ამაღამ დაწვებაო. ხვალ თუ ცოცხალი იქნებაო, მისი ცოლი იქნებაო.</p>
+      <p>დაწვნენ ამაღამ. დაწვნენ და მისი მეგობარი დაუდარაჯდა სასთუნალთან. დაიძინეს.</p>
+      <p>
+        <pb n="125"/>
+        გამოვიდა გველი ამის ყელიდან, ქალის. ის ის იყო ["სანამ"] თავის საქმროს ჩასდიოდა, მისმა ამხანაგმა მოკლა ის რკინის კავით. ახლა გათენებამდე ბევრი მოვიდა, გველი, მაგრამ მოკლა მისმა ამხანაგმა და დილით ცოცხალი იყო მისი ქმარი. ეს უკვირდა ამას, ქალს. ცოლად გაყვა, მეტი [რა უნდა ექნა]. (5) მიდიან და მიაღწიეს თხმელას ჯირკვს. აქ უთხრა მისმა ამხანაგმა, რომ
+      </p>
+      <p>- გავიყოთო ეს, ცოლი. - ამან უთხრა, რომ:</p>
+      <p>- როგორ გავიყოთო? მარტო შენ გქონდესო. - მან უთხრა, რომ</p>
+      <p>- გავიყოთო. დაშნით გავპობო და ნახევარი მას ექნება და (10) ნახევარი მასო.</p>
+      <p>იშიშვლა დაშნა. მოუქნია ქალს. ქალს შეეშინდა, გააკანკალა და გამოაგდო გველი ყელიდან. უთხრა, რომ</p>
+      <p>- ახლა ეს მას ჰქონდესო. ამას მუცელში გველი ყავდა, ახლა ამოაგდო, უკვე გაიწმინდაო. ახლა მას ჰქონდეს ცოლადო. თვითონ (15) ის არისო, მისი ვალი [რომ] გადაუხდიაო. თვითონო მეტი თხმელას ჯირკვში ჩასახვლელი ვარო და დალოცვილი იყავი.</p>
+    </body>
+  </text>
+</TEI>

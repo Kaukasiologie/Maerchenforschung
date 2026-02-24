@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf">XVIII. ხუბურკულაშ არიკი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Jost</forename>
+              <surname>Gippert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/109337409">109337409</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Tariel</forename>
+              <surname>Putkaradze</surname>
+            </persName>
+          </name>
+          <idno type="orcid" corresp="https://orcid.org/0000-0002-3946-000X">0000-0002-3946-000X</idno>
+        </editor>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://titus.uni-frankfurt.de/texte/etca/cauc/megr/xubua/xubuat.htm">TITUS</ref>
+          <title xml:lang="kat">მეგრული ტექსტები</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Makar</forename>
+                <surname>Khubua</surname>
+              </persName>
+            </name>
+          </author>
+          <pubPlace>ტფილისი</pubPlace>
+          <publisher/>
+          <date when="1937">1937</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/610823/zugdidi-municipality.html">Zugdidi</district>
+          <settlement ref="https://www.geonames.org/798785/k-ortskheli.html">Kortskheli</settlement>
+        </placeName>
+        <date when="1923-08-21"/>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Sandro</forename>
+            <surname>Kvaratskhelia</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/610823/zugdidi-municipality.html">Zugdidi</district>
+              <settlement ref="https://www.geonames.org/798785/k-ortskheli.html">Kortskheli</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_42">
+    <body>
+      <head>XVIII. ხუბურკულაშ არიკი</head>
+      <p>ქოჸოფე, ქოჸოფე ართი კოჩი. ნოჸუნუე თეს ვითოჟირი ბოშეფი - სქუალეფი. ქიმერთეს თენენქ ართი ნდემიშ ჸუდეშა. თე ნდემს ჸუნს ვითოჟირი ოსურსქუა ზჷსნახეფი. არძაშ უკულაში ბოშის ჯოხო ხუბურკულა. ამჷსერი ქოდინჯირეს არძაქჷნ, თე ზჷსნახენს გჷნაქჷნს შქართუნინ თენა გოთირუ̄ ხუბურკულაქ - ინა მუნენქ ქიმნიქუნეს დო მუნეფიში შქართუნი თინენს ქჷმნაქუნ. - მის ლურს დო მის ვარია - და̄ძახჷ დემქ. - მა ვაბლურს, სქანი სინდა ხუბურკულასია - დუ̄ძახჷ ბოშიქ. - მუქ ვადგორულუა? - მუქია და კამბეშეფიში ყირტაფიქია,</p>
+      <p>უწუ̄ ხუბურკულაქ.</p>
+      <p>გოფურაფილი შანთი ქიგედჷ კამბეშენს ნდემქ დო არძა დოჭჷ. - მის ლურს დო მის ვარია - ხოლო დი̄ძახჷ. - მა ვაბლურს, სქანი სინდა ხუბურკულასია. - მუქ ვადგორულუა? - ცხენეფიში ჭირხინქ ვადმორულუა. თენეფი ხოლო დოჭჷ ნდემქ.</p>
+      <p>ათაშ-ათაშ იაჸუნეს დო მუთ შურდგჷმილი ქოჸუნდჷ ნდემსჷნ, არძა დაჭუაფუ̄ ხუბურკულაქ. - მანგიორი თენენსჷთ ოკო ქობღოლე̄ მა - იფიქრჷ ნდემქ,</p>
+      <p>ქიმერთჷ დო გოფურაფილი შანთი არძას ქიგნუწაწუ̄ ვითოჟირი ხოლო ჯანუნ თენენს.</p>
+      <p>ენეფი არძა მუში სქუალეფი რენა. შქართუნით იჩინენდჷ, მარა თირელქ იჸუ̄ რადგანსჷნ, ქაშაჩირთჷ. მუ უჩქჷ ენა ნდემს? ოსურს უწუ̄ - ათენეფი ძალამი დომიხაში ოჭკომალო. ქიმერთჷ ოსურქ დო გამნა̄წყჷ შქართუნიო, მუში ცირა სქუალეფი ღურელო ქოძირჷ.</p>
+      <p>და̄ჭყჷ რკია დო ქიმირულჷ ნდემქ.</p>
+      <p>ეზმა ხანს ბოშენქ გინილეს დთ მირულენა. გამათხოზჷ ნდემქ გურ მულირო.</p>
+      <p>ქიმერთეს ართი წყარიშა გვარგვალანს თე წყარი ირიათო დო მუთუნს ეშა ვედნართე.</p>
+      <p>ხათე დოჭუნს.</p>
+      <p>მელე ეკოდგჷ ართი მაღალი ნუზუ.</p>
+      <p>შეხვეწეს ნუზუს გაჭირებული კათეფქ - ნუზჷ პატჷნი, ნუზჷ ხენწჷფე! მოდირკი დო გემნომჸონითია. მოდირკჷ დასურო ნუზუქ დო მელე მინილეს ბოშენქ.</p>
+      <p>
+        <pb n="79"/>
+        ქჷმორთჷ თაქ ნდემქ ხოღო დო ეჩიებჷ გურ მულირო ნუზუს - ნუზჷ შურამი, ნუზჷ ბუძღამი - გემნომჸონია.
+      </p>
+      <p>მარა ნუზუქ ვამოდირკჷ დო ვემნართჷ ნდემს. იდეს ბოშენქ დო ქიმერთეს ხენწჷფეში დოხორეშა. ხენწჷფეს უღუ დიდი კრება -</p>
+      <p>შაყარუა. - ათე დო თე ნდემს უღუ ორქოშ ტახტი, თის მიდგა მომიღანქ, მუ გოკო ჩქიმდე ჸურევა! - ხუბურკულა მიღანს და ვარა მეტი კოს ინა ვამაღინე - თქვი̄ს კათეფქ.</p>
+      <p>მოლართჷ ხუბურკულაქ, მიხირჷ ნდემიში ტახტი დო გოურქუ̄. ქიმიოდირთჷ წყარს. კინი̄ჯინუ დო ქჷმოთხოზ აჭ-დო-გაჭით ნდემი. - ნუზჷ პატჷნი, ნუზჷ ხენწჷფე, ნდემი მოფთხოზჷნ დო გემნომჸონი!</p>
+      <p>მოდირკჷ ნუზჷქ დო ქა̄ხუნუ̄ მელე ხუბურკულა. ნდემქ ხოლო ოგორჷ დო ვემნიჸონჷ.</p>
+      <p>ქიმერთჷ ხენწჷფეშა ხუბურკულაქ. იჸუ̄ დიდი ხარებაქ. ათაშ, ათაშ ირფელი ქჷმაღალაფეს ხუბურკულას, მუთ ჯგირი დო სქვამი ქუღუდჷ ნდემსჷნი.</p>
+      <p>დიდი სახელი დო ქონება ქიმეჩჷ ხენწჷფექ ხუბურკულას დო მუში ჯიმალენს.</p>
+    </body>
+  </text>
+</TEI>

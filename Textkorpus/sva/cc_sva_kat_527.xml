@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">75. სულასახელი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.ea155f04-df61-4616-bedc-52bd449b4811">TITUS</ref>
+          <title xml:lang="deu">Swanische Prosatexte: Übersetzungen ins Georgische. Oberbalischer Dialekt</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+          <settlement/>
+        </placeName>
+        <date when="1925-09-06">1925-09-06</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Giorgi</forename>
+            <surname>Pirveli</surname>
+          </persName>
+          <age>50</age>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+              <settlement ref="https://www.geonames.org/614247/kveda-ipari.html">Ipari</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Varlam</forename>
+            <surname>Topuria</surname>
+          </persName>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/103711473">103711473</idno>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Aleksandre</forename>
+            <surname>Oniani</surname>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1052482805">1052482805</idno>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_sva_kat_527">
+    <body>
+      <head>75. სულასახელი</head>
+      <p>(ალექსანდრე ონიანი, 1974 რვ. II-III)4</p>
+      <p>(30) იყო ერთი ხელმწიფე, ჰყავდა ერთი ცოლი, ერთი ვაჟიშვილი. ეს ავად გახდა, ხელმწიფე. უთხრა თავის ცოლს: "ჩემო ცოლო, მე ახლა მოკვდები და ჩვენი შვილი პატარა არის, წაიყვანე მეორე ხელმწიფესთან, თორემ მე თუ მოვკვდები, მაშინ გული დაეკოდება [მოეჭრება = შეწუხდება]." წაიყვანეს შვილი მეორე ხელმწიფესთან, მაშინ ეს მოკვდა. შინ დასაფლავება უქნეს [= დაასაფლავეს]. ორი (35) წელი [ზაფხული] გავიდა, მაშინ ბავშვი შინ მოიყვანეს. ბავშვმა მოიძია თავისი მამა:</p>
+      <p>- მამა სად არის? - ის მოკვდა.</p>
+      <p>
+        <pb n="69"/>
+        შეწუხდა ბავშვი, ორმოცი [გარდაცვალებიდან 40-ე დღის აღსანიშნავი რიტუალი] გაუკეთა. ავიდა მათ ზევით, ბორცვზე, ორი ნაბადი წაიღო, დაწვა. მოვიდა სკვინჩა, უთხრა მან, სკვინჩამ: "ჭაბუკო, სულასახელი ჰქვია [ერთ] გოგოს, ის სანამ ცოლად არ მოიყვანო, მანამდე მოსვენება არამც გაქვს [= გქონდეს] !" (5)
+      </p>
+      <p>ადგა, იხედება ყველგან [ყველა მხარეს], ვერავის შეხედა [= ვერავინ დაინახა]. ისევ დაწვა. ისევ ასე უთხრა სკვინჩამ. ადგა ისევ, გადააფურთხა, პირჯვარი გადაიწერა, წავიდა სახლში, თავის დას უთხრა: "ჩემო დაო, დღეს ბორცვზე მითხრეს, რომ სულასახელი ჰქვია. ის ცოლად სანამ არ მოვიყვანო, მანამ მოსვენებაო ნუმც მაქვს!" (10)</p>
+      <p>გაგზავნეს ათი ცხენოსანი, ათი ქვეითი იმის საძებრად. მიაგნეს მის სახლს. მას დიდი ეზო აქვს, ირგვლივ დიდი გალავანი არტყია, სპილენძის კარები ჰკიდია. მიადგნენ კარს. კარებმა ლაპარაკი დაუწყეს: "არ შემოხვიდეთო, თორემ ცოცხალი არავინ დაბრუნებული [= დაბრუნებულა]." მაინც შევიდნენ სახლში [სახლთან ?]. სულასახელი ოქროს აკვანში წევს, სალამი აუღო [= მიესალმა] ამათ: "თქვენ მოგვიხვედით მშვიდობით. ვიცი [მიხალ ნაცვლად ხოხალ ქართულის გავლენით], რომ ჩემთან ხართ მომსვლელი თქვენ, მაგრამ თუ როგორმე სამ ამბავს მათქმევინებთ, მაშინ შენი რძალი ვიქნები, თუ ვერა, მაშინ ხვალ ყველა მოგკლავ(თ)!" ამათ ერთი ამბავი ვერ ათქმევინეს. მეორე დღეს ყველა მოკლა ესენი, სახლში არავინ დაუბრუნდა ხელმწიფის შვილს. (20)</p>
+      <p>ისევ ოცი ცხენოსანი, ოცი ქვეითი გაგზავნა. წავიდნენ ისინი, კარს მიადგნენ. კარებმა ისევ უთხრეს: "არ შემოხვიდეთ, თორემ ცოცხალი არავინ დაბრუნებულა!" შევიდნენ მაინც. სულასახელი მიესალმა [მისალმება აუღო]: "ვიცი, ჩემთან ხართ მოსული. სამ ამბავს თუ (არ) მათქმევინებთ, შენი რძალი ვიქნები, თუ არა, ხვალ ყველას (25) მოგკლავთ!" ერთი ამბავი ვერ ათქმევინეს. მეორე დღეს ყველა მოკლა.</p>
+      <p>ხელმწიფის შვილი უცდის შინ, არავინ დაუბრუნდა. მოემზადა თავად თვითონ, ოცდაათი ცხენოსანი წაიყოლა, ოცდაათი ქვეითი, ოქროს კოლოფი ჯიბეში ჩაიდო, წავიდა, მიადგა კარებს. კარები სახლში არ უშვებენ: "ცოდვა ხარ მოსაკლავად და არ შემოხვიდე!" ის არ იკადრა და სახლში (30) წავიდა (შევიდა). სულასახელმა კარგი დღე დაულოცა. "გენაცვალე, ცუდო ჭაბუკო, ჩემთან მომსვლელი ხარ, ასე ვიცი, მაგრამ სამ ამბავს თუ ვერ მათქმევინებ, მაშინ შენი ცოლი არა ვარ და თქვენ ყველას მოგკლავთ!" ახლა ცუდი გული ჩაუდგა ჭაბუკს, იფიქრა: "ამაზე მეტი უკიდურესი დღე როდისო მექნება [ამაზე ცუდ დღეში როდის ვიქნებიო] !" ამოიღო ჯიბიდან ოქროს კოლოფი და გახსნა. (35) გამოხტა აქედან მრგვალი მაგიდა [რუს. სტოლდ]. ამის შემდეგ ისევ გამოხტა სანთელი, მაგიდაზე დადგა. მას შემდეგ გამოხტა წითელი ვაშლი, მაგიდაზე გაგორდა ["წავიდა"]. მაშინ თქვა მაგიდამ: - რასო ფიქრობთ: ჭაბუკსო ცოლი უნდა, სულასახელს - გათხოვება. მოყევითო რამე!</p>
+      <p>
+        <pb n="70"/>
+        - აბაო, მე ვიტყვი: (ერთი) მგზავრები მიდიოდნენ შორ გზაზე და წიფლნარში შემოაღამდათ: ერთი მღვდელი იყო, მეორე ოსტატი, მესამე - თერძი. მღვდელმა და თერძმა დაიძინეს, ოსტატმა კაცის ფიგურა ["ნახაზ"] გამოთალა. დაწვა. მაშინ თერძი ადგა და გაუკვირდა: კაცი ეგონა. (5) შეუდგა ტანსაცმლის კერვას და შეუკერა ყველაფერი და ჩააცვა. მაშინ თერძი დაწვა და მღვდელი ადგა. მღვდელს უფრო მეტად უკვირს: კაცი ჰგონია, ელაპარაკება, ხმა არ გასცა. მაშინ იფიქრა: "ამასო ესენი გააკეთებდნენ, ჩემი ამხანაგები, მე ლაპარაკს ვასწავლი ამას!" ადგნენ ყველა ესენი და ამაღამდელი მათი ნამუშევარი - მეოთხე ამხანაგი თან ახლავთ.
+      </p>
+      <p>(10) ახლა უთხრეს: - ხიად, სულასახელო, ჩვენ არ ვიცით და შენ თქვი: ვის ეკუთვნის ძმად, ანდა ნათესავად მეოთხე კაცი?</p>
+      <p>- აბა, ერთი ამბავი ნათქვამი მაქვს სათქმელი ["მქონდეს"]: ის ოსტატს ეკუთვნის.</p>
+      <p>ახლა ვაშლი ამბობს: - სამი სტუმარები მყავდა: ერთი ექიმი, მეორე მკითხავი, მესამე აფსასდ-ის [მითოსური არსება] შვილი. ადგა დილას მკითხავი, იმან (15) თქვა: "ერთ სოფელსო მომკვდარა საუკეთესო კარგი კაცი. იმის ბედზე [= გამო] ხალხიო ["ქვეყანა"] თავს იკლავს იმისი სინანულით." მაშინ ექიმმა თქვა: "იმას ჩემს წამალს თუ ვინ(მე) წაუსვამს, უცებ მორჩება." მაშინ აფსასდ-ის შვილმა უთხრა: "იმას უცებ წავიღებ იქამდე. თორმეტი წლის სავალი მანძილია, სამ საათში იქამდე მივიტან." მისცეს წამალი და წაიღო (20) აფსასდ-ის შვილმა. სახლში კუბო აიღეს, სასაფლაოზე წაყვანამდე იქ დახვდა აფსასდ-ის შვილი. მთელი ["მთლიანად"] ქვეყანა ამას მოსდევს კივილით და შეაწყვეტინა ყველას ტირილი: "ამას მე მოვარჩენ!" დადგეს კუბო, ამან მოაძრო ზევითა სარქველი და წაუსვა წამალი და წამოფრინდა უცებ კუბოში, თვალებს იფშვნეტს: "რა ბევრი მიძინიაო?" ახლა, ხიად, სულასახელო (25) ეს ვისი მორჩენილი იქნება, ვის ეკუთვნის? ჩვენ ვერ ვხვდებით.</p>
+      <p>- მეორე ამბავს ახლა ვიტყვი ["მეთქვას"]: აფსასდ-ის შვილს ეკუთვნის: იმანო წაიღო წამალი იქამდე და იმას ეკუთვნის.</p>
+      <p>ახლა ამბის გამოცანას ნათელი [ყვება - ე.დ.]: ერთი ცოლ-ქმარი მიდიოდნენ ცოლის სახლში. ცოლი ორსული იყო, გზაზე მშობიარობა (30) დაიწყო. სახლი შორს იყო და ცეცხლი არ ჰქონდათ. მისი ქმარი უკან დაბრუნდა თავის სახლში. ამას გზაში მძარცველები დახვდნენ. მძარცველებიც მოკლა, თვითონაც მოკლეს. მისმა ცოლმა ["მისი ცოლი"] იმშობიარა, ბიჭი დაბადა და კალთაში შეახვია და უკან დაბრუნდა, საითკენაც თავისი ქმარი წავიდა. წააწყდა გზაში სამ მკვდარს. მისი ქმრის ტანი იცნო და თავი ვერა. აიღო (35) ერთი თავი, მიაწება თავის ქმრის ტანს: "ღმერთო, თუ გეცოდებოდეთ, მაშინ ეს თავი ამ ტანს შეაზარდე და მოარჩინე!" და მორჩა ეს კაცი. ტანი ქალს ეალერსება და თავი განზე [გვერდზე] აქვს.</p>
+      <p>
+        <pb n="71"/>
+        ხიად, სულასახელო, ჩვენ ვერ ვხვდებით: ცოლი ტანს ეკუთვნის, თუ თავს?"
+      </p>
+      <p>- ხიად, ჩემო ქმარო ჭაბუკო, შენი ცოლი ვარ. სადაც გული წევს, იმას ეკუთვნის: ტანს ეკუთვნის ცოლი.</p>
+      <p>ადგა აკვნიდან, მიუჯდა თავის ქმარს. ჭაბუკი მოწყენილად არის. (5)</p>
+      <p>- აქამდე ჩემი თავი გინდოდა, ახლა რატომ მოიწყინე?</p>
+      <p>- რატომ და, უკანასკნელ კაცებს არაფერი ეხარჯებათ, მე სამოცი კაცი დამეკარგა შენს ძებნაში!</p>
+      <p>- ამიტომ ნუ მოიწყენ, იმათ მოვარჩენთ!</p>
+      <p>ადგა სულასახელი და ყველა მოარჩინა. ქორწილი გადაიხადეს ისეთი (10) რომ ჩიტის რძეც ["მუწუ̄ლა̈ ლჷჯეჲ" ]ბევრი ჰქონდათ. შემდეგ წავიდნენ თავიანთ სახლში, იმაზე უკეთესი ["კარგი"] ქორწილი აქ ქნეს.</p>
+      <p>დალოცვილი იყავი.</p>
+    </body>
+  </text>
+</TEI>

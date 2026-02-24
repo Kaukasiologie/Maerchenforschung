@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">123. კოლოფი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.ea155f04-df61-4616-bedc-52bd449b4811">TITUS</ref>
+          <title xml:lang="deu">Swanische Prosatexte: Übersetzungen ins Georgische. Oberbalischer Dialekt</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+          <settlement ref="https://www.geonames.org/613326/lakhiri.html">Lakhiri</settlement>
+        </placeName>
+        <date when="1921-08-14">1921-08-14</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Akaki</forename>
+            <surname>Shanidze</surname>
+          </persName>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/119042800">119042800</idno>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Tsiuri</forename>
+            <surname>Gabliani</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_sva_kat_576">
+    <body>
+      <head>
+        <pb n="98"/>
+        123. კოლოფი
+      </head>
+      <p>(ციური გაბლიანი, მაისი 2006, ოლდენბურგი, რვ. VIII)</p>
+      <p>დალოცვილი იყავი და ცოლ-ქმარი (?). იყო ერთი ცოლ-ქმარი. ამათ ჰყავდათ ერთი ბავშვი. ერთხელ წყალზე გაგზავნეს ბავშვი. ეს გზას ასცდა და შევიდა ტყეში. ტყეში იჯდა დიდი დევი. ბავშვს (5) შეეშინდა და უკან დაბუნდა ["დაეკიდა"?]. მაგრამ დევმა დაუძახა: "ნუ გეშინიაო, მოდი აქეთო, შედიო გამოქვაბულშიო და მაგიდაზეო კოლოფი არის, ის გამომიტანეო." ბავშვი შევიდა გამოქვაბულში, აიღო კოლოფი და ჩაიდგა უბეში, შემოტრიალდა გამოსასვლელად, მაგრამ კარი დაფარულიყო... დაფარულიყო. ბავშვი შერჩა სიბნელეში. ბავშვმა (10) ტირილი დაიწყო, - გასასვლელი არსად ჰქონდა. პატარა ხვრელი დაინახა და გაძვრა და ჩავარდა ზღვაში. ზღვაში წყალმა ლივლივი დაიწყო. ამ დროს გემი [რუს. პაროხოდ-ი] მოვიდა, იქიდან დაინახეს მოლივლივე: "ამაში კალმახი არისო." ისროლეს ბადე და დაიჭირეს ბავშვი, ამოიყვანეს, - კალმახი იყო კი არა, ბავშვი იყო. მოიყვანეს ნავსადგურში [რუს. სტანციაში]. იქ ყველამ (15) დაიწყეს ცილობა ბავშვზე. გემის მეთაური [მე-პაროხოდ-ე] ამბობდა: "ბავშვი მე მინდაო." ოფიცერ-ი ამბობსო: "მას უნდაო." ბოლოს სულ დაავიწყდათ და დატოვეს ნავსადგურში [რუს. სთანცია-ში].</p>
+      <p>ადგა ბავშვი და შევიდა ღარიბი მედუქნის აივნის [რუს. ბალკონს] ქვემოთ. აქ ჩაეძინა. შუაღამისას შესცივდა და კვნესა დაიწყო. ეს (20) შემოესმა მედუქნეს. ადგა და შეიყვანა ბავშვი სახლში. ცოტა პურის ნატეხი მისცა და სანთელი დაუნთო. უთხრა, რომ: "რომ შეჭამო, სანთელი ჩააქრეო." მედუქნე დაწვა. ჭამს ეს, ბავშვი, მოსინჯა უბე და კოლოფი შიგ ედგა. აიღო კოლოფი, გახსნა და სამი სანთელი იყო შიგნით. ეს ძალიან გაუხარდა ბავშვს:</p>
+      <p>(25) - ამას ავანთებო და მედუქნის სანთელი არ დაიხარჯებაო... დაანთო სანთელი, უცბად აქ სამი ქალი გაჩნდა, სამი ქისა ფული მოუტანიათ, ისეთი სიმღერა თქვეს, რომ მეტი არ შეიძლებოდა. მერე რამდენჯერაც ჩაქრებოდა, და კიდევ და (კიდევ) ანთებდა, იმდენჯერ თვითონ ქისა ფული მოჰქონდათ (30) და სიმღერას ამბობდნენ. იმ საღამოს ათზე ნაკლებ არ დაუნთიათ ["ათჯერ მარტო არ აანთეს"], იმდენჯერ ფული მოჰქონდათ ქალებს და სიმღერას ამბობდნენ ყოველთვის.</p>
+      <p>მეორე დღეს ადგა მედუქნე და ბავშვიც ადგა. ბავშვმა უთხრა მედუქნეს:</p>
+      <p>- კარგ დუქანს რატომ არ დგამო? - მედუქნემ უთხრა, რომ (35)</p>
+      <p>
+        - ღარიბი ვარო, ფული არ მაქვსო დასადგმელადო. ბავშვმა უთხრა, რომ 
+        <pb n="99"/>
+        ფულს თვითონ მისცემსო.
+      </p>
+      <p>- ის საიდან მისცემსო. თავად ["მისთვის"] ღარიბიაო, წუხელო სველი ეგდოო მისი აივნის [ბალკონ] - ქვეშო. - ბავშვმა უთხრა:</p>
+      <p>- ამის დარდი ნუ გექნებაო. აიღო ფული და მისცა მედუქნემ (5) ექვსი ქისა. მედუქნემ დიდი დუქნები დადგა, გაძლიერდა, ვაჭარი [რუს. ქუპეც-ი] გახდა.</p>
+      <p>ერთხელ ბავშვი ხელმწიფის ბაღში წავიდა. იქ ბევრჯერ დაანთო სანთელები. რამდენჯერაც დაანთო სანთლები, იმდენჯერ მოდიოდა სამი ქალი, სამი ქისა ფული მოჰქონდათ და სიმღერას ამბობდნენ. ანღჷრდა, მაშინ (10) ერთ ქისას მებაღეს სჩუქნიდა და მეორეს - მეფაეტონეს.</p>
+      <p>- ხვალ მოიტანო?</p>
+      <p>- როგო არ მოვიტანო, მისთვისო ერთი მანეთიც არ მიუციაო, მასო გაუკეთებიაო. - მებაღეს უთხრა, რომ</p>
+      <p>- შენ შემომიშვებო ხვალო? - მებაღემ უთხრა, რომ</p>
+      <p>(15) - როგორ არ შემოგიშვებო, მისთვისო მანეთიც არავის არ მიუციაო, შენო ერთი ქისა ფული მომეციო!</p>
+      <p>იმ დღეს მებაღე სხვა სახის ხეხილსა და ამას რგავდაო. მოვიდა აქ ხელმწიფის ქალიშვილი. შეეკითხა მებაღეს:</p>
+      <p>- რას აკეთებო, აქამდე ასე არ აკეთებდიო და დღეს ძღვენს (20) ამზადებო. მებაღემ უთხრა:</p>
+      <p>- რატომ არ მოვემზადებიო, გუშინო ერთი ადამიანი მოვიდა. სანთლებს ანთებდაო, სამი ქალი მოდიოდაო. თვითონ ქისა ფული მოჰქონდათო და სიმღერას ამბობდნენო. მოდიოდა და ერთი ქისა მისთვის მიუციაო, თქვენ მანეთიც არავის მოგიციათო.</p>
+      <p>(25) გოგომ გაიფიქრა, რომ</p>
+      <p>- ამასო როგორმე გამოვტყუოთო სანთლები და კოლოფი.</p>
+      <p>მაგათ უთხრეს ბიჭს, რომ - ჩაესიძე ხელმწიფესო. – ბიჭმა [ასეც] გააკეთა.</p>
+      <p>ერთ საღამოს ვითომ ქორწილი ჰქონდათ, ისე მიიპატიჟეს, დაათვრეს (30) კოლოფი მოჰპარეს და ის წაიყვანეს შორ მინდორში და იქ დადვეს.</p>
+      <p>მეორე დღეს გაიღვიძა, წავიდა მედუქნესთან, მოისინჯა კოლოფი და არ ჰქონდა, უთხრა მედუქნეს.</p>
+      <p>- მისი ცხოვრება მეტი არ არისო, უნდა წყალში გადახტესო. მედუქნემ უთხრა: (35)</p>
+      <p>- წყალში როგორ გადახტებიო, ეს ყველაფერი მისიაო, რაც მას აქვსო. დაწექიო და ჭამეო.</p>
+      <p>
+        <pb n="100"/>
+        ბავშვი მაინც წავიდა მდინარესთან და ჩახტომას ამბობდაო, მაგრამ თან ["კიდეც"] ეზარებოდა. ზის წყლის პირას და ჩაეძინა. გამოვიდა კალმახი, გადაყლაპა ბავშვი, შევიდა ზღვაში და მეორე ნაპირზე გადააგდო.
+      </p>
+      <p>მიმოიხედა ბავშვმა და მინდორში დგას დიდი ოთახი. ამას (5) ირგვლივ გარშემორტყმულია ["აკრავს"] არაბი კაცები[თ]. ესენი ყველა თავს უხრიან ბავშვს. ბავშვი შეიხმეს ოთახში, ოთახში ზის ლჷფკე̄ლ ["ქალბატონი, ბანოვანი, დიდგვაროვანი ქალი"]. ლჷფკე̄ლ-მა უთხრა:</p>
+      <p>- მასო [რომ] ფულს უგზავნიდაო, ქალებს ატანდაო, ეს მე ვიყავიო; ესო დევს (10) მისთვის მოუპარავსო. მის შემდეგო ოცი წელიაო და თვითონო სულ მკვდარი ყოფილაო ოც წელიწადშიო. შენო, ადამიანიო, ჩაგიგდე ხელშიო, მაშინ მეო გამოვჯანმრთელდიო. მას უთქვამსო, რომ "ვინც კოლოფს ჩაიგდებს ხელშიო, მე მისი ცოლი ვიყოო." და დღესო შენ ქმარი იყავიო და მე ცოლი ვიქნებიო.</p>
+      <p>(15) ესენი დაქორწინდნენ. ხელმწიფის გოგომ (ვინც ამ ბიჭს კოლოფი მოჰპარა, იმან) იფიქრა: "იმისთვის მოჰქონდათ ფულიო და მეც მომიტანენო." დაანთო ბაღში სანთლები. გაჩნდნენ აქ სამოცი არაბი კაცი. ვინც ხალხი იყო, ყველა ცუდად გალახეს. მეორე დღეს ხელმწიფის ვაჟმა დაანთო: "მას მაინც ვერ (20) უზამენ ისეო", მაგრამ გაჩნდნენ აქ სამოცი არაბი კაცი, ხელმწიფის ვაჟს ცემით ყველაფერი ჩაუმტვრიეს ["ჩაულეწეს"] და სანთლებიც წაართვეს და წაიღეს [მარტო სანთლები] ლჷფკე̄ლ-თან.</p>
+      <p>ლჷფკე̄ლ-მა და ბიჭმა კარგი ცხოვრება გაატარეს და დალოცვილი იყავი!</p>
+    </body>
+  </text>
+</TEI>

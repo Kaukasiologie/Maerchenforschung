@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">168. ბავშვი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.ea155f04-df61-4616-bedc-52bd449b4811">TITUS</ref>
+          <title xml:lang="deu">Swanische Prosatexte: Übersetzungen ins Georgische. Oberbalischer Dialekt</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+          <settlement ref="https://www.geonames.org/612987/mestia.html">Mestia</settlement>
+        </placeName>
+        <date when="1926-09-12">1926-09-12</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Makhunjak</forename>
+            <surname>Japaridze</surname>
+          </persName>
+          <age>60</age>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Varlam</forename>
+            <surname>Topuria</surname>
+          </persName>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/103711473">103711473</idno>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Tsiuri</forename>
+            <surname>Gabliani</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_sva_kat_622">
+    <body>
+      <head>
+        <pb n="163"/>
+        168. ბავშვი
+      </head>
+      <p>(ციური გაბლიანი, სექტ. 1990 მესტია რვ. VIII)</p>
+      <p>დღეგრძელი იყავით და აბა, ცოლ-ქმარი ყოფილან. ვაჟი ჰყოლიათ. ერთი ცხვარი ჰყოლიათ. ბიჭი იმხელა ჰყოლიათ, რომ მწყემსობა შესძლებია. მაშინ თავის დედ-მამას უთხრა: ამას [ე. ი. ცხვარს] ავიყვანო. მეჯოგეს გაუარა. მაშინ (5) მეჯოგეს უთქვამს: შენ მომსვლოდე მშვიდობიანად (შენს მოსვლას მშვიდობა)! დარჩი ჩემთან მოსამსახურედ ხუთი წელი. აუყვან(ი)ა ის ხუთ წელს. ერთი ცხვარი ჰყოლია. იმის ამარა ხუთ წელიწადს გაჩერებულა.</p>
+      <p>მეორე დღეს ჯოხი მიუცია ჯოგის მოსამწყემსად. მაშინ ცუდი ამინდი მოსულა. ბავშვს ტირილი დაუწყია. მაშინ მის (10) ცხვარს უთქვამს, რომ დღეს მის გამო ტირის, მის გამო აქვს ჭირი (ე. ი. ბევრი საქმე), [რომ] ის ორ წელიწადში იმშობიარებსო, ორ თიკანს დაუბადებსო, დღეშიო ორ ვედრო რძეს მოუწველისო. ერთ ვედრო-ს სახლში გავუგზავნიო შენს დედ-მამას, ერთი იხმარეო მის ხაზეინთან. ხვალ ნუ გეშინია, დარი იქნებაო. დღეს ტირიო, ხვალ იმღერებო. (15) ესო ცივი მერმუც [ე. ი. თოვლის და სიცივის მომასწავებელი ამინდი] მოსულაო, ხვალ კარგი გული გექნებაო [ე. ი. კარგი გუნება]. კიდეო, ხუთ წელს რომ დაამთავრებო, მაშინო უთხრასო თავის ხაზეინსო, ის წავაო სახლშიო, მის ჯოგს ამოირჩევსო, მასო სახლშიო დედა და მამა ჰყავსო. ვადა დაუმთავრებია ამას. მაშინ ხაზეინს უთქვამს: "თავისი ცხვრები სახლში წაიყვანოსო."</p>
+      <p>(20) ხუთ წელიწადში ერთ ცხვრისაგან ხუთასი ცხვარი გამოვიდა. მაშინ გამოურჩევია მისი ცხვრები, სახლში მიჰყავდა. გზაში დაწოლილან ცხვრები და თვითონაც. მაშინ უთქვამთ მის დედას და მამას სახლში - დრო დამთავრებული აქვს, ხუთი წელი დამთავრებულია. მაშინ მისი მამა ამდგარა, მასთან მოდიოდა. მიადგა გზაში მის შვილსა და ჯოგს. (25) მისულა და უთქვამს: "ადგესო!". ვერ გაუღვიძებია. "ეს ალბათ, მკვდარიაო, თორემ რატომ არ იღვიძებსო." მაშინ ფეხებისთვის მოუკიდებია და თრევა დაუწყია. მაშინ გაღვიძებულა. - რა კარგი ძილი მქონებიაო. - როგორო, - მის მამას უთქვამს, - მკვდარი მეგონეო. მაშინ - შენი ჭირი მომივიდეს, რომ (30) შენ მოხვედიო! ჯოგი ჩვენია და სახლში წაიყვანეო. ის უკან დაბრუნდებაო. - უკან ნუ დაბრუნდები, სახლში მოდი, დედას ენატრები. - ის მალე მოვაო.</p>
+      <p>
+        ერთი [ცხვარი ?] დაიჭირა, მხარზე გადაიდო და უკან ბრუნდება. მამამ ცხვრები სახლში წაიყვანა. ეს ბავშვი ერთ ადგილას ტყეში დარჩა (ეს) (35). თიკანი დაკლა, გაატყავა, შეჭამა, რაც უნდოდა ის. მეორე დღეს ადგა და მიდის სოფელში. აქ კეისრის სოფელში მოხვდა. ამას ჯარი მზად ჰყავს და ხელმწიფის ლაშქარში მიდის. ამას (ე.ი. კეისარს) 
+        <pb n="164"/>
+        გაუხარდა: "ერთი მომემატა!" ახლა ესენი წავიდენ, ხელმწიფის ლაშქარში მიდიან. ორი დღის სავალი გაიარეს. მაშინ კეისარს გაახსენდა: "მას სკივრი დარჩა სახლში. ამასო ამაღამ აქამდე ვინც მოუტანს, იმასო ერთი გოგო ჰყავს, იმას მისცემს ცოლად." (5) დაწვნენ. ვის შეეძლებოდა აქამდე მოსვლა?
+      </p>
+      <p>ადგა ის ბავშვი, შეიფერთხა, მამლად გადაიქცა. გადაფრინდა ეს და კეისრის კართან დაეხეთქა, შევიდა კოშკში. გოგო ამაშია(?). საღამო მშვიდობისა უთხრა ამას. - რატომ მოსულხარო? - მამამისს გამოუგზავნიაო. სკივრი დარჩენია, ის მიეცი მასო. ამაღამ (10) აქ მომსვლელისთვის თავისი თავი მიუცია [?], - რანაირი კაცი მოსულა, თუ მამა შეეკითხება? - რაო და დაიფეროსო [?] ოქროს მამლად იქცეოდეს, ეს მოსულაო. ეს უთხარი მამაშენსო.</p>
+      <p>სკივრი მიუცია ამის გოგოს. მაშინ გამოსულა კარში, შეფერთხილა, (15) ოქროს მამლად გადაქცეულა. გამოსულა მის ლაშქართან. მაშინ [?] კეისრის თავი მეთაური წოლილა, აუღია ის სკივრი და სასთუმალქვეშ შეუდვია.</p>
+      <p>გათენებულა და ამდგარან. კეისარს უთქვამს: - ვინო მოიტანაო მისი სკივრი?</p>
+      <p>(20) - მას მოუტანია, მისი ცხენი გასინჯეო! - ერთს უთქვამს.</p>
+      <p>- ახლა აღვაზე უნდა გავიდეს ხელმწიფის ლაშქართან. ზღვაზე გზა ვერ უპოვიათ. უკან დასაბრუნებელი შეექნათ. ახლა სახლში მოვიდნენ უკვე. ახლანდელი მგზავრობა არ გამოვიდა. მისი თავი მიუცია.</p>
+      <p>(25) - ვინ მოსულა მასთან, რანაირი კაცი, იცნობთ იმას?</p>
+      <p>- შენი ჭირი მომივიდეს! მასთან უბრალო კაცი არ მოსულაო.</p>
+      <p>- აბა რანაირი იყოო?</p>
+      <p>- ისეთი იყო, დაეფერთხებოდეს და ოქროს მამლად იქცეოდეს, (30) კიდევ დაეფერთხებოდეს და კაცად იქცეოდეს. სიძე ისეთი თქვი.</p>
+      <p>გავიდა და ლაშქარს უთხრა, რომ ასეთი და ასეთი კაცი მისულა მის გოგოსთან. ვის შეუძლია იმის ქნა? - უთხრა ეს. შეიფერთხნენ, მაგრამ არავინ არ გადაიქცა ოქროს მამლად.</p>
+      <p>გამოვიდა ეს ბავშვი, შეიფერთხა და ოქროს მამლად გადაიქცა. კიდევ (35) შეიფერთხა, კაცად გადაიქცა. მაშინ კეისარს უთქვამს - მისი სიძეაო ის. მოუკიდნია მკლავზე, შეუყვანია [ხელი] კოშკში. ახლა გოგოსთან არის.</p>
+      <p>
+        <pb n="165"/>
+        გოგო დაორსულდა, ბიჭი გაუჩნდა. ახლა ამ ბიჭს თამაშის დრო მოუვიდა ["დროში მოსულია"]. ქმარი წოლილა. მისი ცოლი სასთუმალთან ეჯდა თურმე. მაშინ სიცილი დაუწყია ქმარს. მის ცოლს უთქვამს, რომ - რას იცინიო. ის ბავშვი (მას) მკერდზე ეჯდა.
+      </p>
+      <p>(5) - რასო და მისი ჭირი მომივიდესო, მოხუცი დედა და მამა ჰყავსო სახლში. მათ ერთი ცხვარი ჰყოლიათო. ის მოუყვანიაო სამწყემსად. ხუთ წელიწადშიო ხუთასი გავხადეო. (?) სახლში მიჰყავდაო, მაშინ გზაში დაუწვენიაო. თვითონაც დაწოლილა და ჩასძინებიაო. მაშინ მამამისი მოსულა სახლიდან. მას სძინებია. მაშინ მას სიზმარი დასიზმრებია. ის (10) სიზმარი დღეს უნახავს.</p>
+      <p>-ეს რა არის? - მის ცოლს უთქვამს.</p>
+      <p>- რაო და შუბლზე მზე დაჰნათოდაო, მკერდზე ვარსკვლავი ანათებდა. ეს დღეს თვალით ნახაო, მზე შენა ხარო, შენი ჭირი მომივიდეს, ვარსკვლავი ბავშვიაო. და მკერდზე ეთამაშება.</p>
+      <p>(15) - ეს მართლა ნახეო სიზმრად და ეს იყოო სასაცილო?</p>
+      <p>- ეს, ამის მეტი არაფერიო.</p>
+      <p>- გაჩერდი [ე. ი. მისმინე], მას დედ-მამა ჰყავსო? - მისი ცოლი შეეკითხა.</p>
+      <p>- დედ-მამა ჰყავსო მის სახლში.</p>
+      <p>- ცოლეურებში ყოფნა სირცხვილიაო, ქმრისიანებთან წამიყვანეო.</p>
+      <p>(20) ადგნენ ხელად მეორე დღეს. მაყარი წაიყვანეს. მოდიან ახლა სახლში ცოლშვილიანად. სახლში მოვიდნენ ესენი. მის დედ-მამას ღარიბად აქვთ [ე. ი. ღარიბები არიან]. ცხვრები დამთავრებიათ. ცუდად არიან ჩაცმული. მათმა შვილმა შესძახა კარებიდან: მშვიდობა გაქვთ ხომ?</p>
+      <p>- მშვიდობა გვაქვს, - იმათ უპასუხეს. მაშინ უთქვამთ იმათ,</p>
+      <p>(25) - მათ შვილი დაკარგვიათო, მათ შვილი საიდან მოუვიდოდათო?</p>
+      <p>- ისო მათი შვილია, შიში ნუ გაქვთ!</p>
+      <p>შესულა სახლში. შევიდნენ მისი დედა და მამა. გახარებიათ ძალიან. "ახლა რის შიში გაქვთო? ცოლი მოჰყავს (მყავს?) და შვილი."</p>
+      <p>(30) ამას ახლა ფული ბლომად აქვს. კარგი ოთახი უყიდა. ამაში შეიყვანა ესენი. ეხლა კარგი მაგიდა დაუდგა, კარგი სასმელ-საჭმელი. - ახლა დაჯექითო და კარგი გული გქონდეთო.</p>
+      <p>ამათმა კარგი ცხოვრება და სიცოცხლე გალიეს, მეტი არ (35) არის. დღეგრძელი იყავი.</p>
+      <p>მეტს სხვა მოგიყვება.</p>
+    </body>
+  </text>
+</TEI>

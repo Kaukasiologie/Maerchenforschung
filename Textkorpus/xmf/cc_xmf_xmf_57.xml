@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf">XXXVII. ბორო კოჩიშ არიკი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Jost</forename>
+              <surname>Gippert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/109337409">109337409</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Tariel</forename>
+              <surname>Putkaradze</surname>
+            </persName>
+          </name>
+          <idno type="orcid" corresp="https://orcid.org/0000-0002-3946-000X">0000-0002-3946-000X</idno>
+        </editor>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://titus.uni-frankfurt.de/texte/etca/cauc/megr/xubua/xubuat.htm">TITUS</ref>
+          <title xml:lang="kat">მეგრული ტექსტები</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Makar</forename>
+                <surname>Khubua</surname>
+              </persName>
+            </name>
+          </author>
+          <pubPlace>ტფილისი</pubPlace>
+          <publisher/>
+          <date when="1937">1937</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+          <district/>
+          <settlement ref="https://www.geonames.org/611751/t-amishi.html">Tamishi</settlement>
+        </placeName>
+        <date when="1933-07-23">1933-07-23</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Davit</forename>
+            <surname>Todua</surname>
+          </persName>
+          <age>60</age>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/6643410/abkhazia.html">Abkhazia</region>
+              <district/>
+              <settlement ref="https://www.geonames.org/611751/t-amishi.html">Tamishi</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_57">
+    <body>
+      <head>XXXVII. ბორო კოჩიშ არიკი</head>
+      <p>სქუა ჸუნს ოსურს ართის, ქომოლსქუა. ჟარნეჩი წალენი დჷ თი ოსურინ, თიწკჷმა ეურჩქინდჷ მასჷმა ქომონჯწკჷმა თე სქუაქ. ათენა მუჭო მუს ათუჯანუდჷ ოკურჩხანეშან თეშ მორდჷ ეჩ წანაშა, მითინწკჷმა ვა დიჯირუდჷ. ათექ თეშ მირდჷ ლენჩი ცალო, დღას მითინს ვა დუციგანუანდჷ. შხვა იციგანჷდჷკონ, ვა აკოდჷ, იშო მიდეშჷ განიშე. დიდაქ დი̄რჩინჷ. ათე სქუა ჭე ლენჩი ქორე! - ათე სქუაქ მემიდინასიე? მიშელჷ თე ოსურქ ფიქრიშა, ქონება უღუნ ფერიე, ვარა ტყურაია ვარე ქონება უღუნ ფერიე თე ოსური. ათაქ გა̄კეთჷ თე ოსურქ აზრი ნამდა! - ათეზჷმა ორინჯი მემიდინჷ თენეფ ირფელია. ათეს ქუმუჸონა მა ოსურს ვარა, ვა შილებენო მემიდინას სქუაქიე? ეგებ მუთუნ ჯგჷრიშა გაიშეჸუნას ოსურქიე დო იფიქრჷ თენა.</p>
+      <p>ეიაკინჷ თაქჷნეშის დო ოსური ქჷმუჸონჷ თაქ, ძღაბი, მუშით; დიდაქ მიჸუნჷ. ქჷმუჸუნჷ თეს ოსური, მარა მუჭო ქიმინას? ვე დეთხუ̄ დიდას, ვა დიჯირჷ მუშ ოსურწკჷმა. აქ ე ძღაბიქ ში̄წუხუნჷ, ქოძირჷ დიდაქჷნ, ეფერ ჟანს, ეიაკინუ დო უწუ̄. - ნანა, სქუავა! ჩქიმი სქუას სი ხოლო დუმასთი, მა ხოლო დუმასთუქია, ჩქიმი ქონება ჭკომათ თინა მოკონია; ამ-დღა-დო-ჭუმეშ მაღურუ ვორექია, უწუ̄.</p>
+      <p>
+        ათენა ქოუწუ̄ნ ეფერ ჟანს, დიდაქ გაგმა̄ნწყუ̄ აზრი 
+        <pb n="174"/>
+         - მა გებდირთუქ თენა ქიდირულუანსიე დო სი ქელანჯირია, ათაშ ქიმინი, ათაშ ქიმინი დო აკაშა გამშეჸონი, ქაქიმინაფე̄ დო უკული გოკურცხჷ თინა ხოლოვა, უწუ̄.
+      </p>
+      <p>ბოლოს ათე ბოშიქ თენერო გინირთჷ ნამდა, ოსურიშა დჷთვათხინე. დიდა ქოუჸუორს მარა, ირ საათის, ვარა ოსურიშა ვა მორთას დო ვარა ვიშო ვა ძირასჷნ, ვეჸი̄. ეშ ჸოროფა გეჭოფჷ დო მუშება ქჷდი̄ჭყჷ.</p>
+      <p>ბოლოს ათეს მიაჸუნუ იშო-იშო დო კოჩო გჷშე̄ლჷ, დეჭკვერჷ, შარაშა გჷშე̄ლჷ, თი ზომაშა ქიგედჷრთჷ. ათეწკელა დიდაქჷთ დუღურჷ წოხოლე დო ოსურქჷთ დუღურჷ თეს უკული. დოღურჷ თენენქჷნ, უკულჷ ჸუდეს ვა ანაცადჷნ ეს, აზრიქ წურთჷ. - მორთი ართის იფქჷ მავა! დო მუში აზრით ეუკინუ დო ჸუდე დო თენეფი მუთ ქუღუდუნ, ირფელი ართო გეგმოჩჷ იშო. გეგმოჩჷ თენეფი დო ჩხორო მეგინე ჩხოუ ჸუნდჷ დო ცხენეფინ, ქაჲწიჯუმუ̄ თენეფი დო გვალაშა მიშეს ჭყიშეფინ, თენენს ქა̄კათჷ.</p>
+      <p>ათენენს ქა̄კათჷ დო გვალას რენი, ჭყიშენქ აკიშაყარეს, არძა რენა აქ კარეს. ათაქ მუჭო რენან, ბოშეფი ვეციგანჷნანო? - ჰა, საყვარელია! ართი დიდი ქონებიერ კოს ძღაბი ჸუნს ძალამი, მარა მითინს ვა̄ძირანა, თხილანა ვე შილებენო მითინქ მემიჩილითუას ძღაბიე? მუმა ირო ვა რე, მარა დიდა თხილანს ირო ზედმეტის თეს.</p>
+      <p>ათაქნეშე ათე ბოშენქ ინარტეს - ჰაი, საყვარელია, მუთუნი ვა მუჩას ქონება დო ეთი კოჩიშ სქუა-ცირა ქომუჩას, აკა ამუსერია!</p>
+      <p>ნარტებულენა თაქ ბოშეფი. ათეს მუჭო ნარტულენან, თე ლენჩიქ უწუ̄ თენენს, ამშვი მაკათურს - ვითი შური საქონელი ქომუჩით თქვავა დო თი ზისნახეს თაქ ქჷმიპონა მავა, უწუ̄. - ბოში, მუთ მოგაჸონე სი ინავა?</p>
+      <p>დიფუჩეს ორინჯიშ ორთათ - მუჭო ცირას ქიმიჸონანქ დო, ვითით შური საქონელი გიშქაგორენ და ჩქჷ ქიმერჩანთია, უწი̄ს. - ქომუჩით ართი შხურია.</p>
+      <p>დო შხური ქიმეჩეს ართი.</p>
+      <p>მიდეჸონჷ თე შხური დო გვალაშე მუჭო გიმელჷნ, ქვათილა ვა უღუნო შხურს? ქიმიოჭკირჷ ქვათილა დო მეურს. სოფელეფიშა მიშე̄ლჷ დო დი̄ჭყჷ ბირა ჩქიმი შხური უკუდელე, იში მინჯე უ... ლიე დო მეურს.</p>
+      <p>
+        <pb n="175"/>
+        თე ცირაში ჸუდე წურაფილიე ეშა. ათეთ მუჭო მეურს დო ირ კოჩი ქუძიცანსჷნ თეშ, ათე ჯგირი სქუა ვა რენო ჸუნსჷნ, თიშ მეძობელიშა ქიმერთჷ თექ. გემნიბირჷ თე ოჯახიშა თაქინე დო ქიმერთჷ ოინჯუას, ოკოსერილს ჩილი დო სქუათ ეფშა რე ე ოჯახი. ათაქ ქიმერთჷნი, თე ოსურეფი დო ძღაბეფიშ ხოლოს დოთვადოხოდჷ, ითამ დო, ვა̄კო! ხოლოშა ვემკინჭანს ენენს. ათენენს ხოლოშა ვემკანჭჷნ თეშ ქორე. საქვარიშა ქა̄წურეს. ირფელს ქაართჷ დო ართ მარუა გა̄ტარჷ თაშ. ათაქ მუჭო ქორენ, თენენქ ვა გეეგუო, ათე ჯგირი სქუა ჸუნსჷნ თექ! ათექ ქიგეგონჷნ, ქემერთჷ თექ, თე ჯგირი ცირა- სქუა ჸუნსჷნ თი ოსურქ - ათე ჯგუას რაგადანა, ჯგირი მოსაქვარე რე, თაშია დო ქიმერთჷ თაქ დო გა̄ჯინჷნ, იფიქრჷ თე ჯგირი ძღაბიშ დიდაქ - ათენა მა ქიმერგებჷ, მიდეპონა თეს ყუდეშავა, - მიდმაჸუნი მა ჸუდშავა! ბარგის მერჩა, ირფელს მერჩანქ დო ქიგიაჯინჷ ართ-ჟირ ღღას, მუჭო დარკინანიე?
+      </p>
+      <p>უწუ̄ ათეს. - ქომოლ-კოჩი ქორენდა ვარა, მა ოსურწკჷმა ვე გიფცადუქია, უწუ̄. - ქოვა, ქომოლ-კოჩი ქორენია, უწუ̄. - ჯგირია უწუ̄ დო მიდაჸუნჷ. გემნიჸონჷ მუშ ჸუდშა იშო, მუშ დოხორეშა ქიმიჸონჷ. ქიმიჸონჷ თაქჷნ, თიჯგუა საქვარუა დი̄ჭყჷ, ხუშუნს, ირფელს ორთჷ დო მაგალითიშ მაქიმინალო ქა̄ძირჷ დუდი, თეშ გინი̄რთჷ ექ.</p>
+      <p>ათაქ მუჭო ქორენ, პინტი ქიმკი̄კირჷ ქვარაშა, მაჟია პინტი მუშ ასოშა ქიმისქუ̄ დო უკახალე ქჷმკი̄კირჷ შქაშა. ასე თეს ვა რენო დეკვირეს თენენქჷნ, ძღაბიშორო აშაჸუცინელო ფსჷნს თეურე, ვარა აურე სოლე აფსე, კჷრჷლი აფჷ უკახალე. - მუს ორთჷქია სია, უწი̄ს?</p>
+      <p>აკი̄რაგადეს თენენქ - ათენა ოსურ-ცალო აშაჸუცინელო ფსჷნსჷნ, მუ ორენია? მორთი, თეს ქჷგვოჯინათია, თქვი̄ს. ათეს შიკითხეს - ნამდა - მუ ორენია, ბოშია, სი, ონჯღორე ვა რენიავო, ათეს თაშ ორთუქიე? - ვარია, პატჷნია̄, მა ინა ვა მიღუნია უწუ̄. - სია მუნერო ვა იღუნია, უწუ̄. - ა, პატჷნია! ოსურქ იშო კჷნი̄კინასია დო სი ქჷგოძირანქია.</p>
+      <p>უწუ̄ თე ძღაბიშ მუმას.</p>
+      <p>ოსური გუტუ̄ დო - ქჷმოძირია უწუ̄. ქა̄ძირჷნ, მუთუნ ვო უღჷ ე კოს.</p>
+      <p>
+        <pb n="176"/>
+        ეიაკჷნუ დო ქეჩუ̄ თენა ჩილ დო სქუას - ათაში ენია დო იჯგუა კოჩი ჩქი მი მაშინანია? ვა აწყინებაფუათ მითინქია!
+      </p>
+      <p>ათაქ მუჭო ქორენ, ვითოხუთიშ უკული თეში ქიმიათამ (!) თენენს ნამდა, მუთუნ მორიდება ვო უღუნ თი ზომაშა გინი̄რთჷ. მეძბელს კამპანია უღუნ დო თექ ქჷდაპაიჯეს არძა, თე ძღაბი ხოლო. მარა ძღაბის მუ სქუა რე ენეფი კამპანიაშა იჸონანან? ვეჸონანა; ენენქ მიდართეს კამპანიაშა დო, ე ძღაბი დო ბოში ათაქ ქჷდი̄ტეს. მუს ორიდუნა ეშა? მუთუნ ვა რე ეჯგუა დო ენენქ თაურე მიდართეს კამპანიაშან, ე ძღაბი თაქ ქაწიტუ̄ დო მიდართჷ ბოშიქ, ჭე მოფერდია ადგილიე თაქ დო თეურე-თაურე მიდართჷნი, ვალიშ მამალას დირთჷ დო უწუ̄ თე ძღაბის - ნანა, პატჷნია, მუ საარიკო ბძირი ამუდღავე, უწუ̄. - მუ ძირი სი კოჩია? უწუ̄. - თი-ჯგუა წყურგილი ბძირია, იში მაჰამა დღას მუთა იჸინია! თქვა ნამუ წყარსიე ნოშუმუეთიე დო გოძირა საარკოსია. უწუ̄ ძღაბის თექ. - ხოლოს ქორენო? - ამარი ენია, უწუ̄.</p>
+      <p>მიდათხოზჷ ძღაბიქ. ქიმერთესჷნ, - ასევა სი უკახშე ქჷმმანჯირია, ათაქ ხე ქომოფთხია, ვარა მეტო ვეშვენია დო ქიგი̄ნჯირჷ დო გეშუ. გეშუნ, - უუუჰ, საყვარელია დო ქიფუჩონუანს კიდირიშა. - ანწ სი გეშვია უწუ̄. ანწი ე ძღაბიქ ფშუნქია წყარსიე, ექ უკახშე ხეს მოგოფორანქია დო დეახლჷ ე ძღაბის.</p>
+      <p>მეუკუნჷ ე ძღაბიქ დო ქეკა̄ფიტილჷ ე ბოშის! დოქოსჷ დო გოლაშა ქიმიჸუნჷ.</p>
+      <p>გოსქიდჷ ე კათაქ. - ჯიმა-ღურელი, მუ ჸოფე ე კოჩია?</p>
+      <p>ე ძღაბი თეს ვა̄თხუ̄.</p>
+      <p>ბოლო დროს ენა თაქ ქიმიჸონესჷნი, ამშვი მაკათურ კოჩქ გიორინეს დო ვით-ით შური საქონელი გაიშაგორეს. ვე მეჩესკონ, ორთაშა ოშქურუდეს დიფუჩუნდჷ ორთას მეორინჯე კოჩინ, უკული ვარია ვეჸი̄დჷ, ოშქურუდეს. სუმონეჩი შური საქონელი ქიმეჩეს. ბოლო დროს დი̄გორჷ, გაგმორჩქინდჷ, მარა ძღაბიქ ვა დეთხუ̄. მოლეჸონეს დო სქუალენქ გეურჩქინდეს დო ორდეს.</p>
+      <p>ჯვეში კათაშ მოულაშა დუს ვემკორწყუნაფუდას.</p>
+    </body>
+  </text>
+</TEI>

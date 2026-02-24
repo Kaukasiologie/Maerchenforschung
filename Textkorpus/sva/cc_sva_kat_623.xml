@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">169. ზანულ ადილგერი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.ea155f04-df61-4616-bedc-52bd449b4811">TITUS</ref>
+          <title xml:lang="deu">Swanische Prosatexte: Übersetzungen ins Georgische. Oberbalischer Dialekt</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+          <settlement ref="https://www.geonames.org/612987/mestia.html">Mestia</settlement>
+        </placeName>
+        <date when="1926-09-12">1926-09-12</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Makhunjak</forename>
+            <surname>Japaridze</surname>
+          </persName>
+          <age>60</age>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Varlam</forename>
+            <surname>Topuria</surname>
+          </persName>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/103711473">103711473</idno>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Tsiuri</forename>
+            <surname>Gabliani</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_sva_kat_623">
+    <body>
+      <head>
+        <pb n="166"/>
+        169. ზანულ ადილგერი
+      </head>
+      <p>(ციური გაბლიანი, სექტ. 1990, მესტია, რვ. VIII)</p>
+      <p>ზანულ ადილგერი თავადი ყოფილა კარგი. გაუგია თაფუს, რომ მხიარული კაცი ყოფილა: "იქ წავალო ჭიანურის დასაკვრელად, სამხიარულოდ."</p>
+      <p>წასულა იმის სოფელში. შესულა. მაშინ სოფლელები შეკრებილი ყოფილან. (5) ზანულ ადილგერი შუაში მდგარა. დადიოდა იქით-აქით, ბოლთას სცემდა. თვითონ თაფუ მეჭიანურე დამდგარა, კარგი დღე უთქვამს, მშვიდობით მოსვლოდეს თავისი თავი. - თაფუ ხარო შენ, ჭიანურზე დაკვრა ხომ იცი? - კიო, შენი ჭირი მომივიდეს! შეუყვანია ოთახში, ჭიანური მიუცია. თაფუს დაუწყია დაკვრა. მთელი ["მთლიანად"] (10) სოფელი შესევია მოსასმენად. ზანულ ადილგერიც შესულა, მისჯდომია. ამაღამ თაფუ აქ დარჩენილა, ადილგერისთვის უთქვამს, რომ</p>
+      <p>- ის კარგი თავადიაო, მაგრამ ერთ საქმეს უწუნებო.</p>
+      <p>- რასო? - თოფუსთვის უთქვამს.</p>
+      <p>(15) - რასო და არც ცოლი ჰყავსო და არც მომვლელი. მისნაირ თავადს ეს არ უხდებაო. უნდა გასიძდეს.</p>
+      <p>- ჩემნაირი ცოლი არსად არ ვიციო. - თაფუს უთქვამს რომ</p>
+      <p>- მან იცისო საიმისო ცოლი. - სად იციო? - ყოშყაში. მათ ჰყავთო კარგი გოგო, მის საცოლედ ის ივარგებსო. - აბა, (20) მისი ჭირი მოსვლოდესო, ნიშნისთვის ფულს მოგცემო ბლომად, წაუღე გოგოს.</p>
+      <p>დიდი კოლოფი მიუცია, გოგოსთვის გაუგზავნია. წაუღია თაფუს მისთვის.</p>
+      <p>- ეს ვის გამოუგზავნიაო? - გოგოს უთქვამს. (25) - ზანულ ადილგერს გამოუგზავნია ნიშნად, თხოულობსო ის მას.</p>
+      <p>- აბა, ხვალ ტანსაცმელს შევკერავ, წაუღეო თავადს.</p>
+      <p>შეუდგა ეს გოგო და ტანსაცმელი ყველაფერი შეკერა, ერთი მათრახი გააკეთა: (30) - ესენი ყველაფერი თაფუს მისცა. - ახლა (ესენი ) მისი სარგო არ იქნებიანო, მაგრამ მომვლელი ეყოლება და იმის ჩასაცმელი იქნება. ეს მათრახი მიეციო. თუ სადმე გაემგზავროს, თუ ცხენს დაარტყას, თუ გაწყდეს, მაშინ სხვა კაცი მოვაო მის სათხოვნელად.</p>
+      <p>(35) ტანსაცმელი ჩაიცვა: ყველაფერი მის ტანზე გამოჭრილი გამოუვიდა. - შენი ჭირი მომივიდეს, - თაფუს უთხრა, - ეს კი კარგია ჩემს საცოლედ.</p>
+      <p>
+        <pb n="167"/>
+        ახლა ადგა და თაფუ გაბრუნდა უკან. და ისიც ["მეტი"] ზანულ ადილგერი წავიდა. ამხანაგი წაიყვანა, სამგზავროდ წავიდა. მათრახი ხელში აქვს. ცხენს მოარტყა და მათრახი გაწყდა. მის ცოლს დაუბარებია, რომ თუ მათრახი გაგიწყდეს, მაშინ მისი მთხოვნელი მოვაო. მაშინ შეეშინდა (ზანულს). მოსულა (5) ერთი კაცი, შეუამხანაგდა და გოგოსთან სიარული ["სვლა"] დაუწყია.
+      </p>
+      <p>მიდიან. მაშინ ერთი კაცი ყოფილა მკვდარი გზაში, ერთი ტახი, ერთი ცხენი. ახლა ამდგარან ესენი და ტახი გადაუგდიათ. კაცი და ცხენი დაუმარხავთ. ახლა ესენი უკან დაბრუნებულა(ნ): "მათი მგზავრობა მგზავრობა არ არისო" და უკან დაბრუნებულან სახლში.</p>
+      <p>(10) მეორე დღეს კიდევ მიბრუნებიან, გოგოსთან მინავალან. იქ, სადაც ცხენი და კაცი დამარხეს, შემოუერთდათ ჩრდილივით. შესულან იქ სოფელში თავის ცოლეურებთან. აქ ახალგაზრდა კაცი დახვედრიათ და მისალმებიან:</p>
+      <p>- რამ ამბავიაო მის სოფელში?</p>
+      <p>(15) - კეისრები მოსულანო მისი გოგოს სათხოვნელად, ყოშყაშერების გოგოს სათხოვნელად. ქორწილი არის და კარგი ყოფნა არისო მათ სოფელშიო.</p>
+      <p>- ამაღამ ისინიო ორ კაცს სტუმრად მიიღებენო. - ამაღამ მათთან იქნებიანო, რა მიზეზი იქნებაო (ე.ი. უარის თქმის საფუძველი არა მაქვსო). - შეუყვანიათ იმ საღამოს (სახლში) (20) და ცხენებიდან ჩამოსულან - აბა, ეხლა გოგოსთან თუ შეხვალო, ბიჭს უთქვამს. ნაჭერი მათრახისა ჰქონია. "ჯერ იცეკვებენ, მერე გოგოს მიეცი მათრახის ნაჭერი!" შევიდა ეს ამაში. ცეცხლი გაღვივებული აქვს (გოგოს). "გაანათეო, ის იცეკვებსო ახლა." უცეკვია ყოშყაშერების გოგოს წინ. ახლა გოგომ უთხრა ბიჭს: "უკნიდან (25) მოდი, ფანჯრიდან სალაპარაკოდ. ბიჭი უკნიდან მოსულა. გოგოს უთქვამს, რომ "ვინა გყავს ამაღამ შენ სტუმრად?" - "ვინ და მისი ტკივილი მოუვიდეს მას (შენი ჭირიმე), იმით ვერ ხვდები, მისი გაკეთებული მათრახი შენთვის(?) მისცაო?" დაბრუნებულა ბიჭი უკან: "ხვალ მიჰყავთო. მას ადილგერთან ცოლად წასვლა ურჩევნია".</p>
+      <p>(30) ხვალ გათენდა. მოჰყავთ ეს გოგო კესარშერებს(?). ადგნენ ზანულ ადილგერი და მისი ამხანაგი. ცხენებს უნაგირი დაადგეს. ახლა დაუწყეს ჩხუბი (ენით) მაგათ. გოგო მიჰყავთ იმათ. მაშინ ცოლს (?) უთხრა (ზანულმა), რომ კანონითა და სამართლით ჰქონდეთ (ე. ი. სიმართლითა და კანონით მოიქცნენ). ახლა ამათ გოგო ჰყავთ გაჩერებული. კაცი გაუშვეს. თორმეტი კაცი. ახლა როგორ(?) (გოგოს?) შეეკითხეთ:</p>
+      <p>(35) - სად ურჩევნიაო წასვლა?</p>
+      <p>- მას ურჩევნია იქ წასვლა, ვინც პირველად ითხოვა.</p>
+      <p>- აბა, გასამართლდიო. კარგი ნაჭვლაში (საჩუქარი) მიუტანოს, იმასთან წავიდეს.</p>
+      <p>
+        <pb n="168"/>
+        შეეკითხნენ ადილგერს: ერთი ოქროს კოლოფი გამოეგზავნა, მეტი არაფერი. კესაშერებს ასი კაცი გამოუგზავნიათ ნაჭვლად. ეს შეფასდესო, რომელიც უფრო დიდი იქნება, იმას ჰყავდეს ცოლად. შეუფასებიათ და იმას უჯობნია - ოქროს. მაშინ გოგო ზანულ ადილგერს დარჩენია (5) ცოლად. ახლა დაცილებულა, ცოლი ადილგერს წაუყვანია სახლში. დღეგრძელი იყავი.
+      </p>
+    </body>
+  </text>
+</TEI>

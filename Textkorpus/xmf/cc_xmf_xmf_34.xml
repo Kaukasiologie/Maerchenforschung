@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf">V. ბედიშ მაგორუ</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Jost</forename>
+              <surname>Gippert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/109337409">109337409</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Tariel</forename>
+              <surname>Putkaradze</surname>
+            </persName>
+          </name>
+          <idno type="orcid" corresp="https://orcid.org/0000-0002-3946-000X">0000-0002-3946-000X</idno>
+        </editor>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://titus.uni-frankfurt.de/texte/etca/cauc/megr/xubua/xubuat.htm">TITUS</ref>
+          <title xml:lang="kat">მეგრული ტექსტები</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Makar</forename>
+                <surname>Khubua</surname>
+              </persName>
+            </name>
+          </author>
+          <pubPlace>ტფილისი</pubPlace>
+          <publisher/>
+          <date when="1937">1937</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612051/senaki-municipality.html">Senaki</district>
+          <settlement ref="https://www.geonames.org/614692/ek-i.html">Eki</settlement>
+        </placeName>
+        <date when="1921">1921</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Nestor</forename>
+            <surname>Gabunia</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612051/senaki-municipality.html">Senaki</district>
+              <settlement ref="https://www.geonames.org/614692/ek-i.html">Eki</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_34">
+    <body>
+      <head>V. ბედიშ მაგორუ</head>
+      <p>ორდჷ ართი გაჭირებული კოჩი. დუს თით იიმენდენდუ, ნამუდა ირფელი, მუთ კოჩიში დუდიშა ქორე გინულირი დო გინმალუნი, არძა მუში ბედიშე რენია. უღუდჷ თე იმენდი თე კოს დო ორდჷ. მუჭო მუკორთჷ დრო დო ხანქჷნ თეში, უარესო მეურს თე კოჩიში საქმე. გინოჭყვიდ, ნამუდა ოკო მიდაფრთევე ჩქიმი ბედიშ ოგორუშა დო ქოპკითხევე - მუჟამიშა მაწვალენს თაშია?</p>
+      <p>გინილ დო მიდართ. მეურს შარას თე კოჩი. ქეშეხვად ართ გერქ. თე გერი ქიგეჸუცუ ართ დიხას დო ირიათო ქოჸურანს. მიკულუ ათე მაზურზულარს კოჩქ დო ოკო ვიშო ულა, ეფერი ბორჯის გერქ უწუ̄ - სო მეურქ სია! - მა სო მეურქჷ-და, ჩქიმი ბედიშ ოგორუშა ურქია.</p>
+      <p>მეჩ პასუხი ბედიშ მაგორალი კოჩქ. - ღორონდგიე სქანი ამბე ქოკითხენი უკული ქომიკითხი, მუ მოსქილიდუანს ჩქიმი კიბირიში ჭუაშევე? - ძალამი ჯგირია - უწუ̄ კოჩქ. მიკულუ დო მეურს მუში შარაშა.</p>
+      <p>ართი დიხას ქიგერე ართი კოჩი დო ირიათო ქოწუხენს. ქიმერთ თე მოშარე კოჩქ. გამარჯობა, გუმორძგუა - უწის ართიანს. - მოროვა, მუშენი რე სი თე ზომაშა წუხენქიე? კითხუ მეშარექ. - მუორენია და ვარწყექო ათე გინოჭვილი დიხასია? ირ წანას ფხაჩქუნქ თაქ სიმინს დო ვარა შხვა მუთუნს. გეურს ჯგირო, მირდუ ძალამს, მარა მუჭო გინირთუ ჸვანა ოტახალო დო ოჭკირალოვე, დაჩხირი გურჩქინდუ ვალიში მამალას დო ართო გეგნილურჯუნია.</p>
+      <p>ინარღჷ თე მეშარე კოჩქით, მარა მუ მახვარინე! - სი სო მეურქია - კითხუ მეშარეს ჸვანაშ მინჯექ. - მა მეურქ ჩქიმ ბედიშ ოგორუშავა - უწუ̄ მეშარექ. - სქანი ბედიშა ქომიკითხი, მუჭო უჯგუ ჩქიმი ჸვანაში საქმესიე? თხუ ათე კოჩქ. - ძალამი ჯგირია - უწუ̄ მეშარექ. - ირფელს ქოპკითხენქია დო აშონას ქოიწინქია.</p>
+      <p>მიდართ მეშარექ მუში შარაშა. მეურს, მეურსჷნი, ქჷმაშქირენ ძალამქ. ართი ჯგირი ოჯახიშა ქიმერთ. მინილ დინახალე. - აკა ოჭკომალი ქოფჩითია - თქუ - ქუმუღეს ოჭკომალი დო ქოჩეს. - მუშენი რე თეჯგურა ჯგირი ოჯახის კათა ჭიჭე დინორენიე? იკითხ მეშარექ. - კათა აქ ბრელი ორენა, მარა ოსურსქუა ჸუნს თე ოჯახიში უჩაშის ლეხი, მუ ღოლეს, სო ვედეს, სონი წამალი მუღეს, მარა მუთუნი ვარე იში მოხვარევა.</p>
+      <p>
+        <pb n="24"/>
+         - ქუმოძირით მა თი თქვანი ლეხი ძღაბია - თქუ მეშარექ. მიდეჸონეს დო ქაძირეს ლეხი ძღაბი.
+      </p>
+      <p>კითხეს მეშარეს - სონი კოჩი რექ სი? სო მეურქ, მუ საქმეშავა?</p>
+      <p>მაჸუნ მეშარექ დო ირფელი ართო ქიჩუ̄ დუდიშე ბოლოშა. - ათაში რდუ ჩქიმი საქმე, ათაშია დო ასე მეურქ ჩქიმი ბედიშ ოგორუშანი თენარენია.</p>
+      <p>და̄ბოლუ̄ მეშარექ. - ძღაბიში მუმაქ ქეშეხვეწ მეშარეს, ნამუდა, - მუჟანსჷთი სქანი ბედი ქოძირე, თე ლეხის მუთ ოსქილიდუანსჷნი თინა ქომიკითხი დო აშონას მუკომლევა. - ქო პატონია - უწუ̄, ბედიში მაგორალქ. გინილჷ დო მიდართჷ მუში შარაშა.</p>
+      <p>იდჷ ბრელი ამუდღა იდჷ, ჭუმე იდჷ ბოლოს ქიმიოდირთჷ ზღვას. ზღვა დღას ვოუძირუ თე კოს. გიჯინჷ მარა, მუთუნი ვაძირჷ მიკ-მიკი. ქიმერთ. წყარიში პიჯიშანი, ართი კოჩი ქიგლურს ვიშო-აშო დო მოღულა კეტის ქალაჸაფუანს ხეს. ქიმერთუ ბედიშ მაგორუ კოჩქ დო გამარჯობავა უწუ̄.</p>
+      <p>ღორონთქ გოგიმორძგვასია - უწუ̄ ე კოჩქ. - სოლე მორთია - კითხ დოხვადუნი თე კოჩქ. - ათაშიე ჩქიმი საქმე დო ათაშია - ქეჩუ̄ ბედიში მაგორალი კოჩქ ირფელი დუდიშე ბოლოშა. - მეტი მუ გიღუ ორაგადევა - კითხუ ზღვას ეკორდუნი თი კოჩქ.</p>
+      <p>მაჸუნ ბედიშ მაგორალ კოჩქ დო ქუწუ̄ გერიში ნაჩინა, ჸვანაში მინჯეში ნარაგადუ დო ლეხი ძღაბიში გურიშენი ხოლო. - მოროვა, უწუ̄ თე კოჩქ - თე კეტი მიდეღი დო ლეხი ძღაბიში შქართუნს ჟირიშა ქიგიაშქვია. მუჭო ართიშა ქიგიაშქვე - გედი ცირა აწი ეშევე უწია, მაჟირაშა ქიგიაშქვე, ხოლო თეში უწია დო ძღაბი ეშე გემწოდირთუნია.</p>
+      <p>ჸვანაშ მინჯეს უწია - სქანი ჸვანას ართ არშინიში თუდო ორქო მითოზეპუ. ორქოში მადენი დიხას ოფურუანს დო თიშენი რე ჸვანას დაჩხირი გუთმურჩქინდუნიე, გეიორღვი ორქო დო იცხოვრია. გერს უწია - უჭკუო კოჩიში ტვინი ოჭკომი დო თინა დუგოსქილიდუანსია. სია, უწუ̄, - მეუა დო სქანი ბედი სქანდა ქემურსია.</p>
+      <p>მოლართ ე კოჩქ ჸუდეშა. ქიმერთ ლეხი ძღაბიშა. ქიდეკინ მოღულა კეტი მეჩ თი კოჩქინი თინა დო ჟირიშახ ქიმიოგუ̄ ძღაბიში შქართუნს დო გიორაგადუ - გედი ცირა აწი ეშევა.</p>
+      <p>
+        <pb n="25"/>
+         მიოჯინესო, დასურო ვა გემწოდირთუო ძღაბიქ ეშე. ვართ აჭუ მუთუნს, ვართ მუთუნი.
+      </p>
+      <p>გეხარეს ირკოჩქ. ძღაბიში მუმაქ უწუ̄ - ეჩდოვით არქემიში დო ეჩდოვით ჯორიში ხარგა ორქო დო ვარჩხილს ქიმერჩანქ დო მიდგოჸუნუა სამანგიეროთია. - მუშო მოკო მა სქანი ორქო დო ვარჩხილია - თქუ, - მა ჸუდეშა მომიღანს ჩქიმი ბედი ირფელსია.</p>
+      <p>ვეღუ მუთუნი ე კოჩქჷნი თეში მოლართუ ჸუდშა.</p>
+      <p>ქუმორთუ ასე ჸვანაში მინჯეშა. ის ქუწუ̄, მუჭოთ ოჩინ თი კოჩქინი თეში.</p>
+      <p>ქიმერთეს დასურო დო გეუთხორეს. ორქოქ გეცუ ართო. გეხარ დიხაში მინჯე კოჩქ. - სი ჸოფექ, ჯიმა, ჩქიმი მაკეთებელია.</p>
+      <p>გეურგინუ ართი დიდი ორქო დო ქიმეჩუ თე კოს, - ათენა - სი მიდეღი დო დაგიბაღუნია. - მა სქანი ორქო მუშოთ მოკონია, უწუ̄ ბედიში მაგორალი კოჩქ. ჩქიმი ბედი ჸუდეშა მომიღანს ირფელი ჯგირი დო სქვამსია. ვეშიწუხა სი იშგურიშენია,</p>
+      <p>უსოფუ ე კოჩქ ბრელი, მარა მუთუნ ქერსათ ვეჸუ ორქო თე კოჩქ.</p>
+      <p>მარდი გინაგუ ძალამი ჸვანაში მინჯე კოჩქ დიხას ქუდატახუ დუდი.</p>
+      <p>გაგმეთხუ ბედიში მაგორალი კოჩქ დო მოლართ ჸუდშა.</p>
+      <p>ქუმორთ ასე გერიშა. გერი სიდე გილაჸუცუდუნი თექ გილახე. - მუ ქიმინია - უწუ̄ გერქ.</p>
+      <p>მაჸუნ ე კოჩქ დო ირფელი ქეჩუ̄ გერს. მუჭო ძღაბი ოსქილიდუნი დო მუმაქ ორქო არზუ - ვეღუნი, თენა ქუწუ̄ გერს.</p>
+      <p>ჸვანაში მინჯექ მუთ უწუნი, თინა ხოლო ქეჩუ̄ დუდიშე დოჭყაფილო ბოლოშა.</p>
+      <p>გერქ კითხ ბოლოს - ჩქიმ გურიშენ მუ გიწუა? - უჭკუო კოჩიში ტვინი ოჭკომი დო დუგოსქილიდუანსია. - აბა, მუმაკინი, ღორონდგიე აშო დო ათე კიბირს ქუგმოჯინია, უწუ̄ გერქ.</p>
+      <p>მიაკინ ე კოჩქ ხოლოშან, ქანჩუ გერქ პიჯი დო ქუდარაგუ̄ დიხას. - სქანი უმოსი უჭკუო კოჩი მა მითინი ვამაშინია - თქუ დო დუდი მექინძუ ბედიში მაგორალი უჭკუე კოს.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf">XVI. აჯამ ჯიუშთი დო ნჯილაგარიში არიკი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Jost</forename>
+              <surname>Gippert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/109337409">109337409</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Tariel</forename>
+              <surname>Putkaradze</surname>
+            </persName>
+          </name>
+          <idno type="orcid" corresp="https://orcid.org/0000-0002-3946-000X">0000-0002-3946-000X</idno>
+        </editor>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://titus.uni-frankfurt.de/texte/etca/cauc/megr/xubua/xubuat.htm">TITUS</ref>
+          <title xml:lang="kat">მეგრული ტექსტები</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Makar</forename>
+                <surname>Khubua</surname>
+              </persName>
+            </name>
+          </author>
+          <pubPlace>ტფილისი</pubPlace>
+          <publisher/>
+          <date when="1937">1937</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district/>
+          <settlement/>
+        </placeName>
+        <date when="1923">1923</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Bagrat</forename>
+            <surname>Ubilava</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district/>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_40">
+    <body>
+      <head>XVI. აჯამ ჯიუშთი დო ნჯილაგარიში არიკი</head>
+      <p>ართი ქევანას ცხოვრენც აჯამ ჯიუშთი დო მაჟირას ჯინუა ნჯილაგარი. ათე ჯინუა ნჯილაგარი ორე თინერი კოჩი, მუდგას მეჩანს კოცნი, მუში სიცოხლეს ვეჸუაფჷ თინა ქა̄ტუას, ოკო გინაგაფუას. აჯამ ჯიუშთი ორე თინერი, მუთუნს ვემეჩანს კოცს. ქეშეხვადეს თენენქ ართიანს. უწუ̄ - აჯამ ჯიუშთიქ ჯინუა ნჯილაგარც - ჟირი მანათი დო გვერდ ქემერსხია. - ჯგირია უწუ̄. ქიმეჩჷ ჟირი მანათი დო გვერდი. დაუნიშნჷ დრო, დო დროშ დინოხოლე ოკო ქიმეჩას თე ჟირი მანათი დო გვერდი აჯამ ჯიუშთიქ ჯინუა ნჯილაგარს. დრო დანიშნულც ქჷმორთჷ ჯინუა ნჯილაგარქ. ექ დოჸვილჷ ხოჯი დო ქოცჷ პატი თი რიგი, ათაში, ოში მანათიშა ღირჷდჷ ჯვეში ყურსითჷნ ფერი. ბოლოს პატიშცემაში უკული - ქომუჩია ჩქიმი ჟირი მანათი დო გვერდია უწუ̄. - ასე ვამიღუნ დო უკული ქიმერჩანქია უწუ̄ ექ.</p>
+      <p>მაჟირაშა ხოლო ქჷმორთჷ თექ. თირიგი პატიცემა ქოღოლუ, წჷმახიანიშ ხოლო უმოსი. ბოლოს უწუ̄ - ქომუჩია ჩქიმი ჟირი მანათი დო გვერდია. ვემეჩჷ აჯამქ. - ექ იშო მიდართჷნ, ოსურს უწუ̄ - მა ვითანც დობღურუქია დო სი რკიევა. მუჟანს გარა იჸუაფუნიე, ქიგნმოფორანს ჟირი მანათი დო გვერდისია ჯინუა ნჯილაგარი, აბა მუს იქუნსია.</p>
+      <p>ცნობა ქიმეჩეს ჯინუა ნჯილაგარს, მუჭო აჯამ ჯიუშთიქ დო. ღურუნ.</p>
+      <p>და̄ჭყჷ ულა დო გოურქიუ დო მოლართჷ. ჭუმან ინგარანი, ამჷდღა ქჷმორთჷ, ენა დინგარჷ, მუ რაგადი ოკო. ბოლოს ათეს დჷნაჩინა აფუნია ჩქინდა მავა დობღურუქიე, სია გობობნია დო მა ოკო გობობნევე.</p>
+      <p>
+        ქაფუნაფუ̄ წყარი. ქიგირინუ̄ კოჩი ქვათათანამო დო მეუსჷ დო გობონჷ აჯამი, თეში ნამჷდა კანქ გატყაბარჷ დო ზისხირი ქიშმურს აშო, მარა შური ველუბუმჷ აჯამს. მაჟირა დღას ჯინუაქ ხუთოში მანათი ფარა ქიგნა̄ფორჷ. გარაქ გეთუნი, მეუკინეს ღურელს ოხვამეშა. მუჟანს ქიმიოსვანჯესჷნ, აჯამიშ ოსურქ თქუ̄ - დოჩინელი აფუდუა, ართი სერს ოხვამეს ქჷდვოსვანჯეთკოვე. - დასურო, მართალო. ჩქიმდა ხოლო აფუდუა რაგადებული, თე სერს თაქ ქოფთხილეკოვე დო თქვა მეურთ ირ კოჩქ დო მა თაქ ფთხილანქია, თქუ̄ ჯინუაქ. შხვაქ მიდართჷ დო ქჷდოსქიდჷ ჯინუა ნჯილაგარქ. მჷლარე დო ყარულენც - თეში, ტოხაფია დო გოტახეს
+        <pb n="73"/>
+         ოხვამეში კარი. მჷნი̄ლჷ შეიარაღებული კოჩქ სუმქ. ხაზნა ჸოფუნა აბრაგეფს გჷნატახა დო ქიმი̄ღეს ორქო დო ქჷდა̄რღვეს ოხვამეს, - დირთან ოკო ფარა. ბუხარიშ ქუდი გიორთჷ ართის, ინა̄რღჷ დო რთჷ ფარა თე ქუდით. გინა̄სქიდჷ ართი ქუდი ფარაქ ბოლოს. ეთიმწკჷმა ართი აბრაგიქ თქუ̄ - ენა ფრთათ, მუთუნ ვეჸინია, - გელემწყჷ ლეკურც დო ართი მორქიათ თე კუბოქ გჷმაკვათას ღურელამოვადა, მა ქომღუდას თე ქუდიშ ფარავა. - ჯჷირია უწი̄ს.
+      </p>
+      <p>გელენწჷ ლეკური დო სქინჩჷნს თე კუბოს კოჩამონ, თიმწკჷმა - ასე რე ღურელი დო თელიშ ედგინავა დო გამწოდირთჷ აჯამქ. - დასურო ასერენია - დინოხოლე მიორაგადუ̄ პაპაშ მილარენჯიშე კოჩქ, ჯინუაქ დო გოსხაპეს აბრაგენქ დო ინტეს. ბოლოს ენენქ შეუდირთეს თე ფარაში რთუალას. იფიქრეს აბრაგენქ - ხაზნა გოპტახით დო ვაფშქურინებუნა, ღურელიშ შურქ მუჭო დჷმოშქურინესია დო ართიქ მოლართჷ მაწონქ (ამბეშ მაღალარქ) დო ქჷმორთჷ თე ფარაშა. ისხი ხანს ენენქ ფარა გირთეს დო - ქომუჩია ჩქიმი ჟირი მანათი დო გვერდია - უწუ̄ ჯინუაქ აჯამს. თენა ქიგეგონუ აბრაგიქ. - ასე ვამიღუნ დო უკული ქიმერჩანქია უწუ̄ აჯამქ.</p>
+      <p>მაწონქ ქჷმორთჷ დო უწუ̄ მაჸალეფს - თისხი ღურელენს გეუდგინჷნია, ჟი-ჟირი მანათი დო გვერდიშ მეტი ვახვალამუ თითოსია დო არიქა მჷვეხვარათ დუსია.</p>
+      <p>ინტეს აბრაგეფქ.</p>
+      <p>მუჟანს ხოლო მოთხუ̄ ჯინუა ნჯილაგარქ აჯამ ჯიუშტის ჟირი მანათი დო გვერდინ, - ათე ქუდი ქოიღუდასია ჟირი მანათი დო გვერდიშავა დო ქემეჩჷ აბრაგეფიში ქუდი. ათე ქუდით გეშეღჷ მუში ჟირი მანათი დო გვერდი ჯინუა ნჯილაგარქ დო ე ფარეფქ გიოსქიდეს</p>
+      <p>ბაგრატ უბილავა.</p>
+    </body>
+  </text>
+</TEI>

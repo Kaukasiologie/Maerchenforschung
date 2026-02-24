@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="kat">118. ყალაჩუყლანი</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Winfried</forename>
+              <surname>Boeder</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://doi.org/10.25362/lazar.ea155f04-df61-4616-bedc-52bd449b4811">TITUS</ref>
+          <title xml:lang="deu">Swanische Prosatexte: Übersetzungen ins Georgische. Oberbalischer Dialekt</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Winfried</forename>
+                <surname>Boeder</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
+          </author>
+          <editor>
+            <name>
+              <persName>
+                <forename>Elguja</forename>
+                <surname>Dadunashvili</surname>
+              </persName>
+            </name>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+          </editor>
+          <pubPlace>Oldenburg-Jena</pubPlace>
+          <publisher>LaZAR</publisher>
+          <date when="2025">2023/25</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="kat">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+          <settlement ref="https://www.geonames.org/613326/lakhiri.html">Lakhiri</settlement>
+        </placeName>
+        <date when="1921-08-17">1921-08-17</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/612985/mestia-municipality.html">Mestia</district>
+              <settlement/>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Akaki</forename>
+            <surname>Shanidze</surname>
+          </persName>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/119042800">119042800</idno>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename>Tsiuri</forename>
+            <surname>Gabliani</surname>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_sva_kat_571">
+    <body>
+      <head>118. ყალაჩუყლანი</head>
+      <p>(ციური გაბლიანი, მესტია 1999, რვ. XI)</p>
+      <p>დალოცვილი იყავი და სამი ძმაა. ყველაზე უმცროსს ჰქვია ყალაჩუყლანი. ერთ დღეს შუათანა ძმა და ყალაჩუყლანი სათიბად წავიდნენ და ყველაზე უფროსი ძმა სადილის მომტანად დატოვეს. პური დააცხო მათმა დედამ და ამ დროს მოვიდ</p>
+      <p>ა დევი და მთელი პური შეჭამა. ნაცარი შეისრუტა. ბოლოს მათი დედაც ცუდად გახადა [= სცემა] და ეს. მაშინ ყველაზე უფროსი ძმა დამალულიყო. მოვიდნენ ესენი, ყალაჩუყლანი და მისი ძმა საღამოს სახლში და მათი დედა მტირალი დახვდათ.</p>
+      <p>- რატომ ტირიო? - შეეკითხნენ ძმები. (30)</p>
+      <p>
+        - რატომ და დევი მოუვარდა დღეს და პური შეჭამაო. მეორე დღეს სათიბად ყალაჩუყლანი და ყველაზე უფროსი ძმა წავიდნენ და შუათანა ძმა სადილის მომტანად დატოვეს. მეორე დღეს კიდევ დააცხო პური მათმა დედამ. ამ დროს მოვიდა დევი, პური შეჭამა და მათი 
+        <pb n="82"/>
+        დედა ცუდად გახადა. საღამოს ყალაჩუყლანი და მისი უფროსი ძმა სახლში მოვიდნენ და მათი დედა მტირალი დახვდათ.
+      </p>
+      <p>- რატომ ტირიო? - შეეკითხა ყალაჩუყლანი და მისი ძმა.</p>
+      <p>- რატომ და დევი შემოუვარდათ დღეს, პური სულ (5) შეუჭამა და თვითონაც ცუდად გახდაო.</p>
+      <p>ახლა მესამე დღეს ის, ყალაჩუყლანი, დარჩა სახლში და მშვილდ-ისარი მოამზადა. გამოაცხო პურები მისმა დედამ. მოდის დევი. ყალაჩუყლანი დაიმალა კართან, მშვილდ-ისარი მოიმარჯვა. მოდიოდა დევი. ყალაჩუყლანმა მოზიდა ისარი და მოახვედრა ["მოარტყა"] დევს. დევი წაიქცა. (10) ყალაჩუყლანი თავს სჭრიდა. დევი შეეხვეწა, რომ – "ნუ, ნუ მოკლავო და მასო კოლოფში კოლოფი უდგას, იმაში ოქროს გორგალი არისო. იმას მისცემსო. ესო მიწის ქვეშ (ქვესკნელში) არისო."</p>
+      <p>ყალაჩუყლანმა მაინც მოკლა დევი, გაატყავა, ტყავი ცალკე დადო, და (15) ხორცი და ძვალი - ცალკე. საღამოს მოვიდნენ ყალაჩუყლანის ძმები და გაუკვირდათ ძალიან. ყალაჩუყლანი და მისი ძმები წავიდნენ გორგალის მოსატანად და წააწყდნენ მიწის ქვეშ ხვრელს. ახლა უნდა ჩავიდნენ მიწის ქვეშ. ყველაზე უფროს ძმას მოაბეს თოკი და ჩაუშვეს ხვრელში. [ჯერ] მარტო ცოტა იყო ჩასული ხვრელში და კივილი დაიწყო: " ცხელაო [=სიცხე აქვს] და (20) ამომიყვანეთო!" ძმებმა ამოიყვანეს. ახლა შუათანა ძმას მოაბეს თოკი. ესეც ამოსაყვანი შეექნათ. მესამედ ყალაჩუყლანს მოაბეს თოკი და ჩაუშვეს ხვრელში.</p>
+      <p>ყალაჩუყლანი ჩავიდა მიწის ქვეშ და ამოაწოდა გორგალი. ძმებს შეეხარბათ ყალაჩუყლანის, რომ "მათ ყოველთვის სჯობნისო [სჯობნიანო], და გაჭრეს (25) თოკი და ჩააგდეს ყალაჩუყლანი ქვესკნელში. ყალაჩუყლანი ჩავარდა და ბრახვანი ["ხმაური"] მოადინა დედაბრის სახურავზე. შევიდა ყალაჩუყლანი დედაბერთან და პური სთხოვა. დედაბერმა უთხრა: "გამომცხვარი არა აქვსო და გამოაცხობსო." შეიყვანა ყალაჩუყლანი დედაბერმა სახლში. მოამზადა საცხობი და ფქვილი გაცრა. დაიკუზა მოსაფსმელად. ყალაჩუყლანმა უთხრა:</p>
+      <p>(30) - ამით მოცომილი არ მინდა, მომიტანე ვოხა̈რ ["ხის კასრი"] და ვედრო და ჩავალ წყალზე.</p>
+      <p>ყალაჩუყლანმა ამოუტანა წყალი ერთი კასრი და ვედრო, მაგრამ დედაბერს სასმელად ვერ ეყო. მაშინ ისევ ჩავიდა წყალზე და ისევ ამოიტანა. ეს სარეცხად ძლივს ეყოთ. მესამედ მოიტანა, ის ... პურის საცხობად (35) კიდევ მოუნდათ.</p>
+      <p>
+        იმ ქვეყანაში, სადაც დედაბერი ცხოვრობდა, იქ წყალს დევი ფლობდა და წყალს არავის ანებებდა. ამას მოუყვნენ ყალაჩუყლანს. ყალაჩუყლანმა აიღო მშვილდ-ისარი და წავიდა წყალზე. წყალთან ერთი ქალი იყო. ახლოს 
+        <pb n="83"/>
+        სამ ადგილას ხალხი იყო შეგროვილი. ერთ ადგილას ტიროდნენ, მეორე ადგილას მღეროდნენ, მესამე ადგილას ფერხულს ცეკვავდნენ. ყალაჩუყლანი შეეკითხა ქალს:
+      </p>
+      <p>- რას აკეთებენო ესენი? ქალმა უთხრა:</p>
+      <p>- ვინც ტირიანო, ისინი დილის შესაჭმელი არიან დევისო; ვინც (5) მღერისო, ისინი შუადღისასო; ვინც ფერხულს ცეკვავს, ისინი საღამოსო.</p>
+      <p>ყალაჩუყლანმა თავი დაადო ქალს მუხლებზე. ყალაჩუყლანს ჩაეძინა. საღამოსკენ მოიღუშა (?) დასავლეთისკენ (?) ["დაეძინა საღამოსკენ ა̈ნში̄ნგა̄̈ნ-ის (ადგილის სახელი) ქვევით"] და ქალს ცრემლი ჩამოუვარდა და ყალაჩუყლანს ლოყაზე დაეცა. ყალაჩუყლანმა იგრძნო (10) და გაიღვიძა. შეეკითხა ქალს:</p>
+      <p>- რას შვრებიო, შე ქალო? ქალმა უთხრა:</p>
+      <p>- ახლა მოდისო დევი.</p>
+      <p>ყალაჩუყლანმა მოზიდა ისარი და მოახვედრა დევს. დევმა ბრაგანი მოადინა ღელეში. ეს შეიტყო სოფელმა. მაშინ ყალაჩუყლანს [უთხრეს (?)]. (15) რას მოგინდებაო, იმას გაგიკეთებთო!</p>
+      <p>იმ სოფელში ერთი ფა̈რშმა̈გ-ი იყო. [ჩათო გუჯეჯიანი: 1. ფარშავანგი? 2. ძალიან სწრაფი, მოქნილი, ძლიერი ფასკუნჯი (?)] იმას წიწილები ჰყავდა და, თვითონ რომ სანადიროდ მიდიოდა, [თუ] წიწილებს სახლში ტოვებდა. ერთ დღეს ფა̈რშმა̈გ-საც გაუწვიმდა , დააგვიანდა სახლში. წიწილებს მეტად მოშივდათ. ყარაჩუყლანმა ერთი ზურგჩანთა ღომი მიუტანა და დაუყარა წიწილებს. წიწილების დედა მოვიდა. მაშინ წიწილები მოუყვნენ (20) მათ დედას. ფა̈რშმა̈გ-ს მეტად მოეწონა მის წიწილებისთვის ღომის მოტანა და უთხრა ყალაჩუყლანს, რომ:</p>
+      <p>- რაც მოგინდება, იმას გაგიკეთებო.</p>
+      <p>- ყალაჩუყლანმა უთხრა ფა̈რშმა̈გ-ს, რომ: (25) - ზესკნელში ამიყვანეო.</p>
+      <p>- ფა̈რშმა̈გ-ს ეძნელა, მაგრამ უარი ვერ უთხრა ყალაჩუყლანს და უთხრა:</p>
+      <p>- მანო დიდი ქუფუ ["გოდორი"] დაწანიო და იმაში ბევრი ხარი და ძროხა ჩადევი დაჭრილი, მერე შემატყობინეო. (30) ეს გააკეთა ყალაჩუყლანმა და შეატყობინა ფა̈რშმა̈გ-ს. ფა̈რშმა̈გ-მა დაიდო ქუფუ მხარზე და დაისვა ყალაჩუყლანი ქუფუ-ზე. ფა̈რშმა̈გ-ისთვის ამას თითეულ ნაბიჯზე თითო ნაჭერი უნდა დაედო ["დასადებად"]. ყალაჩუყლანი უდებს თითო ნაჭერს და ცოტა აკლდათ ზესკნელში, და მაშინ შემოაკლდათ. ბოლოს ყალაჩუყლანმა მოიჭრა ბარძაყი და (35) ჩაუდო ფა̈რშმა̈გ-ს.</p>
+      <p>- ამასე კარგი გემო ჰქონდა! - ფარშმაგმა უთხრა.</p>
+      <p>- ესო მას მოუჭრია ბარძაყში, - ყალაჩუყლანმა უთხრა.</p>
+      <p>
+        <pb n="84"/>
+        - აბა, შენც ჩაგყლაპავო! - ყალაჩუყლანმა უთხრა, რომ
+      </p>
+      <p>- [ეს] მისი საქმეაო.</p>
+      <p>ფა̈რშმა̈გ-მა შემოიკრა და დააგდო ყალაჩუყლანი ზემო ქვეყანაში.</p>
+      <p>მიდის ეს ა, ყალაჩუყლანი, და მეღორე შეხვდა. მეღორეს ჰკითხა:</p>
+      <p>- ვისი ხარო შენ? - მეღორემ უთხრა:</p>
+      <p>- ვისიო და ფისიანების (ცოდვილიანების) [ფისიანი: წყევლა].</p>
+      <p>- რატომ ხარო ცოდვილიანებისო?</p>
+      <p>- რატომო და საუკეთესო ძმა ჰყოლიათო, ის მიწის ქვეშ ჩაუგდიათო. (10)</p>
+      <p>ყალაჩუყლანმა უთხრა, რომ</p>
+      <p>- შენ ჩემი ტანსაცმელი ჩაიცვი და ჩემს შენ მოგცემო ["მან მისი ტანსაცმელი ჩაიცვიო და მისი ტანსაცმელი მას მიეციო"]. თვითონ ესტუმრე ცოდვილიანებს.  ყალაჩუყლანმა ჩაიცვა მეღორის ტანსაცმელი, საღამოს გათალა შამფური და დაერია ღორებს. სახლში მისვლისას ატაკებდა ღორებს შამფურს (15) და ზოგს ცოცხლებს აგდებდა, ზოგს - მკვდრებს. შევიდა ცოდვილიანებთან და საღორის კარებში ზოგს ცოცხალს აგდებდა და ზოგს მკვდრებს. ცოდვილიანებმა ვერ იცნეს და მეღორე ეგონათ. ცოდვილიანებმა უთხრეს, რომ</p>
+      <p>- სტუმრის მორიდება გვაქვსო ამაღამ, თორემ მასო ცუდ ღამეს დააყენებენო! (20)</p>
+      <p>იმ ღამეს სტუმარმა მოითხოვა ყალაჩუყლანის მშვილდ-ისარი. მაგათ მიუტანეს მშვილდ-ისარი, მაგრამ ვერ მოზიდა. ახლა მეღორემ სთხოვა და ცოდვიანებმა უთხრეს, რომ:</p>
+      <p>- შენ მოზიდავო ყალაჩუყლანის მშვილდ-ისარსო?!</p>
+      <p>- მომეცითო! (25) მისცეს ისარი და ამან მოზიდა და უთხრა:</p>
+      <p>- ხარს თუ ფურსო?</p>
+      <p>- ფორსო.</p>
+      <p>აიღო და უფროს ძმას მოახვედრა და მერე - უმცროსს.</p>
+      <p>როგორ მოგწონთ ეს [როგორი გემო გაქვთო ეს], მასაცო ასეთი გემო ჰქონდაო, (30) ის, იმ ქვეყანაში გადაგდებაო. ყალაჩუყლანმა კარგი სიცოცხლე და ცხოვრება განვლო და დალოცვილი იყავი.</p>
+    </body>
+  </text>
+</TEI>

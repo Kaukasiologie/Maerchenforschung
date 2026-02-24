@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="xmf">XIX. ქუჩულია</title>
+        <author>
+          <name>
+            <persName>
+              <forename>Jost</forename>
+              <surname>Gippert</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/109337409">109337409</idno>
+        </author>
+        <editor>
+          <name>
+            <persName>
+              <forename>Tariel</forename>
+              <surname>Putkaradze</surname>
+            </persName>
+          </name>
+          <idno type="orcid" corresp="https://orcid.org/0000-0002-3946-000X">0000-0002-3946-000X</idno>
+        </editor>
+        <editor>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
+        </editor>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name>
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date>2024</date>
+        <distributor>
+          <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://titus.uni-frankfurt.de/texte/etca/cauc/megr/xubua/xubuat.htm">TITUS</ref>
+          <title xml:lang="kat">მეგრული ტექსტები</title>
+          <author>
+            <name>
+              <persName>
+                <forename>Makar</forename>
+                <surname>Khubua</surname>
+              </persName>
+            </name>
+          </author>
+          <pubPlace>ტფილისი</pubPlace>
+          <publisher/>
+          <date when="1937">1937</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="xmf">
+          <index indexName="iso639-3"/>
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+        </language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
+          <list>
+            <item>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+      </textClass>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/610823/zugdidi-municipality.html">Zugdidi</district>
+          <settlement ref="https://www.geonames.org/614193/k-akhati.html">Kakhati</settlement>
+        </placeName>
+        <date when="1923-08-23">1923-08-23</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename>Teodore</forename>
+            <surname>Toloraia</surname>
+          </persName>
+          <age/>
+          <birth>
+            <date/>
+            <placeName>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/610823/zugdidi-municipality.html">Zugdidi</district>
+              <settlement ref="https://www.geonames.org/614193/k-akhati.html">Kakhati</settlement>
+            </placeName>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename>Makar</forename>
+            <surname>Khubua</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename/>
+            <surname/>
+          </persName>
+        </person>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change/>
+        <change/>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="cc_xmf_xmf_43">
+    <body>
+      <head>XIX. ქუჩულია</head>
+      <p>რე ართი კოჩი, შური მეუბარე̄, ცაშა მიდურს ფერი. თეს ჯოხო სახელი ქუჩულია. ღარიბი კოჩი რე თენა. მუთუნი ვაპალუნ ფერი - ვოუღჷ ბინა, ვოუღჷ კარი, ართი ვარი დო მაჟია. გეგმიფიქრჷ თექ - წორებით ოკო გინილას საქიანოთ - სოდე მუ შეხვადჷნი! ქჷდეკინჷ ართი ჭყინტ ჸვალი, ართი ტუტულაშ ეფშა ქვირი დო ართი ოდგიში. და̄ჭყჷ თექ ულა დო მიდართჷ, ათე სუმი დუდი მუღჷნ თეში. ქიმერთჷ ართი დიდი წყარიშა - შორი ადგილს. ვემნართჷ თე წყარიშა დო ქეკოდოხოდჷ.</p>
+      <p>ეკოხე თაქ, იახან, ეფერი ჟანს ქჷმორთჷ მელეშე დემქ. - გამარჯობა, სქანი, დოუძახჷ ქუჩულიას მელეშე.</p>
+      <p>ქუჩულიაქ გჷმორძგუა უწუ̄, მუ რაგადი ოკო.</p>
+      <p>
+        შორიშე გაჩინებაფუ̄ დუდი ქუჩულიაქ. 
+        <pb n="80"/>
+        - მა ვორექ ქუჩულია - უწუ̄ დემს. - ქიბლაჸაფათ ქუჩულიავა - უწუ̄ დემქ მელეშე. - ქილაჸაფია მუ გისხუნუნიე დო გაჲწორე ხუსია,
+      </p>
+      <p>უწუ̄ ქუჩულიაქ. - ქჷგაქიმინენო მა ფქიმინუნქ თინა?</p>
+      <p>უწუ̄ დემქ. - ქო, მუშენ ვარ! - უწუ̄ ქუჩულიაქ.</p>
+      <p>ეთიმწკჷმა გეუჭირინუ̄ დემქ ხე ქუას, გეჭოფჷ ეშე, აკუნჭი̄რჷ ხე დო აკოტახჷ. - ენა მუორენია - უწუ̄ ქუჩულიაქ. - მა მიჯინი აშო!</p>
+      <p>ხეს უკებუდჷ ჸვალინ, თუდო ქუხოლუ̄ ქუალენს, გეუჭირინუ̄ დო გეჭოფჷ ქუაშ მანგიორო თე ჸვალი, გუნჭირჷ ხე ფუჩხა-ფუჩხათ გინართინუ̄. - უმოსი მანგარი ქილაჸაფია - უწუ̄ დემს.</p>
+      <p>ალაბიანი ქუა გეძჷ თაქ, თეს გიაშქჷ კუჩხი დემქ დო ქიგიოხინკოლჷ. - ქუჩულიაქ გიოსხაპჷ კუჩხით მუში ტუტულას დო ტვერო მიდართჷ ართო ჟი დო ჟი ქვირქ.</p>
+      <p>დემს მართალო ქუა უჩქჷდჷ თენა დო გუკვირდჷ. დუძახჷ ქუჩულიას - გაკიბშაყარათ დო წორო ქიბლაჸაფათია. - მა კუჩხი დჷმაშოლჷნ უკული ვამალაჸაფინენია - უწუ̄ ქუჩულიაქ. - მა გამნოიჸუნანქ ქიმემღენქდა - უწუ̄ დემქ. - ძალამ ჯგირი - უწუ̄ ქუჩულიაქ.</p>
+      <p>მჷნილჷ მოლე დემქ. ქჷმარძღიკჷ ქუჩულიაქ. ქაშაჸუნჷ დემქ წყარს. შქა წყარიშა ქიმერთეს. უწუ̄ ათაქ დემქ - ქუჩულია, მუორე მუშ მაქექა ქორექია! - ჰაავა - თქუ̄ ქუჩულიაქ. - მუორენია - კითხჷ დემქ. - მავა, ჩქიმი ძალა გოუტუევე, იმწკჷმა სქანი ჯგურა ეჩი დო ვითის ვადვამარგინექია. - აბავა, ჭიჭე გუ̄ტევა სქანი ძალავა, გვალა არძა ვაგუ̄ტუე თეშია.</p>
+      <p>ძალა მიქ მეჩჷ ქუჩულიას? ოდგიში ალუძჷ ჯიბეშა, გელეღჷ თენა დო ოჭიშის ქიდნა̄შქჷ დემს.</p>
+      <p>დემქ მიოღვარუ̄ - არიქა მომიქექევა, ვარა დობღურია. გეშა̄ნწყჷ კინი ოდგიში ქუჩულიაქ.</p>
+      <p>
+        <pb n="81"/>
+         დემს მუქექუ̄, მუ რაგადი ოკო.
+      </p>
+      <p>სადილიშა ქჷდაპეჯჷ ქუჩულია დემქ მუში ჸუდეშა. ძალამი მანგარი სადილს ქჷმკუდოხოდეს დო ჭკუმუნა. ათე დროს მუშ შურიშო ვაგუ̄ტუ̄ო დემქ! მარცხიქ ქაღოლჷ ვაკოდჷნ თეში.</p>
+      <p>ჰავაქ ქიფაფუ̄ ქუჩულია დო ჟი დო ჟი ქემურს. ჟი ორთვალს ქიმკიპუტონჷ კოჩი. დემქ გიჯინჷ იშო-აშო დო ჟი ქიმკისოფუ კაკუტენს კოჩინ, ქოძირჷ. - მუს რე ექ ორთჷქიე - კითხჷ დემქ. - სი ხოლო ბედუქო რაგადის ჩქიმწკჷმა! ათე კაკუტი ოკო</p>
+      <p>მოფსოფე̄ დო სი გიგაშქვე̄.</p>
+      <p>დეშიშჷ დემქ დო გეგნოლჷ, - ენა იშენი დჷნოპილუე მავა დო.</p>
+      <p>გეგნოლჷ დემქჷნ, დეპატრონჷ ქუჩულიაქ დემიშ ხორუა მახორობას. ცხოვრენდჷ თიში უკული ქუჩულია თექ.</p>
+    </body>
+  </text>
+</TEI>
