@@ -23,10 +23,3 @@
 </xs:restriction>
 </xs:simpleType>
 </xs:schema>
-<!--declare namespace xs="http://www.w3.org/2001/XMLSchema";
-declare namespace bc="www.dglab.uni-jena.de/vmf/bc";
-
-for $e in doc("vmf_bc.xsd")//xs:enumeration
-for $d in $e /@value
-order by $d
-return<ara>{ $d}</ara>-->
