@@ -4,13 +4,14 @@
 ### Über dieses Repositorium
 
 Diese GitHub-Publikation ergänzt die Abhandlungen zum Thema „Vergleichende Märchenforschung“.
-Sie stellt einen digitalen Assistenten zur semiautomatischen Segmentierung von Märchentexten in kleinere Strukturelemente bereit sowie Werkzeuge zur Auswertung und Visualisierung der entsprechend annotierten Textdaten.
+Sie stellt einen digitalen Assistenten zur semiautomatischen Segmentierung von Märchentexten in kleinere Strukturelemente bereit sowie Werkzeuge zur Auswertung und Visualisierung der entsprechend annotierten Textdaten, siehe *Maerchenforschung/Toolbox*
 
 ### Forschungsdaten
 
-Das Repositorium enthält in XML-teiCorpus erfasste und für die Annotation aufbereitete Forschungsdaten. 
+Das Repositorium enthält im XML-Format (teiCorpus) erfasste und für die Annotation aufbereitete Forschungsdaten. Diese sind ebenfalls im Ordner Maerchenforschung/Toolbox abgelegt.
+  
 Darüber hinaus wird eine kontinuierlich wachsende Sammlung basaler XML-Textdaten gepflegt. Diese umfasst volkskundliche Märchentexte aus den Repertoires zahlreicher großer und kleiner Erzählgemeinschaften.
-Die Texte sind im Ordner *Textkorpus* nach ihren Herkunftsorten systematisiert.
+Die Texte sind im Ordner *Maerchenforschung/Textkorpus* nach ihren Herkunftsorten systematisiert.
 Die Benennung der Systemelemente folgt:
 - den *ISO-639-3*-Sprachcodes, sofern die Sprache als Identifikationsmerkmal dient,
 - andernfalls den Ländercodes nach *ISO-3166-1*.
@@ -18,7 +19,7 @@ Die Benennung der Systemelemente folgt:
 Texte mit eingeschränkten Lizenzbedingungen werden in abgeleiteter Textform veröffentlicht und in den Dateinamen durch die Zeichenkette _cr_ gekennzeichnet.
 Texte mit uneingeschränkten Lizenzbedingungen sind entsprechend mit _cc_ markiert.
 
-### Werkzeuge
+### Werkzeuge 
 **erthaos-23** ist ein digitales Analysewerkzeug zur semiautomatisierten Identifikation narrativer Motive in Märchentexten. Es unterstützt die Annotation inhaltlicher Eigenschaften der Texte auf der Motiv- und Episodenebene.
 
 **graphauswerter** unterstützt die graphenbasierte Auswertung der annotierten Textdaten und visualisiert den Bestand sowie die Vernetzung der im Repertoire erfassten Märchentypen. 
