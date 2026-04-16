@@ -14,7 +14,7 @@ Darüber hinaus wird eine kontinuierlich wachsende Sammlung basaler XML-Textdate
 Die Texte sind im Ordner *Maerchenforschung/Textkorpus* nach ihren Herkunftsorten systematisiert.
 Die Benennung der Systemelemente folgt:
 - den *ISO-639-3*-Sprachcodes, sofern die Sprache als Identifikationsmerkmal dient,
-- andernfalls den Ländercodes nach *ISO-3166-1*.
+- andernfalls den Ländercodes nach *ISO-3166-2*.
 
 Texte mit eingeschränkten Lizenzbedingungen werden in abgeleiteter Textform veröffentlicht und in den Dateinamen durch die Zeichenkette _cr_ gekennzeichnet.
 Texte mit uneingeschränkten Lizenzbedingungen sind entsprechend mit _cc_ markiert.
