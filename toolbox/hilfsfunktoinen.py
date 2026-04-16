@@ -16,6 +16,8 @@ with open("anpassen.json", "r") as f:
     config = json.load(f)
 
 language = config["language"]
+max_words = config["PARAM_MAX_WORDS"]
+trigger_length = config["PARAM_TRIGGER_LENGTH"]
 
 def sonderzeichen_entfernen(text: str, special_characters) -> str:
     func_name = f"sonderzeichen_entfernen_{language}"
@@ -186,8 +188,8 @@ def parse_xml(root_node, namespace, referenz_liste, special_charachters,
 # ###############################################################################
 
 def split_long_segments(root, namespace,
-                        max_words=50,
-                        trigger_length=99):
+                        max_words = max_words,
+                        trigger_length = trigger_length):
 
     for p in root.findall(".//tei:text/tei:body/tei:p", namespace):
 

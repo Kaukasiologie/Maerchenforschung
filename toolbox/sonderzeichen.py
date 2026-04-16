@@ -137,3 +137,43 @@ def sonderzeichen_entfernen_null(text: str, special_charachters) -> str:
         res = res.replace(falsh, richtig)
  
     return res
+
+woerterbuch_deu = []
+def sonderzeichen_entfernen_deu(text: str, special_charachters) -> str:
+    if text is None:
+        return ""
+    text = re.sub(r"\d+", "", text) #Zahlen löschen
+    #text = re.sub(r'<pb\s+n="\d+"\s*/>', '', text) #pb@n löschen
+
+# def sonderzeichen_entfernen_test(text: str, special_charachters) -> str:
+#     if text is None:
+#         return ""
+
+#     # Zahlen löschen
+#     text = re.sub(r"\d+", "", text)
+
+#     # <pb n="..."/> löschen
+#     text = re.sub(r'<pb\s+n="\d+"\s*/>', '', text)
+
+#     # <note>...</note> inklusive Inhalt löschen (auch mehrzeilig)
+#     text = re.sub(r'<note>.*?</note>', '', text)
+
+    res = (text.lower().strip()
+           .replace('|', '').replace(':', '').replace("ä", "ae")
+           .replace("ü", "ue").replace("ö", "oe").replace("ß", "ss")
+           .replace(",", "").replace("\n", " ").replace("'", "")
+           .replace("…", "").replace('"', "").replace("*", "")
+           .replace("(", "").replace(")", "").replace("-", "")
+           .replace("]", "").replace("[", "").replace(".", "")
+           .replace("?", "").replace("!", "").replace("„", "")
+           .replace("+", "").replace("=", "").replace("_", "")
+           .replace("­", "").replace('“', "").replace('”', "")
+           .replace(";", "").replace('~', "").replace('`', "")
+           .replace("«", "").replace("»", "").replace("|", "")
+          
+          )
+ 
+    for falsh, richtig in woerterbuch_deu:
+        res = res.replace(falsh, richtig)
+ 
+    return res
