@@ -3,6 +3,7 @@
 <xs:attribute name="ana" type="d1:ana"/>
 <xs:simpleType name="ana">
 <xs:restriction base="xs:normalizedString">
+ <xs:enumeration value="dprov"/>
 <xs:enumeration value="rEHDem"/>
 <xs:enumeration value="rEHDeM"/>
 <xs:enumeration value="rEHDew"/>

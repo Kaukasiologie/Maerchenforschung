@@ -11,7 +11,7 @@
 <xs:documentation source="1">Platzhalter</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Abraten_von_der_Mission">
+ <xs:enumeration value="Abraten_von_der_Mission">
 <xs:annotation>
 <xs:documentation source="1">1:HF:hf:H:h</xs:documentation><xs:documentation source="2">HF/hf=Handlungsanweisung, H/h=Annahme/Ablehnung</xs:documentation>
 </xs:annotation>
@@ -96,7 +96,12 @@
 <xs:documentation source="1">0:H</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="Auf_HEIRATSABSICHT_reagieren">
+<xs:enumeration value="Auf_eine_außergewöhnliche_VOTIVGABE_reagieren">
+  <xs:annotation>
+   <xs:documentation source="1">2:h:H</xs:documentation><xs:documentation source="2"/>
+  </xs:annotation>
+ </xs:enumeration>
+ <xs:enumeration value="Auf_HEIRATSABSICHT_reagieren">
 <xs:annotation>
 <xs:documentation source="1">2:H:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
@@ -156,6 +161,11 @@
 <xs:documentation source="1">0:h</xs:documentation><xs:documentation source="2"/>
 </xs:annotation>
 </xs:enumeration>
+<xs:enumeration value="Außergewöhnliche_VOTIVGABE">
+  <xs:annotation>
+   <xs:documentation source="1">3:HF:hf:H:h:F:f</xs:documentation><xs:documentation source="2"/>
+  </xs:annotation>
+ </xs:enumeration>
 <xs:enumeration value="Aussetzung">
 <xs:annotation>
 <xs:documentation source="1">0:h</xs:documentation><xs:documentation source="2"/>
@@ -812,6 +822,11 @@
 <xs:documentation source="1">2:f</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
+<xs:enumeration value="GEFAHR_von_Verrat_durch_die_Eltern">
+  <xs:annotation>
+   <xs:documentation source="1">1:HF:hf:F:f:H:h</xs:documentation><xs:documentation source="2">HF/hf=Warnung; F/f:sich auf die Gefahr stoßen; H=vermeiden; h=nicht vermeiden</xs:documentation>
+  </xs:annotation>
+ </xs:enumeration>
 <xs:enumeration value="GEFAHR_von_Verrat_durch_die_Frau">
 <xs:annotation>
 <xs:documentation source="1">1:HF:hf:F:f:H:h</xs:documentation><xs:documentation source="2">HF/hf=Warnung; F/f:sich auf die Gefahr stoßen; H=vermeiden; h=nicht vermeiden</xs:documentation>
@@ -822,7 +837,7 @@
 <xs:documentation source="1">1:HF:hf:F:f:H:h</xs:documentation><xs:documentation source="2">HF/hf=Warnung; F/f:sich auf die Gefahr stoßen; H=vermeiden; h=nicht vermeiden</xs:documentation>
 </xs:annotation>
 </xs:enumeration>
-<xs:enumeration value="GEFAHR_von_Verrat_durch_die_Weggefährten">
+ <xs:enumeration value="GEFAHR_von_Verrat_durch_die_Weggefährten">
 <xs:annotation>
 <xs:documentation source="1">1:HF:hf:F:f:H:h</xs:documentation><xs:documentation source="2">HF/hf=Warnung; F/f:sich auf die Gefahr stoßen; H=vermeiden; h=nicht vermeiden</xs:documentation>
 </xs:annotation>

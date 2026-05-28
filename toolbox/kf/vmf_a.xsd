@@ -18,7 +18,12 @@
      <xs:documentation>Nullwert. Noch nicht annotierte Eigenschaft. </xs:documentation>
     </xs:annotation>
    </xs:enumeration>
-
+   <xs:enumeration value="aprov"></xs:enumeration>
+   <xs:enumeration value="aprov Platzhalter">
+    <xs:annotation>
+     <xs:documentation> </xs:documentation>
+    </xs:annotation>
+   </xs:enumeration>
    <xs:enumeration value="N"></xs:enumeration>
    <xs:enumeration value="aEu Epos unklar welches">
     <xs:annotation>
@@ -1010,6 +1015,8 @@
    <xs:enumeration value="a671"></xs:enumeration>
    <xs:enumeration value="a671D* Tiere sprechen in der Christnacht"></xs:enumeration>
    <xs:enumeration value="a671D*"></xs:enumeration>
+   <xs:enumeration value="a671E* A Magic Boy"></xs:enumeration>
+   <xs:enumeration value="a671E*"></xs:enumeration>
    <xs:enumeration value="a672 Die Schlangenkrone"></xs:enumeration>
    <xs:enumeration value="a672"></xs:enumeration>
    <xs:enumeration value="a672A Die Schlangenkrone wird geraubt"></xs:enumeration>
@@ -1306,12 +1313,16 @@
    <xs:enumeration value="a845"></xs:enumeration>
    <xs:enumeration value="a846 Gott und Teufel auf Wanderschaft"></xs:enumeration>
    <xs:enumeration value="a846"></xs:enumeration>
+   <xs:enumeration value="a846* The Vengeful Saints"></xs:enumeration>
+   <xs:enumeration value="a846*"></xs:enumeration>
    <xs:enumeration value="a*847 Wintergarten"></xs:enumeration>
    <xs:enumeration value="a*847"></xs:enumeration>
    <xs:enumeration value="a*848 Wasser zu Wein"></xs:enumeration>
    <xs:enumeration value="a*848"></xs:enumeration>
    <xs:enumeration value="a849 Platzhalter"></xs:enumeration>
    <xs:enumeration value="a849"></xs:enumeration>
+   <xs:enumeration value="a849* The Cross as Security"></xs:enumeration>
+   <xs:enumeration value="a849*"></xs:enumeration>
    <xs:enumeration value="a*849 Der blinde und der lahme Bettler"></xs:enumeration>
    <xs:enumeration value="a*849"></xs:enumeration>
    <xs:enumeration value="a850 The Birthmarks of the Princess"></xs:enumeration>
@@ -1733,7 +1744,7 @@
    <xs:enumeration value="a1157"></xs:enumeration>
    <xs:enumeration value="a*1157* Stock als Flinte"></xs:enumeration>
    <xs:enumeration value="a*1157*"></xs:enumeration>
-   <xs:enumeration value="a1159 Der eingeklemmte Unhold"></xs:enumeration>
+   <xs:enumeration value="a1159 Der eingeklemmte Unhold"><xs:annotation><xs:documentation>Das Einklemmen unholder Wesen durch List; der Trick wird oft beim Baumfällen oder Spalten eines Baumstammes vorgeführt. </xs:documentation></xs:annotation></xs:enumeration>
    <xs:enumeration value="a1159"></xs:enumeration>
    <xs:enumeration value="a1161 Bärenführer"></xs:enumeration>
    <xs:enumeration value="a1161"></xs:enumeration>
@@ -1743,7 +1754,7 @@
    <xs:enumeration value="a1163"></xs:enumeration>
    <xs:enumeration value="a1164 Belfagor">
     <xs:annotation>
-     <xs:documentation>Ein Mann wirft seine widerspenstige Frau in einen Brunnen, holt stattdessen aber einen Dämon heraus, der ihm zur Last wird. Durch List oder Drohung zwingt er den Dämon zur Kooperation, wird so als Exorzist oder Wunderheiler berühmt, reich belohnt oder erhält die Hand einer Prinzessin.Als der Dämon nicht mehr mitmachen will, droht der Mann mit der Rückkehr der bösen Frau, worauf der Dämon sogleich die Flucht ergreift </xs:documentation>
+     <xs:documentation>Ein Mann wirft seine widerspenstige Frau in einen Brunnen, holt stattdessen aber einen Dämon heraus, der ihm zur Last wird. Durch List oder Drohung zwingt er den Dämon zur Kooperation, wird so als Exorzist oder Wunderheiler berühmt, reich belohnt oder erhält die Hand einer Prinzessin.Als der Dämon nicht mehr mitmachen will, droht der Mann mit der Rückkehr der bösen Frau, worauf der Dämon sogleich die Flucht ergreift. </xs:documentation>
     </xs:annotation>
    </xs:enumeration>
    <xs:enumeration value="a1164"></xs:enumeration>
