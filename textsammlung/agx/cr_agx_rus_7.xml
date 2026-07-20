@@ -1,119 +1,129 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Agulische Folklore</title>
-      <title xml:lang="eng">Agul Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <bibl>
-         <title>Шаумян Р. М. Грамматический очерк агульского языка (с текстами и словарем). М.-Л.: Изд-во АН СССР, 1941</title>
-        </bibl>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      <titleStmt>
+        <title xml:lang="deu">Agulische Folklore</title>
+        <title xml:lang="eng">Agul Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title xml:lang="russ">Т. А. Майсак: АГУЛЬСКИЕ ТЕКСТЫ 1900-1960-х годов</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Федеральное государственное бюджетное учреждение науки ИНСТИТУТ ЯЗЫКОЗНАНИЯ. Москва, ACADEMIA, 2014</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <bibl>
+              <title>Шаумян Р. М. Грамматический очерк агульского языка (с текстами и словарем). М.-Л.: Изд-во АН СССР, 1941</title>
+            </bibl>
+          </sourceDesc>
+        </biblFull>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="agx">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date>1933-34</date>
-     </creation>
-     <particDesc>
-      <person role="InformatorIn">
-       <persName />
-       <age />
-       <birth>
-        <address>
-         <district />
-         <settlement ref="https://www.geonames.org/481900/tpig.html">Tpig</settlement>
-        </address>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Р. М.</forename>
-        <surname xml:lang="rus">Шаумян</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Т. А.</forename>
-        <surname xml:lang="rus">Майсак</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district />
+          <settlement />
+          <geo />
+        </placeName>
+        <date>1933-34</date>
+      </creation>
+      <particDesc>
+        <person role="InformatorIn">
+          <persName />
+          <age />
+          <birth>
+            <address>
+              <district />
+              <settlement ref="https://www.geonames.org/481900/tpig.html">Tpig</settlement>
+            </address>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Р. М.</forename>
+            <surname xml:lang="rus">Шаумян</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Т. А.</forename>
+            <surname xml:lang="rus">Майсак</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_agx_rus_7">
+  </teiHeader>
+  <text xml:id="cr_agx_rus_7">
     <body>
-     <head>Ш6. Рассказ о плешивом</head>
-     <p>бедняка визири выдам говорят говорят девушка дочь дочь дочь дочь другого кого министры отвечала плешивом поклялся постоянно приходили рассказ сосватать хотела хотели царь царь царя царя</p><p>бедняки выдал выдать выдать делать дней дочь дочь дочь дочь забота замуж иди иди какую кое матери матери мать нам несколько нечего одежду отдаст плешивого плешивый плешивый плешивый плешивый попроси попросила посватай пошла свадьбу своей сказал сказал сказала справил сыграли твоя узнал узнал царь царь царь царю царя это</p><p>базаре всё вынула дала девушку дом дочь еду еды жить золотые золотых иди комнаты купи мужу мужу осмотрела плешивому постель привели принеси своего своему сказала сундука увидев увидела царская это</p><p>базар базар будешь будешь букв вернулся взял взял возьми дай делаешь доверяйся домой домой дочь дочь еду еду знаю золотой золотой золотой золотой золотой золотой золотые золотых который купил купил купил купил лавке лавке лавочник лавочник ложись матрац матрац никому ночной обижать одеяло одеяло одной оставшийся оставшийся ответил ответил ответил отдал питье питье плешивый плешивый плешивый плешивый плешивый плешивый почём пошел прийдя принес пришел продали продаю продаю пути сделал сидит сидящий сказал сказал совет совет совет совет совет совет совета советы спать спи спросил спросил спросила стала стоянке увидел умные умный умный умный умных умы ущелье царская царя человек человек</p><p>аждаха аждаха брошу воды воды воды войдя вопрос вопрос голов голову головы день достал достать ехавшими жену задам заработки колодца колодца колодца крепость купцами купцы любимым любящему людей мать немного неподалеку обратно однажды ответил ответишь отрежу пещеру плешивого плешивого плешивому плешивый плешивый плешивый поехал показал послали потащил предупредив приехали свете села сказал спросил степь схватил тебе тебе туда убитых хорошего шел</p><p>аждаха аждахой аул вещей вещи встретив городе дал дворе догнал драгоценных других колодцу купца купцов купцы ними ночь одного оказалось остановились отправил отпустил плешивого подаренные подошел похлопал своих свой случившемся спине товарищей уехали узнавшие юноша</p><p>вашего встал голову города городе дворе женщин женщина женщину заметил косу которые купцов мальчика мальчика мальчике мучайте напрасно ночи остановившихся отрезал отрезанную пало плешивого плешивый плешивый плешивый подозрение показать поклажу положила попросил посреди правителя принесла родители сказал собрать схватил убили убитом узнали утром это это</p><p>вещами вещи всеми вынул головы город доказал драгоценные других жену женщин женщин женщин женщина женщины имеющихся кармана косу который купец купца мальчика мальчика мальчика мальчика осмотрел отцом плешивому плешивому плешивый плешивый плешивый подарил поехал показал показал приведите привели ратно свой сказал собрал среди старшую убившей убившую убила убитого царь эта этими этих</p><p>благополучно вещами всеми встали город давайте захотели которые купцы ливень месте ночью ночью ночью одном остальные останавливаться остановилась остановились остановились остановился остановимся остановиться плешивый плешивым плохая погода приехали прошел сель сильный сказал те тех унес утром ущелье ущелье ущелье холме холме холме часть</p><p>большое важную взял визирей всё должность дом дом дом дома домой домой жена жизнь заново людей месте министров назначил новый ночь обнаружил плешивого плешивый плешивый позвал показали посмотрел построила пошел приехали свадьбу своего семиэтажный сказали спросил стоявших твоя тестя ту увидя угощенье устроил устроил устроил царь царя это</p></body>
-   </text>
-  </TEI>
+      <head>Ш6. Рассказ о плешивом</head>
+      <p>бедняка визири выдам говорят говорят девушка дочь дочь дочь дочь другого кого министры отвечала плешивом поклялся постоянно приходили рассказ сосватать хотела хотели царь царь царя царя</p>
+      <p>бедняки выдал выдать выдать делать дней дочь дочь дочь дочь забота замуж иди иди какую кое матери матери мать нам несколько нечего одежду отдаст плешивого плешивый плешивый плешивый плешивый попроси попросила посватай пошла свадьбу своей сказал сказал сказала справил сыграли твоя узнал узнал царь царь царь царю царя это</p>
+      <p>базаре всё вынула дала девушку дом дочь еду еды жить золотые золотых иди комнаты купи мужу мужу осмотрела плешивому постель привели принеси своего своему сказала сундука увидев увидела царская это</p>
+      <p>базар базар будешь будешь букв вернулся взял взял возьми дай делаешь доверяйся домой домой дочь дочь еду еду знаю золотой золотой золотой золотой золотой золотой золотые золотых который купил купил купил купил лавке лавке лавочник лавочник ложись матрац матрац никому ночной обижать одеяло одеяло одной оставшийся оставшийся ответил ответил ответил отдал питье питье плешивый плешивый плешивый плешивый плешивый плешивый почём пошел прийдя принес пришел продали продаю продаю пути сделал сидит сидящий сказал сказал совет совет совет совет совет совет совета советы спать спи спросил спросил спросила стала стоянке увидел умные умный умный умный умных умы ущелье царская царя человек человек</p>
+      <p>аждаха аждаха брошу воды воды воды войдя вопрос вопрос голов голову головы день достал достать ехавшими жену задам заработки колодца колодца колодца крепость купцами купцы любимым любящему людей мать немного неподалеку обратно однажды ответил ответишь отрежу пещеру плешивого плешивого плешивому плешивый плешивый плешивый поехал показал послали потащил предупредив приехали свете села сказал спросил степь схватил тебе тебе туда убитых хорошего шел</p>
+      <p>аждаха аждахой аул вещей вещи встретив городе дал дворе догнал драгоценных других колодцу купца купцов купцы ними ночь одного оказалось остановились отправил отпустил плешивого подаренные подошел похлопал своих свой случившемся спине товарищей уехали узнавшие юноша</p>
+      <p>вашего встал голову города городе дворе женщин женщина женщину заметил косу которые купцов мальчика мальчика мальчике мучайте напрасно ночи остановившихся отрезал отрезанную пало плешивого плешивый плешивый плешивый подозрение показать поклажу положила попросил посреди правителя принесла родители сказал собрать схватил убили убитом узнали утром это это</p>
+      <p>вещами вещи всеми вынул головы город доказал драгоценные других жену женщин женщин женщин женщина женщины имеющихся кармана косу который купец купца мальчика мальчика мальчика мальчика осмотрел отцом плешивому плешивому плешивый плешивый плешивый подарил поехал показал показал приведите привели ратно свой сказал собрал среди старшую убившей убившую убила убитого царь эта этими этих</p>
+      <p>благополучно вещами всеми встали город давайте захотели которые купцы ливень месте ночью ночью ночью одном остальные останавливаться остановилась остановились остановились остановился остановимся остановиться плешивый плешивым плохая погода приехали прошел сель сильный сказал те тех унес утром ущелье ущелье ущелье холме холме холме часть</p>
+      <p>большое важную взял визирей всё должность дом дом дом дома домой домой жена жизнь заново людей месте министров назначил новый ночь обнаружил плешивого плешивый плешивый позвал показали посмотрел построила пошел приехали свадьбу своего семиэтажный сказали спросил стоявших твоя тестя ту увидя угощенье устроил устроил устроил царь царя это</p>
+    </body>
+  </text>
+</TEI>

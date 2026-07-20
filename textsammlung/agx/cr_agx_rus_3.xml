@@ -1,125 +1,144 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Agulische Folklore</title>
-      <title xml:lang="eng">Agul Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
-       </publicationStmt>
-       <sourceDesc>
+      <titleStmt>
+        <title xml:lang="deu">Agulische Folklore</title>
+        <title xml:lang="eng">Agul Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений А.М. Ганиева. том 2, Волшебные сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2011</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="agx">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
-       <geo />
-      </placeName>
-      <date>1935</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">К.</forename>
-        <surname xml:lang="rus">Будамаева</surname>
-       </persName>
-       <age>42</age>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">М.Р.</forename>
-        <surname xml:lang="rus">Рамазанов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Ф.М.</forename>
-        <surname xml:lang="rus">Ибрагимовa</surname>
-       </persName>
-       <persName>
-        <forename xml:lang="rus">М.Р.</forename>
-        <surname xml:lang="rus">Рамазанова</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district />
+          <settlement ref="https://www.geonames.org/532096/makhachkala.html">Makhachkala</settlement>
+          <geo />
+        </placeName>
+        <date>1935</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">К.</forename>
+            <surname xml:lang="rus">Будамаева</surname>
+          </persName>
+          <age>42</age>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">М.Р.</forename>
+            <surname xml:lang="rus">Рамазанов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Ф.М.</forename>
+            <surname xml:lang="rus">Ибрагимовa</surname>
+          </persName>
+          <persName>
+            <forename xml:lang="rus">М.Р.</forename>
+            <surname xml:lang="rus">Рамазанова</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_agx_rus_3">
+  </teiHeader>
+  <text xml:id="cr_agx_rus_3">
     <body>
-     <head> 57 Пастух, его жена и аждаха (агул.) </head>
-     <p>глаза глядят говорят говорят давно детей днем дома жена жизнь жил жил злая злаяпрезлая знал куча надоела ночью пастух пастух покоя старуха такая такая ушел</p><p>аул брань вечером глубокую гнал домой думает золотом избавиться крики нашел обмануть однажды пастух пастух позвал привел придя решился селом сказав собой стадо старуху старуху столкнул столкнуть сундук сюда тяжелый увидел услышав яме яму</p><p>аждаха бежать вернулся выскочил гам громадный дерева дерево дети длинное дна дождавшись домой еле задержавшись избавился какое кинулся конец коснуться который крики мгновение навсегда опустил пастух пастух побежал подняли решив ругань сильнее сказал срубил старухи сто успел утра шум яме яме ямы</p><p>буду второй город делай добро добром злой отплачу получишь придешь приходи прогонишь родник смотри спас спасибо старухи сторожить тебе убегу человек это</p><p>мою пастух спросил старуху съел</p><p>аждаха девушек ем мое молодых мясо нутро принимает старух старый</p><p>почему убил хотя</p><p>большой грех суеверен съев убивать</p><p>аждаха аждахи быстро выкрикнув вылезет город добро задерживаться избавление обещанное пастух пастуху пойти пока получить решив решил старуха стоит убежал ушел это ямы</p><p>аждаха аждаха аждахи аждахой везде веселье водой всякое город города городе городе долго дочери дочь дочь дошел единственный жены жизнь завтра запрещено избавит истекает коротко назначенный обещает обещает отдали пастух пастух печаль полказны приглашал родник спасет срок столичного сторожит съедение тому требует узнал уйти уныние хан хана царили шел</p><p>аждахи дворцу договор заключил избавить ко лучшими лучшую накормил обрадовался пастух попросил постель пропустили пропустить прошел сказав словам сможет сразу столицу тотчас уложил хан хану яствами</p><p>аждаха взял вид города дворец денег детям достаточно дочери дочерью женили женой жителей жить испугался ликованию молодой оружие отдали отправил пастух пастуха пастуха поживать полказны пошел предела привели роднику свадьбу своей сделал стал старухе сыграли убежал увидел утром хана хана хана</p><p>аждаха брат воду времени горе городе городе девушек единственный мало молодых отдают отпускает пастуха постигло правил прошло распространился родник слух соседнего столицу сторожит съедение также такое тестя хана ханства</p><p>аждахи аждаху беды брату гонцов город городе дорогу думал ехать жене живет злая зятя избавил известно неудобно открыть пастух пастух понял послал правду придумал прислать прогнать просьбой решил самая спас стало старуха столицу тестю узнать хан ханстве</p><p>взбесилась вид ворот встал высказать выхода детским дождавшись доли дому жены запомнил испугался какие лепетом напротив настолько осыпать отборными пастуху первой побежал побежала подняла показалась пришел проклятий проклятиями проклятиями прямо роднику ругань ругательствами самыми своей своих своя сделал слов соседние сотой стал стала старуха старуха старухи страшными сыпать такими улицу улицу успела шум</p><p>аждаха впереди говорит добежали немного пастух пастуха поотстав родника старуха узнал</p><p>второй пеняй прогнать пытался сказал съем тебе</p><p>аждаха ангел беги бежит видишь друг жена крикнул нею пастух придется пришел прогонять спасайся спасать сравнению старуха тебе худо</p><p>аждаха аждахи богатые брата вернулся взяв глаза глядят грехом дары дочери дошел жене испугался очень пастух поднятый подобные проклятий своего своей слова слышать смысл собой старухи старухой суеверен также тестя убежал хана шум</p></body>
-   </text>
-  </TEI>
+      <head> 57 Пастух, его жена и аждаха (агул.) </head>
+      <p>глаза глядят говорят говорят давно детей днем дома жена жизнь жил жил злая злаяпрезлая знал куча надоела ночью пастух пастух покоя старуха такая такая ушел</p>
+      <p>аул брань вечером глубокую гнал домой думает золотом избавиться крики нашел обмануть однажды пастух пастух позвал привел придя решился селом сказав собой стадо старуху старуху столкнул столкнуть сундук сюда тяжелый увидел услышав яме яму</p>
+      <p>аждаха бежать вернулся выскочил гам громадный дерева дерево дети длинное дна дождавшись домой еле задержавшись избавился какое кинулся конец коснуться который крики мгновение навсегда опустил пастух пастух побежал подняли решив ругань сильнее сказал срубил старухи сто успел утра шум яме яме ямы</p>
+      <p>буду второй город делай добро добром злой отплачу получишь придешь приходи прогонишь родник смотри спас спасибо старухи сторожить тебе убегу человек это</p>
+      <p>мою пастух спросил старуху съел</p>
+      <p>аждаха девушек ем мое молодых мясо нутро принимает старух старый</p>
+      <p>почему убил хотя</p>
+      <p>большой грех суеверен съев убивать</p>
+      <p>аждаха аждахи быстро выкрикнув вылезет город добро задерживаться избавление обещанное пастух пастуху пойти пока получить решив решил старуха стоит убежал ушел это ямы</p>
+      <p>аждаха аждаха аждахи аждахой везде веселье водой всякое город города городе городе долго дочери дочь дочь дошел единственный жены жизнь завтра запрещено избавит истекает коротко назначенный обещает обещает отдали пастух пастух печаль полказны приглашал родник спасет срок столичного сторожит съедение тому требует узнал уйти уныние хан хана царили шел</p>
+      <p>аждахи дворцу договор заключил избавить ко лучшими лучшую накормил обрадовался пастух попросил постель пропустили пропустить прошел сказав словам сможет сразу столицу тотчас уложил хан хану яствами</p>
+      <p>аждаха взял вид города дворец денег детям достаточно дочери дочерью женили женой жителей жить испугался ликованию молодой оружие отдали отправил пастух пастуха пастуха поживать полказны пошел предела привели роднику свадьбу своей сделал стал старухе сыграли убежал увидел утром хана хана хана</p>
+      <p>аждаха брат воду времени горе городе городе девушек единственный мало молодых отдают отпускает пастуха постигло правил прошло распространился родник слух соседнего столицу сторожит съедение также такое тестя хана ханства</p>
+      <p>аждахи аждаху беды брату гонцов город городе дорогу думал ехать жене живет злая зятя избавил известно неудобно открыть пастух пастух понял послал правду придумал прислать прогнать просьбой решил самая спас стало старуха столицу тестю узнать хан ханстве</p>
+      <p>взбесилась вид ворот встал высказать выхода детским дождавшись доли дому жены запомнил испугался какие лепетом напротив настолько осыпать отборными пастуху первой побежал побежала подняла показалась пришел проклятий проклятиями проклятиями прямо роднику ругань ругательствами самыми своей своих своя сделал слов соседние сотой стал стала старуха старуха старухи страшными сыпать такими улицу улицу успела шум</p>
+      <p>аждаха впереди говорит добежали немного пастух пастуха поотстав родника старуха узнал</p>
+      <p>второй пеняй прогнать пытался сказал съем тебе</p>
+      <p>аждаха ангел беги бежит видишь друг жена крикнул нею пастух придется пришел прогонять спасайся спасать сравнению старуха тебе худо</p>
+      <p>аждаха аждахи богатые брата вернулся взяв глаза глядят грехом дары дочери дошел жене испугался очень пастух поднятый подобные проклятий своего своей слова слышать смысл собой старухи старухой суеверен также тестя убежал хана шум</p>
+    </body>
+  </text>
+</TEI>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -98,18 +96,18 @@
             </name>
           </author>
           <respStmt>
-            <resp/>
-            <name/>
+            <resp />
+            <name />
           </respStmt>
           <extent>
-            <measure unit="words"/>
-            <measure unit="pages"/>
+            <measure unit="words" />
+            <measure unit="pages" />
           </extent>
           <publisher>Friedrich-Schiller-Universität Jena. Kaukasischen-Reihe</publisher>
-          <distributor/>
+          <distributor />
           <date when="2001">The year 2001</date>
           <availability>
-            <licence/>
+            <licence />
           </availability>
         </bibl>
       </sourceDesc>
@@ -117,8 +115,8 @@
     <profileDesc>
       <langUsage>
         <language ident="deu">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
         </language>
       </langUsage>
       <textClass>
@@ -137,7 +135,7 @@
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
           <list>
-            <item/>
+            <item />
           </list>
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
@@ -149,7 +147,7 @@
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
           <list>
-            <item/>
+            <item />
           </list>
         </keywords>
       </textClass>
@@ -157,27 +155,27 @@
         <placeName>
           <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
           <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
-          <district/>
-          <settlement/>
-          <geo/>
+          <district />
+          <settlement />
+          <geo />
         </placeName>
         <date notAfter="1880-12-31">notAfter 1914.05.31</date>
       </creation>
       <particDesc>
         <person role="speaker">
           <persName>
-            <forename/>
-            <surname/>
+            <forename />
+            <surname />
           </persName>
-          <age/>
+          <age />
           <birth>
-            <date/>
+            <date />
             <placeName>
-              <country/>
-              <region/>
-              <district/>
-              <settlement/>
-              <geo/>
+              <country />
+              <region />
+              <district />
+              <settlement />
+              <geo />
             </placeName>
           </birth>
         </person>
@@ -193,8 +191,8 @@
     <revisionDesc>
       <listChange>
         <change>
-          <name/>
-          <date/>
+          <name />
+          <date />
         </change>
       </listChange>
     </revisionDesc>
@@ -205,16 +203,16 @@
       <p>Es war einmal ein alter Mann. Er hatte einen Sohn, der war Fischer.</p>
       <p>
         Einmal ging der Fischer, um Fische zu fangen. Er lief viel, aber es gelang ihm nicht, einen Fisch zu fangen. Schließlich fing er einen kleinen, aber 
-        <pb n="137"/>
-         sehr schönen Fisch. Dem Fischer tat dieser Fisch leid, und er ließ ihn wieder ins Wasser. Als er nach Hause kam, fragte der Vater: &quot;Hast du keinen Fisch gefangen?&quot;
+        <pb n="137" />
+         sehr schönen Fisch. Dem Fischer tat dieser Fisch leid, und er ließ ihn wieder ins Wasser. Als er nach Hause kam, fragte der Vater: "Hast du keinen Fisch gefangen?"
       </p>
-      <p>Der Sohn antwortete: &quot;Einen Fisch habe ich gefangen, aber er war sehr schön. Da hat er mir leid getan, und ich habe ihn wieder freigelassen.”</p>
-      <p>Der Vater verprügelte den Sohn, warf ihn aus dem Haus und sagte:&quot;Warum hast du Gottes Gnade verloren?&quot;</p>
+      <p>Der Sohn antwortete: "Einen Fisch habe ich gefangen, aber er war sehr schön. Da hat er mir leid getan, und ich habe ihn wieder freigelassen.”</p>
+      <p>Der Vater verprügelte den Sohn, warf ihn aus dem Haus und sagte:"Warum hast du Gottes Gnade verloren?"</p>
       <p>Der Fischer ging fort. Unterwegs traf er einen Schuster, und sie liefen zusammen weiter. Ihnen begegnete ein Heilkundiger. Der Fischer, der Schuster und der Heilkundige schlossen Freundschaft und gaben sich das Wort, was sie eigenhändig erwarben, untereinander zu teilen.</p>
-      <p>Zu dieser Zeit war die Tochter eines Königs krank. Der König versuchte vieles, aber nichts konnte seiner Tochter helfen. Da verkündete er: &quot;Wer meine Tochter heilt, dem will ich sie zur Frau geben.&quot;</p>
-      <p>Der Heilkundige ging hin, um die Tochter des Königs zu heilen. Als er zum König kam, schärfte er sein Schwert, trat an das Kopfende der Kranken, nahm das Schwert in die Hand und sprach: &quot;Drache, ich befehle dir,von der Kranken abzulassen, sonst werde ich dir den Kopf abschlagen.&quot;</p>
+      <p>Zu dieser Zeit war die Tochter eines Königs krank. Der König versuchte vieles, aber nichts konnte seiner Tochter helfen. Da verkündete er: "Wer meine Tochter heilt, dem will ich sie zur Frau geben."</p>
+      <p>Der Heilkundige ging hin, um die Tochter des Königs zu heilen. Als er zum König kam, schärfte er sein Schwert, trat an das Kopfende der Kranken, nahm das Schwert in die Hand und sprach: "Drache, ich befehle dir,von der Kranken abzulassen, sonst werde ich dir den Kopf abschlagen."</p>
       <p>Der Drache kroch aus dem Bauch der Kranken heraus und lief davon.</p>
-      <p>Die Königstochter genas, und der König gab sie dem Heilkundigen zur Frau. Der Heilkundige nahm die Frau, und alle drei Gefährten versammelten sich. Sie teilten, was sie erworben hatten, Der Heilkundige gab seine Frau und alles, was ihm zukam, dem Fischer und sprach: &quot;Der Fisch, der dir leid getan und den du freigelassen hast, bin ich gewesen.&quot;</p>
+      <p>Die Königstochter genas, und der König gab sie dem Heilkundigen zur Frau. Der Heilkundige nahm die Frau, und alle drei Gefährten versammelten sich. Sie teilten, was sie erworben hatten, Der Heilkundige gab seine Frau und alles, was ihm zukam, dem Fischer und sprach: "Der Fisch, der dir leid getan und den du freigelassen hast, bin ich gewesen."</p>
       <p>Als er das gesagt hatte, wurde er unsichtbar.</p>
     </body>
   </text>

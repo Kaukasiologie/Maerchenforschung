@@ -1,134 +1,177 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Tatische Folklore</title>
-      <title xml:lang="eng">Tat Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Tatische Folklore</title>
+        <title xml:lang="eng">Tat Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ttt">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-       <geo />
-      </placeName>
-      <date>1930</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Хизгиё-Эми</forename>
-        <surname xml:lang="rus">Дадашев</surname>
-       </persName>
-       <age />
-       <birth>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
         <placeName>
-         <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-         <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-         <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
-         <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
-         <geo />
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+          <geo />
         </placeName>
-        <date>1854</date>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Амалдан</forename>
-        <surname xml:lang="rus">Кукуллу</surname>
-       </persName>
-      </person>
-     </particDesc>
+        <date>1930</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Хизгиё-Эми</forename>
+            <surname xml:lang="rus">Дадашев</surname>
+          </persName>
+          <age />
+          <birth>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
+              <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
+              <geo />
+            </placeName>
+            <date>1854</date>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName />
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Амалдан</forename>
+            <surname xml:lang="rus">Кукуллу</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ttt_rus_58">
+  </teiHeader>
+  <text xml:id="cr_ttt_rus_58">
     <body>
-     <head>42. Лиса и фазан</head>
-     <p>добывать думать жила жила забыла краях курятину кусочка лиса лиса могла мяса наших неделями пищу пришла рту старость</p><p>дереве дней леса лиса сидящего увидела фазана чаще</p><p>говорит дереву лиса подошла сидел тому фазан</p><p>давай побратаемся фазан эй</p><p>браталась засмеялся лиса ответил птицей слыхано фазан это</p><p>лиса поверь предлагаю свое сердца твердит чистого</p><p>братом враг враг лиса птицам стать</p><p>верности клясться лиса могилами предков своей стала хитрая</p><p>брат братстве голод гости друзей ела жить забыла завлекал клятвам лиса лиса лиса лисы нею ночью обманом побрататься поверил раздобрела расставались сдружились сестрой согласился стали фазан фазан фазан хватала</p><p>вечером лиса однажды сказала фазану</p><p>отведать плова хочется</p><p>дом могу отвести ответил пловом угостить фазан</p><p>ближайших велел влюбленным влюбленных возле двое девушка дерева играл кустах лисе лису миска ними пела пловом повел подлетел рядом садов сидели спрятаться стояла таре тени уселся утром фазан фазан юноша</p><p>бежали вверх весь взлетел влюбленные временем вышла дальше девушка девушка дном другое красивую кустов лиса ловить место миску наевшись нему опустился перевернула перелетел плов подальше поймать полдбежали полетел попросила преследуя птицу стали съела убежала увидела фазан фазана фазана фазана юноша юношу</p><p>блеска вернулись видят временем вылизана девушка место миска миску перевернута подняли прежнее пустая юноша</p><p>говорит девушке завтра милая огорчайся придем сюда юноша</p><p>влюбленных дома здорово лисой обманули сидят смеются ушли фазан</p><p>близилось вечером время ко лиса попросила сну фазана</p><p>брат дорогой завтра отведи плова поесть</p><p>пообещал фазан</p><p>взлетел висок девушка девушке девушке дерева деревяшка запустит земли красивая кусок кустах лиса лиса место наутро опустился отправились парень плече плечо подлетел подобрал птица птицу самая самое сидит спряталась та увидел угодила умерла упала фазан фазан фазан цевушки</p><p>белу выкопал девушку долго любимой мертвого могилу оживишь плакал пор похоронил родители свету своей скитаться слезами стал телом тех убийца узнали юноша юноша</p><p>вернулась выбросила вышла домой кустов лиса лису миску несчастного овраг оставим плов расскажем спокойно съела юношу</p><p>голова дни дружбе жили кормил лисой лису лисы однажды пасти перечил почью прежнему проснулся увидел ужасом фазан фазан шли</p><p>вскричал делать дорогая лиса собираешься фазан</p><p>лиса отвечает собираюсь съесть</p><p>лису пощаде просить сказал слушать стал фазан хочет</p><p>взгляну вспомни ешь миг отпусти сделал</p><p>взлетел выдержала дереве лиса отпустила уселся фазана</p><p>говорит дереву лиса подбежала хитрая</p><p>брат дорогой накажи наш покидай разрывай союз</p><p>будем вершины выслушал говорю гонят гор дорог друзьями иди кустах лисы немного посиди предложил развилке сделаешь слова снова солнце спрячься стадо сядет фазан</p><p>заснула кустах лиса место побежала спряталась</p><p>бежать бросились вершины вечер гор горы заметили зашло кустах лай лес лиса лиса лиса лису лису наступил нору оторвали отстают прибежала пустилась собак собаки собаки собаки солнце спрятать спускаться стадо стали стало схватили туда тянули тянули тянуть увидела услышала успела хвост хвост хвост чью шмыгнула</p><p>боялась вслед вылезти добро добром долго думала ка лиса напрасно норы плакала платить пойду поступила простит решила собаки стадом убежали фазаном фазану</p><p>вылезла дому заковыляла норы</p><p>видел временем дереве лисой сидел случилось фазан</p><p>видит дереве добралась дому лиса сидит смеется фазан</p><p>дела лиса оторвали плачешь собаки хвост</p><p>братец буду всем горе лиса лисам мной мое обещаю отвечает ох послужит прежде проучил пусть расскажу свете случилось тебе</p><p>братец всем давай дружить лиса отвечает просит раньше расскажи расскажи смеется снова уроком фазан фазан</p><p>бывать врагу другом другом забуду знал лиса могилами негодница обрек отплатила отсюда поверил пока поклялась предков птиц растерзали своих скитания собаки ступай тебе убил цевушку это эх юношу</p><p>го злодейка лес лиса лоду старая умирать ушла</p></body>
-   </text>
-  </TEI>
+      <head>42. Лиса и фазан</head>
+      <p>добывать думать жила жила забыла краях курятину кусочка лиса лиса могла мяса наших неделями пищу пришла рту старость</p>
+      <p>дереве дней леса лиса сидящего увидела фазана чаще</p>
+      <p>говорит дереву лиса подошла сидел тому фазан</p>
+      <p>давай побратаемся фазан эй</p>
+      <p>браталась засмеялся лиса ответил птицей слыхано фазан это</p>
+      <p>лиса поверь предлагаю свое сердца твердит чистого</p>
+      <p>братом враг враг лиса птицам стать</p>
+      <p>верности клясться лиса могилами предков своей стала хитрая</p>
+      <p>брат братстве голод гости друзей ела жить забыла завлекал клятвам лиса лиса лиса лисы нею ночью обманом побрататься поверил раздобрела расставались сдружились сестрой согласился стали фазан фазан фазан хватала</p>
+      <p>вечером лиса однажды сказала фазану</p>
+      <p>отведать плова хочется</p>
+      <p>дом могу отвести ответил пловом угостить фазан</p>
+      <p>ближайших велел влюбленным влюбленных возле двое девушка дерева играл кустах лисе лису миска ними пела пловом повел подлетел рядом садов сидели спрятаться стояла таре тени уселся утром фазан фазан юноша</p>
+      <p>бежали вверх весь взлетел влюбленные временем вышла дальше девушка девушка дном другое красивую кустов лиса ловить место миску наевшись нему опустился перевернула перелетел плов подальше поймать полдбежали полетел попросила преследуя птицу стали съела убежала увидела фазан фазана фазана фазана юноша юношу</p>
+      <p>блеска вернулись видят временем вылизана девушка место миска миску перевернута подняли прежнее пустая юноша</p>
+      <p>говорит девушке завтра милая огорчайся придем сюда юноша</p>
+      <p>влюбленных дома здорово лисой обманули сидят смеются ушли фазан</p>
+      <p>близилось вечером время ко лиса попросила сну фазана</p>
+      <p>брат дорогой завтра отведи плова поесть</p>
+      <p>пообещал фазан</p>
+      <p>взлетел висок девушка девушке девушке дерева деревяшка запустит земли красивая кусок кустах лиса лиса место наутро опустился отправились парень плече плечо подлетел подобрал птица птицу самая самое сидит спряталась та увидел угодила умерла упала фазан фазан фазан цевушки</p>
+      <p>белу выкопал девушку долго любимой мертвого могилу оживишь плакал пор похоронил родители свету своей скитаться слезами стал телом тех убийца узнали юноша юноша</p>
+      <p>вернулась выбросила вышла домой кустов лиса лису миску несчастного овраг оставим плов расскажем спокойно съела юношу</p>
+      <p>голова дни дружбе жили кормил лисой лису лисы однажды пасти перечил почью прежнему проснулся увидел ужасом фазан фазан шли</p>
+      <p>вскричал делать дорогая лиса собираешься фазан</p>
+      <p>лиса отвечает собираюсь съесть</p>
+      <p>лису пощаде просить сказал слушать стал фазан хочет</p>
+      <p>взгляну вспомни ешь миг отпусти сделал</p>
+      <p>взлетел выдержала дереве лиса отпустила уселся фазана</p>
+      <p>говорит дереву лиса подбежала хитрая</p>
+      <p>брат дорогой накажи наш покидай разрывай союз</p>
+      <p>будем вершины выслушал говорю гонят гор дорог друзьями иди кустах лисы немного посиди предложил развилке сделаешь слова снова солнце спрячься стадо сядет фазан</p>
+      <p>заснула кустах лиса место побежала спряталась</p>
+      <p>бежать бросились вершины вечер гор горы заметили зашло кустах лай лес лиса лиса лиса лису лису наступил нору оторвали отстают прибежала пустилась собак собаки собаки собаки солнце спрятать спускаться стадо стали стало схватили туда тянули тянули тянуть увидела услышала успела хвост хвост хвост чью шмыгнула</p>
+      <p>боялась вслед вылезти добро добром долго думала ка лиса напрасно норы плакала платить пойду поступила простит решила собаки стадом убежали фазаном фазану</p>
+      <p>вылезла дому заковыляла норы</p>
+      <p>видел временем дереве лисой сидел случилось фазан</p>
+      <p>видит дереве добралась дому лиса сидит смеется фазан</p>
+      <p>дела лиса оторвали плачешь собаки хвост</p>
+      <p>братец буду всем горе лиса лисам мной мое обещаю отвечает ох послужит прежде проучил пусть расскажу свете случилось тебе</p>
+      <p>братец всем давай дружить лиса отвечает просит раньше расскажи расскажи смеется снова уроком фазан фазан</p>
+      <p>бывать врагу другом другом забуду знал лиса могилами негодница обрек отплатила отсюда поверил пока поклялась предков птиц растерзали своих скитания собаки ступай тебе убил цевушку это эх юношу</p>
+      <p>го злодейка лес лиса лоду старая умирать ушла</p>
+    </body>
+  </text>
+</TEI>

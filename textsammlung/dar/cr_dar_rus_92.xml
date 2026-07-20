@@ -1,124 +1,165 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>ф 9, on. 1, д № 6</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>ф 9, on. 1, д № 6</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1936</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Джумы</forename>
-        <surname xml:lang="rus">Магомедкизи</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А.</forename>
-        <surname xml:lang="rus">Алиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo />
+        </placeName>
+        <date>1936</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Джумы</forename>
+            <surname xml:lang="rus">Магомедкизи</surname>
+          </persName>
+          <age />
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А.</forename>
+            <surname xml:lang="rus">Алиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName />
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_92">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_92">
     <body>
-     <head>70. Пастух и ханская дочь </head>
-     <p>год горе жеребенок жизнь кобылиц кобылицами наступил обратился ожеребились пастух пастуху прожил своими словами сорок сорока такими</p><p>выпить дай жеребят зарежь кобылиц молоко твоих</p><p>жеребенка исполнил пастух просьбу удивился</p><p /><p>год год год жеребенка жеребеночек жеребят кобылиц обратился пастух пастуху повторилось послушался прежней примесли просьбой рассердился следующий снова согласился сорок сорок третий четвертый</p><p>желание жеребенок землею исполнил конюшню пастух попросил поставить сделать туда это</p><p>владениях возвращались время далекой девушку добраться дороге дочь другие другого жил которого многих мог моря никто одни океаны пастух погибали полюбил посылал сватать страны страны ту хан хан хана хана чужой это</p><p>однажды приближенных своих спросил хан</p><p>дочерью ездил моих остался подданных ханской</p><p>горе живет который остался ответили пастух</p><p>нему привели распорядился хан человека</p><p>велел городу громко дворец день жил заржал клячу конь конь конь конюшню коня люди ответить па пастух пастух пастух пастуху подземную подъезжал поехал посланные посланцам пошел преобразился придет пришли сделал сел сказал требует хан хан ханом хану хозяину</p><p>допустили начали пастухом приближенные смеяться хана хану</p><p>вид выехал города конь пастух прежний принял сказал</p><p>буду держись крепко морям невесту океанам поедем привезем путь седле скакать страну тронулись хану чужую</p><p>воде воздухе доехали заметил конь конь летел моря моря н нога одна остальные пастух скакал стрелою</p><p>воде дать кобылиц конь которая молоко ногу пастуху пожалел посмотрев сказал сорока</p><p>владетельного высокий дворе дворец дворца добрался забор конь коня кунака очутился пастух пастух перескочил пошел приветствовал привязав прямо смелого спросил старого хан хана</p><p>добрался моей приехал страны</p><p>пастух рассказал сказал хану</p><p>видел дочери моей полюбил просит руки страны твоей хан</p><p>вместе выдать город горы долины дочь жил замуж захочет красавицей мигом моря немного пастух подумав прибыли пролетели сама сною согласился страну уехал хан хан</p><p>городу дворцу клячу ко конь красавицу отняв пастух пастуха подходил преобразился приближенные приблизившись провели прогнали хана хану</p><p>поехал своему спорить стал табуну</p><p>делать знал радости хан</p><p>воскликнул невесту привез</p><p>ответил приближенных хана</p><p>день назначил невесте ответила свадьбы сказал хан</p><p>ванну выйду выкупаться должен желание закипит заключу замуж золотую исполнишь кебин мое моего молоко молоком наполните нем огонь отца поставьте привезите тобой хан</p><p>ванной золотой искать никто отправиться охотников пастуха поехать приближенные пришлось просить пустили путь стал трудный хан хану хотел хотел явиться</p><p>ванной всезнайка звал золотой конь пастух поехал своему сказал хан хозяину</p><p>ванной ванну вернулся догадавшись дочери затея золотую люди отдал отняли пастух пастуха передали старый хан хана хану это</p><p>ванну закипело красавица молоко молоком наполнить огонь попросила поставить предложила хану</p><p>выкупайся</p><p>ванну дороге кипящее лезть лошади молоко нашлось обратиться окунулся пастуху первым поехал пришлось решался своей своему сказала смельчака такого хан хану хозяину хотел</p><p>ванны золотой краю полезай привяжи туда услышишь фыркну</p><p>быстро ванну выкупался закипело зафыркала лезть лошадь молоко молоко одевался пастух пастух пока приготовился разделся сразу стало холодным</p><p>выкупался пастух подавно решил смогу хан</p><p>окунуться умер успел</p><p>известным пастух пор стал стране тех человеком</p><p>вышла замуж красавица л</p></body>
-   </text>
-  </TEI>
+      <head>70. Пастух и ханская дочь </head>
+      <p>год горе жеребенок жизнь кобылиц кобылицами наступил обратился ожеребились пастух пастуху прожил своими словами сорок сорока такими</p>
+      <p>выпить дай жеребят зарежь кобылиц молоко твоих</p>
+      <p>жеребенка исполнил пастух просьбу удивился</p>
+      <p />
+      <p>год год год жеребенка жеребеночек жеребят кобылиц обратился пастух пастуху повторилось послушался прежней примесли просьбой рассердился следующий снова согласился сорок сорок третий четвертый</p>
+      <p>желание жеребенок землею исполнил конюшню пастух попросил поставить сделать туда это</p>
+      <p>владениях возвращались время далекой девушку добраться дороге дочь другие другого жил которого многих мог моря никто одни океаны пастух погибали полюбил посылал сватать страны страны ту хан хан хана хана чужой это</p>
+      <p>однажды приближенных своих спросил хан</p>
+      <p>дочерью ездил моих остался подданных ханской</p>
+      <p>горе живет который остался ответили пастух</p>
+      <p>нему привели распорядился хан человека</p>
+      <p>велел городу громко дворец день жил заржал клячу конь конь конь конюшню коня люди ответить па пастух пастух пастух пастуху подземную подъезжал поехал посланные посланцам пошел преобразился придет пришли сделал сел сказал требует хан хан ханом хану хозяину</p>
+      <p>допустили начали пастухом приближенные смеяться хана хану</p>
+      <p>вид выехал города конь пастух прежний принял сказал</p>
+      <p>буду держись крепко морям невесту океанам поедем привезем путь седле скакать страну тронулись хану чужую</p>
+      <p>воде воздухе доехали заметил конь конь летел моря моря н нога одна остальные пастух скакал стрелою</p>
+      <p>воде дать кобылиц конь которая молоко ногу пастуху пожалел посмотрев сказал сорока</p>
+      <p>владетельного высокий дворе дворец дворца добрался забор конь коня кунака очутился пастух пастух перескочил пошел приветствовал привязав прямо смелого спросил старого хан хана</p>
+      <p>добрался моей приехал страны</p>
+      <p>пастух рассказал сказал хану</p>
+      <p>видел дочери моей полюбил просит руки страны твоей хан</p>
+      <p>вместе выдать город горы долины дочь жил замуж захочет красавицей мигом моря немного пастух подумав прибыли пролетели сама сною согласился страну уехал хан хан</p>
+      <p>городу дворцу клячу ко конь красавицу отняв пастух пастуха подходил преобразился приближенные приблизившись провели прогнали хана хану</p>
+      <p>поехал своему спорить стал табуну</p>
+      <p>делать знал радости хан</p>
+      <p>воскликнул невесту привез</p>
+      <p>ответил приближенных хана</p>
+      <p>день назначил невесте ответила свадьбы сказал хан</p>
+      <p>ванну выйду выкупаться должен желание закипит заключу замуж золотую исполнишь кебин мое моего молоко молоком наполните нем огонь отца поставьте привезите тобой хан</p>
+      <p>ванной золотой искать никто отправиться охотников пастуха поехать приближенные пришлось просить пустили путь стал трудный хан хану хотел хотел явиться</p>
+      <p>ванной всезнайка звал золотой конь пастух поехал своему сказал хан хозяину</p>
+      <p>ванной ванну вернулся догадавшись дочери затея золотую люди отдал отняли пастух пастуха передали старый хан хана хану это</p>
+      <p>ванну закипело красавица молоко молоком наполнить огонь попросила поставить предложила хану</p>
+      <p>выкупайся</p>
+      <p>ванну дороге кипящее лезть лошади молоко нашлось обратиться окунулся пастуху первым поехал пришлось решался своей своему сказала смельчака такого хан хану хозяину хотел</p>
+      <p>ванны золотой краю полезай привяжи туда услышишь фыркну</p>
+      <p>быстро ванну выкупался закипело зафыркала лезть лошадь молоко молоко одевался пастух пастух пока приготовился разделся сразу стало холодным</p>
+      <p>выкупался пастух подавно решил смогу хан</p>
+      <p>окунуться умер успел</p>
+      <p>известным пастух пор стал стране тех человеком</p>
+      <p>вышла замуж красавица л</p>
+    </body>
+  </text>
+</TEI>

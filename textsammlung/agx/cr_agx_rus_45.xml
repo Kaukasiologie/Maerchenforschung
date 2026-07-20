@@ -1,126 +1,144 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Agulische Folklore</title>
-      <title xml:lang="eng">Agul Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="kat">ალ. მაჰომეტოვი, აღულური ენა (გამოკვლევა და ტექსტები)</title>
-        <title xml:lang="rus">А.А. Магометов, Агульский язкык (Исследование и тексты)</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1970</publisher>
-        <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1970, стр. 217-219.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Agulische Folklore</title>
+        <title xml:lang="eng">Agul Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="kat">ალ. მაჰომეტოვი, აღულური ენა (გამოკვლევა და ტექსტები)</title>
+            <title xml:lang="rus">А.А. Магометов, Агульский язкык (Исследование и тексты)</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="kat">საქართველოს მეცნიერებათა აკადემია. ენათმეცნიერების ინსტიტუტი. გამომცემლობა "მეცნიერება". თბილისი, 1970</publisher>
+            <publisher xml:lang="rus">АН Грузии. Институт Язикоснания. Издательство "Мецниереба". Тбилиси, 1970, стр. 217-219.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="agx">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement ref="https://www.geonames.org/499946/richa.html">Richa</settlement>
-       <geo />
-      </placeName>
-      <date>1955</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Сариджат</forename>
-        <surname xml:lang="rus">Амиргамзайева</surname>
-       </persName>
-       <age>25</age>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А.А.</forename>
-        <surname xml:lang="rus">Магометов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district />
+          <settlement ref="https://www.geonames.org/499946/richa.html">Richa</settlement>
+          <geo />
+        </placeName>
+        <date>1955</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Сариджат</forename>
+            <surname xml:lang="rus">Амиргамзайева</surname>
+          </persName>
+          <age>25</age>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А.А.</forename>
+            <surname xml:lang="rus">Магометов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName />
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_agx_rus_45">
+  </teiHeader>
+  <text xml:id="cr_agx_rus_45">
     <body>
-     <head>МОЛЛА-НАСРЕДДИН</head>
-     <p>говорят говорят молла насреддин</p><p>говорят звонок козу козу козы лоб осла осла па пошел привязал привязал продавать сел хвосту</p><p>втроем едущего сговорились товарища увидели</p><p>дадите дадите дадите козла молла насреддина одежду осла оставшийся отниму пе сказал сказал сказал сниму товарищ товарищ узнает украду</p><p>звонок козой козу красть лбу находившийся обратно осла первый пошел пошел привязал сняв товарищ хвосту</p><p>богу встал второй детям добрый дороге зерно злаки идешь иду идущий козу козу купить молл молла насреддин насреддин пошел продавать продавать пусть путь тебе товарищ хлебные эй</p><p>видишь второй второй зазвенел звонок коза козы молла насреддин находящийся осла ослоп покажи сказал сказал сказал спросил твоя товарищ товарищ хвосте</p><p>звонок козы молла назад насреддин осла осла остался повернувшись посмотрел привязанный хвостом хвосту</p><p>ах вернусь козу молла насреддин осла ослом осталась оторвавшись подержи поискав пока сказал сказал товарищ убежал</p><p>вернулся месте молла назад насреддин осел осла остался па своем</p><p>воде воду водя вырыв далеко налил плача пойдя рукой сидел товарищ третий яму яму</p><p>богу вновь вожу войти вынуть вытащившему дам делаешь десятку десять золото золото золото золотую могу мое молла монету найти написанное насреддин поздоровавшись придя рукой сказал смог товарищ товарищ упало это яму яму</p><p>вытащу дашь ди ед лишний н п р сказал хмолл</p><p>влез водой вынь дам золото искать лишний молла насреддин одеждой одежду оставив сказал сняв тебе товарищ товарищ товарища третий убежал яму</p><p>голову золота молла насреддин никого осталось поднял сказав</p><p>вернулся встречных дом колотя лесу молла насреддин палкой палку пошел свой сказав срубил той украдут</p><p>говоря детям дома жена купленный отругала твой хлеб</p><p>возвратился оставив ругавшихся сюда</p></body>
-   </text>
-  </TEI>
+      <head>МОЛЛА-НАСРЕДДИН</head>
+      <p>говорят говорят молла насреддин</p>
+      <p>говорят звонок козу козу козы лоб осла осла па пошел привязал привязал продавать сел хвосту</p>
+      <p>втроем едущего сговорились товарища увидели</p>
+      <p>дадите дадите дадите козла молла насреддина одежду осла оставшийся отниму пе сказал сказал сказал сниму товарищ товарищ узнает украду</p>
+      <p>звонок козой козу красть лбу находившийся обратно осла первый пошел пошел привязал сняв товарищ хвосту</p>
+      <p>богу встал второй детям добрый дороге зерно злаки идешь иду идущий козу козу купить молл молла насреддин насреддин пошел продавать продавать пусть путь тебе товарищ хлебные эй</p>
+      <p>видишь второй второй зазвенел звонок коза козы молла насреддин находящийся осла ослоп покажи сказал сказал сказал спросил твоя товарищ товарищ хвосте</p>
+      <p>звонок козы молла назад насреддин осла осла остался повернувшись посмотрел привязанный хвостом хвосту</p>
+      <p>ах вернусь козу молла насреддин осла ослом осталась оторвавшись подержи поискав пока сказал сказал товарищ убежал</p>
+      <p>вернулся месте молла назад насреддин осел осла остался па своем</p>
+      <p>воде воду водя вырыв далеко налил плача пойдя рукой сидел товарищ третий яму яму</p>
+      <p>богу вновь вожу войти вынуть вытащившему дам делаешь десятку десять золото золото золото золотую могу мое молла монету найти написанное насреддин поздоровавшись придя рукой сказал смог товарищ товарищ упало это яму яму</p>
+      <p>вытащу дашь ди ед лишний н п р сказал хмолл</p>
+      <p>влез водой вынь дам золото искать лишний молла насреддин одеждой одежду оставив сказал сняв тебе товарищ товарищ товарища третий убежал яму</p>
+      <p>голову золота молла насреддин никого осталось поднял сказав</p>
+      <p>вернулся встречных дом колотя лесу молла насреддин палкой палку пошел свой сказав срубил той украдут</p>
+      <p>говоря детям дома жена купленный отругала твой хлеб</p>
+      <p>возвратился оставив ругавшихся сюда</p>
+    </body>
+  </text>
+</TEI>

@@ -1,137 +1,181 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Tatische Folklore</title>
-      <title xml:lang="eng">Tat Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Tatische Folklore</title>
+        <title xml:lang="eng">Tat Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ttt">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-       <geo />
-      </placeName>
-      <date>1965</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Борис</forename>
-        <surname xml:lang="rus">Гаврилов</surname>
-       </persName>
-       <age />
-       <birth>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
         <placeName>
-         <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-         <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-         <district />
-         <settlement ref="https://www.geonames.org/540081/kuba.html">Kuba</settlement>
-         <geo />
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+          <geo />
         </placeName>
-        <date>1908</date>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Амалдан</forename>
-        <surname xml:lang="rus">Кукуллу</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Амалдан</forename>
-        <surname xml:lang="rus">Кукуллу</surname>
-       </persName>
-      </person>
-     </particDesc>
+        <date>1965</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Борис</forename>
+            <surname xml:lang="rus">Гаврилов</surname>
+          </persName>
+          <age />
+          <birth>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district />
+              <settlement ref="https://www.geonames.org/540081/kuba.html">Kuba</settlement>
+              <geo />
+            </placeName>
+            <date>1908</date>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Амалдан</forename>
+            <surname xml:lang="rus">Кукуллу</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Амалдан</forename>
+            <surname xml:lang="rus">Кукуллу</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ttt_rus_62">
+  </teiHeader>
+  <text xml:id="cr_ttt_rus_62">
     <body>
-     <head>46. Глупый волк</head>
-     <p>волк глуп жил нем сказку сложили</p><p>аулу большую вела вечером волк волк голодный добыче дорогу думал костью кричит лесом обрадовался осел ослу падалью повстречался поживиться шел шел</p><p>осел съем эй</p><p>осел отвечает</p><p>вечером волк глупый голодный днем едят желудок жизнь знаешь мясо надоела ослиное ослятины отведает тебе умрет утрам</p><p>волк осел спрашивает</p><p>говорит осел подумал подумал</p><p>домой пойду посплю приду рано съешь утра утром</p><p>буду дожидаться ладно пораньше приходи проспи смотри ступай</p><p>аул возвращения волк волк губ дожидаться дороге ест жир льется мясо ночь осел осла ослиное ослиное остался побежал повернулся приснилось прокричал раза свое спал уснул</p><p>вкусно волк закричал проснулся сне</p><p>видит волк встает думает поем солнце сытно утро</p><p>волк ждет ждет идет ие осел осел осла появляется припекать смотрит солнцестало стоит сторонам</p><p>волк волк делать дорогой нечего обманул осел понял пошел рассердился своей</p><p>бродил весь волк волк голодный день думал злой лесу н никто ночь обманет попадись съем</p><p>волк волку добыча козленок лужайке обрадовался повстречался пощипывал рассветом траву</p><p>закричал козленок съем эй</p><p>вкус всласть ешь живу кислой козленок козлятиной лапах моем мясе недалеко ответил позволь полакомиться приправой приправы сбегать твоих хочешь чеснока</p><p>беги беду блюда богом быстрее вкуснее волк голову знаю мучные мясные обратно обрушу посланную правда придешь приправой смотри согласился твою туда</p><p>козленок мигом сказал таков</p><p>бог волк волк волк дай дальше дождался думает ждал ждал заскрипел злости зубами козленку надул опозорят осел побрел поверил стал умнее услышит</p><p>берегу долго дорога знает моря привела шел</p><p>берега буйвол видит воде волк грязной лежит луже неподалеку подошел</p><p>буйвол волк выходи издали крикнул луже побежал съем эй</p><p>буйвол волку вышел зстал лужи отвечает</p><p>будешь вель веёсь глупее грязи думал оказывается свете сыскать умен</p><p>буйвол валлах верно волк говорит подумал сказал</p><p>быстро грязь море полезай смой</p><p>буйвол вбежал воду мигом ответил</p><p>буйвол буйвола волк выдержал ждет закричал лапы море нараскаленном обжигает песке плескаться стал стоит</p><p>выходи плескаться съем таким тебе хватит</p><p>ах берегу буйвол воды глупец дождешься ждать можешь ответил равно самой своей смерти</p><p>воду волк полез разозлился</p><p>берег берегу боится воде волк волна выскочил дальше идти испугался несколько подкатывается прошел шагов</p><p>буйвола буйвола волк выходить голову град ждать обрушил поплелся проклятий прочь рассердился собирается стал</p><p>бродил волк дня добычи дорог задумался исходил краю леса лесу ночи обессилел опустился поисках раздобыл траву тропинок</p><p>бежал волк дороге конь очутился подскочил прямо радости</p><p>волк конем конь крикнул побежал уйдешь эй</p><p>волка конь остановился просит</p><p>волк дорогой знаю исполни мою последнюю просьбу растерзаешь</p><p>выкладывай поскорее</p><p>взгляни год день здоровье конь копыте копыто лет мое моего моем можешь написал начал отец па подсчитать покойный последняя прожил просьба прошу родился рождения скажи сколько смертью хочу это</p><p>волк копыто ладно показывай свое согласился</p><p>волк волк волка время встал задню искать конь конь лягнет морду надпись наклонился ногу поднял подошел самое свалился стал это</p></body>
-   </text>
-  </TEI>
+      <head>46. Глупый волк</head>
+      <p>волк глуп жил нем сказку сложили</p>
+      <p>аулу большую вела вечером волк волк голодный добыче дорогу думал костью кричит лесом обрадовался осел ослу падалью повстречался поживиться шел шел</p>
+      <p>осел съем эй</p>
+      <p>осел отвечает</p>
+      <p>вечером волк глупый голодный днем едят желудок жизнь знаешь мясо надоела ослиное ослятины отведает тебе умрет утрам</p>
+      <p>волк осел спрашивает</p>
+      <p>говорит осел подумал подумал</p>
+      <p>домой пойду посплю приду рано съешь утра утром</p>
+      <p>буду дожидаться ладно пораньше приходи проспи смотри ступай</p>
+      <p>аул возвращения волк волк губ дожидаться дороге ест жир льется мясо ночь осел осла ослиное ослиное остался побежал повернулся приснилось прокричал раза свое спал уснул</p>
+      <p>вкусно волк закричал проснулся сне</p>
+      <p>видит волк встает думает поем солнце сытно утро</p>
+      <p>волк ждет ждет идет ие осел осел осла появляется припекать смотрит солнцестало стоит сторонам</p>
+      <p>волк волк делать дорогой нечего обманул осел понял пошел рассердился своей</p>
+      <p>бродил весь волк волк голодный день думал злой лесу н никто ночь обманет попадись съем</p>
+      <p>волк волку добыча козленок лужайке обрадовался повстречался пощипывал рассветом траву</p>
+      <p>закричал козленок съем эй</p>
+      <p>вкус всласть ешь живу кислой козленок козлятиной лапах моем мясе недалеко ответил позволь полакомиться приправой приправы сбегать твоих хочешь чеснока</p>
+      <p>беги беду блюда богом быстрее вкуснее волк голову знаю мучные мясные обратно обрушу посланную правда придешь приправой смотри согласился твою туда</p>
+      <p>козленок мигом сказал таков</p>
+      <p>бог волк волк волк дай дальше дождался думает ждал ждал заскрипел злости зубами козленку надул опозорят осел побрел поверил стал умнее услышит</p>
+      <p>берегу долго дорога знает моря привела шел</p>
+      <p>берега буйвол видит воде волк грязной лежит луже неподалеку подошел</p>
+      <p>буйвол волк выходи издали крикнул луже побежал съем эй</p>
+      <p>буйвол волку вышел зстал лужи отвечает</p>
+      <p>будешь вель веёсь глупее грязи думал оказывается свете сыскать умен</p>
+      <p>буйвол валлах верно волк говорит подумал сказал</p>
+      <p>быстро грязь море полезай смой</p>
+      <p>буйвол вбежал воду мигом ответил</p>
+      <p>буйвол буйвола волк выдержал ждет закричал лапы море нараскаленном обжигает песке плескаться стал стоит</p>
+      <p>выходи плескаться съем таким тебе хватит</p>
+      <p>ах берегу буйвол воды глупец дождешься ждать можешь ответил равно самой своей смерти</p>
+      <p>воду волк полез разозлился</p>
+      <p>берег берегу боится воде волк волна выскочил дальше идти испугался несколько подкатывается прошел шагов</p>
+      <p>буйвола буйвола волк выходить голову град ждать обрушил поплелся проклятий прочь рассердился собирается стал</p>
+      <p>бродил волк дня добычи дорог задумался исходил краю леса лесу ночи обессилел опустился поисках раздобыл траву тропинок</p>
+      <p>бежал волк дороге конь очутился подскочил прямо радости</p>
+      <p>волк конем конь крикнул побежал уйдешь эй</p>
+      <p>волка конь остановился просит</p>
+      <p>волк дорогой знаю исполни мою последнюю просьбу растерзаешь</p>
+      <p>выкладывай поскорее</p>
+      <p>взгляни год день здоровье конь копыте копыто лет мое моего моем можешь написал начал отец па подсчитать покойный последняя прожил просьба прошу родился рождения скажи сколько смертью хочу это</p>
+      <p>волк копыто ладно показывай свое согласился</p>
+      <p>волк волк волка время встал задню искать конь конь лягнет морду надпись наклонился ногу поднял подошел самое свалился стал это</p>
+    </body>
+  </text>
+</TEI>

@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xmlns="http://www.tei-c.org/ns/1.0" xml:id="tg900" n="/Literatur/M/Bartsch, Karl/Märchen und Sagen/Sagen, Märchen und Gebräuche aus Meklenburg/Erster Band: Sagen und Märchen/Märchen und Legenden/22. Der Freiersmann">
-    <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="tg900" n="/Literatur/M/Bartsch, Karl/Märchen und Sagen/Sagen, Märchen und Gebräuche aus Meklenburg/Erster Band: Sagen und Märchen/Märchen und Legenden/22. Der Freiersmann">
+    <teiHeader>
       <fileDesc>
         <titleStmt>
           <title>22. Der Freiersmann</title>
@@ -36,7 +36,7 @@
             </titleStmt>
             <extent>515-</extent>
             <publicationStmt>
-              <date notBefore="1879" notAfter="1880"/>
+              <date notBefore="1879" notAfter="1880" />
               <pubPlace>Wien</pubPlace>
             </publicationStmt>
           </biblFull>
@@ -44,7 +44,7 @@
       </fileDesc>
       <profileDesc>
         <creation>
-          <date notBefore="1832" notAfter="1880"/>
+          <date notBefore="1832" notAfter="1880" />
         </creation>
         <textClass>
           <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
@@ -58,9 +58,9 @@
         <div type="text" xml:id="tg900.2">
           <div type="h4">
             <head type="h4" xml:id="tg900.2.1">22. Der Freiersmann.</head>
-            <p xml:id="tg900.2.2">Ein Freier warb um ein Mädchen. Das Mädchen ward in den Keller geschickt, um Bier zu holen. Auf der Treppe bemerkt sie <pb n="515" xml:id="tg900.2.2.1"/>
+            <p xml:id="tg900.2.2">Ein Freier warb um ein Mädchen. Das Mädchen ward in den Keller geschickt, um Bier zu holen. Auf der Treppe bemerkt sie <pb n="515" xml:id="tg900.2.2.1" />
 über sich eine Axt, geräth darüber in Nachdenken und läßt das Bier in den Keller laufen. Der Mutter, die ihr nachgelaufen und um den Grund des Säumens fragt, antwortet sie:</p>
-            <lb xml:id="tg900.2.3"/>
+            <lb xml:id="tg900.2.3" />
             <closer>
               <seg type="closer" xml:id="tg900.2.4">
                 <seg rend="zenoTXFontsize80" xml:id="tg900.2.4.1">›Jk sitt un denk,</seg>
@@ -87,7 +87,7 @@
                 <seg rend="zenoTXFontsize80" xml:id="tg900.2.11.1">wat künn dat förn grot Hartleed warrn!‹</seg>
               </seg>
             </closer>
-            <lb xml:id="tg900.2.12"/>
+            <lb xml:id="tg900.2.12" />
             <closer>
               <seg type="closer" rend="zenoPLm4n0" xml:id="tg900.2.13">
                 <seg rend="zenoTXFontsize80" xml:id="tg900.2.13.1">E.H.H. Schmidt.</seg>

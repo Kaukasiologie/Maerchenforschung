@@ -1,130 +1,165 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Nogaische Folklore</title>
-      <title xml:lang="eng">Nogai Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Ногайские народные сказки</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Nogaische Folklore</title>
+        <title xml:lang="eng">Nogai Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="nog">Ногай эртегилер.</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 118–120.</publisher>
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Ногайские народные сказки</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="nog">Ногай эртегилер.</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 118–120.</publisher>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="nog">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
-       <district />
-       <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
-       <geo />
-      </placeName>
-      <date>1959</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Б.</forename>
-        <surname xml:lang="rus">Канглиева</surname>
-       </persName>
-       <age />
-       <birth>
-        <date>1893</date>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/552927/karachayevo-cherkesiya.html">Karachayevo-Cherkesiya</region>
+          <district />
+          <settlement ref="https://www.geonames.org/563436/erken-khalk.html">Erken-Khalk</settlement>
+          <geo />
+        </placeName>
+        <date>1959</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Б.</forename>
+            <surname xml:lang="rus">Канглиева</surname>
+          </persName>
+          <age />
+          <birth>
+            <date>1893</date>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_nog_rus_42">
+  </teiHeader>
+  <text xml:id="cr_nog_rus_42">
     <body>
-     <head>35. Старик Женали </head>
-     <p>богатый времена встает давние давние дочь жил кадием камне колдуном льду просо пшеница росла скворец солнце стороне той хан ханская</p><p>годовой дней жеребец заржал кобылиц писал получил послание приплод соседнего твоих хан хана</p><p>богат вазиров впереди вышел годовой жалко женали жителей знает имени обратился ответить отдавать поклоном послание приплод своих слуг собравшихся совета созвал спрашивает среди старейших старик хан хан ханства хану это</p><p>будут дай каждого лошадей люди могу моих обидчику отправиться переметная послушны пусть пусть сорок сорок спутников сума твоему хан человек</p><p>всадников выполнил дал женали наставление отправить путь такое условия хан</p><p>ваша голова должны желали иначе каждому послушны сабля слову</p><p>верблюда взял всадников женали ишака козла которых кроме одного одного одного переметные собой сорока сумы</p><p>владениям всадникам дней долгого женали ночей приблизились прошло пути своими сказал спутниками старик хана хитрого</p><p>владениям всадникам дней долгого женали ночей приблизились прошло пути своими сказал спутниками старик хана хитрого</p><p>владениях должны каждый камнями наполнит перебить переметную пусть собак суму хана</p><p>весть всадников выполнили дошла женали земле перебили повелел приказ разгневался самого собак сорок хан хана хана</p><p>большого приведите самого</p><p>женали передал повеление посланный прискакал хана хана</p><p>верблюда женали который пасся поблизости сказал спокойно указал</p><p>большой самый</p><p>верблюда закричал посланный привел рассвирепел хан хану</p><p>большого бородатого верблюда приведите самого сказал</p><p>вернулся говорит женали женали козла передал посланный слова указал хана</p><p>бородатый веди хану</p><p>козла неистовство пришел увидев хан</p><p>безмозглой бородатого бородатого говорить козла которым поговорить приведи сказал скотиной</p><p>говорит женали посланный прискакал</p><p>бородатого которым поговорить просит такого хан</p><p>вокруг говорит женали нужен около поймешь сказал сразу хану</p><p>женали предстал ханом</p><p>владениях всадники моих перебили собак спрашивает твои хан</p><p>волки восходит живет зарезали овец подняли почему собаки солнце стороне твои той тревоги хана</p><p>волки должны другом зарезали земли конце мои овец отвечать собаки удивляется хан чьих</p><p>весь должен другом женали жеребец заржал земли кобылиц конце наш отдать приплод своих спрашивает хан чей</p><p>взглянула говорит женали нашел ответить слова хан ханша</p><p>времени глаз дорогой завтра конем наденешь одеждой откроет приедешь приезжай пусть пусть пусть путь свой солнце сюда твой умен</p><p>глаз дому дороги женали женали завернулся ишака обочине открыло очень пока поняли поражение приехал признали рогожу свое свой сел следующее солнце умен утро хан хана ханша</p><p>говорят женали кобылиц оставит передай пошутили приплод просто пусть своему своих хану</p><p>бурдюк бурдюков вместе всадниками домой женали женали живым золота золотом наполненный невредимым отправили подарил подарили приехал рассказал своему сорок сорока хан хан хану ханшей</p><p>бедняк довольстве женали зажил разбогател счастье</p></body>
-   </text>
-  </TEI>
+      <head>35. Старик Женали </head>
+      <p>богатый времена встает давние давние дочь жил кадием камне колдуном льду просо пшеница росла скворец солнце стороне той хан ханская</p>
+      <p>годовой дней жеребец заржал кобылиц писал получил послание приплод соседнего твоих хан хана</p>
+      <p>богат вазиров впереди вышел годовой жалко женали жителей знает имени обратился ответить отдавать поклоном послание приплод своих слуг собравшихся совета созвал спрашивает среди старейших старик хан хан ханства хану это</p>
+      <p>будут дай каждого лошадей люди могу моих обидчику отправиться переметная послушны пусть пусть сорок сорок спутников сума твоему хан человек</p>
+      <p>всадников выполнил дал женали наставление отправить путь такое условия хан</p>
+      <p>ваша голова должны желали иначе каждому послушны сабля слову</p>
+      <p>верблюда взял всадников женали ишака козла которых кроме одного одного одного переметные собой сорока сумы</p>
+      <p>владениям всадникам дней долгого женали ночей приблизились прошло пути своими сказал спутниками старик хана хитрого</p>
+      <p>владениям всадникам дней долгого женали ночей приблизились прошло пути своими сказал спутниками старик хана хитрого</p>
+      <p>владениях должны каждый камнями наполнит перебить переметную пусть собак суму хана</p>
+      <p>весть всадников выполнили дошла женали земле перебили повелел приказ разгневался самого собак сорок хан хана хана</p>
+      <p>большого приведите самого</p>
+      <p>женали передал повеление посланный прискакал хана хана</p>
+      <p>верблюда женали который пасся поблизости сказал спокойно указал</p>
+      <p>большой самый</p>
+      <p>верблюда закричал посланный привел рассвирепел хан хану</p>
+      <p>большого бородатого верблюда приведите самого сказал</p>
+      <p>вернулся говорит женали женали козла передал посланный слова указал хана</p>
+      <p>бородатый веди хану</p>
+      <p>козла неистовство пришел увидев хан</p>
+      <p>безмозглой бородатого бородатого говорить козла которым поговорить приведи сказал скотиной</p>
+      <p>говорит женали посланный прискакал</p>
+      <p>бородатого которым поговорить просит такого хан</p>
+      <p>вокруг говорит женали нужен около поймешь сказал сразу хану</p>
+      <p>женали предстал ханом</p>
+      <p>владениях всадники моих перебили собак спрашивает твои хан</p>
+      <p>волки восходит живет зарезали овец подняли почему собаки солнце стороне твои той тревоги хана</p>
+      <p>волки должны другом зарезали земли конце мои овец отвечать собаки удивляется хан чьих</p>
+      <p>весь должен другом женали жеребец заржал земли кобылиц конце наш отдать приплод своих спрашивает хан чей</p>
+      <p>взглянула говорит женали нашел ответить слова хан ханша</p>
+      <p>времени глаз дорогой завтра конем наденешь одеждой откроет приедешь приезжай пусть пусть пусть путь свой солнце сюда твой умен</p>
+      <p>глаз дому дороги женали женали завернулся ишака обочине открыло очень пока поняли поражение приехал признали рогожу свое свой сел следующее солнце умен утро хан хана ханша</p>
+      <p>говорят женали кобылиц оставит передай пошутили приплод просто пусть своему своих хану</p>
+      <p>бурдюк бурдюков вместе всадниками домой женали женали живым золота золотом наполненный невредимым отправили подарил подарили приехал рассказал своему сорок сорока хан хан хану ханшей</p>
+      <p>бедняк довольстве женали зажил разбогател счастье</p>
+    </body>
+  </text>
+</TEI>

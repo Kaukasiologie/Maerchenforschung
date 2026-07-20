@@ -1,121 +1,169 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Kumykische Folklore</title>
-      <title xml:lang="eng">Kumyk Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Kumykische Folklore</title>
+        <title xml:lang="eng">Kumyk Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus">«Фольклор Азербайджана и прилегающих стран», под ред. проф. А. В. Багрия, т. II</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus">Баку, 1930., стр. 35</publisher>
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus">«Фольклор Азербайджана и прилегающих стран», под ред. проф. А. В. Багрия, т. II</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus">Баку, 1930., стр. 35</publisher>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="kum">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А. Н.</forename>
-        <surname xml:lang="rus">Греко</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district />
+          <settlement />
+          <geo />
+        </placeName>
+        <date />
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName />
+          <age />
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А. Н.</forename>
+            <surname xml:lang="rus">Греко</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName />
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_kum_rus_39">
+  </teiHeader>
+  <text xml:id="cr_kum_rus_39">
     <body>
-     <head>65. О волке </head>
-     <p>бедных богатых богач возле волк говорить дочерью женою жил мать одного остались отец повадился поел селение селения собою стали сыном ходить</p><p>волк детей пускай спрячем старые съест</p><p>вела верхней вторую выкопали детей дыра завалили камнем комнаты которую нижнюю нижнюю пей подземную поселились построили родители саклю саклю сами сверху сверху сделали спрятали старики яму</p><p>богача видит волк волк выворотил девочка жену завалился камень камень котел мальчик отверстие полом посмотрел поставили прибежал сидят сквозь слышит сон спать съел шепчется</p><p>вытащил добывать крышу положил пошел</p><p>говорит день еду крыше крышу лежат лошадь опустилась серая целый чудо</p><p>вами волк ка море перелечу равно садитесь съест</p><p>беглецов брат волк девочку дети добраться добычей коне крыше крышу лежат лошадь мальчика моря отправился положил прискакал своем сели сестрой снова схватил съел успели</p><p>гром загремел лошадь прилетела черная</p><p>садитесь сказала спасу</p><p>брат волк море перелетели прискакал сделать сели сестра смог</p><p>брат брат воду жить кормил морем моря охоту сестрой сестру стали таскала ходил</p><p>волк закричал увидел это</p><p>девица женюсь море перенеси тебе эй</p><p>женишься отвечает сестра съешь</p><p>просил раза спрашивает третий</p><p>перенесу</p><p>возьми зеркало перелечу смотри</p><p>зеркало перелетел полк сестра смотреть стала</p><p>девицей миловаться пировать стали целоваться</p><p>брат брат видят волк входит говорит две идет собаки спрятался сундук</p><p>живешь здравствуй сестра</p><p>нездоровится ох плохо</p><p>волк рвутся сидит собаки сундуку тявкают</p><p>брат сестра спрашивает это</p><p>оглядываться отвечает охота собак та тебе</p><p>ветер лают</p><p>брат вышел комнаты полк сундука шепчет</p><p>больною брат гор заживем излечения моего мол молока нужно оттуда пещеру погибнет пойти принести притворись семь скажи славно старухе</p><p>брат входит охает пуще сестра</p><p>брат сестрица спрашивает тобой</p><p>говорили гор единственное живет кишки которая лекарство молоко моченьки одной отвечает отсюда ох переворачивает пещере помочь просто семь сестра соседки старухи трудно хранится</p><p>большой брат давай нужно отвечает принесу сходить тебе труд</p><p>взял захватив молока отправился собак собой чугунок</p><p>видит гор гору другую идет идет одну пещеру пещеры проходит проходит проходит семь сидит</p><p>варит громадном кан котле оленя сразу старуха целого</p><p>говорит здравствуй мать юноша</p><p>здравствуй отвечает скажешь сынок та</p><p>бабушка большой котел поставила</p><p>богатырей мои охоту семь сыновья ушли</p><p>готовлю обед</p><p>больная мои молока попросить прислала просьба сестра сюда тебе</p><p>бабушка волк воротиться г дам двадцать дверей должен ладно любовник матерью минут назад назвал останешься отвечает пещеру прислала пройти серый сестра сорок ступай сыночек твоя тебе х хочешь это эх</p><p>воротился выскочить двери домой молока налил обратно пошел прошел руках своими смотрит собак собаками успели чугунок юноша юноша</p><p>ато бросились быстро ветер волк волк волка время вцепился выскочил выскочили горло дому замки заторопились клочья ласточка мимо молоком пего перебили песет пещере повалил подошел полетела помощь понеслись прибежали пролетавшая разорвали сказала собакам собаки те увидела хозяину худо это юношу</p><p>брат замуровал комнате крепко рассердился сестру сказал</p><p>вырастет камыш камыше лужа окном плавать пока появится сиди станут уткк</p><p>брат брату говорит дней дурак женился завернул замурована камыш карман комнатой которая красавицу лет лужа месяц нашел ночей обратилась ожила отправился плавают положил превратилась прежнюю прибегает продолжалась прошло растет свадьба семь семь сестра сестра сестру той тряпицу туда утки царь червяка</p></body>
-   </text>
-  </TEI>
+      <head>65. О волке </head>
+      <p>бедных богатых богач возле волк говорить дочерью женою жил мать одного остались отец повадился поел селение селения собою стали сыном ходить</p>
+      <p>волк детей пускай спрячем старые съест</p>
+      <p>вела верхней вторую выкопали детей дыра завалили камнем комнаты которую нижнюю нижнюю пей подземную поселились построили родители саклю саклю сами сверху сверху сделали спрятали старики яму</p>
+      <p>богача видит волк волк выворотил девочка жену завалился камень камень котел мальчик отверстие полом посмотрел поставили прибежал сидят сквозь слышит сон спать съел шепчется</p>
+      <p>вытащил добывать крышу положил пошел</p>
+      <p>говорит день еду крыше крышу лежат лошадь опустилась серая целый чудо</p>
+      <p>вами волк ка море перелечу равно садитесь съест</p>
+      <p>беглецов брат волк девочку дети добраться добычей коне крыше крышу лежат лошадь мальчика моря отправился положил прискакал своем сели сестрой снова схватил съел успели</p>
+      <p>гром загремел лошадь прилетела черная</p>
+      <p>садитесь сказала спасу</p>
+      <p>брат волк море перелетели прискакал сделать сели сестра смог</p>
+      <p>брат брат воду жить кормил морем моря охоту сестрой сестру стали таскала ходил</p>
+      <p>волк закричал увидел это</p>
+      <p>девица женюсь море перенеси тебе эй</p>
+      <p>женишься отвечает сестра съешь</p>
+      <p>просил раза спрашивает третий</p>
+      <p>перенесу</p>
+      <p>возьми зеркало перелечу смотри</p>
+      <p>зеркало перелетел полк сестра смотреть стала</p>
+      <p>девицей миловаться пировать стали целоваться</p>
+      <p>брат брат видят волк входит говорит две идет собаки спрятался сундук</p>
+      <p>живешь здравствуй сестра</p>
+      <p>нездоровится ох плохо</p>
+      <p>волк рвутся сидит собаки сундуку тявкают</p>
+      <p>брат сестра спрашивает это</p>
+      <p>оглядываться отвечает охота собак та тебе</p>
+      <p>ветер лают</p>
+      <p>брат вышел комнаты полк сундука шепчет</p>
+      <p>больною брат гор заживем излечения моего мол молока нужно оттуда пещеру погибнет пойти принести притворись семь скажи славно старухе</p>
+      <p>брат входит охает пуще сестра</p>
+      <p>брат сестрица спрашивает тобой</p>
+      <p>говорили гор единственное живет кишки которая лекарство молоко моченьки одной отвечает отсюда ох переворачивает пещере помочь просто семь сестра соседки старухи трудно хранится</p>
+      <p>большой брат давай нужно отвечает принесу сходить тебе труд</p>
+      <p>взял захватив молока отправился собак собой чугунок</p>
+      <p>видит гор гору другую идет идет одну пещеру пещеры проходит проходит проходит семь сидит</p>
+      <p>варит громадном кан котле оленя сразу старуха целого</p>
+      <p>говорит здравствуй мать юноша</p>
+      <p>здравствуй отвечает скажешь сынок та</p>
+      <p>бабушка большой котел поставила</p>
+      <p>богатырей мои охоту семь сыновья ушли</p>
+      <p>готовлю обед</p>
+      <p>больная мои молока попросить прислала просьба сестра сюда тебе</p>
+      <p>бабушка волк воротиться г дам двадцать дверей должен ладно любовник матерью минут назад назвал останешься отвечает пещеру прислала пройти серый сестра сорок ступай сыночек твоя тебе х хочешь это эх</p>
+      <p>воротился выскочить двери домой молока налил обратно пошел прошел руках своими смотрит собак собаками успели чугунок юноша юноша</p>
+      <p>ато бросились быстро ветер волк волк волка время вцепился выскочил выскочили горло дому замки заторопились клочья ласточка мимо молоком пего перебили песет пещере повалил подошел полетела помощь понеслись прибежали пролетавшая разорвали сказала собакам собаки те увидела хозяину худо это юношу</p>
+      <p>брат замуровал комнате крепко рассердился сестру сказал</p>
+      <p>вырастет камыш камыше лужа окном плавать пока появится сиди станут уткк</p>
+      <p>брат брату говорит дней дурак женился завернул замурована камыш карман комнатой которая красавицу лет лужа месяц нашел ночей обратилась ожила отправился плавают положил превратилась прежнюю прибегает продолжалась прошло растет свадьба семь семь сестра сестра сестру той тряпицу туда утки царь червяка</p>
+    </body>
+  </text>
+</TEI>

@@ -1,125 +1,146 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Aварские сказкы. Перевод с аварского М. САИДОВА и У, ДАЛГАТ. Составление М. САИДОВА и У. ДАЛГАТ. Вступительная статья РАСУЛА ГАМЗАТОВА. Художник А. БЕЛЮКИН</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательство "Художественная литература". Маскжа 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.</forename>
-        <surname xml:lang="rus">Саидова</surname>
-       </persName>
-       <persName>
-        <forename xml:lang="rus">У.</forename>
-        <surname xml:lang="rus">Далгат</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district />
+          <settlement />
+          <geo />
+        </placeName>
+        <date />
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName />
+          <age />
+        </person>
+        <person role="researcher">
+          <persName />
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.</forename>
+            <surname xml:lang="rus">Саидова</surname>
+          </persName>
+          <persName>
+            <forename xml:lang="rus">У.</forename>
+            <surname xml:lang="rus">Далгат</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_168">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_168">
     <body>
-     <head>ТАНЕЦ ОСЛИКОВ </head>
-     <p>аварский аул аула вези вертелся вздремнуть водой время время выдался годовалый гоцатль гоцатль гриву двумя день дня долгого думала зерно знойный изнурительного ии клкая крестьянина кувигины ло лугу матерью мельницу мептают минуты мухи наваливает надоедали нелавно несчастная ногами нужно одного опорным ослица ослица ослица ослята ослятам ослятами отдохнуть очень очень паслась пещеру поиграть покоя посло пошла прохладно рабочего районе реки родился слепни талци темна тяжести укрыться хватал хозяин хотелось хунзахском юлой</p><p>возле головы мать ослята положив присмирели сердится увидели улеглись шею</p><p>бодрствовал глаза заснул маленький осленок смотрел старший тотчас</p><p>буду вопрос дает докучать дорогая мама никак ответь попросил тебе уснуть</p><p>ладно ослица поскорей разрешила</p><p>балхара большие везли глиняной голову задрал зубы корзины лошадей лошади любопытный миновали нашей обозе осел осел оскалил ослик оставляем остановился площадь помет понюхал посудой почему проходило сделал спросил стоим улице ц это</p><p>бумаги вожаку восклик времена далекие далекие какую кали мать нагружать обещали обязался осел ослов ослы ответила отдали приручал пула самцу своему служить составлены спрашиваешь спрятал хранение человек человек человеку чепуху четырех</p><p>бумаги бумаги верхней губой ищет каждый надеясь нечаянно обязательно однажды оп ослином отыскать погибло помете пор проглотил самец тех</p><p>бумаги возмутился должен нарушать обещание ослик потеряны свое человек</p><p>других животных засыпая нае обижает ослица ослов пробормотала человек</p><p>ослик унимался</p><p>вопросик маленький мать ответь пожалуйста упращивал</p><p>вопрос задавай ох падоедливый свой скорее</p><p>другие каждый мочились норовит осел отчего помочитьея это</p><p>выдумал галдибер затем который образовавшийся ослица поток сказала сын унес уснула человека</p><p>брата галдибера гоцали долго изобретателя иса лучший мастер младшего обрадовался одолел осленок осленок ослиных поеле приснилось проклинал проснулея радости разбудил рассказал самый своем седел сне сон счастливом таки умер</p><p>оба ослика ослица пляс проснулась пустились радуютея спросила удивлением чему</p><p>великий мастер ослиных ослята рассказали седел умер</p><p>галдибер мочное осла седло</p><p>бедняжки боли будут веселье воскликнула галдиберы горе грустью изготовлял иса иса крайней крови люди мастер мать мере мои нам нарупгила натирать ослица ослят откажутся оттого помер появится причиняли своих седла седла сказала спины хорошие</p><p>большие векоре вечеру вышли день клонился корзины луг навьючил ослица ослицу ослята пещеры позвал сад тяжелые фруктами хозяин</p></body>
-   </text>
-  </TEI>
+      <head>ТАНЕЦ ОСЛИКОВ </head>
+      <p>аварский аул аула вези вертелся вздремнуть водой время время выдался годовалый гоцатль гоцатль гриву двумя день дня долгого думала зерно знойный изнурительного ии клкая крестьянина кувигины ло лугу матерью мельницу мептают минуты мухи наваливает надоедали нелавно несчастная ногами нужно одного опорным ослица ослица ослица ослята ослятам ослятами отдохнуть очень очень паслась пещеру поиграть покоя посло пошла прохладно рабочего районе реки родился слепни талци темна тяжести укрыться хватал хозяин хотелось хунзахском юлой</p>
+      <p>возле головы мать ослята положив присмирели сердится увидели улеглись шею</p>
+      <p>бодрствовал глаза заснул маленький осленок смотрел старший тотчас</p>
+      <p>буду вопрос дает докучать дорогая мама никак ответь попросил тебе уснуть</p>
+      <p>ладно ослица поскорей разрешила</p>
+      <p>балхара большие везли глиняной голову задрал зубы корзины лошадей лошади любопытный миновали нашей обозе осел осел оскалил ослик оставляем остановился площадь помет понюхал посудой почему проходило сделал спросил стоим улице ц это</p>
+      <p>бумаги вожаку восклик времена далекие далекие какую кали мать нагружать обещали обязался осел ослов ослы ответила отдали приручал пула самцу своему служить составлены спрашиваешь спрятал хранение человек человек человеку чепуху четырех</p>
+      <p>бумаги бумаги верхней губой ищет каждый надеясь нечаянно обязательно однажды оп ослином отыскать погибло помете пор проглотил самец тех</p>
+      <p>бумаги возмутился должен нарушать обещание ослик потеряны свое человек</p>
+      <p>других животных засыпая нае обижает ослица ослов пробормотала человек</p>
+      <p>ослик унимался</p>
+      <p>вопросик маленький мать ответь пожалуйста упращивал</p>
+      <p>вопрос задавай ох падоедливый свой скорее</p>
+      <p>другие каждый мочились норовит осел отчего помочитьея это</p>
+      <p>выдумал галдибер затем который образовавшийся ослица поток сказала сын унес уснула человека</p>
+      <p>брата галдибера гоцали долго изобретателя иса лучший мастер младшего обрадовался одолел осленок осленок ослиных поеле приснилось проклинал проснулея радости разбудил рассказал самый своем седел сне сон счастливом таки умер</p>
+      <p>оба ослика ослица пляс проснулась пустились радуютея спросила удивлением чему</p>
+      <p>великий мастер ослиных ослята рассказали седел умер</p>
+      <p>галдибер мочное осла седло</p>
+      <p>бедняжки боли будут веселье воскликнула галдиберы горе грустью изготовлял иса иса крайней крови люди мастер мать мере мои нам нарупгила натирать ослица ослят откажутся оттого помер появится причиняли своих седла седла сказала спины хорошие</p>
+      <p>большие векоре вечеру вышли день клонился корзины луг навьючил ослица ослицу ослята пещеры позвал сад тяжелые фруктами хозяин</p>
+    </body>
+  </text>
+</TEI>

@@ -1,127 +1,193 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Tatische Folklore</title>
-      <title xml:lang="eng">Tat Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Tatische Folklore</title>
+        <title xml:lang="eng">Tat Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus">Опубл.: ТФ, 40. С. 66-71</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus">Опубл.: ТФ, 40. С. 66-71</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ttt">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/563683/dzhalgan.html">Dzhalgan</settlement>
-       <geo />
-      </placeName>
-      <date>1938</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">ашуг</forename>
-        <surname xml:lang="rus">Халил</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Х.Д.</forename>
-        <surname xml:lang="rus">Авшалумов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Н.Х.</forename>
-        <surname xml:lang="rus">Авшалумовa</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/563683/dzhalgan.html">Dzhalgan</settlement>
+          <geo />
+        </placeName>
+        <date>1938</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">ашуг</forename>
+            <surname xml:lang="rus">Халил</surname>
+          </persName>
+          <age />
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Х.Д.</forename>
+            <surname xml:lang="rus">Авшалумов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Н.Х.</forename>
+            <surname xml:lang="rus">Авшалумовa</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ttt_rus_9">
+  </teiHeader>
+  <text xml:id="cr_ttt_rus_9">
     <body>
-     <head>69 Мулла и зурнач (тат.) </head>
-     <p>говорит денег дом жена зурнач зурнач зурне играть мужу музыкант набежал народ начал однажды одному отправился поблагодарив пришел путь следующее собрал утро хозяина хозяина человеку</p><p>буду дай жить зурначом зурначом пока развод станешь стань тобой</p><p>муж сказал</p><p>жена зурначом зурне играть могу стать умею</p><p>жена ответила</p><p>выйду дай замуж зурнача развод случае таком</p><p>взял говорит дом зурначу какому мужчина отправился пришел путь чурек</p><p>алейкум кунак салам</p><p>алейкум салам</p><p>делом исполнишь мою одним пришел просьбу тебе</p><p>охотно</p><p>мужчина сказал</p><p>зурне играть научи пожалуйста</p><p>взял вложил воскликнул гостя дунул звук зурнач зурнач зурну мужчина раздался руки</p><p>делать дорогой зурне играть мастер можешь нечего тебе</p><p>барабан говорит гостю дал домой жене зурну наутро отправился пришел путь хозяин</p><p>ай догадался жена зурне играть играть оказывается очень раньше умею умею</p><p>жена сказала</p><p>мелодию одну случае сыграй таком</p><p>зурне смогу сыграть тебе</p><p>почему</p><p>барабанщика вторых первых свадьбу своего спешу</p><p>жена идешь свадьбу спросила чью</p><p>иду пашибека рукель свадьбу сына</p><p>барабан взял встретился вышел зурну муж плешивому плешивый сказал улицу</p><p>мной напарник пойдем</p><p>дело плешивый спросил</p><p>барабане играть мной предлагаю тебе</p><p>говорит плешивый</p><p>барабане играть умею</p><p>барабане зурне играть играть умеешь умею</p><p>барабанщик барабанщик вечернее время дорогу достигли заходить зурнач зурнач одного окраины отправились решили селение селения словом</p><p>плешивый спрашивает</p><p>дело</p><p>барабане войдем заночевать зурне играть изобьют нам нам народ окраине предложат села селение сеновале соберется сыграть умею</p><p>вошли дверь женщина женщины зажженную коврик красивая курицей лампу молодая мулла мулла напротив наступила открылась пловом поднос полночь принесли произнес сел сеновале собой туда увидели</p><p>влюбилась скажи</p><p>женщина ответила</p><p>казанфарбека коне свадьбе скакал</p><p>верхом взял засмеялся мулла начал палочку сел скакать</p><p>голову грудь женщина мулле подошла положила спросила</p><p>влюбился мулла родной</p><p>глазами пашибека полюбил пор свадьбе сих сына танец танцевала танцуешь твой увидел удивительно</p><p>барабана барабана барабанщик барабанщику барабанщику взял вместе выбежал две достались женщина женщиной звуки звуки зурнач зурнач зурнач зурны зурны играть коврик курицей лампу мулла мулла начал одновременно пальцами папаху плов поднос подушки потеряв принялась прищелкивать раздались раздались разделили сеновала сказал собой съели танцевать</p><p>балконе балконом барабанщик вошли день дом дом зурнач люди мулла муллы муллы находится папаху прихватив селение сидит следующий спрашивать стали увидели указали</p><p>дай деньги дорогу мулла наши отправимся прохладно эй</p><p>мулла спросил</p><p>деньги какие</p><p>вспомни деньги зурне играли какие ночью прошлой тебе утра</p><p>зурне играли мулла спросил</p><p>говорил деньги папаху получишь принеси свои сеновале утром</p><p>говорит задумался мулла</p><p>дорогой причитается сколько тебе</p><p>зурнач сказал</p><p>двести дядя играем меньше мулла обычных рублей свадьбах свадьбах сто тайных</p><p>мулла сказал</p><p>возьми дорогой рублей сто</p><p>мулла</p><p>возьми пятьдесят рублей сто сынок</p><p>дашь жаловаться пойду села старосте</p><p>выхода двести другого муллы отдать рублей</p><p>барабанщик дом муллу невесты попросил скажи</p><p>госпожи дом мулла спрашивает тебе</p><p>вознаграждение говорит зурнач мулла отвечает получить следует</p><p>дорогой оставь покое сынок</p><p>денег деньги жена жене заплатил зурнач зурначу мужу мулла невесту оказывала оставил остальные отдал плешивому получив пор почет пришел рублей своей своему сто тех уважение этих</p></body>
-   </text>
-  </TEI>
+      <head>69 Мулла и зурнач (тат.) </head>
+      <p>говорит денег дом жена зурнач зурнач зурне играть мужу музыкант набежал народ начал однажды одному отправился поблагодарив пришел путь следующее собрал утро хозяина хозяина человеку</p>
+      <p>буду дай жить зурначом зурначом пока развод станешь стань тобой</p>
+      <p>муж сказал</p>
+      <p>жена зурначом зурне играть могу стать умею</p>
+      <p>жена ответила</p>
+      <p>выйду дай замуж зурнача развод случае таком</p>
+      <p>взял говорит дом зурначу какому мужчина отправился пришел путь чурек</p>
+      <p>алейкум кунак салам</p>
+      <p>алейкум салам</p>
+      <p>делом исполнишь мою одним пришел просьбу тебе</p>
+      <p>охотно</p>
+      <p>мужчина сказал</p>
+      <p>зурне играть научи пожалуйста</p>
+      <p>взял вложил воскликнул гостя дунул звук зурнач зурнач зурну мужчина раздался руки</p>
+      <p>делать дорогой зурне играть мастер можешь нечего тебе</p>
+      <p>барабан говорит гостю дал домой жене зурну наутро отправился пришел путь хозяин</p>
+      <p>ай догадался жена зурне играть играть оказывается очень раньше умею умею</p>
+      <p>жена сказала</p>
+      <p>мелодию одну случае сыграй таком</p>
+      <p>зурне смогу сыграть тебе</p>
+      <p>почему</p>
+      <p>барабанщика вторых первых свадьбу своего спешу</p>
+      <p>жена идешь свадьбу спросила чью</p>
+      <p>иду пашибека рукель свадьбу сына</p>
+      <p>барабан взял встретился вышел зурну муж плешивому плешивый сказал улицу</p>
+      <p>мной напарник пойдем</p>
+      <p>дело плешивый спросил</p>
+      <p>барабане играть мной предлагаю тебе</p>
+      <p>говорит плешивый</p>
+      <p>барабане играть умею</p>
+      <p>барабане зурне играть играть умеешь умею</p>
+      <p>барабанщик барабанщик вечернее время дорогу достигли заходить зурнач зурнач одного окраины отправились решили селение селения словом</p>
+      <p>плешивый спрашивает</p>
+      <p>дело</p>
+      <p>барабане войдем заночевать зурне играть изобьют нам нам народ окраине предложат села селение сеновале соберется сыграть умею</p>
+      <p>вошли дверь женщина женщины зажженную коврик красивая курицей лампу молодая мулла мулла напротив наступила открылась пловом поднос полночь принесли произнес сел сеновале собой туда увидели</p>
+      <p>влюбилась скажи</p>
+      <p>женщина ответила</p>
+      <p>казанфарбека коне свадьбе скакал</p>
+      <p>верхом взял засмеялся мулла начал палочку сел скакать</p>
+      <p>голову грудь женщина мулле подошла положила спросила</p>
+      <p>влюбился мулла родной</p>
+      <p>глазами пашибека полюбил пор свадьбе сих сына танец танцевала танцуешь твой увидел удивительно</p>
+      <p>барабана барабана барабанщик барабанщику барабанщику взял вместе выбежал две достались женщина женщиной звуки звуки зурнач зурнач зурнач зурны зурны играть коврик курицей лампу мулла мулла начал одновременно пальцами папаху плов поднос подушки потеряв принялась прищелкивать раздались раздались разделили сеновала сказал собой съели танцевать</p>
+      <p>балконе балконом барабанщик вошли день дом дом зурнач люди мулла муллы муллы находится папаху прихватив селение сидит следующий спрашивать стали увидели указали</p>
+      <p>дай деньги дорогу мулла наши отправимся прохладно эй</p>
+      <p>мулла спросил</p>
+      <p>деньги какие</p>
+      <p>вспомни деньги зурне играли какие ночью прошлой тебе утра</p>
+      <p>зурне играли мулла спросил</p>
+      <p>говорил деньги папаху получишь принеси свои сеновале утром</p>
+      <p>говорит задумался мулла</p>
+      <p>дорогой причитается сколько тебе</p>
+      <p>зурнач сказал</p>
+      <p>двести дядя играем меньше мулла обычных рублей свадьбах свадьбах сто тайных</p>
+      <p>мулла сказал</p>
+      <p>возьми дорогой рублей сто</p>
+      <p>мулла</p>
+      <p>возьми пятьдесят рублей сто сынок</p>
+      <p>дашь жаловаться пойду села старосте</p>
+      <p>выхода двести другого муллы отдать рублей</p>
+      <p>барабанщик дом муллу невесты попросил скажи</p>
+      <p>госпожи дом мулла спрашивает тебе</p>
+      <p>вознаграждение говорит зурнач мулла отвечает получить следует</p>
+      <p>дорогой оставь покое сынок</p>
+      <p>денег деньги жена жене заплатил зурнач зурначу мужу мулла невесту оказывала оставил остальные отдал плешивому получив пор почет пришел рублей своей своему сто тех уважение этих</p>
+    </body>
+  </text>
+</TEI>

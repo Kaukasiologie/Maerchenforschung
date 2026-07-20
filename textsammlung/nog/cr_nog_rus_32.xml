@@ -1,121 +1,160 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Nogaische Folklore</title>
-      <title xml:lang="eng">Nogai Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Ногайские народные сказки</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Nogaische Folklore</title>
+        <title xml:lang="eng">Nogai Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="nog">Ногай эртегилер.</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 20–22.</publisher>
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Ногайские народные сказки</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Сост. и пер. с ногайск. А. Ногай ; Предисл. Е.С. Котляр Худож. И.М. Оффенгенден. - Москва : Наука, 1979.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="nog">Ногай эртегилер.</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="nog">Туьзуьвши С. А. Калмыкова. Черкесск, 1967. с. 20–22.</publisher>
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="nog">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district />
-       <settlement />
-       <geo />
-      </placeName>
-      <date />
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">АЖДАУТ</forename>
-        <surname xml:lang="rus">НОГАЙ</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district />
+          <settlement />
+          <geo />
+        </placeName>
+        <date />
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName />
+          <age />
+        </person>
+        <person role="researcher">
+          <persName />
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">АЖДАУТ</forename>
+            <surname xml:lang="rus">НОГАЙ</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_nog_rus_32">
+  </teiHeader>
+  <text xml:id="cr_nog_rus_32">
     <body>
-     <head>25. Три девушки и четыре елмавыза </head>
-     <p>времена давние дома дочери дочерьми жена жена жил оставалась пасти скот старик старик ходил</p><p>больших вернулся вечером выгоне говорит домой дочери обычно однажды пазуху пас положил пять росла скот сорвал старик старик старик старшей яблок яблоня</p><p>дочь пояс развяжи</p><p>ах девушка отвечает отец</p><p>больших бросили выполнила дал девушки дела дочери каждой младшей обратился ответ отцу подбежали подошла пол получил попросил пояс просьбу пять развязать свои сказал средней старик старик старика старуху та упало яблок яблоку</p><p>завтра пойдем рассвете собирать яблоки</p><p>вечером говорит девушки жене старик уснули</p><p>дашь дна дочерям дырявой жить заботятся нашей привыкли пусть пять сами сделай спиной сшей торб торбе утром</p><p>бараньего весь взяла гребень девушки девушки день дорогу дочь зеркальце кусочек младшая наступило отправились поднялись пусты путь сала собирали собираться средняя стали старшая торбы утро яблоки</p><p>вечер кизяк наказал положил старик яблоней</p><p>ау домой дочери женой зовут отвечай сказав старик услышишь ушел</p><p>девушки заметили звать испугались наступила ночь сестры собирали стали стемнело яблоки</p><p>ау отец отец</p><p>ау видно видят голос девушки кизяк лежит нигде огромный ответ отца поспешили услышали яблоней</p><p>большой вдалеке видят вошли глаза глядят делать длинный дом дома елмавыза елмавыза заметили заплакали каждого месту ними нос огонек подходят поспешили пошли сестры сестры сидят тому углах угол упирается четыре четырех</p><p>вжик вжик входите входите выходят гуляй девичьей девушки дому елмавызы начинают нож ножи приглашают приговаривают сами точат точить шее</p><p>внесли вшами девушками дом наполненные поставили угощение чаши это</p><p>боясь вошла время вшей высыпали вышли глубине девушки девушку елмавыз елмавызы заметили золотыми комнату комнаты комнаты красивую ногтями пол пошевелиться сестер сестры сидят снова спрашивает старуха старшей это</p><p>лечь хочешь</p><p>месте почетном</p><p>младшая ответила самое сестра сказала средняя</p><p>крыше спать хочу</p><p>баранье бараньего боятся вздрагивали взяла девушка дождь дождя елмавызы елмавызы жечь затеи испуга казалось крыше крыше крышу кусочек наточенные ножи отказаться отца поглядывали поднялась пришлось сала сало сало своей свои слыхала собой спички стала стучат шипело это</p><p>двум елмавызы наказали наутро сестрам собрались старшим той уходом</p><p>вашу готово зарежьте младшую нашему приходу сварите сестру</p><p>бросили вместо девушки девушку дно думать елмавызы зарезать золотые золотыми золотыми котел котла куклу место младшей мясо ногти ногтями ногтями огонь положили посадили поставили решили сверху сделали сестры сестры сестры смастерили соломы стали ушли</p><p>вернутся готово елмавызы кизяк кукле мясо наказали очага побежали пошли прочь сами сестры силы скажешь скажешь собирать спросят спросят</p><p>вернулись вечеру домой елмавызы спрашивают</p><p>готово девушки доченька мясо</p><p>готов девушки кизяк обед очага собирать ушли</p><p>девушка дне елмавызы золотые золотыми котла куклу месте мясо мясо ногти ногтями обычно побежали принялись сидела соломы стол съев туда увидели увидели уселись</p><p>беглянок бежали бросила бросились быстро гребешок догнали елмавызы елмавызы мясо очень погоню поняли свой сестер сестрами сказала скоро старшая съели чье ярости</p><p>впереди густой дорога лес позади пусть ровная</p><p>бегут бегут бросает говорит догнали елмавызы зеркальце оборачиваются сестра сестры снова средняя</p><p>впереди глубокое дорога позади пусть ровная ущелье</p><p>глубокое дом дороге дорогу елмавызам назад побежали повернуть преградило пришлось свой сестры скоро увидели ущелье широкое</p><p>всем девушки заплакали мать ними обо отца поведали радости случилось увидев</p><p>всем девушки заплакали мать ними обо отца поведали радости случилось увидев</p><p>внимательно относиться пор почтительно родителям своим сестры стали тех</p></body>
-   </text>
-  </TEI>
+      <head>25. Три девушки и четыре елмавыза </head>
+      <p>времена давние дома дочери дочерьми жена жена жил оставалась пасти скот старик старик ходил</p>
+      <p>больших вернулся вечером выгоне говорит домой дочери обычно однажды пазуху пас положил пять росла скот сорвал старик старик старик старшей яблок яблоня</p>
+      <p>дочь пояс развяжи</p>
+      <p>ах девушка отвечает отец</p>
+      <p>больших бросили выполнила дал девушки дела дочери каждой младшей обратился ответ отцу подбежали подошла пол получил попросил пояс просьбу пять развязать свои сказал средней старик старик старика старуху та упало яблок яблоку</p>
+      <p>завтра пойдем рассвете собирать яблоки</p>
+      <p>вечером говорит девушки жене старик уснули</p>
+      <p>дашь дна дочерям дырявой жить заботятся нашей привыкли пусть пять сами сделай спиной сшей торб торбе утром</p>
+      <p>бараньего весь взяла гребень девушки девушки день дорогу дочь зеркальце кусочек младшая наступило отправились поднялись пусты путь сала собирали собираться средняя стали старшая торбы утро яблоки</p>
+      <p>вечер кизяк наказал положил старик яблоней</p>
+      <p>ау домой дочери женой зовут отвечай сказав старик услышишь ушел</p>
+      <p>девушки заметили звать испугались наступила ночь сестры собирали стали стемнело яблоки</p>
+      <p>ау отец отец</p>
+      <p>ау видно видят голос девушки кизяк лежит нигде огромный ответ отца поспешили услышали яблоней</p>
+      <p>большой вдалеке видят вошли глаза глядят делать длинный дом дома елмавыза елмавыза заметили заплакали каждого месту ними нос огонек подходят поспешили пошли сестры сестры сидят тому углах угол упирается четыре четырех</p>
+      <p>вжик вжик входите входите выходят гуляй девичьей девушки дому елмавызы начинают нож ножи приглашают приговаривают сами точат точить шее</p>
+      <p>внесли вшами девушками дом наполненные поставили угощение чаши это</p>
+      <p>боясь вошла время вшей высыпали вышли глубине девушки девушку елмавыз елмавызы заметили золотыми комнату комнаты комнаты красивую ногтями пол пошевелиться сестер сестры сидят снова спрашивает старуха старшей это</p>
+      <p>лечь хочешь</p>
+      <p>месте почетном</p>
+      <p>младшая ответила самое сестра сказала средняя</p>
+      <p>крыше спать хочу</p>
+      <p>баранье бараньего боятся вздрагивали взяла девушка дождь дождя елмавызы елмавызы жечь затеи испуга казалось крыше крыше крышу кусочек наточенные ножи отказаться отца поглядывали поднялась пришлось сала сало сало своей свои слыхала собой спички стала стучат шипело это</p>
+      <p>двум елмавызы наказали наутро сестрам собрались старшим той уходом</p>
+      <p>вашу готово зарежьте младшую нашему приходу сварите сестру</p>
+      <p>бросили вместо девушки девушку дно думать елмавызы зарезать золотые золотыми золотыми котел котла куклу место младшей мясо ногти ногтями ногтями огонь положили посадили поставили решили сверху сделали сестры сестры сестры смастерили соломы стали ушли</p>
+      <p>вернутся готово елмавызы кизяк кукле мясо наказали очага побежали пошли прочь сами сестры силы скажешь скажешь собирать спросят спросят</p>
+      <p>вернулись вечеру домой елмавызы спрашивают</p>
+      <p>готово девушки доченька мясо</p>
+      <p>готов девушки кизяк обед очага собирать ушли</p>
+      <p>девушка дне елмавызы золотые золотыми котла куклу месте мясо мясо ногти ногтями обычно побежали принялись сидела соломы стол съев туда увидели увидели уселись</p>
+      <p>беглянок бежали бросила бросились быстро гребешок догнали елмавызы елмавызы мясо очень погоню поняли свой сестер сестрами сказала скоро старшая съели чье ярости</p>
+      <p>впереди густой дорога лес позади пусть ровная</p>
+      <p>бегут бегут бросает говорит догнали елмавызы зеркальце оборачиваются сестра сестры снова средняя</p>
+      <p>впереди глубокое дорога позади пусть ровная ущелье</p>
+      <p>глубокое дом дороге дорогу елмавызам назад побежали повернуть преградило пришлось свой сестры скоро увидели ущелье широкое</p>
+      <p>всем девушки заплакали мать ними обо отца поведали радости случилось увидев</p>
+      <p>всем девушки заплакали мать ними обо отца поведали радости случилось увидев</p>
+      <p>внимательно относиться пор почтительно родителям своим сестры стали тех</p>
+    </body>
+  </text>
+</TEI>

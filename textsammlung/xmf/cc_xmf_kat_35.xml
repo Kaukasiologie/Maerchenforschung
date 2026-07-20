@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -11,8 +11,7 @@
               <surname>Boeder</surname>
             </persName>
           </name>
-          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X"
-            >12368806X</idno>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
         </author>
         <editor>
           <name>
@@ -21,8 +20,7 @@
               <surname>Dadunashvili</surname>
             </persName>
           </name>
-          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154"
-            >133557154</idno>
+          <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
         </editor>
         <respStmt>
           <resp>Annotated according to the ATU system</resp>
@@ -36,35 +34,27 @@
       </titleStmt>
       <publicationStmt>
         <publisher>
-          <name key="gnd:4028557-1"
-            >Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+          <name key="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
         </publisher>
         <pubPlace>
-          <genName corresp="https://www.geonames.org/2895044/jena.html"
-            >Jena</genName>
+          <genName corresp="https://www.geonames.org/2895044/jena.html">Jena</genName>
         </pubPlace>
         <date>2024</date>
         <distributor>
           <addName>DFG project "Caucasian narratives in the discourse of comparative fairy tale research"</addName>
-          <ref target="https://github.com/edadunashvili"
-            >Software und Texte</ref>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
         </distributor>
         <availability>
           <p>
-            <ref target="https://creativecommons.org/licenses/by/4.0/"
-              >CC BY</ref>
+            <ref target="https://creativecommons.org/licenses/by/4.0/">CC BY</ref>
           </p>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <ref
-            target="https://doi.org/10.25362/lazar.a106e17b-af8d-40c4-8b34-acee3badb87d"
-            >LaZAR</ref>
-          <title xml:lang="deu"
-            >Mingrelische Prosatexte: Übersetzungen ins Georgische</title>
-          <title xml:lang="kat"
-            >მეგრული პროზაული ტექსტების ქართული თარგმანები</title>
+          <ref target="https://doi.org/10.25362/lazar.a106e17b-af8d-40c4-8b34-acee3badb87d">LaZAR</ref>
+          <title xml:lang="deu">Mingrelische Prosatexte: Übersetzungen ins Georgische</title>
+          <title xml:lang="kat">მეგრული პროზაული ტექსტების ქართული თარგმანები</title>
           <author>
             <name>
               <persName>
@@ -72,8 +62,7 @@
                 <surname>Boeder</surname>
               </persName>
             </name>
-            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X"
-              >12368806X</idno>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/12368806X">12368806X</idno>
           </author>
           <editor>
             <name>
@@ -82,8 +71,7 @@
                 <surname>Dadunashvili</surname>
               </persName>
             </name>
-            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154"
-              >133557154</idno>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/133557154">133557154</idno>
           </editor>
           <pubPlace>Oldenburg-Jena</pubPlace>
           <publisher>LaZAR</publisher>
@@ -94,8 +82,8 @@
     <profileDesc>
       <langUsage>
         <language ident="kat">
-          <index indexName="iso639-3"></index>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"></ref>
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
         </language>
       </langUsage>
       <textClass>
@@ -103,51 +91,39 @@
           <term type="writingSystem">utf-8</term>
         </keywords>
         <keywords scheme="http://uri.gbv.de/terminology/bk/">
-          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92"
-            >Sonstige asiatische Sprachen und Literaturen</term>
-          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97"
-            >Texte eines einzelnen Autors</term>
+          <term ref="http://uri.gbv.de/terminology/bk/18.92" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term ref="http://uri.gbv.de/terminology/bk/17.97" key="17.97">Texte eines einzelnen Autors</term>
         </keywords>
-        <keywords
-          scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
           <term>prose</term>
         </keywords>
         <keywords scheme="https://d-nb.info/gnd/">
-          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de"
-            >Volkserzählung</term>
+          <term ref="http://d-nb.info/gnd/4136947-6" xml:lang="de">Volkserzählung</term>
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
           <list>
-            <item></item>
+            <item />
           </list>
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
           <list>
             <item>
-              <ref
-                target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/"
-                >Motiv-Index im GitHub-Repository ansehen</ref>
+              <ref target="https://github.com/Kaukasiologie/Maerchenforschung/blob/main/Annotation/">Motiv-Index im GitHub-Repository ansehen</ref>
             </item>
           </list>
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
           <list>
-            <item></item>
+            <item />
           </list>
         </keywords>
       </textClass>
       <creation>
         <placeName>
-          <country ref="https://www.geonames.org/614540/georgia.html"
-            >Georgia</country>
-          <region
-            ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"
-            > Samegrelo and Zemo Svaneti</region>
-          <district
-            ref="https://www.geonames.org/613915/khobi-municipality.html"
-            >Khobi</district>
-          <settlement ref="https://www.geonames.org/874118/dzveli-khibula.html"
-            >Khibula</settlement>
+          <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+          <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+          <district ref="https://www.geonames.org/613915/khobi-municipality.html">Khobi</district>
+          <settlement ref="https://www.geonames.org/874118/dzveli-khibula.html">Khibula</settlement>
         </placeName>
         <date when="1921">1921</date>
       </creation>
@@ -157,21 +133,14 @@
             <forename>Levan</forename>
             <surname>Kartskhia</surname>
           </persName>
-          <age></age>
+          <age />
           <birth>
-            <date></date>
+            <date />
             <placeName>
-              <country ref="https://www.geonames.org/614540/georgia.html"
-                >Georgia</country>
-              <region
-                ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"
-                > Samegrelo and Zemo Svaneti</region>
-              <district
-                ref="https://www.geonames.org/613915/khobi-municipality.html"
-                >Khobi</district>
-              <settlement
-                ref="https://www.geonames.org/874118/dzveli-khibula.html"
-                >Khibula</settlement>
+              <country ref="https://www.geonames.org/614540/georgia.html">Georgia</country>
+              <region ref="https://www.geonames.org/865543/samegrelo-zemo-svanetis-mkhare.html"> Samegrelo and Zemo Svaneti</region>
+              <district ref="https://www.geonames.org/613915/khobi-municipality.html">Khobi</district>
+              <settlement ref="https://www.geonames.org/874118/dzveli-khibula.html">Khibula</settlement>
             </placeName>
           </birth>
         </person>
@@ -185,16 +154,15 @@
           <persName>
             <forename>Revaz</forename>
             <surname>Sherozia</surname>
-            <idno type="gnd" corresp="https://d-nb.info/gnd/1048202046"
-              >1048202046</idno>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/1048202046">1048202046</idno>
           </persName>
         </person>
       </particDesc>
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change></change>
-        <change></change>
+        <change />
+        <change />
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -204,7 +172,7 @@
       <p>(რ.შეროზია, 2003)</p>
       <p>ერთი ვაჭარი იყო ძველ დროს, სახელი ჰქვია ივანე, უსწავლელი კაცი იყო, ერთი შვილი ჰყავდა. "მოდი ამ შვილს გავზრდიო". გააგზავნა კლასში ["იქაურიც"] რომ დაამთავრა, ახლა უნდა წავიდეს ქვეყანაში [= საზღვარგარეთ], პრაქტიკისთვის. ევროპაში (35) წავიდა, მიიღო გამოცდილება - სახლში მოვიდა.</p>
       <p>
-        <pb n="38"/>
+        <pb n="38" />
          უთხრა მამას:
       </p>
       <p>- გავათავე რაც სწავლა არის [= "...რისი სწავლაც შეიძლება"].</p>
@@ -230,7 +198,7 @@
       <p>- ახლა შვილოო - უთხრა მამამ - ხანიდან [= წლოვანებით] ოთხმოცი წელი გამითავებია (35) მე(,) ცხოვრება ამ ქვეყნისაო, უთხრა, დრო არის(,) აწი მე არ ვიყო ამ ქვეყანადო და შვილი შენ მყავხარო, ქონებას გაჩვენებო.</p>
       <p>
         ანდერძს ეუბნება, ქაღალდი მოატანინა ამ შვილს დასაწერად, თავიდან ბოლომდე - ფული თუ უშოვია, მიწა შეუძენია - ესენი 
-        <pb n="39"/>
+        <pb n="39" />
          უანდერძა ყველაფერი და დააწერინა. ბოლოს - ჯამი გაუკეთა [= შეაჯამე] (,) შვილო(,) და იანგარიშეო უთხრა.
       </p>
       <p>იანგარიშა შვილმა და გასცდა მილიონებს [= "მილიონებზე მეტი გამოვიდა"].</p>
@@ -247,7 +215,7 @@
       <p>- დრო არის აწი და როგორ არის, არ გყავდა მეტი დაპატიჟებული კაციო!</p>
       <p>
         (35) – ბაბუაჩემმა დამიბარაო (თხუთმეტი დღე არისო), ნათესავად ["მოკარგედ"] დაპატიჟე და ხარი დაუკალიო(,) ყოველი თხუთმეტი დღის მერე(,) ვინც მოვიდესო. ის ჩემი უფროსი იყოო და იმას უნდა დავუჯეროო. ამიტომო გავაგზავნე ქაღალდი [= მოსაწვევი] ვინც მყავდაო იმასთან და შენი ჭირიმე, 
-        <pb n="40"/>
+        <pb n="40" />
          შენზე უკეთესი არავინ მყოლია ნათესავიო. აბა, დრო არის აწიო, ამდენი ხალხი ვეყოფით და (ვიკმარებთ) ჩვენო და მოვიყვანთო [იგულისხმება პატარძალი. - რ.შ.] უთხრა.
       </p>
       <p>- ჩვენდა საუბედუროდო, უთხრა ამან, ამ მასპინძელმა კიდევ - ჩემს ბაბუას შვილიშვილი ჰყავდაო ერთი და შვილიშვილი(,) ხომ იცი(,) საყვარელი არისო (5) და შენ მეც მომისმინეო(,) მითხრაო ბავშვმა (ხუთი წლის იყოო):</p>
@@ -261,7 +229,7 @@
       <p>- სისხლი რომ დაშრება(,) მერე ამოვუღებ ფულსო - და იქით გავიდა [= ოთახიდან გავიდა]. ეს ბიჭი გამოვიდა ჩუმად და გაიქცა. მოიყვანა პოლიცია. რომ შევიდნენ (30) და რგოლი ასწიეს, - თეფში, ბოთლი, ჭიქა და ძროხის ხორცით სავეს არის. ამ ბიჭს მოსთხოვეს პასუხი მაგრად, მაგრამ(,) რადგან მდიდარი კაცის შვილი იყო, გაუშვეს.</p>
       <p>
         მოვიდა სახლში. ეს ქალი (იქით) გაუშვა, რადგან ეს ახალი არ იყო ["ახალი არ იქნა"]. მიჰყვა ასეთ ცხოვრებას და ასე ყოველ დღე მოჰყავს ქალი ["ცოლად"], (35) ყოველ დღე კლავს ხარებს, ყიდულობს ცხენებს და ქონება (იქით) დაილია ["გათავდა"], უკანასკნელ დრომდე დადგა ["უკანასკნელ დღემდე მივიდა"], კუჭი მოეწამლა. არ ჰქონდა კაცს პერანგი და საცვალი(,) მაგრამ, არაყი უნდა მოიტანოს და რა ქნას? გაახსენდა თავისი ძმაკაცი, მზარეული, ცხვირსახოცი რომ მისცა. ცხვირსახოცი დაეკარგა, 
-        <pb n="41"/>
+        <pb n="41" />
          (იქით) დააგროვა, [იქით] დაკარგა. მიდის და დადის. ერთი გლეხი, ღრმად მოხუცებული, ერთი ქალამანი და ტომსიკა რომ მოაქვს(,) ისეთი ["იმფერი"] შემოხვდა.
       </p>
       <p>- გამარჯობა ამხანაგოო, უთხრა.</p>

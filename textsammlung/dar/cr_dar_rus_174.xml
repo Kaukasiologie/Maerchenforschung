@@ -1,124 +1,168 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>д. 216</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>д. 216</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1886—1887</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Б.</forename>
-        <surname xml:lang="rus">Далгат</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo />
+        </placeName>
+        <date>1886—1887</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName />
+          <age />
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Б.</forename>
+            <surname xml:lang="rus">Далгат</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_174">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_174">
     <body>
-     <head>БУРДЮК, ШАШКА И БУРКА</head>
-     <p>бедный бурдюк вечеру виепт вышел дня добрался докати долгу дом дома дома достать думает еды жил жил зашел колышке комнату кривой куска матерью надеясь нем неоткуда оглядел одиноко одип однажды осталось отправился па попал путь раздобыть свете своей старой старше старый стоявшего туда углу хлеба шаром юноша юноша юноша</p><p>бурдюку время обращаясь сказал хозяин это</p><p>накорми пас</p><p>бегать бурдюк бурдюк бурдюк бурдюку возьмись давай еда закуски затем ковры колышка комнате матрацы ними одеяла откуда отменные пи питье поели постели постели постелить появились появились приготовил приказал соскочил тотчас убрал хозяин хозяином юноша яства</p><p>бурдюк бурдюку ворота время выбежал гость дому закричали ночью поднялся понравился похитить решил спал схватил удивляться успевал хозяин чудеспому это</p><p>бурдюк гость проснись украл</p><p>бегом бурдюк вернулся воротам встал место повесив подошел постель спросил улегся хозяин юноша</p><p>кричали почему</p><p>бурдюком вместе ворота гость кричали ответили поэтому твой уходил</p><p>бурдюк вернулся воротам избил колышке поленом пом пошел приговаривая спящего увидел хозяин юношу</p><p>врали</p><p>беспрепятственно бурдюк ворота вору времени гнал захватив кривой кричать мог молчали мост мост наказание немного несправедливое обижены па па пе перешел побежал поднялся поэтому реки спать спустя стал ступать улегся ушел хозяин хозяина юноша юноша</p><p>аллаха бурдюк пе ради укоси</p><p>возвращать ге отвечал собираюсь унес юноша</p><p>азо бросил бурдюк бурдюк вернуть вместе возьми выбросил выхватил злости кинжал кольца кольцо кольцо кольцо кольцо кольцо кольцом конец кривой л лопнул му надел несло обладателя ого одноглазый одпог отрезал па палец палец пе пе получалось понял потащило пришел прямо пытался реку свой сказал случае слушается сопротивлялся сорвать сразу сторону таком это юнота юноша юноша юноше</p><p>бурдюк домой колышек комнаты повесил пошел прошел прямо стене угол юноша</p><p>другого мать неужели нс принес спросила тьт это</p><p>достать отвечал сумел сын это</p><p>голодала грустно дней которая мать накормит несколько пас сказала это</p><p>бурдюку знать ка накорми отвечал п пас сказал юноша</p><p>всевозможные куша наелись напитки появились пья сказал тотчас хорошенько юноша</p><p>бурдюк мягкие нам обоим постели постели постелил роскошные</p><p>говорить довольна л мать нечего счастлива</p><p>бурдюк гость гость гостю дней заставил несколько предложил прислуживать пришел уходя юноша юноше</p><p>бурдюк давай меняться тебе тпашку тьт</p><p>делать спросил твоя шатка юноша</p><p>гость отвечал пойдет пойди сказать такого убей убьет человека</p><p>бурдюк бурдюком вернулась время вслед вышел гость некоторое обмелялись отвечал послал приказал принести села случае согласен таком убить улетела шашка шашку юноша юноша</p><p>бурдюк бурдюк бурку гость дней немного обменять па предложил спустя увидя юноше явился</p><p>бурке заключена сила спросил твоей юнота</p><p>аула бурдюк бурдюк бурки бурку владелец вышел ею мертвого наказом накрыть оживляет отвечал отдал послал принести сделала слова согласился убить человека шашка шашку юноша</p><p>богаче веселья время говорит гости гостях день дорогими других зажили заморскими который лучшими матерью месяца н наблюдательнее накрыт налитками однажды однажды первый последний приближенные приближенных приближенных пригласил пробыли разгар самый самыми своей сказал стол умное хан хан хана хана хану хуже царей это юноша юноша юноше юноши яствами</p><p>берешь богатств города гостей кормить месяца стольких угощение хватит это</p><p>бурдюк бурдюк бурдюк дворцу заново издеваться мгновение н накрывает накрыть нашептывать никто ока ответом очистить п пе поверил позвал приближенные признался приказал приличествует сделано смеяться стали сталп стол стол таким увидя хана ханскому это это юноша юноша</p><p>день люди сказали собрались уходить хан юноше</p><p>берем бурдюк собой</p><p>берете вспомнив закричал отдам почему успокоился ша шашке это юпо</p><p>берите пожалеть сказал</p><p>бурдюк бурдюк забрав ними опа перебила послал посмеялись принесла те тотчас ушли шашку юноша</p><p>бурка которая мертвых нему оживил оживляет оп пришли родные стали убитых убитых узпав умолять юноши</p><p>дайте деньги оживлю сказал юноша</p><p>бурку взял давали депьги домой золота каждого кого нужно одному оживлять оп погрузился полученные пошел роздал сиротам сколько согласились стал столько те убитых шеи</p><p>водь говорили останется отдал сиротам тебе</p><p>бурдюк бурдюк бурка верных достаточно еле зажил кормил людей моих наказывала ноги обидчиков оживляла отвечал п поил принести припеваючи слуг унес хороших хотел шашка шашки юноша</p></body>
-   </text>
-  </TEI>
+      <head>БУРДЮК, ШАШКА И БУРКА</head>
+      <p>бедный бурдюк вечеру виепт вышел дня добрался докати долгу дом дома дома достать думает еды жил жил зашел колышке комнату кривой куска матерью надеясь нем неоткуда оглядел одиноко одип однажды осталось отправился па попал путь раздобыть свете своей старой старше старый стоявшего туда углу хлеба шаром юноша юноша юноша</p>
+      <p>бурдюку время обращаясь сказал хозяин это</p>
+      <p>накорми пас</p>
+      <p>бегать бурдюк бурдюк бурдюк бурдюку возьмись давай еда закуски затем ковры колышка комнате матрацы ними одеяла откуда отменные пи питье поели постели постели постелить появились появились приготовил приказал соскочил тотчас убрал хозяин хозяином юноша яства</p>
+      <p>бурдюк бурдюку ворота время выбежал гость дому закричали ночью поднялся понравился похитить решил спал схватил удивляться успевал хозяин чудеспому это</p>
+      <p>бурдюк гость проснись украл</p>
+      <p>бегом бурдюк вернулся воротам встал место повесив подошел постель спросил улегся хозяин юноша</p>
+      <p>кричали почему</p>
+      <p>бурдюком вместе ворота гость кричали ответили поэтому твой уходил</p>
+      <p>бурдюк вернулся воротам избил колышке поленом пом пошел приговаривая спящего увидел хозяин юношу</p>
+      <p>врали</p>
+      <p>беспрепятственно бурдюк ворота вору времени гнал захватив кривой кричать мог молчали мост мост наказание немного несправедливое обижены па па пе перешел побежал поднялся поэтому реки спать спустя стал ступать улегся ушел хозяин хозяина юноша юноша</p>
+      <p>аллаха бурдюк пе ради укоси</p>
+      <p>возвращать ге отвечал собираюсь унес юноша</p>
+      <p>азо бросил бурдюк бурдюк вернуть вместе возьми выбросил выхватил злости кинжал кольца кольцо кольцо кольцо кольцо кольцо кольцом конец кривой л лопнул му надел несло обладателя ого одноглазый одпог отрезал па палец палец пе пе получалось понял потащило пришел прямо пытался реку свой сказал случае слушается сопротивлялся сорвать сразу сторону таком это юнота юноша юноша юноше</p>
+      <p>бурдюк домой колышек комнаты повесил пошел прошел прямо стене угол юноша</p>
+      <p>другого мать неужели нс принес спросила тьт это</p>
+      <p>достать отвечал сумел сын это</p>
+      <p>голодала грустно дней которая мать накормит несколько пас сказала это</p>
+      <p>бурдюку знать ка накорми отвечал п пас сказал юноша</p>
+      <p>всевозможные куша наелись напитки появились пья сказал тотчас хорошенько юноша</p>
+      <p>бурдюк мягкие нам обоим постели постели постелил роскошные</p>
+      <p>говорить довольна л мать нечего счастлива</p>
+      <p>бурдюк гость гость гостю дней заставил несколько предложил прислуживать пришел уходя юноша юноше</p>
+      <p>бурдюк давай меняться тебе тпашку тьт</p>
+      <p>делать спросил твоя шатка юноша</p>
+      <p>гость отвечал пойдет пойди сказать такого убей убьет человека</p>
+      <p>бурдюк бурдюком вернулась время вслед вышел гость некоторое обмелялись отвечал послал приказал принести села случае согласен таком убить улетела шашка шашку юноша юноша</p>
+      <p>бурдюк бурдюк бурку гость дней немного обменять па предложил спустя увидя юноше явился</p>
+      <p>бурке заключена сила спросил твоей юнота</p>
+      <p>аула бурдюк бурдюк бурки бурку владелец вышел ею мертвого наказом накрыть оживляет отвечал отдал послал принести сделала слова согласился убить человека шашка шашку юноша</p>
+      <p>богаче веселья время говорит гости гостях день дорогими других зажили заморскими который лучшими матерью месяца н наблюдательнее накрыт налитками однажды однажды первый последний приближенные приближенных приближенных пригласил пробыли разгар самый самыми своей сказал стол умное хан хан хана хана хану хуже царей это юноша юноша юноше юноши яствами</p>
+      <p>берешь богатств города гостей кормить месяца стольких угощение хватит это</p>
+      <p>бурдюк бурдюк бурдюк дворцу заново издеваться мгновение н накрывает накрыть нашептывать никто ока ответом очистить п пе поверил позвал приближенные признался приказал приличествует сделано смеяться стали сталп стол стол таким увидя хана ханскому это это юноша юноша</p>
+      <p>день люди сказали собрались уходить хан юноше</p>
+      <p>берем бурдюк собой</p>
+      <p>берете вспомнив закричал отдам почему успокоился ша шашке это юпо</p>
+      <p>берите пожалеть сказал</p>
+      <p>бурдюк бурдюк забрав ними опа перебила послал посмеялись принесла те тотчас ушли шашку юноша</p>
+      <p>бурка которая мертвых нему оживил оживляет оп пришли родные стали убитых убитых узпав умолять юноши</p>
+      <p>дайте деньги оживлю сказал юноша</p>
+      <p>бурку взял давали депьги домой золота каждого кого нужно одному оживлять оп погрузился полученные пошел роздал сиротам сколько согласились стал столько те убитых шеи</p>
+      <p>водь говорили останется отдал сиротам тебе</p>
+      <p>бурдюк бурдюк бурка верных достаточно еле зажил кормил людей моих наказывала ноги обидчиков оживляла отвечал п поил принести припеваючи слуг унес хороших хотел шашка шашки юноша</p>
+    </body>
+  </text>
+</TEI>

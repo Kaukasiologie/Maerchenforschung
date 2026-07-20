@@ -1,127 +1,161 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/550844/khadzhalmakhi.html">Khadzhalmakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1958</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Магомед</forename>
-        <surname xml:lang="rus">Дибиралиев</surname>
-       </persName>
-       <age>60</age>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/535538/levashinskiy-rayon.html">Levashinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/550844/khadzhalmakhi.html">Khadzhalmakhi</settlement>
+          <geo />
+        </placeName>
+        <date>1958</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Магомед</forename>
+            <surname xml:lang="rus">Дибиралиев</surname>
+          </persName>
+          <age>60</age>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_134">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_134">
     <body>
-     <head>СОКОЛ ПРОВИДЕЦ</head>
-     <p>дурачок жил свете</p><p>боковую большое ветвь вогвьа время выбрал дерево дороге дороги дровами дурачок залез лес мимо начал недалеко нему однажды основания пего перебрался подойдя подрубать потел проходил путник рубит самую сказал толстую увидев удивился удобно уселся это</p><p>веткой вместе основа парень пересесть пито подрубишь рубят се упадешь эй</p><p>будущем дорогой дурачок знать иди мешай можешь отвечал откуда произойдет своей</p><p>бесполезно больпо ветку вместе вскоре дурачок нею ответу подрубил поняв поразился путник спорить упав ухода ушел ушибся</p><p>будущее водь встал дело должен дурачок знать мыслью нагнав нутппком оказывается оп оп отгадывает побежал подумал самом сказал умру человек</p><p>дерева значит можешь сказать узнал умру упаду</p><p>вернулся ветры ветры вскоре должен домой дровами дурачок дурачок дурачок знать знаю избавиться ис могу нагрузил осел осел ослу отвечал откуда отправился отставал первом повторяя подъеме подъеме пустил пустит путник путник раза своему сказал сказал сказать умрет хорошенько это это</p><p>колени пу умер</p><p>ветры второй осел пустил сказал</p><p>пояс пу умер</p><p>дороге произошло свалился словами третий это</p><p>номер</p><p>вечером волк волк говорил дороги дурачок задрал краям месту обрадовался осел осла ослом отдыхает очень подошел пощипывать проголодавшийся расправляется смотрел стал траву увидев увидев хозяин этому</p><p>жаль моего осла показал тебе трогать умер эх</p><p>бедного видел вороны говорит дурачок засаду костей кости которые ночь ночь одни одну осла ослика остались отвечал отправился пего подняться поймал провидец продрог решил село сильно слетелись сокол сороки сорокой сороку сороку соседнее спрашивали такое устроил утром человек это это</p><p>гости заходи ко своим соколом</p><p>вошли двери дверь дверь дом дома дошли дурачком дурачок ели жена жену заглянул запертыми любовника любовником муж нему оказались окно оп открыла пока пошли приподнялся спрятав стучал увидел хозяин хозяина</p><p>говорит жене муж</p><p>гостя дай жена нам поесть принимай хорошего</p><p>дурачок жена закричала ними овечьим положила принесла сороку стали сыром та хлеб черствый щелкнул</p><p>говорит сокол спросил твой хозяин</p><p>вареники говорит дурачок котле мясом отвечал</p><p>вареники ве воскликнул жена нам неужели си хозяин</p><p>ах варениками вспохмнпла жена котел молвила принесла</p><p>дурачок закричала наелись оып снова сороку стукнул</p><p>сказал спросил хозяин</p><p>дурачок л ните ответил сказал сладости фрукты халва</p><p>деле жене изумился немедленно подать приказал самом сладости хозяин</p><p>забыла напомнили поднос полный принесла сказала</p><p>время всем дурачок насытился некоторое сороку щелкнул</p><p>оп полюбопытствовал рассказал хозяин</p><p>говорит дурачок жена комнате любовника оп пояснил спрятала твоя той</p><p>бежать бросилась взял вслед выхватил дверью добром домой дурачок жена кинжал кинулся любовник муж наполнил ними окно отправился подслушивавший прыгнул разговор разным сказал слова спеша спокойненько убежал хурджилы</p></body>
-   </text>
-  </TEI>
+      <head>СОКОЛ ПРОВИДЕЦ</head>
+      <p>дурачок жил свете</p>
+      <p>боковую большое ветвь вогвьа время выбрал дерево дороге дороги дровами дурачок залез лес мимо начал недалеко нему однажды основания пего перебрался подойдя подрубать потел проходил путник рубит самую сказал толстую увидев удивился удобно уселся это</p>
+      <p>веткой вместе основа парень пересесть пито подрубишь рубят се упадешь эй</p>
+      <p>будущем дорогой дурачок знать иди мешай можешь отвечал откуда произойдет своей</p>
+      <p>бесполезно больпо ветку вместе вскоре дурачок нею ответу подрубил поняв поразился путник спорить упав ухода ушел ушибся</p>
+      <p>будущее водь встал дело должен дурачок знать мыслью нагнав нутппком оказывается оп оп отгадывает побежал подумал самом сказал умру человек</p>
+      <p>дерева значит можешь сказать узнал умру упаду</p>
+      <p>вернулся ветры ветры вскоре должен домой дровами дурачок дурачок дурачок знать знаю избавиться ис могу нагрузил осел осел ослу отвечал откуда отправился отставал первом повторяя подъеме подъеме пустил пустит путник путник раза своему сказал сказал сказать умрет хорошенько это это</p>
+      <p>колени пу умер</p>
+      <p>ветры второй осел пустил сказал</p>
+      <p>пояс пу умер</p>
+      <p>дороге произошло свалился словами третий это</p>
+      <p>номер</p>
+      <p>вечером волк волк говорил дороги дурачок задрал краям месту обрадовался осел осла ослом отдыхает очень подошел пощипывать проголодавшийся расправляется смотрел стал траву увидев увидев хозяин этому</p>
+      <p>жаль моего осла показал тебе трогать умер эх</p>
+      <p>бедного видел вороны говорит дурачок засаду костей кости которые ночь ночь одни одну осла ослика остались отвечал отправился пего подняться поймал провидец продрог решил село сильно слетелись сокол сороки сорокой сороку сороку соседнее спрашивали такое устроил утром человек это это</p>
+      <p>гости заходи ко своим соколом</p>
+      <p>вошли двери дверь дверь дом дома дошли дурачком дурачок ели жена жену заглянул запертыми любовника любовником муж нему оказались окно оп открыла пока пошли приподнялся спрятав стучал увидел хозяин хозяина</p>
+      <p>говорит жене муж</p>
+      <p>гостя дай жена нам поесть принимай хорошего</p>
+      <p>дурачок жена закричала ними овечьим положила принесла сороку стали сыром та хлеб черствый щелкнул</p>
+      <p>говорит сокол спросил твой хозяин</p>
+      <p>вареники говорит дурачок котле мясом отвечал</p>
+      <p>вареники ве воскликнул жена нам неужели си хозяин</p>
+      <p>ах варениками вспохмнпла жена котел молвила принесла</p>
+      <p>дурачок закричала наелись оып снова сороку стукнул</p>
+      <p>сказал спросил хозяин</p>
+      <p>дурачок л ните ответил сказал сладости фрукты халва</p>
+      <p>деле жене изумился немедленно подать приказал самом сладости хозяин</p>
+      <p>забыла напомнили поднос полный принесла сказала</p>
+      <p>время всем дурачок насытился некоторое сороку щелкнул</p>
+      <p>оп полюбопытствовал рассказал хозяин</p>
+      <p>говорит дурачок жена комнате любовника оп пояснил спрятала твоя той</p>
+      <p>бежать бросилась взял вслед выхватил дверью добром домой дурачок жена кинжал кинулся любовник муж наполнил ними окно отправился подслушивавший прыгнул разговор разным сказал слова спеша спокойненько убежал хурджилы</p>
+    </body>
+  </text>
+</TEI>

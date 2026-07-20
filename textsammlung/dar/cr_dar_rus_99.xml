@@ -1,127 +1,142 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Darginische Folklore</title>
-      <title xml:lang="eng">Dargwa Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>РФИИЯЛ</institution>
-          <collection>д. 95</collection>
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Darginische Folklore</title>
+        <title xml:lang="eng">Dargwa Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">ДАРГИНСКИЕ НАРОДНЫЕ СКАЗКИ. Перевод, предисловие и примечания М.-З. Османова. Ответственый редактор З. Г. Османова.</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Издательцтво восточной литературы. Москжа 1963</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>РФИИЯЛ</institution>
+                <collection>д. 95</collection>
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="dar">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
-       <geo />
-      </placeName>
-      <date>1920-1930</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Хамис</forename>
-        <surname xml:lang="rus">Алиева</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">А.</forename>
-        <surname xml:lang="rus">Алиев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.-З.</forename>
-        <surname xml:lang="rus">Осмапов</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/496609/sergokalinskiy-rayon.html">Sergokalinskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/478888/urakhi.html">Urakhi</settlement>
+          <geo />
+        </placeName>
+        <date>1920-1930</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Хамис</forename>
+            <surname xml:lang="rus">Алиева</surname>
+          </persName>
+          <age />
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">А.</forename>
+            <surname xml:lang="rus">Алиев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.-З.</forename>
+            <surname xml:lang="rus">Осмапов</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_dar_rus_99">
+  </teiHeader>
+  <text xml:id="cr_dar_rus_99">
     <body>
-     <head>ЛИСА И ВОЛК</head>
-     <p>бище видном вместо го делает жила заметили испекла лиса месте начинки огромный однажды опа отправилась п па пирог положила положила ппрог собой спрашивают стой угольков уселась чабанов чабаны</p><p>взяла вока испекла лиса лиса обмана обмс обрадовались опа отвечает отдали пе пирог пирог подальше поторопилась пять разговоров раскрыли уйти хочет чабапы чабапы ягненка ягненка ягненка</p><p>вернулись возмутились далеко лисой наглым обманом опа оттуда пирог погнались посыпались разрезали таким угли чабаны чабапы</p><p>волк волк говорит день жирпос каждый лиса лиса лису однажды опа отвела откармливать очень подошел понадобилась принялась рассказала рвала своем спросил стал трава травой траву удивился ходила ягненка ягненке ягпепка</p><p>барашка будем вместе дней кормить несколько погощу разреши рвать твоего траву</p><p>лиса ответила пожалуйста хочешь</p><p>барагпка вдвоем волк волку глупость глядит дней доверчивость жить копытца кормила лиса лиса лиса несколько одни остались отомстить очереди погоревала посетовала пришла решила стали съел таков травой травой ушла ходили ягненка ягненка</p><p>волк гору день заметили па плести плетенку подходит полудню пошла работала работала спрашивает стала стопбшце устроилась утром чабанов</p><p>делаешь</p><p>барашка лиса обменяю отвечает плетенку плету чабанов</p><p>волк делу лисапька милая научи просить стал этому</p><p>влезть внутрь ие иначе лиса научишься отвечала пе плести плетенки сесть тебе туда</p><p>барашка влезть вниз внутрь волк волк волка вскоре горы готова заделывать закричит закрыт л лиса лиса лиса наглухо незаметно обиделся обменяет ои оказался отверстие п плести плетеика плетеику плетенки плетенку покатит полез продолжает радуется размышляя сидит стала учит чабанам</p><p>ваш враг заклятый идет смотрите эя</p><p>бросились волка довольная домой забили лиса местью насмерть отправилась очень плетенке своей собаками увидели чабаны</p></body>
-   </text>
-  </TEI>
+      <head>ЛИСА И ВОЛК</head>
+      <p>бище видном вместо го делает жила заметили испекла лиса месте начинки огромный однажды опа отправилась п па пирог положила положила ппрог собой спрашивают стой угольков уселась чабанов чабаны</p>
+      <p>взяла вока испекла лиса лиса обмана обмс обрадовались опа отвечает отдали пе пирог пирог подальше поторопилась пять разговоров раскрыли уйти хочет чабапы чабапы ягненка ягненка ягненка</p>
+      <p>вернулись возмутились далеко лисой наглым обманом опа оттуда пирог погнались посыпались разрезали таким угли чабаны чабапы</p>
+      <p>волк волк говорит день жирпос каждый лиса лиса лису однажды опа отвела откармливать очень подошел понадобилась принялась рассказала рвала своем спросил стал трава травой траву удивился ходила ягненка ягненке ягпепка</p>
+      <p>барашка будем вместе дней кормить несколько погощу разреши рвать твоего траву</p>
+      <p>лиса ответила пожалуйста хочешь</p>
+      <p>барагпка вдвоем волк волку глупость глядит дней доверчивость жить копытца кормила лиса лиса лиса несколько одни остались отомстить очереди погоревала посетовала пришла решила стали съел таков травой травой ушла ходили ягненка ягненка</p>
+      <p>волк гору день заметили па плести плетенку подходит полудню пошла работала работала спрашивает стала стопбшце устроилась утром чабанов</p>
+      <p>делаешь</p>
+      <p>барашка лиса обменяю отвечает плетенку плету чабанов</p>
+      <p>волк делу лисапька милая научи просить стал этому</p>
+      <p>влезть внутрь ие иначе лиса научишься отвечала пе плести плетенки сесть тебе туда</p>
+      <p>барашка влезть вниз внутрь волк волк волка вскоре горы готова заделывать закричит закрыт л лиса лиса лиса наглухо незаметно обиделся обменяет ои оказался отверстие п плести плетеика плетеику плетенки плетенку покатит полез продолжает радуется размышляя сидит стала учит чабанам</p>
+      <p>ваш враг заклятый идет смотрите эя</p>
+      <p>бросились волка довольная домой забили лиса местью насмерть отправилась очень плетенке своей собаками увидели чабаны</p>
+    </body>
+  </text>
+</TEI>

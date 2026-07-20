@@ -1,134 +1,185 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Tatische Folklore</title>
-      <title xml:lang="eng">Tat Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Tatische Folklore</title>
+        <title xml:lang="eng">Tat Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Золотой сундук (сказки татов Дагестана). Составление, перевод с татского и примечания Амалдана Кукуллу</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Москва, Главная редакция восточной литературы издательства «Наука», 1974</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ttt">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
-       <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
-       <geo />
-      </placeName>
-      <date>1935</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Хизгиё-Эми</forename>
-        <surname xml:lang="rus">Дадашев</surname>
-       </persName>
-       <age />
-       <birth>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
         <placeName>
-         <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-         <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-         <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
-         <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
-         <geo />
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/566532/derbent.html">Derbent</district>
+          <settlement ref="https://www.geonames.org/566532/derbent.html">Derbent</settlement>
+          <geo />
         </placeName>
-        <date>1854</date>
-       </birth>
-      </person>
-      <person role="researcher">
-       <persName />
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">Амалдан</forename>
-        <surname xml:lang="rus">Кукуллу</surname>
-       </persName>
-      </person>
-     </particDesc>
+        <date>1935</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Хизгиё-Эми</forename>
+            <surname xml:lang="rus">Дадашев</surname>
+          </persName>
+          <age />
+          <birth>
+            <placeName>
+              <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+              <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+              <district ref="https://www.geonames.org/566528/derbentskiy-rayon.html">Derbentskiy Rayon</district>
+              <settlement ref="https://www.geonames.org/516562/nyugdi.html">Nyugdi</settlement>
+              <geo />
+            </placeName>
+            <date>1854</date>
+          </birth>
+        </person>
+        <person role="researcher">
+          <persName />
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">Амалдан</forename>
+            <surname xml:lang="rus">Кукуллу</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ttt_rus_24">
+  </teiHeader>
+  <text xml:id="cr_ttt_rus_24">
     <body>
-     <head>8. Ум и Счастье</head>
-     <p>встретились говорит заспорили счастье счастье ум</p><p>нужнее сильнее</p><p>говорит ум</p><p>давай долго известно испробуем ком конца неизвестно силу сказал спорили спору ум</p><p>говорит согласилось счастье</p><p>башке беднягу день кому лень лысой обижают осчастливлю падишаха плешак получает своей служит сотню щелчков</p><p>башке вселилось встретился второй вышел день день день десять лысой одного падишах падишах плешак плешак плешака подозвал пожалел получил порешили прогулку прошел разошлись своего синяки сказал слугу сплошные ссадины счастье счастье третий увидел украдкой ум четвертый щелчков</p><p>будешь видит водовозов вошел дают день дней дня дорогой заглянуть знаю коровник коровник коровнике лысине мало мимо можешь навоз началась падишах падишах перевожу плешак плешак плешака плешака подозвал проезжал работа решил сегодняшнего сказал скотники сто тебе трудился туда убирает убирать умереть щелчков</p><p>вижу дворец дня заберу работы сегодняшнего устаешь</p><p>встречал гостей дворце день другому начал одному падишаху плешак поможет посидеть предложит провожал пройти раздеться скажет служить стражником третьему целый</p><p>грамоте знает известно мало падишах плешак плешака послать работе раввину решил трудился учиться</p><p>адату городов дней долго каждую кое кончил назначил нам находился неизвестно нес падишах падишахства плешак плешак плешак правителем раввина рассказывают своего синагоге службу сорок субботу учился учиться</p><p>время городом забрал знаем знаем крепость некоторое одну падишах падишах пе перевел плешак правил раввином синагоге службой служить советники справлялся этим</p><p>буду везиры воды голову готовы дни днями доверенным доверяет завидовали знали коврами личным любимым люди многие морочить навредить недели неделями общем падишах падишаха падишаха падишаха плешак плешак плешаку повозке полностью пор приближенным разъезжал реке самым скажу советником соседней стал тех убранной утекло шли</p><p>важному везир везнрам вошел говорит дворец делу другому нему однажды очень падишах плешак плешаку прийти приказал своим уенвищахь</p><p>близкий которого лысине падишаху плешак посмотри самый счастливый тенерь узнать человек шлепали</p><p>везир отвечает</p><p>везет везир говорит давай даст дурак дураку мужчина н обманем падишах падишаху первый подзатыльник послушается прав прогонит пусть разозлится скажем ударит</p><p>бог везирам везиры говорит дай дорогие здоровья плешак</p><p>дал очень паатна подзатыльник сделаю хочется это</p><p>везиры н обрадовались</p><p>вскоре вылезла головы зала затылку змея корона огромная ответить падишах падишаха плешак приближенных приветствия пришел углу ударил упала уползла успел щель</p><p>испугался падишах пришел сказал сначала</p><p>дорогой дочь жены отдаю плешак смерти спас тебе это</p><p>везиры каждый переглянулись подумал</p><p>берет зятья падишах плешака прогнал сделать старались</p><p>дней несколько падишах приближенных пригласил прошло своих</p><p>везир везиры говорит дворец другому едва обмануть переступил плешака поджидать пораньше порог пришли решили стали услышал</p><p>давай научим ногой падишах падишаха плешака плешака прогонит разгневается свалится свой сядет толкнул трон трона</p><p>везир говорит</p><p>придумал это</p><p>везирам плешак сказал</p><p>бог везиры дай дорогие здоровья очень падишаха сделаю столкнул трона хочется это</p><p>везиры обрадовались</p><p>воскликнул воткнулся время вскоре едва кинжал комнату месте нему обнаженный падишах падишах падишах падишах плешак подошел пол приближенных пригласил пришел пройти рядом самое своих сидел стены столкнул счастью трон увидел упал уселся это это</p><p>избавил смерти спаситель</p><p>дочери н падишах плещака приказал свадьбу своей сыграть</p><p>башке блюд вкусных воскликнула господь гостей гости дворец дочь дурака ели жених коровнике лысой множество навоз невесты падишах падишаха передали пили плешака плясали подружки покарает приближенных пригласил приготовлено разговоры рассказывать родственников свадьбу своих собравшимся стал съехались убирал услышали шлепали шло</p><p>дурака женой плешивого хочу</p><p>говорит нозвали отца</p><p>дурака женой плешивого хочу</p><p>говорил дочь желала падишах слушать уговаривал</p><p>видит дела думало думало зятем обратиться падишаха плешака плохи помочь помощью придумало решило счастье счастье уму</p><p>время выручало дорогой дураку зря мало мои очень плешивому помоги помочь прав пришло пропадают прости прошу ради сделать силах сколько сколько старалось старания счастья ум ум ума этому</p><p>вещи вовсе вокруг вселился глазами говорить гости дочери друга дурак дурака жених забавные заставил истории любопытством мудрые падишах плешака плешака плешивого повел пожалел пусть решил свадьбе своего своей своими сделать слушать собрались стали увидел увидит ум ум умного умные человека это</p><p>вошел говорит комнату невесте плешак своей</p><p>внутри дети зерна зерна которого красавица наши одно это это яблоко</p><p>дочь жениха закричал обрадовался падишах падишаха радости речь своего улыбнулась умную услышала</p><p>веселитесь гости дочери зурначи играйте красавицы моей плешака свадьба умного это</p><p>веселились гости ели пили</p><p>верите веселился ел знаю историю откуда пил плясал свадьбе</p></body>
-   </text>
-  </TEI>
+      <head>8. Ум и Счастье</head>
+      <p>встретились говорит заспорили счастье счастье ум</p>
+      <p>нужнее сильнее</p>
+      <p>говорит ум</p>
+      <p>давай долго известно испробуем ком конца неизвестно силу сказал спорили спору ум</p>
+      <p>говорит согласилось счастье</p>
+      <p>башке беднягу день кому лень лысой обижают осчастливлю падишаха плешак получает своей служит сотню щелчков</p>
+      <p>башке вселилось встретился второй вышел день день день десять лысой одного падишах падишах плешак плешак плешака подозвал пожалел получил порешили прогулку прошел разошлись своего синяки сказал слугу сплошные ссадины счастье счастье третий увидел украдкой ум четвертый щелчков</p>
+      <p>будешь видит водовозов вошел дают день дней дня дорогой заглянуть знаю коровник коровник коровнике лысине мало мимо можешь навоз началась падишах падишах перевожу плешак плешак плешака плешака подозвал проезжал работа решил сегодняшнего сказал скотники сто тебе трудился туда убирает убирать умереть щелчков</p>
+      <p>вижу дворец дня заберу работы сегодняшнего устаешь</p>
+      <p>встречал гостей дворце день другому начал одному падишаху плешак поможет посидеть предложит провожал пройти раздеться скажет служить стражником третьему целый</p>
+      <p>грамоте знает известно мало падишах плешак плешака послать работе раввину решил трудился учиться</p>
+      <p>адату городов дней долго каждую кое кончил назначил нам находился неизвестно нес падишах падишахства плешак плешак плешак правителем раввина рассказывают своего синагоге службу сорок субботу учился учиться</p>
+      <p>время городом забрал знаем знаем крепость некоторое одну падишах падишах пе перевел плешак правил раввином синагоге службой служить советники справлялся этим</p>
+      <p>буду везиры воды голову готовы дни днями доверенным доверяет завидовали знали коврами личным любимым люди многие морочить навредить недели неделями общем падишах падишаха падишаха падишаха плешак плешак плешаку повозке полностью пор приближенным разъезжал реке самым скажу советником соседней стал тех убранной утекло шли</p>
+      <p>важному везир везнрам вошел говорит дворец делу другому нему однажды очень падишах плешак плешаку прийти приказал своим уенвищахь</p>
+      <p>близкий которого лысине падишаху плешак посмотри самый счастливый тенерь узнать человек шлепали</p>
+      <p>везир отвечает</p>
+      <p>везет везир говорит давай даст дурак дураку мужчина н обманем падишах падишаху первый подзатыльник послушается прав прогонит пусть разозлится скажем ударит</p>
+      <p>бог везирам везиры говорит дай дорогие здоровья плешак</p>
+      <p>дал очень паатна подзатыльник сделаю хочется это</p>
+      <p>везиры н обрадовались</p>
+      <p>вскоре вылезла головы зала затылку змея корона огромная ответить падишах падишаха плешак приближенных приветствия пришел углу ударил упала уползла успел щель</p>
+      <p>испугался падишах пришел сказал сначала</p>
+      <p>дорогой дочь жены отдаю плешак смерти спас тебе это</p>
+      <p>везиры каждый переглянулись подумал</p>
+      <p>берет зятья падишах плешака прогнал сделать старались</p>
+      <p>дней несколько падишах приближенных пригласил прошло своих</p>
+      <p>везир везиры говорит дворец другому едва обмануть переступил плешака поджидать пораньше порог пришли решили стали услышал</p>
+      <p>давай научим ногой падишах падишаха плешака плешака прогонит разгневается свалится свой сядет толкнул трон трона</p>
+      <p>везир говорит</p>
+      <p>придумал это</p>
+      <p>везирам плешак сказал</p>
+      <p>бог везиры дай дорогие здоровья очень падишаха сделаю столкнул трона хочется это</p>
+      <p>везиры обрадовались</p>
+      <p>воскликнул воткнулся время вскоре едва кинжал комнату месте нему обнаженный падишах падишах падишах падишах плешак подошел пол приближенных пригласил пришел пройти рядом самое своих сидел стены столкнул счастью трон увидел упал уселся это это</p>
+      <p>избавил смерти спаситель</p>
+      <p>дочери н падишах плещака приказал свадьбу своей сыграть</p>
+      <p>башке блюд вкусных воскликнула господь гостей гости дворец дочь дурака ели жених коровнике лысой множество навоз невесты падишах падишаха передали пили плешака плясали подружки покарает приближенных пригласил приготовлено разговоры рассказывать родственников свадьбу своих собравшимся стал съехались убирал услышали шлепали шло</p>
+      <p>дурака женой плешивого хочу</p>
+      <p>говорит нозвали отца</p>
+      <p>дурака женой плешивого хочу</p>
+      <p>говорил дочь желала падишах слушать уговаривал</p>
+      <p>видит дела думало думало зятем обратиться падишаха плешака плохи помочь помощью придумало решило счастье счастье уму</p>
+      <p>время выручало дорогой дураку зря мало мои очень плешивому помоги помочь прав пришло пропадают прости прошу ради сделать силах сколько сколько старалось старания счастья ум ум ума этому</p>
+      <p>вещи вовсе вокруг вселился глазами говорить гости дочери друга дурак дурака жених забавные заставил истории любопытством мудрые падишах плешака плешака плешивого повел пожалел пусть решил свадьбе своего своей своими сделать слушать собрались стали увидел увидит ум ум умного умные человека это</p>
+      <p>вошел говорит комнату невесте плешак своей</p>
+      <p>внутри дети зерна зерна которого красавица наши одно это это яблоко</p>
+      <p>дочь жениха закричал обрадовался падишах падишаха радости речь своего улыбнулась умную услышала</p>
+      <p>веселитесь гости дочери зурначи играйте красавицы моей плешака свадьба умного это</p>
+      <p>веселились гости ели пили</p>
+      <p>верите веселился ел знаю историю откуда пил плясал свадьбе</p>
+    </body>
+  </text>
+</TEI>

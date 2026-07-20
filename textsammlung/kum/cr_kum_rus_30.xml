@@ -1,120 +1,179 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Kumykische Folklore</title>
-      <title xml:lang="eng">Kumyk Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution />
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Kumykische Folklore</title>
+        <title xml:lang="eng">Kumyk Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="kum"> «Нарт», сост. А. Акааов, Махачкала, 1956, стр. 78 - 81 (на кум. яз.)</title>
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Сказки народов Дагестана. Перевод сотрудников Сектора литературы и народного творчества ИИЯЛ ДагФАН Составитель и автор примечаний ХАЛИЛ ХАЛИЛОВ. Типологический анализ сюжетов ИСИДОРА ЛЕВИНА</title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus">Гдавная редакция Восточной лктердтури. Москва, 1965</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution />
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="kum"> «Нарт», сост. А. Акааов, Махачкала, 1956, стр. 78 - 81 (на кум. яз.)</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="kum">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/544007/kostek.html">Kostek</settlement>
-       <geo />
-      </placeName>
-      <date>1937</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName />
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <surname xml:lang="rus">Акавов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/550476/khasavyurtovskiy-rayon.html">Khasavyurtovskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/544007/kostek.html">Kostek</settlement>
+          <geo />
+        </placeName>
+        <date>1937</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName />
+          <age />
+        </person>
+        <person role="researcher">
+          <persName>
+            <surname xml:lang="rus">Акавов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName />
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_kum_rus_30">
+  </teiHeader>
+  <text xml:id="cr_kum_rus_30">
     <body>
-     <head>3. Лиса, волк и барсук</head>
-     <p>волк двоих дорогу запас лиса однажды отправились путь чурека</p><p>волк говорит</p><p>мяса чурекам</p><p>лиса ответила пожелать сделаешь</p><p>барсук возьмем вон давай живет красной мясо норе обманем скалой собой</p><p>барсука дошли закричала лиса норки</p><p>барсук вместе выходи иду пошли эй ярмарку</p><p>приготовлено угощение</p><p>барсук вылез голодный норы угощении услыхал</p><p>виду волка испугался ними подал пошел увидев</p><p>барсз волк думает идет ка лиса мяса настороже останусь съесть</p><p>закусить звери остановились</p><p>говорит лиса</p><p>давайте других каждому окажется поссорились праведным прибережем самым свой сделаем съест чурек чурек</p><p>остальные согласились</p><p>лиса спрашивает</p><p>волк дядя пьешь</p><p>волк жизни ответил пил</p><p>бузу говорит далеко делают лиса обходить пила поля проса просяные стала услышала</p><p>барсук время отскочил сторону это</p><p>барсук</p><p>барсук отвечает</p><p>идет питье разговор стоять</p><p>алибеку гаджи поступил устазу</p><p>барсук дальше звери лиса обед остановились пошли предложила съел чурек</p><p>второй давайте побережем последний посмотрим старше старший съест чурек</p><p>волка лиса согласились спросила</p><p>алибек волк гаджи дядя знаешь появился</p><p>волк знаю ответил</p><p>алибекагаджи войну времена говорит жених лиса молод невестой ушел</p><p>барсук заплакал</p><p>барсук плачешь</p><p>алибека барсук взрослых войне времена вспомнил гаджи двух женат заплакал имел которые отвечает плакать погибли сыновей</p><p>барсуку волк злиться лиса начинал отдать пришлось чурек шепнула</p><p>ковре торопись уйдет</p><p>вечер взяв дальше лиса наступил ночлег остановились последний пошли сказала чурек</p><p>давайте интересным кого ляжем окажется самым сон съест ужина утром чурек</p><p>барсук барсук боится волка вспомнил держать легли ночью отару поговорку посмеет проснулся снова согласились спать съел уснул чурек</p><p>волку лиса наутро обратилась</p><p>видел сон</p><p>волк начал рассказывать</p><p>блюда вина ел лучшие пил приказывал приносить развлекался самые свадьбе сына ханского</p><p>лиса перебила</p><p>блюда которые отправляли первая пробовала свадьбе тебе чавушем</p><p>барсук вернулся вмешался говорите дверей домой кусочком лег пируете посмотрел правд свадьбе свадьбе спать стоял съел угостили хлеба чурек</p><p>лиса осла повисли съеден услышала уши чурек</p><p>барсук божий видишь живешь лиса нему обратилась откуда ох редко свет столько тебе темноте хитрости</p><p>барсук барсук барсука вдвоем ведут волк волку волчьи готов громко кинуться лиса лисьи могу норе нору остаться отправились пая повернул подумала прошептала своей сказал следы увидел ухо</p><p>брат возвращался домой дорогой каждый приветствовал радостно случилось те</p><p>буду говоришь другом жить зол месте мной перь почему уйду</p><p>волк выдержал выжидала лиса ответил помалкивала</p><p>барсук брат готов дорогой заходи здравствуй принять</p><p>барсук волчий голос побежал услыхал чабану</p><p>ах броситься волк лиса лису лишила мяса плутовка посулила рассердился сказала хлеба хотел</p><p>вода волк дне достигнет дядя желтеет золото моря спокойствия торопливая</p><p>барсук заложил камнем нору плутовка подоспел сказал улизнуть хотела чабан</p><p>барсук волку лиса плохого сделал тебе эй</p><p>барсук видно говорит запел кому попадешь пословица правду роешь яму</p><p>барсук барсуку достиг живет который лет подружился помог пусть своего тысячу чабан чабаном</p></body>
-   </text>
-  </TEI>
+      <head>3. Лиса, волк и барсук</head>
+      <p>волк двоих дорогу запас лиса однажды отправились путь чурека</p>
+      <p>волк говорит</p>
+      <p>мяса чурекам</p>
+      <p>лиса ответила пожелать сделаешь</p>
+      <p>барсук возьмем вон давай живет красной мясо норе обманем скалой собой</p>
+      <p>барсука дошли закричала лиса норки</p>
+      <p>барсук вместе выходи иду пошли эй ярмарку</p>
+      <p>приготовлено угощение</p>
+      <p>барсук вылез голодный норы угощении услыхал</p>
+      <p>виду волка испугался ними подал пошел увидев</p>
+      <p>барсз волк думает идет ка лиса мяса настороже останусь съесть</p>
+      <p>закусить звери остановились</p>
+      <p>говорит лиса</p>
+      <p>давайте других каждому окажется поссорились праведным прибережем самым свой сделаем съест чурек чурек</p>
+      <p>остальные согласились</p>
+      <p>лиса спрашивает</p>
+      <p>волк дядя пьешь</p>
+      <p>волк жизни ответил пил</p>
+      <p>бузу говорит далеко делают лиса обходить пила поля проса просяные стала услышала</p>
+      <p>барсук время отскочил сторону это</p>
+      <p>барсук</p>
+      <p>барсук отвечает</p>
+      <p>идет питье разговор стоять</p>
+      <p>алибеку гаджи поступил устазу</p>
+      <p>барсук дальше звери лиса обед остановились пошли предложила съел чурек</p>
+      <p>второй давайте побережем последний посмотрим старше старший съест чурек</p>
+      <p>волка лиса согласились спросила</p>
+      <p>алибек волк гаджи дядя знаешь появился</p>
+      <p>волк знаю ответил</p>
+      <p>алибекагаджи войну времена говорит жених лиса молод невестой ушел</p>
+      <p>барсук заплакал</p>
+      <p>барсук плачешь</p>
+      <p>алибека барсук взрослых войне времена вспомнил гаджи двух женат заплакал имел которые отвечает плакать погибли сыновей</p>
+      <p>барсуку волк злиться лиса начинал отдать пришлось чурек шепнула</p>
+      <p>ковре торопись уйдет</p>
+      <p>вечер взяв дальше лиса наступил ночлег остановились последний пошли сказала чурек</p>
+      <p>давайте интересным кого ляжем окажется самым сон съест ужина утром чурек</p>
+      <p>барсук барсук боится волка вспомнил держать легли ночью отару поговорку посмеет проснулся снова согласились спать съел уснул чурек</p>
+      <p>волку лиса наутро обратилась</p>
+      <p>видел сон</p>
+      <p>волк начал рассказывать</p>
+      <p>блюда вина ел лучшие пил приказывал приносить развлекался самые свадьбе сына ханского</p>
+      <p>лиса перебила</p>
+      <p>блюда которые отправляли первая пробовала свадьбе тебе чавушем</p>
+      <p>барсук вернулся вмешался говорите дверей домой кусочком лег пируете посмотрел правд свадьбе свадьбе спать стоял съел угостили хлеба чурек</p>
+      <p>лиса осла повисли съеден услышала уши чурек</p>
+      <p>барсук божий видишь живешь лиса нему обратилась откуда ох редко свет столько тебе темноте хитрости</p>
+      <p>барсук барсук барсука вдвоем ведут волк волку волчьи готов громко кинуться лиса лисьи могу норе нору остаться отправились пая повернул подумала прошептала своей сказал следы увидел ухо</p>
+      <p>брат возвращался домой дорогой каждый приветствовал радостно случилось те</p>
+      <p>буду говоришь другом жить зол месте мной перь почему уйду</p>
+      <p>волк выдержал выжидала лиса ответил помалкивала</p>
+      <p>барсук брат готов дорогой заходи здравствуй принять</p>
+      <p>барсук волчий голос побежал услыхал чабану</p>
+      <p>ах броситься волк лиса лису лишила мяса плутовка посулила рассердился сказала хлеба хотел</p>
+      <p>вода волк дне достигнет дядя желтеет золото моря спокойствия торопливая</p>
+      <p>барсук заложил камнем нору плутовка подоспел сказал улизнуть хотела чабан</p>
+      <p>барсук волку лиса плохого сделал тебе эй</p>
+      <p>барсук видно говорит запел кому попадешь пословица правду роешь яму</p>
+      <p>барсук барсуку достиг живет который лет подружился помог пусть своего тысячу чабан чабаном</p>
+    </body>
+  </text>
+</TEI>

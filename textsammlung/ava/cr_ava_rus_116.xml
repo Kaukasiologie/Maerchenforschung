@@ -1,124 +1,155 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Awarische Folklore</title>
-      <title xml:lang="eng">Avar Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>Личный архив</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Awarische Folklore</title>
+        <title xml:lang="eng">Avar Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title xml:lang="rus">Аварские народные сказки / (Сост., пер. с авар. и авт. примеч. Д.М. Атаев ; Авт. предисл. и типол. анализа сюжетов И. Левин Ил.: Т.И. Алексеева) </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher xml:lang="rus"> (АН СССР. Ин-т востоковедения). - Москва : Наука, 1972.</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>Личный архив</institution>
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="ava">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
-       <geo />
-      </placeName>
-      <date>1953</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Д.</forename>
-        <surname xml:lang="rus">Дибиров</surname>
-       </persName>
-       <age />
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">Д.</forename>
-        <surname xml:lang="rus">Атаев</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName />
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/549104/khunzakhskiy-rayon.html">Khunzakhskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/549105/khunzakh.html">Khunzakh</settlement>
+          <geo />
+        </placeName>
+        <date>1953</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Д.</forename>
+            <surname xml:lang="rus">Дибиров</surname>
+          </persName>
+          <age />
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">Д.</forename>
+            <surname xml:lang="rus">Атаев</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName />
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_ava_rus_116">
+  </teiHeader>
+  <text xml:id="cr_ava_rus_116">
     <body>
-     <head>84. О пользе сказки, или как сын мельника обманул аждаху</head>
-     <p>аллах бородой бороду въелась говорят длинной дни жил земле знаю иначе мельник мельник мучная оставил очень посеребрила призвал просто пыль седой сочтены старый старым сыновей трех</p><p>брат братья давайте дела исправная мельница младший пойдут предложил работать сообща</p><p>братья воля дележ закон мельницу наследство начался поровну потребовали разделить согласились старшие старших числе</p><p>бородой возгордился выбрал запыленной канаву мельничную отец самый старший ходить хочу</p><p>брат дышать крышу мельницы мучной надоело отдали потребовал пылью сказал средний</p><p>достался жернов младшему</p><p>брат жерновом исправно каждого канаву катал каток крыше мешка младший муки помолотого сах следил собирал средний старший чинил</p><p>аждаха брат брат верхнего время гвалда гордец долго дому дошел жил захотел канавой младший молча муку некоторое оплошности пока получает понял признаться прогадал прошло своей следит старший ушел ущелья шел</p><p>аждаха алейкум салам</p><p>аждаха знаешь козу ободрал песни проворчал салам сказки спросил съел уважай</p><p>головой мельника ответил покачал старший сын</p><p>аждаха блюдо лакомое мигом незнайки обрадовался проглотил такие</p><p>вскоре глупость долго думая жить мельника мельницу покинул понял совершил согласился сообща средний сын тайно</p><p>аждаха брата дошел жил разделил старшего судьбу ущелья</p><p>братья забеспокоился исчезли младший мои отправился поиски</p><p>аждахе попал шел шел</p><p>аждаха алейкум брат закричал младший салам</p><p>аждаха давно знаешь ответил песни проглотил салам сказки твой уважай</p><p>брат знать знают мельник небылицы песни разные сказки</p><p>аждаха ка потребовал расскажи сказку</p><p>вырежу конца мельника можешь молча прерывай проглотить промолвишь промолчишь ремень сказал слово слушай спины сын твоей</p><p>аждаха мельника начал рассказывать согласился сын</p><p>вверх вода водопой вспыхнул голову гореть добрался должен жарко замерзла замерзнуть идут идут испарилась испугался истоках кобылиц кобылиц кобылиц кобылицы кобылицы костер кроме лед моего напоил начала небольшой никак обратно огонь оторвал пас побежал повсюду погнал подумал пожар пошел прорубь разбил разложил река река река реке реке сгорело сделал сильно смотрю схватил топор топора топорища успела холод черепа черепа черепом это</p><p>аждаха вспомнил заерзал промолчал сказать условии хотел</p><p>арбу ветки вижу дальше двоих деревья заибе место мясо олени охоту повесил положил пошел пошел свое сделал срубил съел топорище топорищем убил череп швырнул шкуры</p><p>аждаха открыть рот удержался хотел</p><p>арбу бить болтая висел впряг двух дерущихся дней доверху долго домой другим другую задела землей землю концом край мед медом медом меду нагрузил наполнены нахалка начала неба небеса несет несколько ногами носить обе одна одна однажды одним окажется оленьи ответила отставать палка палкой повис подбросила поделили поехал прав предложил принесет прыгнул пчел пчел пчел пчела разнял руками сена спросил стала стог схватился увидел увидел ударил утверждает шкуры шкуры эта</p><p>аждаха выдержал крикнул</p><p>болтун</p><p>ах воскликнул ка мельника подставляй спину сын</p><p>аждахи брата братьев вместе выскочили домой дошел дружно жить мельнице ножом оба отцовской пошли пырнул работать ремень сдирать спины стал стали трое шеи</p></body>
-   </text>
-  </TEI>
+      <head>84. О пользе сказки, или как сын мельника обманул аждаху</head>
+      <p>аллах бородой бороду въелась говорят длинной дни жил земле знаю иначе мельник мельник мучная оставил очень посеребрила призвал просто пыль седой сочтены старый старым сыновей трех</p>
+      <p>брат братья давайте дела исправная мельница младший пойдут предложил работать сообща</p>
+      <p>братья воля дележ закон мельницу наследство начался поровну потребовали разделить согласились старшие старших числе</p>
+      <p>бородой возгордился выбрал запыленной канаву мельничную отец самый старший ходить хочу</p>
+      <p>брат дышать крышу мельницы мучной надоело отдали потребовал пылью сказал средний</p>
+      <p>достался жернов младшему</p>
+      <p>брат жерновом исправно каждого канаву катал каток крыше мешка младший муки помолотого сах следил собирал средний старший чинил</p>
+      <p>аждаха брат брат верхнего время гвалда гордец долго дому дошел жил захотел канавой младший молча муку некоторое оплошности пока получает понял признаться прогадал прошло своей следит старший ушел ущелья шел</p>
+      <p>аждаха алейкум салам</p>
+      <p>аждаха знаешь козу ободрал песни проворчал салам сказки спросил съел уважай</p>
+      <p>головой мельника ответил покачал старший сын</p>
+      <p>аждаха блюдо лакомое мигом незнайки обрадовался проглотил такие</p>
+      <p>вскоре глупость долго думая жить мельника мельницу покинул понял совершил согласился сообща средний сын тайно</p>
+      <p>аждаха брата дошел жил разделил старшего судьбу ущелья</p>
+      <p>братья забеспокоился исчезли младший мои отправился поиски</p>
+      <p>аждахе попал шел шел</p>
+      <p>аждаха алейкум брат закричал младший салам</p>
+      <p>аждаха давно знаешь ответил песни проглотил салам сказки твой уважай</p>
+      <p>брат знать знают мельник небылицы песни разные сказки</p>
+      <p>аждаха ка потребовал расскажи сказку</p>
+      <p>вырежу конца мельника можешь молча прерывай проглотить промолвишь промолчишь ремень сказал слово слушай спины сын твоей</p>
+      <p>аждаха мельника начал рассказывать согласился сын</p>
+      <p>вверх вода водопой вспыхнул голову гореть добрался должен жарко замерзла замерзнуть идут идут испарилась испугался истоках кобылиц кобылиц кобылиц кобылицы кобылицы костер кроме лед моего напоил начала небольшой никак обратно огонь оторвал пас побежал повсюду погнал подумал пожар пошел прорубь разбил разложил река река река реке реке сгорело сделал сильно смотрю схватил топор топора топорища успела холод черепа черепа черепом это</p>
+      <p>аждаха вспомнил заерзал промолчал сказать условии хотел</p>
+      <p>арбу ветки вижу дальше двоих деревья заибе место мясо олени охоту повесил положил пошел пошел свое сделал срубил съел топорище топорищем убил череп швырнул шкуры</p>
+      <p>аждаха открыть рот удержался хотел</p>
+      <p>арбу бить болтая висел впряг двух дерущихся дней доверху долго домой другим другую задела землей землю концом край мед медом медом меду нагрузил наполнены нахалка начала неба небеса несет несколько ногами носить обе одна одна однажды одним окажется оленьи ответила отставать палка палкой повис подбросила поделили поехал прав предложил принесет прыгнул пчел пчел пчел пчела разнял руками сена спросил стала стог схватился увидел увидел ударил утверждает шкуры шкуры эта</p>
+      <p>аждаха выдержал крикнул</p>
+      <p>болтун</p>
+      <p>ах воскликнул ка мельника подставляй спину сын</p>
+      <p>аждахи брата братьев вместе выскочили домой дошел дружно жить мельнице ножом оба отцовской пошли пырнул работать ремень сдирать спины стал стали трое шеи</p>
+    </body>
+  </text>
+</TEI>

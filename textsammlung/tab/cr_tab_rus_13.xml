@@ -1,127 +1,150 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+  <teiHeader>
     <fileDesc>
-     <titleStmt>
-      <title xml:lang="deu">Tabasaranisch Folklore</title>
-      <title xml:lang="eng">Tabasaran Folklore</title>
-      <author key="gnd:133557154">
-       <persName>
-        <forename>Elguja</forename>
-        <surname>Dadunashvili</surname>
-       </persName>
-      </author>
-      <author key="gnd:1154734161">
-       <persName>
-        <forename>Diana</forename>
-        <surname>Forker</surname>
-       </persName>
-      </author>
-      <respStmt>
-       <resp>Annotated according to the ATU system</resp>
-       <name key="gnd:133557154">
-        <persName>
-         <forename>Elguja</forename>
-         <surname>Dadunashvili</surname>
-        </persName>
-       </name>
-      </respStmt>
-     </titleStmt>
-     <publicationStmt>
-      <publisher>
-       <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
-      </publisher>
-      <pubPlace>
-       <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
-      </pubPlace>
-      <date when="2024">2024</date>
-      <distributor>
-       <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
-       <ref target="https://github.com/edadunashvili">Software und Texte</ref>
-      </distributor>
-      <availability>
-       <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
-      </availability>
-     </publicationStmt>
-     <sourceDesc>
-      <biblFull>
-       <titleStmt>
-        <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
-       </titleStmt>
-       <publicationStmt>
-        <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
-       </publicationStmt>
-       <sourceDesc>
-        <msDesc>
-         <msIdentifier>
-          <institution>ФЛ ДГПУ</institution>
-          <collection />
-         </msIdentifier>
-        </msDesc>
+      <titleStmt>
+        <title xml:lang="deu">Tabasaranisch Folklore</title>
+        <title xml:lang="eng">Tabasaran Folklore</title>
+        <author key="gnd:133557154">
+          <persName>
+            <forename>Elguja</forename>
+            <surname>Dadunashvili</surname>
+          </persName>
+        </author>
+        <author key="gnd:1154734161">
+          <persName>
+            <forename>Diana</forename>
+            <surname>Forker</surname>
+          </persName>
+        </author>
+        <respStmt>
+          <resp>Annotated according to the ATU system</resp>
+          <name key="gnd:133557154">
+            <persName>
+              <forename>Elguja</forename>
+              <surname>Dadunashvili</surname>
+            </persName>
+          </name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="gnd:4028557-1">Institute of Slavic and Caucasus Studies. Friedrich Schiller University Jena</name>
+        </publisher>
+        <pubPlace>
+          <genName ref="https://www.geonames.org/2895044/jena.html">Jena</genName>
+        </pubPlace>
+        <date when="2024">2024</date>
+        <distributor>
+          <addName>DFG project “Caucasian narratives in the discourse of comparative fairy tale research”</addName>
+          <ref target="https://github.com/edadunashvili">Software und Texte</ref>
+        </distributor>
+        <availability>
+          <p>by cc<ref target="https://creativecommons.org/licenses/by/4.0/" /></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <biblFull>
-         <titleStmt>
-          <title xml:lang="rus" />
-         </titleStmt>
-         <publicationStmt>
-          <publisher xml:lang="rus" />
-         </publicationStmt>
+          <titleStmt>
+            <title>Свод памятников фольклора народов Дагестана. В двадцати томах. Под редакцией академика Г.Г. Гамзатова. Ответственный редактор тома проф. А.М. Аджиев. Ответственный составитель тома, автор предисловия, комментариев и приложений Ф.А. Алиева. том 3, Бытовые сказки. </title>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Российская Академия Наук. Дагестанский Научный Центр Иститут Языка, Литературы и Искусства им. Гамзата Цадасы. Москва, Наука. 2013</publisher>
+          </publicationStmt>
+          <sourceDesc>
+            <msDesc>
+              <msIdentifier>
+                <institution>ФЛ ДГПУ</institution>
+                <collection />
+              </msIdentifier>
+            </msDesc>
+            <biblFull>
+              <titleStmt>
+                <title xml:lang="rus" />
+              </titleStmt>
+              <publicationStmt>
+                <publisher xml:lang="rus" />
+              </publicationStmt>
+            </biblFull>
+          </sourceDesc>
         </biblFull>
-       </sourceDesc>
-      </biblFull>
-     </sourceDesc>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-     <textClass>
-      <keywords>
-       <term type="writingSystem">utf-8</term>
-      </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/">
-       <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
-       <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
-      </keywords>
-     </textClass>
-     <langUsage>
-      <language ident="tab">
-       <index indexName="iso639-3" />
-       <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
-      </language>
-     </langUsage>
-     <creation>
-      <placeName>
-       <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
-       <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-       <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
-       <settlement ref="https://www.geonames.org/563592/dzhuli.html">Dzhuli</settlement>
-       <geo />
-      </placeName>
-      <date>1970</date>
-     </creation>
-     <particDesc>
-      <person role="speaker">
-       <persName>
-        <forename xml:lang="rus">Р.</forename>
-        <surname xml:lang="rus">Магомедов</surname>
-       </persName>
-       <age>80</age>
-      </person>
-      <person role="researcher">
-       <persName>
-        <forename xml:lang="rus">М.М.</forename>
-        <surname xml:lang="rus">Курбанов</surname>
-       </persName>
-      </person>
-      <person role="translator">
-       <persName>
-        <forename xml:lang="rus">М.М.</forename>
-        <surname xml:lang="rus">Курбанов</surname>
-       </persName>
-      </person>
-     </particDesc>
+      <textClass>
+        <keywords>
+          <term type="writingSystem">utf-8</term>
+        </keywords>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="text.libraryClassification.basisklassifikation" key="18.92">Sonstige asiatische Sprachen und Literaturen</term>
+          <term type="text.libraryClassification.basisklassifikation" key="73.63">Orale Traditionen</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="rus">
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
+        </language>
+      </langUsage>
+      <creation>
+        <placeName>
+          <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
+          <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
+          <district ref="https://www.geonames.org/484957/tabasaranskiy-rayon.html">Tabasaranskiy Rayon</district>
+          <settlement ref="https://www.geonames.org/563592/dzhuli.html">Dzhuli</settlement>
+          <geo />
+        </placeName>
+        <date>1970</date>
+      </creation>
+      <particDesc>
+        <person role="speaker">
+          <persName>
+            <forename xml:lang="rus">Р.</forename>
+            <surname xml:lang="rus">Магомедов</surname>
+          </persName>
+          <age>80</age>
+        </person>
+        <person role="researcher">
+          <persName>
+            <forename xml:lang="rus">М.М.</forename>
+            <surname xml:lang="rus">Курбанов</surname>
+          </persName>
+        </person>
+        <person role="translator">
+          <persName>
+            <forename xml:lang="rus">М.М.</forename>
+            <surname xml:lang="rus">Курбанов</surname>
+          </persName>
+        </person>
+      </particDesc>
     </profileDesc>
-   </teiHeader>
-   <text xml:id="cr_tab_rus_13">
+  </teiHeader>
+  <text xml:id="cr_tab_rus_13">
     <body>
-     <head>65 Могила святого (таб.) </head>
-     <p>бедного горем думал единственный жил жил жил кому лет муллу мысль нему ночью обычаю однажды осел осенила погребали покойника предпочитали приходили разбогатеть сдох сельчане советом удрученного умирал хитрая хитрый ходил шейх шейха</p><p>держала жену закопал зубами огорода осла предупредив сдохшего середине шейх язык</p><p>годекане день заявил народу следующий шейх</p><p>астафирулла вчера женой заново копали кости кости могилу наткнулись огород положено похоронили сельчане собрали человеческие человеческую</p><p>кости могилы огороде односельчанин откуда похоронены священные спросил твоем шахиды шейх эй</p><p>возвращавшегося всем грех действительно должны друг иначе маленьким могила могиле нашем огороде одного ответил отец плиту поставить похоронил поэтому рассказывал святого святого сегодня сельчане хаджа шейх шейха это</p><p>деньги месте мечеть могиле могильную народ начал небольшую некоторые носить осла оставляли плиту построить садака сдохшего установил шейх</p><p>большую быстро верующих весть весь вечера вещи выдуманные год дней ждать завещании истории крепость люди люди месте месту мечеть мечеть мир начал начали недели несколько облетела одной округу посетителям построил построил приносить принося прославили разных рассказывал садака садака святом святом святому сел скот сюда течение утра шейх шейх шейх шейха шейхе шли</p><p>верующим верующих взять грехи день знал каждый коран которые лет мечети могиле могилу могилу молитвы мулла мулла мулла обрадовался обслуживанием обслуживая однажды отпуская охотно попросил посетителей пришел прочел святого святого семи служил служителем согласился справлялся становилось течение читая шейх шейха шейху</p><p>беда верный вместе возле двинулся день деньгами деньги долгий дороге дороги друг дряхлого думал завершилось завести заработанные караванами коран кричать купцы лет мечтал могилой мулла мулла мулла мулла мулла мулла несчастного одного осел осла осла остановился отправиться переночевать плакать погоревав погребение подарил получив помощью постичь путь разбогатеть решил родника свое сдох седьмой село семь сорокадневный спросили стал такая торговцев увидел увидел утром хозяйство читая шейх шейха</p><p>могила мулла плачешь почему чья эй эта</p><p>видел внимания громко громко долго дуа завершения закончил коран корана крикнул купцов мулла мулла начали обращал окружив подняв продолжал руки сторон торговцы фатиха читать читать чтения</p><p>встречали главный купцов могил могила мулла никаких пор родника сих спросил чья эй это</p><p>аллах аравии богослужение ведомо возвращавшийся всей громко завещал заплакал идут известен мекки место мечеть мулла мусульмане мусульмане отправил пах повелел погребен покой построить похоронить правоверные приходят пусть пусть святого святое смертью сюда сюда умрет шейх шейху</p><p>базар ближайший вещи город дня ждать золота караван кое купцов купцы мечеть могиле мулла небольшую немного несколько оставили отправился отрезы помолившись посетителей построил разных распродал садака святого скрылся стал тканей</p><p>большую верующие верующих весть весь вечера вещи время всем года городе горожане дворец деньги днем дом заговорили зиярату знал людской мечеть минаретами мир могиле могиле мулла мулла недели некоторое ночью обошла покоя построить поток потоком похожий пошли прекращался приносили разбогател резали садака святого святого скот смог течение течение утра</p><p>аллах бедный верующие весть грехи долетела забывать зиярату идти ка кого местам месте могилу мулла начали нового новом отпустит пора простит путь работал решил святого святом святым собрался содеянное хитрого хитром шейха шейхе шли</p><p>большой бросился внутрь вокруг вокруг всей главе глаза дворец дворца день добраться долго друг друга известные издалека каково который красивый лет люди могилы могли молились молящихся мулла муллу муллы находившиеся округе очереди попасть простояв пути работал раньше святого седьмой семь сразу стояли увидел удалось удивление узнали хитрому хитрому чалмах час шейх шейха шейхи шейху шейху</p><p>завершился мечеть мулла намаз отправился последовал шейх</p><p>быстро мулла нищим прославиться разбогатеть спросил тебе удалось хитрый шейх</p><p>боясь бывший всем всем губах завершил испугался мулла мулле народ нем обо оставалось очень поведать разоблачить расскажет рассказ свой сказал усмешкой хитрый хозяин шейх шейху</p><p>богатство детеныш думал мечети мечети мулла осел осла похороненного похороненный руками свое своими создал твоей трудом это</p><p>друг друга жирный оба плов поняли посмеявшись стали ха ха</p></body>
-   </text>
-  </TEI>
+      <head>65 Могила святого (таб.) </head>
+      <p>бедного горем думал единственный жил жил жил кому лет муллу мысль нему ночью обычаю однажды осел осенила погребали покойника предпочитали приходили разбогатеть сдох сельчане советом удрученного умирал хитрая хитрый ходил шейх шейха</p>
+      <p>держала жену закопал зубами огорода осла предупредив сдохшего середине шейх язык</p>
+      <p>годекане день заявил народу следующий шейх</p>
+      <p>астафирулла вчера женой заново копали кости кости могилу наткнулись огород положено похоронили сельчане собрали человеческие человеческую</p>
+      <p>кости могилы огороде односельчанин откуда похоронены священные спросил твоем шахиды шейх эй</p>
+      <p>возвращавшегося всем грех действительно должны друг иначе маленьким могила могиле нашем огороде одного ответил отец плиту поставить похоронил поэтому рассказывал святого святого сегодня сельчане хаджа шейх шейха это</p>
+      <p>деньги месте мечеть могиле могильную народ начал небольшую некоторые носить осла оставляли плиту построить садака сдохшего установил шейх</p>
+      <p>большую быстро верующих весть весь вечера вещи выдуманные год дней ждать завещании истории крепость люди люди месте месту мечеть мечеть мир начал начали недели несколько облетела одной округу посетителям построил построил приносить принося прославили разных рассказывал садака садака святом святом святому сел скот сюда течение утра шейх шейх шейх шейха шейхе шли</p>
+      <p>верующим верующих взять грехи день знал каждый коран которые лет мечети могиле могилу могилу молитвы мулла мулла мулла обрадовался обслуживанием обслуживая однажды отпуская охотно попросил посетителей пришел прочел святого святого семи служил служителем согласился справлялся становилось течение читая шейх шейха шейху</p>
+      <p>беда верный вместе возле двинулся день деньгами деньги долгий дороге дороги друг дряхлого думал завершилось завести заработанные караванами коран кричать купцы лет мечтал могилой мулла мулла мулла мулла мулла мулла несчастного одного осел осла осла остановился отправиться переночевать плакать погоревав погребение подарил получив помощью постичь путь разбогатеть решил родника свое сдох седьмой село семь сорокадневный спросили стал такая торговцев увидел увидел утром хозяйство читая шейх шейха</p>
+      <p>могила мулла плачешь почему чья эй эта</p>
+      <p>видел внимания громко громко долго дуа завершения закончил коран корана крикнул купцов мулла мулла начали обращал окружив подняв продолжал руки сторон торговцы фатиха читать читать чтения</p>
+      <p>встречали главный купцов могил могила мулла никаких пор родника сих спросил чья эй это</p>
+      <p>аллах аравии богослужение ведомо возвращавшийся всей громко завещал заплакал идут известен мекки место мечеть мулла мусульмане мусульмане отправил пах повелел погребен покой построить похоронить правоверные приходят пусть пусть святого святое смертью сюда сюда умрет шейх шейху</p>
+      <p>базар ближайший вещи город дня ждать золота караван кое купцов купцы мечеть могиле мулла небольшую немного несколько оставили отправился отрезы помолившись посетителей построил разных распродал садака святого скрылся стал тканей</p>
+      <p>большую верующие верующих весть весь вечера вещи время всем года городе горожане дворец деньги днем дом заговорили зиярату знал людской мечеть минаретами мир могиле могиле мулла мулла недели некоторое ночью обошла покоя построить поток потоком похожий пошли прекращался приносили разбогател резали садака святого святого скот смог течение течение утра</p>
+      <p>аллах бедный верующие весть грехи долетела забывать зиярату идти ка кого местам месте могилу мулла начали нового новом отпустит пора простит путь работал решил святого святом святым собрался содеянное хитрого хитром шейха шейхе шли</p>
+      <p>большой бросился внутрь вокруг вокруг всей главе глаза дворец дворца день добраться долго друг друга известные издалека каково который красивый лет люди могилы могли молились молящихся мулла муллу муллы находившиеся округе очереди попасть простояв пути работал раньше святого седьмой семь сразу стояли увидел удалось удивление узнали хитрому хитрому чалмах час шейх шейха шейхи шейху шейху</p>
+      <p>завершился мечеть мулла намаз отправился последовал шейх</p>
+      <p>быстро мулла нищим прославиться разбогатеть спросил тебе удалось хитрый шейх</p>
+      <p>боясь бывший всем всем губах завершил испугался мулла мулле народ нем обо оставалось очень поведать разоблачить расскажет рассказ свой сказал усмешкой хитрый хозяин шейх шейху</p>
+      <p>богатство детеныш думал мечети мечети мулла осел осла похороненного похороненный руками свое своими создал твоей трудом это</p>
+      <p>друг друга жирный оба плов поняли посмеявшись стали ха ха</p>
+    </body>
+  </text>
+</TEI>

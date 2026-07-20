@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +11,7 @@
               <surname>Barsov</surname>
             </persName>
           </name>
-          <idno/>
+          <idno />
         </author>
         <editor>
           <name xml:id="ED">
@@ -93,8 +91,8 @@
     <profileDesc>
       <langUsage>
         <language ident="rus">
-          <index indexName="iso639-3"/>
-          <ref target="http://www-01.sil.org/iso639-3/codes.asp"/>
+          <index indexName="iso639-3" />
+          <ref target="http://www-01.sil.org/iso639-3/codes.asp" />
         </language>
       </langUsage>
       <textClass>
@@ -113,7 +111,7 @@
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_a">
           <list>
-            <item/>
+            <item />
           </list>
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=attribut_c">
@@ -125,7 +123,7 @@
         </keywords>
         <keywords scheme="http://www.folklore.uni-jena.de/?content=vorurteile">
           <list>
-            <item/>
+            <item />
           </list>
         </keywords>
       </textClass>
@@ -141,16 +139,16 @@
       <particDesc>
         <person role="speaker">
           <persName>
-            <forename/>
-            <surname/>
+            <forename />
+            <surname />
           </persName>
-          <age/>
+          <age />
           <birth>
-            <date/>
+            <date />
             <placeName>
               <country ref="https://www.geonames.org/2017370/russian-federation.html">Russian-Federation</country>
               <region ref="https://www.geonames.org/567293/dagestan.html">Dagestan</region>
-              <district/>
+              <district />
               <settlement ref="https://www.geonames.org/484334/tarki.html">Tarki</settlement>
             </placeName>
           </birth>
@@ -163,24 +161,24 @@
         </person>
         <person role="translator">
           <persName>
-            <forename/>
-            <surname/>
+            <forename />
+            <surname />
           </persName>
         </person>
       </particDesc>
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change/>
+        <change />
       </listChange>
     </revisionDesc>
   </teiHeader>
   <text xml:id="cc_kum_rus_43">
     <body>
       <head>II. Булатъ</head>
-      <p>Жилъ-былъ одинъ человекъ, по имени Булатъ; у него была лошадь; лошадь эту онъ никогда не выпускалъ въ поле. Но однажды, когда табунщикъ гналъ табунъ около его сакли, Булатъ попросилъ табунщика погнать на другой день его лошадь въ поле и сказалъ, чтобы онъ хорошно смотрелъ за нею. Утромъ, табунщикъ, погнавъ табунъ, взялъ лошадь Булата и остановился около одного аула. Когда вечеромъ табунъ возвращался, лошадь Вулата не вернулась. Табунщикъ сказалъ Булату, что лошадь ето осталась въ поле, такъ какъ онъ не могъ пригнать ее обратно. Булатъ взялъ уздечку и пошелъ отыскивать свою лошадь; искалъ онъ ее долго и страшно иззябъ; но, наконецъ, нашелъ ее. Стреноживъ лошадь, онъ забрался въ сенникъ около аула и спрятался въ сене; черезъ несколько времени туда пришли девушка и мужчина; девушка принесла кастрюлю съ пирогомъ, мужчина зажегъ свечу, и начали они есть пирогъ. Вотъ мужчина и говоритъ девушке: &quot;Когда ты полюбила меня?&quot; Девица отвечаетъ: &quot;Я полюбила тебя въ то время, когда ты селъ на лошадь и ударилъ ее кнутомъ.&quot; Потомъ она его спрашиваетъ: &quot;А ты когда полюбилъ меня?&quot; — &quot;Я полюбилъ тебя въ то время, когда, набравъ воды изъ фонтана, ты вскинула кувшинъ на спину.&quot;
+      <p>Жилъ-былъ одинъ человекъ, по имени Булатъ; у него была лошадь; лошадь эту онъ никогда не выпускалъ въ поле. Но однажды, когда табунщикъ гналъ табунъ около его сакли, Булатъ попросилъ табунщика погнать на другой день его лошадь въ поле и сказалъ, чтобы онъ хорошно смотрелъ за нею. Утромъ, табунщикъ, погнавъ табунъ, взялъ лошадь Булата и остановился около одного аула. Когда вечеромъ табунъ возвращался, лошадь Вулата не вернулась. Табунщикъ сказалъ Булату, что лошадь ето осталась въ поле, такъ какъ онъ не могъ пригнать ее обратно. Булатъ взялъ уздечку и пошелъ отыскивать свою лошадь; искалъ онъ ее долго и страшно иззябъ; но, наконецъ, нашелъ ее. Стреноживъ лошадь, онъ забрался въ сенникъ около аула и спрятался въ сене; черезъ несколько времени туда пришли девушка и мужчина; девушка принесла кастрюлю съ пирогомъ, мужчина зажегъ свечу, и начали они есть пирогъ. Вотъ мужчина и говоритъ девушке: "Когда ты полюбила меня?" Девица отвечаетъ: "Я полюбила тебя въ то время, когда ты селъ на лошадь и ударилъ ее кнутомъ." Потомъ она его спрашиваетъ: "А ты когда полюбилъ меня?" — "Я полюбилъ тебя въ то время, когда, набравъ воды изъ фонтана, ты вскинула кувшинъ на спину."
 </p>
-      <p>Окончивъ разговоръ, мужчина селъ на камень, какъ на лошадь, и сказалъ девушке: &quot;Когда я вотъ такъ селъ на лошадь, ты полюбила мена?&quot; Она отвечала: &quot;Да.&quot; 
+      <p>Окончивъ разговоръ, мужчина селъ на камень, какъ на лошадь, и сказалъ девушке: "Когда я вотъ такъ селъ на лошадь, ты полюбила мена?" Она отвечала: "Да." 
 </p>
       <p>После девушка взяла камень и хотела вскинуть его на спину; но Булатъ, спрятавшийся  въ сене, думая, что его хотятъ ударить камнемъ, вынулъ кинжалъ и бросился на нихъ; они убежали и пирогъ остался Булату.
 </p>
