@@ -4,20 +4,22 @@
 ### Über dieses Repositorium
 
 Diese GitHub-Publikation ergänzt die Abhandlungen zum Thema „Vergleichende Märchenforschung“.
-Sie stellt einen digitalen Assistenten zur semiautomatischen Segmentierung von Märchentexten in kleinere Strukturelemente bereit sowie Werkzeuge zur Auswertung und Visualisierung der entsprechend annotierten Textdaten, siehe *Maerchenforschung/Toolbox*
+Sie stellt einen digitalen Assistenten zur semiautomatischen Segmentierung von Märchentexten in kleinere Strukturelemente bereit sowie Werkzeuge zur Auswertung und Visualisierung der entsprechend annotierten Textdaten, siehe *Maerchenforschung/toolbox*
 
 ### Forschungsdaten
 
-Das Repositorium enthält im XML-Format (teiCorpus) erfasste und für die Annotation aufbereitete Forschungsdaten. Diese sind ebenfalls im Ordner Maerchenforschung/Toolbox abgelegt.
+Das Repositorium enthält im XML-Format (teiCorpus) erfasste und für die Annotation aufbereitete Forschungsdaten. Diese sind ebenfalls im Ordner Maerchenforschung/toolbox abgelegt.
   
 Darüber hinaus wird eine kontinuierlich wachsende Sammlung basaler XML-Textdaten gepflegt. Diese umfasst volkskundliche Märchentexte aus den Repertoires zahlreicher großer und kleiner Erzählgemeinschaften.
-Die Texte sind im Ordner *Maerchenforschung/Textkorpus* nach ihren Herkunftsorten systematisiert.
+Die Texte sind im Ordner *Maerchenforschung/textsammlung* nach ihren Herkunftsorten systematisiert.
 Die Benennung der Systemelemente folgt:
 - den *ISO-639-3*-Sprachcodes, sofern die Sprache als Identifikationsmerkmal dient,
-- andernfalls den Ländercodes nach *ISO-3166-2*.
+- andernfalls den Ländercodes nach *ISO-3166*.
 
 Texte mit eingeschränkten Lizenzbedingungen werden in abgeleiteter Textform veröffentlicht und in den Dateinamen durch die Zeichenkette _cr_ gekennzeichnet.
-Texte mit uneingeschränkten Lizenzbedingungen sind entsprechend mit _cc_ markiert.
+Texte mit uneingeschränkten Lizenzbedingungen sind entsprechend mit _cc_ markiert. 
+
+Die Primärquellen der abgeleiteten Texte sind auf Anfrage über den Betreiber des Repositoriums erhältlich.
 
 ### Werkzeuge 
 **erthaos-23** ist ein digitales Analysewerkzeug zur semiautomatisierten Identifikation narrativer Motive in Märchentexten. Es unterstützt die Annotation inhaltlicher Eigenschaften der Texte auf der Motiv- und Episodenebene.
