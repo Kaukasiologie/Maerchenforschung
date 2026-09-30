@@ -6,7 +6,7 @@
 from collections import defaultdict
 import xml.etree.ElementTree as ET
 
-from hilfsfunktoinen import (
+from hilfsfunktoinen_lok import (
     sortiere_dana,
     lade_referenz_liste_aus_xsd
 )
@@ -72,9 +72,9 @@ def extrahiere_zeilen(root, text_ids, referenz_liste, NS, typ_name=None):
             if not labela.startswith('a'):
                 continue
 
-            labelbs = [seg.attrib.get(label_url(f'b{i}'), 'N') for i in range(1, 6)]
-            labelcs = [seg.attrib.get(label_url(f'c{i}'), 'N') for i in range(1, 6)]
-            labelds = [seg.attrib.get(label_url(f'd{i}'), 'N') for i in range(1, 6)]
+            labelbs = [seg.attrib.get(label_url(f'b{i}'), 'N') for i in range(1, 10)]
+            labelcs = [seg.attrib.get(label_url(f'c{i}'), 'N') for i in range(1, 10)]
+            labelds = [seg.attrib.get(label_url(f'd{i}'), 'N') for i in range(1, 8)]
 
             dana = '_'.join(labelds).replace('_N', '')
             try:
@@ -152,7 +152,7 @@ def zusammenfassung_notebook(Repertoire=None, Gesuchter_Typ=None):
             output.append(f"  {replacement_dict.get(la, la)}\n")
 
         if labela_set:
-            output.append('-' * (6 + len(tid)) + "\n")
+            output.append('-' * (10 + len(tid)) + "\n")
 
         treffer = daten.get(tid)
 

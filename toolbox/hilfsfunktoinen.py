@@ -1,4 +1,5 @@
 from typing import Tuple
+from logger import log, LogType
 import xml.etree.ElementTree as ET
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
@@ -9,20 +10,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import TfidfVectorizer
 from pathlib import Path
 import json
-import sonderzeichen
-
-
-with open("anpassen.json", "r") as f:
-    config = json.load(f)
-
-language = config["language"]
-max_words = config["PARAM_MAX_WORDS"]
-trigger_length = config["PARAM_TRIGGER_LENGTH"]
-
-def sonderzeichen_entfernen(text: str, special_characters) -> str:
-    func_name = f"sonderzeichen_entfernen_{language}"
-    func = getattr(sonderzeichen, func_name)
-    return func(text, special_characters)
 
 
 ################################################################################
@@ -84,23 +71,12 @@ def sonderzeichen_entfernen_old(text: str):
     return res
 
 
-def sonderzeichen_entfernen_neu(text: str, sonderzeichen_ersatz_paare):
-
-    res = text.lower().strip()
-    if sonderzeichen_ersatz_paare:
-        for old, new in sonderzeichen_ersatz_paare:
-            res = res.replace(old, new)
-
-    while res.endswith(' '):
-        res = res[:-1]
-    return res
-
-
 def parse_xml_kern(tei, namespace, referenz_liste, parse_labels, special_charachters):
-    LABELS = ['a', 'b1', 'b2', 'b3', 'b4', 'b5', 'c1', 'c2',
-              'c3', 'c4', 'c5', 'd1', 'd2', 'd3', 'd4', 'd5']
+    LABELS = ['a', 'b1', 'b2', 'b3', 'b4', 'b5', 'b6','b7','b8','b9', 'c1', 'c2',
+              'c3', 'c4', 'c5', 'c6', 'c7', 'c8', 'c9', 'd1', 'd2', 'd3', 'd4', 'd5', 'd6', 'd7']
     LABEL_PAAR_KEY_LISTE = [['b1', 'c1'], ['b2', 'c2'],
-                            ['b3', 'c3'], ['b4', 'c4'], ['b5', 'c5']]
+                            ['b3', 'c3'], ['b4', 'c4'], ['b5', 'c5'],
+						    ['b6', 'c6'], ['b7', 'c7'], ['b8', 'c8'], ['b9', 'c9']]
     maerchen = ''
     for ganze in tei.findall(".//tei:text", namespace):
         quelle = ganze.attrib.get(
@@ -123,8 +99,8 @@ def parse_xml_kern(tei, namespace, referenz_liste, parse_labels, special_charach
                             continue
 
                         dana = f"{label_dict['d1']}_{label_dict['d2']}_"
-                        dana += f"{label_dict['d3']}_{label_dict['d4']}_"
-                        dana += f"{label_dict['d5']}"
+                        dana += f"{label_dict['d3']}_{label_dict['d4']}_{label_dict['d5']}_{label_dict['d6']}_"
+                        dana += f"{label_dict['d7']}"
 
                         try:
                             sortierte_dana = sortiere_dana(
@@ -181,59 +157,27 @@ def parse_xml(root_node, namespace, referenz_liste, special_charachters,
 
     return maerchen
 
+###############################################################################
+# ########################## Daten preparieren ################################
+###############################################################################
+def load_json_safely(config_file_name: str | Path, safe_return=[{}]):
+    try:
+        with open(config_file_name, "r") as config_file:
+            config = json.load(config_file)
+
+    except FileNotFoundError as e:
+        log(f"File could not be found! Returning empty json: {e}",
+            log_type=LogType.Error)
+        return safe_return
+
+    return config
 
 
-# ###############################################################################
-# # ########################## XML Segment Split ################################
-# ###############################################################################
-
-def split_long_segments(root, namespace,
-                        max_words = max_words,
-                        trigger_length = trigger_length):
-
-    for p in root.findall(".//tei:text/tei:body/tei:p", namespace):
-
-        original_segments = list(p.findall("tei:seg", namespace))
-
-        for seg in original_segments:
-
-            # Namespace-unabhängige Suche nach a:ana
-            ana_value = None
-            for key in seg.attrib:
-                if key.endswith("ana") and "vmf/a" in key:
-                    ana_value = seg.attrib[key]
-                    break
-
-            if ana_value != "N":
-                continue
-
-            if not seg.text:
-                continue
-
-            words = seg.text.split()
-
-            if len(words) <= trigger_length:
-                continue
-
-            index = list(p).index(seg)
-            p.remove(seg)
-
-            start = 0
-            while start < len(words):
-
-                end = start + max_words
-                chunk = words[start:end]
-
-                new_seg = ET.Element(seg.tag, seg.attrib.copy())
-                new_seg.text = " ".join(chunk)
-
-                p.insert(index, new_seg)
-
-                index += 1
-                start = end
-
-    return root
-
+def gesuchte_episoden_labeln(gesuchte_episode_list, df: pd.DataFrame):
+    for gesuchte_episode in gesuchte_episode_list:
+        for idx, index_string in zip(df.index, df.index_string):
+            if gesuchte_episode in index_string:
+                df.loc[idx, 'index_binar'] = 1
 
 ###############################################################################
 # ########################## Machine learning #################################
